@@ -248,51 +248,45 @@
           </div>
         </a>
 
-        <!-- 카드 2 -->
-        <a href="#" class="card fade-in">
-          <div class="card__thumb thumb--news">
-            <div class="news">
-              <div class="news__img"></div>
-              <div class="news__text">
-                <strong>요즘 집 구매자가 리모델링에서 원하는 것</strong>
-                <small>remodelista.com<br />2분 전</small>
+        <!-- 카드 2: 핵심 경제 뉴스 (news.json에서 불러옴) -->
+        <button type="button" class="card card--news fade-in" id="newsCard" aria-haspopup="dialog">
+          <div class="card__thumb thumb--econ">
+            <div class="econ" id="econPreview" aria-live="polite">
+              <div class="econ__head">
+                <span class="econ__live">핵심</span>
+                <span class="econ__rank" id="econRank">경제 뉴스</span>
               </div>
-              <div class="news__meta">
-                <span>♥<br />123</span>
-                <span>💬<br />11</span>
-              </div>
+              <strong class="econ__title" id="econTitle">뉴스를 불러오는 중...</strong>
+              <small class="econ__meta" id="econMeta"></small>
+              <div class="econ__dots" id="econDots"></div>
             </div>
           </div>
           <div class="card__body">
-            <h3>인테리어 디자인 뉴스 피드</h3>
-            <p>사이드 프로젝트</p>
+            <h3>오늘의 핵심 경제 뉴스</h3>
+            <p id="newsUpdated">중요도 순으로 정리</p>
           </div>
-        </a>
+        </button>
 
-        <!-- 카드 3 -->
-        <a href="#" class="card fade-in">
-          <div class="card__thumb thumb--map">
-           <div class="map__box">
-            <svg class="map" viewBox="0 0 200 110" aria-hidden="true">
-              <!-- 한반도 -->
-              <path d="M66 20 L74 16 L84 12 L96 7 L108 5 L120 3 L128 2 L126 8 L120 14 L113 22 L110 29 L104 33 L106 38 L112 44 L117 52 L121 61 L123 71 L122 80 L118 88 L113 92 L106 93 L100 96 L93 95 L87 97 L83 92 L85 85 L83 78 L86 71 L82 64 L85 58 L81 52 L83 46 L77 41 L73 35 L69 30 L64 26 Z" fill="#fff" />
-              <!-- 제주도, 울릉도, 독도 -->
-              <ellipse cx="91" cy="105" rx="6" ry="2.6" fill="#fff" />
-              <circle cx="140" cy="54" r="1.6" fill="#fff" />
-              <circle cx="152" cy="56" r="0.9" fill="#fff" />
-            </svg>
-            <div class="pin">
-              <div class="pin__tip">최저*<br /><b>100,000</b> 포인트</div>
-              <span class="pin__dot">65</span>
+        <!-- 카드 3: 서울 날씨 (Open-Meteo에서 실시간으로 불러옴) -->
+        <button type="button" class="card card--weather fade-in" id="weatherCard" aria-haspopup="dialog">
+          <div class="card__thumb thumb--weather" id="weatherThumb">
+            <div class="wx" aria-live="polite">
+              <div class="wx__main">
+                <span class="wx__icon" id="wxIcon" aria-hidden="true">⏳</span>
+                <span class="wx__temp" id="wxTemp">--°</span>
+              </div>
+              <div class="wx__info">
+                <strong id="wxCond">날씨를 불러오는 중...</strong>
+                <span id="wxRange"></span>
+                <span id="wxExtra"></span>
+              </div>
             </div>
-            <span class="map__label">대한민국</span>
-           </div>
           </div>
           <div class="card__body">
-            <h3>한국 지도 검색</h3>
-            <p>웹사이트 디자인</p>
+            <h3>서울 날씨</h3>
+            <p id="weatherUpdated">실시간 날씨와 7일 예보</p>
           </div>
-        </a>
+        </button>
       </div>
     </div>
   </section>
@@ -317,6 +311,33 @@
       </div>
     </div>
   </footer>
+
+  <!-- 경제 뉴스 전체 목록 -->
+  <dialog class="news-modal" id="newsModal" aria-labelledby="newsModalTitle">
+    <div class="news-modal__head">
+      <div>
+        <h2 id="newsModalTitle">오늘의 핵심 경제 뉴스</h2>
+        <p class="news-modal__sub" id="newsModalSub"></p>
+      </div>
+      <button type="button" class="news-modal__close" id="newsClose" aria-label="닫기">✕</button>
+    </div>
+    <div class="news-filter" id="newsFilter" role="group" aria-label="분야 선택"></div>
+    <ol class="news-list" id="newsList"></ol>
+    <p class="news-modal__note">연합뉴스·한국경제 경제 기사를 금리·환율·증시·물가 등 핵심 키워드와 보도량으로 골랐어요. 기사를 누르면 언론사 사이트로 이동해요.</p>
+  </dialog>
+
+  <!-- 서울 날씨 상세 -->
+  <dialog class="news-modal weather-modal" id="weatherModal" aria-labelledby="weatherModalTitle">
+    <div class="news-modal__head">
+      <div>
+        <h2 id="weatherModalTitle">서울 날씨</h2>
+        <p class="news-modal__sub" id="weatherModalSub"></p>
+      </div>
+      <button type="button" class="news-modal__close" id="weatherClose" aria-label="닫기">✕</button>
+    </div>
+    <div class="weather-modal__body" id="weatherBody"></div>
+    <p class="news-modal__note">날씨 정보: Open-Meteo · 10분마다 자동으로 새로 불러와요.</p>
+  </dialog>
 
   <script src="script.js"></script>
 </body>

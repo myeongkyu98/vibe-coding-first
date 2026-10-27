@@ -293,3 +293,326 @@ document.getElementById("logoutBtn").addEventListener("click", () => {
 const session = getSession();
 const sessionUser = session && findUser(session.email);
 if (sessionUser) showWelcome(sessionUser);
+
+// ===== 오늘의 핵심 경제 뉴스 =====
+// news.json은 scripts/fetch-news.mjs가 만들어요 (GitHub Actions가 매시간 갱신).
+const newsCard = document.getElementById("newsCard");
+const newsModal = document.getElementById("newsModal");
+const newsList = document.getElementById("newsList");
+const newsFilter = document.getElementById("newsFilter");
+const econPreview = document.getElementById("econPreview");
+
+let newsItems = [];
+let newsFilterTag = "전체";
+let previewIndex = 0;
+let previewTimer = null;
+
+function timeAgo(iso) {
+  const min = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (min < 1) return "방금 전";
+  if (min < 60) return `${min}분 전`;
+  if (min < 60 * 24) return `${Math.floor(min / 60)}시간 전`;
+  return `${Math.floor(min / 1440)}일 전`;
+}
+
+// 텍스트로만 넣어서 기사 제목에 HTML이 섞여도 안전하게
+function el(tag, props = {}, children = []) {
+  const node = Object.assign(document.createElement(tag), props);
+  node.append(...children);
+  return node;
+}
+
+// 카드 미리보기: 상위 5개 기사를 번갈아 보여주기
+function showPreview(i) {
+  const top = newsItems.slice(0, 5);
+  const item = top[i];
+  econPreview.classList.add("fade");
+  setTimeout(() => {
+    document.getElementById("econRank").textContent = `중요도 ${i + 1}위`;
+    document.getElementById("econTitle").textContent = item.title;
+    document.getElementById("econMeta").textContent = `${item.source} · ${timeAgo(item.date)} · ${item.tags.join(" · ")}`;
+    document.querySelectorAll("#econDots span").forEach((d, n) => d.classList.toggle("on", n === i));
+    econPreview.classList.remove("fade");
+  }, 250);
+}
+
+function startPreview() {
+  const count = Math.min(newsItems.length, 5);
+  document.getElementById("econDots").replaceChildren(...Array.from({ length: count }, () => el("span")));
+  showPreview(0);
+  clearInterval(previewTimer);
+  // 움직임 줄이기 설정을 켠 사용자에게는 자동으로 넘기지 않음
+  if (count > 1 && !matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    previewTimer = setInterval(() => {
+      previewIndex = (previewIndex + 1) % count;
+      showPreview(previewIndex);
+    }, 5000);
+  }
+}
+
+function renderFilter() {
+  const tags = ["전체", ...new Set(newsItems.flatMap((n) => n.tags))];
+  newsFilter.replaceChildren(
+    ...tags.map((tag) => {
+      const btn = el("button", { type: "button", textContent: tag });
+      btn.setAttribute("aria-pressed", tag === newsFilterTag);
+      btn.addEventListener("click", () => {
+        newsFilterTag = tag;
+        renderFilter();
+        renderList();
+      });
+      return btn;
+    })
+  );
+}
+
+function renderList() {
+  const items = newsFilterTag === "전체" ? newsItems : newsItems.filter((n) => n.tags.includes(newsFilterTag));
+  newsList.replaceChildren(
+    ...items.map((n, i) =>
+      el("li", {}, [
+        el("a", { href: n.link, target: "_blank", rel: "noopener noreferrer" }, [
+          el("span", { className: "news-list__rank", textContent: i + 1 }),
+          el("span", {}, [
+            el("span", { className: "news-list__title", textContent: n.title }),
+            el("span", { className: "news-list__meta" }, [
+              ...n.tags.map((t) => el("span", { className: "tag", textContent: t })),
+              `${n.source} · ${timeAgo(n.date)}`,
+            ]),
+          ]),
+        ]),
+      ])
+    )
+  );
+}
+
+function showNewsError() {
+  document.getElementById("econRank").textContent = "경제 뉴스";
+  document.getElementById("econTitle").textContent = "뉴스를 불러오지 못했어요.";
+  document.getElementById("econMeta").textContent = "눌러서 다시 시도";
+  newsFilter.replaceChildren();
+  const retry = el("button", { type: "button", textContent: "다시 시도" });
+  retry.addEventListener("click", loadNews);
+  newsList.replaceChildren(
+    el("li", { className: "news-list__empty" }, [
+      "뉴스를 불러오지 못했어요. 인터넷 연결을 확인해 주세요.",
+      el("br"),
+      retry,
+    ])
+  );
+}
+
+async function loadNews() {
+  try {
+    const res = await fetch(`news.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    newsItems = data.items || [];
+    if (!newsItems.length) throw new Error("empty");
+
+    const updated = `${timeAgo(data.updatedAt)} 업데이트 · 중요도 순`;
+    document.getElementById("newsUpdated").textContent = updated;
+    document.getElementById("newsModalSub").textContent = updated;
+    startPreview();
+    renderFilter();
+    renderList();
+  } catch {
+    showNewsError();
+  }
+}
+
+newsCard.addEventListener("click", () => {
+  if (!newsItems.length) loadNews();
+  newsModal.showModal();
+});
+document.getElementById("newsClose").addEventListener("click", () => newsModal.close());
+// 바깥(어두운 배경)을 누르면 닫기
+newsModal.addEventListener("click", (e) => {
+  if (e.target === newsModal) newsModal.close();
+});
+
+loadNews();
+
+// ===== 서울 날씨 =====
+// Open-Meteo: 무료이고 API 키가 필요 없어요.
+const SEOUL = { lat: 37.5665, lon: 126.978 };
+const WEATHER_URL =
+  "https://api.open-meteo.com/v1/forecast" +
+  `?latitude=${SEOUL.lat}&longitude=${SEOUL.lon}` +
+  "&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m,precipitation,is_day" +
+  "&hourly=temperature_2m,weather_code,precipitation_probability,is_day" +
+  "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max" +
+  "&wind_speed_unit=ms&timezone=Asia%2FSeoul&forecast_days=7";
+const AIR_URL =
+  "https://air-quality-api.open-meteo.com/v1/air-quality" +
+  `?latitude=${SEOUL.lat}&longitude=${SEOUL.lon}&current=pm10,pm2_5&timezone=Asia%2FSeoul`;
+
+const weatherCard = document.getElementById("weatherCard");
+const weatherModal = document.getElementById("weatherModal");
+const weatherBody = document.getElementById("weatherBody");
+let weatherData = null;
+
+// WMO 날씨 코드 → [설명, 낮 아이콘, 밤 아이콘, 배경]
+function describeWeather(code) {
+  if (code === 0) return ["맑음", "☀️", "🌙", "clear"];
+  if (code === 1) return ["대체로 맑음", "🌤️", "🌙", "clear"];
+  if (code === 2) return ["구름 조금", "⛅", "☁️", "cloudy"];
+  if (code === 3) return ["흐림", "☁️", "☁️", "cloudy"];
+  if (code === 45 || code === 48) return ["안개", "🌫️", "🌫️", "cloudy"];
+  if (code >= 51 && code <= 57) return ["이슬비", "🌦️", "🌧️", "rain"];
+  if (code >= 61 && code <= 67) return ["비", "🌧️", "🌧️", "rain"];
+  if (code >= 71 && code <= 77) return ["눈", "🌨️", "🌨️", "snow"];
+  if (code >= 80 && code <= 82) return ["소나기", "🌦️", "🌧️", "rain"];
+  if (code === 85 || code === 86) return ["소낙눈", "🌨️", "🌨️", "snow"];
+  if (code >= 95) return ["뇌우", "⛈️", "⛈️", "rain"];
+  return ["알 수 없음", "🌡️", "🌡️", "cloudy"];
+}
+const weatherIcon = (code, isDay = 1) => describeWeather(code)[isDay ? 1 : 2];
+
+// 미세먼지 등급 (환경부 기준)
+function airGrade(value, [good, normal, bad]) {
+  if (value == null) return null;
+  if (value <= good) return "좋음";
+  if (value <= normal) return "보통";
+  if (value <= bad) return "나쁨";
+  return "매우나쁨";
+}
+
+const round = (n) => Math.round(n);
+const DAY_NAMES = ["일", "월", "화", "수", "목", "금", "토"];
+
+function renderWeatherCard({ current, daily }, air) {
+  const [cond, , , theme] = describeWeather(current.weather_code);
+  const thumb = document.getElementById("weatherThumb");
+  thumb.className = `card__thumb thumb--weather is-${current.is_day ? theme : "night"}`;
+  document.getElementById("wxIcon").textContent = weatherIcon(current.weather_code, current.is_day);
+  document.getElementById("wxTemp").textContent = `${round(current.temperature_2m)}°`;
+  document.getElementById("wxCond").textContent = `서울 · ${cond}`;
+  document.getElementById("wxRange").textContent =
+    `최고 ${round(daily.temperature_2m_max[0])}° / 최저 ${round(daily.temperature_2m_min[0])}° · 체감 ${round(current.apparent_temperature)}°`;
+  const pm = air && airGrade(air.pm10, [30, 80, 150]);
+  document.getElementById("wxExtra").textContent =
+    `습도 ${current.relative_humidity_2m}% · 바람 ${current.wind_speed_10m.toFixed(1)}m/s` + (pm ? ` · 미세먼지 ${pm}` : "");
+}
+
+function stat(label, value, className = "") {
+  return el("div", { className: "wd-stat" }, [el("small", { textContent: label }), el("b", { textContent: value, className })]);
+}
+
+function renderWeatherDetail({ current, hourly, daily }, air) {
+  const [cond] = describeWeather(current.weather_code);
+  const pm10 = air && airGrade(air.pm10, [30, 80, 150]);
+  const pm25 = air && airGrade(air.pm2_5, [15, 35, 75]);
+
+  // 지금부터 24시간 (3시간 간격)
+  const nowIdx = Math.max(0, hourly.time.findIndex((t) => t >= current.time.slice(0, 13)));
+  const hours = [];
+  for (let i = nowIdx; i < Math.min(nowIdx + 24, hourly.time.length); i += 3) {
+    const rain = hourly.precipitation_probability[i];
+    hours.push(
+      el("div", { className: "wd-hour" }, [
+        i === nowIdx ? "지금" : `${Number(hourly.time[i].slice(11, 13))}시`,
+        el("span", { textContent: weatherIcon(hourly.weather_code[i], hourly.is_day[i]) }),
+        el("b", { textContent: `${round(hourly.temperature_2m[i])}°` }),
+        el("small", { textContent: rain >= 20 ? `💧${rain}%` : "" }),
+      ])
+    );
+  }
+
+  // 7일 예보: 주간 최저~최고 범위 안에서 막대 위치 계산
+  const lo = Math.min(...daily.temperature_2m_min);
+  const hi = Math.max(...daily.temperature_2m_max);
+  const pct = (t) => ((t - lo) / (hi - lo || 1)) * 100;
+  const days = daily.time.map((date, i) => {
+    const weekday = new Date(`${date}T12:00:00Z`).getUTCDay();
+    const min = daily.temperature_2m_min[i];
+    const max = daily.temperature_2m_max[i];
+    const rain = daily.precipitation_probability_max[i];
+    const bar = el("i");
+    bar.style.left = `${pct(min)}%`;
+    bar.style.right = `${100 - pct(max)}%`;
+    return el("li", { className: "wd-day" }, [
+      el("span", { className: "wd-day__name", textContent: i === 0 ? "오늘" : `${DAY_NAMES[weekday]}요일` }),
+      el("span", { className: "wd-day__icon", textContent: weatherIcon(daily.weather_code[i]) }),
+      el("span", { className: "wd-day__rain", textContent: rain >= 20 ? `💧${rain}%` : "" }),
+      el("span", { className: "wd-day__range" }, [
+        `${round(min)}°`,
+        el("span", { className: "wd-bar" }, [bar]),
+        el("b", { textContent: `${round(max)}°` }),
+      ]),
+    ]);
+  });
+
+  weatherBody.replaceChildren(
+    el("div", { className: "wd-now" }, [
+      el("span", { className: "wd-now__icon", textContent: weatherIcon(current.weather_code, current.is_day) }),
+      el("span", { className: "wd-now__temp", textContent: `${round(current.temperature_2m)}°` }),
+      el("div", { className: "wd-now__desc" }, [
+        el("strong", { textContent: cond }),
+        el("br"),
+        `최고 ${round(daily.temperature_2m_max[0])}° / 최저 ${round(daily.temperature_2m_min[0])}°`,
+      ]),
+    ]),
+    el("div", { className: "wd-stats" }, [
+      stat("체감", `${round(current.apparent_temperature)}°`),
+      stat("습도", `${current.relative_humidity_2m}%`),
+      stat("바람", `${current.wind_speed_10m.toFixed(1)}m/s`),
+      pm10 ? stat("미세먼지", pm10, `aq-${pm10}`) : stat("강수량", `${current.precipitation}mm`),
+    ]),
+    ...(pm25 ? [el("p", { className: "wd-air", textContent: `초미세먼지 ${pm25} (${round(air.pm2_5)}㎍/㎥) · 미세먼지 ${round(air.pm10)}㎍/㎥` })] : []),
+    el("h3", { className: "wd-title", textContent: "시간별 예보" }),
+    el("div", { className: "wd-hours" }, hours),
+    el("h3", { className: "wd-title", textContent: "7일 예보" }),
+    el("ol", { className: "wd-days" }, days)
+  );
+}
+
+function showWeatherError() {
+  document.getElementById("weatherThumb").className = "card__thumb thumb--weather is-error";
+  document.getElementById("wxIcon").textContent = "⚠️";
+  document.getElementById("wxTemp").textContent = "--°";
+  document.getElementById("wxCond").textContent = "날씨를 불러오지 못했어요.";
+  document.getElementById("wxRange").textContent = "눌러서 다시 시도";
+  document.getElementById("wxExtra").textContent = "";
+  const retry = el("button", { type: "button", textContent: "다시 시도" });
+  retry.addEventListener("click", loadWeather);
+  weatherBody.replaceChildren(
+    el("div", { className: "wd-error" }, ["날씨를 불러오지 못했어요. 인터넷 연결을 확인해 주세요.", el("br"), retry])
+  );
+}
+
+async function loadWeather() {
+  try {
+    const [res, air] = await Promise.all([
+      fetch(WEATHER_URL),
+      // 미세먼지는 실패해도 날씨는 보여주기
+      fetch(AIR_URL)
+        .then((r) => (r.ok ? r.json() : null))
+        .then((j) => j?.current ?? null)
+        .catch(() => null),
+    ]);
+    if (!res.ok) throw new Error(res.status);
+    weatherData = await res.json();
+
+    renderWeatherCard(weatherData, air);
+    renderWeatherDetail(weatherData, air);
+    const time = new Date().toLocaleTimeString("ko-KR", { hour: "numeric", minute: "2-digit" });
+    document.getElementById("weatherUpdated").textContent = `${time} 기준 · 눌러서 7일 예보 보기`;
+    document.getElementById("weatherModalSub").textContent = `${time} 기준`;
+  } catch {
+    weatherData = null;
+    showWeatherError();
+  }
+}
+
+weatherCard.addEventListener("click", () => {
+  if (!weatherData) loadWeather();
+  weatherModal.showModal();
+});
+document.getElementById("weatherClose").addEventListener("click", () => weatherModal.close());
+weatherModal.addEventListener("click", (e) => {
+  if (e.target === weatherModal) weatherModal.close();
+});
+
+loadWeather();
+setInterval(loadWeather, 10 * 60 * 1000);
