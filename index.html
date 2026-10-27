@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Designer & Coder Portfolio</title>
+  <title>황명규 포트폴리오</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Open+Sans+Condensed:wght@700&display=swap" rel="stylesheet" />
@@ -23,11 +23,11 @@
       </a>
 
       <nav class="nav" id="nav">
-        <a href="#about">about</a>
-        <a href="#work">featured</a>
-        <a href="#work">portfolio</a>
-        <a href="#">blog</a>
-        <a href="#contact">contact</a>
+        <a href="#about">소개</a>
+        <a href="#work">추천작</a>
+        <a href="#work">포트폴리오</a>
+        <a href="#">블로그</a>
+        <a href="#contact">연락처</a>
       </nav>
 
       <div class="social">
@@ -140,14 +140,14 @@
             <label for="password">비밀번호</label>
             <div class="field__pw">
               <input type="password" id="password" name="password" placeholder="비밀번호 입력" autocomplete="current-password" minlength="6" required />
-              <button type="button" class="pw-toggle" id="pwToggle" aria-label="비밀번호 보기">보기</button>
+              <button type="button" class="pw-toggle" aria-label="비밀번호 보기">보기</button>
             </div>
             <span class="field__msg"></span>
           </div>
 
           <div class="login__row">
             <label class="check">
-              <input type="checkbox" name="remember" />
+              <input type="checkbox" name="remember" id="remember" />
               <span>로그인 유지</span>
             </label>
             <a href="#" class="login__link">비밀번호 찾기</a>
@@ -157,8 +157,64 @@
 
           <p class="login__status" id="loginStatus" role="status"></p>
 
-          <p class="login__foot">계정이 없으신가요? <a href="#" class="login__link">회원가입</a></p>
+          <p class="login__foot">계정이 없으신가요? <a href="#" class="login__link" data-show="signupForm">회원가입</a></p>
         </form>
+
+        <!-- 회원가입 폼 -->
+        <form class="login" id="signupForm" novalidate hidden>
+          <h2 class="login__title">회원가입</h2>
+          <p class="login__desc">간단한 정보로 계정을 만들어 보세요.</p>
+
+          <div class="field">
+            <label for="suName">이름</label>
+            <input type="text" id="suName" name="name" placeholder="홍길동" autocomplete="name" maxlength="20" required />
+            <span class="field__msg"></span>
+          </div>
+
+          <div class="field">
+            <label for="suEmail">이메일</label>
+            <input type="email" id="suEmail" name="email" placeholder="example@email.com" autocomplete="email" inputmode="email" required />
+            <span class="field__msg"></span>
+          </div>
+
+          <div class="field">
+            <label for="suPassword">비밀번호</label>
+            <div class="field__pw">
+              <input type="password" id="suPassword" name="password" placeholder="영문+숫자 8자 이상" autocomplete="new-password" required />
+              <button type="button" class="pw-toggle" aria-label="비밀번호 보기">보기</button>
+            </div>
+            <span class="field__msg"></span>
+          </div>
+
+          <div class="field">
+            <label for="suPassword2">비밀번호 확인</label>
+            <div class="field__pw">
+              <input type="password" id="suPassword2" name="password2" placeholder="비밀번호 다시 입력" autocomplete="new-password" required />
+              <button type="button" class="pw-toggle" aria-label="비밀번호 보기">보기</button>
+            </div>
+            <span class="field__msg"></span>
+          </div>
+
+          <div class="field field--check">
+            <label class="check">
+              <input type="checkbox" id="suAgree" name="agree" />
+              <span>이용약관 및 개인정보 처리에 동의합니다</span>
+            </label>
+            <span class="field__msg"></span>
+          </div>
+
+          <button type="submit" class="login__btn">가입하기</button>
+
+          <p class="login__foot">이미 계정이 있으신가요? <a href="#" class="login__link" data-show="loginForm">로그인</a></p>
+        </form>
+
+        <!-- 로그인 후 화면 -->
+        <div class="login login--welcome" id="welcomePanel" hidden>
+          <div class="welcome__avatar" id="welcomeAvatar" aria-hidden="true"></div>
+          <h2 class="login__title" id="welcomeTitle"></h2>
+          <p class="login__desc" id="welcomeEmail"></p>
+          <button type="button" class="login__btn login__btn--ghost" id="logoutBtn">로그아웃</button>
+        </div>
       </div>
     </div>
   </section>
@@ -166,7 +222,7 @@
   <!-- ===== 작업물 ===== -->
   <section class="work" id="work">
     <div class="container">
-      <h2 class="section-title"><span>Some of my latest work</span></h2>
+      <h2 class="section-title"><span>최근 작업물</span></h2>
 
       <div class="cards">
         <!-- 카드 1 -->
@@ -176,19 +232,19 @@
               <div class="match__head">
                 <span class="match__icon">🏉</span>
                 <div>
-                  <strong>Canberra vs South Sydney</strong>
-                  <small>11 May, 8:00PM, 120 markets</small>
+                  <strong>울산 vs 전북</strong>
+                  <small>5월 11일 오후 8:00 · 120개 마켓</small>
                 </div>
               </div>
               <div class="match__odds">
-                <div class="odd"><span class="badge badge--green"></span><div><b>Canberra</b><em>1.52</em></div></div>
-                <div class="odd"><span class="badge badge--red"></span><div><b>South</b><em>2.32</em></div></div>
+                <div class="odd"><span class="badge badge--green"></span><div><b>울산</b><em>1.52</em></div></div>
+                <div class="odd"><span class="badge badge--red"></span><div><b>전북</b><em>2.32</em></div></div>
               </div>
             </div>
           </div>
           <div class="card__body">
-            <h3>Creating a lean design system</h3>
-            <p>William Hill</p>
+            <h3>가볍고 단단한 디자인 시스템 만들기</h3>
+            <p>윌리엄 힐</p>
           </div>
         </a>
 
@@ -198,8 +254,8 @@
             <div class="news">
               <div class="news__img"></div>
               <div class="news__text">
-                <strong>What today's home buyer wants from their renovation</strong>
-                <small>remodelista.com<br />2 mins ago</small>
+                <strong>요즘 집 구매자가 리모델링에서 원하는 것</strong>
+                <small>remodelista.com<br />2분 전</small>
               </div>
               <div class="news__meta">
                 <span>♥<br />123</span>
@@ -208,27 +264,33 @@
             </div>
           </div>
           <div class="card__body">
-            <h3>Interior design news feed</h3>
-            <p>Side project</p>
+            <h3>인테리어 디자인 뉴스 피드</h3>
+            <p>사이드 프로젝트</p>
           </div>
         </a>
 
         <!-- 카드 3 -->
         <a href="#" class="card fade-in">
           <div class="card__thumb thumb--map">
+           <div class="map__box">
             <svg class="map" viewBox="0 0 200 110" aria-hidden="true">
-              <path d="M40 40 L70 22 L95 30 L110 18 L130 30 L150 28 L165 55 L160 80 L140 95 L110 90 L90 98 L70 85 L45 80 L35 60 Z" fill="#fff" />
-              <path d="M150 100 L158 100 L156 108 L150 106 Z" fill="#fff" />
+              <!-- 한반도 -->
+              <path d="M66 20 L74 16 L84 12 L96 7 L108 5 L120 3 L128 2 L126 8 L120 14 L113 22 L110 29 L104 33 L106 38 L112 44 L117 52 L121 61 L123 71 L122 80 L118 88 L113 92 L106 93 L100 96 L93 95 L87 97 L83 92 L85 85 L83 78 L86 71 L82 64 L85 58 L81 52 L83 46 L77 41 L73 35 L69 30 L64 26 Z" fill="#fff" />
+              <!-- 제주도, 울릉도, 독도 -->
+              <ellipse cx="91" cy="105" rx="6" ry="2.6" fill="#fff" />
+              <circle cx="140" cy="54" r="1.6" fill="#fff" />
+              <circle cx="152" cy="56" r="0.9" fill="#fff" />
             </svg>
             <div class="pin">
-              <div class="pin__tip">From*<br /><b>100,000</b> PTS</div>
+              <div class="pin__tip">최저*<br /><b>100,000</b> 포인트</div>
               <span class="pin__dot">65</span>
             </div>
-            <span class="map__label">Australia</span>
+            <span class="map__label">대한민국</span>
+           </div>
           </div>
           <div class="card__body">
-            <h3>Qantas map search</h3>
-            <p>Website design</p>
+            <h3>한국 지도 검색</h3>
+            <p>웹사이트 디자인</p>
           </div>
         </a>
       </div>
@@ -241,17 +303,17 @@
       <svg viewBox="0 0 24 24"><path d="M4 15 L12 8 L20 15" fill="none" stroke="currentColor" stroke-width="1.5" /></svg>
     </button>
     <div class="container footer__inner">
-      <p class="copy">© <span id="year">2021</span> Adham Dannaway</p>
+      <p class="copy">© <span id="year">2021</span> 황명규</p>
       <nav class="footer__nav">
-        <a href="#about">about</a>
-        <a href="#work">featured</a>
-        <a href="#work">portfolio</a>
-        <a href="#">blog</a>
-        <a href="#contact">contact</a>
+        <a href="#about">소개</a>
+        <a href="#work">추천작</a>
+        <a href="#work">포트폴리오</a>
+        <a href="#">블로그</a>
+        <a href="#contact">연락처</a>
       </nav>
       <div class="footer__btns">
-        <a href="#" class="fb-btn">👍 Like <span>11K</span></a>
-        <a href="#" class="tw-btn">Follow @AdhamDannaway</a>
+        <a href="#" class="fb-btn">👍 좋아요 <span>1.1만</span></a>
+        <a href="#" class="tw-btn">팔로우</a>
       </div>
     </div>
   </footer>
