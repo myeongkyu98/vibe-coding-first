@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:41:34.763Z",
+  "updatedAt": "2026-10-29T18:41:17.637Z",
   "summary": [
     {
       "category": "연예",
@@ -7,11 +7,11 @@
     },
     {
       "category": "기타",
-      "count": 4
+      "count": 3
     },
     {
       "category": "IT·과학",
-      "count": 1
+      "count": 2
     },
     {
       "category": "스포츠",
@@ -21,8 +21,8 @@
   "items": [
     {
       "keyword": "최불암",
-      "traffic": "10000+",
-      "trafficValue": 10000,
+      "traffic": "20000+",
+      "trafficValue": 20000,
       "startedAt": "2026-10-29T15:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8mFDHd8YWlFjU6wIfKMezYrpLyz4WVqpJgN1EAiGex0wp-iyPsQoXpBq2PGQ",
       "category": "연예",
@@ -33,14 +33,14 @@
           "source": "조선일보"
         },
         {
+          "title": "[속보]‘국민 아버지’ 배우 최불암 별세…향년 87세",
+          "url": "https://www.khan.co.kr/article/202610300049001",
+          "source": "경향신문"
+        },
+        {
           "title": "'영원한 수사반장' 최불암 별세‥향년 87세",
           "url": "https://imnews.imbc.com/news/2026/society/article/6861809_36918.html",
           "source": "MBC 뉴스"
-        },
-        {
-          "title": "\"국민이 가는 길에 가시덤불 치우는 게 광대 정신\"…최불암이 남긴 말",
-          "url": "https://www.yna.co.kr/view/AKR20261030002100005",
-          "source": "연합뉴스"
         }
       ]
     },
@@ -49,23 +49,23 @@
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-10-29T13:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbhpDH1bA8fV2SGbs6XZW3q17lrh_9oL2SYbCvllej3UGblGpZdWrhi1m-40Y",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB6YIRnd8V0N47oS8o7c93P6KrJchDqpVafJtAn9ddE9y0umG2lWRogDiqmpU",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "충북교육청, 2026년 시·도교육청 평가 17개 지표 전부 통과 : 네이버 블로그",
-          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224456712896&redirect=Dlog",
-          "source": "Naver Blog"
+          "title": "(단독)삼성전자 성과급 합의 무효 넘어 '부존재' 다툰다…주주단체 소송 추진",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1318464",
+          "source": "뉴스토마토"
         },
         {
-          "title": "울산교육청, 교육부 평가서 3억7천500만원 성과급 확보",
-          "url": "https://www.yna.co.kr/view/AKR20261029168300057",
-          "source": "연합뉴스"
+          "title": "[단독] \"삼전닉스 면접날 단체 연차\"…‘슈퍼갑 3대장’ 이탈 조짐",
+          "url": "https://news.jtbc.co.kr/article/NB12325313",
+          "source": "JTBC"
         },
         {
-          "title": "전남·광주 교육행정, 전국 평가서 17개 지표 싹쓸이 통과…7억5천만원 성과급",
-          "url": "https://www.viva100.com/article/20261029500684",
-          "source": "브릿지경제"
+          "title": "“팀장님, 오늘 연차 쓸게요”…삼전·하닉 면접날 벌어진 일",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01134886645617840",
+          "source": "마켓인"
         }
       ]
     },
@@ -91,31 +91,6 @@
           "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
           "url": "https://www.newsis.com/view/NISX20261029_0003847330",
           "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "인공지능",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUUJnfYG8UeW0MYvB-CJKmvWK5Z6czlbYH4HouzF3UFIrEu8JAyjJpVA7q4lA",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "원전 데이터로 키운 생성형 AI…한수원, 公기관 혁신상",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374092",
-          "source": "전기신문"
-        },
-        {
-          "title": "한전, 'AI 기반 고독사 예방'으로 공공기관 AI 혁신 챌린지 최우수상",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845737",
-          "source": "뉴시스"
-        },
-        {
-          "title": "인천공항, AI 항공안전 관리 혁신 '대상'",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335380",
-          "source": "인천일보"
         }
       ]
     },
@@ -170,47 +145,56 @@
       ]
     },
     {
-      "keyword": "진에어",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-29T13:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEfJOB5a1ab4ZRhES2CXl7YPy2YRxH1yt7KaW3bd9zuZa5SpMH6Tpd6yngStY",
-      "category": "기타",
+      "keyword": "설인아",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T16:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeDOfEg94RHZ3D1wmPneBzg1IPl3qtlOAYSK5w1w1mh4sLUybio0QJBfkj2zI",
+      "category": "연예",
       "news": [
         {
-          "title": "대한항공·아시아나항공 이어···진에어, 해킹공격으로 1454명 개인회원 정보 유출",
-          "url": "https://www.khan.co.kr/article/202610291909001",
-          "source": "경향신문"
+          "title": "[방송소식] tvN '무쇠소녀단3' 내달 첫선…쇼트트랙 계주 도전",
+          "url": "https://www.yna.co.kr/view/AKR20261029128900005",
+          "source": "연합뉴스"
         },
         {
-          "title": "진에어 고객 1454명 개인정보 유출… 이름·전화번호 등 8개 항목 - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/29/2026102920573248577",
+          "title": "'무쇠소녀단3' 설인아-금새록-한지현-연우, ‘무쇠맛’ 여정 시작! - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102911517292105",
           "source": "머니투데이"
         },
         {
-          "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
-          "url": "https://zdnet.co.kr/view/?no=20261029143545",
-          "source": "지디넷코리아"
+          "title": "설인아·금새록·한지현·연우, 쇼트트랙 도전…목표는 금메달",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134930951/1",
+          "source": "스포츠동아"
         }
       ]
+    },
+    {
+      "keyword": "서울경제",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T16:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "스페인 축구 국가대표팀",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-29T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wY2zaQh1o9mgVtedlbaRxzbhbd2evJx0xaZIFzfEhOp1kkGEZKB5SYjih50",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WygZtZRFfKRjy1azfT8O8yjArreFMQyboollLNoaoejWm0qVaJs1IY46zfw",
       "category": "스포츠",
       "news": [
-        {
-          "title": "\"멈춰야 하는데 운행 지시\"‥참사로 이어진 악명 높은 스페인 열차",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861760_37004.html",
-          "source": "MBC 뉴스"
-        },
         {
           "title": "스페인 고속열차 사고 사망자 74명으로 늘어…신원확인 중(종합)",
           "url": "https://www.yna.co.kr/view/AKR20261029211451098",
           "source": "연합뉴스"
+        },
+        {
+          "title": "스페인 고속열차 추돌사고 사망자 69명으로 늘어…국가 애도기간 시작",
+          "url": "https://www.donga.com/news/Inter/article/all/20261030/134937033/1",
+          "source": "동아일보"
         },
         {
           "title": "스페인 고속열차 추돌로 68명 사망…한국인 2명 부상 \"치료중\"",
@@ -220,10 +204,10 @@
       ]
     },
     {
-      "keyword": "서울경제",
+      "keyword": "신구",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-29T16:30:00.000Z",
+      "startedAt": "2026-10-29T17:20:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
@@ -233,23 +217,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-29T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwdJXY79gWFvYIoYq_SkNpt0aD_-tDXdzW8YLjw1xhiQwrkDjYU76JwHu4X2w",
-      "category": "연예",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_TdhbShwUXUvPWPiUY2YHeGaTnT_p2deBz5wW4AGfggRXPmoaGocJZNsNCto",
+      "category": "IT·과학",
       "news": [
-        {
-          "title": "'전원일기 개똥엄마' 이상미, 2년 전 이별 슬픔",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736948",
-          "source": "국제뉴스"
-        },
         {
           "title": "국호, 배우 생활 30년에도 생활고…\"15년째 건설 현장 출근\" (특종세상)",
           "url": "https://www.xportsnews.com/article/2213139",
           "source": "www.xportsnews.com"
         },
         {
-          "title": "'특종세상' 국호, 베테랑 액션 배우의 산속 수련 근황",
-          "url": "https://enter.etoday.co.kr/news/view/304471",
-          "source": "비즈엔터"
+          "title": "[종합] “죽 사러 간 사이에 돌아가셨다”…‘특종세상’ ‘개똥엄마’ 이상미, 여우주연상에도 못 웃은 이유",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16262319",
+          "source": "톱스타뉴스"
+        },
+        {
+          "title": "'전원일기 개똥엄마' 이상미, 2년 전 이별 슬픔",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736948",
+          "source": "국제뉴스"
         }
       ]
     }
