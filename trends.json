@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T20:37:00.495Z",
+  "updatedAt": "2026-10-29T21:34:07.490Z",
   "summary": [
     {
       "category": "기타",
@@ -7,22 +7,26 @@
     },
     {
       "category": "스포츠",
-      "count": 2
+      "count": 1
     },
     {
       "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "에버턴 대 뉴캐슬",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-29T19:00:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcF-poJQrPw_Ud53FkpKU2eKjW_JI7Ol0RNI_ofbM_iTmKofbUQZuqGYMY0Ko",
       "category": "스포츠",
@@ -45,27 +49,56 @@
       ]
     },
     {
-      "keyword": "최준희",
+      "keyword": "노바크 조코비치",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-29T17:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpgQ5jLxTJv8639WibfY1ORbCoYJW_U-C0Pc6l2qsuknW1oyYpRkWzigNU7E",
+      "startedAt": "2026-10-29T18:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "patrick stewart",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T20:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGtlh71Q1k0jIIuWpQfSB519X0eHlbfm7aoLMpem6L5rOOpI8cqhhDg1WWc9k",
       "category": "기타",
       "news": [
         {
-          "title": "최준희, 11살 연상 남편에 \"나 두고 먼저 죽으면 죽여버릴 거야\"",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846490",
-          "source": "뉴시스"
+          "title": "Patrick Stewart, ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/",
+          "source": "The Hollywood Reporter"
         },
         {
-          "title": "'故 최진실 딸' 최준희, 남편에 \"나 두고 먼저 죽지마\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102919545886728",
-          "source": "머니투데이"
+          "title": "Legendary Star Trek actor Sir Patrick Stewart dies aged 86",
+          "url": "https://www.bbc.com/news/live/cq23dve8dgv9t",
+          "source": "BBC"
         },
         {
-          "title": "최준희, 11살 연상 남편에 뜨거운 애정 \"나 두고 먼저 죽지마\"",
-          "url": "https://www.koreadaily.com/article/20261029021222688",
-          "source": "미주중앙일보"
+          "title": "Who Is Patrick Stewart’s Wife? What to Know About Sunny Ozell & His Children",
+          "url": "https://www.justjared.com/2026/10/29/who-is-patrick-stewarts-wife-what-to-know-about-sunny-ozell-his-children/",
+          "source": "Just Jared"
+        }
+      ]
+    },
+    {
+      "keyword": "패트릭 스튜어트",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T20:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGokZaohUrwj1CjCjBx96eebA3KipWE6RyFWz9rm71Ykbt58oPFQghkcMT63s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[속보]‘엑스맨’ 패트릭 스튜어트, 치매 투병 끝 86세로 별세… 마블 \"비통함 금할 수 없어\"[해외이슈]",
+          "url": "https://mydaily.co.kr/page/view/2026103006141318735",
+          "source": "마이데일리"
+        },
+        {
+          "title": "영원한 엑스맨 교수님, 패트릭 스튜어트 별세...향년 86세",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322757",
+          "source": "인벤"
         }
       ]
     },
@@ -95,18 +128,9 @@
       ]
     },
     {
-      "keyword": "노바크 조코비치",
+      "keyword": "운수",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-10-29T18:50:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "운수",
-      "traffic": "200+",
-      "trafficValue": 200,
       "startedAt": "2026-10-29T19:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgAIkUU3uoEScFSTAockxmviq-oK2EG7Suj1jeSXvWxs7v02PaONfxAvqaveQ",
       "category": "기타",
@@ -130,94 +154,101 @@
     },
     {
       "keyword": "알나스르 대 알콜루드 클럽",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-10-29T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBhEPemyVik-3MdRI4y8m-UirbyEaCPoLRnrmWoTL1KLq1_iF0nVlm0fAQgfo",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWnkwIejifp3qeeMs5ZlBwiTm9JGsyGcrDh_LlkxDaPADOF9-eRRNvMnnWdMk",
+      "category": "기타",
       "news": [
         {
-          "title": "Cristiano Ronaldo scores hat trick, moves closer to 1,000-goal milestone",
-          "url": "https://www.usatoday.com/story/sports/soccer/2026/10/29/cristiano-ronaldo-al-nassr-vs-al-kholood-hat-trick-1000-goals/92501470007/",
-          "source": "USA Today"
+          "title": "Forward Cristiano Ronaldo scored a hat-trick in 15 minutes — Interia Sport",
+          "url": "https://ua.news/en/sport/forvard-krishtianu-ronaldu-oformiv-khet-trik-za-15-khvilin-interia-sport",
+          "source": "UA.NEWS"
         },
         {
-          "title": "Goals and Highlights, Al-Nassr vs Al-Kholood in Saudi Pro League Match",
-          "url": "https://www.vavel.com/en-us/soccer/2026/10/29/1277134-al-nassr-vs-al-kholood-live-score-saudi-pro-league.html",
-          "source": "VAVEL.com"
+          "title": "Ronaldo’s 15-minute hat-trick the difference as Al-Nassr beat stubborn Al-Kholood",
+          "url": "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914",
+          "source": "Arab News"
         },
         {
-          "title": "Al Nassr FC vs. Al Kholood Lineups and Confirmed Team News: Is Cristiano Ronaldo Playing Today?",
-          "url": "https://athlonsports.com/soccer/al-nassr-fc-vs-al-kholood-lineups-confirmed-team-news-cristiano-ronaldo-playing-today",
-          "source": "Athlon Sports"
+          "title": "The dispute between FIFA and the Saudi League has been settled: Ronaldo's controversial goal officially recorded",
+          "url": "https://zamin.uz/en/sport/225847-the-dispute-between-fifa-and-the-saudi-league-has-been-settled-ronaldos-controversial-goal-officially-recorded.html",
+          "source": "Zamin.uz"
         }
       ]
     },
     {
-      "keyword": "신구",
+      "keyword": "자기주식",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-29T17:20:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "설인아",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T16:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeDOfEg94RHZ3D1wmPneBzg1IPl3qtlOAYSK5w1w1mh4sLUybio0QJBfkj2zI",
-      "category": "연예",
+      "startedAt": "2026-10-29T20:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3y6msJMkwVv-Z7UKmuRkwmJa8mAskC6Mk0RixILztntbZmuoWW0Xkn7WcHs",
+      "category": "경제",
       "news": [
         {
-          "title": "[방송소식] tvN '무쇠소녀단3' 내달 첫선…쇼트트랙 계주 도전",
-          "url": "https://www.yna.co.kr/view/AKR20261029128900005",
-          "source": "연합뉴스"
+          "title": "아모레퍼시픽홀딩스, 직원 상여금 지급 위해 자사주 2093만원 처분 결정",
+          "url": "https://www.datatooza.com/article/20261029172146353552ef388b7b_80",
+          "source": "데이터투자"
         },
         {
-          "title": "'무쇠소녀단3' 설인아-금새록-한지현-연우, ‘무쇠맛’ 여정 시작! - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102911517292105",
-          "source": "머니투데이"
+          "title": "아모레퍼시픽, 25억1253만원 규모 자기주식 처분 결정",
+          "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=711126",
+          "source": "디지털투데이"
         },
         {
-          "title": "설인아·금새록·한지현·연우, 쇼트트랙 도전…목표는 금메달",
-          "url": "https://sports.donga.com/ent/article/all/20261029/134930951/1",
-          "source": "스포츠동아"
+          "title": "아모레퍼시픽, 25억원 규모 자사주 처분 결정",
+          "url": "https://www.datatooza.com/article/20261029170718420152ef30a385_80",
+          "source": "데이터투자"
         }
       ]
     },
     {
-      "keyword": "서울경제",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T16:30:00.000Z",
-      "picture": "",
+      "keyword": "비행기",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-29T20:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmlSwPQSqtTNPA53TFHkkAWtpTl0XdHBNw1DDTXO_DwsowC1iwrJ32SGjifVk",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "미국: 승무원이 승객으로부터 이상한 문자 메시지를 발견하고 비행기가 회항했습니다.",
+          "url": "https://www.vietnam.vn/ko/my-tiep-vien-phat-hien-tin-nhan-bat-thuong-cua-khach-may-bay-quay-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "“기내 테러 위협에 긴급 회항”…승객 150명 탄 유나이티드항공 여객기 라스베가스로",
+          "url": "https://www.radiokorea.com/news/article.php?uid=507832",
+          "source": "라디오코리아"
+        },
+        {
+          "title": "\"비행기 납치하겠다\" 휴대전화 문자에…여객기 이륙 직후 회항",
+          "url": "https://www.sportschosun.com/life/2026-10-27/202610270100169980011212",
+          "source": "스포츠조선"
+        }
+      ]
     },
     {
-      "keyword": "한화 g2",
+      "keyword": "헌법소원심판",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-29T18:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OcE97ZEP9TJ3ewp4CICkR_N5uE8CurBlrnxQIiDaQzlpBx1osDJz9dbhRBg",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS291yi-luEvF5RRGxbLtTkvmaYkEJLGhCPwED4hXx17rU_ZZ_aP6jtgf-Bh0k",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "[롤드컵 톡톡] \"팀원들과 챔피언 고민 많았지만 완벽 적응\", T1 8강 견인 '도란' 최현준",
-          "url": "https://www.osen.co.kr/article/G1112900139",
-          "source": "OSEN"
+          "title": "검사 보완수사권 폐지 헌법소원‥헌재 \"기본권 침해 아냐\" 각하",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861725_36918.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "[롤드컵] “T1은 월즈 모드에 들어왔다”…‘4연패’ 시동 건 T1에 해외 매체도 주목",
-          "url": "https://sports.khan.co.kr/article/202610300014003",
-          "source": "스포츠경향"
+          "title": "수사 피의자가 \"보완수사권 폐지 위헌\" 주장…헌재서 각하",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847375",
+          "source": "뉴시스"
         },
         {
-          "title": "`도란` 활약 빛났다…T1, `롤드컵` 8강 합류",
-          "url": "https://www.ddaily.co.kr/page/view/2026102911111630326",
-          "source": "디지털데일리"
+          "title": "헌재 “개정 형소법은 ‘수사권한 배분’…기본권 침해 가능성 없어”",
+          "url": "https://www.munhwa.com/article/11627316",
+          "source": "문화일보"
         }
       ]
     }
