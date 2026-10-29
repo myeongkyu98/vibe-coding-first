@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:44:13.964Z",
+  "updatedAt": "2026-10-29T10:40:55.946Z",
   "summary": [
     {
       "category": "기타",
@@ -11,15 +11,69 @@
     },
     {
       "category": "IT·과학",
-      "count": 2
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼성 대 kia",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-10-29T08:30:00.000Z",
+      "keyword": "티빙",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-29T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxrMM0ldc2JkjtcWTbhtf7RfrBnI7y2OUd4QnRqXBboS4_6Z2l4XTz9zNqXVI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'킬러'로 변신한 김다미…티빙 '고분고분한 킬러' 내년 공개",
+          "url": "https://www.yna.co.kr/view/AKR20261029059400005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'고분고분한 킬러' 김다미 조보아 조아람 김재욱 남윤수, 황금조합 완성 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102910007255428",
+          "source": "머니투데이"
+        },
+        {
+          "title": "김다미·조보아, 느와르 호흡…'고분고분한 킬러', 내년 공개",
+          "url": "https://www.dispatch.co.kr/2349954",
+          "source": "디스패치"
+        }
+      ]
+    },
+    {
+      "keyword": "홈플러스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-29T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjBouJgnFLzyOm__YbxUzJ5R468IPwHNktpEvCFd_jyGhUurRkM82y6mdyNqc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[단독] 홈플러스, 희망퇴직도 취소…밀린 월급 줄 돈도 없다",
+          "url": "https://biz.chosun.com/distribution/channel/2026/10/29/VD7LNAEEORCAFNRGC2KDTXDRPU/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "한전, 홈플러스 전기료 체납에 \"매장별 상황 따라 단전 검토\"",
+          "url": "https://www.yna.co.kr/view/AKR20261028159000003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "＂부활 꿈꿨지만 매출은 뚝＂…＇임금체불＇도 모자라 ＇전기＇도 끊긴다",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290013",
+          "source": "한국경제TV"
+        }
+      ]
+    },
+    {
+      "keyword": "최원태",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T09:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwZOp6pgcUmk2FKTOe-evgTLJvh4oJzzsdx8hICIqJ2-23RIrgrqdj6z80FI",
       "category": "스포츠",
       "news": [
@@ -34,234 +88,184 @@
           "source": "머니투데이"
         },
         {
-          "title": "‘김영웅 대신 전병우’ 삼성, PO 3차전 선발 라인업 변화…최형우 2G 연속 좌익수 출장 [PO3]",
-          "url": "https://www.osen.co.kr/article/G1112900371",
-          "source": "OSEN"
+          "title": "이승민 2경기 연속 호출한 삼성…‘가을 영웅’ 최원태가 버텨야",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698201",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "005930",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-29T07:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuq_AWhMZkSNLjZAcdJcw8wmK84gioo44LbFq8_q6mgHzmCx5Eqvkl0b20HsE",
+      "keyword": "제미 나이 카본",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T09:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKA1ldX-GIuURHNo3JU4uR761DmJc20tkCG0fczBKoM4iQ5Ur9iiHeVxj-40k",
       "category": "IT·과학",
       "news": [
         {
-          "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
-          "source": "Bloomberg"
+          "title": "지니 4(Genie 4): 월드 시뮬레이션의 새로운 세대",
+          "url": "https://blog.google/intl/ko-kr/company-news/technology/genie-4-a-new-generation-of-world-simulation-kr/",
+          "source": "blog.google"
         },
         {
-          "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Samsung’s Chip Profit Drives Another Record Quarter",
-          "url": "https://www.wsj.com/business/earnings/samsung-posts-fourth-straight-quarter-of-record-earnings-1373e927",
-          "source": "WSJ"
-        }
-      ]
-    },
-    {
-      "keyword": "sk",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-29T08:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTWhH8eMoBOdiYxQQhi0j9mOpK7knkp2uHUpzucrJPKr_EYaoQoQfXE8cc1d4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
-          "url": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7",
-          "source": "WSJ"
-        },
-        {
-          "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
-          "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "SK hynix Announces 3Q26 Financial Results",
-          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
-          "source": "SK hynix"
-        }
-      ]
-    },
-    {
-      "keyword": "은가은",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-29T08:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTIMg8zruMpI6VLotxmBTg0WlArvo6g9FTEURDZ2xE67313YNz2cYru1U01LQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘미스트롯’ 은가은, 스케줄 때문에 유도분만 “진통 8시간” (‘살림남’)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/29/ME2TAYJSGY4TQOBVMQ4GINRYG4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "은지원 \"어렸을 때 병원에서 살았다\" 고백",
-          "url": "https://www.newsis.com/view/NISX20261029_0003845638",
-          "source": "뉴시스"
-        },
-        {
-          "title": "‘박현호♥’ 은가은, 딸 서원이 출산 때 진통 8시간…“유도분만에 고생”",
-          "url": "https://sports.donga.com/ent/article/all/20261029/134929591/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "원자로",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-29T07:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQptnXknjyxNIHyp3reJEJf0cN1_eSkipOBrGlLaPgZQYOu-gJyR1WKzBgL7js",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "두산에너빌, 美 뉴스케일 SMR 원자로 첫 제작 계약",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374099",
-          "source": "전기신문"
-        },
-        {
-          "title": "\"세계 최초 SMR 전용 공장\"…두산에너빌이 그린 AI 시대 전력 미래 - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102810494053438",
-          "source": "머니투데이"
-        },
-        {
-          "title": "두산에너빌리티, 미국 뉴스케일파워 SMR 원자로 제작 수주",
-          "url": "https://www.yna.co.kr/view/AKR20261029129600003",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "동굴",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T08:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeLQ4qZe5EteA8n5_mYPZSqtFBckrUp2xsrNR22F2VM-QrLfIe0HbxYSKZVb8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "강원도, 11월 지질·생태명소에 삼척 대이리 동굴지대 선정",
-          "url": "https://www.yna.co.kr/view/AKR20261029063300062",
+          "title": "[영상] 구글 딥마인드 '지니 4' 공개…가상세계·소리 실시간 생성",
+          "url": "https://www.yna.co.kr/view/AKR20261029176700704",
           "source": "연합뉴스"
         },
         {
-          "title": "늦가을의 서정…강원도 11월 명소, 삼척 대이리 동굴지대",
-          "url": "https://www.pressian.com/pages/articles/2026102912550042150",
-          "source": "프레시안"
-        },
-        {
-          "title": "삼척 '대이리 동굴지대', 강원도 11월 지질·생태명소 선정",
-          "url": "https://news.tf.co.kr/read/national/2382201.htm",
-          "source": "더팩트"
+          "title": "와신상담 구글, 새 AI '카본'으로 선두 탈환...\"오픈AI 제쳤다\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610291411258199",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "england vs sri lanka",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T08:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuWkcbD_obb6TKc9OyoSz_1hVXp7ah9eF9OiOiGJpBw1EVlBONPK2xIK8XhYU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-preview",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Sri Lanka v England: men’s cricket tri-series one-day international – live",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/29/sri-lanka-v-england-mens-cricket-tri-series-one-day-international-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Sri Lanka vs England prediction, lineups and Gaddafi Stadium pitch report — who will win?",
-          "url": "https://sports.yahoo.com/articles/sri-lanka-vs-england-prediction-174731383.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "풍자",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T07:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LICfHSa_pHJm_bFUpR4l7EdE1-kmE9vWgNBdaksMigNcN-OG5TfEJ8PaX_4",
+      "keyword": "tving",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T09:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhiVDCh6-uJGYFUlzzGNDP2W2b5CH-NFBzSYYcFtFqwE4u9buOsAx7cFqm6gQ",
       "category": "기타",
       "news": [
         {
-          "title": "풍자, 37kg 감량하더니 확 달라졌다…신기루와 투샷서 물오른 미모 ‘눈길’",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GRSDAYZSGZSWCNLGGUYWIN3CMQ/",
+          "title": "Kang Ho-dong exits as The Great Escape premieres new urban ghost stories season",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/10/28/HOU2EFZEEFFYHOECNQTGRUCFMQ/",
           "source": "Chosunbiz"
         },
         {
-          "title": "풍자, 37㎏ 감량하더니 확 달라진 얼굴…이목구비 또렷 [N샷]",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6335338",
+          "title": "TVING’s ‘The Great Escape: Urban Legends’ Premieres Dec. 2, With Seungkwan Completing a Six-Member Cast",
+          "url": "https://www.cineplay.co.kr/en-us/articles/30499",
+          "source": "씨네플레이"
+        },
+        {
+          "title": "Great Escape: Urban Legends Premieres December 2 Without Kang Ho-dong",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/10/28/U6ZNVSMGJZEDRL4FNGLTNL3EJA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "윤석열 사형 구형",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T09:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt2ywXShDTgXqLSFil4DBPgu0RGvT574paVtq3SXvP3KBj04kGxPhd52xMy_I",
+      "category": "기타",
+      "news": [
+        {
+          "title": "특검, 尹 ’내란 우두머리’ 항소심도 사형 구형…“헌정질서 전복하려 한 반역자“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202610291204329b3",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "[속보]특검, 윤석열 ‘내란 우두머리’ 2심도 사형 구형…“국민이 막은 내란, 감형 이유 안돼”",
+          "url": "https://www.khan.co.kr/article/202610291206001",
+          "source": "경향신문"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+          "url": "https://www.yna.co.kr/view/AKR20261029122800011",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "한화에어로스페이스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T09:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjMPmK5U-52zrHfHXfdJIvqzd-qBH5HaiYjE6nj4z1Iv5IUGWCF_GQ74erGk0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "한화에어로 3분기 영업익 4천520억원…물량인도 지연에 46%↓(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261029148951527",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[컨콜] 한화에어로, 3Q ‘숨고르기’에도 4Q 반등 자신…“폴란드 천무 인도 60대 이상으로 상향”",
+          "url": "https://m.ekn.kr/view.php?key=20261029027332867",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "방산 시장 누비는 K9·천무… 바다엔 LNG선[창간 35주년 특집]",
+          "url": "https://www.munhwa.com/article/11627143",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김우빈",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T09:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bhxt2imDxPsECNqGjr3FQevkqiBbQ4uvuLaKRz3f3764y9zbrzT8ftHdzCs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“둘이 뭘 할 것 같았다” 신민아, 김우빈·이광수 나란히 앉자 불안했던 이유",
+          "url": "https://www.donga.com/news/Culture/article/all/20261029/134930149/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "신민아, ♥김우빈과 달달한 신혼 일상…“살쪄도 제일 예쁘다고” (유퀴즈)",
+          "url": "https://sports.khan.co.kr/article/202610290835003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "\"힙해 보이려고\" 신민아, 갑자기 혼자 '이것' 시작한 이유는… - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102905334535621",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "나띠",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-29T09:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBlCuEFPI6NL2ksm22V-FdswcLvWRX3W_ceMmJLCP04ZyteEwn2mm0zHYJI-8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "키오프 나띠, 여유로운 일상 속 비현실적 글래머 몸매 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6336845",
           "source": "뉴스1"
         },
         {
-          "title": "‘37kg 감량’ 풍자, 신기루 옆에서 소두 인증…얼굴이 반쪽 됐네",
-          "url": "https://sports.khan.co.kr/article/202610281601003",
+          "title": "키오프 나띠, 레깅스에 드러난 ‘애플힙’…독보적 글래머 몸매",
+          "url": "https://sports.khan.co.kr/article/202610291721003",
           "source": "스포츠경향"
+        },
+        {
+          "title": "키오프 나띠, 독보적 볼륨감 드러낸 애슬레저 룩...“건강미 폴폴”",
+          "url": "https://www.sportsseoul.com/news/read/1645199",
+          "source": "스포츠서울"
         }
       ]
     },
     {
-      "keyword": "항공기",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T08:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxhFDVKEk6oy7kgUBHxvmZ0t2tyEib6fW2Mr1bfX2kKLVirkAjAOuZZkqyP_8",
-      "category": "기타",
+      "keyword": "경기도 버스 파업",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-29T09:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO2A9cQB4HvsEkjsI52hvOtyHDlYoZZclhmH3t0UniI7lnfg97CxbKLcBFQ60",
+      "category": "스포츠",
       "news": [
         {
-          "title": "제주항공, 차세대 항공기 B737-8 구매 도입…\"기단 현대화\"",
-          "url": "https://www.yna.co.kr/view/AKR20261029048900003",
-          "source": "연합뉴스"
+          "title": "경기도 버스 노사 최종 협상 돌입...결렬되면 내일 파업",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610291805240642",
+          "source": "YTN"
         },
         {
-          "title": "제주항공 보잉 B737-8 14호기 도입, B737-8 여객기 비중 32.6%",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450606",
-          "source": "비즈니스포스트"
+          "title": "코레일, ”경기도 버스 총파업하면 전동열차 12회 추가 운행”",
+          "url": "https://www.kyeonggi.com/article/20261029580632",
+          "source": "경기일보"
         },
         {
-          "title": "제주항공, 연료 덜 쓰는 신형 항공기 추가 도입… “고유가 부담 완화”",
-          "url": "https://biz.chosun.com/industry/company/2026/10/29/Z2JXC2IOLJBRZA6HOFW6G6IK2I/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "009830",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T07:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn860pW5PKoCdus_FBLEVWFfnvZchZN-YBRbTkmhbwoYJicVA2fFdey5DMed8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "AJP Factbox: Hanwha Solutions swings to Q3 2026 profit",
-          "url": "https://www.ajupress.com/view/20261029145024815",
-          "source": "Aju Press"
-        },
-        {
-          "title": "Hanwha Systems Posts 831.6 Billion Won in Third-Quarter Revenue on Defense Growth",
-          "url": "https://www.thelec.net/news/articleView.html?idxno=14974",
-          "source": "THE ELEC, Korea Electronics Industry Media"
-        },
-        {
-          "title": "Hanwha Solutions returns to profit with 90.5 billion won Q3 operating profit on strong solar business",
-          "url": "https://www.mt.co.kr/en/industry/2026/10/29/2026102914054918433",
-          "source": "머니투데이"
+          "title": "발언하는 이기천 경기버스노조 위원장",
+          "url": "https://www.newsis.com/view/NISI20261029_0021510300",
+          "source": "뉴시스"
         }
       ]
     }
