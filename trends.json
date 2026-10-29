@@ -1,100 +1,175 @@
 {
-  "updatedAt": "2026-10-29T08:20:55.751Z",
+  "updatedAt": "2026-10-29T08:47:10.932Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 4
-    },
-    {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 3
     },
     {
-      "category": "생활·날씨",
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
       "category": "스포츠",
       "count": 1
-    },
-    {
-      "category": "연예",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "투자",
+      "keyword": "로봇",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-10-29T06:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-XG79SubsHSsMBGD9PQUcZHIn_lz286PGC-RA5HgKXJOo_5E9UtHyTuVxTpk",
-      "category": "경제",
+      "startedAt": "2026-10-29T07:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZkEN6oTKVszz97pP78ldsJYVQ3n9CuRioTu9dbimclhknfpw_zs-pkWaDS4",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "제35차 새만금위원회 - 사진 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74036&pageIndex=1",
+          "title": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974541&pWise=sub&pWiseSub=R2",
           "source": "대한민국 정책브리핑"
         },
         {
-          "title": "기념촬영 하는 김민석 당대표",
-          "url": "https://www.newsis.com/view/NISI20261029_0002277703",
-          "source": "뉴시스"
+          "title": "중소기업 '피지컬AI' 확산에 5조원 투입…데이터·AI·로봇 묶어 '3X 전략'",
+          "url": "https://www.etnews.com/20261029000275",
+          "source": "전자신문"
         },
         {
-          "title": "현대차그룹 장재훈 \"새만금 AI 밸리 사업 차질 없이 추진 중\"",
-          "url": "https://www.yna.co.kr/view/AKR20261029165700003",
+          "title": "정부, 피지컬AI 산업 육성 본격화…내년 트레이닝센터 구축",
+          "url": "https://www.yna.co.kr/view/AKR20261029055000017",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "위조품",
+      "keyword": "005930",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-29T07:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2j4O0PJcy4qMbG8g-NgCYac-FXTC35DrdbWLnLPLrR6mvxeOnTxowLjqa0MI",
-      "category": "생활·날씨",
+      "startedAt": "2026-10-29T07:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuq_AWhMZkSNLjZAcdJcw8wmK84gioo44LbFq8_q6mgHzmCx5Eqvkl0b20HsE",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "하노이, 연말 시장부터 전자상거래 플랫폼까지 상품 통제 강화",
-          "url": "https://ko.laodong.vn/kinh-doanh/ha-noi-tang-kiem-soat-hang-hoa-tu-cho-den-san-thuong-mai-dien-tu-dip-cuoi-nam-1790044.ldo",
-          "source": "Laodong.vn"
+          "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "후에시는 소비자 보호를 위해 전자상거래 관리 강화에 나섰다.",
-          "url": "https://www.vietnam.vn/ko/thanh-pho-hue-siet-quan-ly-thuong-mai-dien-tu-bao-ve-nguoi-tieu-dung",
-          "source": "Vietnam.vn"
+          "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+          "source": "CNBC"
         },
         {
-          "title": "새로운 시대에 소비자 권리 보호 역량을 강화합니다.",
-          "url": "https://www.vietnam.vn/ko/nang-cao-nang-luc-bao-ve-quyen-loi-nguoi-tieu-dung-trong-giai-doan-moi",
-          "source": "Vietnam.vn"
+          "title": "Samsung’s Chip Profit Drives Another Record Quarter",
+          "url": "https://www.wsj.com/business/earnings/samsung-posts-fourth-straight-quarter-of-record-earnings-1373e927",
+          "source": "WSJ"
         }
       ]
     },
     {
-      "keyword": "시체",
+      "keyword": "장신영",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-29T06:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR-IJj1wRc4gOX8ah7VW1Q7XTLXiVzybo3v7HRfVhqrVybTbd1JT4H5XlXxzQ",
-      "category": "정치·사회",
+      "startedAt": "2026-10-29T07:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWCpJ_05qTSPLeZRv5uOjM9wtOxXiR22EWe8UcX5mnGFFmwuhn0wM7oos1Z2U",
+      "category": "기타",
       "news": [
         {
-          "title": "[단독] ‘구로동 미라 시신’은 중국 국적 불법체류자…집 주인 \"시신 있던 이유 몰라\"",
-          "url": "https://news.jtbc.co.kr/article/NB12325470",
-          "source": "JTBC"
+          "title": "`강경준 용서` 장신영, 마음고생 털어냈나…레깅스 입고 뽐낸 탄탄 몸매",
+          "url": "https://mydaily.co.kr/page/view/2026102909025085632",
+          "source": "마이데일리"
         },
         {
-          "title": "구로 주택가 버려진 시신은 중국인 불법체류자…아내와 함께 거주",
-          "url": "https://www.yna.co.kr/view/AKR20261029168100004",
+          "title": "장신영, 햇살 아래 계단 산책…등산 근황 전했다",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260690",
+          "source": "톱스타뉴스"
+        },
+        {
+          "title": "‘남편 용서’ 장신영, 안개 낀 한라산 등반…활동 중단 ♥강경준도 함께 올랐나",
+          "url": "https://m.newsen.com/news_view.php?uid=202610210958300310",
+          "source": "뉴스엔"
+        }
+      ]
+    },
+    {
+      "keyword": "신세계백화점 센텀시티점",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-29T07:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtil8a1Ap_zJ2GqjW9j9GD72UKhF5c2bFJyPa7FRkXweu9wv3Sfrt1RhrfLg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[속보] 롯데百 센텀시티점, 신세계 품으로",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261029.99099008674",
+          "source": "국제신문"
+        },
+        {
+          "title": "신세계, 롯데백화점 센텀시티점 인수…'신세계 타운'으로 키운다 [종합]",
+          "url": "https://www.hankyung.com/article/202610293369g",
+          "source": "한국경제"
+        },
+        {
+          "title": "신세계백화점, 롯데백화점 부산 센텀시티점 인수...백화점 1·2위간 첫 거래",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610291423170918",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "롯데카드",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-29T07:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS49G3evOwNcaLyCPzfV1LHx7V-wJAXjqid2-Dh4CX30mUQ_AbjYCuQSLm3kC8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "대신증권·미래에셋운용·빗썸 줄줄이 해킹...금융권 확산",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291108000305",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "금감원, ‘1억 유출’ 프라뱅 ‘현장 검사’ 착수",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698772",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "금투업계도 해킹 비상인데 증권사 AI 연결 확대…보안 숙제 커졌다 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/10/29/2026102913562542874",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "(주)돌고래유괴단",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-29T07:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2O4ugKYxqHekZodjyfKUTuWBKLFjDAVK3MxZ6gB0ZQyOOCV77hUrts-Pc4s",
+      "category": "연예",
+      "news": [
+        {
+          "title": "‘뉴진스 감독판 뮤비 공개’ 돌고래유괴단, 2심도 패소…어도어에 10억원 배상해야",
+          "url": "https://www.khan.co.kr/article/202610291518001",
+          "source": "경향신문"
+        },
+        {
+          "title": "'뉴진스 뮤비 소송' 2심도 \"어도어에 10억 지급하라\"",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610291503430089",
+          "source": "YTN"
+        },
+        {
+          "title": "2심도 \"뉴진스 뮤비 무단 게시한 제작사, 어도어에 10억 배상\"",
+          "url": "https://www.yna.co.kr/view/AKR20261029132300004",
           "source": "연합뉴스"
-        },
-        {
-          "title": "\"아저씨, 무슨 냄새가!\" 시신 버려놓고‥체포되자 \"인형인 줄\"",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861435_37004.html",
-          "source": "MBC 뉴스"
         }
       ]
     },
@@ -124,152 +199,77 @@
       ]
     },
     {
-      "keyword": "염경엽",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T06:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPZCYfLGeIz67QtNsLRluAjoIbrIwu2iDiVOyc0-RiIpI8oG5MZG3Efh5FSYQ",
+      "keyword": "암살자(들)",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T07:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEEKiYOyY4nJe50XIvJu5pF1bthWgyiWNuziImEqS4Bj_uPQC7UI-QcWplTdo",
       "category": "스포츠",
       "news": [
         {
-          "title": "[프로야구] '준PO 탈락' LG, 코치진 전면 개편...정수성 코치 등 7명과 작별",
-          "url": "https://www.newspim.com/news/view/20261029000875",
-          "source": "뉴스핌"
+          "title": "‘암살자(들)’ 허진호 감독 “박정희 암살 배후 애당초 배제···왜 이렇게 됐는지 궁금”",
+          "url": "https://weekly.khan.co.kr/article/202610281209001",
+          "source": "주간경향"
         },
         {
-          "title": "[단독] LG 정수성 코치, 염경엽 감독과 작별...재계약 불가 통보 등 코치 7명 떠난다",
-          "url": "https://isplus.com/article/view/isp202610290028",
-          "source": "일간스포츠"
+          "title": "최욱, '암살자(들)' 대관 행사 개최…\"영화 자체로 재밌는데 논란 안타까워\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820960",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "장시환 은퇴가 상징하는 것, 사라진 야구 명문들의 역사",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003276765",
-          "source": "오마이스타"
-        }
-      ]
-    },
-    {
-      "keyword": "돌고래유괴단",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-29T06:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2O4ugKYxqHekZodjyfKUTuWBKLFjDAVK3MxZ6gB0ZQyOOCV77hUrts-Pc4s",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘뉴진스 감독판 뮤비 공개’ 돌고래유괴단, 2심도 패소…어도어에 10억원 배상해야",
-          "url": "https://www.khan.co.kr/article/202610291518001",
-          "source": "경향신문"
-        },
-        {
-          "title": "'뉴진스 뮤비 소송' 2심도 \"어도어에 10억 지급하라\"",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610291503430089",
-          "source": "YTN"
-        },
-        {
-          "title": "어도어, '뉴진스 MV 게시' 손배소 2심서도 일부 승소…\"10억 배상\"",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846745",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "주민등록",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T07:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_jpznCV-uO8tpFLpzOLh2jwHgI9oyraNBEmJPiuaAax-847u-SuM_1q-E0g",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974451",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "‘배우자의 자녀’→‘세대원’ 바뀐 주민등록 표기 내일부터 시행",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697446",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[정책브리핑] 2026년 10월 29일 목요일 주요 정책",
-          "url": "https://www.sisunnews.co.kr/news/articleView.html?idxno=248658",
-          "source": "시선뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T06:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVq8eTm6rVpS60txf55xGW6NPqLfqvL8i3vsciRVXzPN6vHDRsk8ToCDlU4Gs",
-      "category": "경제",
-      "news": [
-        {
-          "title": "코스닥 액티브 ETF, 지수 웃돌았는데…'완전 액티브' 도입은 제자리 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/stock/2026/10/29/2026102915574215466",
+          "title": "논란 앞선 관객 발길…'암살자(들)', 손익분기점 340만 돌파 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102913277233136",
           "source": "머니투데이"
-        },
-        {
-          "title": "“지수보다 10%P 더 벌었는데”…상장폐지 걱정하는 액티브 ETF",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04765846645617512",
-          "source": "마켓인"
-        },
-        {
-          "title": "전혀 ‘액티브’ 하지 않은 국내 액티브ETF [줌인IT]",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172964",
-          "source": "IT조선"
         }
       ]
     },
     {
-      "keyword": "군무원",
+      "keyword": "풍자",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-29T06:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg3Kp52xswlmSulBows0xILPSKBJk12NBfwxpOIF6-oLKtFA9OLeWUB7PcFKo",
-      "category": "정치·사회",
+      "startedAt": "2026-10-29T07:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LICfHSa_pHJm_bFUpR4l7EdE1-kmE9vWgNBdaksMigNcN-OG5TfEJ8PaX_4",
+      "category": "기타",
       "news": [
         {
-          "title": "성과금 상위 등급 군인 ‘몰아주기’…군무원은 3백만 원까지 ‘차별’",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697963",
-          "source": "KBS 뉴스"
+          "title": "풍자, 37kg 감량하더니 확 달라졌다…신기루와 투샷서 물오른 미모 ‘눈길’",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GRSDAYZSGZSWCNLGGUYWIN3CMQ/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "군무원들 폭발 '같은 부대에서 근무하는데 왜 군인보다 우리가...'",
-          "url": "https://www.wikitree.co.kr/articles/1169530",
-          "source": "위키트리"
+          "title": "풍자, 37㎏ 감량하더니 확 달라진 얼굴…이목구비 또렷 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6335338",
+          "source": "뉴스1"
         },
         {
-          "title": "군무원 성과상여금, 군인과 통합평정하는 것이 과연 공정합니까?",
-          "url": "https://campaigns.do/campaigns/2020",
-          "source": "캠페인즈"
+          "title": "‘37kg 감량’ 풍자, 신기루 옆에서 소두 인증…얼굴이 반쪽 됐네",
+          "url": "https://sports.khan.co.kr/article/202610281601003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "이정재",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-29T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypVudHbewALp_OsCSQ3FQ8eEmgC4B3jYqI3LjpeqVxBDRa2j_eU2EuJGhD20",
-      "category": "경제",
+      "keyword": "티맵모빌리티",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T07:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS33KrdBVPTN31SJkYWCUGSnQ0aPZ3oRhBEo4Upwx2BAIe4-ho9XCWAQ0tDydM",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "이정재·정우성 투자 정보로 12.5억 부당이득…증선위, 관련자 고발",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441706",
-          "source": "연합인포맥스"
+          "title": "[단독] 골드만삭스, 티맵모빌리티 경영권 인수한다",
+          "url": "https://www.hankyung.com/article/202610293603i",
+          "source": "한국경제"
         },
         {
-          "title": "미공개중요정보를 이용한 내부자등에 대한 중대범죄수사청 고발·통보 등 조치(2건) - 제19차 증권선물위원회(10.28.) 의결",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=453877",
-          "source": "서울Pn"
+          "title": "SK스퀘어, 골드만삭스와 티맵모빌리티 경영권 매각 협상",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450707",
+          "source": "비즈니스포스트"
         },
         {
-          "title": "\"유명인도 유증 참여한대\" 미공개정보 이용한 상장사 임직원들 덜미 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/28/2026102817221048596",
-          "source": "머니투데이"
+          "title": "“반도체만 남기고 다 판다”…SK스퀘어, '티맵' 골드만삭스와 매각 협상",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05628486645617840&mediaCodeNo=257",
+          "source": "이데일리"
         }
       ]
     }
