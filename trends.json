@@ -1,57 +1,49 @@
 {
-  "updatedAt": "2026-10-29T08:47:10.932Z",
+  "updatedAt": "2026-10-29T09:44:13.964Z",
   "summary": [
     {
-      "category": "IT·과학",
-      "count": 3
-    },
-    {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 6
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
+      "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "로봇",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-29T07:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZkEN6oTKVszz97pP78ldsJYVQ3n9CuRioTu9dbimclhknfpw_zs-pkWaDS4",
-      "category": "IT·과학",
+      "keyword": "삼성 대 kia",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-10-29T08:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwZOp6pgcUmk2FKTOe-evgTLJvh4oJzzsdx8hICIqJ2-23RIrgrqdj6z80FI",
+      "category": "스포츠",
       "news": [
         {
-          "title": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974541&pWise=sub&pWiseSub=R2",
-          "source": "대한민국 정책브리핑"
+          "title": "3차전이 분수령...시라카와-최원태, 맞대결",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610291709116919",
+          "source": "YTN"
         },
         {
-          "title": "중소기업 '피지컬AI' 확산에 5조원 투입…데이터·AI·로봇 묶어 '3X 전략'",
-          "url": "https://www.etnews.com/20261029000275",
-          "source": "전자신문"
+          "title": "KIA전 3전 전패, 설욕 벼르는 페덱 \"이젠 사적인 감정→PO 4차전 선발 등판은 감독님 뜻대로\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102914082770382",
+          "source": "머니투데이"
         },
         {
-          "title": "정부, 피지컬AI 산업 육성 본격화…내년 트레이닝센터 구축",
-          "url": "https://www.yna.co.kr/view/AKR20261029055000017",
-          "source": "연합뉴스"
+          "title": "‘김영웅 대신 전병우’ 삼성, PO 3차전 선발 라인업 변화…최형우 2G 연속 좌익수 출장 [PO3]",
+          "url": "https://www.osen.co.kr/article/G1112900371",
+          "source": "OSEN"
         }
       ]
     },
     {
       "keyword": "005930",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-10-29T07:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuq_AWhMZkSNLjZAcdJcw8wmK84gioo44LbFq8_q6mgHzmCx5Eqvkl0b20HsE",
       "category": "IT·과학",
@@ -59,7 +51,7 @@
         {
           "title": "Samsung Chip Profit Misses Estimates Lifted by Resurgent AI Hope",
           "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
-          "source": "Bloomberg.com"
+          "source": "Bloomberg"
         },
         {
           "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
@@ -74,159 +66,134 @@
       ]
     },
     {
-      "keyword": "장신영",
+      "keyword": "sk",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-29T07:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWCpJ_05qTSPLeZRv5uOjM9wtOxXiR22EWe8UcX5mnGFFmwuhn0wM7oos1Z2U",
+      "startedAt": "2026-10-29T08:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTWhH8eMoBOdiYxQQhi0j9mOpK7knkp2uHUpzucrJPKr_EYaoQoQfXE8cc1d4",
       "category": "기타",
       "news": [
         {
-          "title": "`강경준 용서` 장신영, 마음고생 털어냈나…레깅스 입고 뽐낸 탄탄 몸매",
-          "url": "https://mydaily.co.kr/page/view/2026102909025085632",
-          "source": "마이데일리"
+          "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+          "url": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7",
+          "source": "WSJ"
         },
         {
-          "title": "장신영, 햇살 아래 계단 산책…등산 근황 전했다",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16260690",
-          "source": "톱스타뉴스"
+          "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter",
+          "url": "https://www.cnbc.com/2026/10/28/cramer-sk-hynix-ai-chip-stocks.html",
+          "source": "CNBC"
         },
         {
-          "title": "‘남편 용서’ 장신영, 안개 낀 한라산 등반…활동 중단 ♥강경준도 함께 올랐나",
-          "url": "https://m.newsen.com/news_view.php?uid=202610210958300310",
-          "source": "뉴스엔"
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+          "source": "SK hynix"
         }
       ]
     },
     {
-      "keyword": "신세계백화점 센텀시티점",
+      "keyword": "은가은",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-29T07:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtil8a1Ap_zJ2GqjW9j9GD72UKhF5c2bFJyPa7FRkXweu9wv3Sfrt1RhrfLg",
+      "startedAt": "2026-10-29T08:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTIMg8zruMpI6VLotxmBTg0WlArvo6g9FTEURDZ2xE67313YNz2cYru1U01LQ",
       "category": "기타",
       "news": [
         {
-          "title": "[속보] 롯데百 센텀시티점, 신세계 품으로",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261029.99099008674",
-          "source": "국제신문"
+          "title": "‘미스트롯’ 은가은, 스케줄 때문에 유도분만 “진통 8시간” (‘살림남’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/29/ME2TAYJSGY4TQOBVMQ4GINRYG4/",
+          "source": "조선일보"
         },
         {
-          "title": "신세계, 롯데백화점 센텀시티점 인수…'신세계 타운'으로 키운다 [종합]",
-          "url": "https://www.hankyung.com/article/202610293369g",
-          "source": "한국경제"
+          "title": "은지원 \"어렸을 때 병원에서 살았다\" 고백",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845638",
+          "source": "뉴시스"
         },
         {
-          "title": "신세계백화점, 롯데백화점 부산 센텀시티점 인수...백화점 1·2위간 첫 거래",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610291423170918",
-          "source": "YTN"
+          "title": "‘박현호♥’ 은가은, 딸 서원이 출산 때 진통 8시간…“유도분만에 고생”",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134929591/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "롯데카드",
+      "keyword": "원자로",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-29T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS49G3evOwNcaLyCPzfV1LHx7V-wJAXjqid2-Dh4CX30mUQ_AbjYCuQSLm3kC8",
-      "category": "경제",
+      "startedAt": "2026-10-29T07:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQptnXknjyxNIHyp3reJEJf0cN1_eSkipOBrGlLaPgZQYOu-gJyR1WKzBgL7js",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "대신증권·미래에셋운용·빗썸 줄줄이 해킹...금융권 확산",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291108000305",
-          "source": "YTN 사이언스"
+          "title": "두산에너빌, 美 뉴스케일 SMR 원자로 첫 제작 계약",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374099",
+          "source": "전기신문"
         },
         {
-          "title": "금감원, ‘1억 유출’ 프라뱅 ‘현장 검사’ 착수",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698772",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "금투업계도 해킹 비상인데 증권사 AI 연결 확대…보안 숙제 커졌다 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/29/2026102913562542874",
+          "title": "\"세계 최초 SMR 전용 공장\"…두산에너빌이 그린 AI 시대 전력 미래 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102810494053438",
           "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "(주)돌고래유괴단",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T07:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2O4ugKYxqHekZodjyfKUTuWBKLFjDAVK3MxZ6gB0ZQyOOCV77hUrts-Pc4s",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘뉴진스 감독판 뮤비 공개’ 돌고래유괴단, 2심도 패소…어도어에 10억원 배상해야",
-          "url": "https://www.khan.co.kr/article/202610291518001",
-          "source": "경향신문"
         },
         {
-          "title": "'뉴진스 뮤비 소송' 2심도 \"어도어에 10억 지급하라\"",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610291503430089",
-          "source": "YTN"
-        },
-        {
-          "title": "2심도 \"뉴진스 뮤비 무단 게시한 제작사, 어도어에 10억 배상\"",
-          "url": "https://www.yna.co.kr/view/AKR20261029132300004",
+          "title": "두산에너빌리티, 미국 뉴스케일파워 SMR 원자로 제작 수주",
+          "url": "https://www.yna.co.kr/view/AKR20261029129600003",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "원자력 발전소",
+      "keyword": "동굴",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-29T07:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ3AXORI_hTalyXI_ZOdSarQ9Mn3dbP82OXgm-9T_1TkPBxYVr_rmbBRRfCcQ",
-      "category": "경제",
+      "startedAt": "2026-10-29T08:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeLQ4qZe5EteA8n5_mYPZSqtFBckrUp2xsrNR22F2VM-QrLfIe0HbxYSKZVb8",
+      "category": "기타",
       "news": [
         {
-          "title": "미 최대 원전 운영사, 신설 대신 증설…빠른 공급 목적",
-          "url": "https://www.yna.co.kr/view/AKR20261028025600009",
+          "title": "강원도, 11월 지질·생태명소에 삼척 대이리 동굴지대 선정",
+          "url": "https://www.yna.co.kr/view/AKR20261029063300062",
           "source": "연합뉴스"
         },
         {
-          "title": "미 에너지부, Alliant Energy에 51억 달러 대출 확정",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2146032",
-          "source": "Investing.com 한국어"
+          "title": "늦가을의 서정…강원도 11월 명소, 삼척 대이리 동굴지대",
+          "url": "https://www.pressian.com/pages/articles/2026102912550042150",
+          "source": "프레시안"
         },
         {
-          "title": "[미국 특징주] 콘스텔레이션 에너지, 美 정부 50억달러 금융 지원에 2.5% 상승",
-          "url": "https://www.newspim.com/news/view/20261028000490",
-          "source": "뉴스핌"
+          "title": "삼척 '대이리 동굴지대', 강원도 11월 지질·생태명소 선정",
+          "url": "https://news.tf.co.kr/read/national/2382201.htm",
+          "source": "더팩트"
         }
       ]
     },
     {
-      "keyword": "암살자(들)",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-29T07:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEEKiYOyY4nJe50XIvJu5pF1bthWgyiWNuziImEqS4Bj_uPQC7UI-QcWplTdo",
+      "keyword": "england vs sri lanka",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-29T08:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuWkcbD_obb6TKc9OyoSz_1hVXp7ah9eF9OiOiGJpBw1EVlBONPK2xIK8XhYU",
       "category": "스포츠",
       "news": [
         {
-          "title": "‘암살자(들)’ 허진호 감독 “박정희 암살 배후 애당초 배제···왜 이렇게 됐는지 궁금”",
-          "url": "https://weekly.khan.co.kr/article/202610281209001",
-          "source": "주간경향"
+          "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-preview",
+          "source": "Cricinfo"
         },
         {
-          "title": "최욱, '암살자(들)' 대관 행사 개최…\"영화 자체로 재밌는데 논란 안타까워\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820960",
-          "source": "SBS 뉴스"
+          "title": "Sri Lanka v England: men’s cricket tri-series one-day international – live",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/29/sri-lanka-v-england-mens-cricket-tri-series-one-day-international-live",
+          "source": "The Guardian"
         },
         {
-          "title": "논란 앞선 관객 발길…'암살자(들)', 손익분기점 340만 돌파 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102913277233136",
-          "source": "머니투데이"
+          "title": "Sri Lanka vs England prediction, lineups and Gaddafi Stadium pitch report — who will win?",
+          "url": "https://sports.yahoo.com/articles/sri-lanka-vs-england-prediction-174731383.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
       "keyword": "풍자",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-29T07:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LICfHSa_pHJm_bFUpR4l7EdE1-kmE9vWgNBdaksMigNcN-OG5TfEJ8PaX_4",
       "category": "기타",
@@ -249,27 +216,52 @@
       ]
     },
     {
-      "keyword": "티맵모빌리티",
+      "keyword": "항공기",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-29T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS33KrdBVPTN31SJkYWCUGSnQ0aPZ3oRhBEo4Upwx2BAIe4-ho9XCWAQ0tDydM",
-      "category": "IT·과학",
+      "startedAt": "2026-10-29T08:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxhFDVKEk6oy7kgUBHxvmZ0t2tyEib6fW2Mr1bfX2kKLVirkAjAOuZZkqyP_8",
+      "category": "기타",
       "news": [
         {
-          "title": "[단독] 골드만삭스, 티맵모빌리티 경영권 인수한다",
-          "url": "https://www.hankyung.com/article/202610293603i",
-          "source": "한국경제"
+          "title": "제주항공, 차세대 항공기 B737-8 구매 도입…\"기단 현대화\"",
+          "url": "https://www.yna.co.kr/view/AKR20261029048900003",
+          "source": "연합뉴스"
         },
         {
-          "title": "SK스퀘어, 골드만삭스와 티맵모빌리티 경영권 매각 협상",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450707",
+          "title": "제주항공 보잉 B737-8 14호기 도입, B737-8 여객기 비중 32.6%",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450606",
           "source": "비즈니스포스트"
         },
         {
-          "title": "“반도체만 남기고 다 판다”…SK스퀘어, '티맵' 골드만삭스와 매각 협상",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05628486645617840&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "제주항공, 연료 덜 쓰는 신형 항공기 추가 도입… “고유가 부담 완화”",
+          "url": "https://biz.chosun.com/industry/company/2026/10/29/Z2JXC2IOLJBRZA6HOFW6G6IK2I/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "009830",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T07:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn860pW5PKoCdus_FBLEVWFfnvZchZN-YBRbTkmhbwoYJicVA2fFdey5DMed8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "AJP Factbox: Hanwha Solutions swings to Q3 2026 profit",
+          "url": "https://www.ajupress.com/view/20261029145024815",
+          "source": "Aju Press"
+        },
+        {
+          "title": "Hanwha Systems Posts 831.6 Billion Won in Third-Quarter Revenue on Defense Growth",
+          "url": "https://www.thelec.net/news/articleView.html?idxno=14974",
+          "source": "THE ELEC, Korea Electronics Industry Media"
+        },
+        {
+          "title": "Hanwha Solutions returns to profit with 90.5 billion won Q3 operating profit on strong solar business",
+          "url": "https://www.mt.co.kr/en/industry/2026/10/29/2026102914054918433",
+          "source": "머니투데이"
         }
       ]
     }
