@@ -1,53 +1,86 @@
 {
-  "updatedAt": "2026-10-29T13:54:32.686Z",
+  "updatedAt": "2026-10-29T14:49:44.349Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
+      "count": 4
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "구속영장",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-29T12:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-7kgplplasqnuHnkytagM4a8Vyn7m42MzkttTwG7lQx7NaQL7cGzTmYvVOBU",
-      "category": "정치·사회",
+      "keyword": "현대자동차",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-10-29T13:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv7fmrC__HEGJBj1MJr7PywP4ugGfMoMWS6xkaFg53iMdNn4hkYha6cPx3AfQ",
+      "category": "기타",
       "news": [
         {
-          "title": "구로 주택가 ‘미라 시신’은 아내와 함께 거주하던 중국인···타살 혐의점 발견 안 돼",
-          "url": "https://www.khan.co.kr/article/202610291815011",
+          "title": "현대차, 파업에도 3분기 영업익 증가…연간 목표는 눈높이 낮춰",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374105",
+          "source": "전기신문"
+        },
+        {
+          "title": "현대차 \"테슬라·중국차 위협 사실…할부 경쟁력·AS로 차별화\"",
+          "url": "https://www.yna.co.kr/view/AKR20261029153500003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "현대차, 6년 만에 매출 ‘후진’",
+          "url": "https://www.khan.co.kr/article/202610292031005",
           "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "유해진",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-29T13:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpK4Bg9rXPvk4qLQJUd89yA7x2_NQTUB2xZcRKpboPbwFpiCj3j0NlF7qj9Z0",
+      "category": "연예",
+      "news": [
+        {
+          "title": "‘대통령 표창’ 유해진 “‘왕사남’ 덕분…좋은 영화로 보답”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12190556",
+          "source": "매일경제"
         },
         {
-          "title": "구로구 ‘미라’ 시신 유기한 60·80대 남성 구속 영장 기각",
-          "url": "https://www.chosun.com/national/national_general/2026/10/29/OTU6CICB4VDXHMYARQESKAX2IA/",
-          "source": "조선일보"
+          "title": "[포토] 대통령 표창 받은 배우 소지섭",
+          "url": "https://www.viva100.com/article/20261029501489",
+          "source": "브릿지경제"
         },
         {
-          "title": "구로 ‘미라 시신’은 중국인 불법체류자…집주인이 유기했다",
-          "url": "https://www.donga.com/news/Society/article/all/20261029/134935819/2",
-          "source": "동아일보"
+          "title": "유해진, '신변보호 해제' 후 첫 공식석상서 대통령 표창…\"좋은 영화로 보답\"",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847330",
+          "source": "뉴시스"
         }
       ]
     },
     {
       "keyword": "퇴직",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-29T12:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rpGJMVelySZ85sURfbDOYl4CuiUq9BaZXm8Kagtby5eXjtxZ8eJII7e_rb0",
       "category": "기타",
@@ -58,171 +91,146 @@
           "source": "한국경제"
         },
         {
-          "title": "퇴직금 못 떼먹는다…2030년까지 모든 사업장 ‘사외적립 의무화’",
-          "url": "https://www.khan.co.kr/article/202610292153025",
-          "source": "경향신문"
-        },
-        {
-          "title": "퇴직금 체불 못 하게 사외적립 의무화...기금형도 도입",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202610291657306557_005.html",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "런닝맨",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTk3djhSJ1Ec_CADDJ8E3qHrhYSg1SftY0L_WX4FNFXRqFQz3Kco2OQXrkwYM",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "“성적 접촉 아냐” 안은진에 뽀뽀 요구 ‘런닝맨’ 결론",
-          "url": "https://www.munhwa.com/article/11627410",
-          "source": "문화일보"
-        },
-        {
-          "title": "‘런닝맨’ 안은진 뽀뽀 논란···“성희롱 논란 생길 수밖에” 지적에도 ‘문제없음’",
-          "url": "https://sports.khan.co.kr/article/202610291349003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "‘런닝맨’ 뽀뽀 게임, 성희롱 논란에도 ‘문제없음’",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12189946",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "김선빈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-29T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnPXtK8RQCGL_AK0NE8HeY3QXOwNnUe5EsjZbi9QJnPT6y3Qd6LoufIM8Dyfc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "쫓아가자…김선빈 안타",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510725",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[사진]동점 적시타 날리는 하주석 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/202610291918779831O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "[PO] '1회 실수 결자해지' KIA 김태군, 추격 적시타 기록...하주석 동점 적시타 2-2",
-          "url": "https://www.newspim.com/news/view/20261029001387",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "오픈ai",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-29T12:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ02tff6S2wRm_8jcp_OmZ1RKfIVHmTZfwGMzYm1ciLa84OwXQnpKMhaKaHyh0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "중국 AI '증류 공격' 표적, 클로드에서 오픈AI '아스트라'로 이동",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610291544271157",
-          "source": "YTN"
-        },
-        {
-          "title": "중국 AI 기업, OpenAI의 Astra 출력물로 모델 학습 - The Information",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2147408",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "\"딥시크·문샷, '증류' 주요 표적은 아스트라\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821504",
+          "title": "못 받은 퇴직금 '8,229억'…\"회사 밖으로\" 걱정 줄인다",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821971",
           "source": "SBS 뉴스"
+        },
+        {
+          "title": "퇴직급여 사외적립 의무화…2028년 100인 이상 사업장부터 시행",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374071",
+          "source": "전기신문"
         }
       ]
     },
     {
-      "keyword": "이승민",
+      "keyword": "진에어",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-10-29T12:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlImWOy_ieEC111BbB3of0yA4W3jgZi8xCxD7td6CYLDHrrksmwDkmQuWJtZg",
+      "startedAt": "2026-10-29T13:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ66k7YkRxoFRL9o8JbE5VpAS7TYXjZVyFHl8yZdIjPIW1VNFCM-kx694qXEHc",
       "category": "기타",
       "news": [
         {
-          "title": "이승민, 좋았어",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510987",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[포토] '8회말 책임진' 이승민 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102921544929623",
-          "source": "머니투데이"
-        },
-        {
-          "title": "이재희의 역투",
-          "url": "https://www.news1.kr/photos/8187398",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "매매",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-29T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdinLVgHnzwaNI7ORGku4t7yGlMlQC1h2aYWwXCBzVKg1fUQKO2ALjDrFoaVU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "서울 '국평' 평균 매매가 12.8억·전세 7.3억…매매 내리고 전세 올라 - 머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102908533712473",
-          "source": "머니투데이"
-        },
-        {
-          "title": "“서울 ’국평’ 집값 2.5% 하락…전세 4% 올라“",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029224335IM2",
+          "title": "진에어, 외부 해킹으로 1,454명 개인정보 유출",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029211021Jqf",
           "source": "연합뉴스TV"
         },
         {
-          "title": "\"올해도 죽을 맛, 내년이 더 힘들어..3년 정도 마음에 준비해야\"",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610280845360774",
-          "source": "YTN"
+          "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
+          "url": "https://zdnet.co.kr/view/?no=20261029143545",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "진에어, 외부 해킹 공격에 회원 1천454명 정보 무더기 유출",
+          "url": "https://stock.mk.co.kr/news/view/1184553",
+          "source": "매일경제 마켓"
         }
       ]
     },
     {
-      "keyword": "조상우",
+      "keyword": "사토시",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T13:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4TE4C5YzeTZWDbW-ynBlrTGZgqsN8aTdQX8YPBTavSPwRJvexoSj0Max_kFI",
+      "category": "경제",
+      "news": [
+        {
+          "title": "팀 드레이퍼 \"비트코인 채택 확대시 은행 대규모 뱅크런 현실로\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02676486645617840",
+          "source": "마켓인"
+        },
+        {
+          "title": "사토시를 찾아서",
+          "url": "https://www.vietnam.vn/ko/truy-tim-satoshi",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "팀 드레이퍼, 사토시의 혁신 극찬...\"금융 질서에 도전한 낙관주의자\"",
+          "url": "https://www.coinreaders.com/265743",
+          "source": "코인리더스"
+        }
+      ]
+    },
+    {
+      "keyword": "장경수",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-29T12:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeU93uWh3sptlPcURnaYkOQuTNToY_EmnkXfjY4HTuKIfJSmD_yqvsEaDa_U8",
+      "startedAt": "2026-10-29T13:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtv9mQz56f-7P8Jh5mgo_Y7NrgcQAGCjd0_gUUaCXOjWUzBhKUp-g8lq096Lc",
       "category": "기타",
       "news": [
         {
-          "title": "이닝 마친 전상현",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021511005",
+          "title": "조용필 ‘상처’·송대관 ‘정 때문에’ 작사가 장경수 별세",
+          "url": "https://www.khan.co.kr/article/202610292018045",
+          "source": "경향신문"
+        },
+        {
+          "title": "장기하 커버 '풍문으로 들었소' 작사가 장경수 별세, 향년 73세",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846756",
           "source": "뉴시스"
         },
         {
-          "title": "[사진]전상현-김태군,'위기 넘기자'",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/MZRDGMJZGA2TMMLGMM3TONJUGQ/",
+          "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/",
           "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "김헌곤",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T13:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FKP8FlUtRpPY39t6gFRmiEjBQAXrZXwn6wm2SK9vfwfL8f9_AsC1ByFKrYk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[사진] 김헌곤, 안타 성공",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/",
+          "source": "조선일보"
         },
         {
-          "title": "[사진]조상우,'카스트로 환상 수비에 박수'",
-          "url": "https://www.osen.co.kr/article/G1112900722",
+          "title": "[사진]김헌곤, 8회 선두타자 안타",
+          "url": "http://www.osen.co.kr/article/G1112900779",
           "source": "OSEN"
+        },
+        {
+          "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
+          "url": "https://www.koreadaily.com/article/20261027003122366",
+          "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "슈퍼맨이 돌아왔다",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T13:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWfhpvev4KP-0WKTKQ0fQkcFcEut4ViB7r4dIYYBHouwG6EOGFEm_T6MMgog",
+      "category": "경제",
+      "news": [
+        {
+          "title": "‘비트코인 대박’ 기욤, 양평 별장→서울대공원뷰 ‘서울 집’ 공개 (‘슈돌’)",
+          "url": "https://www.osen.co.kr/article/G1112900048",
+          "source": "OSEN"
+        },
+        {
+          "title": "기욤 패트리, 80세 母 손녀 보려 24시간 비행…“마지막 한국 여행 될 수도”",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134930811/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "기욤, 39개월 딸 ‘칼질’ 도전에도 안 말린다..“무섭지만, NO 없어” (‘슈돌’)[순간포착]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/GQ4WINRWGBSTKZRWGQYTSOBRMU/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
       "keyword": "지하철",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-29T12:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSI8q4XudGw0am5iWGHib-hRaAPAI57NTDQ3e5ZqEvGZXam5ZErupHLcP56Y",
       "category": "정치·사회",
@@ -245,27 +253,27 @@
       ]
     },
     {
-      "keyword": "시바이누코인",
+      "keyword": "이상미",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-29T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqh9TQDx7l2VGlKyDc1ovzILuP4L4gmtUqIhXCmuZD-NxjoSKw4uQQaadxYsI",
-      "category": "경제",
+      "startedAt": "2026-10-29T13:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwdJXY79gWFvYIoYq_SkNpt0aD_-tDXdzW8YLjw1xhiQwrkDjYU76JwHu4X2w",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "시바이누(SHIB), 미결제 약정 5,000만 달러 붕괴 위기...\"레버리지 베팅만 폭주\"",
-          "url": "https://www.coinreaders.com/266004",
-          "source": "코인리더스"
+          "title": "'전원일기 개똥엄마' 이상미, 2년 전 이별 슬픔",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736948",
+          "source": "국제뉴스"
         },
         {
-          "title": "시바이누(SHIB) 소각 1190만개…새벽 1043만개 거래 포함",
-          "url": "https://www.tokenpost.kr/news/cryptocurrency/428963",
-          "source": "토큰포스트"
+          "title": "국호, 배우 생활 30년에도 생활고…\"15년째 건설 현장 출근\" (특종세상)",
+          "url": "https://www.xportsnews.com/article/2213139",
+          "source": "www.xportsnews.com"
         },
         {
-          "title": "시바이누, 연저점 눈앞까지 밀렸다…끝없는 추락 언제까지",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710110",
-          "source": "디지털투데이"
+          "title": "[종합] “죽 사러 간 사이에 돌아가셨다”…‘특종세상’ ‘개똥엄마’ 이상미, 여우주연상에도 못 웃은 이유",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16262319",
+          "source": "톱스타뉴스"
         }
       ]
     }
