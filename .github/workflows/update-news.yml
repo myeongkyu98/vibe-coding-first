@@ -1,5 +1,5 @@
-# 매시간 경제 뉴스를 새로 모아 news.json을 갱신
-name: Update economic news
+# 매시간 경제 뉴스와 인기 트렌드를 새로 모아 news.json, trends.json을 갱신
+name: Update news and trends
 
 on:
   schedule:
@@ -19,17 +19,23 @@ jobs:
         with:
           node-version: 20
 
+      # 한쪽이 실패해도 다른 쪽은 갱신되도록
       - name: Fetch news
         run: node scripts/fetch-news.mjs
+        continue-on-error: true
+
+      - name: Fetch trends
+        run: node scripts/fetch-trends.mjs
+        continue-on-error: true
 
       - name: Commit if changed
         run: |
-          if git diff --quiet news.json; then
+          if git diff --quiet news.json trends.json; then
             echo "변경 없음"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898293+github-actions[bot]@users.noreply.github.com"
-          git add news.json
-          git commit -m "Update economic news"
+          git add news.json trends.json
+          git commit -m "Update news and trends"
           git push

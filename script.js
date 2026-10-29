@@ -316,8 +316,9 @@ function timeAgo(iso) {
 }
 
 // 텍스트로만 넣어서 기사 제목에 HTML이 섞여도 안전하게
-function el(tag, props = {}, children = []) {
+function el(tag, { dataset, ...props } = {}, children = []) {
   const node = Object.assign(document.createElement(tag), props);
+  if (dataset) Object.assign(node.dataset, dataset);
   node.append(...children);
   return node;
 }
@@ -616,3 +617,131 @@ weatherModal.addEventListener("click", (e) => {
 
 loadWeather();
 setInterval(loadWeather, 10 * 60 * 1000);
+
+// ===== 요즘 트렌드 =====
+// trends.json은 scripts/fetch-trends.mjs가 만들어요 (GitHub Actions가 매시간 갱신).
+const trendCard = document.getElementById("trendCard");
+const trendModal = document.getElementById("trendModal");
+const trendList = document.getElementById("trendList");
+const trendFilter = document.getElementById("trendFilter");
+
+let trendData = null;
+let trendFilterCat = "전체";
+
+function renderTrendCard({ items, summary }) {
+  document.getElementById("trendSum").textContent = summary
+    .slice(0, 2)
+    .map((s) => `${s.category} ${s.count}`)
+    .join(" · ");
+  document.getElementById("trendTop").replaceChildren(
+    ...items.slice(0, 3).map((t) =>
+      el("li", {}, [
+        el("span", { className: "trend__kw", textContent: t.keyword }),
+        el("span", { className: "tag", textContent: t.category, dataset: { cat: t.category } }),
+        el("span", { className: "trend__traffic", textContent: t.traffic }),
+      ])
+    )
+  );
+}
+
+// 분야 비율 막대
+function renderTrendSummary({ items, summary }) {
+  document.getElementById("trendSummary").replaceChildren(
+    ...summary.map((s) => {
+      const bar = el("span", { title: `${s.category} ${s.count}개`, dataset: { cat: s.category } });
+      bar.style.width = `${(s.count / items.length) * 100}%`;
+      return bar;
+    })
+  );
+}
+
+function renderTrendFilter() {
+  const cats = ["전체", ...trendData.summary.map((s) => s.category)];
+  trendFilter.replaceChildren(
+    ...cats.map((cat) => {
+      const count = cat === "전체" ? trendData.items.length : trendData.summary.find((s) => s.category === cat).count;
+      const btn = el("button", { type: "button", textContent: `${cat} ${count}` });
+      btn.setAttribute("aria-pressed", cat === trendFilterCat);
+      btn.addEventListener("click", () => {
+        trendFilterCat = cat;
+        renderTrendFilter();
+        renderTrendList();
+      });
+      return btn;
+    })
+  );
+}
+
+function renderTrendList() {
+  const items = trendFilterCat === "전체" ? trendData.items : trendData.items.filter((t) => t.category === trendFilterCat);
+  trendList.replaceChildren(
+    ...items.map((t) => {
+      const img = el("img", { className: "trend-item__img", src: t.picture, alt: "", loading: "lazy", referrerPolicy: "no-referrer" });
+      img.addEventListener("error", () => img.remove());
+      return el("li", {}, [
+        el("div", { className: "trend-item" }, [
+          ...(t.picture ? [img] : []),
+          el("div", { className: "trend-item__body" }, [
+            el("div", { className: "trend-item__kw" }, [
+              el("strong", { textContent: `${trendData.items.indexOf(t) + 1}. ${t.keyword}` }),
+              el("span", { className: "tag", textContent: t.category, dataset: { cat: t.category } }),
+              el("small", { textContent: `검색 ${t.traffic} · ${timeAgo(t.startedAt)}부터` }),
+            ]),
+            el(
+              "ul",
+              { className: "trend-item__news" },
+              t.news.map((n) =>
+                el("li", {}, [
+                  el("a", { href: n.url, target: "_blank", rel: "noopener noreferrer" }, [n.title, el("span", { textContent: n.source })]),
+                ])
+              )
+            ),
+          ]),
+        ]),
+      ]);
+    })
+  );
+}
+
+function showTrendError() {
+  document.getElementById("trendSum").textContent = "";
+  document.getElementById("trendTop").replaceChildren(el("li", { textContent: "트렌드를 불러오지 못했어요. 눌러서 다시 시도" }));
+  trendFilter.replaceChildren();
+  document.getElementById("trendSummary").replaceChildren();
+  const retry = el("button", { type: "button", textContent: "다시 시도" });
+  retry.addEventListener("click", loadTrends);
+  trendList.replaceChildren(
+    el("li", { className: "news-list__empty" }, ["트렌드를 불러오지 못했어요. 인터넷 연결을 확인해 주세요.", el("br"), retry])
+  );
+}
+
+async function loadTrends() {
+  try {
+    const res = await fetch(`trends.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(res.status);
+    trendData = await res.json();
+    if (!trendData.items?.length) throw new Error("empty");
+
+    const updated = `${timeAgo(trendData.updatedAt)} 업데이트 · 검색량 순`;
+    document.getElementById("trendUpdated").textContent = updated;
+    document.getElementById("trendModalSub").textContent = updated;
+    renderTrendCard(trendData);
+    renderTrendSummary(trendData);
+    renderTrendFilter();
+    renderTrendList();
+  } catch {
+    trendData = null;
+    showTrendError();
+  }
+}
+
+trendCard.addEventListener("click", () => {
+  if (!trendData) loadTrends();
+  trendModal.showModal();
+});
+document.getElementById("trendClose").addEventListener("click", () => trendModal.close());
+trendModal.addEventListener("click", (e) => {
+  if (e.target === trendModal) trendModal.close();
+});
+
+loadTrends();

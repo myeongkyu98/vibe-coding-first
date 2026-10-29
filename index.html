@@ -225,28 +225,24 @@
       <h2 class="section-title"><span>최근 작업물</span></h2>
 
       <div class="cards">
-        <!-- 카드 1 -->
-        <a href="#" class="card fade-in">
-          <div class="card__thumb thumb--match">
-            <div class="match">
-              <div class="match__head">
-                <span class="match__icon">🏉</span>
-                <div>
-                  <strong>울산 vs 전북</strong>
-                  <small>5월 11일 오후 8:00 · 120개 마켓</small>
-                </div>
+        <!-- 카드 1: 요즘 트렌드 (trends.json에서 불러옴) -->
+        <button type="button" class="card card--trend fade-in" id="trendCard" aria-haspopup="dialog">
+          <div class="card__thumb thumb--trend">
+            <div class="trend" aria-live="polite">
+              <div class="trend__head">
+                <span class="trend__badge">🔥 지금 뜨는 검색어</span>
+                <span class="trend__sum" id="trendSum"></span>
               </div>
-              <div class="match__odds">
-                <div class="odd"><span class="badge badge--green"></span><div><b>울산</b><em>1.52</em></div></div>
-                <div class="odd"><span class="badge badge--red"></span><div><b>전북</b><em>2.32</em></div></div>
-              </div>
+              <ol class="trend__top" id="trendTop">
+                <li>트렌드를 불러오는 중...</li>
+              </ol>
             </div>
           </div>
           <div class="card__body">
-            <h3>가볍고 단단한 디자인 시스템 만들기</h3>
-            <p>윌리엄 힐</p>
+            <h3>요즘 트렌드 한눈에 보기</h3>
+            <p id="trendUpdated">구글 트렌드 인기 검색어 · 분야별 정리</p>
           </div>
-        </a>
+        </button>
 
         <!-- 카드 2: 핵심 경제 뉴스 (news.json에서 불러옴) -->
         <button type="button" class="card card--news fade-in" id="newsCard" aria-haspopup="dialog">
@@ -324,6 +320,21 @@
     <div class="news-filter" id="newsFilter" role="group" aria-label="분야 선택"></div>
     <ol class="news-list" id="newsList"></ol>
     <p class="news-modal__note">연합뉴스·한국경제 경제 기사를 금리·환율·증시·물가 등 핵심 키워드와 보도량으로 골랐어요. 기사를 누르면 언론사 사이트로 이동해요.</p>
+  </dialog>
+
+  <!-- 요즘 트렌드 전체 목록 -->
+  <dialog class="news-modal trend-modal" id="trendModal" aria-labelledby="trendModalTitle">
+    <div class="news-modal__head">
+      <div>
+        <h2 id="trendModalTitle">요즘 트렌드 한눈에 보기</h2>
+        <p class="news-modal__sub" id="trendModalSub"></p>
+      </div>
+      <button type="button" class="news-modal__close" id="trendClose" aria-label="닫기">✕</button>
+    </div>
+    <div class="trend-summary" id="trendSummary"></div>
+    <div class="news-filter" id="trendFilter" role="group" aria-label="분야 선택"></div>
+    <ol class="news-list trend-list" id="trendList"></ol>
+    <p class="news-modal__note">구글 트렌드에서 한국 사람들이 지금 많이 검색하는 단어와 관련 기사를 모았어요. 분야는 검색어와 기사 제목으로 자동 분류해서 가끔 틀릴 수 있어요.</p>
   </dialog>
 
   <!-- 서울 날씨 상세 -->

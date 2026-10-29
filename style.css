@@ -309,32 +309,99 @@ a { color: inherit; text-decoration: none; }
 .card__body h3 { font-size: 14px; font-weight: 400; color: #333; }
 .card__body p { font-size: 12px; color: var(--muted); }
 
-/* 썸네일 1 - 경기 카드 */
-.thumb--match { display: flex; align-items: center; padding-left: 16px; }
-.match {
+/* 썸네일 1 - 요즘 트렌드 */
+.thumb--trend {
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  background: linear-gradient(135deg, #ff7a59, #ff3d77);
+}
+.trend {
+  width: 100%;
   background: #fff;
   border-radius: 4px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, .12);
-  padding: 10px 0 10px 10px;
-  width: 115%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, .18);
+  padding: 8px 12px;
 }
-.match__head { display: flex; gap: 10px; align-items: center; margin-bottom: 10px; }
-.match__icon { font-size: 18px; }
-.match__head strong { display: block; font-size: 12px; color: #222; }
-.match__head small { font-size: 10px; color: #999; }
-.match__odds { display: flex; gap: 6px; }
-.odd {
-  display: flex; gap: 8px; align-items: center;
-  border: 1px solid #e6e6e6; border-radius: 3px;
-  padding: 6px 8px; flex: 1;
+.trend__head { display: flex; justify-content: space-between; align-items: center; gap: 6px; margin-bottom: 4px; }
+.trend__badge { font-size: 10px; font-weight: 600; color: #ff3d77; }
+.trend__sum { font-size: 10px; color: #888; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.trend__top { list-style: none; counter-reset: trend; }
+.trend__top li {
+  counter-increment: trend;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 0;
+  font-size: 12px;
+  color: #222;
 }
-.odd b { display: block; font-size: 10px; font-weight: 600; color: #222; }
-.odd em { font-style: normal; font-size: 12px; color: var(--blue); }
-.badge { width: 22px; height: 22px; border-radius: 50%; flex-shrink: 0; }
-.badge--green { background: linear-gradient(135deg, #8cc63f 50%, #f5d33f 50%); }
-.badge--red { background: linear-gradient(#e03c31 33%, #2c8a3c 33% 66%, #e03c31 66%); }
+.trend__top li::before {
+  content: counter(trend);
+  width: 14px;
+  font-weight: 700;
+  color: #ff3d77;
+}
+.trend__kw { flex: 1; min-width: 0; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.trend__traffic { font-size: 10px; color: #888; }
+
+/* 분야별 색 */
+.tag[data-cat="경제"] { background: #e8f1fb; color: #1f6fbf; }
+.tag[data-cat="IT·과학"] { background: #efeafd; color: #6741d9; }
+.tag[data-cat="스포츠"] { background: #e7f6ec; color: #2c8a3c; }
+.tag[data-cat="연예"] { background: #fdebf2; color: #d6336c; }
+.tag[data-cat="정치·사회"] { background: #fff3e0; color: #c96a00; }
+.tag[data-cat="생활·날씨"] { background: #e6f7f8; color: #0c8599; }
+
+/* 트렌드 목록 창 */
+.trend-summary { display: flex; height: 8px; margin: 0 20px 10px; border-radius: 4px; overflow: hidden; background: #eee; }
+.trend-summary span { height: 100%; }
+.trend-summary span[data-cat="경제"] { background: #1f6fbf; }
+.trend-summary span[data-cat="IT·과학"] { background: #6741d9; }
+.trend-summary span[data-cat="스포츠"] { background: #2c8a3c; }
+.trend-summary span[data-cat="연예"] { background: #d6336c; }
+.trend-summary span[data-cat="정치·사회"] { background: #c96a00; }
+.trend-summary span[data-cat="생활·날씨"] { background: #0c8599; }
+.trend-summary span[data-cat="기타"] { background: #aaa; }
+
+.trend-list li { padding: 12px 20px; }
+.trend-list li + li { border-top: 1px solid #f0f0f0; }
+.trend-item { display: flex; gap: 12px; align-items: flex-start; }
+.trend-item__img {
+  width: 56px; height: 56px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  object-fit: cover;
+  background: #f2f2f2;
+}
+.trend-item__body { flex: 1; min-width: 0; }
+.trend-item__kw { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 4px; }
+.trend-item__kw strong { font-size: 15px; color: #222; }
+.trend-item__kw small { font-size: 11px; color: #888; }
+.trend-item__news { list-style: none; }
+.trend-list .trend-item__news li { padding: 0; border: 0; }
+.trend-list .trend-item__news a {
+  display: block;
+  padding: 3px 0;
+  font-size: 13px;
+  line-height: 1.4;
+  color: #444;
+}
+.trend-list .trend-item__news a:hover { color: #000; text-decoration: underline; background: none; }
+.trend-list .trend-item__news a span { font-size: 11px; color: #999; margin-left: 4px; }
+
+@media (max-width: 640px) {
+  .trend__top li { font-size: 14px; padding: 3px 0; }
+  .trend__badge, .trend__sum, .trend__traffic { font-size: 12px; }
+  .trend-summary { margin: 0 16px 12px; }
+  .trend-list li { padding: 14px 16px; }
+  .trend-item__kw strong { font-size: 17px; }
+  .trend-list .trend-item__news a { min-height: 0; padding: 8px 0; font-size: 15px; }
+  .trend-item__img { width: 64px; height: 64px; }
+}
 
 /* 썸네일 2 - 핵심 경제 뉴스 */
+.card--trend,
 .card--news,
 .card--weather {
   display: block;
@@ -345,6 +412,7 @@ a { color: inherit; text-decoration: none; }
   color: inherit;
   cursor: pointer;
 }
+.card--trend:focus-visible,
 .card--news:focus-visible,
 .card--weather:focus-visible { outline: 2px solid #222; outline-offset: 2px; }
 .thumb--econ {
