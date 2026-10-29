@@ -1,54 +1,50 @@
 {
-  "updatedAt": "2026-10-29T14:49:44.349Z",
+  "updatedAt": "2026-10-29T15:46:37.716Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 3
+    },
+    {
+      "category": "연예",
+      "count": 3
     },
     {
       "category": "경제",
       "count": 2
     },
     {
-      "category": "연예",
+      "category": "IT·과학",
       "count": 1
     },
     {
       "category": "스포츠",
       "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "현대자동차",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-10-29T13:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv7fmrC__HEGJBj1MJr7PywP4ugGfMoMWS6xkaFg53iMdNn4hkYha6cPx3AfQ",
+      "keyword": "성과급",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-29T13:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbhpDH1bA8fV2SGbs6XZW3q17lrh_9oL2SYbCvllej3UGblGpZdWrhi1m-40Y",
       "category": "기타",
       "news": [
         {
-          "title": "현대차, 파업에도 3분기 영업익 증가…연간 목표는 눈높이 낮춰",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374105",
-          "source": "전기신문"
+          "title": "충북교육청, 2026년 시·도교육청 평가 17개 지표 전부 통과 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224456712896&redirect=Dlog",
+          "source": "Naver Blog"
         },
         {
-          "title": "현대차 \"테슬라·중국차 위협 사실…할부 경쟁력·AS로 차별화\"",
-          "url": "https://www.yna.co.kr/view/AKR20261029153500003",
+          "title": "울산교육청, 교육부 평가서 3억7천500만원 성과급 확보",
+          "url": "https://www.yna.co.kr/view/AKR20261029168300057",
           "source": "연합뉴스"
         },
         {
-          "title": "현대차, 6년 만에 매출 ‘후진’",
-          "url": "https://www.khan.co.kr/article/202610292031005",
-          "source": "경향신문"
+          "title": "전남·광주 교육행정, 전국 평가서 17개 지표 싹쓸이 통과…7억5천만원 성과급",
+          "url": "https://www.viva100.com/article/20261029500684",
+          "source": "브릿지경제"
         }
       ]
     },
@@ -78,27 +74,52 @@
       ]
     },
     {
-      "keyword": "퇴직",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-29T12:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rpGJMVelySZ85sURfbDOYl4CuiUq9BaZXm8Kagtby5eXjtxZ8eJII7e_rb0",
+      "keyword": "인공지능",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-29T13:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk55fsO0M6jDBzWqRIVFyMWMtIzRxi9VskToiRPuPLRUT1FNfb8lmv0rgvFww",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "강원정보문화산업진흥원·강릉과학산업진흥원, AI 헬스케어 글로벌 거점 조성 추진",
+          "url": "https://www.etnews.com/20261029000223",
+          "source": "전자신문"
+        },
+        {
+          "title": "춘천시 첫 인공지능 기본계획 윤곽…돌봄·안전·바이오 9개 중점사업",
+          "url": "https://www.fnnews.com/news/202610291811356546",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "[글로컬픽]춘천·강릉, AI 헬스케어 글로벌 거점 육성 나선다",
+          "url": "https://news.mtn.co.kr/video/2026102911082435807",
+          "source": "MTN 머니투데이방송"
+        }
+      ]
+    },
+    {
+      "keyword": "장경수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T13:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtv9mQz56f-7P8Jh5mgo_Y7NrgcQAGCjd0_gUUaCXOjWUzBhKUp-g8lq096Lc",
       "category": "기타",
       "news": [
         {
-          "title": "2030년 퇴직금 사라진다…'기금형 퇴직연금'도 도입",
-          "url": "https://www.hankyung.com/article/2026102943271",
-          "source": "한국경제"
+          "title": "조용필 ‘상처’·송대관 ‘정 때문에’ 작사가 장경수 별세",
+          "url": "https://www.khan.co.kr/article/202610292018045",
+          "source": "경향신문"
         },
         {
-          "title": "못 받은 퇴직금 '8,229억'…\"회사 밖으로\" 걱정 줄인다",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821971",
-          "source": "SBS 뉴스"
+          "title": "장기하 커버 '풍문으로 들었소' 작사가 장경수 별세, 향년 73세",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846756",
+          "source": "뉴시스"
         },
         {
-          "title": "퇴직급여 사외적립 의무화…2028년 100인 이상 사업장부터 시행",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374071",
-          "source": "전기신문"
+          "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/",
+          "source": "Chosunbiz"
         }
       ]
     },
@@ -107,23 +128,23 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-10-29T13:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ66k7YkRxoFRL9o8JbE5VpAS7TYXjZVyFHl8yZdIjPIW1VNFCM-kx694qXEHc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEfJOB5a1ab4ZRhES2CXl7YPy2YRxH1yt7KaW3bd9zuZa5SpMH6Tpd6yngStY",
       "category": "기타",
       "news": [
         {
-          "title": "진에어, 외부 해킹으로 1,454명 개인정보 유출",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261029211021Jqf",
-          "source": "연합뉴스TV"
+          "title": "대한항공·아시아나항공 이어···진에어, 해킹공격으로 1454명 개인회원 정보 유출",
+          "url": "https://www.khan.co.kr/article/202610291909001",
+          "source": "경향신문"
+        },
+        {
+          "title": "진에어 고객 1454명 개인정보 유출… 이름·전화번호 등 8개 항목 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/29/2026102920573248577",
+          "source": "머니투데이"
         },
         {
           "title": "일본항공 예약시스템 뚫렸다…9만명 개인정보 노출",
           "url": "https://zdnet.co.kr/view/?no=20261029143545",
           "source": "지디넷코리아"
-        },
-        {
-          "title": "진에어, 외부 해킹 공격에 회원 1천454명 정보 무더기 유출",
-          "url": "https://stock.mk.co.kr/news/view/1184553",
-          "source": "매일경제 마켓"
         }
       ]
     },
@@ -153,27 +174,27 @@
       ]
     },
     {
-      "keyword": "장경수",
+      "keyword": "이병헌",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-29T13:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtv9mQz56f-7P8Jh5mgo_Y7NrgcQAGCjd0_gUUaCXOjWUzBhKUp-g8lq096Lc",
-      "category": "기타",
+      "startedAt": "2026-10-29T14:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz-uqJAW9ZvI0qlc8OdYogDxxqEYsj5ClkSaaOGap0vsRf9pS9x42jxrgUJkA",
+      "category": "연예",
       "news": [
         {
-          "title": "조용필 ‘상처’·송대관 ‘정 때문에’ 작사가 장경수 별세",
-          "url": "https://www.khan.co.kr/article/202610292018045",
-          "source": "경향신문"
+          "title": "한국인이 꼽은 대표 배우 1위는 이병헌…연기력보다 ‘이것’ 중요",
+          "url": "https://www.segye.com/newsView/20261029505193",
+          "source": "세계일보"
         },
         {
-          "title": "장기하 커버 '풍문으로 들었소' 작사가 장경수 별세, 향년 73세",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846756",
-          "source": "뉴시스"
+          "title": "[기획] 대한민국 대표 배우와 그 조건",
+          "url": "https://hrcopinion.co.kr/archives/38042",
+          "source": "한국리서치 정기조사 여론속의 여론"
         },
         {
-          "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/",
-          "source": "Chosunbiz"
+          "title": "‘대한민국 대표배우’ 이병헌 1위···조건은 ‘도덕성’",
+          "url": "https://sports.khan.co.kr/article/202610290924003",
+          "source": "스포츠경향"
         }
       ]
     },
@@ -182,14 +203,9 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-29T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FKP8FlUtRpPY39t6gFRmiEjBQAXrZXwn6wm2SK9vfwfL8f9_AsC1ByFKrYk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOuCl30EdeEY1d4G56x0hszOpPoQ_hF-cpKcmWf5AHMP7uUYYYlS3FJMeLwuw",
       "category": "스포츠",
       "news": [
-        {
-          "title": "[사진] 김헌곤, 안타 성공",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/10/29/MUYDMM3FMJTDON3DGIZDGMLCMY/",
-          "source": "조선일보"
-        },
         {
           "title": "[사진]김헌곤, 8회 선두타자 안타",
           "url": "http://www.osen.co.kr/article/G1112900779",
@@ -199,6 +215,11 @@
           "title": "“네일에게 강하다고? 그건 오해” 2년 전 KS 홈런 영웅의 뜻밖의 고백…“긴 휴식? 다 핑계다” [PO2]",
           "url": "https://www.koreadaily.com/article/20261027003122366",
           "source": "미주중앙일보"
+        },
+        {
+          "title": "2년 전 그때처럼, 삼성 비밀병기 김헌곤 [플레이오프]",
+          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500571",
+          "source": "www.newsq.co.kr"
         }
       ]
     },
@@ -228,37 +249,12 @@
       ]
     },
     {
-      "keyword": "지하철",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T12:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSI8q4XudGw0am5iWGHib-hRaAPAI57NTDQ3e5ZqEvGZXam5ZErupHLcP56Y",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "지하철 7호선, 의정부·양주를 지나 포천까지! 도봉산-옥정 연장선",
-          "url": "https://mediahub.seoul.go.kr/archives/2019857",
-          "source": "서울특별시"
-        },
-        {
-          "title": "서울교통공사 거부에…7호선 연장 '도봉산옥정선' 민간 위탁 운영 가닥",
-          "url": "https://news.ifm.kr/news/articleView.html?idxno=482335",
-          "source": "경인방송 뉴스"
-        },
-        {
-          "title": "낯선 할머니가 갑자기 건넨 1만 원…임산부 결국 울었다 [잇슈#태그]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698624",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "이상미",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-29T13:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwdJXY79gWFvYIoYq_SkNpt0aD_-tDXdzW8YLjw1xhiQwrkDjYU76JwHu4X2w",
-      "category": "IT·과학",
+      "category": "연예",
       "news": [
         {
           "title": "'전원일기 개똥엄마' 이상미, 2년 전 이별 슬픔",
@@ -271,9 +267,9 @@
           "source": "www.xportsnews.com"
         },
         {
-          "title": "[종합] “죽 사러 간 사이에 돌아가셨다”…‘특종세상’ ‘개똥엄마’ 이상미, 여우주연상에도 못 웃은 이유",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16262319",
-          "source": "톱스타뉴스"
+          "title": "'특종세상' 국호, 베테랑 액션 배우의 산속 수련 근황",
+          "url": "https://enter.etoday.co.kr/news/view/304471",
+          "source": "비즈엔터"
         }
       ]
     }
