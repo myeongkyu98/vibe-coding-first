@@ -1,132 +1,53 @@
 {
-  "updatedAt": "2026-10-29T19:43:57.809Z",
+  "updatedAt": "2026-10-29T20:37:00.495Z",
   "summary": [
     {
-      "category": "연예",
-      "count": 3
-    },
-    {
       "category": "기타",
-      "count": 3
+      "count": 6
     },
     {
       "category": "스포츠",
       "count": 2
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "최불암",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-10-29T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZm9-KyEWJ-tuDINDmnocSFfkVSe3qZ6JvZ0N7bdLBEwq4cdXgCMN8i_gaxVY",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘국민 아버지’ 배우 최불암 별세",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/30/C4FZLCB77RBDBPTFSNJY4ZGBHY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "“국민의 따스한 아버지”…최불암 별세에 문화계·대중 애도",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261030/134937142/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[속보]배우 최불암 별세…향년 87세",
-          "url": "https://www.munhwa.com/article/11627428",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "서울경제",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-29T16:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLQvYsFhnLQZUsEs8j_uy-YrWzTx29cHowjnKhT6ti0Rb6pRUWMFxxR3Et6hU",
-      "category": "경제",
-      "news": [
-        {
-          "title": "체코 협상 결렬에 원전 프리미엄 걷힌 건설주…대우·현대·GS건설 급락",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980049.html",
-          "source": "인베스트조선"
-        },
-        {
-          "title": "‘돈 더 들면 누가 내나’ 두고... 8년 동맹 깨진 ‘팀 코리아’",
-          "url": "https://www.viva100.com/article/20261029501335",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "[일문일답] 한수원 \"체코 원전 시공사 교체 큰 영향 없을 것\"",
-          "url": "https://www.yna.co.kr/view/AKR20261029198700003",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "성과급",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-29T13:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB6YIRnd8V0N47oS8o7c93P6KrJchDqpVafJtAn9ddE9y0umG2lWRogDiqmpU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "(단독)삼성전자 성과급 합의 무효 넘어 '부존재' 다툰다…주주단체 소송 추진",
-          "url": "https://www.newstomato.com/readnews.aspx?no=1318464",
-          "source": "뉴스토마토"
-        },
-        {
-          "title": "[단독] \"삼전닉스 면접날 단체 연차\"…‘슈퍼갑 3대장’ 이탈 조짐",
-          "url": "https://news.jtbc.co.kr/article/NB12325313",
-          "source": "JTBC"
-        },
-        {
-          "title": "“팀장님, 오늘 연차 쓸게요”…삼전·하닉 면접날 벌어진 일",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01134886645617840",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "장경수",
+      "keyword": "에버턴 대 뉴캐슬",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-29T13:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtv9mQz56f-7P8Jh5mgo_Y7NrgcQAGCjd0_gUUaCXOjWUzBhKUp-g8lq096Lc",
-      "category": "기타",
+      "startedAt": "2026-10-29T19:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcF-poJQrPw_Ud53FkpKU2eKjW_JI7Ol0RNI_ofbM_iTmKofbUQZuqGYMY0Ko",
+      "category": "스포츠",
       "news": [
         {
-          "title": "조용필 ‘상처’·송대관 ‘정 때문에’ 작사가 장경수 별세",
-          "url": "https://www.khan.co.kr/article/202610292018045",
-          "source": "경향신문"
+          "title": "카라바오컵 에버튼 대 뉴캐슬 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-everton-vs-newcastle-tai-carabao-cup-1791101.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "장기하 커버 '풍문으로 들었소' 작사가 장경수 별세, 향년 73세",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846756",
-          "source": "뉴시스"
+          "title": "경기 프리뷰: 에버튼 vs 뉴캐슬, 10월 30일 오전 2시 45분: 승부차기까지 갈까요?",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-everton-vs-newcastle-2h45-ngay-30-10-keo-nhau-vao-loat-dau-sung",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "조용필 ‘상처’ 작사가 장경수, 간암으로 별세… 향년 73세",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/29/KJWRJZBUU5AQZKUX33DSH5OVXA/",
-          "source": "Chosunbiz"
+          "title": "에버튼 vs 뉴캐슬 예측: 승리 시 다음 라운드 진출",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-everton-vs-newcastle-thang-de-di-tiep",
+          "source": "Vietnam.vn"
         }
       ]
     },
     {
       "keyword": "최준희",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-29T17:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpgQ5jLxTJv8639WibfY1ORbCoYJW_U-C0Pc6l2qsuknW1oyYpRkWzigNU7E",
       "category": "기타",
@@ -149,27 +70,61 @@
       ]
     },
     {
-      "keyword": "이병헌",
+      "keyword": "무역",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-10-29T14:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz-uqJAW9ZvI0qlc8OdYogDxxqEYsj5ClkSaaOGap0vsRf9pS9x42jxrgUJkA",
-      "category": "연예",
+      "startedAt": "2026-10-29T19:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbJctJAD9_PBjWWNxuz3K6chk7E-Nz6hE4aSC4m6Gr0vflCiGul3Zdl2klVyE",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "한국인이 꼽은 대표 배우 1위는 이병헌…연기력보다 ‘이것’ 중요",
-          "url": "https://www.segye.com/newsView/20261029505193",
-          "source": "세계일보"
+          "title": "[김장현의 테크와 사람] 〈112〉수출호황 시대, 환호 대신 초격차 영역 확대를",
+          "url": "https://www.etnews.com/20261029000017",
+          "source": "전자신문"
         },
         {
-          "title": "[기획] 대한민국 대표 배우와 그 조건",
-          "url": "https://hrcopinion.co.kr/archives/38042",
-          "source": "한국리서치 정기조사 여론속의 여론"
+          "title": "한은 금통위원, AI 반도체 수출 호조에도 원화 변동성 경계 - 로이터",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2147548",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "‘대한민국 대표배우’ 이병헌 1위···조건은 ‘도덕성’",
-          "url": "https://sports.khan.co.kr/article/202610290924003",
-          "source": "스포츠경향"
+          "title": "[경제와 삶] 수출의 온기, 골목까지 닿으려면",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740824",
+          "source": "중부일보"
+        }
+      ]
+    },
+    {
+      "keyword": "노바크 조코비치",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T18:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "운수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T19:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgAIkUU3uoEScFSTAockxmviq-oK2EG7Suj1jeSXvWxs7v02PaONfxAvqaveQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "오늘의 운세 10월 29일(음력 9월 19일)",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845606",
+          "source": "제민일보"
+        },
+        {
+          "title": "[오늘의 운세/10월 30일]",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134936042/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 10월 29일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202610290000000001",
+          "source": "YTN"
         }
       ]
     },
@@ -178,25 +133,34 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-29T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBhEPemyVik-3MdRI4y8m-UirbyEaCPoLRnrmWoTL1KLq1_iF0nVlm0fAQgfo",
       "category": "스포츠",
       "news": [
         {
-          "title": "Al Nassr vs Al Kholood: Saudi Pro League stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c9p8g72vejx3t",
-          "source": "BBC"
+          "title": "Cristiano Ronaldo scores hat trick, moves closer to 1,000-goal milestone",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/10/29/cristiano-ronaldo-al-nassr-vs-al-kholood-hat-trick-1000-goals/92501470007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Goals and Highlights, Al-Nassr vs Al-Kholood in Saudi Pro League Match",
+          "url": "https://www.vavel.com/en-us/soccer/2026/10/29/1277134-al-nassr-vs-al-kholood-live-score-saudi-pro-league.html",
+          "source": "VAVEL.com"
         },
         {
           "title": "Al Nassr FC vs. Al Kholood Lineups and Confirmed Team News: Is Cristiano Ronaldo Playing Today?",
           "url": "https://athlonsports.com/soccer/al-nassr-fc-vs-al-kholood-lineups-confirmed-team-news-cristiano-ronaldo-playing-today",
           "source": "Athlon Sports"
-        },
-        {
-          "title": "When is Cristiano Ronaldo playing next with star ready to return after interrupted schedule",
-          "url": "https://talksport.com/football/4671593/when-is-cristiano-ronaldo-playing-next-al-nassr/",
-          "source": "talkSPORT"
         }
       ]
+    },
+    {
+      "keyword": "신구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T17:20:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "설인아",
@@ -224,38 +188,38 @@
       ]
     },
     {
-      "keyword": "스페인 축구 국가대표팀",
+      "keyword": "서울경제",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-29T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WygZtZRFfKRjy1azfT8O8yjArreFMQyboollLNoaoejWm0qVaJs1IY46zfw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "스페인 고속열차 사고 사망자 74명으로 늘어…신원확인 중(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261029211451098",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "스페인, 열차 참사 희생자 수색 지속 …사흘간 애도기간 선포",
-          "url": "https://www.voakorea.com/a/spain-train-crash-102926/8216563.html",
-          "source": "VOA 한국어 홈페이지"
-        },
-        {
-          "title": "스페인 고속열차 추돌로 68명 사망…한국인 2명 부상 \"치료중\"",
-          "url": "https://news.jtbc.co.kr/article/NB12325372",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "신구",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-29T17:20:00.000Z",
+      "startedAt": "2026-10-29T16:30:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
+    },
+    {
+      "keyword": "한화 g2",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-29T18:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5OcE97ZEP9TJ3ewp4CICkR_N5uE8CurBlrnxQIiDaQzlpBx1osDJz9dbhRBg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[롤드컵 톡톡] \"팀원들과 챔피언 고민 많았지만 완벽 적응\", T1 8강 견인 '도란' 최현준",
+          "url": "https://www.osen.co.kr/article/G1112900139",
+          "source": "OSEN"
+        },
+        {
+          "title": "[롤드컵] “T1은 월즈 모드에 들어왔다”…‘4연패’ 시동 건 T1에 해외 매체도 주목",
+          "url": "https://sports.khan.co.kr/article/202610300014003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "`도란` 활약 빛났다…T1, `롤드컵` 8강 합류",
+          "url": "https://www.ddaily.co.kr/page/view/2026102911111630326",
+          "source": "디지털데일리"
+        }
+      ]
     }
   ]
 }
