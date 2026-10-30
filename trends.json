@@ -1,24 +1,20 @@
 {
-  "updatedAt": "2026-10-30T18:38:34.344Z",
+  "updatedAt": "2026-10-30T19:40:47.244Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
+      "category": "IT·과학",
+      "count": 5
     },
     {
       "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "기타",
       "count": 2
     },
     {
       "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
       "count": 1
     }
   ],
@@ -28,48 +24,48 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-10-30T15:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSANQxKstFvjx9BJav-G7WDiYrNe8rqWNbXT2dgjXwFSsDcPv4WUpkJ1N1jUN4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqmmAESxVgjYNntrrMei8NeUBmNomjjIRxtrOMzEXVyob_ZyD-UBCUUK5iABY",
       "category": "연예",
       "news": [
+        {
+          "title": "‘국민 배우’ 최불암에 금관문화훈장 추서···“67년간 국민 곁 지킨 배우”",
+          "url": "https://www.khan.co.kr/article/202610301715001",
+          "source": "경향신문"
+        },
         {
           "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
           "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2",
           "source": "동아일보"
         },
         {
-          "title": "배우 김혜자, 고 최불암 별세 애도‥문화계 인사 추모 물결",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862117_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "’진정한 어른’과 이별…금관문화훈장 추서",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030225958clN",
-          "source": "연합뉴스TV"
+          "title": "최불암 영정앞에 선 김혜자 \"너무 그리운 사람…곧 만나자\"(종합2보)",
+          "url": "https://www.yna.co.kr/view/AKR20261030101152005",
+          "source": "연합뉴스"
         }
       ]
     },
     {
       "keyword": "르아브르 ac 대 psg",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-30T17:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySTf2huYhL0dhjvyIZxFqSH6bAn0UlKe8oTFZnyO8hVDWam95ALp04Gu74PU",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNNnLiuCiUHXGrQkL99lzkIgH9ZZQ8eQmb1dyLZabpZc2KyXkS2vOxvOZJzjk",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "Le Havre vs Paris Saint-Germain: French Ligue 1 stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cqly0merd5j1t",
-          "source": "BBC"
+          "title": "Le Havre vs PSG Prediction, Betting Tips, Lineups & Odds | 30 Oct 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/football/le-havre-vs-psg-prediction-lineups-odds-2026-10-30/",
+          "source": "Sportsgambler"
         },
         {
-          "title": "‍‍‍‍‍( YOUTUBE LIVE ) Le Havre vs PSG Live Free Soccer Match Event",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2Jlbi1zdG9ja3MuZ2l0aHViLmlvL0JhbC9uZXdzL3NtNnMueG1sIi8+PC9rcnBhbm8+&id=free-tv-Le-Havre-v-PSG-lie-uq7fBVU7",
+          "title": "Le Havre vs PSG: TV channel, live stream and kick-off time for Ligue 1 fixture",
+          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-le-havre-v-paris-saint-germain/blt84f88295b2c143cd",
+          "source": "Goal.com"
+        },
+        {
+          "title": "[WATCHLIVE]ＴＯＤＡＹ!] PARIS SAINT-GERMAIN VS. LE HAVRE Live free tv! 25 October 2026",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3h2aWRlb2luZG8uZ2l0aHViLmlvL2xld3JhdmlkZW8vZmlsZTI1LnhtbCIvPjwva3JwYW5vPg==&id=paris-saint-germain-vs-le-havre-str-live-on-entv-4133-btwot87307",
           "source": "Port of Rotterdam"
-        },
-        {
-          "title": "PSG trio Ousmane Dembélé, Marquinhos, and Nuno Mendes out of Le Havre game",
-          "url": "https://sports.yahoo.com/articles/psg-trio-ousmane-demb-l-111600806.html",
-          "source": "Yahoo Sports"
         }
       ]
     },
@@ -92,9 +88,9 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "[현장 르포] 핼러윈 인파 관리에 ‘초긴장’하는 경찰·서울시",
-          "url": "https://www.chosun.com/national/national_general/2026/10/30/6DOR5AU35VEEBONVC6LMW4YJOE/",
-          "source": "조선일보"
+          "title": "핼러윈 데이 안전 관리 강화하는 경찰",
+          "url": "https://mobile.newsis.com/photo/NISI20261030_0021511963",
+          "source": "뉴시스"
         }
       ]
     },
@@ -137,64 +133,39 @@
           "source": "지디넷코리아"
         },
         {
-          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671",
-          "source": "YTN 사이언스"
+          "title": "애플, 아이폰 듀오 디스플레이 결함 무상 교체…대상·절차는",
+          "url": "https://www.yna.co.kr/view/AKR20261028103200017",
+          "source": "연합뉴스"
         },
         {
-          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
-          "url": "https://weekly.khan.co.kr/article/202610291732001",
-          "source": "주간경향"
+          "title": "[AFTER 8 SPECIAL] \"받자마자 깨질 줄은\" 삼성 의문의 1승?…애플 '접는 아이폰' 대체 왜 깨졌을까",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819342",
+          "source": "SBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "김민",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T14:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEilhTUDNUrrjE1HBUG8bZlqY_jGA0UQM27KG9WVOSMmv2j6GEyvsvtB0vLAo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "김민, '나혼산' 조작 의혹 이어 사생활 침해 피해…집 공개 후폭풍 [N이슈]",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6335823",
-          "source": "뉴스1"
-        },
-        {
-          "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930",
-          "source": "머니투데이"
-        },
-        {
-          "title": "“연출 의혹까지 나왔는데”…‘동두천 자연인’ 김민, 화제 속 ‘나혼산’ 재출격",
-          "url": "https://www.sedaily.com/article/20107523",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "중간선거",
+      "keyword": "트위치",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-30T16:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOTaKHFdYfyp6XWt1BUax4B06EE_ryeYFr73YDCETFIo4Vc2XmvKY8jADB_vw",
-      "category": "정치·사회",
+      "startedAt": "2026-10-30T17:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQruA9hsjXSvDCuDqI3pm4ys9rV-BHrq8ufHC8E7RXyQvjvh_ndItGeG0xRLYc",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "미 중간선거 D-4...트럼프, 벌써 선거 불복 '밑밥'? [앵커리포트]",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610301701240661",
-          "source": "YTN"
+          "title": "넥슨 ‘빈딕투스’, 트위치콘과 크리에이터로 출시 전 서구권 눈도장",
+          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61882",
+          "source": "게임뷰"
         },
         {
-          "title": "\"민주당 안 뽑아\" 이 공식 94년 만에 바뀔까...'물가분노' 휩싸인 이곳 - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/10/30/2026102714084493396",
-          "source": "머니투데이"
+          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
+          "source": "동아일보"
         },
         {
-          "title": "[문정현의 글로브] 美 중간선거 이후 시장은",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442213",
-          "source": "연합인포맥스"
+          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
+          "url": "https://news.mtn.co.kr/article/2026103016220346703",
+          "source": "MTN 머니투데이방송"
         }
       ]
     },
@@ -224,27 +195,27 @@
       ]
     },
     {
-      "keyword": "intc",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T14:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7F--0ZrhBUqqP9vrDi_L40sfP_qEitOMB0mUd_pD1OHNH2MgQqiEzRoP4Jnw",
-      "category": "기타",
+      "keyword": "중간선거",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T16:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDRNDk2W5g0y1eglGNeNuRpDZe6o2u-aqycKka-ORJe7RCcCqHPWOpA0CdGQY",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "Intel stock heads for worst day in more than 50 years, wiping $12 billion off government's stake",
-          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-          "source": "CNBC"
+          "title": "미국 시카고 출신 레오 14세, 교황 최초로 미국 선거 투표 참여",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700347",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
-          "source": "Bloomberg.com"
+          "title": "트럼프와 각 세운 레오 교황, 美중간선거 우편투표 참여",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849127",
+          "source": "뉴시스"
         },
         {
-          "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
-          "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand",
-          "source": "Seoul Economic Daily"
+          "title": "레오 14세 교황, 美 중간선거 우편투표…현직 교황 첫 정치선거 참여",
+          "url": "https://www.news1.kr/world/europe/6338455",
+          "source": "뉴스1"
         }
       ]
     },
@@ -262,14 +233,39 @@
           "source": "The New York Times"
         },
         {
-          "title": "Friday PM Forecast: a few showers to dodge this weekend, stronger storm system next week",
-          "url": "https://www.wbrz.com/news/friday-pm-forecast-a-few-showers-to-dodge-this-weekend-stronger-storm-system-next-week/",
-          "source": "WBRZ"
-        },
-        {
           "title": "Halloween weather forecast: what to expect where you are",
           "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast",
           "source": "The Weather Channel"
+        },
+        {
+          "title": "Coastal flooding expected through weekend, with rain chances Saturday across Bay Area",
+          "url": "https://www.kron4.com/weather/coastal-flooding-expected-through-weekend-with-rain-chances-saturday-across-bay-area/",
+          "source": "KRON4"
+        }
+      ]
+    },
+    {
+      "keyword": "fear and greed",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T14:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi5CTFxB1KDuyX_27U4Cu0qs4rn1E6CmXvqActyq8SItwbEek5DjIb_iXMcWU",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Amazon falls 2%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
+          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
+          "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+          "source": "The New York Times"
         }
       ]
     }
