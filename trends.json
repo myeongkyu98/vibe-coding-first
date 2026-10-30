@@ -1,279 +1,275 @@
 {
-  "updatedAt": "2026-10-30T21:30:03.320Z",
+  "updatedAt": "2026-10-30T22:31:27.568Z",
   "summary": [
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 3
     },
     {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "기타",
-      "count": 2
+      "category": "경제",
+      "count": 3
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "연예",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "르아브르 ac 대 psg",
+      "keyword": "신발",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-30T17:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc75ebbAf-Cr2OyqCP4utYa3T2f-wdk6zh7lZLdv4zLj_Qb7bhNieWOxB9__o",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
-          "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
-          "source": "ESPN"
-        },
-        {
-          "title": "Le Havre vs Paris Saint-Germain: Predicted starting lineup for Ligue 1 game",
-          "url": "https://psgpost.com/le-havre-vs-paris-saint-germain-predicted-starting-lineup-for-ligue-1-game-01m668s8kjsv",
-          "source": "PSG Post"
-        },
-        {
-          "title": "Le Havre 1-5 PSG | Highlights",
-          "url": "https://www.beinsports.com/en-mena/football/ligue-1/articles-video/hakimi-bags-hat-trick-as-paris-saint-germain-rip-le-havre-to-pieces-2026-10-30",
-          "source": "beIN SPORTS"
-        }
-      ]
-    },
-    {
-      "keyword": "핼러윈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T15:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSaY3GOj8x9WhPB_XxgacsHKXnA8YqhGnAIdtG1Rmq782uBLwr0TYGNoytv5A",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[르포] 핼러윈 전야 이태원 시끌벅적…추모의 길엔 침묵(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261030171051004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[르포]이태원에 장갑차·경찰견도 등장...'핼러윈' 안전관리 총력 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/31/2026103020440586602",
-          "source": "머니투데이"
-        },
-        {
-          "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606",
-          "source": "대한민국 정책브리핑"
-        }
-      ]
-    },
-    {
-      "keyword": "엘버스베르크 대 마인츠 05",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T19:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSINVDOMMxyOWDnZhCsdXcz4YzuhV7w51Engy_CNoMjF6KeGSHR1Sd9QsDgNbw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Elversberg vs Mainz 05: German Bundesliga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cv62yw1ln38gt",
-          "source": "BBC"
-        },
-        {
-          "title": "Licensable picture: SV Elversberg V 1. FSV Mainz 05: Matchday 9 - Bundesliga",
-          "url": "https://www.reutersconnect.com/item/sv-elversberg-v-1-fsv-mainz-05-matchday-9-bundesliga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA4Nkk2QU0",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "̳̳{SOccer}+++[#!LIVESTREAMs-FREE!]™SV Elversberg vs Mainz SOccer Live Free 30 October 2026",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21rc29wcnRzLmdpdGh1Yi5pby92Z2h1Znl0ZnJ5L2FhLnhtbCIvPjwva3JwYW5vPg==&id=sv-elversberg-vs-mainz-waert",
-          "source": "Port of Rotterdam"
-        }
-      ]
-    },
-    {
-      "keyword": "카를로스 알카라스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T15:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_qguhRlYTk2KeQQ69OvOh4MH1mxUgEwoQjPgAhwAz9n45oD2cCoQtUVYH_Y",
+      "startedAt": "2026-10-30T20:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8Avj0UOFnqeaU37Cj1MGwbyQ09vEWimPpbvc6s-QEE42QOXuSwb-jHuDWgGg",
       "category": "기타",
       "news": [
         {
-          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "알카라즈는 2026년 비엔나 오픈 준결승에서 메드베데프와 맞붙게 된다.",
-          "url": "https://www.vietnam.vn/ko/alcaraz-cham-tran-medvedev-o-ban-ket-vienna-open-2026",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
-          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "le havre vs psg",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T18:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfXu-xhi0x78g8W_zaNRfbK78oOJHDI-VA4YMA58hjCc_6uv_-Z2Uc_LXmyw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Le PSG s’offre un nouveau record absolu en Ligue 1 !",
-          "url": "https://www.footmercato.net/a277112337943057132-le-psg-soffre-un-nouveau-record-absolu-en-ligue-1",
-          "source": "Foot Mercato"
-        },
-        {
-          "title": "Face au Havre, l'incroyable nouveau coup tactique de Luis Enrique 😱",
-          "url": "https://onefootball.com/fr/news/face-au-havre-lincroyable-nouveau-coup-tactique-de-luis-enrique-43699231",
-          "source": "OneFootball"
-        },
-        {
-          "title": "PSG : Hakimi repart avec le ballon du match et le trophée d’homme du match",
-          "url": "https://mountakhab.net/psg-hakimi-repart-avec-le-ballon-du-match-et-le-trophee-dhomme-du-match/",
-          "source": "Mountakhab.net"
-        }
-      ]
-    },
-    {
-      "keyword": "트위치",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T17:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
-          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
-          "url": "https://news.mtn.co.kr/article/2026103016220346703",
-          "source": "MTN 머니투데이방송"
-        },
-        {
-          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
-          "url": "https://www.hankyung.com/article/202610306269i",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "중간선거",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T16:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv4YcfPAmtCuLAdCfGJGMT18lNzkojA5LxANyrgbnBPxbWCQQbbs4nXmwXrUc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "미국 중간선거 앞두고 사전투표 열기 ‘후끈’…역대최다 4천800만명 사전투표",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700370",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "\"美공화 텃밭도 안심 못해\"…루이지애나 ‘확실’→‘우세’ 하향",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01331686645618496",
-          "source": "마켓인"
-        },
-        {
-          "title": "흔들리는 중서부 '딥 레드'...중도주의 내세워 파란",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610310402484267",
+          "title": "[포토오늘] 부산서 만나는 패션의 모든 것",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610300425209403",
           "source": "YTN"
+        },
+        {
+          "title": "올해 패패부산 `신발혁신상` 대상에 튜브락 ‘다이얼아치 300’",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261030.99099008999",
+          "source": "국제신문"
+        },
+        {
+          "title": "화려한 패션쇼",
+          "url": "https://mobile.newsis.com/photo/NISI20261029_0021509842",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "파업",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T19:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HWpoQ_U7lfM6dOyTOXiCwYgXNRBCLwnhSv5bdRBhpKYiu-dfu7S39fBjNlI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261030171151053",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "포스코 노사, 임금협상 잠정 합의…기본급 2.6% 인상+격려금 600만원 - 머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/10/30/2026103019110243455",
-          "source": "머니투데이"
-        },
-        {
-          "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
-          "url": "https://view.asiae.co.kr/article/2026103019213680131",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "나스닥",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T18:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMeeVXRzvqfj7bWhFvHqZbkSv7Oc8ePDfPqYwmPuecKo9UzWRl41indgKUeD8",
+      "keyword": "김동현",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-30T20:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDg6HesaqwmmzC5kICYDFiT7zVqAB5tySWwWdhkiddnZchzDc9iRoNMnfOrmE",
       "category": "경제",
       "news": [
         {
-          "title": "알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락",
-          "url": "https://story.pay.naver.com/content/3824_2_C1",
-          "source": "네이버페이 머니스토리"
+          "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
+          "url": "https://www.hankyung.com/article/2026103070927",
+          "source": "한국경제"
         },
         {
-          "title": "돈은 더 버는데 주가 폭락?‥AI가 집어삼킨 현금",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862067_37004.html",
-          "source": "MBC 뉴스"
+          "title": "김동현, 압구정현대 100억 매입에 '집주인 대출' 50억...온라인 반응 \"대통령도 했는데 뭐가 문제?\"",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=130671",
+          "source": "펜앤마이크"
         },
         {
-          "title": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 출발···다우 0.27%↓ 나스닥 2.42%↓",
-          "url": "https://www.newsis.com/view/NISX20261030_0003849101",
-          "source": "뉴시스"
+          "title": "\"반전세 산다더니 100억 집주인 됐다\"…김동현, 압구정 신현대 매수",
+          "url": "https://www.fnnews.com/news/202610302131116140",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
     {
-      "keyword": "강남 이상화",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T18:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtLKcJ_EqOeIb-MZH6i0z_mFbanrmiFrQsWRY34rgdGcSM3DRM1Smhgr0d8-w",
-      "category": "연예",
+      "keyword": "정찰기",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-30T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsWA6Gi1DL5DBpneEIjK4GvfS3MCBvDoWpFjpK1-xi4bDc7_Ad63GtDbxxpCM",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "강남, 다시 태어나도 이상화와 결혼? \"로또 같은 사람, 안 맞아\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/ME2DIZTGHEYDONDEMRRTCOBWGA/",
-          "source": "조선일보"
+          "title": "북, 한미 ‘프리덤플래그’ 훈련 비난…“철저히 힘으로 위협 억제”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700087",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "강남 \"이상화, 로또 같은 사람\"이라더니…\"안 맞아\" 반전 고백",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848479",
+          "title": "KF-21, 美와 첫 편대비행…U-2 정찰기·F-35 전투기와 호흡맞춰",
+          "url": "https://www.yna.co.kr/view/AKR20261029163400504",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "북한, 한미 '프리덤 플래그' 훈련 비난‥\"철저히 힘으로 위협 억제\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6862040_36911.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "필라델피아 반도체 지수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T21:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "반도체株, AI 투자 우려·기술주 매도세에 동반 급락",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01607206645618496",
+          "source": "마켓인"
+        },
+        {
+          "title": "[속보]필라델피아 반도체 지수 1.4%↓…AI 투매 재개에 닷새 만에 하락",
+          "url": "https://www.news1.kr/world/international-economy/6337158",
+          "source": "뉴스1"
+        },
+        {
+          "title": "필라델피아 반도체지수 장중 6% 하락…인텔($INTC)도 장중 29.6% 하락",
+          "url": "https://www.tokenpost.kr/news/breaking/430243",
+          "source": "토큰포스트"
+        }
+      ]
+    },
+    {
+      "keyword": "김구라",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T21:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHfHTWL5raljwZrHEYJNrPfZVP5etiwdygXk9lDAZ3Rfg3AuNQnv7C5UnkHk",
+      "category": "경제",
+      "news": [
+        {
+          "title": "'김구라 아들' 그리, 연수입 3억·30평 아파트 마련…\"3년 내 결혼 목표\"",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849082",
           "source": "뉴시스"
         },
         {
-          "title": "‘프러포즈 3번’ 강남 “♥이상화, 나한테 로또 같은 사람…안 맞아” 반전 폭로",
-          "url": "https://m.newsen.com/news_view.php?uid=202610301022430310",
-          "source": "뉴스엔"
+          "title": "'구리 아파트 대박' 김구라 아들 그리 \"6만원에 산 주식 120만원\" 깜짝",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6337297",
+          "source": "뉴스1"
+        },
+        {
+          "title": "그리, 父 김구라 믿고 투자했다가 '상장폐지'…\"주워온 자식인가 싶었다\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-30/202610300100193150013362",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "skhy",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T21:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkD-gdPENoFLo-Uqzs8f25UTkxw0daiqhwl4iZU0y_xqmhusOvif-PHjfbMUY",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "SK hynix Announces 3Q26 Financial Results",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/",
+          "source": "SK hynix"
+        },
+        {
+          "title": "[Breaking] Samsung Electronics Earned 106.5 Trillion Won from Semiconductors Alone in Q3… DX Division Posts 800 Billion Won Loss",
+          "url": "https://www.mt.co.kr/en/industry/2026/10/29/2026102907571138478",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"Three Years' Worth of Supply Already Sold Out\" Sparks Excitement… \"Concerns Over AI Cleared\"",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008820099",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGDH9Ru6bbWzt9qfad-n2zLiOFQURfOiG3xqU9_xG2jzhAtvKGJ2YVc0lBL_s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
+          "url": "https://www.yna.co.kr/view/AKR20261030093200007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "츠베레프, '2강' 신네르·알카라스 넘어 세계랭킹 1위 예약",
+          "url": "https://www.news1.kr/sports/general-sport/6337920",
+          "source": "뉴스1"
+        },
+        {
+          "title": "'차세대’ 꼬리표 떼고 마침내 정상… 즈베레프, 생애 첫 세계 1위",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05654726645618168&mediaCodeNo=257",
+          "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "pba 팀리그",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T20:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUr1gpmK_pk5YsHLak9Ww860bv67esVSAjvZPpe2PNJHF2tFfk7pAza4I6Ku4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "PBA팀리그 웰컴저축은행 유니폼 입는 강유진 “기회 주어지면 팀의 포스트시즌 진출 돕겠다”",
+          "url": "https://mkbn.mk.co.kr/news/sports/12191294",
+          "source": "mkbn.mk.co.kr"
+        },
+        {
+          "title": "'정수빈→김보미 우승자 신분 상승' NH농협카드, PS행 티켓 수확할까... 4R 31일 개막 [PBA 팀리그] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026102917213412319",
+          "source": "머니투데이"
+        },
+        {
+          "title": "전력 보강 웰컴저축은행·간판 바꾼 하림…PBA 팀리그 4R 돌입",
+          "url": "https://www.yna.co.kr/view/AKR20261029029400007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "폴란드",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiE8ZLrkSQHv-MmHZzeV2tBqgW-dvcHAERBiPyY006T9C2CwNvzCmyCbfaaZI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "유럽서 패트리어트 미사일 정비한다… 폴란드에 PAC-3 거점 구축",
+          "url": "https://www.news2day.co.kr/article/20261028500017",
+          "source": "뉴스투데이"
+        },
+        {
+          "title": "F-35와 패트리어트: 미국의 무기 생산 및 유지 관리 전략 두 가지.",
+          "url": "https://www.vietnam.vn/ko/f-35-va-patriot-hai-chien-luoc-san-xuat-va-bao-duong-vu-khi-cua-my",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "폴란드에 패트리엇 PAC-3 유럽 정비 센터 설립, 록히드마틴 공식",
+          "url": "https://www.cucucu.co.kr/news/view.php?no=4774",
+          "source": "쿠쿠쿠뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "엔비디아 주가",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJB8R-mpxMzU8Df-JuyQdfoxBW4PaSd5r-wSPEBxRLCJUe2u8U8nBbB9tomBw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[채널Who] AI 시장 장악한 엔비디아가 개발자 플랫폼도 쥐면? 미국 법무부 '반독점 위반' 조사 확대",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450807",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "美 법무부, 엔비디아의 허깅페이스 인수 조사…‘AI 경쟁 저해’ 초점",
+          "url": "https://www.sedaily.com/article/20107800",
+          "source": "서울경제"
+        },
+        {
+          "title": "'AI 성지' 삼킨 엔비디아…미국 정부는 왜 분노했을까",
+          "url": "https://zdnet.co.kr/view/?no=20261029140039",
+          "source": "지디넷코리아"
         }
       ]
     }
