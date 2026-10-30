@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T19:40:47.244Z",
+  "updatedAt": "2026-10-30T20:30:33.209Z",
   "summary": [
     {
-      "category": "IT·과학",
-      "count": 5
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "정치·사회",
@@ -14,7 +14,15 @@
       "count": 2
     },
     {
+      "category": "IT·과학",
+      "count": 2
+    },
+    {
       "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
@@ -24,18 +32,18 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-10-30T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqmmAESxVgjYNntrrMei8NeUBmNomjjIRxtrOMzEXVyob_ZyD-UBCUUK5iABY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv0Nal82InwA7RvcOxdh5WtEBIf_j0ClM_E40KvtJ7jQ7yMC5scyTXhPnwwME",
       "category": "연예",
       "news": [
         {
-          "title": "‘국민 배우’ 최불암에 금관문화훈장 추서···“67년간 국민 곁 지킨 배우”",
-          "url": "https://www.khan.co.kr/article/202610301715001",
-          "source": "경향신문"
+          "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
-          "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2",
-          "source": "동아일보"
+          "title": "[영상] 한 시대를 함께한 배우 최불암, 이제는 기억으로",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610310433231146",
+          "source": "YTN"
         },
         {
           "title": "최불암 영정앞에 선 김혜자 \"너무 그리운 사람…곧 만나자\"(종합2보)",
@@ -50,7 +58,7 @@
       "trafficValue": 2000,
       "startedAt": "2026-10-30T17:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNNnLiuCiUHXGrQkL99lzkIgH9ZZQ8eQmb1dyLZabpZc2KyXkS2vOxvOZJzjk",
-      "category": "IT·과학",
+      "category": "스포츠",
       "news": [
         {
           "title": "Le Havre vs PSG Prediction, Betting Tips, Lineups & Odds | 30 Oct 2026",
@@ -63,9 +71,9 @@
           "source": "Goal.com"
         },
         {
-          "title": "[WATCHLIVE]ＴＯＤＡＹ!] PARIS SAINT-GERMAIN VS. LE HAVRE Live free tv! 25 October 2026",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3h2aWRlb2luZG8uZ2l0aHViLmlvL2xld3JhdmlkZW8vZmlsZTI1LnhtbCIvPjwva3JwYW5vPg==&id=paris-saint-germain-vs-le-havre-str-live-on-entv-4133-btwot87307",
-          "source": "Port of Rotterdam"
+          "title": "Standout star from the right powers Paris Saint-Germain",
+          "url": "https://onefootball.com/en/news/standout-star-from-the-right-powers-paris-saint-germain-43699748",
+          "source": "OneFootball"
         }
       ]
     },
@@ -145,18 +153,38 @@
       ]
     },
     {
+      "keyword": "le havre vs psg",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T18:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsjgzwoPs02wGGce0o3WIWLgqapdUg5XXutlDBXMJyxS4I-835k_f6NY0Ib7I",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Le Havre-PSG : la composition probable des Parisiens avec Digne, Torres et Mayulu titulaires",
+          "url": "https://www.leparisien.fr/sports/football/ligue-1/le-havre-psg-la-composition-probable-des-parisiens-avec-digne-torres-et-mayulu-titulaires-29-10-2026-HLYZKQX435D5RGSB7QWBWCTI2A.php",
+          "source": "Le Parisien"
+        },
+        {
+          "title": "DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live",
+          "url": "https://www.live-mercato.com/article/202117-direct-lille-lens-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live",
+          "source": "www.live-mercato.com"
+        },
+        {
+          "title": "Les compositions pour le match Le Havre - Paris SG",
+          "url": "https://www.20minutes.fr/sport/football/ligue-1/4259077-20261030-havre-paris-sg-composition-officielle-9e-journee-ligue-1-2027",
+          "source": "20 Minutes"
+        }
+      ]
+    },
+    {
       "keyword": "트위치",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-30T17:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQruA9hsjXSvDCuDqI3pm4ys9rV-BHrq8ufHC8E7RXyQvjvh_ndItGeG0xRLYc",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk",
       "category": "IT·과학",
       "news": [
-        {
-          "title": "넥슨 ‘빈딕투스’, 트위치콘과 크리에이터로 출시 전 서구권 눈도장",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61882",
-          "source": "게임뷰"
-        },
         {
           "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
           "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
@@ -166,56 +194,61 @@
           "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
           "url": "https://news.mtn.co.kr/article/2026103016220346703",
           "source": "MTN 머니투데이방송"
-        }
-      ]
-    },
-    {
-      "keyword": "한화시스템",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T14:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQS7lRGCUMdqbfhc2JbQhtbnUjHldey6_h8cOkG0S_vwO4sEwsdb_UOBFybRxU",
-      "category": "IT·과학",
-      "news": [
+        },
         {
-          "title": "\"K-위성 경쟁력 높인다\"…한화, 초소형 군집위성 수주",
-          "url": "https://www.hankyung.com/article/202610306396i",
+          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
+          "url": "https://www.hankyung.com/article/202610306269i",
           "source": "한국경제"
-        },
-        {
-          "title": "한화시스템, 초소형 SAR 군집위성 수주…\"K위성 가격 경쟁력 ↑\"",
-          "url": "https://www.yna.co.kr/view/AKR20261030122800003",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "KAI보다 900억 낮춘 ‘가격 승부수’…한화시스템, 軍 군집위성 따냈다",
-          "url": "https://www.sedaily.com/article/20108408",
-          "source": "서울경제"
         }
       ]
     },
     {
       "keyword": "중간선거",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-30T16:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDRNDk2W5g0y1eglGNeNuRpDZe6o2u-aqycKka-ORJe7RCcCqHPWOpA0CdGQY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3OSDsZa8NAtrmQk4iP6e9qkmdSitpTCeQ46G3fIbN3bUjnuoD-zLjloehUJI",
       "category": "정치·사회",
       "news": [
         {
-          "title": "미국 시카고 출신 레오 14세, 교황 최초로 미국 선거 투표 참여",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700347",
-          "source": "KBS 뉴스"
+          "title": "미 중간선거 역대최다 4천800만명 사전투표‥상원 접전지서 급증",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862121_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "트럼프와 각 세운 레오 교황, 美중간선거 우편투표 참여",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849127",
-          "source": "뉴시스"
+          "title": "\"美공화 텃밭도 안심 못해\"…루이지애나 ‘확실’→‘우세’ 하향",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01331686645618496",
+          "source": "마켓인"
         },
         {
-          "title": "레오 14세 교황, 美 중간선거 우편투표…현직 교황 첫 정치선거 참여",
-          "url": "https://www.news1.kr/world/europe/6338455",
-          "source": "뉴스1"
+          "title": "흔들리는 중서부 '딥 레드'...중도주의 내세워 파란",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610310402484267",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "나스닥",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T18:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMeeVXRzvqfj7bWhFvHqZbkSv7Oc8ePDfPqYwmPuecKo9UzWRl41indgKUeD8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "알파벳 시총 5,000억 달러 증발, 뉴욕증시 일제히 하락",
+          "url": "https://story.pay.naver.com/content/3824_2_C1",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2152028",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "돈은 더 버는데 주가 폭락?‥AI가 집어삼킨 현금",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862067_37004.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
@@ -233,39 +266,14 @@
           "source": "The New York Times"
         },
         {
+          "title": "Halloween weekend forecast: lots of cloud cover with some rain possible",
+          "url": "https://www.yahoo.com/news/weather-news/articles/halloween-weekend-forecast-lots-cloud-192533647.html",
+          "source": "Yahoo"
+        },
+        {
           "title": "Halloween weather forecast: what to expect where you are",
           "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast",
           "source": "The Weather Channel"
-        },
-        {
-          "title": "Coastal flooding expected through weekend, with rain chances Saturday across Bay Area",
-          "url": "https://www.kron4.com/weather/coastal-flooding-expected-through-weekend-with-rain-chances-saturday-across-bay-area/",
-          "source": "KRON4"
-        }
-      ]
-    },
-    {
-      "keyword": "fear and greed",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi5CTFxB1KDuyX_27U4Cu0qs4rn1E6CmXvqActyq8SItwbEek5DjIb_iXMcWU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Amazon falls 2%, Intel dives 29%, as tech stocks sell off in post-earnings rout",
-          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Tech Stocks Tumble, but Broader Market Is Holding On",
-          "url": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
-          "source": "The New York Times"
         }
       ]
     }
