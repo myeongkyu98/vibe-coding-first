@@ -1,257 +1,251 @@
 {
-  "updatedAt": "2026-10-30T09:44:34.393Z",
+  "updatedAt": "2026-10-30T10:41:27.108Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
     },
     {
       "category": "스포츠",
-      "count": 2
+      "count": 3
     },
     {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "자산",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-30T08:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjatx-a0eP92sewd3QKL7nqQ43I7BzcQqqK97Do-kLGwBT9laCqBao-69Efyc",
+      "keyword": "이호선",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-10-30T09:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLtMMom1gQPk1P0Qj6dvG07zWBYQ4vspWrbfCdtfNLV4iKsxYADS_V7K3eL-E",
       "category": "기타",
       "news": [
         {
-          "title": "발언하는 김민석 당대표",
-          "url": "https://www.newsis.com/view/NISI20261030_0021511241",
-          "source": "뉴시스"
-        },
-        {
-          "title": "국민의힘 “가상자산 과세 늦춰야… 세부 기준 불명확·국내외 과세 형평성 문제”",
-          "url": "https://www.kyeonggi.com/article/20261030580183",
-          "source": "경기일보"
-        },
-        {
-          "title": "與, 오늘 가상자산 거래소 CEO와 간담회…과세 관련 의견 청취",
-          "url": "https://www.yna.co.kr/view/AKR20261029193700001",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "000660",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-30T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnsaO0BC-N2dmHKembRQ2RmhNpQMmMleYC43zwPARjQDa30X71GLCXZWdNozE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Earnings call transcript: SK hynix posts record Q3 2026 results, shares jump after hours",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343",
-          "source": "Investing.com"
-        }
-      ]
-    },
-    {
-      "keyword": "김하성",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-30T07:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRdWCSo8W5TVL_Q0Bwf0M6HyklCEBq5C9A09b7bTXd-ToO4U9ugVRhkKsPvb4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[오피셜] 2000만 달러 계약 종료→김하성 FA 시장 나온다…\"KIM과 결별 반길만해\" 이렇게까지 기뻐하다니",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016396",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "'3년 연속 FA' 김하성, 또 험난한 겨울…MLB 직장폐쇄 변수",
-          "url": "https://www.news1.kr/sports/overseas-baseball/6337337",
-          "source": "뉴스1"
-        },
-        {
-          "title": "“KIM 265억짜리 재앙” 美 충격 혹평! 김하성 한국 와야하나, FA→FA→FA에도 ML 잔류 암울하다",
-          "url": "https://www.osen.co.kr/article/G1112901088",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "009150",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T07:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwf6xTP3_t01aK6OdziY-bLo6YjS4z-OlyJqqNNX2X7ahmrwVqGDYxkK5oSeY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Breakingviews - COMMENTARY: Samsung's returns conservatism is self-defeating",
-          "url": "https://www.reuters.com/commentary/breakingviews/samsungs-returns-conservatism-is-self-defeating-2026-10-29/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Samsung Electronics Shares Slide After Return Plan Is Delayed",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-electronics-shares-slide-after-return-plan-is-delayed",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Samsung Electronics Announces Third Quarter 2026 Results",
-          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
-          "source": "samsung.com"
-        }
-      ]
-    },
-    {
-      "keyword": "오산대",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T07:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL4TrdgVMrdps9Fuu423-fLlJOOpIRPvD80wIhJYlHVTHGzhH2g_aC0DGX_fI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "오산대, 2027학년도 산업체 위탁교육 신입생 200명 모집…9개 학과 선발",
-          "url": "https://news.unn.net/news/articleView.html?idxno=599662",
-          "source": "한국대학신문"
-        },
-        {
-          "title": "오산대, '일·학습 병행' 2027학년도 산업체 위탁교육 신입생 200명 모집 9개 학과 전문학사 과정",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=917470",
-          "source": "경기신문"
-        },
-        {
-          "title": "오산대 ESG센터, 교직원 대상 탄소중립 생활실천 교육 진행",
-          "url": "https://m.ekn.kr/view.php?key=20261030026353475",
-          "source": "에너지경제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "국가유공자",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T08:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrWbEpMu72sUQFbl2DmufhHZc04SDy2ZYD2Um9j0Fpip3OvO-Qc1qVOKC6r8A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "보성군, ‘스무 해의 감사’… 제20회 보훈가족 한마음 행사 개최",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353488",
-          "source": "녹색경제신문"
-        },
-        {
-          "title": "\"보성이 기억합니다\"…보훈가족 한마음 행사 20돌",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=927742",
-          "source": "남도일보"
-        },
-        {
-          "title": "화순군, 호국영웅을 예우하고 소통하는 호국탐방사업 추진",
-          "url": "https://www.metroseoul.co.kr/article/20261028500354",
-          "source": "메트로신문"
-        }
-      ]
-    },
-    {
-      "keyword": "생계",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T07:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG1QPJeOgK4HGjlHvP_l8iHE0QVRP5MwpPFosVl8JCoHEwxeCNmV4kn8lhu9M",
-      "category": "기타",
-      "news": [
-        {
-          "title": "기초생활보장 못받는 빈곤층 137만… 생계급여 기준 ‘중위소득 35%’ 확대",
-          "url": "https://www.donga.com/news/article/all/20261028/134928959/2",
+          "title": "“엄마처럼 늙겠습니다”…이호선, 어머니와 이별하며 남긴 마지막 인사",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134939454/2",
           "source": "동아일보"
         },
         {
-          "title": "일해서 나간 사람보다 죽어서 나간 사람이 많다... 기초생활보장제도의 경고",
-          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003279484",
-          "source": "OhmyNews"
+          "title": "이호선, 모친상 비보 \"찬란한 나의 어머니를 보낸다\"",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848678",
+          "source": "뉴시스"
         },
         {
-          "title": "생계급여 중위소득 32→35% 단계적 확대 추진",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20363",
-          "source": "이투데이"
+          "title": "‘호랑이 상담가’ 이호선 모친상 “찬란한 나의 어머니를 보내드립니다”",
+          "url": "https://sports.khan.co.kr/article/202610301437003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "꿀알바",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T08:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTFAVYEW-LN7rb2Sqqe5ys0rqKuSDMQLq2tlzswzx5P5UdxW88AH1vM9wRvs",
+      "keyword": "야구중계",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-30T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-EPzUurjGaLy9J0qFygSNDVdpwgLwm20n44BoewiVJbeEINuScHRF7Ls8tQY",
       "category": "스포츠",
       "news": [
         {
-          "title": "[사진]넷플릭스 '꿀알바' 기대하세요!",
-          "url": "https://www.osen.co.kr/article/G1112899807",
-          "source": "OSEN"
+          "title": "'꼬꼬무' 결방, 야구 중계→'거장항준' 편성",
+          "url": "https://enter.etoday.co.kr/news/view/304472",
+          "source": "비즈엔터"
         },
         {
-          "title": "김다민 감독 \"노동은 만국 공통의 언어…처절한 생존 액션\"",
-          "url": "https://www.yna.co.kr/view/AKR20261028114600005",
-          "source": "연합뉴스"
+          "title": "'꼬꼬무' 이순신 난중일기 도난 사건",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610290175",
+          "source": "BNT뉴스"
         },
         {
-          "title": "귀신보다 가난이 더 무서워…시급 50배에 ‘목숨 건’ 청춘 [리뷰]",
-          "url": "https://www.sedaily.com/article/20107342",
-          "source": "서울경제"
+          "title": "꼬리에 꼬리를 무는 그날 이야기 : [10월 29일 예고] 국보 ‘난중일기’ 도난을 둘러싼 숨 막히는 추적!",
+          "url": "https://programs.sbs.co.kr/culture/thetail/clip/70242/OC482592568",
+          "source": "programs.sbs.co.kr"
         }
       ]
     },
     {
-      "keyword": "극한 직업",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T08:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6gizRzd8N7rpcTFmAMUbvDJQz0QWNt55ePCUSPbqRU3m673BjFpteRAJHg4",
-      "category": "기타",
+      "keyword": "이택근",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-30T09:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjzNNE1wwC8QgHUJL5h-H19KCYe4iHsAfFQRhvQ3atZJWyN0groRul7m27LF0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[EBS 극한직업] 9000원에 40가지 음식 무제한…홍성 가성비 뷔페의 비밀",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766798",
-          "source": "더쎈뉴스"
+          "title": "포수 출신 감독 ‘0명’시대…류지현-이동욱 선임으로 ‘내야수 감독 전성시대’ 활짝",
+          "url": "https://www.donga.com/news/Sports/article/all/20261030/134939694/1",
+          "source": "동아일보"
         },
         {
-          "title": "9천원 뷔페와 리퍼브 매장, 가격 낮추는 사람들",
-          "url": "http://www.ksw-news.com/news/articleView.html?idxno=3054480",
-          "source": "한국사회복지저널"
-        },
-        {
-          "title": "'극한 직업' 싸게 팔려면 더 바빠야 한다...가성비 뷔페와 리퍼브 매장의 땀",
-          "url": "https://www.nc.press/news/articleView.html?idxno=629803",
-          "source": "뉴스컬처"
-        }
-      ]
-    },
-    {
-      "keyword": "보안 취약점",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T07:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Ovr1srlj1fJYNNo4-u1YEob2iJe-CT89sEErqBulzayxmrZOkdtxTrhhJSI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[PHP 파장] 패치 공개 일주일, 국내 서버 적용률 5.5%... 94% 무방비",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146873",
-          "source": "보안뉴스"
-        },
-        {
-          "title": "사진·문서 보관용 저장장치도 보안 위협…KISA, 보안패치 권고",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699893",
+          "title": "[영상] 롯데, 이렇게까지 바뀐다고? 내년 시즌은 다를까?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698708",
           "source": "KBS 뉴스"
         },
         {
-          "title": "PHP2Shell 연쇄 공격으로 미국 정부 관련 서버 포함 25대의 루트 권한 탈취",
-          "url": "https://news.hada.io/topic?id=36240",
-          "source": "GeekNews"
+          "title": "'수비 안 되는데, 무슨 시합을 뛰나' 저승사자들의 등장, 도루왕도 생존 걱정 해야하나",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/29/GYZTEMZTGYYTCY3DGBRTCZDCME/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "야구 생중계",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-EXzxjEC-5pP2NXWc-zG51UUYRR2E4C2_bIdqVV-SWw_NOKpkfrDT3aC6ZJA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“KIA가 KS 올라왔으면” 1위팀 감독 솔직 속내 공개, PO 3경기 현미경 분석→왜 KIA보다 삼성 경계했나 [오!쎈 수원]",
+          "url": "https://www.osen.co.kr/article/G1112901218",
+          "source": "OSEN"
+        },
+        {
+          "title": "'바꿔도 또 바꿔도 답이 없다' 벼랑 끝 KIA, 테이블세터 24타수 2안타 충격 부진…이범호 감독도 깊은 고민 [PO]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GVRDINBQMNSGMOBZMRRTCMJTHA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "부상에도 기다린 삼성…후라도는 가을야구로 답했다",
+          "url": "https://www.fnnews.com/news/202610272300044544",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "스타 벅스 광주 지산 유원지 입구 점",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T09:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVWREEYAbolDGJfEplfIFmnZOnV69OUbZTjm9BPFiuIlSiSBdfEYdfnQs2cv4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
+          "url": "https://www.yna.co.kr/view/AKR20261030074300054",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'5·18 탱크데이' 불매 운동 5개월 만에…스타벅스, 광주 대형매장 첫 폐점",
+          "url": "https://news.ikbc.co.kr/article/view/kbc202610300034",
+          "source": "KBC광주방송"
+        },
+        {
+          "title": "스벅, 광주·MBC '선택적' 폐점?…\"사실 아냐...계약만료에 따른 것\" - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/10/30/2026103014431551465",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "휴게소",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T09:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxPBbO01cTkm-bMHY40DjlGXD2kZQGM3uaBXl6_a83C3Z9OKdkQ1Nvhw3iAZ0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "고속도 휴게소 직계약 시범사업 착수…음식·편의 '가성비' 기대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974638&pWise=main&pWiseMain=R6",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "내년 설부터 고속도로 2000원 커피 마신다... 수수료 8%로 인하 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/30/2026103009215476082",
+          "source": "머니투데이"
+        },
+        {
+          "title": "한국도로공사, 시범운영 직계약 휴게소 입찰공고",
+          "url": "https://www.munhwa.com/article/11627581",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "경상남도",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T09:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "속초시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T09:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mpQf39ZFBwgWr_56Vi7KEXov84GWRK-RG1RDAwG3FjvKBO3_4dCPi1nPgu4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[포토뉴스]속초소방서, 제10회 속초의용소방대 소방기술경연·체육행사 개최",
+          "url": "https://www.kwnews.co.kr/article/20261026501084",
+          "source": "강원일보"
+        },
+        {
+          "title": "이병선 속초시장 “국비 유치·시민 체감 변화로 속초 성공시대 완성”",
+          "url": "https://www.kado.net/news/curationView.html?idxno=2081485",
+          "source": "강원도민일보"
+        },
+        {
+          "title": "[동정] 이병선 속초시장 외",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2080281",
+          "source": "강원도민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "1인당 국민소득",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T09:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGcrZbBkwyJng1OZBXPBxevtaTk9dXpdgW96LMKtKVVJe5fug78-66kjNjWM8",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "국민소득 5만 달러 바라보는 韓…세계 20위권 근접",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847477",
+          "source": "뉴시스"
+        },
+        {
+          "title": "K-반도체 호황에 3분기 GDP 껑충… 경기·인천 경제는 주춤",
+          "url": "https://www.kyeongin.com/article/1773726",
+          "source": "경인일보"
+        },
+        {
+          "title": "3분기 1% 깜짝 성장? 왜 우리 살림살이는 나아지지 않았나",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338041",
+          "source": "미디어오늘"
+        }
+      ]
+    },
+    {
+      "keyword": "남대문 스카프 아저씨",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T09:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgwHTNBAYTnZ_BlPjMIW5igSCBL9F_F4hERwc9Oy2A0XJV0aIZrl-xu60CvrY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "손님 폭증에 “내 말 좀 들어“…’남대문 스카프 아저씨’, 방문 자제 요청",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120726aJy",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "'스카프 아저씨' 누구길래...시장 난리 나자 결국, '방문 자제' 요청 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026102922560687442",
+          "source": "머니투데이"
+        },
+        {
+          "title": "남대문시장 '스카프 아저씨', 인파에 방문 자제 요청",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=94052",
+          "source": "미디어파인"
         }
       ]
     }
