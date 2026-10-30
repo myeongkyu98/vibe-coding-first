@@ -1,86 +1,28 @@
 {
-  "updatedAt": "2026-10-30T04:40:35.747Z",
+  "updatedAt": "2026-10-30T05:39:03.897Z",
   "summary": [
+    {
+      "category": "기타",
+      "count": 6
+    },
     {
       "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
-      "count": 2
-    },
-    {
-      "category": "연예",
+      "category": "스포츠",
       "count": 1
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "강균성",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-30T01:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjhc_zATL5eGXST1plmUpo8-JyNG4cAm3nPADLLzK3Sm-N2aZQ0yZ1jv_35uU",
-      "category": "연예",
-      "news": [
-        {
-          "title": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847490",
-          "source": "뉴시스"
-        },
-        {
-          "title": "강균성, 14세 연하 배우 유하진과 오늘(30일) 결혼…9년 전 인연이 부부로",
-          "url": "https://www.segye.com/newsView/20261030502627",
-          "source": "세계일보"
-        },
-        {
-          "title": "강균성, 14세 연하 배우 유하진과 결혼식…\"평생 함께 걸어갈 사람\" [N디데이]",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6336512",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "재판",
+      "keyword": "k2 흑표",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-30T01:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQccejgBI_6YEzGflXzPqL1yfH98Xw0IFJI7zYsl-_JZLryZM6NleTchYXhm00",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란",
-          "url": "https://www.donga.com/news/Politics/article/all/20261030/134936135/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "'조희대 국조' 두고 與 내부 갈등 여전…역풍 우려 속 여야 대치 격화",
-          "url": "https://www.news1.kr/politics/assembly/6337648",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[속보]조희대 대법원장 탄핵 ‘반대’ 45%·‘찬성’ 34%-NBS",
-          "url": "https://www.munhwa.com/article/11627251",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "k2 흑표",
-      "traffic": "1000+",
-      "trafficValue": 1000,
       "startedAt": "2026-10-30T03:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLt4NzLpiZ0LQkNWMn0ACN87pNRKAb3ekYx8Im2djBlRcUGoecAnL2DzOIeno",
       "category": "기타",
@@ -103,177 +45,227 @@
       ]
     },
     {
-      "keyword": "한국장학재단",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T01:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTd_WZ3WhNS0J4s6gXeeCvycuaLxFzrYPC2Q4lpiqejYVyMn3tVp4-tYu8rNk",
-      "category": "경제",
-      "news": [
-        {
-          "title": "생활비가 돌려막기로…고금리·다중채무 악순환",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697950",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "대구시·iM뱅크, 학자금대출 상환 지원해 청년 신용회복 돕는다",
-          "url": "https://www.yna.co.kr/view/AKR20261028128200053",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[심양섭의 정론직격] 누가 과연 청년들을 빚투에서 구해 줄 것인가?",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=130591",
-          "source": "펜앤마이크"
-        }
-      ]
-    },
-    {
-      "keyword": "사이드카",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T03:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNkb2sgRrhc4Fpru2w3akFiuYMg2bOeD7X6IbUSYS31g7dfcJ3noOoHlUxdh8",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "미국발 AI 쇼크에 코스피 급락…5,700선 후퇴",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030102127OQe",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "코스피, 5600선도 위태…삼전닉스 5~7%대 급락",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04031126645618168",
-          "source": "마켓인"
-        },
-        {
-          "title": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1284994.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "갈마동 화재",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T03:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAUlH40RGB-vC9anTpY0HRPwnOf03s4ZCb04z5O8XjGZdJqZFbpwN6ZS41Vi8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "속보 대전 갈마동 타이어판매점 큰불...대응 1단계 발령",
-          "url": "https://www.ytn.co.kr/_ln/0115_202610301055496239",
-          "source": "YTN"
-        },
-        {
-          "title": "대전 갈마동 타이어 업체 화재…헬기 동원해 진화",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030105155OmJ",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "대전 갈마동 타이어 판매점서 불…소방 대응 1단계 진화 중",
-          "url": "https://www.yna.co.kr/view/AKR20261030069700063",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "겨울옷",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkQlepiPgiZ4k7LXejWqzW-Vb4t6tDlKzIpYE4IkahKzB8rd_56OIVzJnvEc",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "옷 잘 입는 사람들은 ‘이 패딩’을 선택합니다",
-          "url": "https://www.vogue.co.kr/2026/10/28/%EC%98%B7-%EC%9E%98-%EC%9E%85%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4-%ED%8C%A8%EB%94%A9%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A9%EB%8B%88%EB%8B%A4/",
-          "source": "Vogue korea"
-        },
-        {
-          "title": "매출 320% 급증…입소문 탄 '등골 프로텍터'",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822203",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "할인 안 해도 나오자마자 '불티'…요즘 잘 팔리는 겨울옷",
-          "url": "https://www.hankyung.com/article/2026102943341",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "어쌔신 크리드",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T01:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV0TiTn5UkBhWpYyuPAQ6wdlixBQfCNCc7G5Bhtr8SGBzbBgPGamLYB6CZEYk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[해외 캠페인] 유비소프트, ‘블랙 플래그 리싱크드’ 뉴 게임 플러스 추가",
-          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6784",
-          "source": "캠페인 인사이트"
-        },
-        {
-          "title": "어쌔신 크리드 발할라에 뉴 게임 플러스 모드가 추가됩니다.",
-          "url": "https://ko.gamegpu.com/news/igry/v-assassins-creed-valhalla-poyavitsya-rezhim-novaya-igra-plyus",
-          "source": "GameGPU"
-        },
-        {
-          "title": "Assassin's Creed Black Flag Resynced가 마지막 콘텐츠 업데이트인 1.0.8 버전을 받았습니다.",
-          "url": "https://ko.gamegpu.com/news/igry/assassins-creed-black-flag-resynced-poluchila-finalnoe-kontentnoe-obnovlenie-1-0-8",
-          "source": "GameGPU"
-        }
-      ]
-    },
-    {
-      "keyword": "k패스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T02:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3ViXdhYJpkt-mCQhKFWKbnFWdbj4x_8jVG9wExWY7D4VmMH5aTB2AdFrhhuo",
+      "keyword": "택시",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-30T04:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgjP86iKOCpIE4qoLaCizbZW1SyXyfpwirWl5LZPb8PsZnZLq4rB5c447_9U4",
       "category": "기타",
       "news": [
         {
-          "title": "기후동행카드 종료, 기후동행패스 전환 방법은?",
-          "url": "https://kbthink.com/life/card/climate-pass.html",
-          "source": "KB Think"
+          "title": "홍성군 효도택시 8천400명 시범운행 신청…내년 1월 정식 시행",
+          "url": "https://www.yna.co.kr/view/AKR20261030048700063",
+          "source": "연합뉴스"
         },
         {
-          "title": "모두의카드 가입 700만 명…환급은 정률·정액 중 유리한 쪽 적용",
-          "url": "https://www.famtimes.co.kr/news/articleView.html?idxno=703724",
-          "source": "www.famtimes.co.kr"
+          "title": "“병원 가고 장보기 편해졌다”… 홍성 ‘어르신 효도택시’ 8400명 몰리며 폭발적 호응",
+          "url": "https://www.munhwa.com/article/11627523",
+          "source": "문화일보"
         },
         {
-          "title": "아산시, ‘충남형 모두의 카드’ 집중 홍보…시민 교통비 부담 줄인다",
-          "url": "http://www.canews.kr/news/articleView.html?idxno=9685",
-          "source": "천안아산신문"
+          "title": "\"연 20만원 택시비 지원\"…홍성군 '어르신 효도택시' 26일부터 시범운행",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737147",
+          "source": "국제뉴스"
         }
       ]
     },
     {
-      "keyword": "광군제",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T01:20:00.000Z",
-      "picture": "",
-      "category": "생활·날씨",
+      "keyword": "잠실 돔구장",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-30T04:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUKeS-ffJVUamw23g8XJ5colJeD7E5cHSj6jNuQGGRl7MZMj0SeWqSgTtz8k",
+      "category": "기타",
       "news": [
         {
-          "title": "알리, 광군제 내달 1일 개막…110원에 '모델 Y' 응모 이벤트",
-          "url": "https://www.yna.co.kr/view/AKR20261029067600030",
+          "title": "우리나라 최대 규모 잠실 돔구장... WBC 여는 게 목표래요",
+          "url": "https://www.chosun.com/kid/kid_literacy/kid_sisanews/2026/10/29/XULW2LQHQFGJ5ID6SIEII6RR2I/",
+          "source": "조선일보"
+        },
+        {
+          "title": "잠실 스포츠·MICE 복합공간 조성 본격화…서울시, 세부 개발계획 수정가결 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102909160199639",
+          "source": "머니투데이"
+        },
+        {
+          "title": "IPARK현산, 4.8조 잠실 마이스 PF에 2067년까지 담보 제공",
+          "url": "https://v.daum.net/v/8PqlUJFY2j",
+          "source": "Daum"
+        }
+      ]
+    },
+    {
+      "keyword": "정철승",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpBsLHI8JJwJE9RaT4_8LuZykU8Y8hPvH8k5QyBVoMghOQB4TYXwh-bF7XqTA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘박원순 피해자 신상 공개·후배 추행’ 정철승 변호사, 항소심서 법정구속",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228594",
+          "source": "법률신문"
+        },
+        {
+          "title": "'박원순 피해자 신상공개·후배 성추행' 정철승 2심서 법정구속",
+          "url": "https://www.yna.co.kr/view/AKR20261030093100004",
           "source": "연합뉴스"
         },
         {
-          "title": "알리익스프레스, '110원 전기차•쿠폰 추첨'에 최대 80% 할인…11.11 광군제 11월 1일 개막",
-          "url": "https://www.newsis.com/view/ALSX20261029_0000008016",
+          "title": "‘후배 강제추행·박원순 피해자 신원 노출’ 정철승, 2심 징역 1년 6개월…법정구속",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699722",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "고지용",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T04:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDqpB6rrKYBD4gP-w-z2RGi9FkKMf8GJC_lijIAv4zFXqjyfHtIK0LoeIYQ1Q",
+      "category": "기타",
+      "news": [
+        {
+          "title": "고지용, 젝스키스 30주년에 합류하나…장수원·이재진과 우선 디너쇼",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847560",
           "source": "뉴시스"
         },
         {
-          "title": "알리익스프레스, 광군제 내달 1일 시작…최대 80% 할인·테슬라 경품",
-          "url": "https://zdnet.co.kr/view/?no=20261029171849",
-          "source": "지디넷코리아"
+          "title": "‘허양임과 이혼’ 고지용, 젝키 재결합 택했다…이재진·장수원과 10년 만",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/30/MVRDAZRVGIZDMOLCMMZTKM3CGQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "고지용, 이혼 후 젝스키스 무대 복귀",
+          "url": "https://www.hankookilbo.com/news/article/A2026103010030005495",
+          "source": "한국일보"
+        }
+      ]
+    },
+    {
+      "keyword": "의정부시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T04:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTxGnzUD2bWuRLE02sb_QxKTiFUbQ-wkTzdqEZ-EYhhiVAc3vpInVoq5dXOls",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "의정부시 \"평화공존 3대 청사진 실천 방안 논의…시민 참여 강조\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737652",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "민주평통 인천지역회의, 접경지역 평화협력·시민 참여 확대 논의",
+          "url": "https://www.inews24.com/view/2020325",
+          "source": "아이뉴스24"
+        },
+        {
+          "title": "민주평통 제주지역회의, 2026년 4분기 운영위원회 개최",
+          "url": "https://www.channeljeju.com/news/articleView.html?idxno=203077",
+          "source": "채널제주"
+        }
+      ]
+    },
+    {
+      "keyword": "대한민국 해병대",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T04:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShO4XpoC6NU6ITTybLjFCtUre18N1y5kw4WH5FvgnaguEomLPZlUl1gszSgUg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "대화 나누는 한·태국 해병대사령관",
+          "url": "https://www.news1.kr/photos/8187909",
+          "source": "뉴스1"
+        },
+        {
+          "title": "해병대사령관, 태국 사령관 만나 연합훈련·방산협력 확대 논의",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847947",
+          "source": "뉴시스"
+        },
+        {
+          "title": "주일석 해병대사령관, 태국 해병대사령관 대담… “연합훈련·방산협력 확대 방안 논의”",
+          "url": "https://www.munhwa.com/article/11627498",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "bangladesh vs west indies",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgM_SYC2euaccI6s8E92dJUKbjGwifkAnLvBLRIdWZETDwW9QGI3Sl5Ojf4M",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
+          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Shadman finds reward in patient preparation",
+          "url": "https://www.cricbuzz.com/cricket-news/140702/bangladesh-vs-west-indies-shadman-islam-finds-reward-in-patient-preparation-cricbuzzcom",
+          "source": "Cricbuzz"
+        },
+        {
+          "title": "Campbell: If we get big partnerships, we can take the lead",
+          "url": "https://www.daily-sun.com/sports/906062/campbell-if-we-get-big-partnerships-we-can-take-the-lead",
+          "source": "Daily Sun"
+        }
+      ]
+    },
+    {
+      "keyword": "앨리스 황",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T03:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmwxOv9gSQGH2ws-ouWksb1_KbMxmH6mUBjN8GcafXu98pL1zE0yMqKA54GlI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"젠슨황과 술자리 중국 女기업인, 엔비디아 정보수집 中스파이\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6861822_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "첨단 칩 밀반입에 CEO 접촉까지… 엔비디아를 둘러싼 ‘中 스파이’ 스캔들 파장",
+          "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/10/30/20261030500027",
+          "source": "서울신문"
+        },
+        {
+          "title": "젠슨 황 '중국 불법 유출 없었다'…규제 강화우려에 시간외↓",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02584646645618168",
+          "source": "마켓인"
+        }
+      ]
+    },
+    {
+      "keyword": "콜오브듀티 이태원",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T03:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb337Gynl97fFu1s_xzaU4ObPuhuHwND1ofodBpau-7-PgCZwe2P_tWDZddiQ",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[단독] '콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "이태원 참사 영상 쓴 액티비전 고개 숙였다… \"11월 12일 전면 삭제\"",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173198",
+          "source": "IT조선"
+        },
+        {
+          "title": "\"경악스럽다\" 참사 영상 쓴 게임사…삭제 요구에도 ‘거부’",
+          "url": "https://news.jtbc.co.kr/article/NB12325491",
+          "source": "JTBC"
         }
       ]
     }
