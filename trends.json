@@ -1,28 +1,78 @@
 {
-  "updatedAt": "2026-10-30T01:51:35.417Z",
+  "updatedAt": "2026-10-30T02:42:02.658Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "경제",
       "count": 4
     },
     {
       "category": "정치·사회",
+      "count": 3
+    },
+    {
+      "category": "기타",
       "count": 2
     },
     {
       "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 2
+      "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "삼성그룹",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-10-30T00:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3WpxFYIFYec49zepvdgf17Pfrco3JpdEt4LcSIkqzyKTbVtVN2EErD2H6yQM",
+      "category": "경제",
+      "news": [
+        {
+          "title": "주주에게 '기다려라'?‥107조 원 벌고도 주가 급락",
+          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6861800_36989.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "57주년 맞은 삼성전자, \"지금은 자축보다 경쟁력 냉정하게 돌아볼 때\"",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/30/7PVGJEAKKBF7HBJVSFWCFY4GXE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "영업익 99% 반도체…‘역대급 실적’ 삼성전자 “30조 현금배당”",
+          "url": "https://www.khan.co.kr/article/202610292030005",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "재판",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-30T01:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQccejgBI_6YEzGflXzPqL1yfH98Xw0IFJI7zYsl-_JZLryZM6NleTchYXhm00",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "與, ‘조희대 국조’에 李 파기환송 사건 포함 시사… 재판 개입 논란",
+          "url": "https://www.donga.com/news/Politics/article/all/20261030/134936135/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "민주당 \"조희대 국정조사, 12·3 계엄 당시 행적 규명 초점...기존 수사 한계\"",
+          "url": "https://www.newspim.com/news/view/20261030000489",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "[속보]조희대 대법원장 탄핵 ‘반대’ 45%·‘찬성’ 34%-NBS",
+          "url": "https://www.munhwa.com/article/11627251",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
       "keyword": "중공업",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-30T00:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6BZY_ZuY8yNyw_3hDNDphikcFj7fwKs6cTlepVgKBzrf31u3xIYQxjiMTVco",
       "category": "기타",
@@ -58,89 +108,64 @@
           "source": "보안뉴스"
         },
         {
+          "title": "빗썸 뚫렸는데 배상 의무는 없다…보험 한도 10억원이 전부",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353469",
+          "source": "녹색경제신문"
+        },
+        {
           "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려(종합)",
           "url": "https://www.yna.co.kr/view/AKR20261029169152002",
           "source": "연합뉴스"
-        },
-        {
-          "title": "빗썸, 고객정보 844건 유출...프라뱅은 자산 탈취까지",
-          "url": "https://www.ytn.co.kr/_ln/0102_202610292322274540",
-          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "이용",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-29T23:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Z5C6WUJEADJcyumho4j6Ti6enziKPBMkLunpmpAGLsw6kdtvwxW4p6QdyW4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "미니창고 다락, 월 구독 없는 단기 보관 서비스 출시",
-          "url": "https://www.hellot.net/news/article.html?no=115815",
-          "source": "헬로티"
-        },
-        {
-          "title": "작은 창고에 맡긴 내 살림살이",
-          "url": "https://www.danbinews.com/news/articleView.html?idxno=34042",
-          "source": "단비뉴스"
-        },
-        {
-          "title": "셀프스토리지 미니창고 다락, 하루 2500원부터 ‘단기 이용’ 서비스 출시",
-          "url": "https://www.kmkj.kr/news/articleView.html?idxno=141969",
-          "source": "국민기자뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "cve-2026-98432",
+      "keyword": "한국장학재단",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-29T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyYRH3Olv92GsCorMOZBO6YM3EQqoRV2pYncwd8Ebjn_lkEhp3EJP3vHTuMDM",
-      "category": "IT·과학",
+      "startedAt": "2026-10-30T01:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTd_WZ3WhNS0J4s6gXeeCvycuaLxFzrYPC2Q4lpiqejYVyMn3tVp4-tYu8rNk",
+      "category": "경제",
       "news": [
         {
-          "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-          "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-          "source": "The Hacker News"
+          "title": "생활비가 돌려막기로…고금리·다중채무 악순환",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8697950",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-          "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-          "source": "The Hacker News"
-        },
-        {
-          "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
-          "url": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/",
-          "source": "CyberSecurityNews"
-        }
-      ]
-    },
-    {
-      "keyword": "이예원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T23:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTamTZcs4hpBtoD-zTR62P8qc0PxI9md1Ycgi_ql2SHWX8KYdj4sik678xFlTw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "정소이, KLPGA 투어 에쓰오일 챔피언십 1R 단독 1위…첫 승 도전(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261029187551007",
+          "title": "대구시·iM뱅크, 학자금대출 상환 지원해 청년 신용회복 돕는다",
+          "url": "https://www.yna.co.kr/view/AKR20261028128200053",
           "source": "연합뉴스"
         },
         {
-          "title": "서교림 빠지니 힘 빠진 김민솔?",
-          "url": "https://sports.khan.co.kr/article/202610300100006",
-          "source": "스포츠경향"
+          "title": "[심양섭의 정론직격] 누가 과연 청년들을 빚투에서 구해 줄 것인가?",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=130591",
+          "source": "펜앤마이크"
+        }
+      ]
+    },
+    {
+      "keyword": "어쌔신 크리드",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T01:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV0TiTn5UkBhWpYyuPAQ6wdlixBQfCNCc7G5Bhtr8SGBzbBgPGamLYB6CZEYk",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[해외 캠페인] 유비소프트, ‘블랙 플래그 리싱크드’ 뉴 게임 플러스 추가",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6784",
+          "source": "캠페인 인사이트"
         },
         {
-          "title": "[핌in제주] '마지막 6개 홀 버디 5개' 정소이, S-오일 1R 선두...이예원 1타 차 2위",
-          "url": "https://www.newspim.com/news/view/20261029001374",
-          "source": "뉴스핌"
+          "title": "어쌔신 크리드 발할라에 뉴 게임 플러스 모드가 추가됩니다.",
+          "url": "https://ko.gamegpu.com/news/igry/v-assassins-creed-valhalla-poyavitsya-rezhim-novaya-igra-plyus",
+          "source": "GameGPU"
+        },
+        {
+          "title": "블랙 플래그 리싱크드, 오늘 밤 11시 뉴게임+ 추가",
+          "url": "http://www.gameinn.co.kr/news/articleView.html?idxno=14438",
+          "source": "게임인"
         }
       ]
     },
@@ -188,9 +213,9 @@
           "source": "CNBC"
         },
         {
-          "title": "Signs of massive hack at Binance… Tether, Circle freeze 3 trillion won in assets",
-          "url": "https://www.mt.co.kr/en/stock/2026/10/30/2026103009525619951",
-          "source": "머니투데이"
+          "title": "World's Largest Crypto Exchange Binance Hit by Apparent Hacking, Sparking Withdrawal Warnings in Korea",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822705",
+          "source": "news.sbs.co.kr"
         }
       ]
     },
@@ -199,23 +224,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-30T00:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl0aLfPpk07QerisKpLgL3jBstBM-gvxC28nxHAVHha-srKUXukXSRuvtKiCo",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hhGJJzXxGyoAl7p-q7kj-9RJq1qMck1LDzA5Ah2foKsfA8-h-krMBEtpqEw",
+      "category": "경제",
       "news": [
         {
-          "title": "나의 국민연금, 배우자와 자녀도 받을 수 있을까?ㅣ연금 로드맵 360",
-          "url": "https://story.pay.naver.com/content/3795_40_C61",
-          "source": "네이버페이 머니스토리"
+          "title": "[카드뉴스] \"냉장고 문 열었더니 인터넷 털렸다?\"… 스마트 가전 노린 '홈 네트워크 해킹' 실태",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146888",
+          "source": "보안뉴스"
         },
         {
-          "title": "배우자 떠나면 누구는 반토막, 누구는 전액…유족연금 논란",
-          "url": "https://www.yna.co.kr/view/AKR20261029161900530",
-          "source": "연합뉴스"
+          "title": "은행권 탈탈 털린 해킹, 톰 크루즈가 3년전 경고했다 … ‘미션 임파서블’로 보는 AI 해커 시대",
+          "url": "https://www.mk.co.kr/news/culture/12183845",
+          "source": "매일경제"
         },
         {
-          "title": "배우자 사망 유족연금 수령액 연금 종류 따라 격차…형평성 논란",
-          "url": "https://www.kyeonggi.com/article/20261030580010",
-          "source": "경기일보"
+          "title": "똑같은 맞벌이인데…우리집은 '반토막' 공무원 부부는 '전액'",
+          "url": "https://www.hankyung.com/article/2026103053877",
+          "source": "한국경제"
         }
       ]
     },
@@ -241,31 +266,6 @@
           "title": "서해해경청 군산항공대, '무사고 비행 20주년' 금자탑",
           "url": "https://www.newsis.com/view/NISX20261029_0003846566",
           "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "미래에셋증권",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-29T23:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXLM1avfCXKaQs46d0XAlvbhDMJiWysqZaa11b9p4Tf0KQgZm9lRDvfvanceI",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[게시판] 미래에셋투자와연금센터, 연금투자자 절세 안내서 발간",
-          "url": "https://stock.mk.co.kr/news/view/1185354",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "\"연금투자도 절세 방법 있다\" 미래에셋투자와연금센터, 연금 세금상식 발간",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03552246645618168",
-          "source": "마켓인"
-        },
-        {
-          "title": "퇴직연금 잘 받는 것도 재테크…내 노후 지켜줄 5가지 전략",
-          "url": "https://www.hankyung.com/article/202610294481i",
-          "source": "한국경제"
         }
       ]
     }
