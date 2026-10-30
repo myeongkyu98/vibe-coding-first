@@ -1,53 +1,57 @@
 {
-  "updatedAt": "2026-10-30T05:39:03.897Z",
+  "updatedAt": "2026-10-30T06:43:51.596Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 3
+    },
+    {
+      "category": "IT·과학",
+      "count": 3
     },
     {
       "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "k2 흑표",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-30T03:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLt4NzLpiZ0LQkNWMn0ACN87pNRKAb3ekYx8Im2djBlRcUGoecAnL2DzOIeno",
-      "category": "기타",
+      "keyword": "차예련",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-10-30T05:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv5Pb3X7z9CAMAc_PoE0LGrud-31RxDRc87BbJrAXDv0XdPJlVnZpHxMF0oUs",
+      "category": "연예",
       "news": [
         {
-          "title": "K2 전차 30대 고장이라더니…폴란드 “현재 멈춘 건 몇 대, 정비도 포함” [밀리터리+]",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261029601016",
-          "source": "나우뉴스"
+          "title": "뺨 때려 고막 찢고 '좋은 엄마'로 TV에…유명 여배우 학폭 폭로 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/30/2026103013593434577",
+          "source": "머니투데이"
         },
         {
-          "title": "독일 전차 걷어낸 폴란드 공장, 한국 K2 기지로 탈바꿈… 2028년 첫 출격",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610300942554836fbbec65dfb_1",
-          "source": "글로벌이코노믹"
+          "title": "“유튜브서 참해보였는데”…85년생 여배우 학폭 폭로에 누리꾼 ‘충격’",
+          "url": "https://sports.khan.co.kr/article/202610301511003",
+          "source": "스포츠경향"
         },
         {
-          "title": "전차 위 ‘그물 같은 천’의 진화... 현대로템 K2, 열 흔적까지 줄인다",
-          "url": "https://www.insight.co.kr/news/579580",
-          "source": "인사이트"
+          "title": "“뺨 때리고 고막 찢어져”…차예련, 학폭 의혹에 “사실무근” 반박 [공식]",
+          "url": "https://www.mk.co.kr/news/hot-issues/12191552",
+          "source": "매일경제"
         }
       ]
     },
     {
       "keyword": "택시",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-30T04:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgjP86iKOCpIE4qoLaCizbZW1SyXyfpwirWl5LZPb8PsZnZLq4rB5c447_9U4",
       "category": "기타",
@@ -70,102 +74,161 @@
       ]
     },
     {
-      "keyword": "잠실 돔구장",
+      "keyword": "해병대",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-30T04:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUKeS-ffJVUamw23g8XJ5colJeD7E5cHSj6jNuQGGRl7MZMj0SeWqSgTtz8k",
-      "category": "기타",
-      "news": [
-        {
-          "title": "우리나라 최대 규모 잠실 돔구장... WBC 여는 게 목표래요",
-          "url": "https://www.chosun.com/kid/kid_literacy/kid_sisanews/2026/10/29/XULW2LQHQFGJ5ID6SIEII6RR2I/",
-          "source": "조선일보"
-        },
-        {
-          "title": "잠실 스포츠·MICE 복합공간 조성 본격화…서울시, 세부 개발계획 수정가결 - 머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/10/29/2026102909160199639",
-          "source": "머니투데이"
-        },
-        {
-          "title": "IPARK현산, 4.8조 잠실 마이스 PF에 2067년까지 담보 제공",
-          "url": "https://v.daum.net/v/8PqlUJFY2j",
-          "source": "Daum"
-        }
-      ]
-    },
-    {
-      "keyword": "정철승",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpBsLHI8JJwJE9RaT4_8LuZykU8Y8hPvH8k5QyBVoMghOQB4TYXwh-bF7XqTA",
+      "startedAt": "2026-10-30T04:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkbNOkD2bxTE67PX4ZfV7zY9cGUFeS068QKRqbkrOcg65MM4igjp5hRFGeeM4",
       "category": "정치·사회",
       "news": [
         {
-          "title": "‘박원순 피해자 신상 공개·후배 추행’ 정철승 변호사, 항소심서 법정구속",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228594",
-          "source": "법률신문"
+          "title": "후임병 성추행·폭행한 해병대 선임병 징역 1년…법정구속",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030144457s44",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "'박원순 피해자 신상공개·후배 성추행' 정철승 2심서 법정구속",
-          "url": "https://www.yna.co.kr/view/AKR20261030093100004",
-          "source": "연합뉴스"
+          "title": "해병대서 군 후임들 강제 추행·폭행한 20대 실형",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848306",
+          "source": "뉴시스"
         },
         {
-          "title": "‘후배 강제추행·박원순 피해자 신원 노출’ 정철승, 2심 징역 1년 6개월…법정구속",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699722",
-          "source": "KBS 뉴스"
+          "title": "대구고법, 하급자 강제추행하고 상습 폭행 가혹행위 해병대 하사 실형→집유",
+          "url": "https://www.lawissue.co.kr/view.php?ud=2026102918330958649a8c8bf58f_12",
+          "source": "로이슈"
         }
       ]
     },
     {
-      "keyword": "고지용",
+      "keyword": "고속철도",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-30T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDqpB6rrKYBD4gP-w-z2RGi9FkKMf8GJC_lijIAv4zFXqjyfHtIK0LoeIYQ1Q",
+      "startedAt": "2026-10-30T05:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUI4g0rANLeSKA5qynI1ydoWnuN1O9zB8e4eiIi5tsFr-Lyvh-T_-D5k5Ba1U",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "서울서 부산까지 1시간 주파…시속 400km 고속철 핵심기술 개발 추진",
+          "url": "https://www.dongascience.com/ko/news/80621",
+          "source": "DongA Science"
+        },
+        {
+          "title": "(2026 철도학회 추계학술대회) 철도 관제, 경험 의존 관제서 AI 기반 경합 예측·의사결정 지원으로 전환",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374127",
+          "source": "전기신문"
+        },
+        {
+          "title": "시속 400㎞ 고속열차 시대 준비…철도연, 더 가볍고 작은 ′대차′ 개발",
+          "url": "https://www.newspim.com/news/view/20261030000212",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "인천공항",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T05:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHGE4OuvjP04wcgfPI_snXHAabbxuKC6l7Qt6EEBLpoig3SKSzoPO01rIh1_M",
       "category": "기타",
       "news": [
         {
-          "title": "고지용, 젝스키스 30주년에 합류하나…장수원·이재진과 우선 디너쇼",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847560",
-          "source": "뉴시스"
+          "title": "[속보] 인천공항 항공사 체크인시스템 장애…출국장 곳곳 혼선",
+          "url": "https://www.mk.co.kr/news/business/12191478",
+          "source": "매일경제"
         },
         {
-          "title": "‘허양임과 이혼’ 고지용, 젝키 재결합 택했다…이재진·장수원과 10년 만",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/30/MVRDAZRVGIZDMOLCMMZTKM3CGQ/",
+          "title": "인천공항 항공권 발권 시스템 ‘오류’···체크인 지연에 승객 ‘발동동’",
+          "url": "https://www.khan.co.kr/article/202610301407001",
+          "source": "경향신문"
+        },
+        {
+          "title": "인천공항 T1 항공사 발권망 장애…항공사 3곳 출국 수속 차질",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848516",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T05:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0UJhsicNIxNFlS8NFCwzJtaVc5_1GMnLEKp8MMV8-lVdl3A93LJtMqOYM8Q",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "美 정보국 \"中, 위성요격무기 배치할 듯‥美 동맹 위성도 공격 대상\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6861818_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "이제 진짜 우주전쟁… 美 “中 위성요격 무기 실전배치 가능성”",
+          "url": "https://www.munhwa.com/article/11627588",
+          "source": "문화일보"
+        },
+        {
+          "title": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
+          "url": "https://zdnet.co.kr/view/?no=20261030083348",
+          "source": "지디넷코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "울산과학대학교",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T05:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "휘발유",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T04:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzdmiIs7PXpdhsl5MwjRAbpdp4_GFlmg68itWJOSQXWsocr1rLfU9LW9KFAsk",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[단독] ‘휘발유 대란’ 겪는 인도네시아… 韓정유업체에 공급 확대 ‘SOS’",
+          "url": "https://www.chosun.com/economy/industry-company/2026/10/30/BFKF626CANGO3A5TWP5ZXYXYTI/",
           "source": "조선일보"
         },
         {
-          "title": "고지용, 이혼 후 젝스키스 무대 복귀",
-          "url": "https://www.hankookilbo.com/news/article/A2026103010030005495",
-          "source": "한국일보"
+          "title": "경유 수출, 전년 동월 대비 100%→110% 내로 조건부 완화",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974553",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "해외 ‘러브콜’ 잇따른 K경유…정부, 수출제한 일부 완화",
+          "url": "https://www.khan.co.kr/article/202610291227001",
+          "source": "경향신문"
         }
       ]
     },
     {
       "keyword": "의정부시",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-30T04:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTxGnzUD2bWuRLE02sb_QxKTiFUbQ-wkTzdqEZ-EYhhiVAc3vpInVoq5dXOls",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjj9L-RkfSI-Tj14t9EAT9ay_60YgL1gjSLBEGC92ynBxcJEmyOkNok8XIKRM",
       "category": "정치·사회",
       "news": [
         {
-          "title": "의정부시 \"평화공존 3대 청사진 실천 방안 논의…시민 참여 강조\"",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737652",
+          "title": "동래구노인복지관, 노인 일자리 및 사회활동 지원사업 참여자 대상 문화 활동 나들이 실시",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261028.99099008394",
+          "source": "국제신문"
+        },
+        {
+          "title": "의정부시 노인일자리 참여 어르신 651명, 문화활동 행사 열려",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737646",
           "source": "국제뉴스"
         },
         {
-          "title": "민주평통 인천지역회의, 접경지역 평화협력·시민 참여 확대 논의",
-          "url": "https://www.inews24.com/view/2020325",
-          "source": "아이뉴스24"
-        },
-        {
-          "title": "민주평통 제주지역회의, 2026년 4분기 운영위원회 개최",
-          "url": "https://www.channeljeju.com/news/articleView.html?idxno=203077",
-          "source": "채널제주"
+          "title": "대한노인회 서산시지회, 노인일자리 참여자 평가회 및 문화활동 행사 개최",
+          "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917830",
+          "source": "충남일보"
         }
       ]
     },
@@ -174,98 +237,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-30T04:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShO4XpoC6NU6ITTybLjFCtUre18N1y5kw4WH5FvgnaguEomLPZlUl1gszSgUg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "대화 나누는 한·태국 해병대사령관",
-          "url": "https://www.news1.kr/photos/8187909",
-          "source": "뉴스1"
-        },
-        {
-          "title": "해병대사령관, 태국 사령관 만나 연합훈련·방산협력 확대 논의",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847947",
-          "source": "뉴시스"
-        },
-        {
-          "title": "주일석 해병대사령관, 태국 해병대사령관 대담… “연합훈련·방산협력 확대 방안 논의”",
-          "url": "https://www.munhwa.com/article/11627498",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "bangladesh vs west indies",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T04:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgM_SYC2euaccI6s8E92dJUKbjGwifkAnLvBLRIdWZETDwW9QGI3Sl5Ojf4M",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Shadman finds reward in patient preparation",
-          "url": "https://www.cricbuzz.com/cricket-news/140702/bangladesh-vs-west-indies-shadman-islam-finds-reward-in-patient-preparation-cricbuzzcom",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Campbell: If we get big partnerships, we can take the lead",
-          "url": "https://www.daily-sun.com/sports/906062/campbell-if-we-get-big-partnerships-we-can-take-the-lead",
-          "source": "Daily Sun"
-        }
-      ]
-    },
-    {
-      "keyword": "앨리스 황",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T03:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmwxOv9gSQGH2ws-ouWksb1_KbMxmH6mUBjN8GcafXu98pL1zE0yMqKA54GlI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"젠슨황과 술자리 중국 女기업인, 엔비디아 정보수집 中스파이\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6861822_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "첨단 칩 밀반입에 CEO 접촉까지… 엔비디아를 둘러싼 ‘中 스파이’ 스캔들 파장",
-          "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/10/30/20261030500027",
-          "source": "서울신문"
-        },
-        {
-          "title": "젠슨 황 '중국 불법 유출 없었다'…규제 강화우려에 시간외↓",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02584646645618168",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "콜오브듀티 이태원",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T03:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb337Gynl97fFu1s_xzaU4ObPuhuHwND1ofodBpau-7-PgCZwe2P_tWDZddiQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXtXTUdR9xZZImBNyMxqUbx1eqZlRTzGNUct0jfPbZrQzl1_IoJ-hcuFlOewA",
       "category": "IT·과학",
       "news": [
         {
-          "title": "[단독] '콜오브듀티' 측 \"머리 숙여 위로와 사과‥'이태원 참사' 장면 삭제\"",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861915_36918.html",
-          "source": "MBC 뉴스"
+          "title": "[영상] 4년 개발 끝에…내년부터 해병대 상륙공격헬기 양산 돌입",
+          "url": "https://www.yna.co.kr/view/AKR20261029169600704",
+          "source": "연합뉴스"
         },
         {
-          "title": "이태원 참사 영상 쓴 액티비전 고개 숙였다… \"11월 12일 전면 삭제\"",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173198",
-          "source": "IT조선"
+          "title": "K2 전차부터 300㎞ 로켓·자폭드론까지…해병대의 변신 [박수찬의 軍]",
+          "url": "https://www.segye.com/newsView/20261030503470",
+          "source": "세계일보"
         },
         {
-          "title": "\"경악스럽다\" 참사 영상 쓴 게임사…삭제 요구에도 ‘거부’",
-          "url": "https://news.jtbc.co.kr/article/NB12325491",
-          "source": "JTBC"
+          "title": "KAI, ‘상륙공격헬기’ 개발 성공…글로벌 군용헬기 시장 정조준 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2147593",
+          "source": "Investing.com 한국어"
         }
       ]
     }
