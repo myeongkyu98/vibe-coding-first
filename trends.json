@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T15:43:23.345Z",
+  "updatedAt": "2026-10-30T16:41:28.648Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
       "category": "IT·과학",
@@ -14,58 +14,137 @@
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "원자력",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CXVkPjQB5po0BW55qVN1EkT1qpjvP6S--fbfSSWeISWIy94WUNce1wPjlpY",
-      "category": "IT·과학",
+      "keyword": "김혜자",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-10-30T15:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv0Nal82InwA7RvcOxdh5WtEBIf_j0ClM_E40KvtJ7jQ7yMC5scyTXhPnwwME",
+      "category": "기타",
       "news": [
         {
-          "title": "신성이엔지, 국가생산성대회 국무총리 표창…AI 제조 혁신 성과 인정",
-          "url": "https://www.kyeonggi.com/article/20261030580187",
-          "source": "경기일보"
+          "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "한국수력원자력, 국가생산성대상 대통령표창 수상",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065576682326518",
-          "source": "울산종합일보"
+          "title": "의로운 박반장, 푸근한 김회장… ‘파하’ 웃으며 시대를 위로했다",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/31/DPLWMSNJPNCLZOZ7CWQQ5CBAQQ/",
+          "source": "조선일보"
         },
         {
-          "title": "생산성·지속가능경영 혁신대상…금탑훈장 등 81점 포상",
-          "url": "https://www.yna.co.kr/view/AKR20261029094200003",
-          "source": "연합뉴스"
+          "title": "’진정한 어른’과 이별…금관문화훈장 추서",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030225958clN",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "박현경",
+      "keyword": "원자력",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-30T13:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhULHBNrBSdru7BEXjOdM6Z_doML8tPIiwAPyl2qiZl6-ntJmaP8tXs4YWNYA",
-      "category": "기타",
+      "startedAt": "2026-10-30T14:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJvBUAhtre4uQzwjtjqelLUHlFXVDed42WGRfoH01D2exlrzTkl_BfRBYEbs",
+      "category": "경제",
       "news": [
         {
-          "title": "이예원, KLPGA 에쓰오일 대회 2라운드서 단독 선두(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261030159151007",
-          "source": "연합뉴스"
+          "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
+          "url": "https://www.keaj.kr/news/articleView.html?idxno=6424",
+          "source": "전기저널"
         },
         {
-          "title": "1타 차이로 희비 엇갈린 김민솔과 박현경 [KLPGA 에쓰오일]",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022467",
-          "source": "골프한국"
+          "title": "원자력안전기술원, 2026 원전 기기건전성 워크숍 개최",
+          "url": "https://www.epj.co.kr/news/articleView.html?idxno=39680",
+          "source": "일렉트릭파워"
         },
         {
-          "title": "'통산 11승 도전' 이예원, KLPGA 투어 S-OIL 챔피언십 2R 단독 선두",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848794",
-          "source": "뉴시스"
+          "title": "한국원자력안전기술원(KINS), 2026 원전 기기건전성 워크숍 개최",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=7108",
+          "source": "에너지안전신문"
+        }
+      ]
+    },
+    {
+      "keyword": "카를로스 알카라스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T15:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_qguhRlYTk2KeQQ69OvOh4MH1mxUgEwoQjPgAhwAz9n45oD2cCoQtUVYH_Y",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "알카라즈는 짜릿한 경기 끝에 승리하며 비엔나 오픈 8강에 진출했다.",
+          "url": "https://www.vietnam.vn/ko/alcaraz-thang-nghet-tho-vao-tu-ket-vienna-open",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
+          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "핼러윈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T15:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ86cuCD7wc_i_oE8pBRYT5m2_VioQCFOr2GTHOLXXMErYy2KHqL1bZsBQBYY",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "주말 핼러윈 앞둔 '불금' 저녁‥이태원 '북적' 인파관리 '비상'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862064_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[현장 르포] 핼러윈 인파 관리에 ‘초긴장’하는 경찰·서울시",
+          "url": "https://www.chosun.com/national/national_general/2026/10/30/6DOR5AU35VEEBONVC6LMW4YJOE/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "크랙",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T14:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFcO162_x_MH9864GEU5kzliB-L6DlxekTeV0WgSp_FkexMwbccxj3eE838E",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑",
+          "url": "https://zdnet.co.kr/view/?no=20261030144302",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
+          "url": "https://weekly.khan.co.kr/article/202610291732001",
+          "source": "주간경향"
         }
       ]
     },
@@ -83,39 +162,14 @@
           "source": "뉴스1"
         },
         {
-          "title": "김민, 90년 된 집 공개 후 '사생활 침해' 시달려…\"사람들 계속 찾아와\" ('나혼산')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/MZSGGNJYMQ3DCNDBGE4TANBSMU/",
+          "title": "김민, 동두천 주민 1500명 모인 운동회 참석…주민들과 완벽 동화된 '찐친 케미'",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/HBSGMM3DMY3DKMZRGIZGGZJYGI/",
           "source": "조선일보"
         },
         {
-          "title": "‘동두천 자연인’ 김민, 만 원짜리 운동화 신고 계주 도전 (나혼산)",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134941163/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "은마아파트",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T14:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_yelledZnp9axaarph41qNemXIA_Uzf2Oy5ArxRpb2xtumfiVs4VddiHAgK4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
-          "url": "https://www.yna.co.kr/view/AKR20261030179300004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "한보家와 소송 8건 얽힌 은마 … 분담금 '4억+α'로 늘어나나",
-          "url": "https://www.mk.co.kr/news/society/12191747",
-          "source": "매일경제"
-        },
-        {
-          "title": "법원 \"은마 땅 240평 정태수 상속인에\"…조합 \"토지 매입 전제로 사업 준비\"",
-          "url": "https://view.asiae.co.kr/article/2026103022070429604",
-          "source": "아시아경제"
+          "title": "김민 \"알몸 달리기 하다가 아나콘다 맨손으로 제압해\"",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846194",
+          "source": "뉴시스"
         }
       ]
     },
@@ -149,14 +203,9 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-30T14:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28qNOKDNAq1BUQqzcCr3pBMaki-xDRtASKWVcP5Ayyqqeq5bFgJ5xYLTttLk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgoU8cbBf3y_H1GyASAwkjHddcNsr-8zwS7Doc4bL72B_3hm1-qk30HuOrc1w",
       "category": "기타",
       "news": [
-        {
-          "title": "Intel stock plunges nearly 30%, on pace for its worst day since 1974",
-          "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
           "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
@@ -166,81 +215,36 @@
           "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
           "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand",
           "source": "Seoul Economic Daily"
+        },
+        {
+          "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+          "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "keyword": "에릭남",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T14:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6KcHSkA9T96xr9LZrx6KvSg96MBn6C93luapIMJynYAPQJNLf1HXnjejvaaM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "에릭남 (ERIC NAM) - Psycho | KBS 261030 방송",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026167494-01-000_MFSC15&program_code=T2022-1011&program_id=PS-2026167494-01-000&section_code=04&broadcast_complete_yn=N&section_id=16480",
-          "source": "대한민국 대표 공영미디어 KBS"
-        },
-        {
-          "title": "에릭남, 3년 만 본업 컴백…'더 시즌즈'서 'Psycho' 첫 무대",
-          "url": "https://www.etnews.com/20261030000148",
-          "source": "전자신문"
-        },
-        {
-          "title": "에릭남, 오늘(30일) '더 시즌즈' 출격…성시경 만난다",
-          "url": "https://www.chosun.com/entertainments/music/2026/10/30/MMYDCMJSGE2WCOBVMNSDAZRVGA/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "전두환",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T13:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTf7oTg6BDpdvL4nOzxHp6cqgFU-rKFZQiOiHCtIGksM7yZcR1beEBDQS0nesc",
+      "keyword": "trick or treat",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T15:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxjUTQts_7enH9ANe18Nicev0hEc6yXisdk7lcnYdlq4qOJ3kFbqnEKJQ_vYc",
       "category": "기타",
       "news": [
         {
-          "title": "\"조폭도 안 할 짓\"·\"폭언은 국민 모독\"‥또 김태규 배제 공방",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6862025_36911.html",
-          "source": "MBC 뉴스"
+          "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
+          "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html",
+          "source": "The New York Times"
         },
         {
-          "title": "[오늘 여의도] 정치권도 깊은 애도",
-          "url": "https://www.kyeongin.com/article/1773778",
-          "source": "경인일보"
+          "title": "Halloween looks dry and mostly cloudy in the Piedmont Triad",
+          "url": "https://www.wxii12.com/article/piedmont-triad-halloween-forecast-hour-by-hour/74288219",
+          "source": "WXII"
         },
         {
-          "title": "국힘 \"증인 막고 의혹 덮고 책임 피하는 게 민주당식 국감인가\"",
-          "url": "https://www.yna.co.kr/view/AKR20261030086400001",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "박진영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T13:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSmWLY8C4Y8GBB63c_FN90zF6oIBNlt_NaZmeqGscNKVF4CvDEt_A_UCacn20",
-      "category": "기타",
-      "news": [
-        {
-          "title": "박진영 “데이식스 원필과 10시간 통화”…17세부터 이어진 우정",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937893/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "거미, 성시경과 귀호강 하모니…아이유 듀엣곡 ‘그대네요’ 완벽 소화 (고막남친)",
-          "url": "https://sports.khan.co.kr/article/202610301054003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "야윈 얼굴로 팬들 걱정 샀던 거미…2주 만에 밝아진 근황 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102906032317441",
-          "source": "머니투데이"
+          "title": "Pineapple express a flood threat to California, Southwest",
+          "url": "https://weather.com/2026/10/30/forecast/regional/atmospheric-river-flood-threat-california-southwest-halloween",
+          "source": "The Weather Channel"
         }
       ]
     },
@@ -258,14 +262,14 @@
           "source": "인천일보"
         },
         {
-          "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947",
-          "source": "중부일보"
-        },
-        {
           "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821258",
           "source": "SBS 뉴스"
+        },
+        {
+          "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947",
+          "source": "중부일보"
         }
       ]
     }
