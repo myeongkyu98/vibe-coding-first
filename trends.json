@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-10-30T16:41:28.648Z",
+  "updatedAt": "2026-10-30T17:36:51.323Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "IT·과학",
       "count": 4
     },
     {
-      "category": "IT·과학",
-      "count": 3
+      "category": "정치·사회",
+      "count": 2
     },
     {
-      "category": "경제",
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
       "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
       "count": 1
     }
   ],
@@ -28,48 +28,48 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-10-30T15:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv0Nal82InwA7RvcOxdh5WtEBIf_j0ClM_E40KvtJ7jQ7yMC5scyTXhPnwwME",
-      "category": "기타",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqmmAESxVgjYNntrrMei8NeUBmNomjjIRxtrOMzEXVyob_ZyD-UBCUUK5iABY",
+      "category": "연예",
       "news": [
+        {
+          "title": "‘국민 배우’ 최불암에 금관문화훈장 추서···“67년간 국민 곁 지킨 배우”",
+          "url": "https://www.khan.co.kr/article/202610301715001",
+          "source": "경향신문"
+        },
+        {
+          "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
+          "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2",
+          "source": "동아일보"
+        },
         {
           "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html",
           "source": "MBC 뉴스"
-        },
-        {
-          "title": "의로운 박반장, 푸근한 김회장… ‘파하’ 웃으며 시대를 위로했다",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/31/DPLWMSNJPNCLZOZ7CWQQ5CBAQQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "’진정한 어른’과 이별…금관문화훈장 추서",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030225958clN",
-          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "원자력",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJvBUAhtre4uQzwjtjqelLUHlFXVDed42WGRfoH01D2exlrzTkl_BfRBYEbs",
-      "category": "경제",
+      "keyword": "이태원참사",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T16:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSix2kSzkIvli02vvJ6w6EKzGOWO5g-MBtNg_Z6WOC_kKN973KcgD9TtEY3_k",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
-          "url": "https://www.keaj.kr/news/articleView.html?idxno=6424",
-          "source": "전기저널"
+          "title": "[단독] '이태원 참사 박제' 콜오브듀티 \"머리 숙여 사과‥전면 삭제\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862063_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "원자력안전기술원, 2026 원전 기기건전성 워크숍 개최",
-          "url": "https://www.epj.co.kr/news/articleView.html?idxno=39680",
-          "source": "일렉트릭파워"
+          "title": "\"경악스럽다\" 참사 영상 쓴 게임사…삭제 요구에도 ‘거부’",
+          "url": "https://news.jtbc.co.kr/article/NB12325491",
+          "source": "JTBC"
         },
         {
-          "title": "한국원자력안전기술원(KINS), 2026 원전 기기건전성 워크숍 개최",
-          "url": "https://www.esnews.kr/news/articleView.html?idxno=7108",
-          "source": "에너지안전신문"
+          "title": "주진우 \"콜오브듀티 차단은 검열 … 게임 이용권 침해 시도 막겠다\"",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/30/2026103000221.html",
+          "source": "뉴데일리"
         }
       ]
     },
@@ -137,14 +137,14 @@
           "source": "지디넷코리아"
         },
         {
-          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671",
-          "source": "YTN 사이언스"
+          "title": "애플, 아이폰 듀오 디스플레이 결함 무상 교체…대상·절차는",
+          "url": "https://www.yna.co.kr/view/AKR20261028103200017",
+          "source": "연합뉴스"
         },
         {
-          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
-          "url": "https://weekly.khan.co.kr/article/202610291732001",
-          "source": "주간경향"
+          "title": "[AFTER 8 SPECIAL] \"받자마자 깨질 줄은\" 삼성 의문의 1승?…애플 '접는 아이폰' 대체 왜 깨졌을까",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819342",
+          "source": "SBS 뉴스"
         }
       ]
     },
@@ -162,14 +162,39 @@
           "source": "뉴스1"
         },
         {
-          "title": "김민, 동두천 주민 1500명 모인 운동회 참석…주민들과 완벽 동화된 '찐친 케미'",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/HBSGMM3DMY3DKMZRGIZGGZJYGI/",
-          "source": "조선일보"
+          "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930",
+          "source": "머니투데이"
         },
         {
-          "title": "김민 \"알몸 달리기 하다가 아나콘다 맨손으로 제압해\"",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846194",
-          "source": "뉴시스"
+          "title": "“연출 의혹까지 나왔는데”…‘동두천 자연인’ 김민, 화제 속 ‘나혼산’ 재출격",
+          "url": "https://www.sedaily.com/article/20107523",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "중간선거",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T16:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0KvxRvkmu30LAyWC6B7CjpOu5WIwVQMXYjo35Ii3taGSX6T7c20i9vMzM95Y",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "\"중간선거 앞둔 백악관 침울…트럼프, '궁정광대' 충성파 의존\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030009400071",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "전쟁에 63조 쓴 미국도, 살인 물가 이란도…중간선거가 운명 가른다 [핫클립]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698857",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "미 중간선거 D-4...트럼프, 벌써 선거 불복 '밑밥'? [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610301701240661",
+          "source": "YTN"
         }
       ]
     },
@@ -199,31 +224,6 @@
       ]
     },
     {
-      "keyword": "intc",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T14:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgoU8cbBf3y_H1GyASAwkjHddcNsr-8zwS7Doc4bL72B_3hm1-qk30HuOrc1w",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-          "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
-          "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand",
-          "source": "Seoul Economic Daily"
-        },
-        {
-          "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-          "url": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-          "source": "The New York Times"
-        }
-      ]
-    },
-    {
       "keyword": "trick or treat",
       "traffic": "100+",
       "trafficValue": 100,
@@ -237,13 +237,13 @@
           "source": "The New York Times"
         },
         {
-          "title": "Halloween looks dry and mostly cloudy in the Piedmont Triad",
-          "url": "https://www.wxii12.com/article/piedmont-triad-halloween-forecast-hour-by-hour/74288219",
-          "source": "WXII"
+          "title": "Scattered showers possible Halloween weekend across North Texas",
+          "url": "https://www.cbsnews.com/texas/video/scattered-showers-possible-halloween-weekend-across-north-texas/",
+          "source": "CBS News"
         },
         {
-          "title": "Pineapple express a flood threat to California, Southwest",
-          "url": "https://weather.com/2026/10/30/forecast/regional/atmospheric-river-flood-threat-california-southwest-halloween",
+          "title": "Halloween weather forecast: what to expect where you are",
+          "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast",
           "source": "The Weather Channel"
         }
       ]
@@ -262,14 +262,14 @@
           "source": "인천일보"
         },
         {
+          "title": "경기도교육청, 양주·하남에 교육지원청 신설… 2027년 9월 분리 개청 추진",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261030133907916d94aa4ada6_12",
+          "source": "로이슈"
+        },
+        {
           "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821258",
           "source": "SBS 뉴스"
-        },
-        {
-          "title": "경기도교육청 양주서 타운홀 미팅…옥정 과밀부터 서부권 교육 소외까지 집중 논의",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740947",
-          "source": "중부일보"
         }
       ]
     }
