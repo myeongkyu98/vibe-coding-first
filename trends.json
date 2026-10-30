@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T20:30:33.209Z",
+  "updatedAt": "2026-10-30T21:30:03.320Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 2
+      "count": 3
     },
     {
       "category": "정치·사회",
@@ -15,65 +15,40 @@
     },
     {
       "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "연예",
       "count": 1
     },
     {
       "category": "경제",
       "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "김혜자",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-10-30T15:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv0Nal82InwA7RvcOxdh5WtEBIf_j0ClM_E40KvtJ7jQ7yMC5scyTXhPnwwME",
-      "category": "연예",
-      "news": [
-        {
-          "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[영상] 한 시대를 함께한 배우 최불암, 이제는 기억으로",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610310433231146",
-          "source": "YTN"
-        },
-        {
-          "title": "최불암 영정앞에 선 김혜자 \"너무 그리운 사람…곧 만나자\"(종합2보)",
-          "url": "https://www.yna.co.kr/view/AKR20261030101152005",
-          "source": "연합뉴스"
-        }
-      ]
-    },
     {
       "keyword": "르아브르 ac 대 psg",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-10-30T17:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNNnLiuCiUHXGrQkL99lzkIgH9ZZQ8eQmb1dyLZabpZc2KyXkS2vOxvOZJzjk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc75ebbAf-Cr2OyqCP4utYa3T2f-wdk6zh7lZLdv4zLj_Qb7bhNieWOxB9__o",
       "category": "스포츠",
       "news": [
         {
-          "title": "Le Havre vs PSG Prediction, Betting Tips, Lineups & Odds | 30 Oct 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/football/le-havre-vs-psg-prediction-lineups-odds-2026-10-30/",
-          "source": "Sportsgambler"
+          "title": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
+          "url": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
+          "source": "ESPN"
         },
         {
-          "title": "Le Havre vs PSG: TV channel, live stream and kick-off time for Ligue 1 fixture",
-          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-le-havre-v-paris-saint-germain/blt84f88295b2c143cd",
-          "source": "Goal.com"
+          "title": "Le Havre vs Paris Saint-Germain: Predicted starting lineup for Ligue 1 game",
+          "url": "https://psgpost.com/le-havre-vs-paris-saint-germain-predicted-starting-lineup-for-ligue-1-game-01m668s8kjsv",
+          "source": "PSG Post"
         },
         {
-          "title": "Standout star from the right powers Paris Saint-Germain",
-          "url": "https://onefootball.com/en/news/standout-star-from-the-right-powers-paris-saint-germain-43699748",
-          "source": "OneFootball"
+          "title": "Le Havre 1-5 PSG | Highlights",
+          "url": "https://www.beinsports.com/en-mena/football/ligue-1/articles-video/hakimi-bags-hat-trick-as-paris-saint-germain-rip-le-havre-to-pieces-2026-10-30",
+          "source": "beIN SPORTS"
         }
       ]
     },
@@ -82,23 +57,48 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-10-30T15:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ86cuCD7wc_i_oE8pBRYT5m2_VioQCFOr2GTHOLXXMErYy2KHqL1bZsBQBYY",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSaY3GOj8x9WhPB_XxgacsHKXnA8YqhGnAIdtG1Rmq782uBLwr0TYGNoytv5A",
       "category": "정치·사회",
       "news": [
+        {
+          "title": "[르포] 핼러윈 전야 이태원 시끌벅적…추모의 길엔 침묵(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261030171051004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[르포]이태원에 장갑차·경찰견도 등장...'핼러윈' 안전관리 총력 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/31/2026103020440586602",
+          "source": "머니투데이"
+        },
         {
           "title": "안전한 핼러윈, 소방이 함께합니다 - 카드/한컷 | 멀티미디어",
           "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974606",
           "source": "대한민국 정책브리핑"
+        }
+      ]
+    },
+    {
+      "keyword": "엘버스베르크 대 마인츠 05",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T19:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSINVDOMMxyOWDnZhCsdXcz4YzuhV7w51Engy_CNoMjF6KeGSHR1Sd9QsDgNbw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Elversberg vs Mainz 05: German Bundesliga stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cv62yw1ln38gt",
+          "source": "BBC"
         },
         {
-          "title": "주말 핼러윈 앞둔 '불금' 저녁‥이태원 '북적' 인파관리 '비상'",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862064_37004.html",
-          "source": "MBC 뉴스"
+          "title": "Licensable picture: SV Elversberg V 1. FSV Mainz 05: Matchday 9 - Bundesliga",
+          "url": "https://www.reutersconnect.com/item/sv-elversberg-v-1-fsv-mainz-05-matchday-9-bundesliga/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA4Nkk2QU0",
+          "source": "Reuters Connect"
         },
         {
-          "title": "핼러윈 데이 안전 관리 강화하는 경찰",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0021511963",
-          "source": "뉴시스"
+          "title": "̳̳{SOccer}+++[#!LIVESTREAMs-FREE!]™SV Elversberg vs Mainz SOccer Live Free 30 October 2026",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21rc29wcnRzLmdpdGh1Yi5pby92Z2h1Znl0ZnJ5L2FhLnhtbCIvPjwva3JwYW5vPg==&id=sv-elversberg-vs-mainz-waert",
+          "source": "Port of Rotterdam"
         }
       ]
     },
@@ -128,52 +128,27 @@
       ]
     },
     {
-      "keyword": "크랙",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T14:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFcO162_x_MH9864GEU5kzliB-L6DlxekTeV0WgSp_FkexMwbccxj3eE838E",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "이통 3사, 아이폰듀오 추가 물량 '깜깜'...크랙게이트에 고객 불편↑",
-          "url": "https://zdnet.co.kr/view/?no=20261030144302",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "애플, 아이폰 듀오 디스플레이 결함 무상 교체…대상·절차는",
-          "url": "https://www.yna.co.kr/view/AKR20261028103200017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[AFTER 8 SPECIAL] \"받자마자 깨질 줄은\" 삼성 의문의 1승?…애플 '접는 아이폰' 대체 왜 깨졌을까",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819342",
-          "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "le havre vs psg",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-30T18:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsjgzwoPs02wGGce0o3WIWLgqapdUg5XXutlDBXMJyxS4I-835k_f6NY0Ib7I",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfXu-xhi0x78g8W_zaNRfbK78oOJHDI-VA4YMA58hjCc_6uv_-Z2Uc_LXmyw",
       "category": "스포츠",
       "news": [
         {
-          "title": "Le Havre-PSG : la composition probable des Parisiens avec Digne, Torres et Mayulu titulaires",
-          "url": "https://www.leparisien.fr/sports/football/ligue-1/le-havre-psg-la-composition-probable-des-parisiens-avec-digne-torres-et-mayulu-titulaires-29-10-2026-HLYZKQX435D5RGSB7QWBWCTI2A.php",
-          "source": "Le Parisien"
+          "title": "Le PSG s’offre un nouveau record absolu en Ligue 1 !",
+          "url": "https://www.footmercato.net/a277112337943057132-le-psg-soffre-un-nouveau-record-absolu-en-ligue-1",
+          "source": "Foot Mercato"
         },
         {
-          "title": "DIRECT. Lille-Lens: suivez le match de la 9e journée de Ligue 1 en live",
-          "url": "https://www.live-mercato.com/article/202117-direct-lille-lens-suivez-le-match-de-la-9e-journee-de-ligue-1-en-live",
-          "source": "www.live-mercato.com"
+          "title": "Face au Havre, l'incroyable nouveau coup tactique de Luis Enrique 😱",
+          "url": "https://onefootball.com/fr/news/face-au-havre-lincroyable-nouveau-coup-tactique-de-luis-enrique-43699231",
+          "source": "OneFootball"
         },
         {
-          "title": "Les compositions pour le match Le Havre - Paris SG",
-          "url": "https://www.20minutes.fr/sport/football/ligue-1/4259077-20261030-havre-paris-sg-composition-officielle-9e-journee-ligue-1-2027",
-          "source": "20 Minutes"
+          "title": "PSG : Hakimi repart avec le ballon du match et le trophée d’homme du match",
+          "url": "https://mountakhab.net/psg-hakimi-repart-avec-le-ballon-du-match-et-le-trophee-dhomme-du-match/",
+          "source": "Mountakhab.net"
         }
       ]
     },
@@ -207,13 +182,13 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-30T16:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3OSDsZa8NAtrmQk4iP6e9qkmdSitpTCeQ46G3fIbN3bUjnuoD-zLjloehUJI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv4YcfPAmtCuLAdCfGJGMT18lNzkojA5LxANyrgbnBPxbWCQQbbs4nXmwXrUc",
       "category": "정치·사회",
       "news": [
         {
-          "title": "미 중간선거 역대최다 4천800만명 사전투표‥상원 접전지서 급증",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6862121_36925.html",
-          "source": "MBC 뉴스"
+          "title": "미국 중간선거 앞두고 사전투표 열기 ‘후끈’…역대최다 4천800만명 사전투표",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700370",
+          "source": "KBS 뉴스"
         },
         {
           "title": "\"美공화 텃밭도 안심 못해\"…루이지애나 ‘확실’→‘우세’ 하향",
@@ -224,6 +199,31 @@
           "title": "흔들리는 중서부 '딥 레드'...중도주의 내세워 파란",
           "url": "https://www.ytn.co.kr/_ln/0104_202610310402484267",
           "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "파업",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T19:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HWpoQ_U7lfM6dOyTOXiCwYgXNRBCLwnhSv5bdRBhpKYiu-dfu7S39fBjNlI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "포스코노사 3차 파업 앞두고 극적 타결…기본급 2.6% 인상(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261030171151053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "포스코 노사, 임금협상 잠정 합의…기본급 2.6% 인상+격려금 600만원 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/10/30/2026103019110243455",
+          "source": "머니투데이"
+        },
+        {
+          "title": "140일 만에…포스코 노사, 기본급 2.6%↑ 임금교섭 잠정 합의",
+          "url": "https://view.asiae.co.kr/article/2026103019213680131",
+          "source": "아시아경제"
         }
       ]
     },
@@ -241,39 +241,39 @@
           "source": "네이버페이 머니스토리"
         },
         {
-          "title": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2152028",
-          "source": "Investing.com 한국어"
-        },
-        {
           "title": "돈은 더 버는데 주가 폭락?‥AI가 집어삼킨 현금",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862067_37004.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 출발···다우 0.27%↓ 나스닥 2.42%↓",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849101",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "trick or treat",
+      "keyword": "강남 이상화",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-30T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxjUTQts_7enH9ANe18Nicev0hEc6yXisdk7lcnYdlq4qOJ3kFbqnEKJQ_vYc",
-      "category": "기타",
+      "startedAt": "2026-10-30T18:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtLKcJ_EqOeIb-MZH6i0z_mFbanrmiFrQsWRY34rgdGcSM3DRM1Smhgr0d8-w",
+      "category": "연예",
       "news": [
         {
-          "title": "Here’s Where Rain Could Dampen Your Spirits This Halloween",
-          "url": "https://www.nytimes.com/2026/10/30/weather/halloween-rain-forecast.html",
-          "source": "The New York Times"
+          "title": "강남, 다시 태어나도 이상화와 결혼? \"로또 같은 사람, 안 맞아\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/ME2DIZTGHEYDONDEMRRTCOBWGA/",
+          "source": "조선일보"
         },
         {
-          "title": "Halloween weekend forecast: lots of cloud cover with some rain possible",
-          "url": "https://www.yahoo.com/news/weather-news/articles/halloween-weekend-forecast-lots-cloud-192533647.html",
-          "source": "Yahoo"
+          "title": "강남 \"이상화, 로또 같은 사람\"이라더니…\"안 맞아\" 반전 고백",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848479",
+          "source": "뉴시스"
         },
         {
-          "title": "Halloween weather forecast: what to expect where you are",
-          "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast",
-          "source": "The Weather Channel"
+          "title": "‘프러포즈 3번’ 강남 “♥이상화, 나한테 로또 같은 사람…안 맞아” 반전 폭로",
+          "url": "https://m.newsen.com/news_view.php?uid=202610301022430310",
+          "source": "뉴스엔"
         }
       ]
     }
