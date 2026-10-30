@@ -1,53 +1,61 @@
 {
-  "updatedAt": "2026-10-30T02:42:02.658Z",
+  "updatedAt": "2026-10-30T03:41:33.790Z",
   "summary": [
     {
       "category": "경제",
-      "count": 4
-    },
-    {
-      "category": "정치·사회",
       "count": 3
     },
     {
-      "category": "기타",
+      "category": "정치·사회",
       "count": 2
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "기타",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼성그룹",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-10-30T00:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3WpxFYIFYec49zepvdgf17Pfrco3JpdEt4LcSIkqzyKTbVtVN2EErD2H6yQM",
-      "category": "경제",
+      "keyword": "강균성",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-30T01:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjhc_zATL5eGXST1plmUpo8-JyNG4cAm3nPADLLzK3Sm-N2aZQ0yZ1jv_35uU",
+      "category": "연예",
       "news": [
         {
-          "title": "주주에게 '기다려라'?‥107조 원 벌고도 주가 급락",
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6861800_36989.html",
-          "source": "MBC 뉴스"
+          "title": "'혼전순결' 강균성, 오늘 14세 연하 유하진과 '속전속결' 결혼",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847490",
+          "source": "뉴시스"
         },
         {
-          "title": "57주년 맞은 삼성전자, \"지금은 자축보다 경쟁력 냉정하게 돌아볼 때\"",
-          "url": "https://www.chosun.com/economy/tech_it/2026/10/30/7PVGJEAKKBF7HBJVSFWCFY4GXE/",
-          "source": "조선일보"
+          "title": "강균성, 14세 연하 배우 유하진과 결혼식…\"평생 함께 걸어갈 사람\" [N디데이]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6336512",
+          "source": "뉴스1"
         },
         {
-          "title": "영업익 99% 반도체…‘역대급 실적’ 삼성전자 “30조 현금배당”",
-          "url": "https://www.khan.co.kr/article/202610292030005",
-          "source": "경향신문"
+          "title": "'혼전순결' 노을 강균성, 14세 연하 유하진과 오늘(30일) 결혼 [소셜in]",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522985",
+          "source": "iMBC 연예"
         }
       ]
     },
     {
       "keyword": "재판",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-30T01:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQccejgBI_6YEzGflXzPqL1yfH98Xw0IFJI7zYsl-_JZLryZM6NleTchYXhm00",
       "category": "정치·사회",
@@ -58,71 +66,71 @@
           "source": "동아일보"
         },
         {
-          "title": "민주당 \"조희대 국정조사, 12·3 계엄 당시 행적 규명 초점...기존 수사 한계\"",
-          "url": "https://www.newspim.com/news/view/20261030000489",
-          "source": "뉴스핌"
+          "title": "與 “조희대 계엄동조 의혹 집중 국정조사”",
+          "url": "https://www.munhwa.com/article/11627628",
+          "source": "문화일보"
         },
         {
-          "title": "[속보]조희대 대법원장 탄핵 ‘반대’ 45%·‘찬성’ 34%-NBS",
-          "url": "https://www.munhwa.com/article/11627251",
-          "source": "문화일보"
+          "title": "선출직 의원에 당돌한 관료·대법원장 국조…권력의 위험신호 [논설실 Pick]",
+          "url": "https://www.mk.co.kr/news/economy/12190042",
+          "source": "매일경제"
         }
       ]
     },
     {
       "keyword": "중공업",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-30T00:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6BZY_ZuY8yNyw_3hDNDphikcFj7fwKs6cTlepVgKBzrf31u3xIYQxjiMTVco",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3PvKiMucPTY0rVCGLMk6O8OIytzGkEaWu76qx5yPlcLA2_EBQmqWyd9qdRjA",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "삼성중공업, 3분기 영업이익 3천384억원…작년보다 42%↑(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261029112051527",
+          "title": "HD현대중공업, AI 선박 도장 검사시스템 개발…품질 경쟁력 강화",
+          "url": "https://www.yna.co.kr/view/AKR20261029160400057",
           "source": "연합뉴스"
         },
         {
-          "title": "삼성중공업, 중국 저가 공세에 FLNG로 승부…목표가↓-NH",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02948726645618168",
-          "source": "마켓인"
+          "title": "AI가 선박도장 결함 식별·분석, HD현대중공업, 국내 첫 시스템 개발",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071061",
+          "source": "경상일보"
         },
         {
-          "title": "삼성重, 3Q 영업익 3384억원…고부가 선박 효과로 조업감소 상쇄",
-          "url": "https://m.ekn.kr/view.php?key=20261029025592842",
-          "source": "에너지경제신문"
+          "title": "HD현대, SDV센터 신설… '스마트 선박' 띄운다 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/28/2026102720072183935",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "보안뉴스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTni5FV8Cc8J1uCgqqLiTHjk5qMmUxo71jM4a4SNcHrRWUAWsfgFYJLz8DFuIM",
-      "category": "정치·사회",
+      "keyword": "삼성그룹",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-30T00:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRFWCRrQqMvZL0_v1OL9TkM4-mFIF4FWcc6_gsE2BSMCObnAm9vVNY3nZjBEU",
+      "category": "경제",
       "news": [
         {
-          "title": "[단독] 미래에셋생명 유출사고, ‘웹셸’ 업로드 취약점 때문이었다",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146869",
-          "source": "보안뉴스"
+          "title": "57주년 맞은 삼성전자, \"지금은 자축보다 경쟁력 냉정하게 돌아볼 때\"",
+          "url": "https://www.chosun.com/economy/tech_it/2026/10/30/7PVGJEAKKBF7HBJVSFWCFY4GXE/",
+          "source": "조선일보"
         },
         {
-          "title": "빗썸 뚫렸는데 배상 의무는 없다…보험 한도 10억원이 전부",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353469",
-          "source": "녹색경제신문"
+          "title": "’영업익 100조’ 삼성전자 “기술 경쟁력 점검해야 할 때“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030101914v7r",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261029169152002",
-          "source": "연합뉴스"
+          "title": "주주에게 '기다려라'?‥107조 원 벌고도 주가 급락",
+          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6861800_36989.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
       "keyword": "한국장학재단",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-10-30T01:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTd_WZ3WhNS0J4s6gXeeCvycuaLxFzrYPC2Q4lpiqejYVyMn3tVp4-tYu8rNk",
       "category": "경제",
@@ -141,6 +149,31 @@
           "title": "[심양섭의 정론직격] 누가 과연 청년들을 빚투에서 구해 줄 것인가?",
           "url": "https://www.pennmike.com/news/articleView.html?idxno=130591",
           "source": "펜앤마이크"
+        }
+      ]
+    },
+    {
+      "keyword": "대전 화재",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T02:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAUlH40RGB-vC9anTpY0HRPwnOf03s4ZCb04z5O8XjGZdJqZFbpwN6ZS41Vi8",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "속보 대전 갈마동 타이어판매점 큰불...대응 1단계 발령",
+          "url": "https://www.ytn.co.kr/_ln/0115_202610301112249698",
+          "source": "YTN"
+        },
+        {
+          "title": "대전 갈마동 타이어 업체 화재…헬기 동원해 진화",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030105155OmJ",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "화재 진화 작업 동원된 소방 헬기",
+          "url": "https://mobile.newsis.com/photo/NISI20261030_0002278556",
+          "source": "뉴시스"
         }
       ]
     },
@@ -170,17 +203,67 @@
       ]
     },
     {
+      "keyword": "겨울옷",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T02:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkQlepiPgiZ4k7LXejWqzW-Vb4t6tDlKzIpYE4IkahKzB8rd_56OIVzJnvEc",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "옷 잘 입는 사람들은 ‘이 패딩’을 선택합니다",
+          "url": "https://www.vogue.co.kr/2026/10/28/%EC%98%B7-%EC%9E%98-%EC%9E%85%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4-%ED%8C%A8%EB%94%A9%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%A9%EB%8B%88%EB%8B%A4/",
+          "source": "Vogue korea"
+        },
+        {
+          "title": "할인 안 해도 나오자마자 '불티'…요즘 잘 팔리는 겨울옷",
+          "url": "https://www.hankyung.com/article/2026102943341",
+          "source": "한국경제"
+        },
+        {
+          "title": "매출 320% 급증…입소문 탄 '등골 프로텍터'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822203",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "k패스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3ViXdhYJpkt-mCQhKFWKbnFWdbj4x_8jVG9wExWY7D4VmMH5aTB2AdFrhhuo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "기후동행카드 종료, 기후동행패스 전환 방법은?",
+          "url": "https://kbthink.com/life/card/climate-pass.html",
+          "source": "KB Think"
+        },
+        {
+          "title": "모두의카드 가입 700만…환급은 알아서",
+          "url": "https://ghnews.net/news/article.html?no=248092",
+          "source": "경기헤드뉴스"
+        },
+        {
+          "title": "아산시, ‘충남형 모두의 카드’ 집중 홍보…시민 교통비 부담 줄인다",
+          "url": "http://www.canews.kr/news/articleView.html?idxno=9685",
+          "source": "천안아산신문"
+        }
+      ]
+    },
+    {
       "keyword": "비트코인 시세",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-30T00:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtI0_reOH6p2JmoOw3kUCnh3BGcEpge7k1TJ-Ejzq8lwxc7hLt9lHnVuEpO80",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4WLxcLbvfjWsW-vevlk_OcsOhh3slBOkzXs5VObWrr56uBMzIMaE0ngHbrjA",
       "category": "경제",
       "news": [
         {
-          "title": "비트코인 3.7% 하락해 7만8000달러대…이더리움·리플도 급락",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/30/ERCU7FYMIJBJVBETZDU7M326SQ/",
-          "source": "Chosunbiz"
+          "title": "비트코인·이더리움·솔라나: ‘1만 달러’ 외친 전문가, 결국 전량 매도",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2144512",
+          "source": "Investing.com 한국어"
         },
         {
           "title": "[코인 시황] 비트코인 8만달러 일시 붕괴…기술주 급락·연준 매파 기조에 위험자산 매도 확산",
@@ -191,81 +274,6 @@
           "title": "린 알든이 본 월가의 진짜 공포, 반 토막에도 무너지지 않는 비트코인",
           "url": "https://contents.premium.naver.com/joosikstudy/coinschool/contents/261029141954900ct",
           "source": "네이버 프리미엄콘텐츠"
-        }
-      ]
-    },
-    {
-      "keyword": "binance",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T00:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqRSbmvP3YoTyfk4DD8B-ggAJfhlJv6fXH-F7hD7JrCNunVizyKSw3d122GUk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Crypto worth billions frozen after suspected Binance hack",
-          "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
-          "source": "BBC"
-        },
-        {
-          "title": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets",
-          "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "World's Largest Crypto Exchange Binance Hit by Apparent Hacking, Sparking Withdrawal Warnings in Korea",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008822705",
-          "source": "news.sbs.co.kr"
-        }
-      ]
-    },
-    {
-      "keyword": "카드뉴스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T00:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hhGJJzXxGyoAl7p-q7kj-9RJq1qMck1LDzA5Ah2foKsfA8-h-krMBEtpqEw",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[카드뉴스] \"냉장고 문 열었더니 인터넷 털렸다?\"… 스마트 가전 노린 '홈 네트워크 해킹' 실태",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146888",
-          "source": "보안뉴스"
-        },
-        {
-          "title": "은행권 탈탈 털린 해킹, 톰 크루즈가 3년전 경고했다 … ‘미션 임파서블’로 보는 AI 해커 시대",
-          "url": "https://www.mk.co.kr/news/culture/12183845",
-          "source": "매일경제"
-        },
-        {
-          "title": "똑같은 맞벌이인데…우리집은 '반토막' 공무원 부부는 '전액'",
-          "url": "https://www.hankyung.com/article/2026103053877",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "항공대",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqTVTGO_KqXQaGy4-oBFl-pN6vFE2ZAR3y7s1Pk7d3sh10XxEbmw_uctfJnLY",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "한국항공대, 동아리 문화 한마당서 진로·취업 지원 사업 홍보 활동",
-          "url": "https://news.unn.net/news/articleView.html?idxno=599579",
-          "source": "한국대학신문"
-        },
-        {
-          "title": "서해해경청 군산회전익항공대, 20년 무사고 비행 기록 달성",
-          "url": "https://www.yna.co.kr/view/AKR20261029174400054",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "서해해경청 군산항공대, '무사고 비행 20주년' 금자탑",
-          "url": "https://www.newsis.com/view/NISX20261029_0003846566",
-          "source": "뉴시스"
         }
       ]
     }
