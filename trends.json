@@ -1,17 +1,13 @@
 {
-  "updatedAt": "2026-10-30T08:46:48.978Z",
+  "updatedAt": "2026-10-30T09:44:34.393Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 7
     },
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "count": 2
     },
     {
       "category": "정치·사회",
@@ -19,6 +15,46 @@
     }
   ],
   "items": [
+    {
+      "keyword": "자산",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-30T08:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjatx-a0eP92sewd3QKL7nqQ43I7BzcQqqK97Do-kLGwBT9laCqBao-69Efyc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "발언하는 김민석 당대표",
+          "url": "https://www.newsis.com/view/NISI20261030_0021511241",
+          "source": "뉴시스"
+        },
+        {
+          "title": "국민의힘 “가상자산 과세 늦춰야… 세부 기준 불명확·국내외 과세 형평성 문제”",
+          "url": "https://www.kyeonggi.com/article/20261030580183",
+          "source": "경기일보"
+        },
+        {
+          "title": "與, 오늘 가상자산 거래소 CEO와 간담회…과세 관련 의견 청취",
+          "url": "https://www.yna.co.kr/view/AKR20261029193700001",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "000660",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-30T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnsaO0BC-N2dmHKembRQ2RmhNpQMmMleYC43zwPARjQDa30X71GLCXZWdNozE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Earnings call transcript: SK hynix posts record Q3 2026 results, shares jump after hours",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343",
+          "source": "Investing.com"
+        }
+      ]
+    },
     {
       "keyword": "김하성",
       "traffic": "2000+",
@@ -45,84 +81,9 @@
       ]
     },
     {
-      "keyword": "젠슨 황",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-30T07:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmwxOv9gSQGH2ws-ouWksb1_KbMxmH6mUBjN8GcafXu98pL1zE0yMqKA54GlI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"젠슨황과 술자리 중국 女기업인, 엔비디아 정보수집 中스파이\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6861822_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "中, 엔비디아 관련 스파이 의혹 부인…\"근거 없는 모함\"",
-          "url": "https://www.yna.co.kr/view/AKR20261030153600083",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "첨단 칩 밀반입에 CEO 접촉까지… 엔비디아를 둘러싼 ‘中 스파이’ 스캔들 파장",
-          "url": "https://www.seoul.co.kr/news/international/USA-amrica/2026/10/30/20261030500027",
-          "source": "서울신문"
-        }
-      ]
-    },
-    {
-      "keyword": "오산대",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T07:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL4TrdgVMrdps9Fuu423-fLlJOOpIRPvD80wIhJYlHVTHGzhH2g_aC0DGX_fI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "오산대, 2027학년도 산업체 위탁교육 신입생 200명 모집…9개 학과 선발",
-          "url": "https://news.unn.net/news/articleView.html?idxno=599662",
-          "source": "한국대학신문"
-        },
-        {
-          "title": "오산대, '일·학습 병행' 2027학년도 산업체 위탁교육 신입생 200명 모집 9개 학과 전문학사 과정",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=917470",
-          "source": "경기신문"
-        },
-        {
-          "title": "서정대·덕정상인회 ‘스텝온’, 지역혁신 경진대회 최우수상 수상",
-          "url": "https://www.kyeonggi.com/article/20261030580132",
-          "source": "경기일보"
-        }
-      ]
-    },
-    {
-      "keyword": "주식시장",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T07:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi62VLcVkL6svjt7fMC1RC5O1D7JA4Ht-EZjeaywhruSB640Mvie-9zrKCij8",
-      "category": "경제",
-      "news": [
-        {
-          "title": "하준경, 레버리지에 \"손실 보신 분들도…국민께 심려 끼쳐 송구\"",
-          "url": "https://www.yna.co.kr/view/AKR20261029209400001",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'차남 관저·황제 골프' 공방‥\"레버리지 ETF 사과\"",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6861971_36974.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[기자수첩]호통만 있었던 단일종목ETF 국감 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/30/2026102910592360471",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
       "keyword": "009150",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-30T07:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwf6xTP3_t01aK6OdziY-bLo6YjS4z-OlyJqqNNX2X7ahmrwVqGDYxkK5oSeY",
       "category": "기타",
@@ -145,109 +106,134 @@
       ]
     },
     {
-      "keyword": "골프장",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "keyword": "오산대",
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-30T07:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKXXkthFOr6JxTrJhbOgCYghnf20SSImlkUapL9wQXvIjRfaaVVDt5Tkm97To",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "신목동역서 파크골프치고 안양천 달린다…9번째 펀스테이션 개장",
-          "url": "https://www.yna.co.kr/view/AKR20261029189100004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "러닝은 편하게, 파크골프는 실내에서…신목동역 펀스테이션",
-          "url": "https://mediahub.seoul.go.kr/archives/2019894",
-          "source": "서울특별시"
-        },
-        {
-          "title": "\"신목동역서 파크골프 즐긴다\"…서울시, 9번째 '펀스테이션' 개장",
-          "url": "https://www.news1.kr/local/moi/6336890",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "스타벅스 광주지산유원지입구점",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVWREEYAbolDGJfEplfIFmnZOnV69OUbZTjm9BPFiuIlSiSBdfEYdfnQs2cv4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL4TrdgVMrdps9Fuu423-fLlJOOpIRPvD80wIhJYlHVTHGzhH2g_aC0DGX_fI",
       "category": "기타",
       "news": [
         {
-          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형매장 첫 폐점",
-          "url": "https://www.yna.co.kr/view/AKR20261030074300054",
-          "source": "연합뉴스"
+          "title": "오산대, 2027학년도 산업체 위탁교육 신입생 200명 모집…9개 학과 선발",
+          "url": "https://news.unn.net/news/articleView.html?idxno=599662",
+          "source": "한국대학신문"
         },
         {
-          "title": "스벅, 광주·MBC '선택적' 폐점?…\"사실 아냐...계약만료에 따른 것\" - 머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/10/30/2026103014431551465",
-          "source": "머니투데이"
+          "title": "오산대, '일·학습 병행' 2027학년도 산업체 위탁교육 신입생 200명 모집 9개 학과 전문학사 과정",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=917470",
+          "source": "경기신문"
         },
         {
-          "title": "스타벅스, ‘탱크데이’ 논란 속 광주 대형 매장 폐점…“임대차 계약 종료”",
-          "url": "https://www.kyeonggi.com/article/20261030580101",
-          "source": "경기일보"
+          "title": "오산대 ESG센터, 교직원 대상 탄소중립 생활실천 교육 진행",
+          "url": "https://m.ekn.kr/view.php?key=20261030026353475",
+          "source": "에너지경제신문"
         }
       ]
     },
     {
-      "keyword": "new zealand vs india",
+      "keyword": "국가유공자",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-10-30T07:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlTSPKuBav9kJK148jdeC20W80pZUHjhZZTUI8nfZPycWF_w6Az-xKVb_oB48",
-      "category": "스포츠",
+      "startedAt": "2026-10-30T08:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrWbEpMu72sUQFbl2DmufhHZc04SDy2ZYD2Um9j0Fpip3OvO-Qc1qVOKC6r8A",
+      "category": "기타",
       "news": [
         {
-          "title": "New Zealand seek answers as India's batting juggernaut rolls on",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-t20i-1539435/match-preview",
-          "source": "Cricinfo"
+          "title": "보성군, ‘스무 해의 감사’… 제20회 보훈가족 한마음 행사 개최",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353488",
+          "source": "녹색경제신문"
         },
         {
-          "title": "India wins the toss and bowls in the 4th T20 vs New Zealand with the series decided",
-          "url": "https://sports.yahoo.com/articles/india-wins-toss-bowls-4th-070534776.html",
-          "source": "Yahoo Sports"
+          "title": "\"보성이 기억합니다\"…보훈가족 한마음 행사 20돌",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=927742",
+          "source": "남도일보"
         },
         {
-          "title": "Why Vaibhav Sooryavanshi Missed Out: India's Playing XI For 4th T20I Vs New Zealand",
-          "url": "https://www.outlookindia.com/sports/cricket/why-vaibhav-sooryavanshi-is-not-playing-ishan-kishan-indias-playing-xi-vs-new-zealand-4th-t20i-auckland-2026",
-          "source": "Outlook India"
+          "title": "화순군, 호국영웅을 예우하고 소통하는 호국탐방사업 추진",
+          "url": "https://www.metroseoul.co.kr/article/20261028500354",
+          "source": "메트로신문"
         }
       ]
     },
     {
-      "keyword": "jtbc 마라톤",
+      "keyword": "생계",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T07:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG1QPJeOgK4HGjlHvP_l8iHE0QVRP5MwpPFosVl8JCoHEwxeCNmV4kn8lhu9M",
+      "category": "기타",
+      "news": [
+        {
+          "title": "기초생활보장 못받는 빈곤층 137만… 생계급여 기준 ‘중위소득 35%’ 확대",
+          "url": "https://www.donga.com/news/article/all/20261028/134928959/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "일해서 나간 사람보다 죽어서 나간 사람이 많다... 기초생활보장제도의 경고",
+          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003279484",
+          "source": "OhmyNews"
+        },
+        {
+          "title": "생계급여 중위소득 32→35% 단계적 확대 추진",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20363",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "꿀알바",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-30T07:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAo7NWpmf859EtdpDANLbdSthLKrn7VsBG6wXU5X2ltg0wzxajIrLrwnKPXYw",
+      "startedAt": "2026-10-30T08:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTFAVYEW-LN7rb2Sqqe5ys0rqKuSDMQLq2tlzswzx5P5UdxW88AH1vM9wRvs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[사진]넷플릭스 '꿀알바' 기대하세요!",
+          "url": "https://www.osen.co.kr/article/G1112899807",
+          "source": "OSEN"
+        },
+        {
+          "title": "김다민 감독 \"노동은 만국 공통의 언어…처절한 생존 액션\"",
+          "url": "https://www.yna.co.kr/view/AKR20261028114600005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "귀신보다 가난이 더 무서워…시급 50배에 ‘목숨 건’ 청춘 [리뷰]",
+          "url": "https://www.sedaily.com/article/20107342",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "극한 직업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T08:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6gizRzd8N7rpcTFmAMUbvDJQz0QWNt55ePCUSPbqRU3m673BjFpteRAJHg4",
       "category": "기타",
       "news": [
         {
-          "title": "HLB라이프케어, '코리아 러닝 엑스포' 참가",
-          "url": "https://view.asiae.co.kr/article/2026103010261140892",
-          "source": "아시아경제"
+          "title": "[EBS 극한직업] 9000원에 40가지 음식 무제한…홍성 가성비 뷔페의 비밀",
+          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=766798",
+          "source": "더쎈뉴스"
         },
         {
-          "title": "코지마, '2026 JTBC 서울마라톤' 공식 후원…러너 회복 지원",
-          "url": "https://www.news1.kr/industry/general-industry/6336331",
-          "source": "뉴스1"
+          "title": "9천원 뷔페와 리퍼브 매장, 가격 낮추는 사람들",
+          "url": "http://www.ksw-news.com/news/articleView.html?idxno=3054480",
+          "source": "한국사회복지저널"
         },
         {
-          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12",
-          "source": "로이슈"
+          "title": "'극한 직업' 싸게 팔려면 더 바빠야 한다...가성비 뷔페와 리퍼브 매장의 땀",
+          "url": "https://www.nc.press/news/articleView.html?idxno=629803",
+          "source": "뉴스컬처"
         }
       ]
     },
     {
       "keyword": "보안 취약점",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-30T07:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Ovr1srlj1fJYNNo4-u1YEob2iJe-CT89sEErqBulzayxmrZOkdtxTrhhJSI",
       "category": "정치·사회",
@@ -258,9 +244,9 @@
           "source": "보안뉴스"
         },
         {
-          "title": "지니언스 \"PHP2셸 뇌관은 내부망…내부 장비 96% 취약점 노출\"",
-          "url": "https://zdnet.co.kr/view/?no=20261030155301",
-          "source": "지디넷코리아"
+          "title": "사진·문서 보관용 저장장치도 보안 위협…KISA, 보안패치 권고",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699893",
+          "source": "KBS 뉴스"
         },
         {
           "title": "PHP2Shell 연쇄 공격으로 미국 정부 관련 서버 포함 25대의 루트 권한 탈취",
