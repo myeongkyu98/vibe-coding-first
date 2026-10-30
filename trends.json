@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-10-30T11:31:50.421Z",
+  "updatedAt": "2026-10-30T12:42:21.154Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 6
+      "count": 4
     },
     {
       "category": "기타",
-      "count": 2
+      "count": 4
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "생활·날씨",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "삼성 기아",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-10-30T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTljTHXE2vMZNjAcQJgT02g23cXIDm4_0ekoWTjN02EYT5PpIZSV6QNTwRXois",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-gh5roW2MkMOUClbtU4YQV0H21sVO0W2j0UWcvs3cRluEUyzBGC4MTmbbTbs",
       "category": "스포츠",
       "news": [
         {
@@ -33,47 +33,47 @@
           "source": "YTN"
         },
         {
-          "title": "[포토]'2회초 안타로 출루한' 강민호 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103019172871873",
-          "source": "머니투데이"
-        },
-        {
-          "title": "박진만 감독 \"그간 김도영 앞에 주자 안 내보냈으니 잘 막을 것\"",
-          "url": "https://www.yna.co.kr/view/AKR20261030156100007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김성근",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-30T10:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2YRkAMinnIJeFdcy47tY5ze5h-gPV4xB7ROGnyQssACI-uiZ-PTxEnH9iOA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "김성근, '롯데 단장 부임' 이택근 긴급 호출..대책 본부 급조 ('불꽃야구2')",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/30/HAZGMZBQG5QTEOBWGU2WMNJTGY/",
+          "title": "[사진]김영웅, 실책으로 시작된 3실점",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/30/GNTDCMBRGEYTENJXGBSGCMBXG4/",
           "source": "Chosunbiz"
         },
         {
-          "title": "‘불꽃야구2’ 소향 뜬다…불꽃 파이터즈, 3연패 탈출 도전",
-          "url": "https://www.ytn.co.kr/_sn/0117_202610220806273759",
-          "source": "YTN"
-        },
-        {
-          "title": "“아내 빼고 다 바꿨다” 이대호…3연패에 배트·글러브 싹 교체",
-          "url": "https://www.sportsseoul.com/news/read/1645385",
-          "source": "스포츠서울"
+          "title": "'한국시리즈까지 1승' 삼성 vs '벼랑 끝' KIA‥물러설 수 없는 4차전",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862086_37004.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "류지혁",
+      "keyword": "기사",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-30T09:50:00.000Z",
+      "startedAt": "2026-10-30T11:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhnK1kct81riRbxOw7SH1chBTqCPivvB69Mw8thK5xU1aJhj7vZVBncdOgBo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "네이버 언론사 편집판 개편…이슈 기사 6개서 10개로",
+          "url": "https://www.yna.co.kr/view/AKR20261030050900017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "심층 기획 크게 펼치고 브리핑 카드 띄운다…네이버뉴스 편집판의 변신 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/10/30/2026103013223923054",
+          "source": "머니투데이"
+        },
+        {
+          "title": "확 바뀐 네이버 뉴스판…이슈 기사 10개에 심층기사 전면 배치",
+          "url": "https://www.news1.kr/it-science/internet-platform/6337441",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "한국시리즈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T10:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxFwnlBdSsuPiQrjxEEtaY9refrtp_RBw5pJYqQO5CKq_Sk4u657TnwV6ozO8",
       "category": "스포츠",
       "news": [
@@ -95,177 +95,161 @@
       ]
     },
     {
-      "keyword": "프로야구",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T10:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_U6srnerfpp3E7hn4ZU4ex9AZLjgptS_oPwgCDgVedOMOTvmWZdRFbqXbO8M",
+      "keyword": "에드 야데니",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T11:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "이승민",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T11:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWK0LB4gN2-HGW_HbSliAaQmbVBIF_7DkCd7Tfl9xMAW78worGnDBn_Hr1fl4",
       "category": "스포츠",
       "news": [
         {
-          "title": "'헐크' 이만수·강성우·차일목·이성우 총출동! 미래 안방마님 40명 키운다... KBO 포수 특화 캠프 개최 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103013291861932",
+          "title": "여유 있게 홈 베이스 밟는 이재현",
+          "url": "https://www.newsis.com/view/NISI20261029_0021510912",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[포토] '만루위기 막아냈다!' 환호하는 강민호 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103020550188750",
           "source": "머니투데이"
         },
         {
-          "title": "제2의 강민호 양의지 키운다! KBO 중3 대상 포수 캠프 개최…이만수 이성우 강성우 차일목 초호화 지도자 총출동",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/30/MY4DSMTBGJSTGMBRMI3WMYJRMQ/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "이만수·강성우·차일목·이성우 총출동!…KBO, 아카데미 포수 캠프 개최",
-          "url": "https://www.mk.co.kr/news/sports/12191312",
-          "source": "매일경제"
+          "title": "'PO 전 경기 출장' 23홀드 좌완의 유쾌한 감사 인사, \"하늘에 고맙다고 커피를 살 수도 없고…\" [PO]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/MRRWINBUGY2TQMJTGRSDOZBZMI/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "베어 트로피",
+      "keyword": "한준수",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-30T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmDCpPuUwrX0wuHXS5OvX1yXXrTF-wTCTMiHuYPtxCsHfSld9DjuonQ1GL0JA",
-      "category": "기타",
+      "startedAt": "2026-10-30T11:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2xwWwFky-kHZKHY4fakmxVCCcYk3NSZiuwiWiHFt9N-gDkM-L_XKHCtpYY3s",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "'부상' 유해란, LPGA 메이뱅크 기권…베어 트로피 수상 불발",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847877",
+          "title": "[포토]'4회말 동점적시타 터트린' 한준수 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103020010487614",
+          "source": "머니투데이"
+        },
+        {
+          "title": "한준수 적시타에 전력질주 김도영",
+          "url": "https://mobile.newsis.com/photo/NISI20261030_0021512098",
           "source": "뉴시스"
         },
         {
-          "title": "악, 카트이동하다 손가락이…유해란, 베어트로피 사실상 무산",
-          "url": "https://www.sedaily.com/article/20108026",
-          "source": "서울경제"
-        },
-        {
-          "title": "부상에 발목 잡힌 유해란…메이뱅크 챔피언십 1R 앞서 기권, 베어트로피 수상 무산",
-          "url": "https://sports.donga.com/sports/article/all/20261029/134933111/1",
-          "source": "스포츠동아"
+          "title": "[AI그래픽] KBO PO 1차전, KIA 한준수 4회 5-0으로 벌리는 솔로포",
+          "url": "https://www.newspim.com/news/view/20261026001239",
+          "source": "뉴스핌"
         }
       ]
     },
     {
-      "keyword": "김선빈",
+      "keyword": "양현종",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-30T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTI1XgP7ffb4ZonZcd_NzF3u197nqA7Hj0cQ2RtJ9b_N9q211z5tGLNpTryPRQ",
+      "startedAt": "2026-10-30T11:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4VCDBmHHyaKIj2Ic_Qa8dGMokq4ejDhy7cKdA4KQ8AVKYThpdZunMw8zkm_w",
       "category": "스포츠",
       "news": [
         {
-          "title": "2년 연속 KS 진출 꿈꾸는 복덩이 이적생 “나는 정말 행복한 선수, 대구 가서 역전하겠다” [PO4]",
-          "url": "https://www.osen.co.kr/article/G1112901174",
-          "source": "OSEN"
-        },
-        {
-          "title": "\"5일치 짐 싸왔다\" 대구 찍고 수원행, 당연한 거 아닌가요? \"의지는 충만\"[PO4 현장]",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/30/MIYDSYTCGI4DQM3FGIZGMYZTGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "김선빈 안타, 주루코치와 인사",
-          "url": "https://mobile.newsis.com/photo/NISI20261029_0021510727",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "서민금융진흥원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSm0KnpdVbAWL4DN04JIPrnYndTbEpqc2Yb99s_gxN70geTQjSYogJe9c5uOjI",
-      "category": "경제",
-      "news": [
-        {
-          "title": "하나은행, 서금원에 1천억원 출연…저소득직장인 신용대출 출시",
-          "url": "https://www.yna.co.kr/view/AKR20261030073200002",
+          "title": "김도영 전격 2번…이범호 KIA 감독 \"페덱 공 못 치면 진다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030141800007",
           "source": "연합뉴스"
         },
         {
-          "title": "삼성·금융권, 미소금융에 8000억 출연…청년 라이더·귀농인 대출 나온다",
-          "url": "https://stock.mk.co.kr/news/view/1185611",
-          "source": "매일경제 마켓"
+          "title": "[사진]카스트로,'동점 적시타 날렸어요'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/30/MY3TSMJXGQ3TKMDFGE2TOMBZHA/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "하나은행, 금융취약계층 지원 위해 서민금융진흥원에 2028년까지 1천억원 출연",
-          "url": "https://www.kyeongin.com/article/1773766",
-          "source": "경인일보"
-        }
-      ]
-    },
-    {
-      "keyword": "허미미",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T10:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPzk-1sxFglnXfNL85H0Vf_lT5t5sQoO_FQnmN17AvxsuYqiFoaTxHJR_9Vx4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "유도 허미미, 자비 들여 출전한 아부다비 그랜드슬램서 동메달",
-          "url": "https://www.yna.co.kr/view/AKR20261030067900007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'유도 간판' 허미미, 아부다비 그랜드슬램 동메달",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822781",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "‘AG 金’ 유도 허미미, 아부다비 그랜드슬램서 동메달 획득",
-          "url": "https://www.donga.com/news/Sports/article/all/20261030/134939471/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "탐나는전",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7QknZglVGdHAh4_kGYt5yFnQAidqetnRBhBzTxe1Zb1TgtmfvIX86rofc62c",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "18일간 펼쳐지는 역대급 할인 혜택! - 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974520",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "경북 경주시, 경주페이 캐시백 15% 확대ㆍ착한가격업소는 20% 혜택",
-          "url": "https://www.viva100.com/article/20261030500852",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "[이슈 톡톡] \"장보기 부담 끝\"‥'전국 최대 소비축제' 개막",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6861870_37012.html",
+          "title": "[엠빅뉴스] [PO3차전] 테이블세터 삼진만 5개?? 홈런 쳐도 김도영은 외롭다..",
+          "url": "https://imnews.imbc.com/original/mbig/6861967_29041.html",
           "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "헐크",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T09:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGnIYeasa46qdTwja6B_WR1zC73ULKphf05rYZRtaRpwiUiT5dFkxfzhMVM7U",
-      "category": "스포츠",
+      "keyword": "울산화력발전소",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T11:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEB1Z2akBx4j7CPwg2UC2QTH3Gk5djYYT4M1gJNe5Bxmy3sCe18VxOXnmweEk",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "마블의 울버린은 데드풀과 헐크를 통해 세계관을 확장할 수 있을 것이다.",
-          "url": "https://ko.gamegpu.com/news/igry/marvels-wolverine-mozhet-rasshirit-vselennuyu-za-schet-dedpula-i-khalka",
-          "source": "GameGPU"
+          "title": "울산 화력발전소 붕괴사고 조사결과 발표",
+          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156787305",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "'헐크' 이만수·강성우·차일목·이성우 총출동! 미래 안방마님 40명 키운다... KBO 포수 특화 캠프 개최 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103013291861932",
-          "source": "머니투데이"
+          "title": "울산화력 붕괴 참사, 기둥 과다 절단이 원인",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374168",
+          "source": "전기신문"
         },
         {
-          "title": "제2의 강민호 양의지 키운다! KBO 중3 대상 포수 캠프 개최…이만수 이성우 강성우 차일목 초호화 지도자 총출동",
-          "url": "https://biz.chosun.com/sports/baseball/2026/10/30/MY4DSMTBGJSTGMBRMI3WMYJRMQ/",
+          "title": "이경구 국토부 사고조사위원장, 울산 화력발전소 붕괴사고 조사결과 발표",
+          "url": "https://www.newsis.com/view/NISI20261030_0021511382",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "조상우",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T11:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aQdHEmkm6LxYRq4oMFHAWxFlrPfx3UYrWyQ15ckIw7u0v7443uWNpR7WHj8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "역투 조상우",
+          "url": "https://mobile.newsis.com/photo/NISI20261030_0021512209",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[사진]전상현-김태군,'위기 넘기자'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/10/29/MZRDGMJZGA2TMMLGMM3TONJUGQ/",
           "source": "Chosunbiz"
+        },
+        {
+          "title": "[사진]병살에 아쉬운 김영웅",
+          "url": "https://www.osen.co.kr/article/G1112900713",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "스타링크",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-30T11:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk9NuHXQK73uJDscP_Rk6swUB8mqbsK6rsdHcWEXa1c7p5GbICWQIeFrYpogc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "결국 푸틴의 승리?...편드는 트럼프·손 벌리는 유럽",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610291703074852",
+          "source": "YTN"
+        },
+        {
+          "title": "우크라 스타링크 제한 논란 속… 푸틴 \"머스크는 천재, 긴밀히 연락 중\"",
+          "url": "https://www.chosun.com/international/international_general/2026/10/29/5FBLICLYPBCDZIUJWHPWO3IJXM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"시속 160km 넘자 통신이 뚝?\"…드론 요격 마비시킨 '몸통'의 실체",
+          "url": "https://premium.sbs.co.kr/article/xwLbQOSKQ",
+          "source": "스브스프리미엄"
         }
       ]
     }
