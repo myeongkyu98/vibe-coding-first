@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-30T17:36:51.323Z",
+  "updatedAt": "2026-10-30T18:38:34.344Z",
   "summary": [
     {
-      "category": "IT·과학",
+      "category": "기타",
       "count": 4
     },
     {
@@ -10,7 +10,7 @@
       "count": 2
     },
     {
-      "category": "기타",
+      "category": "IT·과학",
       "count": 2
     },
     {
@@ -28,80 +28,55 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-10-30T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqmmAESxVgjYNntrrMei8NeUBmNomjjIRxtrOMzEXVyob_ZyD-UBCUUK5iABY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSANQxKstFvjx9BJav-G7WDiYrNe8rqWNbXT2dgjXwFSsDcPv4WUpkJ1N1jUN4",
       "category": "연예",
       "news": [
-        {
-          "title": "‘국민 배우’ 최불암에 금관문화훈장 추서···“67년간 국민 곁 지킨 배우”",
-          "url": "https://www.khan.co.kr/article/202610301715001",
-          "source": "경향신문"
-        },
         {
           "title": "무대 안에서나 밖에서나 ‘우리 시대의 아버지’였다",
           "url": "https://www.donga.com/news/Culture/article/all/20261031/134941838/2",
           "source": "동아일보"
         },
         {
-          "title": "형사로, 아버지로, 이웃으로‥최불암이 남긴 67년",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862070_37004.html",
+          "title": "배우 김혜자, 고 최불암 별세 애도‥문화계 인사 추모 물결",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862117_36918.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "’진정한 어른’과 이별…금관문화훈장 추서",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030225958clN",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "이태원참사",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T16:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSix2kSzkIvli02vvJ6w6EKzGOWO5g-MBtNg_Z6WOC_kKN973KcgD9TtEY3_k",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독] '이태원 참사 박제' 콜오브듀티 \"머리 숙여 사과‥전면 삭제\"",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862063_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "\"경악스럽다\" 참사 영상 쓴 게임사…삭제 요구에도 ‘거부’",
-          "url": "https://news.jtbc.co.kr/article/NB12325491",
-          "source": "JTBC"
-        },
-        {
-          "title": "주진우 \"콜오브듀티 차단은 검열 … 게임 이용권 침해 시도 막겠다\"",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/30/2026103000221.html",
-          "source": "뉴데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "카를로스 알카라스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-30T15:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_qguhRlYTk2KeQQ69OvOh4MH1mxUgEwoQjPgAhwAz9n45oD2cCoQtUVYH_Y",
+      "keyword": "르아브르 ac 대 psg",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-30T17:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySTf2huYhL0dhjvyIZxFqSH6bAn0UlKe8oTFZnyO8hVDWam95ALp04Gu74PU",
       "category": "스포츠",
       "news": [
         {
-          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138",
-          "source": "국제뉴스"
+          "title": "Le Havre vs Paris Saint-Germain: French Ligue 1 stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cqly0merd5j1t",
+          "source": "BBC"
         },
         {
-          "title": "알카라즈는 짜릿한 경기 끝에 승리하며 비엔나 오픈 8강에 진출했다.",
-          "url": "https://www.vietnam.vn/ko/alcaraz-thang-nghet-tho-vao-tu-ket-vienna-open",
-          "source": "Vietnam.vn"
+          "title": "‍‍‍‍‍( YOUTUBE LIVE ) Le Havre vs PSG Live Free Soccer Match Event",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2Jlbi1zdG9ja3MuZ2l0aHViLmlvL0JhbC9uZXdzL3NtNnMueG1sIi8+PC9rcnBhbm8+&id=free-tv-Le-Havre-v-PSG-lie-uq7fBVU7",
+          "source": "Port of Rotterdam"
         },
         {
-          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
-          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news",
-          "source": "이투데이"
+          "title": "PSG trio Ousmane Dembélé, Marquinhos, and Nuno Mendes out of Le Havre game",
+          "url": "https://sports.yahoo.com/articles/psg-trio-ousmane-demb-l-111600806.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
       "keyword": "핼러윈",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-30T15:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ86cuCD7wc_i_oE8pBRYT5m2_VioQCFOr2GTHOLXXMErYy2KHqL1bZsBQBYY",
       "category": "정치·사회",
@@ -124,6 +99,31 @@
       ]
     },
     {
+      "keyword": "카를로스 알카라스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-30T15:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_qguhRlYTk2KeQQ69OvOh4MH1mxUgEwoQjPgAhwAz9n45oD2cCoQtUVYH_Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "알카라즈는 2026년 비엔나 오픈 준결승에서 메드베데프와 맞붙게 된다.",
+          "url": "https://www.vietnam.vn/ko/alcaraz-cham-tran-medvedev-o-ban-ket-vienna-open-2026",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "알카라스, 하차노프 꺾고 비엔나오픈 16강⋯ATP 500 22연승",
+          "url": "https://m.etoday.co.kr/news/view/2640962?trc=right_categori_news",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
       "keyword": "크랙",
       "traffic": "500+",
       "trafficValue": 500,
@@ -137,14 +137,14 @@
           "source": "지디넷코리아"
         },
         {
-          "title": "애플, 아이폰 듀오 디스플레이 결함 무상 교체…대상·절차는",
-          "url": "https://www.yna.co.kr/view/AKR20261028103200017",
-          "source": "연합뉴스"
+          "title": "애플 결함에 삼성도 '긴장'...기로에 선 폴더블 혁신",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610291603054671",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "[AFTER 8 SPECIAL] \"받자마자 깨질 줄은\" 삼성 의문의 1승?…애플 '접는 아이폰' 대체 왜 깨졌을까",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819342",
-          "source": "SBS 뉴스"
+          "title": "“아이폰 듀오 또 고장?”…힌지 논란 조롱하는 삼성의 반전 광고",
+          "url": "https://weekly.khan.co.kr/article/202610291732001",
+          "source": "주간경향"
         }
       ]
     },
@@ -178,23 +178,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-30T16:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0KvxRvkmu30LAyWC6B7CjpOu5WIwVQMXYjo35Ii3taGSX6T7c20i9vMzM95Y",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOTaKHFdYfyp6XWt1BUax4B06EE_ryeYFr73YDCETFIo4Vc2XmvKY8jADB_vw",
       "category": "정치·사회",
       "news": [
-        {
-          "title": "\"중간선거 앞둔 백악관 침울…트럼프, '궁정광대' 충성파 의존\"",
-          "url": "https://www.yna.co.kr/view/AKR20261030009400071",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "전쟁에 63조 쓴 미국도, 살인 물가 이란도…중간선거가 운명 가른다 [핫클립]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8698857",
-          "source": "KBS 뉴스"
-        },
         {
           "title": "미 중간선거 D-4...트럼프, 벌써 선거 불복 '밑밥'? [앵커리포트]",
           "url": "https://www.ytn.co.kr/_ln/0104_202610301701240661",
           "source": "YTN"
+        },
+        {
+          "title": "\"민주당 안 뽑아\" 이 공식 94년 만에 바뀔까...'물가분노' 휩싸인 이곳 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/10/30/2026102714084493396",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[문정현의 글로브] 美 중간선거 이후 시장은",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442213",
+          "source": "연합인포맥스"
         }
       ]
     },
@@ -224,6 +224,31 @@
       ]
     },
     {
+      "keyword": "intc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-30T14:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7F--0ZrhBUqqP9vrDi_L40sfP_qEitOMB0mUd_pD1OHNH2MgQqiEzRoP4Jnw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Intel stock heads for worst day in more than 50 years, wiping $12 billion off government's stake",
+          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Intel Shares Plunge as Memory Crunch Hits PC Chip Demand",
+          "url": "https://en.sedaily.com/international/2026/10/30/intel-shares-plunge-as-memory-crunch-hits-pc-chip-demand",
+          "source": "Seoul Economic Daily"
+        }
+      ]
+    },
+    {
       "keyword": "trick or treat",
       "traffic": "100+",
       "trafficValue": 100,
@@ -237,39 +262,14 @@
           "source": "The New York Times"
         },
         {
-          "title": "Scattered showers possible Halloween weekend across North Texas",
-          "url": "https://www.cbsnews.com/texas/video/scattered-showers-possible-halloween-weekend-across-north-texas/",
-          "source": "CBS News"
+          "title": "Friday PM Forecast: a few showers to dodge this weekend, stronger storm system next week",
+          "url": "https://www.wbrz.com/news/friday-pm-forecast-a-few-showers-to-dodge-this-weekend-stronger-storm-system-next-week/",
+          "source": "WBRZ"
         },
         {
           "title": "Halloween weather forecast: what to expect where you are",
           "url": "https://weather.com/2026/10/30/holiday/halloween/halloween-trick-or-treat-weather-forecast",
           "source": "The Weather Channel"
-        }
-      ]
-    },
-    {
-      "keyword": "경기도교육감",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T14:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3GuPYwZAjMoMOwPuEa1mWrSU9NlpqHQL94pUWXQq-YHo6R8axw3Fr-GlAVo",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "안민석 교육감, 동두천·양주서 교육현안 청취…지역별 해법 모색",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335549",
-          "source": "인천일보"
-        },
-        {
-          "title": "경기도교육청, 양주·하남에 교육지원청 신설… 2027년 9월 분리 개청 추진",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261030133907916d94aa4ada6_12",
-          "source": "로이슈"
-        },
-        {
-          "title": "안민석, 중학교까지 생성형 AI 금지 방안 검토",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821258",
-          "source": "SBS 뉴스"
         }
       ]
     }
