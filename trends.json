@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-29T23:29:49.241Z",
+  "updatedAt": "2026-10-30T00:41:52.214Z",
   "summary": [
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 3
     },
     {
-      "category": "경제",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "기타",
+      "category": "경제",
       "count": 2
     },
     {
@@ -18,19 +18,19 @@
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "도경완",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-10-29T22:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlQrRY8XyUbDQ36p-ApGJjM5Gg1_xRUMH6LYR6dAXTTNBFxLEVg3coe9PrnKk",
       "category": "연예",
@@ -41,196 +41,196 @@
           "source": "머니투데이"
         },
         {
-          "title": "′편스토랑′ 도경완, 생활고 코스프레 의혹에 KBS 제작진 입장은?",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160309116216139",
-          "source": "시민일보"
-        },
-        {
           "title": "'120억 펜트 家' 도경완 '궁상'에 민심 뿔났다…방송심의 민원까지 [Oh!쎈 이슈]",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/10/29/GRRDINTEGM4TEMRWGUYWKOJVME/",
           "source": "조선일보"
+        },
+        {
+          "title": "120억 집 사는 도경완의 절약생활? ‘편스토랑’ 심의 민원",
+          "url": "https://www.koreadaily.com/article/20261029170158621",
+          "source": "미주중앙일보"
         }
       ]
     },
     {
-      "keyword": "england cricket team vs sri lanka national cricket team standings",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-29T21:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvw2jmPqYzkfkftvVG9T_LEGsolfqPSCER-tPOvg2V1jk93NCdVF9zx-kKVtw",
+      "keyword": "메이저 리그 사커",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-29T22:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrbe3rg1ZFv0cOcKeMCwqBRB72XFwTGmVyrjrzxjCt4EbC7tib1pDAwj-_zlY",
       "category": "스포츠",
       "news": [
         {
-          "title": "Ben Duckett and Liam Dawson impress as England beat Sri Lanka to end tri-series",
-          "url": "https://www.bbc.com/sport/cricket/articles/cjg4700703rxo",
-          "source": "BBC"
+          "title": "'충격 평가' 손흥민+메시+레반도프스키 사실상 K리그서 뛰는 수준...헝가리-키프로스-폴란드보다 낮은 MLS",
+          "url": "https://www.sportschosun.com/football/2026-10-29/202610290100186540012693",
+          "source": "스포츠조선"
         },
         {
-          "title": "Dead-rubber blues for England as Sri Lanka tune up for final",
-          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-preview",
-          "source": "Cricinfo"
+          "title": "손흥민 위상 새삼 실감 난다…MLS 도전한 레반돕 대굴욕 “15년 만 처음으로 8경기 연속 무득점”",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100037",
+          "source": "포포투"
         },
         {
-          "title": "Sri Lanka vs England prediction, team news, pitch report and betting tips for 6th ODI in tri-nations series",
-          "url": "https://sports.yahoo.com/articles/sri-lanka-vs-england-prediction-154419566.html",
-          "source": "Yahoo Sports"
+          "title": "손흥민이 대단한 거였다…레반돕 MLS서 실패한 영입 평가, 6경기 연속 무득점 ‘대굴욕’",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99701",
+          "source": "포포투"
         }
       ]
     },
     {
-      "keyword": "붉은사막 dlc",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T22:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQeOZhCAHVnFZbUMxC2oSPOgYRsWG_b7F_TjoMiX4zkpSCI9i_cTN5NqCve0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "600만장 팔린 ‘붉은사막’…첫 DLC로 흥행 2막 열까 By EBN",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2150149",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "펄어비스, DLC 출시 앞둔 ‘붉은사막’…다시 인기 재상승",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353443",
-          "source": "녹색경제신문"
-        },
-        {
-          "title": "美 포브스·IGN 극찬… ‘붉은사막 인핸스드’ 글로벌 시상식 3개 부문 노미네이트",
-          "url": "https://www.osen.co.kr/article/G1112900210",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "폐기물",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "keyword": "인텔",
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-29T21:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKeWMJCEeUDeuexbPquu9EWFo1-tRvx7xzeUD7wBh01p9BJgMI3C6zxXfaN5g",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "천안 폐기물 재활용 시설 화재, 5시간여 만에 큰 불길 잡아",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847521",
-          "source": "뉴시스"
-        },
-        {
-          "title": "천안 폐기물처리시설 화재…5시간여 만에 큰 불길 잡아",
-          "url": "https://www.yna.co.kr/view/AKR20261030011900063",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "천안 폐기물 재활용시설서 화재…5시간 19분 만에 초진",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6337170",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "아마존 주가",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T21:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4sHue2WM8TP73BGVbrIycVyRK-BNug9TSpNLqlrxenZVqag9y7GGWAGJZVJM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmnqJi9iyTUOihm1uwn0T_nIjDc2Gbu7hY7rTycnR-V3gJfR_nQDWsHqoKyhI",
       "category": "경제",
       "news": [
         {
-          "title": "아마존, 기대치 밑돈 실적에 주가 급락…AWS 39%↑ 나홀로 선전(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261030007351091",
+          "title": "인텔, 실적 호조에도 가이던스 실망…시간외서 주가 16% 폭락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442052",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "인텔, AI부문 급성장에도…4분기 부정적 전망에 주가 20% 폭락",
+          "url": "https://www.yna.co.kr/view/AKR20261030013500091",
           "source": "연합뉴스"
         },
         {
-          "title": "장 마감 후 주요 종목 동향: AMZN, TWLO, INTC, RDDT, RBLX, RIVN, SBUX",
-          "url": "https://kr.investing.com/news/stock-market-news/article-432SI-2150016",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "아마존, 3분기 실적 전망 하회…AI 투자 부담에 시간외 주가 급락",
-          "url": "https://www.asiae.co.kr/article/2026103007454626970",
-          "source": "아시아경제"
+          "title": "메모리 품귀에 발목 잡힌 인텔…주가 17% 급락",
+          "url": "https://www.fnnews.com/news/202610300514093044",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
     {
-      "keyword": "al-nassr vs al kholood standings",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T21:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiEcxTkCVXQpTuyDfpohr-lc9_ai4E9HeOAhlNrDXO8PCFtoZqeYhq5Ghfk4M",
-      "category": "스포츠",
+      "keyword": "압수수색",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T23:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZI0g3X5Qcr-WPm_xyZIhS7xpz2AK1UrmXtrSQQkF1spxfWArzEBbFHu7h80",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "Ronaldo's Perfect Hat-Trick Nears 1000th Career Goal",
-          "url": "https://www.chosun.com/english/sports-en/2026/10/30/FMON54JGQNDQPOXJQHLA4X4QXE/",
-          "source": "조선일보"
+          "title": "[단독] 아주대병원장 \"경찰, 수차례 '죄송하다' 사과…사직서 제출 3명도 설득할 것”",
+          "url": "https://www.medigatenews.com/news/2021867961",
+          "source": "MEDI:GATE NEWS"
         },
         {
-          "title": "Ronaldo’s 15-minute hat-trick the difference as Al-Nassr beat stubborn Al-Kholood",
-          "url": "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914",
-          "source": "Arab News"
+          "title": "아주대병원 찾는 경찰 고위간부…소아응급 사태 수습될까",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015167",
+          "source": "의학신문"
         },
         {
-          "title": "Forward Cristiano Ronaldo scored a hat-trick in 15 minutes — Interia Sport",
-          "url": "https://ua.news/en/sport/forvard-krishtianu-ronaldu-oformiv-khet-trik-za-15-khvilin-interia-sport",
-          "source": "UA.NEWS"
+          "title": "[엠빅뉴스] \"응급실 압수수색 건국 이래 최초\"..아주대병원에서 무슨 일이",
+          "url": "https://imnews.imbc.com/original/mbig/6861709_29041.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "al nassr",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T21:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvCdNTPPj8iA4H0tDDmUIw_08ZbotpKwiWggp-6Fb5_IiQauKNrzQ6KIPPwFc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Al Nassr FC vs Al-Kholood match lineup | Saudi Pro League · 29 Oct 2026",
-          "url": "https://www.ysscores.com/en/lineup/5970193/Al-Nassr-FC-vs-Al-Kholood-Club",
-          "source": "YSscores"
-        },
-        {
-          "title": "Al Nassr – Al-Kholood 1 - 1 | GOL – Ângelo Gabriel Borges Damaceno",
-          "url": "https://onefootball.com/en/video/al-nassr-al-kholood-1-1-gol-angelo-gabriel-borges-damaceno-43694180",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Al Nassr vs Al Kholood LIVE streaming, TV channel, kick-off time & where to watch Saudi Pro League 2026-27",
-          "url": "https://khelnow.com/football/al-nassr-vs-al-kholood-where-to-watch-saudi-pro-league-202610",
-          "source": "Khel Now"
-        }
-      ]
-    },
-    {
-      "keyword": "이상순",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-29T21:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi-4JLTMfKT_lZX7qjJAddL7Lo7IX-cV6O7wa-aE0YBECnhOvOFoMJfh2ekXQ",
+      "keyword": "머스캣",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T22:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHzpEIIzI5PSYVWoeqjg6ZNliyNJm01N0D-DGYbjINtLPSnco_uQ1Ky86PfOM",
       "category": "기타",
       "news": [
         {
-          "title": "이효리 “이상순 아프면서 대화 늘어…남편 없으면 다 의미 없다”",
-          "url": "https://www.segye.com/newsView/20261027504513",
-          "source": "세계일보"
+          "title": "귀한 몸에서 찬밥 신세로… 샤인머스캣의 씁쓸한 추락[이용재의 식사의 窓]",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261029/134935966/2",
+          "source": "동아일보"
         },
         {
-          "title": "이효리 \"남편과 반신욕 같이 해…내 몸 봐도 상관 없어\"",
-          "url": "https://www.fnnews.com/news/202610270908240737",
-          "source": "파이낸셜뉴스"
+          "title": "팔수록 더 손해…샤인머스캣 폭락에 농가 ‘한숨’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8696025",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "'돌싱' 서장훈, \"어깨 넓은 여자가 이상형\"",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842292",
+          "title": "경북 샤인머스캣 대만 공략…언론·SNS 홍보·마케팅 협약",
+          "url": "https://www.newsis.com/view/NISX20261027_0003842987",
           "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "붉은사막",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-29T21:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn88OhgqHED3vJK5QMp6tccN8m5Fxg1qWQbtdCjJFI4ZvW1afVpWKT5mPq_0Q",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "펄어비스, '붉은사막' DLC '미지의 여정' 출시",
+          "url": "https://www.yna.co.kr/view/AKR20261030026500017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[게임업계 소식] 펄어비스, ‘붉은사막 인핸스드: 미지의 여정’ 글로벌 출시 外",
+          "url": "https://www.viva100.com/article/20261030500146",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "'붉은사막', 첫번째 DLC '미지의 여정' 글로벌 출시!AI가 분석해주는 펄어비스 (263750) 상승확률은?",
+          "url": "https://contents.premium.naver.com/emoneyai/aisignal/contents/261030090956618nh",
+          "source": "네이버 프리미엄콘텐츠"
+        }
+      ]
+    },
+    {
+      "keyword": "이예원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T23:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTamTZcs4hpBtoD-zTR62P8qc0PxI9md1Ycgi_ql2SHWX8KYdj4sik678xFlTw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "정소이, KLPGA 투어 에쓰오일 챔피언십 1R 단독 1위…첫 승 도전(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261029187551007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "서교림 빠지니 힘 빠진 김민솔?",
+          "url": "https://sports.khan.co.kr/article/202610300100006",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "[핌in제주] '마지막 6개 홀 버디 5개' 정소이, S-오일 1R 선두...이예원 1타 차 2위",
+          "url": "https://www.newspim.com/news/view/20261029001374",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "구자철",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-29T22:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Y27aemBpgEYULFKFdgS2obrYrKFYkfv6c6bA8SMn4ziNGi3L_DK24d61eAM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "K리그1 제주, 구자철 관련 의혹 부인…\"법적 검토 바탕 강경 대응할 것\"",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847129",
+          "source": "뉴시스"
+        },
+        {
+          "title": "제주SK, 구자철 감독 선임 개입·부당 이익 의혹 정면 반박",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010624",
+          "source": "아시아투데이"
+        },
+        {
+          "title": "[프로축구] 제주, 구자철 어드바이저 의혹 전면 부인…\"사실무근, 법적 대응 검토\"",
+          "url": "https://www.newspim.com/news/view/20261029001365",
+          "source": "뉴스핌"
         }
       ]
     },
     {
       "keyword": "브래드 갈링하우스",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-29T22:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHcQBBjx68gGjluFskEAU4h7y9bJEALERl88rqvKUfhGXv4EVDh8aOgck0xC8",
       "category": "경제",
@@ -253,29 +253,13 @@
       ]
     },
     {
-      "keyword": "거점국립대학교",
+      "keyword": "수도권 광역급행철도 c노선",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-29T21:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5rBnWdTxS3UosoE5Q2mi9Z9UNYh9bSMhDRL8pQPbPue58kBWwZYMspOBLySE",
+      "startedAt": "2026-10-29T22:20:00.000Z",
+      "picture": "",
       "category": "기타",
-      "news": [
-        {
-          "title": "[김도연 칼럼]지방국립대 무상등록금, 공정성은 어디에 있나",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261028/134928754/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "'지거국' 학생부교과전형 지원자 26%는 '내신 1·2등급'",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6861399_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "부산대 수시 지원자 내신 성적 상승폭, 지거국 중 가장 높다",
-          "url": "https://mobile.busan.com/view/busan/view.php?code=2026102815301824531",
-          "source": "부산일보"
-        }
-      ]
+      "news": []
     }
   ]
 }
