@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T17:27:55.943Z",
+  "updatedAt": "2026-10-31T18:33:36.300Z",
   "summary": [
     {
       "category": "기타",
@@ -14,11 +14,36 @@
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "바이에른 대 도르트문트",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T16:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHdl6tBybrRJnBtUq1M3PQ26zEdpJlNFqSKmkZS6fEGHA4Fec4GQIGzwPu4M8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌",
+          "url": "https://www.osen.co.kr/article/G1112902057",
+          "source": "OSEN"
+        },
+        {
+          "title": "바이에른 뮌헨 vs 보루시아 도르트문트 예측: 선두 자리를 향한 경쟁이 더욱 치열해집니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bayern-munchen-vs-borussia-dortmund-cuoc-dua-ngoi-dau-nong-len",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "분데스리가 바이에른 뮌헨 대 도르트문트 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bayern-munich-vs-dortmund-tai-bundesliga-1792458.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
     {
       "keyword": "맨시티",
       "traffic": "1000+",
@@ -66,56 +91,6 @@
           "title": "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카",
           "url": "https://www.sportschosun.com/entertainment/2026-10-31/202610310100199670014206",
           "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "한화 blg",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T15:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy63FoNJ2K5O1MqGldUq1woZt1-eclgZ87NQi0YR1Qa6M11CctLZVowPlaaGQ",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"픽·게임 플랜 세밀 수정\", '제우스' 최우제가 말하는 '파괴전차'의 부활",
-          "url": "https://www.osen.co.kr/article/G1112902002",
-          "source": "OSEN"
-        },
-        {
-          "title": "‘TLAW 대신 G2, KC 대신 BLG’…지독한 한화생명의 ‘대진운’, ‘2026 MSI 결승 리매치’ 성사!",
-          "url": "https://sports.khan.co.kr/article/202610310957003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "카를로스 알카라스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T14:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScnok_47rjaBInp0Y04pA7TDRtOpr8HnEjWTW5C5u30ZnDieJMOc2t1ivOYjQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "그랜드슬램 4강인가, ATP 500인가…비엔나의 승부수, 알카라스 영입 효과",
-          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19778",
-          "source": "테니스피플"
-        },
-        {
-          "title": "[비엔나 오픈] 알카라스 '좋았어!'",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738138",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "[비엔나 오픈] 라켓 던지는 토미 폴",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738150",
-          "source": "국제뉴스"
         }
       ]
     },
@@ -183,14 +158,64 @@
           "source": "BBC"
         },
         {
+          "title": "Swansea City 4-0 Blackburn Rovers: Swans back to winning ways in thumping victory",
+          "url": "https://www.skysports.com/football/news/13594325/swansea-city-4-0-blackburn-rovers-swans-back-to-winning-ways-in-thumping-victory",
+          "source": "Sky Sports"
+        },
+        {
           "title": "Mowbray expects Swans to be wounded animal",
           "url": "https://sports.yahoo.com/articles/mowbray-expects-swans-wounded-animal-143301394.html",
           "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "twitch",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T17:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PlswP_ZBEWTJ1tcnCgAXeYduQdp4iF-knBzWQX8pjad-mK90dpVUp-ciOOI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Twitch gains 4% to 4.51bn hours in Q3 as Kick grows 30.7%",
+          "url": "https://ppc.land/twitch-gains-4-to-4-51bn-hours-in-q3-as-kick-grows-30-7/",
+          "source": "PPC Land"
         },
         {
-          "title": "Preview | Swansea City v Blackburn Rovers",
-          "url": "https://www.swanseacity.com/news/preview-swansea-city-v-blackburn-rovers-6",
-          "source": "Swansea City"
+          "title": "Inside Kai Cenat's Lifestyle: Streaming Success, Luxury Purchases And Career Beyond Twitch",
+          "url": "https://sports.ndtv.com/us/us-streamers/inside-kai-cenats-lifestyle-streaming-success-luxury-purchases-and-his-career-beyond-twitch-12262568",
+          "source": "NDTV Sports"
+        },
+        {
+          "title": "Kai Cenat Net Worth In 2026: Mafiathon Earnings, Brand Deals, YouTube Income, and More",
+          "url": "https://sports.ndtv.com/us/us-streamers/kai-cenat-net-worth-in-2026-mafiathon-earnings-brand-deals-youtube-income-and-more-12255178",
+          "source": "NDTV Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "미국 시간",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T16:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrXwdC-yAHtm3zSrlv7ZStMmQbRtYVPSTEzRAn9EXOE7G1WJC-gcrWS9DHMo8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "미국, 서머타임 내달 1일 해제…동부기준 韓과 시차 13→14시간",
+          "url": "https://www.yna.co.kr/view/AKR20261031008700075",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "美 서머타임, 내달 1일 종료…트럼프는 왜 1년 내내 주장할까",
+          "url": "https://www.sedaily.com/article/20108489",
+          "source": "서울경제"
+        },
+        {
+          "title": "美, 서머타임 해제…뉴욕증시 개장, 밤 11시 30분",
+          "url": "https://www.fnnews.com/news/202610310449391737",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
@@ -200,7 +225,7 @@
       "trafficValue": 100,
       "startedAt": "2026-10-31T16:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQtMg_A1EsGhW2hPicCf74eaP0rKRc7ublFvtydOzPzVGPpofwytahfFDlPs",
-      "category": "스포츠",
+      "category": "기타",
       "news": [
         {
           "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
@@ -213,7 +238,7 @@
           "source": "ESPN"
         },
         {
-          "title": "Hull City vs Ipswich LIVE! Premier League match updates, news and score",
+          "title": "Match report and highlights - Hull 2-2 Ipswich",
           "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score",
           "source": "Sky Sports"
         }
@@ -241,31 +266,6 @@
           "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
           "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs",
           "source": "Ratopati"
-        }
-      ]
-    },
-    {
-      "keyword": "ali",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T14:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTID1crMndUShvgiCDeV1aFSGe7B8xGek-9koBcRHI6k0V06gfDA2kXI_7Jjk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘Ali G: Who Iz I?’ Review: A Bit Too Tired for This Media Age",
-          "url": "https://www.nytimes.com/2026/10/28/movies/ali-g-who-iz-i-review.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Sacha Baron Cohen's New 'Ali G' Movie Sets Prime Video Streaming Date Just 1 Week After Release",
-          "url": "https://www.imdb.com/news/ni66087714/?ref_=nmnw_art_perm",
-          "source": "IMDb"
-        },
-        {
-          "title": "‘Ali G: Who Iz I?’ Extends Theatrical Run as Amazon MGM Says Movie “Delivered Against Our Goals” (Exclusive)",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ali-g-who-iz-i-theatrical-run-amazon-mgm-sacha-baron-cohen-1236742135/",
-          "source": "The Hollywood Reporter"
         }
       ]
     }
