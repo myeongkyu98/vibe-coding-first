@@ -1,59 +1,58 @@
 {
-  "updatedAt": "2026-10-31T06:41:06.625Z",
+  "updatedAt": "2026-10-31T07:46:05.463Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 4
     },
     {
-      "category": "스포츠",
+      "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
       "count": 2
     },
     {
       "category": "생활·날씨",
       "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "박진만",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-10-31T05:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHIvTuBXb0poJiiGNbcxqbd1Ho4Zstym10Fn0Ar84tpPP6n_XoFtofcwLdEmU",
-      "category": "기타",
+      "keyword": "일본",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-10-31T06:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLABaUw3z5ifUNsVW_Sdpe4GvAS9JH_sdZ4Pb-QlG2MIJDFdTinijubVT7d44",
+      "category": "경제",
       "news": [
         {
-          "title": "KIA, 플레이오프 4차전서 4 대 2 역전승‥모레 대구서 최종 5차전",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6862096_36946.html",
-          "source": "MBC 뉴스"
+          "title": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
+          "url": "https://www.hankyung.com/article/202610317202i",
+          "source": "한국경제"
         },
         {
-          "title": "사자의 치명적 실책, 호랑이 살렸다!…PO 승부는 5차전으로",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700424",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "벼랑 끝 KIA의 반격...삼성과 내일 대구서 최종 결전 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610311025374523",
+          "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610302306395249",
           "source": "YTN"
+        },
+        {
+          "title": "美·유럽·日 나란히 동결 … 반도체 호황에 한은만 인상 저울질, '금리 분화' 갈림길",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000289.html",
+          "source": "뉴데일리"
         }
       ]
     },
     {
-      "keyword": "전북 대 대전",
+      "keyword": "이순 실",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-10-31T04:20:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "이순실",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-31T05:10:00.000Z",
+      "startedAt": "2026-10-31T05:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhetWi4ceEyyTR6aCyYrFTGIG3k14lUblAS29pp8GFv9xNmMWAe7TBAGmEU_A",
       "category": "기타",
       "news": [
@@ -75,145 +74,202 @@
       ]
     },
     {
-      "keyword": "용인fc 대 서울e",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T05:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "안양 정관장 대 수원 kt",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T05:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "현금",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T03:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8zMlwePeByTZAKlg8nazLoH-jzriZIQF87I-6HPbWOxdpDD9eNCqwUmK3fvo",
+      "keyword": "패딩",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T06:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcmpMZqVhBEKKctIpbzJTsBu4voN8P45lUhaCu2NbbyTYEJRkn6ZwN5DsIq_Y",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "현금 할인 유도한 뒤 국세청에 신고… 포상금 챙기는 ‘세파라치’ 기승",
-          "url": "https://biz.chosun.com/stock/finance/2026/10/31/F3XYTZ64GZEY7HZB74KFU5YEF4/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "울산시 ‘현금 없는 시내버스’시범 운영 첫날 시민 모니터링 실시",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071206",
-          "source": "경상일보"
-        },
-        {
-          "title": "울산시, '현금 없는 시내버스'…12개 노선 시범운영",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849160",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "인도네시아",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T04:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSofjHRT001-cdzOHPKWzyRxcIe1vICZyXMxFlOcmSZTOkMdT3hcYnB09pNCis",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'최악 산불' 인니서 대기질 악화로 지난달 3천500명 사망 추정",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6862183_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "'최악 산불' 인도네시아, 대기오염으로 9월 3500명 사망 추정…예상보다 2배 ↑",
-          "url": "https://view.asiae.co.kr/article/2026103114255555576",
-          "source": "아시아경제"
-        },
-        {
-          "title": "印尼, 대규모 산불 등으로 9월 대기오염 사망자 42% 급증",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848859",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "어벤져스: 둠스데이",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T04:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbIDNJ02LE3HiXuf1_ZNmoaRsDbb4Hyi0yegS_XshqGZAMCnl-bJQ1MkBUjEk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'엑스맨' 프로페서X 하늘나라로…배우 패트릭 스튜어트 별세",
-          "url": "https://www.yna.co.kr/view/AKR20261030010200075",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘프로페서 X’와 ‘국민 아버지’…시대의 얼굴들이 떠났다 [현장영상]",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699902",
+          "title": "“비싸고 칙칙한 롱패딩 누가 입어요?”…10대들, 스파오로 갈아탄 이유는? [잇슈#태그]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700466",
           "source": "KBS 뉴스"
         },
         {
-          "title": "'엑스맨' 시리즈 패트릭 스튜어트, 86세로 별세…할리우드 추모 열기",
-          "url": "https://www.ytn.co.kr/_ln/0117_202610300813399772",
-          "source": "YTN"
+          "title": "매출 320% 급증…입소문 탄 '등골 프로텍터'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822203",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "할인 안 해도 나오자마자 '불티'…요즘 잘 팔리는 겨울옷",
+          "url": "https://www.hankyung.com/article/2026102943341",
+          "source": "한국경제"
         }
       ]
     },
     {
-      "keyword": "bangladesh vs west indies",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T04:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlbQvfroz6IHEcigBow-kOfqETZD0n--h5b91FGEC6A6COWRafBcV5hKu94vs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur",
-          "url": "https://www.afp.com/en/chase-sparks-bangladesh-collapse-west-indies-top-mirpur",
-          "source": "AFP.com"
-        },
-        {
-          "title": "Belief all that’s left for Tigers",
-          "url": "https://www.thedailystar.net/sports/cricket/news/belief-all-thats-left-tigers-4311426",
-          "source": "The Daily Star"
-        }
-      ]
-    },
-    {
-      "keyword": "티맵",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUpLsNw077ggSEDLa6U6grSmQfjSUkHcI18aTsXlTjd2Hfbl4BhCI4SoW26ps",
+      "keyword": "이서진",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T06:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1bz1VTYeqAdPu-tgTaf972WqZHgGdTzunVftBPwYz2VnpXMNXIHflbwTU7as",
       "category": "기타",
       "news": [
         {
-          "title": "\"무료 내비에 8000억?\"…골드만삭스가 '티맵' 사려는 이유",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=02417366645618496",
-          "source": "마켓인"
+          "title": "무엇이든 해줄지니 - 비서진 : 이서진×하지원, 꿈에 그리던 F1 현장에서 직관하며 도파민 상승",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482692081",
+          "source": "programs.sbs.co.kr"
         },
         {
-          "title": "[티맵 M&A] SK스퀘어의 선택과 집중",
-          "url": "https://v.daum.net/v/PRGOs9lwKH",
-          "source": "Daum"
+          "title": "이서진X하지원, 23년 만 재회에 다정…“‘다모’ 다시 찍겠는데” (비서진)",
+          "url": "https://sports.donga.com/ent/article/all/20261031/134942441/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "[Why&Next]데이터 탐내는 골드만삭스, 티맵 인수하는 진짜 이유",
-          "url": "https://view.asiae.co.kr/article/2026103010231251336",
-          "source": "아시아경제"
+          "title": "‘시크릿가든’ 거품키스가 애드리브?..이서진, 김광규에 “큰일난다” 황당 (‘비서진’)[순간포착]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/MZRDKNJZMIZGMNZVGRSTKY3CGM/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "앤트로픽",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T06:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWvJNrB06DVPMtk9rUjVUCv_zpGtnGwDvsT-HeWHUlx9WJQsr5Ej2n60wcUy0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216846",
+          "source": "AI타임스"
+        },
+        {
+          "title": "앤스로픽, 월 200달러 클로드 요금제 ‘5시간 제한’ 없앤다…밤샘 코딩 가능",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02050006645618496&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "클로드 맥스 20x, ‘울트라’로 변경…인증 계정은 5시간 제한 폐지",
+          "url": "https://aimatters.co.kr/news-report/58111/",
+          "source": "AI 매터스"
+        }
+      ]
+    },
+    {
+      "keyword": "르윈 디아즈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T05:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA54S9e8DJ5pYFUteOn56g5yYwK76zNDM2KI_Y6xHH1maEXc_81XhPN90rD_8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"위선적인 사람들, 어떤 것도 요구하지 말라\" 디아즈, 도 넘은 악플 테러에 또 폭발했다",
+          "url": "https://www.osen.co.kr/article/G1112901726",
+          "source": "OSEN"
+        },
+        {
+          "title": "'선 넘었다' 충격의 악플 테러, 결국 삼성 외인 또 폭발했다…\"내가 만난 사람 중 가장 위선적\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MVSDGYRSMMZDOYLGMRSDEMZYGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'충격' 삼성 선수 아내 향해 '입에 담을 수도 없는 욕설' 퍼부어 \"제 가족 향해 온갖 저주와 악담, 건강까지 나빠졌다... 강아지 3마리 모두 수술\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103016491424653",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "원자력 발전소",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T05:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95ahFi8yv8K_wDKEn244vkvFeAUClp99T3RluC8ulGXtlMRHvPWa3IE6dLVU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "아프리카 48개국 러시아로 부른 푸틴…영향력 확대 나서",
+          "url": "https://www.yna.co.kr/view/AKR20261029211800099",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "나미비아 대통령과 회담하는 푸틴 대통령",
+          "url": "https://mobile.newsis.com/photo/NISI20261030_0002278678",
+          "source": "뉴시스"
+        },
+        {
+          "title": "푸틴의 아프리카 공세, 냉전 시절 소련의 재현",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280205",
+          "source": "OhmyNews"
+        }
+      ]
+    },
+    {
+      "keyword": "정유시설",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T06:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRot1DTZfyXp3P8CVun4F0-pyA-kqYXx9aV5BWEo9lBsHyz-EFYmU2bLXrz_2Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“사람들이 가게에 가고, 커피를 마시고, 거리를 걷는다”···러·우 국지 휴전으로 5년 만에 찾아온 일상",
+          "url": "https://www.khan.co.kr/article/202610301651001",
+          "source": "경향신문"
+        },
+        {
+          "title": "\"우크라, 러 정유시설 공격 재개...트럼프 대놓고 무시\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610310619567975_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "러·우크라 국지휴전 나흘째 올레시키 고립 주민들 대피 시작",
+          "url": "https://www.yna.co.kr/view/AKR20261030183300108",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "고발",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T06:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfdKZiPv7qklUUiVgvGCzNzpbKOsAVVRoJZkpIHgl65gUA4nRksIfzMnddUgk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘8차 소환’ 김병기 “악의와 거짓으로 점철된 고발…수사 신속히 마무리해달라”",
+          "url": "https://www.khan.co.kr/article/202610311111001",
+          "source": "경향신문"
+        },
+        {
+          "title": "구속영장 반려 50일만에 소환된 김병기 \"무혐의 입증할 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20261031023200004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "김병기, 6개월 만에 경찰 재출석‥증거인멸 의혹 조사",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862168_36918.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "상장",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T06:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4cqgqVVi8TWos9jeEVpOJI74ZUf73dPPyjjXEC8HXP73RuMSb4foQSfado0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "“상장 첫날 던지라는 말이 맞나요”…한국증시 암울하게 하는 새내기주",
+          "url": "https://www.mk.co.kr/news/stock/12192354",
+          "source": "매일경제"
+        },
+        {
+          "title": "[디깅노트] IPO 제도는 강화됐다는데 장밋빛 몸값은 여전하다",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=676994",
+          "source": "블로터"
+        },
+        {
+          "title": "신규 상장사 10곳 중 8곳 손실권...NH·하나증권 주관 IPO 모두 공모가 미달",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353155",
+          "source": "녹색경제신문"
         }
       ]
     }
