@@ -1,271 +1,274 @@
 {
-  "updatedAt": "2026-10-31T22:29:06.176Z",
+  "updatedAt": "2026-10-31T23:28:34.788Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
     },
     {
-      "category": "스포츠",
+      "category": "정치·사회",
       "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     },
     {
       "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "생활·날씨",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼성전자",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-10-31T20:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSNfcLrODb3MB0kDIZicbPTshOy4leK8rEzfZFXtpU1sdID4MTwW6ra5QySc",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
-          "url": "https://www.donga.com/news/It/article/all/20261031/134942839/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협력 확대 기대",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845821",
-          "source": "제민일보"
-        },
-        {
-          "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
-          "url": "https://www.etnews.com/20261031000056",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "태풍",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-31T21:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1uCnU74YTfv0WlYLQ4jMZrWcVAZT_ZJXpmZH522b4mPEdZSfSgBlwd-r6yKw",
+      "keyword": "날씨",
+      "traffic": "500000+",
+      "trafficValue": 500000,
+      "startedAt": "2026-10-31T21:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgRUutVbDqPOCgYrtM5H9hcMTEkpG-T6Un432ED3kQ_y4twKT34SuytJRWIlU",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "강도 4 태풍 '인파' 경로 바뀐다…일본 남쪽서 다시 북상",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645618496&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "[뉴스9 날씨] 내일, 점차 전국에 비…오늘보다 더 쌀쌀",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700626",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "31호 태풍 ’인파’ 북상…10월 태풍 어디로?",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030052801FCT",
-          "source": "연합뉴스TV"
+          "title": "충북 대체로 흐리고 빗방울…예상 강수량 5∼20㎜",
+          "url": "https://www.yna.co.kr/view/AKR20261101004500064",
+          "source": "연합뉴스"
         },
         {
-          "title": "\"사람 날아갈 정도\" 31호 태풍 '인파' 북상 중…한반도 영향은? - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/30/2026103009425625443",
-          "source": "머니투데이"
+          "title": "전국 흐리고 곳곳에 비‥어제보다 기온 '뚝'",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862248_37012.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "김민재",
+      "keyword": "드라마",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-31T20:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6SrTyw8FoPxlmLbuxHVPxbdMHfFUQOR8wcSHbLnMl89rSD1Gru-Fji1tvt7o",
-      "category": "기타",
+      "startedAt": "2026-10-31T22:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxYyE7xpBCukv7Jr4hU83n-zcdK9A6TE1QZ4yTJOcfWV33goHRANTmrZ6IxHE",
+      "category": "연예",
       "news": [
         {
-          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
-          "source": "조선일보"
+          "title": "\"넷플릭스 없어도 되겠네\"…韓드라마 공짜로 볼 수 있다는데 [김예랑의 K컬처인사이드]",
+          "url": "https://www.hankyung.com/article/202610306126H",
+          "source": "한국경제"
         },
         {
-          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
-          "url": "https://www.osen.co.kr/article/G1112901786",
-          "source": "OSEN"
+          "title": "구작으로 광고 수익에 신작 홍보까지…CJ ENM 'FAST 활용법' [엔터코노미]",
+          "url": "https://news.mtn.co.kr/article/2026103009432641537",
+          "source": "MTN 머니투데이방송"
         },
         {
-          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O",
-          "source": "머니투데이"
+          "title": "CJ ENM, 북미 LG채널 통해 ‘K-댄스 전용 FAST 채널’ 독점 론칭",
+          "url": "https://www.cjenm.com/ko/news/cj-enm-%EB%B6%81%EB%AF%B8-lg%EC%B1%84%EB%84%90-%ED%86%B5%ED%95%B4-k%EB%8C%84%EC%8A%A4-%EC%A0%84%EC%9A%A9-fast-%EC%B1%84%EB%84%90-%EB%8F%85%EC%A0%90-%EB%A1%A0%EC%B9%AD/",
+          "source": "CJ ENM"
         }
       ]
     },
     {
-      "keyword": "바르셀로나 대 알라베스",
+      "keyword": "weather",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-31T19:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_rNg3QwPP-sT-6PPVuvHn8w7TqerPN9oJwGMV6sAYckCmYDgjWaRm0Uwled0",
-      "category": "스포츠",
+      "startedAt": "2026-10-31T21:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQT-MJOUOxK-Bhai7UxlnrXt_eQcsahKRGovObvX31pwZbpVyYo0ZnRKRbYMo0",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "[laliga.review] '야말-하피냐 나란히 멀티골 폭발!' 바르셀로나, 알라베스 6-1 대파…라리가 선두 탈환!",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100139",
-          "source": "포포투"
+          "title": "A Weather Forecast More Powerful Than Guns... ‘Pressure’ Keeps You on Edge Even When You Know the Ending [MK Movie]",
+          "url": "https://www.mk.co.kr/en/movies/12187230",
+          "source": "매일경제"
         },
         {
-          "title": "라리가 바르셀로나 대 알라베스 축구 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-barcelona-vs-alaves-tai-la-liga-1792360.ldo",
-          "source": "Laodong.vn"
+          "title": "Only a weatherman knows which way the wind blows: Why science and truth matter in an AI-driven world",
+          "url": "https://m.economictimes.com/opinion/et-commentary/only-a-weatherman-knows-which-way-the-wind-blows-why-science-and-truth-matter-in-an-ai-driven-world/articleshow/135407233.cms",
+          "source": "The Economic Times"
         },
         {
-          "title": "바르셀로나, 엘클라시코 패배 이어 수비진 비상⋯에스파르트 7주 결장",
-          "url": "https://www.etoday.co.kr/news/view/2640429",
-          "source": "이투데이"
+          "title": "The storm before the storm",
+          "url": "https://news.defence.gov.au/navy/brew-point/2026-10-26/storm-storm",
+          "source": "news.defence.gov.au"
         }
       ]
     },
     {
-      "keyword": "barcelona vs alavés",
+      "keyword": "天气",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-31T19:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHcjvsfJ7a_f1YL6wQNJutY-D81cEKNG_iZUOUSz30JbVtCWrn3uXSnT2kfA",
-      "category": "스포츠",
+      "startedAt": "2026-10-31T22:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN1uNwSUbKUjWUjq4Ah8-alimHoPGpKzJ7L20xCrFap-wKYGmRbtQuMf4KyP0",
+      "category": "기타",
       "news": [
         {
-          "title": "6-1. El líder se redime de la derrota en el clásico con una goleada ante el Alavés",
-          "url": "https://holanews.com/6-1-el-lider-se-redime-de-la-derrota-en-el-clasico-con-una-goleada-ante-el-alaves/",
-          "source": "HolaNews"
+          "title": "Climate Change Is Teaching Us to Be Ready to Run",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/wildfires-floods-and-extreme-weather-are-creating-a-new-evacuation-mindset",
+          "source": "Bloomberg.com"
         },
         {
-          "title": "Barça-Alavés: Fermín ESTIRA la ventaja",
-          "url": "https://es-us.noticias.yahoo.com/deportes/bar%C3%A7a-alav%C3%A9s-ferm%C3%ADn-estira-ventaja-203800126.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Liga | Raphinha y Lamine Yamal se divierten en la goleada del FC Barcelona",
-          "url": "https://www.fichajes.com/a5092315262921039348-liga-raphinha-y-lamine-yamal-se-divierten-en-la-goleada-del-fc-barcelona",
-          "source": "Fichajes.com"
+          "title": "Climate Change Is Putting Us in a Permanent State of Vigilance",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-30/climate-change-is-making-disaster-vigilance-routine",
+          "source": "Bloomberg.com"
         }
       ]
     },
     {
-      "keyword": "최민정",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T21:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVJMefsbFO5YZkwGxfhDoRySWjQmw-VCVOgRXNE-R2JhB2WnZVmaGPxE7O75A",
-      "category": "기타",
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvkJBztRvUJPXXEbSfUCqpnlIGB6OUUtbcbTEmqrxYooedY-nrWImyBAmFKGk",
+      "category": "스포츠",
       "news": [
         {
-          "title": "최민정, 쇼트트랙 2차 월드투어 첫날 전 종목 조 1위 예선 통과",
-          "url": "https://www.yna.co.kr/view/AKR20261031018100007",
-          "source": "연합뉴스"
+          "title": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814",
+          "source": "머니투데이"
         },
         {
-          "title": "쇼트트랙 최민정, 2차 월드투어 전 종목 예선 통과…김길리는 연속 충돌",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849166",
-          "source": "뉴시스"
+          "title": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
+          "url": "https://weekly.khan.co.kr/article/202610311852001",
+          "source": "주간경향"
         },
         {
-          "title": "\"제발 은퇴 안 하면 안 돼요?\" 마지막 질주하는 최민정, 여전히 기량 미쳤다! 월드투어 첫날 전 종목 조 1위 질주",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/31/G5SDMN3EGNRDEOBUHEZTSNBQMQ/",
+          "title": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
+          "url": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/",
           "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "พยากรณ์อากาศ",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T21:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT1y2R0MLGYk8TNHC2yjIQjTCCiFRzLZ7pMxHWyTTd3PUdD5zzpU1oxGz8CmI",
-      "category": "기타",
+      "keyword": "라민 야말",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T22:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0Galr6KaPfHesZLkArQJCBZb1o4TpTOJKRhZtCkjtWPHbLZptTCj2CoaFVs",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "สภาพอากาศวันนี้ -6 พ.ย.ไทยฝนฟ้าคะนอง ลมกระโชกแรง ฝนหนักบางแห่ง",
-          "url": "https://www.thansettakij.com/general-news/672676",
-          "source": "thansettakij"
+          "title": "'침 뱉고 의자까지 휘둘러?' 라민 야말 아버지, 발롱도르 참석 앞두고 공항 난동 논란...결국 스페인 경찰 출동",
+          "url": "https://www.koreadaily.com/article/20261028131834474",
+          "source": "미주중앙일보"
         },
         {
-          "title": "ปักหมุดรับลมหนาว! กรมอุตุฯ เผย 7-12 พ.ย. มีสัญญาณชัด มวลอากาศเย็นแผ่ลงมาแรงขึ้น",
-          "url": "https://www.thaipost.net/general-news/1099128/",
-          "source": "Thaipost.net"
+          "title": "'제2의 메시' 발목 잡는 아버지, 바르셀로나 공항서 '충격' 난동! 여성 직원에 폭언+침 뱉기→목격자 폭행...별다른 제지 없이 비행기 탑승",
+          "url": "https://mydaily.co.kr/page/view/2026102815310150936",
+          "source": "마이데일리"
         },
         {
-          "title": "สงขลา | ฝนจ่อเพิ่มกำลัง เรดาร์พบกลุ่มฝนฟ้าคะนอง ปกคลุมสงขลา–อ่าวไทย เตือนชาวเรือระวังคลื่นสูง ลมกระโชกแรง",
-          "url": "https://www.hatyaifocus.com/news-detail/32019/",
-          "source": "HATYAI FOCUS"
+          "title": "충격! 발롱도르 시상식 앞두고 ‘침 뱉기·폭행’ 공항 소란 의혹… 라민 야말 아버지, 삼촌 발언 논란 이어 가족이 말썽",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313538",
+          "source": "베스트일레븐"
         }
       ]
     },
     {
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T20:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ12wK75ZbUq00oANbMkRD7931zi2F5lhCRBA3ZmNyxXwdpy1p8SRaYSiyXng",
+      "keyword": "샬럿 대 필라데피아",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyXYm-qGFXF7-4vQiSj1QBE9Cj5lR6_QqUxypkwrK9S1qwux90gj_RP8C3sWE",
       "category": "기타",
       "news": [
         {
-          "title": "\"세계 1위까지 딱 1점 남았는데\" 츠베레프 스매시에 광고판 먹통→심판 두드리고 상대는 발로 '쾅'... 결국 수건 덮고 역사 썼다 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103109290489614",
-          "source": "머니투데이"
-        },
-        {
-          "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
-          "url": "https://www.yna.co.kr/view/AKR20261030093200007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "츠베레프, 생애 첫 테니스 랭킹 1위 등극 예고…신네르·알카라스 제쳐",
-          "url": "https://www.newspim.com/news/view/20261030000798",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "sports",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T20:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzToAieJdYNJcaXfRWBy6iQk9tu8vK35A6vK6-zECbgI7H9otfVZ-m3ViO294",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Heat unveil updated Dwyane Wade statue after original's face was panned",
-          "url": "https://www.espn.com/nba/story/_/id/50328871/heat-unveil-updated-dwyane-wade-statue-original-face-was-panned",
+          "title": "Sharks 3-2 Canucks (Oct 29, 2026) Game Recap",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892610",
           "source": "ESPN"
         },
         {
-          "title": "“After seeing the work at full scale and in its …",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/30/after-seeing-the-work-at-full-scale-and-in-its/92515150007/",
-          "source": "HoopsHype"
+          "title": "Smith and Celebrini reunited as Sharks storm back to beat Vancouver Canucks",
+          "url": "https://www.mercurynews.com/2026/10/29/will-smith-macklin-celebrini-san-jose-sharks-vancouver-canucks/",
+          "source": "The Mercury News"
         },
         {
-          "title": "\"I think it looks amazing,\" Spoelstra said",
-          "url": "https://sports.yahoo.com/articles/think-looks-amazing-spoelstra-said-232652996.html",
-          "source": "Yahoo Sports"
+          "title": "Sharks Insight: It All Starts With Killing Plays",
+          "url": "https://sanjosehockeynow.com/san-jose-sharks-darnell-nurse-vancouver-canucks-insight-14/",
+          "source": "San Jose Hockey Now"
         }
       ]
     },
     {
-      "keyword": "bundesliga",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T18:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkeR_YnD2SfFct2gi6Ll7hBxLzgaROcaGMLVTThxIcU3fYR8-c7gGZwU6Kbo",
+      "keyword": "박서진",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4yUonXVfrT5Rs3T-1FFHIuVBU6oO1KXo2oDYv4Y3RwD2SovtPIrx_8AH1VbY",
       "category": "기타",
       "news": [
         {
-          "title": "Bayern und BVB trennen sich 2:2 – Kane verschießt Elfmeter - Sport - SZ.de",
-          "url": "https://www.sueddeutsche.de/sport/bayern-bvb-bundesliga-kane-olise-verletzungen-li.3572197",
-          "source": "SZ.de"
+          "title": "박서진, 황혜선에 “누가 꽃인지”…부모님은 며느리 기대",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134943083/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "Fußball-Bundesliga: Dortmund bestraft Bayerns Nachlässigkeiten und bleibt dran.",
-          "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2026-2027-fc-bayern-muenchen-borussia-dortmund-spielbericht-100.html",
-          "source": "ZDFheute"
+          "title": "트로트 황태자 박서진, 민화 작가 데뷔···호평VS혹평 뜨거워('살림남2')",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/ME4WEOJVMMZDSZJRGMYTEYRRGM/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "Nicht nur Kovacs Taktik-Kniff ging auf: Die Joker schlagen schon wieder zu!",
-          "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/10/31/Nicht-nur-Kovacs-Taktik-Kniff-ging-auf-Die-Joker-schlagen-schon-wieder-zu.html",
-          "source": "BVB.de"
+          "title": "'살림남' 박서진, 생애 첫 민화 전시회 성료...황혜선과 핑크빛 썸 터졌다!",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016741",
+          "source": "SPOTV NEWS"
+        }
+      ]
+    },
+    {
+      "keyword": "설악산",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T22:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwNf1TJfEd1yiCWeF56G8DiulAx26Lp8pVoKVl-Jwmzg9ERlg6CWSpi9kBzk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "설악산 용아장성",
+          "url": "https://www.artsnculture.com/news/articleView.html?idxno=7186",
+          "source": "Arts & Culture"
+        },
+        {
+          "title": "\"등산할 때 친목은 사절, 버스만 예약할게요\"",
+          "url": "https://www.chosun.com/national/weekend/2026/10/31/F5ZFBS2NV5EDZJCJ5MXX6Y5D44/",
+          "source": "조선일보"
+        },
+        {
+          "title": "2030세대가 몰리는 (山) 이제 성숙한 등산문화 필요해",
+          "url": "http://www.igoodnews.or.kr/news/articleView.html?idxno=17431",
+          "source": "주간기쁜소식"
+        }
+      ]
+    },
+    {
+      "keyword": "노소영",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7GIbDKjjDcxFvPeOJz0UIps7OrtFjHRaCPH6I7GY2w0WO9VHQRUwnejgu_Vo",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "9440억 중 2440억 남았다…최태원·노소영, 대법원서 다시 붙는다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04336166645617512&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "최태원·노소영 재산분할 재상고심 심리 시작",
+          "url": "https://www.dt.co.kr/article/12091799",
+          "source": "www.dt.co.kr"
+        },
+        {
+          "title": "최태원·노소영, '재산분할' 재상고심 대법원 2부 배당",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=777052",
+          "source": "싱글리스트"
         }
       ]
     }
