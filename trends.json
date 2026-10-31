@@ -1,50 +1,125 @@
 {
-  "updatedAt": "2026-10-31T01:51:07.241Z",
+  "updatedAt": "2026-10-31T02:41:44.555Z",
   "summary": [
     {
       "category": "경제",
       "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 3
+      "category": "기타",
+      "count": 2
     },
     {
-      "category": "기타",
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     },
     {
       "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "주식",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-10-30T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi_whaP7aRNFgIxvHaqMeOkz2GOMmkJX3WilOydTIgN8ODAkKLCJ3h7SjmYTg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSnezMFVYCDmgCFVwi2egAxfOy9o4bbGIwcs5T0yefOVWCgkGXfkpv9eZ1Hc",
       "category": "경제",
       "news": [
         {
-          "title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/30/2026103011255523599",
+          "title": "[마켓노트] 금리 안정이 주식시장 반등 조건",
+          "url": "https://www.yna.co.kr/view/AKR20261030044400980",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "코스피 긴 호흡으로 볼때 … 반도체 소부장·증권주 주목",
+          "url": "https://stock.mk.co.kr/news/view/1185740",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "수십 년 만에 최고치 뚫렸다 증시 덮친 '금리 시한폭탄'",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442309",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "골든 스테이트 대 la 레이커스",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T01:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcnzXr8z9wbtkQ0y5zTnMxpweTxeCHLeGa9HoLiTKq3Dc7IYl7CYXOX2RfDOw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "LAL: Dončić, Reaves, Thybulle, LaRavia, Kessler",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-30/lal-doncic-reaves-thybulle-laravia-kessler",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Matisse Thybulle, Ziaire Williams are flirting with being summer steals for the Lakers",
+          "url": "https://lakeshowlife.com/matisse-thybulle-ziaire-williams-flirting-with-being-summer-steals-for-lakers",
+          "source": "Lake Show Life"
+        },
+        {
+          "title": "Lakers Reveal Starting Lineup Vs Warriors After Luka Doncic News",
+          "url": "https://heavy.com/sports/nba/los-angeles-lakers/starting-lineup-vs-warriors-luka-doncic-news/",
+          "source": "Heavy.com"
+        }
+      ]
+    },
+    {
+      "keyword": "우주선",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-30T22:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzJBDE1hbYpmCAjtPtoP6d29XOXC6hXAziX-AJEzv1KTmB47WJZihsjEJZtrc",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030000200071",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
+          "url": "https://www.chosun.com/international/us/2026/10/31/WFO3EPKWOZA7PE3RRFWEL2HKX4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
+          "url": "https://zdnet.co.kr/view/?no=20261030083348",
+          "source": "지디넷코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "김강민",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T01:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFYpijSDDkY9Q2NATR_dmKNuLQAt2_IjMbk-8JY3k_lMC7LJfaay9p1qbQaXs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "프로야구 NC, 김강민 외야 코디네이터 영입…KBO리그 최초",
+          "url": "https://www.yna.co.kr/view/AKR20261031022000007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "SK 왕조 인연인가, NC가 짐승을 품었다...\"외야 수비 경쟁력 강화\" NC 김강민 외야 코디네이터 영입 [공식발표]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/31/GA2DAZJTMU2GMN3BHFTGMMLCGY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'말년은 한화-지도자는 NC서' 김강민, 외야 코디네이터로 창원행 \"외야 수비 경쟁력 높이겠다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103110050732499",
           "source": "머니투데이"
-        },
-        {
-          "title": "“은행도 증권사도 뚫렸다”…해킹 공포에 보안주 '들썩'",
-          "url": "https://magazine.hankyung.com/business/article/202610306530b",
-          "source": "한경매거진"
-        },
-        {
-          "title": "[장중수급포착] 지니언스, 외국인/기관 동시 순매수… 주가 +11.20%",
-          "url": "https://www.newspim.com/news/view/20261030000598",
-          "source": "뉴스핌"
         }
       ]
     },
@@ -53,48 +128,23 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-10-30T23:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7KTlIzhEqIx7KtXqpi1db0-pIAEOQoOcONriFoM0DTKQcD29DO8eByRWcBk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Live updates: Sixers take a nine-point lead over the Knicks into the fourth quarter",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-knicks-nba-cup-lebron-james-joel-embiid-tyrese-maxey-live-updates/762913/",
-          "source": "NBC Sports Philadelphia"
-        },
-        {
-          "title": "How to Watch Knicks vs 76ers for Free: TV Channels, Live Stream Options",
-          "url": "https://sports.yahoo.com/articles/watch-knicks-vs-76ers-free-223000587.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "New York Knicks vs. Philadelphia 76ers Live NBA Updates, Scores and Highlights",
-          "url": "https://bleacherreport.com/liveblogs/25527369-new-york-knicks-vs-philadelphia-76ers-live-nba-updates-scores-and-highlights",
-          "source": "Bleacher Report"
-        }
-      ]
-    },
-    {
-      "keyword": "테슬라",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-30T22:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKLWxg1x0R47a-U0Dkxj_aECLK_uc5X8-nAehJ2MSyV9JBNnHfX4Jsy-QN6kU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT11_90gnPH5yaNWYHtvytWhOX1szTFRcUPJlX8ikBFBh95Huf4r0HP8vr2a9I",
       "category": "기타",
       "news": [
         {
-          "title": "'고래' 스페이스X-테슬라 합병 추진에 부담 커진 '새우' 미래에셋",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/27/2026102780135.html",
-          "source": "인베스트조선"
+          "title": "LeBron's rebound and putback secures Sixers' NBA Cup win over Knicks",
+          "url": "https://www.espn.com/video/clip/_/id/50332647/lebron-rebound-putback-secures-sixers-nba-cup-win-knicks",
+          "source": "ESPN"
         },
         {
-          "title": "테슬라·스페이스X 합병 추진…머스크의 진짜 노림수와 최대 걸림돌",
-          "url": "https://www.newsis.com/view/NISX20261027_0003842966",
-          "source": "뉴시스"
+          "title": "LeBron James scores 20 points to help Philadelphia 76ers beat New York Knicks for 2nd time this season",
+          "url": "https://www.cbsnews.com/philadelphia/news/sixers-knicks-lebron-james-nba-cup/",
+          "source": "CBS News"
         },
         {
-          "title": "베이징이 SpaceX-테슬라 합병을 막을 수 있는 이유",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2151560",
-          "source": "Investing.com 한국어"
+          "title": "Live updates: Maxey and James help Sixers outlast the Knicks in their NBA Cup opener.",
+          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-knicks-nba-cup-lebron-james-joel-embiid-tyrese-maxey-live-updates/762913/",
+          "source": "NBC Sports Philadelphia"
         }
       ]
     },
@@ -117,24 +167,24 @@
           "source": "뉴시스"
         },
         {
-          "title": "[연금 승부④] 보험사 퇴직연금 성적표…생보·손보 희비 갈렸다",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901246",
-          "source": "뉴스웍스"
+          "title": "퇴직연금 시장도 증시 급락 못 피했다…증권가 수익률·적립금 수직 하락",
+          "url": "https://www.imaeil.com/page/view/2026103010510774211",
+          "source": "매일신문"
         }
       ]
     },
     {
       "keyword": "sk 사장단 인사",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-10-30T23:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFsZMRD_A7PmVGWwm4fSohB2m5MpL65WuzZqm-E7Eh8GjQX6IsqgjAqluZV0g",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhWi9AnvkICDRDmxpWLGB2MbTM-kxZqFVDOtUXxBmS_MfmoxyosAoBkhU291I",
       "category": "경제",
       "news": [
         {
-          "title": "SK, 에너지 수장 교체…빨라진 재계 인사 시계",
-          "url": "https://www.yna.co.kr/view/MYH20261030015100038",
-          "source": "연합뉴스"
+          "title": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142",
+          "source": "연합인포맥스"
         },
         {
           "title": "SK 사장단 인사…곽노정 유임·정승일 발탁",
@@ -142,9 +192,34 @@
           "source": "연합뉴스TV"
         },
         {
-          "title": "SK그룹, 2027년 사장단 인사…SK이노베이션 CEO에 정승일(종합2보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442142",
-          "source": "연합인포맥스"
+          "title": "SK, 에너지 수장 교체…빨라진 재계 인사 시계",
+          "url": "https://www.yna.co.kr/view/MYH20261030015100038",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "oman vs afghanistan",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T01:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvtCISw8VdIBh9iRZ1AdZ5k9AXfQ9Jk7uWDEGTsOd3uvutuHu18TeYfoh0cLw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Live Cricket Score: Full Scorecard & Commentary",
+          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275420.html",
+          "source": "Firstpost"
+        },
+        {
+          "title": "Afghanistan Under-19s tour of Oman - ODI -",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010703/afghanistan-under-19s-tour-of-oman-1",
+          "source": "Cricketnmore"
+        },
+        {
+          "title": "Live Cricket Score: Full Scorecard & Commentary",
+          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275419.html",
+          "source": "Firstpost"
         }
       ]
     },
@@ -174,31 +249,6 @@
       ]
     },
     {
-      "keyword": "우주선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T22:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzJBDE1hbYpmCAjtPtoP6d29XOXC6hXAziX-AJEzv1KTmB47WJZihsjEJZtrc",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "美정보국 \"中, 위성요격무기 배치할듯…美동맹 위성도 공격대상\"",
-          "url": "https://www.yna.co.kr/view/AKR20261030000200071",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "\"中, 조만간 우주 레이저·핵무기 실전 배치\"… 스타워즈 현실화되나",
-          "url": "https://www.chosun.com/international/us/2026/10/31/WFO3EPKWOZA7PE3RRFWEL2HKX4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "美 보고서에 포착된 中 기밀 우주선…고해상도 사진 보니",
-          "url": "https://zdnet.co.kr/view/?no=20261030083348",
-          "source": "지디넷코리아"
-        }
-      ]
-    },
-    {
       "keyword": "샌디스크",
       "traffic": "200+",
       "trafficValue": 200,
@@ -220,56 +270,6 @@
           "title": "샌디스크, 로블록스, 트윌리오",
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01649846645618496",
           "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "직장폐쇄",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-30T22:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIT4Sxfaa_tbadCIj46TlMqO31SUUJRQmaCpDtO-q0GWnVs-Q9np66pva2WyA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "WS 우승 기쁨도 잠시… 밀워키, 직장폐쇄 위기",
-          "url": "https://www.munhwa.com/article/11627545",
-          "source": "문화일보"
-        },
-        {
-          "title": "다저스 선수 영입도 중단되나…MLB 12월 직장폐쇄 위기",
-          "url": "https://www.radiokorea.com/news/article.php?uid=508309",
-          "source": "라디오코리아"
-        },
-        {
-          "title": "스몰마켓 WS 반작용? \"샐러리캡 필요해\" 더 커진 구단주들 목소리…결국 직장폐쇄 수순으로 가나",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/25/MUZWKYLDGZTDSOLGHBRDGYZYGI/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "lcs",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-30T22:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuU9q2yBP_S4EiDlhbYv2-leUbHiGSn0n7BPdtyeQyZfdzBv0qCzsV8bT-YXE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Anyone's Legend vs. Team Liquid: Game 2 First Blood",
-          "url": "https://www.coinbase.com/en-nl/predictions/event/KXLOLFBLOOD-26OCT261800ALTL-2",
-          "source": "Coinbase"
-        },
-        {
-          "title": "TL CoreJJ: \"Nothing makes us more humble than losing to CFO\"",
-          "url": "https://www.sheepesports.com/en/articles/tl-corejj-nothing-makes-us-more-humble-than-losing-to-cfo/en",
-          "source": "Sheep Esports"
-        },
-        {
-          "title": "TLAW Yeon: \"I Can Keep My Dream Going For Another Day.\"",
-          "url": "https://www.hotspawn.com/league-of-legends/news/tlaw-yeon-worlds-2026-interview",
-          "source": "Hotspawn"
         }
       ]
     }
