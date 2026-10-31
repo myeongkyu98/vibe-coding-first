@@ -1,207 +1,124 @@
 {
-  "updatedAt": "2026-10-31T07:46:05.463Z",
+  "updatedAt": "2026-10-31T08:38:24.596Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
+      "count": 7
     },
     {
       "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "일본",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-31T06:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLABaUw3z5ifUNsVW_Sdpe4GvAS9JH_sdZ4Pb-QlG2MIJDFdTinijubVT7d44",
+      "keyword": "광주 대 김천상무",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T06:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNSrow7licrTqitIt1KARxsOc6pRtOsPdIU5ojgXMI_ZhxPcmX0kK6JVhBqUM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[현장목소리] ‘충전 완료’ 광주FC 중원의 한 축 유제호, “3선 MF 역할 처음인데 많이 적응”",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553662004",
+          "source": "스포탈코리아"
+        },
+        {
+          "title": "김천상무, 광주 원정서 파이널 라운드 첫 승 정조준!",
+          "url": "https://www.newsform.net/news/article.html?no=201750",
+          "source": "뉴스폼"
+        },
+        {
+          "title": "‘세 번 비긴 광주, 이번엔 잡는다!’… 김천 상무, 박태준 등 ‘광주 출신’ 앞세워 승점 사냥 나선다",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313601",
+          "source": "베스트일레븐"
+        }
+      ]
+    },
+    {
+      "keyword": "앤 트로픽",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T06:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyiJfT7pOAHe32qm-jo6wLsmnWYnWEfaGZRMaDXEoVfPmO1Sc5sHRK6PaqUDk",
       "category": "경제",
       "news": [
         {
-          "title": "\"우린 이긴 게 아냐\"…축배 들던 일본 덮친 '공포의 그림자' [도쿄나우]",
-          "url": "https://www.hankyung.com/article/202610317202i",
-          "source": "한국경제"
+          "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
+          "url": "https://news.hada.io/topic?id=36306",
+          "source": "GeekNews"
         },
         {
-          "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
-          "url": "https://www.ytn.co.kr/_ln/0104_202610302306395249",
-          "source": "YTN"
+          "title": "AI 수익성 의문 지운 앤트로픽…반도체 다음 병목은 ‘전력’",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374024",
+          "source": "전기신문"
         },
         {
-          "title": "美·유럽·日 나란히 동결 … 반도체 호황에 한은만 인상 저울질, '금리 분화' 갈림길",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000289.html",
-          "source": "뉴데일리"
+          "title": "앤트로픽 몸값 '2조 달러' 거론…SKT 지분가치 또 뛸까",
+          "url": "https://news.mtn.co.kr/article/2026103016360311215",
+          "source": "MTN 머니투데이방송"
         }
       ]
     },
     {
-      "keyword": "이순 실",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-31T05:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhetWi4ceEyyTR6aCyYrFTGIG3k14lUblAS29pp8GFv9xNmMWAe7TBAGmEU_A",
+      "keyword": "amd",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T07:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0ULKvn9S_ak-b8A6Ye1J-KWHd4vzQX1GkgbBSWHESzLxpadKWO6USED0gro",
       "category": "기타",
       "news": [
         {
-          "title": "102kg였던 이순실 \"10개월 동안 43kg 감량, 시니어 모델 도전\"",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6338531",
-          "source": "뉴스1"
+          "title": "Intel stock plunges nearly 29%, its worst day since 1974",
+          "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "이순실, 10개월 만에 43kg 감량…171cm·59kg로 시니어 모델 도전 (사당귀)",
-          "url": "https://sports.donga.com/ent/article/all/20261031/134942351/1",
-          "source": "스포츠동아"
+          "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+          "source": "CNBC"
         },
         {
-          "title": "'사당귀' 이순실, 10개월 동안 43kg 감량 성공…\"다른 사람 돼\"",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01849926645618496&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
+          "source": "Bloomberg"
         }
       ]
     },
     {
-      "keyword": "패딩",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-31T06:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcmpMZqVhBEKKctIpbzJTsBu4voN8P45lUhaCu2NbbyTYEJRkn6ZwN5DsIq_Y",
-      "category": "생활·날씨",
+      "keyword": "주영진",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz99Jht6rVrJ6NkZxFSr371aWZ6lzR_fKA7GWgZQDo_freCL460-8lHTNKEE0",
+      "category": "기타",
       "news": [
         {
-          "title": "“비싸고 칙칙한 롱패딩 누가 입어요?”…10대들, 스파오로 갈아탄 이유는? [잇슈#태그]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700466",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "매출 320% 급증…입소문 탄 '등골 프로텍터'",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822203",
+          "title": "[클로징] 주영진 앵커가 전하는 마지막 인사…\"시청자 여러분 고맙습니다\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823354",
           "source": "SBS 뉴스"
         },
         {
-          "title": "할인 안 해도 나오자마자 '불티'…요즘 잘 팔리는 겨울옷",
-          "url": "https://www.hankyung.com/article/2026102943341",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "이서진",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-31T06:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1bz1VTYeqAdPu-tgTaf972WqZHgGdTzunVftBPwYz2VnpXMNXIHflbwTU7as",
-      "category": "기타",
-      "news": [
-        {
-          "title": "무엇이든 해줄지니 - 비서진 : 이서진×하지원, 꿈에 그리던 F1 현장에서 직관하며 도파민 상승",
-          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC482692081",
-          "source": "programs.sbs.co.kr"
+          "title": "주영진 앵커 마지막 인사 “SBS 뉴스 새롭게 바꾸는 일에 매진”",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338116",
+          "source": "미디어오늘"
         },
         {
-          "title": "이서진X하지원, 23년 만 재회에 다정…“‘다모’ 다시 찍겠는데” (비서진)",
-          "url": "https://sports.donga.com/ent/article/all/20261031/134942441/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "‘시크릿가든’ 거품키스가 애드리브?..이서진, 김광규에 “큰일난다” 황당 (‘비서진’)[순간포착]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/MZRDKNJZMIZGMNZVGRSTKY3CGM/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "앤트로픽",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T06:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWvJNrB06DVPMtk9rUjVUCv_zpGtnGwDvsT-HeWHUlx9WJQsr5Ej2n60wcUy0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216846",
-          "source": "AI타임스"
-        },
-        {
-          "title": "앤스로픽, 월 200달러 클로드 요금제 ‘5시간 제한’ 없앤다…밤샘 코딩 가능",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02050006645618496&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "클로드 맥스 20x, ‘울트라’로 변경…인증 계정은 5시간 제한 폐지",
-          "url": "https://aimatters.co.kr/news-report/58111/",
-          "source": "AI 매터스"
-        }
-      ]
-    },
-    {
-      "keyword": "르윈 디아즈",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T05:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA54S9e8DJ5pYFUteOn56g5yYwK76zNDM2KI_Y6xHH1maEXc_81XhPN90rD_8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"위선적인 사람들, 어떤 것도 요구하지 말라\" 디아즈, 도 넘은 악플 테러에 또 폭발했다",
-          "url": "https://www.osen.co.kr/article/G1112901726",
-          "source": "OSEN"
-        },
-        {
-          "title": "'선 넘었다' 충격의 악플 테러, 결국 삼성 외인 또 폭발했다…\"내가 만난 사람 중 가장 위선적\"",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/MVSDGYRSMMZDOYLGMRSDEMZYGM/",
+          "title": "[인사] 재정경제부 외",
+          "url": "https://www.chosun.com/national/obituary-personnel/2026/10/24/QINEEIBNQFFX5KEDV5C62G6CWQ/",
           "source": "조선일보"
-        },
-        {
-          "title": "'충격' 삼성 선수 아내 향해 '입에 담을 수도 없는 욕설' 퍼부어 \"제 가족 향해 온갖 저주와 악담, 건강까지 나빠졌다... 강아지 3마리 모두 수술\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103016491424653",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "원자력 발전소",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T05:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95ahFi8yv8K_wDKEn244vkvFeAUClp99T3RluC8ulGXtlMRHvPWa3IE6dLVU",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "아프리카 48개국 러시아로 부른 푸틴…영향력 확대 나서",
-          "url": "https://www.yna.co.kr/view/AKR20261029211800099",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "나미비아 대통령과 회담하는 푸틴 대통령",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0002278678",
-          "source": "뉴시스"
-        },
-        {
-          "title": "푸틴의 아프리카 공세, 냉전 시절 소련의 재현",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280205",
-          "source": "OhmyNews"
         }
       ]
     },
     {
       "keyword": "정유시설",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-10-31T06:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRot1DTZfyXp3P8CVun4F0-pyA-kqYXx9aV5BWEo9lBsHyz-EFYmU2bLXrz_2Y",
       "category": "기타",
@@ -224,52 +141,127 @@
       ]
     },
     {
-      "keyword": "고발",
+      "keyword": "노시환",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T06:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfdKZiPv7qklUUiVgvGCzNzpbKOsAVVRoJZkpIHgl65gUA4nRksIfzMnddUgk",
-      "category": "정치·사회",
+      "startedAt": "2026-10-31T07:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOdb59M_EWQEYzVKH8tHM1oaHj7W_vQ0lX5c22WqEI_zWbV6p7yAn4pt9IHW8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "‘8차 소환’ 김병기 “악의와 거짓으로 점철된 고발…수사 신속히 마무리해달라”",
-          "url": "https://www.khan.co.kr/article/202610311111001",
-          "source": "경향신문"
+          "title": "’AG 금메달리스트’ 노시환, 미국 무대 도전…KBO, MLB 사무국에 포스팅 요청",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031164121v5Z",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "구속영장 반려 50일만에 소환된 김병기 \"무혐의 입증할 것\"",
-          "url": "https://www.yna.co.kr/view/AKR20261031023200004",
-          "source": "연합뉴스"
+          "title": "[단독] 한화 노시환, 포스팅 요청…MLB행 도전 시작",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824404&plink=TOPLINE&cooper=SBSNEWSMAIN",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "김병기, 6개월 만에 경찰 재출석‥증거인멸 의혹 조사",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862168_36918.html",
-          "source": "MBC 뉴스"
+          "title": "[공식발표]한화 노시환, 약속대로 미국 무대에 도전장…KBO, MLB 사무국에 포스팅 요청",
+          "url": "https://sports.khan.co.kr/article/202610311704003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "상장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4cqgqVVi8TWos9jeEVpOJI74ZUf73dPPyjjXEC8HXP73RuMSb4foQSfado0",
-      "category": "경제",
+      "keyword": "김주형",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6sKlpr1nIccDsm93S3uNKDqtddIhQGbAgohaNphshTjpDVWoDk9KQK0rLcUM",
+      "category": "기타",
       "news": [
         {
-          "title": "“상장 첫날 던지라는 말이 맞나요”…한국증시 암울하게 하는 새내기주",
-          "url": "https://www.mk.co.kr/news/stock/12192354",
-          "source": "매일경제"
+          "title": "휴식 취한 김주형, PGA 투어 멕시코 오픈 첫날 67타 공동 22위",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699605",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "[디깅노트] IPO 제도는 강화됐다는데 장밋빛 몸값은 여전하다",
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676994",
-          "source": "블로터"
+          "title": "김주형, PGA 투어 비단타월드 멕시코 오픈 2라운드 공동 26위…오구 플레이 2벌타 받아",
+          "url": "https://www.viva100.com/article/20261031500254",
+          "source": "브릿지경제"
         },
         {
-          "title": "신규 상장사 10곳 중 8곳 손실권...NH·하나증권 주관 IPO 모두 공모가 미달",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353155",
-          "source": "녹색경제신문"
+          "title": "'오구 플레이 벌타' 김주형, 멕시코 오픈 2R 공동 26위",
+          "url": "https://www.yna.co.kr/view/AKR20261031020300007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "백신",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T07:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWhlOrzpFY8Kfs98DqPWT0dsqcgxfSfR6VqGGyoMvMXQhY3DZj4phrcBMqGGU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“코로나백신 맞고 암” 실제 3600만명 추적 의외 결과",
+          "url": "https://www.munhwa.com/article/11627409",
+          "source": "문화일보"
+        },
+        {
+          "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610311333243101",
+          "source": "YTN"
+        },
+        {
+          "title": "코로나 백신 ‘필수접종’ 됐는데…“맞으면 암 걸린다?” 50개월 추적해 보니 [헬시타임]",
+          "url": "https://www.sedaily.com/article/20107908",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "남중국해",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T07:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7DIldQ9ytgNWTxklVauga35Ji3AaqeQgTNa0xKSHTqFiWJdgmfzcUlCPgOs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "중국, 남중국해 앤털로프 암초 매립해 인공섬 조성… 초대형 군사기지화 나서",
+          "url": "https://www.donga.com/news/Inter/article/all/20261031/134942395/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "中, 항공모함급 과학연구 인공섬 건설 추진…2030년 완공",
+          "url": "https://www.newsis.com/view/NISX20261028_0003845241",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"7.4만t 항모급 인공섬 띄운다\"… 中, 세계 최초 '원해 부유식 과학섬' 착공",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026102814533775420c8c1c064d_1",
+          "source": "글로벌이코노믹"
+        }
+      ]
+    },
+    {
+      "keyword": "hong kong vs pakistan",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T07:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEWapRM03h0E5hb-3NspdI1QySqIl2hMPgtZHGTLLfU9uBgGPH5UNpES-KZG8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Plate, 2nd Semi-Final, Hong Kong International Sixes at Mong Kok, Oct 31 2026",
+          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559208/hong-kong-vs-pakistan-plate-2nd-semi-final-hong-kong-international-sixes-2026-27",
+          "source": "ESPN"
+        },
+        {
+          "title": "Hong Kong International Sixes - ODI -",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010835/hong-kong-international-sixes-1",
+          "source": "Cricketnmore"
+        },
+        {
+          "title": "Hong Kong International Sixes - ODI -",
+          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010829/hong-kong-international-sixes-odi-1",
+          "source": "Cricketnmore"
         }
       ]
     }
