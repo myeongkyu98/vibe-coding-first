@@ -1,49 +1,24 @@
 {
-  "updatedAt": "2026-10-31T13:40:38.051Z",
+  "updatedAt": "2026-10-31T14:29:51.788Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
     },
     {
-      "category": "생활·날씨",
-      "count": 2
+      "category": "스포츠",
+      "count": 3
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "내일 날씨",
-      "traffic": "200000+",
-      "trafficValue": 200000,
-      "startedAt": "2026-10-31T11:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_manKT83Ob3QVrGcgDVG9mJ2BXwlLfqcmnFbuBlQdW8cIS5r6uW2bDBK6hU",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "내일 외출할 땐 우산 꼭 챙기세요···전국 비 오고 ‘쌀쌀’ 강원 산지엔 눈 소식도",
-          "url": "https://www.khan.co.kr/article/202610312025001",
-          "source": "경향신문"
-        },
-        {
-          "title": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’",
-          "url": "https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "전국 맑다가 밤부터 차차 흐려져…낮 최고 14∼21도",
-          "url": "https://www.yna.co.kr/view/AKR20261031017400530",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "레반테 대 아틀레티코",
-      "traffic": "10000+",
-      "trafficValue": 10000,
+      "traffic": "20000+",
+      "trafficValue": 20000,
       "startedAt": "2026-10-31T12:00:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsW4ERnb3xCJdpT-WBRyfCbvSkgcVrBsIZDRQMydD8OH8IastjruiQGZ0Qhp8",
       "category": "기타",
@@ -67,8 +42,8 @@
     },
     {
       "keyword": "금",
-      "traffic": "10000+",
-      "trafficValue": 10000,
+      "traffic": "20000+",
+      "trafficValue": 20000,
       "startedAt": "2026-10-31T11:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRardUQjtsih5jfW_tLYKf0StOYbIsJihA22Vg36BKDEbv-OoXbhVY0F4hMoq0",
       "category": "기타",
@@ -91,34 +66,9 @@
       ]
     },
     {
-      "keyword": "박진영",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T12:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ64ewtnSa3oknh3cKx-ydoPbFL0Ip-T8HViSMptUi7vUxfxYux_bTdjvGYXxc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "생존이 우선인 ‘MZ 여주’와 독립이 사명인 ‘항일운동가’의 독립운동 여성서사 [플랫]",
-          "url": "https://www.khan.co.kr/article/202610301439001",
-          "source": "경향신문"
-        },
-        {
-          "title": "천재 의사 김지원·밀정 김유정…흥행 이끄는 열연",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102704jv6",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "익숙한 장르, 한끗 다른 설정",
-          "url": "https://www.donga.com/news/Culture/article/all/20261030/134935940/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
       "keyword": "로또1248",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-31T12:00:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrf-eXqKydWRAd69lWI_VSlgwazW_g6go17ucj72Dt0AOIt0eNFa1b6hdksJ8",
       "category": "기타",
@@ -134,9 +84,34 @@
           "source": "연합뉴스"
         },
         {
-          "title": "1248회 로또 1등 '16, 18, 27, 36, 38, 42'…보너스 '22'",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849425",
-          "source": "뉴시스"
+          "title": "[오늘 로또]1,248회 로또 1등 15명 …당첨금 19억3천만원",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=927779",
+          "source": "남도일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김유정",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T13:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmL8LZX3MX2mYFN8NrI97OlZme-RUYvebjwef0RUOUZooAY5OscVVVyE5MVWk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "천재 의사 김지원·밀정 김유정…흥행 이끄는 열연",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031102704jv6",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "생존이 우선인 ‘MZ 여주’와 독립이 사명인 ‘항일운동가’의 독립운동 여성서사 [플랫]",
+          "url": "https://www.khan.co.kr/article/202610301439001",
+          "source": "경향신문"
+        },
+        {
+          "title": "익숙한 장르, 한끗 다른 설정",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134935940/2",
+          "source": "동아일보"
         }
       ]
     },
@@ -145,7 +120,7 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-10-31T12:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwEPNiR1f9pCxWSdVm9Mo3Kg2-gx64JuxWyR3N3mLDH-xrYHK64RR09DCc01I",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUmx2kzACl8m_Z0DU_jsKYsvqf3PQ7xDU3VvAYQABphviDrcA9_46zPyXUzU8",
       "category": "스포츠",
       "news": [
         {
@@ -154,14 +129,14 @@
           "source": "BBC"
         },
         {
+          "title": "Stoke City vs Preston LIVE! Championship match updates, score, stream and free highlights",
+          "url": "https://www.skysports.com/football/live-blog/13605475/stoke-city-vs-preston-live-championship-match-updates-score-stream-and-free-highlights",
+          "source": "Sky Sports"
+        },
+        {
           "title": "Stoke City trio closing in on returns to action",
           "url": "https://sports.yahoo.com/articles/stoke-city-trio-closing-returns-155900631.html",
           "source": "Yahoo Sports"
-        },
-        {
-          "title": "(LIVESTREAMs!)FREE@!Stoke City vs Preston North End Live free Football October 25, 2026",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS90bnR0di54bWwiLz48L2tycGFubz4=&id=video-stoke-city-vs-preston-north-end-liv-free-today-match-today-match-ukks-573",
-          "source": "Port of Rotterdam"
         }
       ]
     },
@@ -170,13 +145,13 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-10-31T11:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdklF_FtrvkOkpLEHkCN9uDbMJlfLqM2bDPgsp7oEy4zezzbGSizHAimZpQos",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU9YgE07qELPLd7WmzwHUGMIS_vrIigTmcXEdJu8NRlvH1aPRbNiTcdZV70Ow",
       "category": "기타",
       "news": [
         {
-          "title": "Siêu máy tính dự đoán trận Chelsea 'đại chiến' Man Utd",
-          "url": "https://www.vietnam.vn/sieu-may-tinh-du-doan-tran-chelsea-dai-chien-man-utd",
-          "source": "Vietnam.vn"
+          "title": "Chelsea 1-0 Man United: Morgan Rogers \"gieo sầu\" cho MU",
+          "url": "https://yeuthethao.net.vn/chelsea-1-0-man-united-morgan-rogers-gieo-sau-cho-mu-d900763.html",
+          "source": "yeuthethao.net.vn"
         },
         {
           "title": "CHÍNH THỨC: Zidane nhận tin không thể buồn hơn tại ĐT Pháp",
@@ -191,54 +166,59 @@
       ]
     },
     {
-      "keyword": "dewa united vs persija jakarta",
+      "keyword": "levante vs atlético",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T12:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ypu8HKREWYOqzQdqd2aNlTwjMbtbRyVSIbqXiipf7Nha9zl2Dl7G-5eSN-w",
+      "startedAt": "2026-10-31T13:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYJoVo2SgUHPaa673XtrdRTsubKD_u1CxAN-mrAZTe0cyVfViB52M9vN8XCsw",
       "category": "스포츠",
       "news": [
         {
-          "title": "Dewa United FC - Persija Jakarta prediction & tips 31.10.2026",
-          "url": "https://www.transfermarkt.com/betting/tips/dewa-united-fc-vs-persija-jakarta-prediction-31-10-2026/",
-          "source": "Transfermarkt"
+          "title": "🚨 Julián in, Cuti out of Levante-Atlético de Madrid starting XIs",
+          "url": "https://sports.yahoo.com/articles/juli-n-cuti-levante-atl-115200040.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Dewa United vs Persija Jakarta October 31, 2026: Live Broadcast Schedule, Score Prediction, and Top-of-the-Table Clash",
-          "url": "https://aktualita.co/en/sports/dewa-united-vs-persija-jakarta-october-31-2026-live-broadcast-schedule-score-prediction-and-top-of-the-table-clash",
-          "source": "Aktualita.co"
+          "title": "¿Cómo ver el partido Levante vs Atlético de Madrid en TV y streaming?",
+          "url": "https://www.si.com/es-us/como-ver-el-partido-levante-vs-atletico-de-madrid-en-tv-y-streaming",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "+⛔❤️(Ａｑｕｉ ｅｓｔａ En Ｄｉｒｅｃｔｏ)@$!)] Alavés v Barcelona partido inaugural en vivo directo 31 de Octubre 2026",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3Byb3B1dGxvY2tlci5naXRodWIuaW8vYmFuYW5hcHJvL2ZpbGU1LnhtbCIvPjwva3JwYW5vPg==&id=alav%C3%A9s-v-barcelona-liv-en-hoy-dzn-1982-jztzb26566",
+          "source": "Port of Rotterdam"
         }
       ]
     },
     {
-      "keyword": "장동윤",
+      "keyword": "w",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T11:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnJ9b77YPpr5fwAxnOfQv-vy6gVnZA_XIOlLMvG7tkSoNYB7l0OKvuKOWeztM",
-      "category": "생활·날씨",
+      "startedAt": "2026-10-31T12:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQt9AE8aHsnxwpchRJgeWHaaFQ5Hcx9cBcRfkHKZXamWeFzrWCwydYIExzUSHI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "규현-천우희-장동윤, ‘지구마불4’ 출격…경비행기 날개 위 포착 ‘아찔’",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523050",
-          "source": "iMBC 연예"
+          "title": "Remembering Robert W. Liehr of Southampton",
+          "url": "https://www.danspapers.com/2026/10/robert-w-liehr-of-southampton/",
+          "source": "Dan’s Papers"
         },
         {
-          "title": "'지구마불 세계여행4' 게스트 천우희·규현·장동윤, 중국 하늘사다리→윙워킹 도전 파트너",
-          "url": "https://enter.etoday.co.kr/news/view/304556",
-          "source": "비즈엔터"
+          "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+          "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+          "source": "WIRED"
         },
         {
-          "title": "천우희, 세계일주 열정 가득…”알레르기 많은데 그냥 먹어” (‘지구마불4’)",
-          "url": "https://tvreport.co.kr/broadcast/article/1086941/",
-          "source": "TV리포트"
+          "title": "NIK C2: The new AI-enabled command-and-control framework",
+          "url": "https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/",
+          "source": "Cisco Talos Blog"
         }
       ]
     },
     {
       "keyword": "원샷한솔",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-31T12:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToqRMYRjagNvxdW_nV3xORJtehVJq_zqdFfKa_VRW8Hrp7zxFuKsEqPQ2Y3sk",
       "category": "기타",
@@ -259,6 +239,15 @@
           "source": "이데일리TV"
         }
       ]
+    },
+    {
+      "keyword": "dewa united vs persija jakarta",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T12:00:00.000Z",
+      "picture": "",
+      "category": "스포츠",
+      "news": []
     }
   ]
 }
