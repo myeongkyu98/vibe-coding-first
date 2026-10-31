@@ -1,247 +1,271 @@
 {
-  "updatedAt": "2026-10-31T10:29:08.114Z",
+  "updatedAt": "2026-10-31T11:28:26.466Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 5
+      "category": "기타",
+      "count": 6
     },
     {
-      "category": "기타",
-      "count": 5
+      "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "플레이오프 5차전",
+      "keyword": "재건축",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-31T09:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3quRi8XZxUu02h0V2ph0po5XZXwgFtaNfv77PannLUMjh6ObXTNEfEPDzWXc",
-      "category": "스포츠",
+      "startedAt": "2026-10-31T09:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScTf5ou9XxJ3Yk_KaVf4wBb2nn6HAV2P2m3lk70oUVCiraGCXV9-uxZ-SKgSA",
+      "category": "경제",
       "news": [
         {
-          "title": "‘2차전 선발승’ 후라도 믿는 삼성 vs ‘도나스’ 전방 배치 승부수 두는 KIA",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/O5WHRQPZ5RBXBCHLKHYOXGLTYQ/",
-          "source": "조선일보"
+          "title": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]",
+          "url": "https://www.hankyung.com/article/2026102938986",
+          "source": "한국경제"
         },
         {
-          "title": "사자굴 다시 가는 호랑이…’안방 vs 확률’ 최후의 일전",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202610311852566nl",
-          "source": "연합뉴스TV"
+          "title": "은마 30억선도 흔들 … 강남 재건축 매물 쌓인다",
+          "url": "https://www.mk.co.kr/news/realestate/12191748",
+          "source": "매일경제"
         },
         {
-          "title": "삼성 후라도, 2차전 우위 이어갈까…KIA 올러는 대구 설욕 도전, 한국시리즈행 마지막 승부",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845812",
-          "source": "제민일보"
-        }
-      ]
-    },
-    {
-      "keyword": "jtbc 서울 마라톤",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-31T08:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAUkkZtoO7MjsbIaZsO7rnbfCDGrlXp69qrD8cIiFnz3nvLEi4AUw7qVqvmsI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054",
-          "source": "시민일보"
-        },
-        {
-          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
-          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001",
+          "title": "압구정 재건축은 수십억 낮춰 거래…강남권 기축은 신고가",
+          "url": "https://www.news1.kr/realestate/general/6336651",
           "source": "뉴스1"
-        },
-        {
-          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12",
-          "source": "로이슈"
         }
       ]
     },
     {
-      "keyword": "k리그2",
+      "keyword": "나는 solo",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-10-31T09:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn54Ma71-tsgipC8qOXgUdnZIFQA9s9bm9LgPBmKHezf0Hnfrhz4p4lvCDuNo",
-      "category": "스포츠",
+      "startedAt": "2026-10-31T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRupsm12CIhoGJhGUc4VYuIv6ppkVfeqAI8mAPUJDfaH8LECRvidETHFl6do6Y",
+      "category": "기타",
       "news": [
         {
-          "title": "K리그2 수원 승격 도전 다음주로…대구 원정서 2-2 무승부",
-          "url": "https://www.yna.co.kr/view/AKR20261031043900007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "K리그2 수원, 대구와 2-2 무승부…다음 주 우승+승격 도전",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849372",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[SPO 현장] ‘경고누적’ 이정효 감독 대신 기자회견 참석한 마철준 수석코치 “선수들이 분위기에 흔들린 것은 사실”",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016715",
+          "title": "'나솔' 34기 공무원 영철, 뜬금 학력 논란…\"거짓말한 것도 아닌데\"[이슈S]",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016401",
           "source": "SPOTV NEWS"
+        },
+        {
+          "title": "“언니들 정신 차려!” 데이트 후 깊어지는 여자들의 고민 #나는솔로 EP.277ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
+          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638951",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "‘나는 솔로’ 정숙, 영호 정리하고 광수로…34기 러브라인 재편",
+          "url": "https://sports.donga.com/ent/article/all/20261029/134929531/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "김가영",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T08:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQIrtHWHjfXjFzKd2MumWb9JzFnQOgAtFgbhiPOzopckUJUyGtYMA3GwJVw8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[김용일의 당구인사이트] ‘김가영 천하’가 역설적으로 만든 LPBA 춘추전국시대",
-          "url": "https://mkbn.mk.co.kr/news/sports/12192384",
-          "source": "mkbn.mk.co.kr"
-        },
-        {
-          "title": "'0-3→4-3 대역전극' 김보미, 데뷔 7년 만에 LPBA 첫 우승",
-          "url": "https://nwww.newsis.com/view/NISX20261026_0003840533",
-          "source": "뉴시스"
-        },
-        {
-          "title": "‘아름다운 준우승’ 임정숙 \"김보미 우승 누구보다 바랐다…어려운 시기 함께했던 동료\"",
-          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32284",
-          "source": "빌리어즈"
-        }
-      ]
-    },
-    {
-      "keyword": "전상현",
+      "keyword": "이승기",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T09:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aQdHEmkm6LxYRq4oMFHAWxFlrPfx3UYrWyQ15ckIw7u0v7443uWNpR7WHj8",
+      "startedAt": "2026-10-31T10:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrP4KdxmOnkha7yYa79FHaaDqrQYHnuOIj3goZmlya22uguOddgoWu95WvDaU",
       "category": "기타",
       "news": [
         {
-          "title": "역투 조상우",
-          "url": "https://www.newsis.com/view/NISI20261030_0021512209",
-          "source": "뉴시스"
+          "title": "이승기 \"김종민 똥 싸느라 공연 5분 늦어\" 폭로",
+          "url": "https://www.segye.com/newsView/20261028505012",
+          "source": "세계일보"
         },
         {
-          "title": "“4kg 빠졌다, 내 몸 따질 때 아니야” 30세 마무리의 투혼, 2이닝 퍼펙트 세이브→탈락 위기 KIA 구했다",
-          "url": "https://www.osen.co.kr/article/G1112901679",
-          "source": "OSEN"
+          "title": "김지원 닮은 김종민 ♥11살 연하 아내, 똑똑한 여자라는데 “지식인 울렁증 왜”(이승기2)",
+          "url": "https://m.newsen.com/news_view.php?uid=202610281306222110",
+          "source": "뉴스엔"
         },
         {
-          "title": "“불펜 투수들도 봐주세요”… 전상현이 떠올린 동료들의 땀",
-          "url": "https://www.sportsworldi.com/newsView/20261031503440",
-          "source": "스포츠월드"
+          "title": "‘채널 개설’ 이승기, 김종민 ‘행사 지각’ 폭로…”똥 싸러 가서 5분 동안 안 나와” [RE:뷰]",
+          "url": "https://tvreport.co.kr/entertainment/article/1087375/",
+          "source": "TV리포트"
         }
       ]
     },
     {
-      "keyword": "용인fc 대 서울 이랜드 fc 순위",
+      "keyword": "블리치",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T08:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "충남 아산 fc 대 김포",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T08:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc6ghC9LijyoM8DpSx09aQKoMKR9fY2BY9h2mm74Rvk_VzU5Z7RLuEs7-8fYk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'2경기 덜 치르고 6점 차' 6위 화성 패배에 충남아산 안드레 감독이 보인 반응은?",
-          "url": "https://www.sports-g.com/news/articleView.html?idxno=217081",
-          "source": "스포츠니어스"
-        },
-        {
-          "title": "[GOAL 아산] “모든 건 제 역량이 부족해서 일어난 일” 완패에 고개 숙인 고정운 감독 “팬분들에게 죄송”",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB--%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB-%E1%84%80%E1%85%A5%E1%86%AB-%E1%84%8C%E1%85%A6-%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%85%E1%85%A3%E1%86%BC%E1%84%8B%E1%85%B5-%E1%84%87%E1%85%AE%E1%84%8C%E1%85%A9%E1%86%A8%E1%84%92%E1%85%A2%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%91%E1%85%A2%E1%84%8B%E1%85%A6-%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2-%E1%84%89%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%AE%E1%86%AB-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%91%E1%85%A2%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%A6%E1%84%80%E1%85%A6-%E1%84%8C%E1%85%AC%E1%84%89%E1%85%A9%E1%86%BC/blt14a2321c1c9ae667",
-          "source": "Goal.com"
-        },
-        {
-          "title": "충남아산FC, 31일 김포전서 할로윈 테마 홈경기 연다",
-          "url": "http://www.ksw-news.com/news/articleView.html?idxno=3054221",
-          "source": "한국사회복지저널"
-        }
-      ]
-    },
-    {
-      "keyword": "하남시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T08:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuycm5FqVUE21JLeD2GlDdK6mabcKMwGvIIBZbA_A4XJfutNg0khFP-jREW-4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘서울 경계 5km 이내’ 김포·구리 등 7만여 호 신규택지 발표",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699099",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[사설]수도권 주택공급, 정부·지자체 적극 협력해야",
-          "url": "https://www.khan.co.kr/article/202610301833001",
-          "source": "경향신문"
-        },
-        {
-          "title": "“대단지 개발로 김포 큰 활력” vs “이미 지옥철, 교통대책 먼저”",
-          "url": "https://www.donga.com/news/Society/article/all/20261030/134941656/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "aim-120 암람",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ07Br3AwQ109LVmMS0UqCfj72mM2CFJPvd1wC38XyeZO2g7PDQrComFPOz5E4",
+      "startedAt": "2026-10-31T10:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO8qIG4E-X75BhusMj1hLCzD4pbqFrTno_QSXvi78klS10HZ2RfEqTzQ0wgIA",
       "category": "기타",
       "news": [
         {
-          "title": "\"일본서 미사일 공동 생산\" 중국 코앞 군수거점‥무기 생산도 '한 몸'",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861755_37004.html",
-          "source": "MBC 뉴스"
+          "title": "Bleach Anime Concludes After 22 Years with Special Ending Video",
+          "url": "https://www.crunchyroll.com/news/latest/2026/10/26/bleach-anime-concludes-after-22-years-with-special-ending-video",
+          "source": "Crunchyroll"
         },
         {
-          "title": "日방위상 \"전수방위 방침 불변…침공 저지 능력은 강화\"",
-          "url": "https://www.yna.co.kr/view/AKR20261029181400073",
+          "title": "'BLEACH' Creator Tite Kubo: Blood, Sweat, Tears, and Ink (Cover Story)",
+          "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story",
+          "source": "Hypebeast"
+        },
+        {
+          "title": "After 20 Years, ‘Bleach’ Has Come to an Elegant, Exhausting, Fitting Finale",
+          "url": "https://gizmodo.com/bleach-thousand-year-blood-war-series-finale-review-anime-tybw-2000831759",
+          "source": "Gizmodo"
+        }
+      ]
+    },
+    {
+      "keyword": "기온",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A1udPzYtpQj3q_H52KVD_zu8Yhf3n8MNqhZZxpiLP5lk2CAbq6SHSLoYR94",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "[날씨] 내일(토) 새벽에 중부 비…서울 한낮 14℃에 그쳐",
+          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610301510080002",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "[날씨] 일요일 전국 흐리고 곳곳 비…제주도엔 강한 비바람",
+          "url": "https://www.yna.co.kr/view/AKR20261031039800004",
           "source": "연합뉴스"
         },
         {
-          "title": "중국 코앞에서 美 암람 미사일 생산…K방산에 미치는 영향은? [밀리터리+]",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261030601011",
-          "source": "나우뉴스"
+          "title": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’",
+          "url": "https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "인턴",
+      "keyword": "첼시 맨유",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T10:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo380x-GxBeGRA7YB4pgTRNdtOL_-cFfOtFHbmi3pH95ORcCNbw1UJEfgqkg8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "말 그대로 '초대형 호재'...맨유 '성골유스 MF' 부상 복귀→첼시전 출전 예정! 여전히 캐릭 신뢰, \"진심으로 싸우고 싶은 선수\"",
+          "url": "https://mydaily.co.kr/page/view/2026102913083210826",
+          "source": "마이데일리"
+        },
+        {
+          "title": "8경기 연속 못 이기면서 열차는 7분 지연시킨 맨유의 원정길… 분노한 팬들의 야유 세례, 캐릭 감독에게만 환호",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313616",
+          "source": "베스트일레븐"
+        },
+        {
+          "title": "맨체스터 유나이티드, 첼시, 그리고 끝없는 감독 교체의 순환.",
+          "url": "https://www.vietnam.vn/ko/man-united-chelsea-va-vong-xoay-thay-tuong-khong-hoi-ket",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "gs리테일",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-31T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz1M7NqpFqxWieBN0srJgx5tbRUgFrHg_s5EcIR356v-nYi8UeEnmGMiDWYBU",
+      "startedAt": "2026-10-31T10:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx8GvQUi14oe5skWuzRCM9EsfzVY_RBIzRcx3ZGeSQWGe6Ip5BXwu2_yYUb4c",
       "category": "기타",
       "news": [
         {
-          "title": "\"올해 50세 9급 합격해 첫 출근\"…늦깎이 신입 공무원에 응원 봇물",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261027112214sQI",
-          "source": "연합뉴스TV"
+          "title": "GS리테일, 국가보훈부와 협약…유공자 지원 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261030028000030",
+          "source": "연합뉴스"
         },
         {
-          "title": "‘인턴’ 실사판?…50세에 9급 합격한 공무원 “질문 받아주는 선임들 고마워”",
-          "url": "https://www.donga.com/news/Society/article/all/20261031/134942733/2",
+          "title": "보훈부와 손잡고 ‘일상 속 보훈’ 확산",
+          "url": "https://www.donga.com/news/Economy/article/all/20261029/134928168/2",
           "source": "동아일보"
         },
         {
-          "title": "\"50살 신입 공무원입니다!\"...인생 2막 '활짝' [나우쇼츠]",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610301235027550",
-          "source": "YTN"
+          "title": "GS리테일 '나라사랑 활동', 보훈 사회공헌사업으로 확대",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847749",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "김광규",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuKKa5aENyM919nuumw9G3QzJy4jx9d6vpKVMPcfEKxCnRQBY-KTRS09Vv6YA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김광규, 유재석·하하까지 네 명의 전담 비서 거느린다…‘놀면 뭐하니?’ VIP 하루의 반전",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845810",
+          "source": "제민일보"
+        },
+        {
+          "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "김광규, 탈모 때문에 헤딩 자제 \"족구에서 져 본 적이 없어\"('놀면뭐하니')",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/HA3DEMTDG4ZWGYRWGFSGMNZUMU/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "온라인 산사",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T10:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bhTYULESLCZrn9pfgnnGAIGc6spx_PsPKuM-FMmfVWWR-LVbXxGVuYC_Qi8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"방구석 누워 108배로 힐링\"…사흘간 60만명 다녀간 온라인 산사",
+          "url": "https://www.yna.co.kr/view/AKR20261031034300005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "\"출근 전에 절 가서 108배\"…하루 10만명 몰린 사찰 어디길래 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/30/2026103011042983806",
+          "source": "머니투데이"
+        },
+        {
+          "title": "요즘은 절도 온라인으로…하루 10만 명 찾은 ’가상 사찰’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030161626APu",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "싱가포르",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T10:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGR8ABknAWOkZjMTud-z4bHiyMJ7SHI0kkd5dU7ARyXUVrrMv6qAz5wDer_Zo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "안산 청년 창업기업 7곳, 싱가포르서 투자·구매 의향서 체결… 해외시장 진출 모색",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444767",
+          "source": "천지일보"
+        },
+        {
+          "title": "부산 스타트업 4개사, 싱가포르 혁신기술 전시회서 해외시장 진출 모색",
+          "url": "https://www.viva100.com/article/20261030500434",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "안산시, 청년 창업기업 해외 진출 지원…싱가포르서 교류 프로그램 진행",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738456",
+          "source": "국제뉴스"
         }
       ]
     }
