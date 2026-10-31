@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T16:29:21.377Z",
+  "updatedAt": "2026-10-31T17:27:55.943Z",
   "summary": [
     {
       "category": "기타",
@@ -7,7 +7,11 @@
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
     },
     {
       "category": "IT·과학",
@@ -16,59 +20,9 @@
   ],
   "items": [
     {
-      "keyword": "맨 시티 대 브라이턴",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-31T14:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdi5oPia-eXQZ3sVY8SJzAE8KWlU0kI3EerN8poXW_q3v21pk3MuuhFw6RXpc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Man City vs Brighton LIVE! Premier League match updates, news and score",
-          "url": "https://www.skysports.com/football/live-blog/13604905/man-city-vs-brighton-live-premier-league-match-updates-news-and-score",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Ayari stuns Man City to give Brighton early lead",
-          "url": "https://www.nbcsports.com/watch/watch/premier-league/yasin-ayari-stuns-manchester-city-to-give-brighton-early-lead",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "City only missing Semenyo ahead of Brighton clash",
-          "url": "https://www.mancity.com/news/mens/enzo-maresca-brighton-squad-update-63928963",
-          "source": "Manchester City FC"
-        }
-      ]
-    },
-    {
-      "keyword": "광규",
+      "keyword": "맨시티",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-31T14:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjcfePWeLYIloHkh-rWV8nsXpfiznA4qQMumv8oHMbyq9ogj73GLFJ28gogMo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "김광규, 유재석·하하까지 네 명의 전담 비서 거느린다…‘놀면 뭐하니?’ VIP 하루의 반전",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845810",
-          "source": "제민일보"
-        },
-        {
-          "title": "“아이찡입니다” 주우재 성대모사+허경환 짧은 발차기… A2O LITE 저격 ‘AZ2O’ 결성(놀면 뭐하니)",
-          "url": "https://sports.khan.co.kr/article/202610312119003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "맨시티",
-      "traffic": "500+",
-      "trafficValue": 500,
       "startedAt": "2026-10-31T15:10:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWa2UDXaCjYpeXkr_1DDyXNQ0sstdQi6dWRl-bTUskn3CDLV_Z_p1T_zOor0A",
       "category": "기타",
@@ -79,14 +33,39 @@
           "source": "Manchester City FC"
         },
         {
-          "title": "[맨시티 브라이튼] 충돌하는 베르브뤼겐-누네스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738578",
+          "title": "[맨시티 브라이튼] 선제골 기뻐하는 어린 팬",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738582",
           "source": "국제뉴스"
         },
         {
           "title": "승리한 동료들 축하하는 엘링 홀란",
           "url": "https://www.newsis.com/view/NISI20261029_0002276922",
           "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "조현아",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV7uG4e-EcDAMuI9C5Jb10hY8bFVXAlZEngtkjhQ1mLa8-jqBhZ0295cZorNg",
+      "category": "연예",
+      "news": [
+        {
+          "title": "‘17kg 감량’ 조현아, 턱선부터 다른 사람 됐네..운동복 셀카도 당당 “예뻐”",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJSGGNZYGYYTAMDDMFSWCOLGMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "어반자카파 조현아, 야외 결혼식장에서 전한 단정 미소",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264671",
+          "source": "톱스타뉴스"
+        },
+        {
+          "title": "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카",
+          "url": "https://www.sportschosun.com/entertainment/2026-10-31/202610310100199670014206",
+          "source": "스포츠조선"
         }
       ]
     },
@@ -116,31 +95,6 @@
       ]
     },
     {
-      "keyword": "man city vs brighton",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUOlruoCYzFRKwboTfw6z3D2UqqO-dp8uUY4t983_RKM4kVIJ48WY5lzc1liE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Premier League: Brighton lead Man City, Coventry 3-0 up, Hull level with Ipswich",
-          "url": "https://www.bbc.com/sport/football/live/cm2l8lx5k1zvt",
-          "source": "BBC"
-        },
-        {
-          "title": "Preview: Hull City vs. Ipswich Town - prediction, team news, lineups",
-          "url": "https://www.sportsmole.co.uk/football/hull-city/preview/hull-city-vs-ipswich-prediction-team-news-lineups_607868.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "ＨＥＲＥ’Ｓ!! ＷＡＹ ＴＯ ＷＡＴＣＨ Hull vs Ipswich ＬＩＶＥ ＳＴＲＥＡＭＳ ＯＮ 𝙽𝚊𝚝𝚒𝚘𝚗𝚜 𝙻𝚎𝚊𝚐𝚞𝚎 ＴＶ ＣＨＡＮＮＥＬ 25 october 2026",
-          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS90bnR0di54bWwiLz48L2tycGFubz4=&id=video-hull-vs-ipswich-live-free-today-match-tv-ukkks0001-309",
-          "source": "Port of Rotterdam"
-        }
-      ]
-    },
-    {
       "keyword": "카를로스 알카라스",
       "traffic": "500+",
       "trafficValue": 500,
@@ -159,34 +113,59 @@
           "source": "국제뉴스"
         },
         {
-          "title": "알카라즈는 비엔나 오픈에 참가하고, 조코비치는 바젤 오픈에 참가할 예정이다.",
-          "url": "https://www.vietnam.vn/ko/alcaraz-tham-du-vienna-open-djokovic-gop-mat-o-basel-open",
-          "source": "Vietnam.vn"
+          "title": "[비엔나 오픈] 라켓 던지는 토미 폴",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738150",
+          "source": "국제뉴스"
         }
       ]
     },
     {
-      "keyword": "고소",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T14:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0e_R6RmImxsS32VhTtI_YoGt9VR5ZNp7BdsP953Afo3aHPRwGIbaA-RZttRU",
+      "keyword": "크리스타 파이크",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T16:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmx8PEMdpEO-WgKlmok_S0tD9Kezl0GB2R28bK2ppsMHZmpxeKGflipuJNXSQ",
       "category": "기타",
       "news": [
         {
-          "title": "[영역:young域]미제 사건 18만건의 행방",
-          "url": "https://view.asiae.co.kr/article/2026103008444444470",
-          "source": "아시아경제"
+          "title": "'독극물 사형' 생존 美죄수 \"육체와 마음에 통증\"…재집행 거부",
+          "url": "https://www.yna.co.kr/view/AKR20261031047700009",
+          "source": "연합뉴스"
         },
         {
-          "title": "김정철 \"중수청·공소청 출범, 지금 완전히 카오스\"",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280052",
-          "source": "OhmyNews"
+          "title": "독극물 주입에도 살아남은 美 사형수…“몸·영혼에 깊은 상처”",
+          "url": "https://www.kyeonggi.com/article/20261031580092",
+          "source": "경기일보"
         },
         {
-          "title": "공소청 검사, '0심 판사' 되나…검사 출신 변호사 '덩달아 주목'",
-          "url": "https://www.nocutnews.co.kr/news/6598070",
-          "source": "노컷뉴스"
+          "title": "“홀로 깨어난 후 매 순간이 고통” 약물 사형실패 女",
+          "url": "https://www.munhwa.com/article/11627774",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "jonas brothers",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIqTMgDZJ1XobMZfqN0_icph2IDhQqhpD6CW7YM5eM8GzOrEEmXrHQ6QUQ_Uk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Kevin Jonas Accidentally Sent a Photo of His Penis to Football Group Chat with His Brothers: ‘Ruined My Entire Day’",
+          "url": "https://people.com/kevin-jonas-accidentally-sent-penis-photo-to-group-chat-with-his-brothers-12196690",
+          "source": "People.com"
+        },
+        {
+          "title": "“Delete The Thread”: Kevin Jonas Accidentally Sent A Photo Of His Penis To A Group Chat With His Brothers",
+          "url": "https://www.buzzfeed.com/jazmintolliver/kevin-jonas-accidentally-sent-penis-photo-to-group-chat",
+          "source": "BuzzFeed"
+        },
+        {
+          "title": "Kevin Jonas Accidentally Sent a Pic of His Lil Jonas to the Group Chat",
+          "url": "https://www.billboard.com/music/pop/kevin-jonas-accidentally-sent-picture-penis-group-chat-1236369498/",
+          "source": "Billboard"
         }
       ]
     },
@@ -195,11 +174,11 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-31T15:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxWJe3pztcslOQJhsRnFo4wF1JnA5HdtYIH6Wk2hMXmigUdncS-dsGaT7B9Xg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyacVqGF7KvO2PnxKywJoZaxI0sxL0rl2lUamJBvPGT2eYlbcbQS1IckDPDEw",
       "category": "기타",
       "news": [
         {
-          "title": "Swansea City v Blackburn Rovers: Championship stats & head-to-head",
+          "title": "Swansea City 4-0 Blackburn Rovers: Eustaquio, Opoku, Lissah and Stewart strike in emphatic win",
           "url": "https://www.bbc.com/sport/football/live/cq74p3w8z0jrt",
           "source": "BBC"
         },
@@ -212,6 +191,56 @@
           "title": "Preview | Swansea City v Blackburn Rovers",
           "url": "https://www.swanseacity.com/news/preview-swansea-city-v-blackburn-rovers-6",
           "source": "Swansea City"
+        }
+      ]
+    },
+    {
+      "keyword": "헐 시티 대 입스위치",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T16:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQtMg_A1EsGhW2hPicCf74eaP0rKRc7ublFvtydOzPzVGPpofwytahfFDlPs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
+          "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t",
+          "source": "BBC"
+        },
+        {
+          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878763",
+          "source": "ESPN"
+        },
+        {
+          "title": "Hull City vs Ipswich LIVE! Premier League match updates, news and score",
+          "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score",
+          "source": "Sky Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "npl",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T16:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1A1kEwGGNcsNM9yPuRG7fy2RDV2zAbnQ1No2ngRIXVLxaUNdSEsYz-GsSvLM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Waterlogged TU cricket ground (photos)",
+          "url": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html",
+          "source": "OnlineKhabar English News"
+        },
+        {
+          "title": "Match Predictions: Nepal Premier League 2026 - Lumbini Lions vs Chitwan Rhinos - Sudurpaschim Royals vs Biratnagar Kings - 31st October",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-lumbini-lions-vs-chitwan-rhinos-sudurpaschim-royals-vs-biratnagar-kings-31st-october/114116.htm",
+          "source": "Cricket World"
+        },
+        {
+          "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
+          "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs",
+          "source": "Ratopati"
         }
       ]
     },
@@ -229,39 +258,14 @@
           "source": "The New York Times"
         },
         {
-          "title": "Sacha Baron Cohen’s ‘Ali G: Who Iz I?’ is exactly what the stuffy world of comedy needs",
-          "url": "https://nypost.com/2026/10/31/opinion/ali-g-will-save-the-stuffy-world-of-comedy/",
-          "source": "New York Post"
+          "title": "Sacha Baron Cohen's New 'Ali G' Movie Sets Prime Video Streaming Date Just 1 Week After Release",
+          "url": "https://www.imdb.com/news/ni66087714/?ref_=nmnw_art_perm",
+          "source": "IMDb"
         },
         {
-          "title": "A Generation of Men Once Revered Him. His New Movie Is the Worst I’ve Seen in Some Time.",
-          "url": "https://slate.com/culture/2026/10/sacha-baron-cohen-ali-g-movie-nathan-fielder-you-can-see-everything.html",
-          "source": "Slate"
-        }
-      ]
-    },
-    {
-      "keyword": "묀헨글라트바흐 대 파더보른",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T14:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJZ0gWYXrdnj6OSfsZZM6vP8s-exwkz_2aopL1Cupqrk-jTqo1ro9MHU00PoM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Notre Dame vs. Navy (Oct 31, 2026) Box Score",
-          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401859185",
-          "source": "ESPN"
-        },
-        {
-          "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
-          "url": "https://www.espn.co.uk/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real",
-          "source": "ESPN"
-        },
-        {
-          "title": "Chelsea 2-0 Man Utd (Oct 31, 2026) Team Stats",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879248",
-          "source": "ESPN"
+          "title": "‘Ali G: Who Iz I?’ Extends Theatrical Run as Amazon MGM Says Movie “Delivered Against Our Goals” (Exclusive)",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ali-g-who-iz-i-theatrical-run-amazon-mgm-sacha-baron-cohen-1236742135/",
+          "source": "The Hollywood Reporter"
         }
       ]
     }
