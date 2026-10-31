@@ -1,24 +1,33 @@
 {
-  "updatedAt": "2026-10-31T04:36:55.577Z",
+  "updatedAt": "2026-10-31T05:33:28.757Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 4
     },
     {
       "category": "생활·날씨",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "전북 대 대전",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T04:20:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
     {
       "keyword": "공휴일",
       "traffic": "2000+",
@@ -45,59 +54,9 @@
       ]
     },
     {
-      "keyword": "삼성 갤럭시 폴드",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-31T02:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWkVNCGsg4KGO9lcRjVImirway1xh5VBJ1yxzVqXdPopZeRwLXLW61c1Tld_0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "삼성 갤럭시Z폴드9 울트라, 얼마나 달라지나",
-          "url": "https://zdnet.co.kr/view/?no=20261030193751",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "삼성 폴더블폰 판 키운다…2027년 폴더블폰 라인업 대폭 확대",
-          "url": "https://kbench.com/?q=node/282907",
-          "source": "케이벤치"
-        },
-        {
-          "title": "삼성은 갤럭시 Z 폴드9 라인업을 확장할 수도 있다.",
-          "url": "https://www.vietnam.vn/ko/samsung-co-the-mo-rong-dong-galaxy-z-fold9",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "india vs uae",
+      "keyword": "이지현",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-31T02:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYNgdYqusGyxIFsWi0UPW25pMLe1deAejwmk3fcVV7LooyS0zuryDYemSlpk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets",
-          "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece",
-          "source": "Sportstar"
-        },
-        {
-          "title": "UAE:97/0 (4.2) | Live Cricket Score | UAE vs IND | hk sixes 2026 | Cricket Scoreboard",
-          "url": "https://sports.ndtv.com/cricket/uae-vs-ind-scorecard-live-cricket-score-hong-kong-sixes-2026-match-12-uain10312026275383",
-          "source": "NDTV Sports"
-        },
-        {
-          "title": "India Vs UAE Highlights, Hong Kong Sixes 2026: Khalid Shah's Unbeaten 52 Powers UAE To Six-Wicket Win",
-          "url": "https://www.outlookindia.com/sports/cricket/india-vs-united-arab-emirates-live-score-hong-kong-sixes-2026-ind-vs-uae-match-commentary-scorecard-latest-updates",
-          "source": "Outlook India"
-        }
-      ]
-    },
-    {
-      "keyword": "이지현",
-      "traffic": "500+",
-      "trafficValue": 500,
       "startedAt": "2026-10-31T03:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR13HtZQY8egKbKP7ufHbpV90F1SxV1yjkXlTdSP5c1Zfsa4IuAhKgzL0tkAsU",
       "category": "기타",
@@ -116,6 +75,31 @@
           "title": "'막영애' 김현숙 \"싱글맘 자격지심 생겨…아들이 아빠랑 살고 싶어 해\"",
           "url": "https://www.news1.kr/entertain/celebrity-topic/6338102",
           "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "india vs uae",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T02:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK4zB88PzYLoCAkDOD3dBlQtoeJlkzquXOkJsA8UbKRsqiq08aPoHCOZWpepA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+          "url": "https://m.cricbuzz.com/player-match-performance/match/175153/player/11311/batting",
+          "source": "Cricbuzz"
+        },
+        {
+          "title": "UAE Defeats India by Six Wickets in Hong Kong Sixes",
+          "url": "https://indtoday.com/uae-defeats-india-by-six-wickets-in-hong-kong-sixes/",
+          "source": "INDToday"
+        },
+        {
+          "title": "India vs UAE: After Pakistan loss, Krunal Pandya's men suffer another Hong Kong Sixes 2026 defeat; Afghanistan win",
+          "url": "https://www.livemint.com/sports/cricket-news/india-vs-uae-after-pakistan-loss-krunal-pandyas-men-suffer-another-hong-kong-sixes-2026-defeat-afghanistan-win-11793421134657.html",
+          "source": "Livemint"
         }
       ]
     },
@@ -153,9 +137,9 @@
           "source": "동아일보"
         },
         {
-          "title": "제주삼다수 마스터스 첫 우승 장은수, 삼다수 공장 방문",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845603",
-          "source": "제민일보"
+          "title": "\"국가대표부터 지역 선수까지\" … 제주삼다수, 스포츠 후원 저변 넓힌다",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000155.html",
+          "source": "뉴데일리"
         }
       ]
     },
@@ -185,77 +169,77 @@
       ]
     },
     {
-      "keyword": "르브론 제임스",
+      "keyword": "warriors vs lakers",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T02:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX_HYrofG__Ysu0EvFSIXs3g67G7-6georOHE0aatHTk6T1A-I_EOGVb6R-p8",
+      "startedAt": "2026-10-31T02:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE2XK6EtkKQp5kZpsOwoAOg2_lMJ4fIzxxaF-id78w13E8TdqH-Y_qniEFQzk",
       "category": "스포츠",
       "news": [
         {
-          "title": "NBA 필라델피아, '3쿼터 0-17' 열세 딛고 극적 뒤집기…맥시 27점",
-          "url": "https://www.news1.kr/sports/basketball/6336248",
-          "source": "뉴스1"
+          "title": "Lakers blow huge early lead in ugly loss to Warriors",
+          "url": "https://www.silverscreenandroll.com/lakers-scores-results/128177/lakers-vs-warriors-recap-box-score-stats-final-austin-reaves-luka-doncic",
+          "source": "Silver Screen and Roll"
         },
         {
-          "title": "디펜딩 챔피언 또 꺾었다! '릅신' 르브론 20득점 9R 8AS→필라델피아, 뉴욕 제압→동부 콘퍼런스 공동 선두",
-          "url": "https://www.mydaily.co.kr/page/view/2026103112435258273",
-          "source": "마이데일리"
+          "title": "Lakers make final decision on Ziaire Williams for Friday's game",
+          "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/",
+          "source": "Lakers Wire"
         },
         {
-          "title": "'올스타 빅맨 없이도 3연승 질주' 커닝햄, \"팀이 하나로 뭉쳤다는 느낌이 있다\"",
-          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065575344343172",
-          "source": "바스켓코리아"
+          "title": "Lakers vs. Warriors Injury Report – Oct. 30",
+          "url": "https://foxsports990.iheart.com/content/2026-10-30-lakers-vs-warriors-injury-report-oct-30/",
+          "source": "Fox Sports 990"
         }
       ]
     },
     {
-      "keyword": "이란",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T02:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd8hpz1DWaxKNQjPK8RCXOCs03q5OlPuthkpNhex9UDc6N5ItfzqlhUo7wPO8",
-      "category": "기타",
+      "keyword": "인도네시아",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T04:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSnS7MzjEpKow8c3G8Q86ljgyGPpRA_XSBrvwdY9ITD6HHr6HFYM9aQguQ0sU",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "트럼프 “이란 전쟁 곧 마무리될 것”···중재국 카타르 대표단은 이란으로",
-          "url": "https://www.khan.co.kr/article/202610302232001",
-          "source": "경향신문"
-        },
-        {
-          "title": "트럼프 \"이란과 대화 중…이란戰에 쓴 돈 베네수서 만회\"",
-          "url": "https://www.yna.co.kr/view/AKR20261031009400071",
+          "title": "조현, 인도네시아와 외교장관회담…전략적소통 강화 논의",
+          "url": "https://www.yna.co.kr/view/AKR20261030081400504",
           "source": "연합뉴스"
         },
         {
-          "title": "\"이란과 대화, 전쟁 곧 끝나\" 트럼프 장담에도 유가는 최고치",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610311119306799_005.html",
-          "source": "YTN"
+          "title": "김희상 셰르파, G20 정상회의 대비 차원 인도네시아 셰르파 면담",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6336823",
+          "source": "뉴스1"
+        },
+        {
+          "title": "한-인도네시아 외교장관 회담(10.29.) 결과",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454267",
+          "source": "서울Pn"
         }
       ]
     },
     {
-      "keyword": "ins",
+      "keyword": "bangladesh vs west indies",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-31T02:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhPLVDvRFWo3YqNdTWC6Hhkr5iixTOiRj56m7H3e4J1uxq0AtZ-2eA5iD5z-4",
-      "category": "기타",
+      "startedAt": "2026-10-31T04:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlbQvfroz6IHEcigBow-kOfqETZD0n--h5b91FGEC6A6COWRafBcV5hKu94vs",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Watch: Rafale Marine lands on INS Vikrant; Navy tests French jet in major milestone",
-          "url": "https://timesofindia.indiatimes.com/defence/news/watch-rafale-marine-lands-on-ins-vikrant-navy-tests-french-jet-in-major-milestone/articleshow/135357716.cms",
-          "source": "The Times of India"
+          "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
+          "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard",
+          "source": "Cricinfo"
         },
         {
-          "title": "French Fighter Lands on Indian Carrier as Integration Begins",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/french-fighter-lands-on-indian-carrier-as-intergation-begins",
-          "source": "Bloomberg"
+          "title": "Shadman finds reward in patient preparation",
+          "url": "https://www.cricbuzz.com/cricket-news/140702/bangladesh-vs-west-indies-shadman-islam-finds-reward-in-patient-preparation-cricbuzzcom",
+          "source": "Cricbuzz"
         },
         {
-          "title": "Rafale M completes its first landing on India's INS Vikrant aircraft carrier",
-          "url": "https://www.aviacionline.com/english/defence/rafale-m-completes-its-first-landing-on-india-s-ins-vikrant-aircraft-carrier_a6ae49c6c1307d7e9b76c93de",
-          "source": "Aviacionline"
+          "title": "Belief all that’s left for Tigers",
+          "url": "https://www.thedailystar.net/sports/cricket/news/belief-all-thats-left-tigers-4311426",
+          "source": "The Daily Star"
         }
       ]
     }
