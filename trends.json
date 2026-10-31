@@ -1,154 +1,33 @@
 {
-  "updatedAt": "2026-10-31T11:28:26.466Z",
+  "updatedAt": "2026-10-31T12:38:33.470Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 5
     },
     {
-      "category": "경제",
+      "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "스포츠",
       "count": 1
     },
     {
-      "category": "스포츠",
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "재건축",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-31T09:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScTf5ou9XxJ3Yk_KaVf4wBb2nn6HAV2P2m3lk70oUVCiraGCXV9-uxZ-SKgSA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "재건축 아파트값 '억' 소리나게 떨어져…몸테크 열풍 끝? [이슬기의 새집다오]",
-          "url": "https://www.hankyung.com/article/2026102938986",
-          "source": "한국경제"
-        },
-        {
-          "title": "은마 30억선도 흔들 … 강남 재건축 매물 쌓인다",
-          "url": "https://www.mk.co.kr/news/realestate/12191748",
-          "source": "매일경제"
-        },
-        {
-          "title": "압구정 재건축은 수십억 낮춰 거래…강남권 기축은 신고가",
-          "url": "https://www.news1.kr/realestate/general/6336651",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "나는 solo",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRupsm12CIhoGJhGUc4VYuIv6ppkVfeqAI8mAPUJDfaH8LECRvidETHFl6do6Y",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'나솔' 34기 공무원 영철, 뜬금 학력 논란…\"거짓말한 것도 아닌데\"[이슈S]",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016401",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "“언니들 정신 차려!” 데이트 후 깊어지는 여자들의 고민 #나는솔로 EP.277ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638951",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "‘나는 솔로’ 정숙, 영호 정리하고 광수로…34기 러브라인 재편",
-          "url": "https://sports.donga.com/ent/article/all/20261029/134929531/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "이승기",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T10:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrP4KdxmOnkha7yYa79FHaaDqrQYHnuOIj3goZmlya22uguOddgoWu95WvDaU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "이승기 \"김종민 똥 싸느라 공연 5분 늦어\" 폭로",
-          "url": "https://www.segye.com/newsView/20261028505012",
-          "source": "세계일보"
-        },
-        {
-          "title": "김지원 닮은 김종민 ♥11살 연하 아내, 똑똑한 여자라는데 “지식인 울렁증 왜”(이승기2)",
-          "url": "https://m.newsen.com/news_view.php?uid=202610281306222110",
-          "source": "뉴스엔"
-        },
-        {
-          "title": "‘채널 개설’ 이승기, 김종민 ‘행사 지각’ 폭로…”똥 싸러 가서 5분 동안 안 나와” [RE:뷰]",
-          "url": "https://tvreport.co.kr/entertainment/article/1087375/",
-          "source": "TV리포트"
-        }
-      ]
-    },
-    {
-      "keyword": "블리치",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T10:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO8qIG4E-X75BhusMj1hLCzD4pbqFrTno_QSXvi78klS10HZ2RfEqTzQ0wgIA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Bleach Anime Concludes After 22 Years with Special Ending Video",
-          "url": "https://www.crunchyroll.com/news/latest/2026/10/26/bleach-anime-concludes-after-22-years-with-special-ending-video",
-          "source": "Crunchyroll"
-        },
-        {
-          "title": "'BLEACH' Creator Tite Kubo: Blood, Sweat, Tears, and Ink (Cover Story)",
-          "url": "https://hypebeast.com/2026/10/tite-kubo-bleach-hypebeast-magazine-issue-38-cover-story",
-          "source": "Hypebeast"
-        },
-        {
-          "title": "After 20 Years, ‘Bleach’ Has Come to an Elegant, Exhausting, Fitting Finale",
-          "url": "https://gizmodo.com/bleach-thousand-year-blood-war-series-finale-review-anime-tybw-2000831759",
-          "source": "Gizmodo"
-        }
-      ]
-    },
-    {
-      "keyword": "기온",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8A1udPzYtpQj3q_H52KVD_zu8Yhf3n8MNqhZZxpiLP5lk2CAbq6SHSLoYR94",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "[날씨] 내일(토) 새벽에 중부 비…서울 한낮 14℃에 그쳐",
-          "url": "https://m.science.ytn.co.kr/weather/weather_view.php?s_mcd=1000&key=202610301510080002",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "[날씨] 일요일 전국 흐리고 곳곳 비…제주도엔 강한 비바람",
-          "url": "https://www.yna.co.kr/view/AKR20261031039800004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "일요일 전국에 가을비…다음주 아침 기온 0도까지 ‘뚝’",
-          "url": "https://www.chosun.com/national/transport-environment/2026/10/31/47RFMCXPQNG75EKV3GYDAT25CU/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "첼시 맨유",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T10:00:00.000Z",
+      "keyword": "첼시 대 맨유",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-10-31T11:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo380x-GxBeGRA7YB4pgTRNdtOL_-cFfOtFHbmi3pH95ORcCNbw1UJEfgqkg8",
       "category": "스포츠",
       "news": [
@@ -163,109 +42,234 @@
           "source": "베스트일레븐"
         },
         {
-          "title": "맨체스터 유나이티드, 첼시, 그리고 끝없는 감독 교체의 순환.",
-          "url": "https://www.vietnam.vn/ko/man-united-chelsea-va-vong-xoay-thay-tuong-khong-hoi-ket",
+          "title": "프리미어 리그 9라운드 경기 일정: 리버풀과 아스널, 맨체스터 유나이티드와 첼시의 맞대결.",
+          "url": "https://www.vietnam.vn/ko/lich-ngoai-hang-anh-vong-9-liverpool-dai-chien-arsenal-mu-gap-chelsea",
           "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "gs리테일",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T10:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx8GvQUi14oe5skWuzRCM9EsfzVY_RBIzRcx3ZGeSQWGe6Ip5BXwu2_yYUb4c",
+      "keyword": "weather tomorrow",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T11:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMv_ExXAaUDPscIfAY5HELFL7-JMYtrtYZ4929FnilhvQU9ThJFDcwdsDOHq8",
       "category": "기타",
       "news": [
         {
-          "title": "GS리테일, 국가보훈부와 협약…유공자 지원 확대",
-          "url": "https://www.yna.co.kr/view/AKR20261030028000030",
-          "source": "연합뉴스"
+          "title": "IMD weather forecast: Will it rain in November? Chhattisgarh, MP, Arunachal should brace for...",
+          "url": "https://www.theweek.in/news/india/2026/10/31/imd-weather-forecast-will-it-rain-in-november-chhattisgarh-mp-arunachal-should-brace-for.html",
+          "source": "The Week"
         },
         {
-          "title": "보훈부와 손잡고 ‘일상 속 보훈’ 확산",
-          "url": "https://www.donga.com/news/Economy/article/all/20261029/134928168/2",
-          "source": "동아일보"
+          "title": "Heavy rainfall continues in Odisha; yellow alert issued for 14 districts",
+          "url": "https://newsonair.gov.in/heavy-rainfall-continues-in-odisha-yellow-alert-issued-for-14-districts/",
+          "source": "News On AIR"
         },
         {
-          "title": "GS리테일 '나라사랑 활동', 보훈 사회공헌사업으로 확대",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847749",
-          "source": "뉴시스"
+          "title": "Weather tomorrow: IMD forecasts rain, thunderstorms in 16 states; heavy rain alert for Odisha, Andhra Pr",
+          "url": "https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-forecasts-rain-thunderstorms-in-16-states-heavy-rain-alert-for-odisha-andhra-pradesh-gusty-winds-up-to-70-kmph-likely/articleshow/135389998.cms",
+          "source": "The Times of India"
         }
       ]
     },
     {
-      "keyword": "김광규",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuKKa5aENyM919nuumw9G3QzJy4jx9d6vpKVMPcfEKxCnRQBY-KTRS09Vv6YA",
+      "keyword": "thời tiết ngày mai",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T11:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXwmubrkYKC4--_9VIHNJIJOYb_dYKq1M60bWQozmrnJAMsB9HuAeofacx5R8",
       "category": "기타",
       "news": [
         {
-          "title": "김광규, 유재석·하하까지 네 명의 전담 비서 거느린다…‘놀면 뭐하니?’ VIP 하루의 반전",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845810",
-          "source": "제민일보"
+          "title": "Miền Bắc lại bước vào đợt mưa dông từ đêm nay",
+          "url": "https://eva.vn/tin-tuc/mien-bac-lai-buoc-vao-dot-mua-dong-tu-dem-nay-c73a687767.html",
+          "source": "Eva.vn"
         },
         {
-          "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1",
-          "source": "동아일보"
+          "title": "Dự báo thời tiết ngày 01/11/2026: Ngày nắng, đêm có mưa rào và dông vài nơi",
+          "url": "https://moitruong.net.vn/du-bao-thoi-tiet-ngay-01-11-2026-ngay-nang-dem-co-mua-rao-va-dong-vai-noi-103720.html",
+          "source": "moitruong.net.vn"
         },
         {
-          "title": "김광규, 탈모 때문에 헤딩 자제 \"족구에서 져 본 적이 없어\"('놀면뭐하니')",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/31/HA3DEMTDG4ZWGYRWGFSGMNZUMU/",
+          "title": "Dự báo thời tiết đêm 31/10, ngày 1/11/2026",
+          "url": "https://baoquangninh.vn/du-bao-thoi-tiet-dem-3110-ngay-1112026-post3425680.html",
+          "source": "Báo Quảng Ninh"
+        }
+      ]
+    },
+    {
+      "keyword": "버스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T11:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGOizH7jLVTlbhk0B1YhCdN8OQAOukFD8KPyCBrXILzG1TmvRCLwmFb0Qs8RY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"이 버스 가나요?\" 광주 시내버스 노선 개편 첫날 혼선",
+          "url": "https://www.yna.co.kr/view/AKR20261031031300054",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "\"늘 타던 버스 맞나\"",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261031_0002279269&pID=1&cID=&sID=1&type=Main&idx=5",
+          "source": "뉴시스"
+        },
+        {
+          "title": "광주권 시내버스 노선 31일 전면개편…화순 경유 버스도 경로 변경",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6336136",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "국",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T10:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwHq9W3iOjdeXlHL4ZmFjxxBO8ab9YqrQhvyL6asHpZiaPuslTyvnw1USm4s",
+      "category": "경제",
+      "news": [
+        {
+          "title": "사상 최대 규모인 8조4000억원어치 암호화폐 털렸다...北소행 의심",
+          "url": "https://www.chosun.com/international/international_general/2026/10/31/C2B4ZCQE3NBYXMX2AJ5CGIP77I/",
+          "source": "조선일보"
+        },
+        {
+          "title": "바이낸스 해킹에 화들짝…코인 거래소 부랴부랴 보안 강화",
+          "url": "https://www.yna.co.kr/view/AKR20261031034500009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'트레이더트레이터' 흔적 남았다...20분 만에 8.4조 탈탈 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202610311711188193",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "cuaca besok",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T11:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnVeINAVJxkvQBeE922JxaqpnV4ZdWYDAhs825A4UPZXefIxyCVGLuHMulxCg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Hujan Sudah Turun di Beberapa Wilayah, Kapan Suhu Panas Berakhir?",
+          "url": "https://video.kompas.com/watch/1964270/hujan-sudah-turun-di-beberapa-wilayah-kapan-suhu-panas-berakhir",
+          "source": "Kompas.com"
+        },
+        {
+          "title": "Mengapa Hujan Turun Padahal Ramalan Cuaca Cerah? Ini Penjelasan BMKG",
+          "url": "https://malangtimes.com/baca/3331352742/20261029/091900/mengapa-hujan-turun-padahal-ramalan-cuaca-cerah-ini-penjelasan-bmkg",
+          "source": "MalangTIMES"
+        },
+        {
+          "title": "Bagaimana Keadaan Cuaca Besok? Cek dengan 5 Cara Mudah Ini",
+          "url": "https://www.bloombergtechnoz.com/detail-news/126050/bagaimana-keadaan-cuaca-besok-cek-dengan-5-cara-mudah-ini",
+          "source": "Bloomberg Technoz"
+        }
+      ]
+    },
+    {
+      "keyword": "현대이 지웰",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T11:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCkngGsBJNr5yiBgB2HumjS7bn5TqCC5-eflrzNqUeLEdbFyaHjl5o21niPEw",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "340만명 사용 복지포인트 쇼핑몰 ‘현대이지웰’, 해킹으로 개인정보 유출",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146907",
+          "source": "보안뉴스"
+        },
+        {
+          "title": "현대이지웰서 개인정보 유출 사고…사과문 게시",
+          "url": "https://www.yna.co.kr/view/AKR20261030179900030",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "현대이지웰서 개인정보 유출 사고…“유출 규모 파악 중”",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/30/IKHPXYQJXJEN3PFIXPEFAQVVJ4/",
           "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "온라인 산사",
+      "keyword": "원희",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-31T10:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bhTYULESLCZrn9pfgnnGAIGc6spx_PsPKuM-FMmfVWWR-LVbXxGVuYC_Qi8",
-      "category": "기타",
+      "startedAt": "2026-10-31T11:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-E9PpMo3yFpsybgm0-QpopE22rCNLqzLUzQtBiZYCaNutRdo24DqWJNLNz4c",
+      "category": "연예",
       "news": [
         {
-          "title": "\"방구석 누워 108배로 힐링\"…사흘간 60만명 다녀간 온라인 산사",
-          "url": "https://www.yna.co.kr/view/AKR20261031034300005",
-          "source": "연합뉴스"
+          "title": "'놀토' 엔믹스·아일릿, 서로 향한 팬심 고백…훈훈한 칭찬 릴레이",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6338736",
+          "source": "뉴스1"
         },
         {
-          "title": "\"출근 전에 절 가서 108배\"…하루 10만명 몰린 사찰 어디길래 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/30/2026103011042983806",
-          "source": "머니투데이"
+          "title": "엔믹스 릴리 설윤+아일릿 윤아 원희, 이 조합 유닛 짜면 블핑 안 부러울 기세(놀토)",
+          "url": "https://www.newsen.com/news_view.php?uid=202610311005421210&code=100100",
+          "source": "뉴스엔"
         },
         {
-          "title": "요즘은 절도 온라인으로…하루 10만 명 찾은 ’가상 사찰’",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030161626APu",
-          "source": "연합뉴스TV"
+          "title": "엔믹스 설윤, 호기롭게 나섰다가 결국 사과…'놀토' 첫 출연에 당황",
+          "url": "https://www.tenasia.co.kr/article/2026103174424",
+          "source": "텐아시아"
         }
       ]
     },
     {
-      "keyword": "싱가포르",
+      "keyword": "하수도",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-31T10:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGR8ABknAWOkZjMTud-z4bHiyMJ7SHI0kkd5dU7ARyXUVrrMv6qAz5wDer_Zo",
-      "category": "경제",
+      "startedAt": "2026-10-31T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr9BjkDvZqn1ANtsSHzZHABUU3F_B0Xy4y1A2WbqRjaqLnMOGmXAtNYFKDVgU",
+      "category": "기타",
       "news": [
         {
-          "title": "안산 청년 창업기업 7곳, 싱가포르서 투자·구매 의향서 체결… 해외시장 진출 모색",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3444767",
+          "title": "거제 계룡로·통영 봉평동 ‘하수도 정비’ 920억 투입",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699537",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "충남도, 아산·서산·부여 침수 예방에 1650억 투입… 배수시설 대수술",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353535",
+          "source": "녹색경제신문"
+        },
+        {
+          "title": "[인천소식] 계양구, 1천168억원 규모 하수도 정비사업 추진",
+          "url": "https://www.yna.co.kr/view/AKR20261030140200065",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "동행",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T10:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlwRX_J57t8ZVxMDpb7FRt4iCuq_AAyuWcaqkRg4WpP_sWEh_GLPE-hbr0fPM",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "수원문화재단, 수원시 동네 37곳서 무료 문화프로그램 39개 운영",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444685",
           "source": "천지일보"
         },
         {
-          "title": "부산 스타트업 4개사, 싱가포르 혁신기술 전시회서 해외시장 진출 모색",
-          "url": "https://www.viva100.com/article/20261030500434",
-          "source": "브릿지경제"
+          "title": "수원문화재단, 우리 동네 문화여행 월간 동행공간 '문화 프리(free) 패스' 운영",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=800417",
+          "source": "일간투데이"
         },
         {
-          "title": "안산시, 청년 창업기업 해외 진출 지원…싱가포르서 교류 프로그램 진행",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738456",
-          "source": "국제뉴스"
+          "title": "수원문화재단, 동네 문화공간 37곳서 무료 문화여행…‘문화 프리패스’ 운영",
+          "url": "https://www.jnewstimes.com/news/article.html?no=769717",
+          "source": "중앙뉴스타임스"
         }
       ]
     }
