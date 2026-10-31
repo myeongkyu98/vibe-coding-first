@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-31T20:28:02.918Z",
+  "updatedAt": "2026-10-31T21:29:04.656Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 6
+      "count": 7
     },
     {
       "category": "기타",
-      "count": 3
+      "count": 2
     },
     {
       "category": "IT·과학",
@@ -16,34 +16,34 @@
   ],
   "items": [
     {
-      "keyword": "바이에른 대 도르트문트",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-10-31T16:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_qeNJAfxoXEteVYdTVAdH2imkbwLAv5B0x7OhWYyQpd-AaCHdEMGjHVinA1U",
-      "category": "스포츠",
+      "keyword": "김민재",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-10-31T20:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6pctyjhFsbeq_ALshQz6uEztOPbUamuyQmW-ci0prMyes_hvYi5Ki3mW5hQ",
+      "category": "기타",
       "news": [
         {
-          "title": "바이에른 뮌헨 vs 보루시아 도르트문트 예측: 선두 자리를 향한 경쟁이 더욱 치열해집니다.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bayern-munchen-vs-borussia-dortmund-cuoc-dua-ngoi-dau-nong-len",
-          "source": "Vietnam.vn"
+          "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
+          "url": "https://www.osen.co.kr/article/G1112901786",
+          "source": "OSEN"
         },
         {
-          "title": "'김민재 선발! 요나탄 타는 벤치' 콤파니의 선택은 韓 철기둥이었다...바이에른, 도르트문트와 분데스리가 1위 놓고 정면충돌 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/202611010133778988O",
+          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O",
           "source": "머니투데이"
         },
         {
-          "title": "분데스리가 바이에른 뮌헨 대 도르트문트 생중계 링크",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bayern-munich-vs-dortmund-tai-bundesliga-1792458.ldo",
-          "source": "Laodong.vn"
+          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
+          "source": "조선일보"
         }
       ]
     },
     {
       "keyword": "바르셀로나 대 알라베스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-31T19:10:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREeT7hqSLtJOy-aWMrSDM9UUc1LXS_X76Xms40uYIV0hPTQ8tAp6_kh2LyEQI",
       "category": "스포츠",
@@ -70,130 +70,80 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-10-31T18:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR9f630CJoYrStV4LhJffxlsk06z7md3oCQ3VZjJuFRwI17Ih4hp0AEQNGjyw",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxHu0OuoW99u9iUFVR0UQvk9Fmijeq0vEbpKbo__rcDRr_vEhCxVUqBwIR4vg",
       "category": "스포츠",
       "news": [
         {
-          "title": "\"韓 스타 또 기회 살렸다!\" 오현규, 투톱서도 결승골 작렬...튀르키예 매체도 반했다 \"주전 블라호비치, 더 큰 압박 느낄 거야\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301444773989O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "손흥민 떠난 토트넘이 다시 한국인 골잡이 주목 \"잉글랜드에 완벽히 들어맞는 공격수\"…오현규, 블라호비치와 경쟁하더니 EPL도 주목",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016703",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "‘韓 국대’ 오현규, 오는 1월 ‘프리미어리그 입성’ 토트넘 유니폼 입고 가능할까···“여름은 몰라도 겨울 이적...",
-          "url": "https://sports.khan.co.kr/article/202610301919003",
+          "title": "‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...",
+          "url": "https://sports.khan.co.kr/article/202611010606003",
           "source": "스포츠경향"
+        },
+        {
+          "title": "프리미어 리그 토트넘 대 크리스탈 팰리스 점수 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-tottenham-vs-crystal-palace-tai-premier-league-1792160.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "“지금도 토트넘 그립다” 손흥민 친정 사랑 여전하네…토트넘 시절 회상하며 ‘3연승 기원’",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100127",
+          "source": "포포투"
         }
       ]
     },
     {
-      "keyword": "크리스타 파이크",
+      "keyword": "barcelona vs alavés",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-10-31T16:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmx8PEMdpEO-WgKlmok_S0tD9Kezl0GB2R28bK2ppsMHZmpxeKGflipuJNXSQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'독극물 사형' 생존 美죄수 \"육체와 마음에 통증\"…재집행 거부",
-          "url": "https://www.yna.co.kr/view/AKR20261031047700009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "독극물 주입에도 살아남은 美 사형수…“몸·영혼에 깊은 상처”",
-          "url": "https://www.kyeonggi.com/article/20261031580092",
-          "source": "경기일보"
-        },
-        {
-          "title": "“홀로 깨어난 후 매 순간이 고통” 약물 사형실패 女",
-          "url": "https://www.munhwa.com/article/11627774",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "트위치",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T17:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
-          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
-          "url": "https://news.mtn.co.kr/article/2026103016220346703",
-          "source": "MTN 머니투데이방송"
-        },
-        {
-          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
-          "url": "https://www.hankyung.com/article/202610306269i",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "twitch",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T17:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PlswP_ZBEWTJ1tcnCgAXeYduQdp4iF-knBzWQX8pjad-mK90dpVUp-ciOOI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Twitch gains 4% to 4.51bn hours in Q3 as Kick grows 30.7%",
-          "url": "https://ppc.land/twitch-gains-4-to-4-51bn-hours-in-q3-as-kick-grows-30-7/",
-          "source": "PPC Land"
-        },
-        {
-          "title": "'Elden Ring' Will Be Biggest Movie At A Market, Amazon Joins A24 Film",
-          "url": "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/",
-          "source": "Deadline"
-        },
-        {
-          "title": "Forget 'The Winds of Winter,' George R. R. Martin's New Epic Fantasy Is Reportedly A24’s Most Expensive Movie Yet",
-          "url": "https://www.imdb.com/news/ni66087624/?ref_=nmnw_art_perm",
-          "source": "IMDb"
-        }
-      ]
-    },
-    {
-      "keyword": "레알 베티스 대 말라가",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJZ0gWYXrdnj6OSfsZZM6vP8s-exwkz_2aopL1Cupqrk-jTqo1ro9MHU00PoM",
+      "startedAt": "2026-10-31T19:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHbvPWh5s6VhSZQxrE-vqjTItNsLhtEM1yLkOw2kx9jR9faEbcn2sthKL-1yc",
       "category": "스포츠",
       "news": [
         {
-          "title": "Notre Dame 35-13 Navy (Oct 31, 2026) Box Score",
-          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401859185",
-          "source": "ESPN"
+          "title": "Opción ‘Licha’ Martínez en el Atlético",
+          "url": "https://as.com/futbol/internacional/opcion-licha-martinez-en-el-atletico-f202610-n/",
+          "source": "Diario AS"
         },
         {
-          "title": "Blues 5-4 Red Wings (Oct 31, 2026) Game Recap",
-          "url": "https://www.espn.com/nhl/recap/_/gameId/401892615",
-          "source": "ESPN"
+          "title": "¿Se avecina la salida de Lisandro Martinez? El Barcelona estudia el sorprendente fichaje del defensa del Manchester United tras su encontronazo con Jason Wilcox",
+          "url": "https://es-us.noticias.yahoo.com/deportes/avecina-salida-lisandro-martinez-barcelona-084016734.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Barcelona vs. Aston Villa (Nov 3, 2026) Odds and Spread",
-          "url": "https://www.espn.com/soccer/odds/_/gameId/401915387",
-          "source": "ESPN"
+          "title": "Vídeo: Lamine Yamal responde a la decepción del Balón de Oro con un gol de misil",
+          "url": "https://www.goal.com/es-mx/noticias/video-lamine-yamal-responde-a-la-decepcion-del-balon-de-oro-con-un-gol-de-misil/bltfd7c2f69ac76cc13",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "keyword": "thứ hạng của chelsea gặp man utd",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T19:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlhasevtQMxoCfEx8Ux2NR70kP_5vi8y1--YnZ34wZytod0dxvCv-vwzlKRQc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Nhận định Chelsea vs MU, 19h30 ngày 31/10/2026 - Ngoại hạnh Anh",
+          "url": "https://thethao247.vn/190556-nhan-dinh-chelsea-vs-mu-ac-mong-tai-london-19h30-ngay-31-10-2026-c288-d442731.html",
+          "source": "Thể Thao 247"
+        },
+        {
+          "title": "\"82 giây mà nhận 2 thẻ vàng\" Huấn luyện viên Man Utd lạnh lùng phớt lờ, Các huyền thoại Anh cũng nổi giận... Thua Chelsea 0-2→Sự nhục nhã '9 trận không thắng' sau 38 năm",
+          "url": "https://www.starnewskorea.com/vi/sports/2026/11/01/2026110101432482133",
+          "source": "스타뉴스"
+        },
+        {
+          "title": "CĐV ngán ngẩm với pha phòng ngự \"tấu hài\" của dàn sao MU",
+          "url": "https://bongda.com.vn/cdv-ngan-ngam-voi-pha-phong-ngu-tau-hai-cua-dan-sao-mu-d853295.html",
+          "source": "bongda.com.vn"
         }
       ]
     },
     {
       "keyword": "spurs vs palace",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-31T18:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-di5YGL6l5JD5i3peGz1d6NQiCm78yVdUSMz5MQRoUb1z_yRtTDrIDhb78bg",
       "category": "스포츠",
@@ -216,12 +166,87 @@
       ]
     },
     {
+      "keyword": "트위치",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T17:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
+          "url": "https://news.mtn.co.kr/article/2026103016220346703",
+          "source": "MTN 머니투데이방송"
+        },
+        {
+          "title": "\"덜어낼수록 더 모였다\"…K- MMORPG 시장, 공식을 바꾸니 흥행한다",
+          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88512",
+          "source": "인더스트리뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "레알 베티스 대 말라가",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T18:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Real Betis vs Málaga: Spanish La Liga stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cr78pxn97j46t",
+          "source": "BBC"
+        },
+        {
+          "title": "🚨Confirmed XIs: Emotional Andalusian derby at La Cartuja",
+          "url": "https://sports.yahoo.com/articles/confirmed-xis-emotional-andalusian-derby-164000709.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Real Betis vs Malaga - Prediction, where to watch, kick-off time and line-ups 31-10-2026",
+          "url": "https://onefootball.com/en/betting/predictions/real-betis-vs-malaga-31-10-2026",
+          "source": "OneFootball"
+        }
+      ]
+    },
+    {
+      "keyword": "mkoi",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T18:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3wTiZry95uA2_vmifBsSFvfczcdk4rs2x0jLxuSh3BXvCCso7oqhzkqchzSM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "CTBC Flying Oyster vs. Karmine Corp: Game 2 Winner",
+          "url": "https://www.coinbase.com/predictions/event/KXLOLMAP-26OCT291900CFOKC-2",
+          "source": "Coinbase"
+        },
+        {
+          "title": "Europe's Survivor Is KC! Defeats MKOI to Advance to Quarterfinals",
+          "url": "https://www.invenglobal.com/articles/27979/europes-survivor-is-kc-defeats-mkoi-to-advance-to-quarterfinals",
+          "source": "Inven Global"
+        },
+        {
+          "title": "Karmine Corp sweep CTBC Flying Oyster to eliminate last LCP team at Worlds 2026",
+          "url": "https://www.ginx.tv/en/karmine-corp-sweep-ctbc-flying-oyster-to-eliminate-last-lcp-team-at-worlds-2026",
+          "source": "GINX TV"
+        }
+      ]
+    },
+    {
       "keyword": "ngoại hạng anh",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-31T17:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo18WTjHGjprqLnrm5GW4SUwN5VuAn0yDgse0UIMzmdCEBUMgrujtkfEie3Go",
-      "category": "스포츠",
+      "category": "기타",
       "news": [
         {
           "title": "Kết quả bóng đá Man City - Brighton: Đánh sập Etihad (Ngoại hạng Anh)",
@@ -229,39 +254,14 @@
           "source": "Tin tức 24h"
         },
         {
-          "title": "Man City thua trận thứ hai liên tiếp ở Ngoại hạng Anh",
-          "url": "https://vnexpress.net/man-city-thua-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5139255.html",
-          "source": "VnExpress"
+          "title": "Chấm điểm Man City: Haaland bị phong tỏa; ''Cánh én'' Doku",
+          "url": "https://yeuthethao.net.vn/cham-diem-man-city-haaland-bi-phong-toa-canh-en-doku-d900800.html",
+          "source": "yeuthethao.net.vn"
         },
         {
-          "title": "Dự đoán kết quả và đội hình ra sân trận Man City vs Brighton",
-          "url": "https://vov.vn/the-thao/du-doan-ket-qua-va-doi-hinh-ra-san-tran-man-city-vs-brighton-post1346001.vov",
-          "source": "VOV.VN"
-        }
-      ]
-    },
-    {
-      "keyword": "헐 시티 대 입스위치",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T16:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQtMg_A1EsGhW2hPicCf74eaP0rKRc7ublFvtydOzPzVGPpofwytahfFDlPs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
-          "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t",
-          "source": "BBC"
-        },
-        {
-          "title": "Analysis: Missed opportunity for both sides?",
-          "url": "https://sports.yahoo.com/articles/analysis-missed-opportunity-both-sides-175121974.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401878763",
-          "source": "ESPN"
+          "title": "Man City thua Brighton ngay tại sân Etihad",
+          "url": "https://laodong.vn/bong-da-quoc-te/man-city-thua-brighton-ngay-tai-san-etihad-1792605.ldo",
+          "source": "Laodong.vn"
         }
       ]
     }
