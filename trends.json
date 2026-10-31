@@ -1,53 +1,53 @@
 {
-  "updatedAt": "2026-10-31T03:38:17.701Z",
+  "updatedAt": "2026-10-31T04:36:55.577Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 6
-    },
-    {
       "category": "기타",
-      "count": 2
+      "count": 5
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
+      "count": 3
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "골든 스테이트 대 la 레이커스",
+      "keyword": "공휴일",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-10-31T01:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe3BfLlu5Go4HhTdwi-QHsjV0w-XoaZXExriWYMYEm2fzeEuARiIqA9_u3I1M",
-      "category": "스포츠",
+      "startedAt": "2026-10-31T02:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNyZnLBOdOZw0jQWgzVhhBpamzPWUPxlJdwyLvxfglyHLV6ChDBPimK44zWY",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "Lakers vs. Warriors picks, odds: Golden State could pull off upset to begin NBA Cup play",
-          "url": "https://www.cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play/",
-          "source": "CBS Sports"
+          "title": "노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738221",
+          "source": "국제뉴스"
         },
         {
-          "title": "Luka Doncic brings extra motivation to Lakers vs Warriors NBA Cup clash on ESPN tonight",
-          "url": "https://www.foxnews.com/outkick/luka-doncic-brings-extra-motivation-lakers-vs-warriors-nba-cup-clash-espn-tonight",
-          "source": "Fox News"
+          "title": "2027년 10월 연휴, 연차 4일로 10일 쉰다",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=398553",
+          "source": "비건뉴스"
         },
         {
-          "title": "Lakers Notes: Luka, Williams, Grimes, Kushner, Iger, Lovering",
-          "url": "https://www.hoopsrumors.com/2026/10/lakers-notes-luka-williams-grimes-kushner-iger-lovering.html",
-          "source": "Hoops Rumors"
+          "title": "2027년 공휴일 총정리, 연차 언제 쓰면 좋을까?",
+          "url": "https://www.jobplanet.co.kr/contents/news-8549",
+          "source": "잡플래닛"
         }
       ]
     },
     {
       "keyword": "삼성 갤럭시 폴드",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-10-31T02:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWkVNCGsg4KGO9lcRjVImirway1xh5VBJ1yxzVqXdPopZeRwLXLW61c1Tld_0",
       "category": "IT·과학",
@@ -70,27 +70,117 @@
       ]
     },
     {
-      "keyword": "김강민",
+      "keyword": "india vs uae",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-31T01:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFYpijSDDkY9Q2NATR_dmKNuLQAt2_IjMbk-8JY3k_lMC7LJfaay9p1qbQaXs",
+      "startedAt": "2026-10-31T02:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYNgdYqusGyxIFsWi0UPW25pMLe1deAejwmk3fcVV7LooyS0zuryDYemSlpk",
       "category": "스포츠",
       "news": [
         {
-          "title": "프로야구 NC, 김강민 외야 코디네이터 영입…KBO리그 최초",
-          "url": "https://www.yna.co.kr/view/AKR20261031022000007",
-          "source": "연합뉴스"
+          "title": "India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets",
+          "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece",
+          "source": "Sportstar"
         },
         {
-          "title": "SK 왕조 인연인가, NC가 짐승을 품었다...\"외야 수비 경쟁력 강화\" NC 김강민 외야 코디네이터 영입 [공식발표]",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/31/GA2DAZJTMU2GMN3BHFTGMMLCGY/",
-          "source": "조선일보"
+          "title": "UAE:97/0 (4.2) | Live Cricket Score | UAE vs IND | hk sixes 2026 | Cricket Scoreboard",
+          "url": "https://sports.ndtv.com/cricket/uae-vs-ind-scorecard-live-cricket-score-hong-kong-sixes-2026-match-12-uain10312026275383",
+          "source": "NDTV Sports"
         },
         {
-          "title": "'말년은 한화-지도자는 NC서' 김강민, 외야 코디네이터로 창원행 \"외야 수비 경쟁력 높이겠다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103110050732499",
+          "title": "India Vs UAE Highlights, Hong Kong Sixes 2026: Khalid Shah's Unbeaten 52 Powers UAE To Six-Wicket Win",
+          "url": "https://www.outlookindia.com/sports/cricket/india-vs-united-arab-emirates-live-score-hong-kong-sixes-2026-ind-vs-uae-match-commentary-scorecard-latest-updates",
+          "source": "Outlook India"
+        }
+      ]
+    },
+    {
+      "keyword": "이지현",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T03:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR13HtZQY8egKbKP7ufHbpV90F1SxV1yjkXlTdSP5c1Zfsa4IuAhKgzL0tkAsU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023354313811",
           "source": "머니투데이"
+        },
+        {
+          "title": "“아빠랑 살고 싶어” 김현숙, 아들 한마디에 자책­…48세에 대학원 진학",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134937445/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'막영애' 김현숙 \"싱글맘 자격지심 생겨…아들이 아빠랑 살고 싶어 해\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6338102",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "jtbc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T03:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRidY6d6ksENQcwouedfpMaCKQEyNIiCaLpKcd4c5F63WR3DfjqDQxja26FDIA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Chefs discuss weight loss and similar looks in JTBC special video",
+          "url": "https://www.famtimes.co.kr/en/news/articleView.html?idxno=703790",
+          "source": "www.famtimes.co.kr"
+        }
+      ]
+    },
+    {
+      "keyword": "제주 삼다수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T03:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST4Elz2oxglmTBAO3Bk6cFL2qFyaR9dIHTR9nHKR7VqyT9oLrWzgWMip4-lNQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“삼다수인 줄 알았는데”…무라벨 생수 늘자 식별 혼선",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05162726645618168&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "라벨 뗀 제주삼다수, 한라산 새기고 페트병 무게 줄였다",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134938632/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "제주삼다수 마스터스 첫 우승 장은수, 삼다수 공장 방문",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845603",
+          "source": "제민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "jtbc 마라톤",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T02:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAUkkZtoO7MjsbIaZsO7rnbfCDGrlXp69qrD8cIiFnz3nvLEi4AUw7qVqvmsI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054",
+          "source": "시민일보"
+        },
+        {
+          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001",
+          "source": "뉴스1"
+        },
+        {
+          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12",
+          "source": "로이슈"
         }
       ]
     },
@@ -99,95 +189,30 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-10-31T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2towA9YO795gW188NqiR9qu2EFZkTuqTC9k3R_xjT-6iW8imSOrilHZbyCUc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTX_HYrofG__Ysu0EvFSIXs3g67G7-6georOHE0aatHTk6T1A-I_EOGVb6R-p8",
       "category": "스포츠",
       "news": [
         {
-          "title": "'하드캐리' 41세 맞아? '노익장' 르브론 제임스가 위기의 슈퍼팀 구했다→클러치 지배하며 또 디펜딩 챔피언 격파",
-          "url": "http://www.rookie.co.kr/news/articleView.html?idxno=129331",
-          "source": "루키"
+          "title": "NBA 필라델피아, '3쿼터 0-17' 열세 딛고 극적 뒤집기…맥시 27점",
+          "url": "https://www.news1.kr/sports/basketball/6336248",
+          "source": "뉴스1"
         },
         {
-          "title": "르브론, 국가 연주 중 '골프 스윙' 황당 기행... 트럼프 대통령 \"수치스럽다\" 비난→NBA 선배도 \"선 넘었다\" 한숨 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103021312279262",
-          "source": "머니투데이"
+          "title": "디펜딩 챔피언 또 꺾었다! '릅신' 르브론 20득점 9R 8AS→필라델피아, 뉴욕 제압→동부 콘퍼런스 공동 선두",
+          "url": "https://www.mydaily.co.kr/page/view/2026103112435258273",
+          "source": "마이데일리"
         },
         {
-          "title": "국가 나오는데… 딴짓한 르브론, 코트 뜬 WNBA 선수들",
-          "url": "https://www.chosun.com/international/international_general/2026/10/24/HP2PJQZXM5AAPIP2KNYLIIDGPA/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "배달",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T02:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5rzmk8k4rbOeaOhiCoNrPONS1EoZMto6gsQ2DwmAeXJjf63_necVQpzRvND4",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "외국인 불법행위 범정부 대응 강화…불법 배달·체류 집중단속",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974645&pWise=sub&pWiseSub=C1",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "“배달 알바하다 추방될 수도”…정부, 외국인 라이더 집중 단속",
-          "url": "https://www.kyeonggi.com/article/20261030580297",
-          "source": "경기일보"
-        },
-        {
-          "title": "법무부 \"제주 무비자 제도 악용 외국인 집중 단속\"",
-          "url": "https://www.chosun.com/national/court_law/2026/10/30/QSKFW5ATZRCMZCW7FZBFRUMYL4/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "sco vs sl",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T01:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmSkBb8xz2jJE2u_M_ptyqb6LSwcSm5VA5cUpZzTlXDlkTGXXR9MqjoYPkthY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "SCO:124/3 (5.1) | Live Cricket Score | SCO vs SL | hk sixes 2026 | Cricket Scoreboard",
-          "url": "https://sports.ndtv.com/cricket/sco-vs-sl-scorecard-live-cricket-score-hong-kong-sixes-2026-match-11-scsl10312026275382",
-          "source": "NDTV Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "oman vs afghanistan",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T01:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvtCISw8VdIBh9iRZ1AdZ5k9AXfQ9Jk7uWDEGTsOd3uvutuHu18TeYfoh0cLw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Live Cricket Score: Full Scorecard & Commentary",
-          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275420.html",
-          "source": "Firstpost"
-        },
-        {
-          "title": "Afghanistan Under-19s tour of Oman - ODI -",
-          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010703/afghanistan-under-19s-tour-of-oman-1",
-          "source": "Cricketnmore"
-        },
-        {
-          "title": "Live Cricket Score: Full Scorecard & Commentary",
-          "url": "https://www.firstpost.com/firstcricket/cricket-live-score/afghanistan-under-19-vs-oman-under-19-youth-odi-live-cricket-score-full/15831/275419.html",
-          "source": "Firstpost"
+          "title": "'올스타 빅맨 없이도 3연승 질주' 커닝햄, \"팀이 하나로 뭉쳤다는 느낌이 있다\"",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065575344343172",
+          "source": "바스켓코리아"
         }
       ]
     },
     {
       "keyword": "이란",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-10-31T02:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd8hpz1DWaxKNQjPK8RCXOCs03q5OlPuthkpNhex9UDc6N5ItfzqlhUo7wPO8",
       "category": "기타",
@@ -198,64 +223,39 @@
           "source": "경향신문"
         },
         {
-          "title": "트럼프 \"이란 전쟁 곧 마무리될 것\"‥이란 \"유조선 2척 운항 중지시켜\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6862099_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "이스라엘에 미군 수송기 10대 도착…이란전 재개 준비하나",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848006",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "어벤져스 둠스데이",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T01:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pemXrtvC5MHp-P3Ow-pdA_Q2g3otO9ZzhxR186XBvIOJn3Of7W0NsglKJsI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘프로페서 X’와 ‘국민 아버지’…시대의 얼굴들이 떠났다 [현장영상]",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699902",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "'엑스맨' 시리즈 패트릭 스튜어트, 86세로 별세…할리우드 추모 열기",
-          "url": "https://www.ytn.co.kr/_ln/0117_202610300813399772",
-          "source": "YTN"
-        },
-        {
-          "title": "'엑스맨' 프로페서X 하늘나라로…배우 패트릭 스튜어트 별세",
-          "url": "https://www.yna.co.kr/view/AKR20261030010200075",
+          "title": "트럼프 \"이란과 대화 중…이란戰에 쓴 돈 베네수서 만회\"",
+          "url": "https://www.yna.co.kr/view/AKR20261031009400071",
           "source": "연합뉴스"
+        },
+        {
+          "title": "\"이란과 대화, 전쟁 곧 끝나\" 트럼프 장담에도 유가는 최고치",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610311119306799_005.html",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "hong kong sixes",
+      "keyword": "ins",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-31T01:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWwE6-_JXY4qB5S1Jct1m6C0AC0CB2Z5LGTaSfnTk7xhOPpPIzGg6mjWAGhwI",
+      "startedAt": "2026-10-31T02:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhPLVDvRFWo3YqNdTWC6Hhkr5iixTOiRj56m7H3e4J1uxq0AtZ-2eA5iD5z-4",
       "category": "기타",
       "news": [
         {
-          "title": "Hong Kong Sixes: Shashank effort in vain as Pakistan thumps India",
-          "url": "https://sportstar.thehindu.com/cricket/india-vs-pakistan-hong-kong-sixes-2026-match-result-highlights-news/article71645140.ece",
-          "source": "Sportstar"
+          "title": "Watch: Rafale Marine lands on INS Vikrant; Navy tests French jet in major milestone",
+          "url": "https://timesofindia.indiatimes.com/defence/news/watch-rafale-marine-lands-on-ins-vikrant-navy-tests-french-jet-in-major-milestone/articleshow/135357716.cms",
+          "source": "The Times of India"
         },
         {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/175120/player/9693/bowling?inningsId=2",
-          "source": "Cricbuzz"
+          "title": "French Fighter Lands on Indian Carrier as Integration Begins",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/french-fighter-lands-on-indian-carrier-as-intergation-begins",
+          "source": "Bloomberg"
         },
         {
-          "title": "Pakistan PM Congratulates Team for Hong Kong Sixes Win Over India, Gets Trolled",
-          "url": "https://sports.ndtv.com/cricket/pakistan-pm-shehbaz-sharifs-post-after-hong-kong-sixes-win-over-india-has-social-media-talking-12261309",
-          "source": "NDTV Sports"
+          "title": "Rafale M completes its first landing on India's INS Vikrant aircraft carrier",
+          "url": "https://www.aviacionline.com/english/defence/rafale-m-completes-its-first-landing-on-india-s-ins-vikrant-aircraft-carrier_a6ae49c6c1307d7e9b76c93de",
+          "source": "Aviacionline"
         }
       ]
     }
