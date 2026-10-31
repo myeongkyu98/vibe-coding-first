@@ -1,28 +1,87 @@
 {
-  "updatedAt": "2026-10-31T21:29:04.656Z",
+  "updatedAt": "2026-10-31T22:29:06.176Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 7
+      "category": "기타",
+      "count": 6
     },
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 2
     },
     {
       "category": "IT·과학",
       "count": 1
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "삼성전자",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-10-31T20:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSNfcLrODb3MB0kDIZicbPTshOy4leK8rEzfZFXtpU1sdID4MTwW6ra5QySc",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "미래의 키보드는 키가 달랑 13개?…샘 올트먼, 삼성에 들고 왔다",
+          "url": "https://www.donga.com/news/It/article/all/20261031/134942839/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "샘 올트먼, 삼성 핵심 경영진과 AI 미래 논의… 반도체·데이터센터 협력 확대 기대",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=845821",
+          "source": "제민일보"
+        },
+        {
+          "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
+          "url": "https://www.etnews.com/20261031000056",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "태풍",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-10-31T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1uCnU74YTfv0WlYLQ4jMZrWcVAZT_ZJXpmZH522b4mPEdZSfSgBlwd-r6yKw",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "강도 4 태풍 '인파' 경로 바뀐다…일본 남쪽서 다시 북상",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645618496&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "31호 태풍 ’인파’ 북상…10월 태풍 어디로?",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030052801FCT",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "\"사람 날아갈 정도\" 31호 태풍 '인파' 북상 중…한반도 영향은? - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/30/2026103009425625443",
+          "source": "머니투데이"
+        }
+      ]
+    },
     {
       "keyword": "김민재",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-10-31T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6pctyjhFsbeq_ALshQz6uEztOPbUamuyQmW-ci0prMyes_hvYi5Ki3mW5hQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6SrTyw8FoPxlmLbuxHVPxbdMHfFUQOR8wcSHbLnMl89rSD1Gru-Fji1tvt7o",
       "category": "기타",
       "news": [
+        {
+          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
+          "source": "조선일보"
+        },
         {
           "title": "\"김민재가 더 잘한다\" 바이에른 주전 경쟁 판도 뒤집혔다...독일 국대 수비수 벤치 신세, 에이전트는 구단과 극비 회담",
           "url": "https://www.osen.co.kr/article/G1112901786",
@@ -32,11 +91,6 @@
           "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성 - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/10/31/202610311059776900O",
           "source": "머니투데이"
-        },
-        {
-          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
-          "source": "조선일보"
         }
       ]
     },
@@ -45,13 +99,13 @@
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-10-31T19:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREeT7hqSLtJOy-aWMrSDM9UUc1LXS_X76Xms40uYIV0hPTQ8tAp6_kh2LyEQI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_rNg3QwPP-sT-6PPVuvHn8w7TqerPN9oJwGMV6sAYckCmYDgjWaRm0Uwled0",
       "category": "스포츠",
       "news": [
         {
-          "title": "바르셀로나 vs 알라베스 예측: 원정팀은 부진을 끝내기 위해 필사적으로 노력할 것이다.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-alaves-khach-quyet-chan-da-sa-sut",
-          "source": "Vietnam.vn"
+          "title": "[laliga.review] '야말-하피냐 나란히 멀티골 폭발!' 바르셀로나, 알라베스 6-1 대파…라리가 선두 탈환!",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100139",
+          "source": "포포투"
         },
         {
           "title": "라리가 바르셀로나 대 알라베스 축구 예측",
@@ -59,209 +113,159 @@
           "source": "Laodong.vn"
         },
         {
-          "title": "‘공격력은 막강한데 수비가 문제’ 바르셀로나, 겨울에 즉시전력감 CB 영입 나선다...주요 타겟은 4명!",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100055",
-          "source": "포포투"
-        }
-      ]
-    },
-    {
-      "keyword": "토트넘",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-31T18:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxHu0OuoW99u9iUFVR0UQvk9Fmijeq0vEbpKbo__rcDRr_vEhCxVUqBwIR4vg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...",
-          "url": "https://sports.khan.co.kr/article/202611010606003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "프리미어 리그 토트넘 대 크리스탈 팰리스 점수 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-tottenham-vs-crystal-palace-tai-premier-league-1792160.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "“지금도 토트넘 그립다” 손흥민 친정 사랑 여전하네…토트넘 시절 회상하며 ‘3연승 기원’",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100127",
-          "source": "포포투"
+          "title": "바르셀로나, 엘클라시코 패배 이어 수비진 비상⋯에스파르트 7주 결장",
+          "url": "https://www.etoday.co.kr/news/view/2640429",
+          "source": "이투데이"
         }
       ]
     },
     {
       "keyword": "barcelona vs alavés",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-10-31T19:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHbvPWh5s6VhSZQxrE-vqjTItNsLhtEM1yLkOw2kx9jR9faEbcn2sthKL-1yc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHcjvsfJ7a_f1YL6wQNJutY-D81cEKNG_iZUOUSz30JbVtCWrn3uXSnT2kfA",
       "category": "스포츠",
       "news": [
         {
-          "title": "Opción ‘Licha’ Martínez en el Atlético",
-          "url": "https://as.com/futbol/internacional/opcion-licha-martinez-en-el-atletico-f202610-n/",
-          "source": "Diario AS"
+          "title": "6-1. El líder se redime de la derrota en el clásico con una goleada ante el Alavés",
+          "url": "https://holanews.com/6-1-el-lider-se-redime-de-la-derrota-en-el-clasico-con-una-goleada-ante-el-alaves/",
+          "source": "HolaNews"
         },
         {
-          "title": "¿Se avecina la salida de Lisandro Martinez? El Barcelona estudia el sorprendente fichaje del defensa del Manchester United tras su encontronazo con Jason Wilcox",
-          "url": "https://es-us.noticias.yahoo.com/deportes/avecina-salida-lisandro-martinez-barcelona-084016734.html",
+          "title": "Barça-Alavés: Fermín ESTIRA la ventaja",
+          "url": "https://es-us.noticias.yahoo.com/deportes/bar%C3%A7a-alav%C3%A9s-ferm%C3%ADn-estira-ventaja-203800126.html",
           "source": "Yahoo"
         },
         {
-          "title": "Vídeo: Lamine Yamal responde a la decepción del Balón de Oro con un gol de misil",
-          "url": "https://www.goal.com/es-mx/noticias/video-lamine-yamal-responde-a-la-decepcion-del-balon-de-oro-con-un-gol-de-misil/bltfd7c2f69ac76cc13",
-          "source": "Goal.com"
+          "title": "Liga | Raphinha y Lamine Yamal se divierten en la goleada del FC Barcelona",
+          "url": "https://www.fichajes.com/a5092315262921039348-liga-raphinha-y-lamine-yamal-se-divierten-en-la-goleada-del-fc-barcelona",
+          "source": "Fichajes.com"
         }
       ]
     },
     {
-      "keyword": "thứ hạng của chelsea gặp man utd",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T19:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlhasevtQMxoCfEx8Ux2NR70kP_5vi8y1--YnZ34wZytod0dxvCv-vwzlKRQc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Nhận định Chelsea vs MU, 19h30 ngày 31/10/2026 - Ngoại hạnh Anh",
-          "url": "https://thethao247.vn/190556-nhan-dinh-chelsea-vs-mu-ac-mong-tai-london-19h30-ngay-31-10-2026-c288-d442731.html",
-          "source": "Thể Thao 247"
-        },
-        {
-          "title": "\"82 giây mà nhận 2 thẻ vàng\" Huấn luyện viên Man Utd lạnh lùng phớt lờ, Các huyền thoại Anh cũng nổi giận... Thua Chelsea 0-2→Sự nhục nhã '9 trận không thắng' sau 38 năm",
-          "url": "https://www.starnewskorea.com/vi/sports/2026/11/01/2026110101432482133",
-          "source": "스타뉴스"
-        },
-        {
-          "title": "CĐV ngán ngẩm với pha phòng ngự \"tấu hài\" của dàn sao MU",
-          "url": "https://bongda.com.vn/cdv-ngan-ngam-voi-pha-phong-ngu-tau-hai-cua-dan-sao-mu-d853295.html",
-          "source": "bongda.com.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "spurs vs palace",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T18:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-di5YGL6l5JD5i3peGz1d6NQiCm78yVdUSMz5MQRoUb1z_yRtTDrIDhb78bg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Tottenham 2-0 Crystal Palace: Spurs pile pressure on Sage as 10-man Palace are beaten",
-          "url": "https://www.bbc.com/sport/football/live/c9gkv231djj2t",
-          "source": "BBC"
-        },
-        {
-          "title": "Premier League predictions & Jones Knows' best bets: Liverpool vs Arsenal, Tottenham vs Crystal Palace and much more",
-          "url": "https://www.skysports.com/football/news/13604412/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-          "url": "https://www.firstpost.com/football-news/live-score/stats/bet-vs-mag-191496/",
-          "source": "Firstpost"
-        }
-      ]
-    },
-    {
-      "keyword": "트위치",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T17:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
-          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
-          "url": "https://news.mtn.co.kr/article/2026103016220346703",
-          "source": "MTN 머니투데이방송"
-        },
-        {
-          "title": "\"덜어낼수록 더 모였다\"…K- MMORPG 시장, 공식을 바꾸니 흥행한다",
-          "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88512",
-          "source": "인더스트리뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "레알 베티스 대 말라가",
+      "keyword": "최민정",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-31T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Real Betis vs Málaga: Spanish La Liga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cr78pxn97j46t",
-          "source": "BBC"
-        },
-        {
-          "title": "🚨Confirmed XIs: Emotional Andalusian derby at La Cartuja",
-          "url": "https://sports.yahoo.com/articles/confirmed-xis-emotional-andalusian-derby-164000709.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Real Betis vs Malaga - Prediction, where to watch, kick-off time and line-ups 31-10-2026",
-          "url": "https://onefootball.com/en/betting/predictions/real-betis-vs-malaga-31-10-2026",
-          "source": "OneFootball"
-        }
-      ]
-    },
-    {
-      "keyword": "mkoi",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T18:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3wTiZry95uA2_vmifBsSFvfczcdk4rs2x0jLxuSh3BXvCCso7oqhzkqchzSM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "CTBC Flying Oyster vs. Karmine Corp: Game 2 Winner",
-          "url": "https://www.coinbase.com/predictions/event/KXLOLMAP-26OCT291900CFOKC-2",
-          "source": "Coinbase"
-        },
-        {
-          "title": "Europe's Survivor Is KC! Defeats MKOI to Advance to Quarterfinals",
-          "url": "https://www.invenglobal.com/articles/27979/europes-survivor-is-kc-defeats-mkoi-to-advance-to-quarterfinals",
-          "source": "Inven Global"
-        },
-        {
-          "title": "Karmine Corp sweep CTBC Flying Oyster to eliminate last LCP team at Worlds 2026",
-          "url": "https://www.ginx.tv/en/karmine-corp-sweep-ctbc-flying-oyster-to-eliminate-last-lcp-team-at-worlds-2026",
-          "source": "GINX TV"
-        }
-      ]
-    },
-    {
-      "keyword": "ngoại hạng anh",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T17:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo18WTjHGjprqLnrm5GW4SUwN5VuAn0yDgse0UIMzmdCEBUMgrujtkfEie3Go",
+      "startedAt": "2026-10-31T21:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVJMefsbFO5YZkwGxfhDoRySWjQmw-VCVOgRXNE-R2JhB2WnZVmaGPxE7O75A",
       "category": "기타",
       "news": [
         {
-          "title": "Kết quả bóng đá Man City - Brighton: Đánh sập Etihad (Ngoại hạng Anh)",
-          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-man-city-brighton-danh-sap-etihad-ngoai-hang-anh-c48a1807376.html",
-          "source": "Tin tức 24h"
+          "title": "최민정, 쇼트트랙 2차 월드투어 첫날 전 종목 조 1위 예선 통과",
+          "url": "https://www.yna.co.kr/view/AKR20261031018100007",
+          "source": "연합뉴스"
         },
         {
-          "title": "Chấm điểm Man City: Haaland bị phong tỏa; ''Cánh én'' Doku",
-          "url": "https://yeuthethao.net.vn/cham-diem-man-city-haaland-bi-phong-toa-canh-en-doku-d900800.html",
-          "source": "yeuthethao.net.vn"
+          "title": "쇼트트랙 최민정, 2차 월드투어 전 종목 예선 통과…김길리는 연속 충돌",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849166",
+          "source": "뉴시스"
         },
         {
-          "title": "Man City thua Brighton ngay tại sân Etihad",
-          "url": "https://laodong.vn/bong-da-quoc-te/man-city-thua-brighton-ngay-tai-san-etihad-1792605.ldo",
-          "source": "Laodong.vn"
+          "title": "\"제발 은퇴 안 하면 안 돼요?\" 마지막 질주하는 최민정, 여전히 기량 미쳤다! 월드투어 첫날 전 종목 조 1위 질주",
+          "url": "https://www.chosun.com/sports/sports_general/2026/10/31/G5SDMN3EGNRDEOBUHEZTSNBQMQ/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "พยากรณ์อากาศ",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T21:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT1y2R0MLGYk8TNHC2yjIQjTCCiFRzLZ7pMxHWyTTd3PUdD5zzpU1oxGz8CmI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -6 พ.ย.ไทยฝนฟ้าคะนอง ลมกระโชกแรง ฝนหนักบางแห่ง",
+          "url": "https://www.thansettakij.com/general-news/672676",
+          "source": "thansettakij"
+        },
+        {
+          "title": "ปักหมุดรับลมหนาว! กรมอุตุฯ เผย 7-12 พ.ย. มีสัญญาณชัด มวลอากาศเย็นแผ่ลงมาแรงขึ้น",
+          "url": "https://www.thaipost.net/general-news/1099128/",
+          "source": "Thaipost.net"
+        },
+        {
+          "title": "สงขลา | ฝนจ่อเพิ่มกำลัง เรดาร์พบกลุ่มฝนฟ้าคะนอง ปกคลุมสงขลา–อ่าวไทย เตือนชาวเรือระวังคลื่นสูง ลมกระโชกแรง",
+          "url": "https://www.hatyaifocus.com/news-detail/32019/",
+          "source": "HATYAI FOCUS"
+        }
+      ]
+    },
+    {
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T20:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ12wK75ZbUq00oANbMkRD7931zi2F5lhCRBA3ZmNyxXwdpy1p8SRaYSiyXng",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"세계 1위까지 딱 1점 남았는데\" 츠베레프 스매시에 광고판 먹통→심판 두드리고 상대는 발로 '쾅'... 결국 수건 덮고 역사 썼다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103109290489614",
+          "source": "머니투데이"
+        },
+        {
+          "title": "신네르·알카라스 양강 깬 츠베레프…생애 첫 세계 1위 오른다",
+          "url": "https://www.yna.co.kr/view/AKR20261030093200007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "츠베레프, 생애 첫 테니스 랭킹 1위 등극 예고…신네르·알카라스 제쳐",
+          "url": "https://www.newspim.com/news/view/20261030000798",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "sports",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzToAieJdYNJcaXfRWBy6iQk9tu8vK35A6vK6-zECbgI7H9otfVZ-m3ViO294",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Heat unveil updated Dwyane Wade statue after original's face was panned",
+          "url": "https://www.espn.com/nba/story/_/id/50328871/heat-unveil-updated-dwyane-wade-statue-original-face-was-panned",
+          "source": "ESPN"
+        },
+        {
+          "title": "“After seeing the work at full scale and in its …",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/30/after-seeing-the-work-at-full-scale-and-in-its/92515150007/",
+          "source": "HoopsHype"
+        },
+        {
+          "title": "\"I think it looks amazing,\" Spoelstra said",
+          "url": "https://sports.yahoo.com/articles/think-looks-amazing-spoelstra-said-232652996.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "bundesliga",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T18:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkeR_YnD2SfFct2gi6Ll7hBxLzgaROcaGMLVTThxIcU3fYR8-c7gGZwU6Kbo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Bayern und BVB trennen sich 2:2 – Kane verschießt Elfmeter - Sport - SZ.de",
+          "url": "https://www.sueddeutsche.de/sport/bayern-bvb-bundesliga-kane-olise-verletzungen-li.3572197",
+          "source": "SZ.de"
+        },
+        {
+          "title": "Fußball-Bundesliga: Dortmund bestraft Bayerns Nachlässigkeiten und bleibt dran.",
+          "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-2026-2027-fc-bayern-muenchen-borussia-dortmund-spielbericht-100.html",
+          "source": "ZDFheute"
+        },
+        {
+          "title": "Nicht nur Kovacs Taktik-Kniff ging auf: Die Joker schlagen schon wieder zu!",
+          "url": "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/10/31/Nicht-nur-Kovacs-Taktik-Kniff-ging-auf-Die-Joker-schlagen-schon-wieder-zu.html",
+          "source": "BVB.de"
         }
       ]
     }
