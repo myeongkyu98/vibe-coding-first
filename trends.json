@@ -1,12 +1,16 @@
 {
-  "updatedAt": "2026-10-31T08:38:24.596Z",
+  "updatedAt": "2026-10-31T09:32:29.352Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 7
+      "category": "스포츠",
+      "count": 4
     },
     {
-      "category": "스포츠",
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "정치·사회",
       "count": 2
     },
     {
@@ -16,252 +20,252 @@
   ],
   "items": [
     {
-      "keyword": "광주 대 김천상무",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-31T06:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNSrow7licrTqitIt1KARxsOc6pRtOsPdIU5ojgXMI_ZhxPcmX0kK6JVhBqUM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[현장목소리] ‘충전 완료’ 광주FC 중원의 한 축 유제호, “3선 MF 역할 처음인데 많이 적응”",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553662004",
-          "source": "스포탈코리아"
-        },
-        {
-          "title": "김천상무, 광주 원정서 파이널 라운드 첫 승 정조준!",
-          "url": "https://www.newsform.net/news/article.html?no=201750",
-          "source": "뉴스폼"
-        },
-        {
-          "title": "‘세 번 비긴 광주, 이번엔 잡는다!’… 김천 상무, 박태준 등 ‘광주 출신’ 앞세워 승점 사냥 나선다",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313601",
-          "source": "베스트일레븐"
-        }
-      ]
-    },
-    {
-      "keyword": "앤 트로픽",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-10-31T06:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyiJfT7pOAHe32qm-jo6wLsmnWYnWEfaGZRMaDXEoVfPmO1Sc5sHRK6PaqUDk",
-      "category": "경제",
-      "news": [
-        {
-          "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
-          "url": "https://news.hada.io/topic?id=36306",
-          "source": "GeekNews"
-        },
-        {
-          "title": "AI 수익성 의문 지운 앤트로픽…반도체 다음 병목은 ‘전력’",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374024",
-          "source": "전기신문"
-        },
-        {
-          "title": "앤트로픽 몸값 '2조 달러' 거론…SKT 지분가치 또 뛸까",
-          "url": "https://news.mtn.co.kr/article/2026103016360311215",
-          "source": "MTN 머니투데이방송"
-        }
-      ]
-    },
-    {
-      "keyword": "amd",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T07:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0ULKvn9S_ak-b8A6Ye1J-KWHd4vzQX1GkgbBSWHESzLxpadKWO6USED0gro",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Intel stock plunges nearly 29%, its worst day since 1974",
-          "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-29-its-worst-day-since-1974-205955309.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
-          "source": "Bloomberg"
-        }
-      ]
-    },
-    {
-      "keyword": "주영진",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz99Jht6rVrJ6NkZxFSr371aWZ6lzR_fKA7GWgZQDo_freCL460-8lHTNKEE0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[클로징] 주영진 앵커가 전하는 마지막 인사…\"시청자 여러분 고맙습니다\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823354",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "주영진 앵커 마지막 인사 “SBS 뉴스 새롭게 바꾸는 일에 매진”",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338116",
-          "source": "미디어오늘"
-        },
-        {
-          "title": "[인사] 재정경제부 외",
-          "url": "https://www.chosun.com/national/obituary-personnel/2026/10/24/QINEEIBNQFFX5KEDV5C62G6CWQ/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "정유시설",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRot1DTZfyXp3P8CVun4F0-pyA-kqYXx9aV5BWEo9lBsHyz-EFYmU2bLXrz_2Y",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“사람들이 가게에 가고, 커피를 마시고, 거리를 걷는다”···러·우 국지 휴전으로 5년 만에 찾아온 일상",
-          "url": "https://www.khan.co.kr/article/202610301651001",
-          "source": "경향신문"
-        },
-        {
-          "title": "\"우크라, 러 정유시설 공격 재개...트럼프 대놓고 무시\"",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202610310619567975_005.html",
-          "source": "YTN"
-        },
-        {
-          "title": "러·우크라 국지휴전 나흘째 올레시키 고립 주민들 대피 시작",
-          "url": "https://www.yna.co.kr/view/AKR20261030183300108",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "노시환",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T07:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOdb59M_EWQEYzVKH8tHM1oaHj7W_vQ0lX5c22WqEI_zWbV6p7yAn4pt9IHW8",
+      "keyword": "sri lanka vs pakistan",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T08:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0GZV-ZAhmUkSgwbrUzF4Ya8U1rh9rz8kD9xIW5lYcisu9GqKEnCW6cEsEVMs",
       "category": "스포츠",
       "news": [
         {
-          "title": "’AG 금메달리스트’ 노시환, 미국 무대 도전…KBO, MLB 사무국에 포스팅 요청",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031164121v5Z",
-          "source": "연합뉴스TV"
+          "title": "Pakistan vs Sri Lanka in the perfect finale to entertaining tri-series",
+          "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-final-1550719/match-preview",
+          "source": "Cricinfo"
         },
         {
-          "title": "[단독] 한화 노시환, 포스팅 요청…MLB행 도전 시작",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824404&plink=TOPLINE&cooper=SBSNEWSMAIN",
-          "source": "SBS 뉴스"
+          "title": "Sri Lanka wins toss, fields against England in Pakistan cricket tri-series",
+          "url": "https://www.bastillepost.com/global/article/6303273-sri-lanka-wins-toss-fields-against-england-in-pakistan-cricket-tri-series",
+          "source": "巴士的報"
         },
         {
-          "title": "[공식발표]한화 노시환, 약속대로 미국 무대에 도전장…KBO, MLB 사무국에 포스팅 요청",
-          "url": "https://sports.khan.co.kr/article/202610311704003",
-          "source": "스포츠경향"
+          "title": "Unwell Shadab misses tri-series final as Pakistan wins toss and elects to field against Sri Lanka",
+          "url": "https://www.ctinsider.com/sports/article/unwell-shadab-misses-tri-series-final-as-pakistan-22503791.php",
+          "source": "CT Insider"
         }
       ]
     },
     {
-      "keyword": "김주형",
+      "keyword": "수원삼성",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T08:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrT5KHIcPHZGgD0mPdVkkRVHLC9Jyc6mhDJqNcKJeOJUpgr_9GXPOHOUOx3DM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "갈길 바쁜 서울E, 발목 잡혔다! '가브리엘 멀티골' 용인에 2-4 패, 다만 다득점으로 2위 점프...화성도 경남에 0-1 덜미",
+          "url": "https://www.chosun.com/sports/football/2026/10/31/MZSDOMBVGE4WMMJYMI3TAZRTGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'6골 난타전 미쳤다!' 용인FC, 서울이랜드에 4-2 완승…가브리엘 멀티골·비티뉴 쐐기포 작렬",
+          "url": "https://www.osen.co.kr/article/G1112901953",
+          "source": "OSEN"
+        },
+        {
+          "title": "사상 첫 K리그1 승격 향해 질주하는 서울E... 그 중심엔 박창환이 있다",
+          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003280238",
+          "source": "오마이스타"
+        }
+      ]
+    },
+    {
+      "keyword": "김민",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T08:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThyIpKd5YNtumDsKpB73wPV_uckqGETPWwTgQUZ_ASoo-4NeOl13tJSO_4Uw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김민, 90년 된 집에 소머리 장식? \"옆 동네에서 잡았다\" 경악 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023383743930",
+          "source": "머니투데이"
+        },
+        {
+          "title": "김민, 아침부터 땅콩잼 샐러리 뜯더니 '동두천시 운동회'서 야생마 질주..최고의 1분 ('나혼산')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJQWCZJRMUYDEMLFGYYWIYLFGI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘동두천 자연인’ 김민, 만 원짜리 운동화 신고 계주 도전 (나혼산)",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134941163/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "jtbc 서울 마라톤",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T08:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAUkkZtoO7MjsbIaZsO7rnbfCDGrlXp69qrD8cIiFnz3nvLEi4AUw7qVqvmsI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054",
+          "source": "시민일보"
+        },
+        {
+          "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001",
+          "source": "뉴스1"
+        },
+        {
+          "title": "웅진식품 이온더핏, 서울 도심 마라톤서 수분 보충 음료 맡아",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610300908085387204ead0791_12",
+          "source": "로이슈"
+        }
+      ]
+    },
+    {
+      "keyword": "김가영",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-10-31T08:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSQIrtHWHjfXjFzKd2MumWb9JzFnQOgAtFgbhiPOzopckUJUyGtYMA3GwJVw8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[김용일의 당구인사이트] ‘김가영 천하’가 역설적으로 만든 LPBA 춘추전국시대",
+          "url": "https://mkbn.mk.co.kr/news/sports/12192384",
+          "source": "mkbn.mk.co.kr"
+        },
+        {
+          "title": "“당구가 싫었다”던 딸 김보미, 아버지 앞에서 7년 한 풀었다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02719126645616856&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "‘아름다운 준우승’ 임정숙 \"김보미 우승 누구보다 바랐다…어려운 시기 함께했던 동료\"",
+          "url": "https://www.thebilliards.kr/news/articleView.html?idxno=32284",
+          "source": "빌리어즈"
+        }
+      ]
+    },
+    {
+      "keyword": "aim-120 암람",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6sKlpr1nIccDsm93S3uNKDqtddIhQGbAgohaNphshTjpDVWoDk9KQK0rLcUM",
+      "startedAt": "2026-10-31T08:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ07Br3AwQ109LVmMS0UqCfj72mM2CFJPvd1wC38XyeZO2g7PDQrComFPOz5E4",
       "category": "기타",
       "news": [
         {
-          "title": "휴식 취한 김주형, PGA 투어 멕시코 오픈 첫날 67타 공동 22위",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699605",
-          "source": "KBS 뉴스"
+          "title": "\"일본서 미사일 공동 생산\" 중국 코앞 군수거점‥무기 생산도 '한 몸'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6861755_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "김주형, PGA 투어 비단타월드 멕시코 오픈 2라운드 공동 26위…오구 플레이 2벌타 받아",
-          "url": "https://www.viva100.com/article/20261031500254",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "'오구 플레이 벌타' 김주형, 멕시코 오픈 2R 공동 26위",
-          "url": "https://www.yna.co.kr/view/AKR20261031020300007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "백신",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T07:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWhlOrzpFY8Kfs98DqPWT0dsqcgxfSfR6VqGGyoMvMXQhY3DZj4phrcBMqGGU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“코로나백신 맞고 암” 실제 3600만명 추적 의외 결과",
-          "url": "https://www.munhwa.com/article/11627409",
-          "source": "문화일보"
-        },
-        {
-          "title": "코로나 백신 맞으면 암 걸린다? 확인해 봤더니 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610311333243101",
-          "source": "YTN"
-        },
-        {
-          "title": "코로나 백신 ‘필수접종’ 됐는데…“맞으면 암 걸린다?” 50개월 추적해 보니 [헬시타임]",
-          "url": "https://www.sedaily.com/article/20107908",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "남중국해",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T07:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7DIldQ9ytgNWTxklVauga35Ji3AaqeQgTNa0xKSHTqFiWJdgmfzcUlCPgOs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "중국, 남중국해 앤털로프 암초 매립해 인공섬 조성… 초대형 군사기지화 나서",
-          "url": "https://www.donga.com/news/Inter/article/all/20261031/134942395/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "中, 항공모함급 과학연구 인공섬 건설 추진…2030년 완공",
-          "url": "https://www.newsis.com/view/NISX20261028_0003845241",
+          "title": "日방위상 \"전수방위 불변…위협 '거부하는 힘' 강화할 것\"",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847416",
           "source": "뉴시스"
         },
         {
-          "title": "\"7.4만t 항모급 인공섬 띄운다\"… 中, 세계 최초 '원해 부유식 과학섬' 착공",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026102814533775420c8c1c064d_1",
-          "source": "글로벌이코노믹"
+          "title": "중국 코앞에서 美 암람 미사일 생산…K방산에 미치는 영향은? [밀리터리+]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261030601011",
+          "source": "나우뉴스"
         }
       ]
     },
     {
-      "keyword": "hong kong vs pakistan",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T07:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEWapRM03h0E5hb-3NspdI1QySqIl2hMPgtZHGTLLfU9uBgGPH5UNpES-KZG8",
+      "keyword": "sri lanka national cricket team vs pakistan national cricket team match scorecard",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T08:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiAjaSnUkaQMOynjmSOOXMaFaDlqfET3VgCIT8Hzn_c84cYPvfBlH_9pWEZN0",
       "category": "스포츠",
       "news": [
         {
-          "title": "Plate, 2nd Semi-Final, Hong Kong International Sixes at Mong Kok, Oct 31 2026",
-          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559208/hong-kong-vs-pakistan-plate-2nd-semi-final-hong-kong-international-sixes-2026-27",
-          "source": "ESPN"
+          "title": "~$!【PAK vs SL】 Watch Pakistan vs Sri Lanka Live ODI Tri-Series final match",
+          "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vdHJhdmlzLWF1c3Rpbi5naXRodWIuaW8vZW5tL2VudS54bWwiLz48L2tycGFubz4=&id=video-watch-pakistan-vs-sri-lanka-match-lie-bscpvih",
+          "source": "Port of Rotterdam"
         },
         {
-          "title": "Hong Kong International Sixes - ODI -",
-          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010835/hong-kong-international-sixes-1",
-          "source": "Cricketnmore"
+          "title": "Pakistan vs Sri Lanka Live Score ODI Tri-Series Final",
+          "url": "https://sports.ndtv.com/cricket/pakistan-vs-sri-lanka-live-score-odi-tri-series-final-pak-vs-sl-live-updates-babar-azam-shaheen-afridi-pavan-rathnayake-12262475",
+          "source": "NDTV Sports"
         },
         {
-          "title": "Hong Kong International Sixes - ODI -",
-          "url": "https://www.cricketnmore.com/cricket-livescore/scorecard/13072010829/hong-kong-international-sixes-odi-1",
-          "source": "Cricketnmore"
+          "title": "Pakistan Vs Sri Lanka Live Score, ODI Tri-Series Final: Fernando, Mendis Shift Gears After Slow Start | SL 86/0 (16)",
+          "url": "https://www.outlookindia.com/sports/cricket/pakistan-vs-sri-lanka-live-score-final-pak-vs-sl-2026-odi-tri-series-latest-updates",
+          "source": "Outlook India"
+        }
+      ]
+    },
+    {
+      "keyword": "현대이지웰",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T07:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCkngGsBJNr5yiBgB2HumjS7bn5TqCC5-eflrzNqUeLEdbFyaHjl5o21niPEw",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "340만명 사용 복지포인트 쇼핑몰 ‘현대이지웰’, 해킹으로 개인정보 유출",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146907",
+          "source": "보안뉴스"
+        },
+        {
+          "title": "현대이지웰서 개인정보 유출 사고…사과문 게시",
+          "url": "https://www.yna.co.kr/view/AKR20261030179900030",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "현대이지웰서 개인정보 유출 사고…“유출 규모 파악 중”",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/10/30/IKHPXYQJXJEN3PFIXPEFAQVVJ4/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "농협",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T07:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5zcbf2GUp62FNZa537M8jP9NUc1ofnI3xfBn5s4kdJAIpeAlBv1PWSe6PcSE",
+      "category": "경제",
+      "news": [
+        {
+          "title": "강원농협, '2026 강원농협인 소통·공감 포럼' 원주서 개최",
+          "url": "https://www.yna.co.kr/view/AKR20261030133700062",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[영상]고랭지 폐기 아픔 딛고…'강원농업인 소통·공감 포럼' 원주서 개최",
+          "url": "https://news.mtn.co.kr/article/2026103017133382927",
+          "source": "MTN 머니투데이방송"
+        },
+        {
+          "title": "농협, 계열사 경영실적 점검…손익 부진 계열사 개선책 논의",
+          "url": "https://m.segye.com/view/20261030510426",
+          "source": "세계일보"
+        }
+      ]
+    },
+    {
+      "keyword": "하남시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T08:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq2hk0J2yvu-pGnPckmsUE_Zws6LrUCVH0EfwVJxlVZHhjyl1WBUkDUSyODUs",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "수도권 신규택지 후보지 발표 - 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974619&pWise=sub&pWiseSub=C2",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "[사설]수도권 주택공급, 정부·지자체 적극 협력해야",
+          "url": "https://www.khan.co.kr/article/202610301833001",
+          "source": "경향신문"
+        },
+        {
+          "title": "김포 허허벌판 논밭, 신도시로 '싹' 바뀐다",
+          "url": "https://www.hankyung.com/article/2026103068071",
+          "source": "한국경제"
         }
       ]
     }
