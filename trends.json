@@ -1,28 +1,24 @@
 {
-  "updatedAt": "2026-10-31T18:33:36.300Z",
+  "updatedAt": "2026-10-31T19:32:43.533Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 6
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "기타",
+      "count": 3
     },
     {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "바이에른 대 도르트문트",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-10-31T16:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHdl6tBybrRJnBtUq1M3PQ26zEdpJlNFqSKmkZS6fEGHA4Fec4GQIGzwPu4M8",
       "category": "스포츠",
@@ -45,59 +41,34 @@
       ]
     },
     {
-      "keyword": "맨시티",
+      "keyword": "토트넘",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-10-31T15:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWa2UDXaCjYpeXkr_1DDyXNQ0sstdQi6dWRl-bTUskn3CDLV_Z_p1T_zOor0A",
-      "category": "기타",
+      "startedAt": "2026-10-31T18:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR9f630CJoYrStV4LhJffxlsk06z7md3oCQ3VZjJuFRwI17Ih4hp0AEQNGjyw",
+      "category": "스포츠",
       "news": [
         {
-          "title": "마레스카, “우리는 올바른 방향으로 가고 있다”",
-          "url": "https://kr.mancity.com/news/mens/enzo-maresca-brighton-premier-league-preview-63928984",
-          "source": "Manchester City FC"
+          "title": "\"韓 스타 또 기회 살렸다!\" 오현규, 투톱서도 결승골 작렬...튀르키예 매체도 반했다 \"주전 블라호비치, 더 큰 압박 느낄 거야\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/202610301444773989O",
+          "source": "머니투데이"
         },
         {
-          "title": "[맨시티 브라이튼] 선제골 기뻐하는 어린 팬",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738582",
-          "source": "국제뉴스"
+          "title": "손흥민 떠난 토트넘이 다시 한국인 골잡이 주목 \"잉글랜드에 완벽히 들어맞는 공격수\"…오현규, 블라호비치와 경쟁하더니 EPL도 주목",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016703",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "승리한 동료들 축하하는 엘링 홀란",
-          "url": "https://www.newsis.com/view/NISI20261029_0002276922",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "조현아",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV7uG4e-EcDAMuI9C5Jb10hY8bFVXAlZEngtkjhQ1mLa8-jqBhZ0295cZorNg",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘17kg 감량’ 조현아, 턱선부터 다른 사람 됐네..운동복 셀카도 당당 “예뻐”",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MJSGGNZYGYYTAMDDMFSWCOLGMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "어반자카파 조현아, 야외 결혼식장에서 전한 단정 미소",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264671",
-          "source": "톱스타뉴스"
-        },
-        {
-          "title": "조현아, 17kg 감량 효과가 이 정도?…'얼굴 반쪽' 된 운동복 셀카",
-          "url": "https://www.sportschosun.com/entertainment/2026-10-31/202610310100199670014206",
-          "source": "스포츠조선"
+          "title": "‘韓 국대’ 오현규, 오는 1월 ‘프리미어리그 입성’ 토트넘 유니폼 입고 가능할까···“여름은 몰라도 겨울 이적...",
+          "url": "https://sports.khan.co.kr/article/202610301919003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
       "keyword": "크리스타 파이크",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-10-31T16:10:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmx8PEMdpEO-WgKlmok_S0tD9Kezl0GB2R28bK2ppsMHZmpxeKGflipuJNXSQ",
       "category": "기타",
@@ -120,52 +91,127 @@
       ]
     },
     {
-      "keyword": "jonas brothers",
+      "keyword": "트위치",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-10-31T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIqTMgDZJ1XobMZfqN0_icph2IDhQqhpD6CW7YM5eM8GzOrEEmXrHQ6QUQ_Uk",
-      "category": "기타",
+      "startedAt": "2026-10-31T17:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJKTTsgaXSy6bXOc6NPUwEYVYYmrmxijH-vXl1TDoxWzvkTWkpzFxuaphssSk",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "Kevin Jonas Accidentally Sent a Photo of His Penis to Football Group Chat with His Brothers: ‘Ruined My Entire Day’",
-          "url": "https://people.com/kevin-jonas-accidentally-sent-penis-photo-to-group-chat-with-his-brothers-12196690",
-          "source": "People.com"
+          "title": "엔씨, 김택진 대표 중심 게임 경쟁력 강화… 글로벌 신작 확대",
+          "url": "https://www.donga.com/news/Economy/article/all/20261030/134932454/1",
+          "source": "동아일보"
         },
         {
-          "title": "“Delete The Thread”: Kevin Jonas Accidentally Sent A Photo Of His Penis To A Group Chat With His Brothers",
-          "url": "https://www.buzzfeed.com/jazmintolliver/kevin-jonas-accidentally-sent-penis-photo-to-group-chat",
-          "source": "BuzzFeed"
+          "title": "엔씨 '아이온2' 日 스팀 3주 연속 매출 1위",
+          "url": "https://news.mtn.co.kr/article/2026103016220346703",
+          "source": "MTN 머니투데이방송"
         },
         {
-          "title": "Kevin Jonas Accidentally Sent a Pic of His Lil Jonas to the Group Chat",
-          "url": "https://www.billboard.com/music/pop/kevin-jonas-accidentally-sent-picture-penis-group-chat-1236369498/",
-          "source": "Billboard"
+          "title": "엔씨 '아이온2', 일본서 3주 연속 판매 1위…유럽·남미서도 흥행",
+          "url": "https://www.hankyung.com/article/202610306269i",
+          "source": "한국경제"
         }
       ]
     },
     {
-      "keyword": "스완지 시티 대 블랙번",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T15:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyacVqGF7KvO2PnxKywJoZaxI0sxL0rl2lUamJBvPGT2eYlbcbQS1IckDPDEw",
-      "category": "기타",
+      "keyword": "레알 베티스 대 말라가",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T18:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzvcFKGu0Y1SGA--dVFSkD3F9M7HPjc8tTtn9Yb-2CEcxA9oWcYKa8qxqghQ",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Swansea City 4-0 Blackburn Rovers: Eustaquio, Opoku, Lissah and Stewart strike in emphatic win",
-          "url": "https://www.bbc.com/sport/football/live/cq74p3w8z0jrt",
+          "title": "Blackhawks vs. Bruins (Oct 31, 2026) Live Score",
+          "url": "https://www.espn.com/nhl/game/_/gameId/401892614",
+          "source": "ESPN"
+        },
+        {
+          "title": "St. Louis vs. San Diego (Oct 31, 2026) Team Stats",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/761926/league/usa.1",
+          "source": "ESPN"
+        },
+        {
+          "title": "Kansas State will start sophomore quarterback Dillon Duff at...",
+          "url": "https://www.espn.com/contributor/pete-thamel/4302e84031d17",
+          "source": "ESPN"
+        }
+      ]
+    },
+    {
+      "keyword": "spurs vs palace",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T18:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBX7C_jOPSLjAW3NY1dNydUDyMNc5CYT4aF3foDv3u4sD9rzGdH3lqrowhS84",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Manchester City 0-1 Brighton, Coventry 3-1 Sunderland and more: clockwatch - as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/oct/31/manchester-city-v-brighton-bournemouth-v-leeds-and-more-clockwatch-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Premier League: Brighton beat Man City, Coventry, Brentford and Bournemouth all win",
+          "url": "https://www.bbc.co.uk/sport/football/live/cm2l8lx5k1zvt?page=24",
           "source": "BBC"
         },
         {
-          "title": "Swansea City 4-0 Blackburn Rovers: Swans back to winning ways in thumping victory",
-          "url": "https://www.skysports.com/football/news/13594325/swansea-city-4-0-blackburn-rovers-swans-back-to-winning-ways-in-thumping-victory",
-          "source": "Sky Sports"
+          "title": "Brighton stun the Etihad; Chelsea down Man Utd",
+          "url": "https://onefootball.com/en/news/brighton-stun-the-etihad-chelsea-down-man-utd-43702098",
+          "source": "OneFootball"
+        }
+      ]
+    },
+    {
+      "keyword": "바이에른 뮌헨",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T18:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6SrTyw8FoPxlmLbuxHVPxbdMHfFUQOR8wcSHbLnMl89rSD1Gru-Fji1tvt7o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "獨매체의 공식 인증, 바이에른 주전 센터백은 타 아닌 김민재! '속도에서 훨씬 앞서'...\"도르트문트-아틀레티코 2연전 선발 복귀할 듯\" 전망",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/31/GRSGCNRSHFRDQNBXMUYDSZJYHA/",
+          "source": "조선일보"
         },
         {
-          "title": "Mowbray expects Swans to be wounded animal",
-          "url": "https://sports.yahoo.com/articles/mowbray-expects-swans-wounded-animal-143301394.html",
-          "source": "Yahoo Sports"
+          "title": "사타구니부상 '김민재, 마침내 복귀 임박!' 바이에른 벤치 돌아왔다…도르트문트전 출격 가능성",
+          "url": "https://www.osen.co.kr/article/G1112901767",
+          "source": "OSEN"
+        },
+        {
+          "title": "'부상' 김민재, 라이벌 도르트문트전서 복귀할까…모레노도 주목",
+          "url": "https://www.newsis.com/view/NISX20261030_0003849010",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "ngoại hạng anh",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T17:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo18WTjHGjprqLnrm5GW4SUwN5VuAn0yDgse0UIMzmdCEBUMgrujtkfEie3Go",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Kết quả bóng đá Man City - Brighton: Đánh sập Etihad (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-man-city-brighton-danh-sap-etihad-ngoai-hang-anh-c48a1807376.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Man City thua trận thứ hai liên tiếp ở Ngoại hạng Anh",
+          "url": "https://vnexpress.net/man-city-thua-tran-thu-hai-lien-tiep-o-ngoai-hang-anh-5139255.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Dự đoán kết quả và đội hình ra sân trận Man City vs Brighton",
+          "url": "https://vov.vn/the-thao/du-doan-ket-qua-va-doi-hinh-ra-san-tran-man-city-vs-brighton-post1346001.vov",
+          "source": "VOV.VN"
         }
       ]
     },
@@ -183,39 +229,14 @@
           "source": "PPC Land"
         },
         {
-          "title": "Inside Kai Cenat's Lifestyle: Streaming Success, Luxury Purchases And Career Beyond Twitch",
-          "url": "https://sports.ndtv.com/us/us-streamers/inside-kai-cenats-lifestyle-streaming-success-luxury-purchases-and-his-career-beyond-twitch-12262568",
-          "source": "NDTV Sports"
+          "title": "'Elden Ring' Will Be Biggest Movie At A Market, Amazon Joins A24 Film",
+          "url": "https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/",
+          "source": "Deadline"
         },
         {
-          "title": "Kai Cenat Net Worth In 2026: Mafiathon Earnings, Brand Deals, YouTube Income, and More",
-          "url": "https://sports.ndtv.com/us/us-streamers/kai-cenat-net-worth-in-2026-mafiathon-earnings-brand-deals-youtube-income-and-more-12255178",
-          "source": "NDTV Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "미국 시간",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T16:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrXwdC-yAHtm3zSrlv7ZStMmQbRtYVPSTEzRAn9EXOE7G1WJC-gcrWS9DHMo8",
-      "category": "경제",
-      "news": [
-        {
-          "title": "미국, 서머타임 내달 1일 해제…동부기준 韓과 시차 13→14시간",
-          "url": "https://www.yna.co.kr/view/AKR20261031008700075",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "美 서머타임, 내달 1일 종료…트럼프는 왜 1년 내내 주장할까",
-          "url": "https://www.sedaily.com/article/20108489",
-          "source": "서울경제"
-        },
-        {
-          "title": "美, 서머타임 해제…뉴욕증시 개장, 밤 11시 30분",
-          "url": "https://www.fnnews.com/news/202610310449391737",
-          "source": "파이낸셜뉴스"
+          "title": "Forget 'The Winds of Winter,' George R. R. Martin's New Epic Fantasy Is Reportedly A24’s Most Expensive Movie Yet",
+          "url": "https://www.imdb.com/news/ni66087624/?ref_=nmnw_art_perm",
+          "source": "IMDb"
         }
       ]
     },
@@ -224,48 +245,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-10-31T16:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQtMg_A1EsGhW2hPicCf74eaP0rKRc7ublFvtydOzPzVGPpofwytahfFDlPs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Hull City 2-2 Ipswich Town: Julio Enciso stunner salvages point for visitors",
-          "url": "https://www.bbc.com/sport/football/live/cxq6nqml97e0t",
-          "source": "BBC"
-        },
-        {
-          "title": "Hull 2-2 Ipswich (Oct 31, 2026) Game Analysis",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401878763",
-          "source": "ESPN"
-        },
-        {
-          "title": "Match report and highlights - Hull 2-2 Ipswich",
-          "url": "https://www.skysports.com/football/live-blog/13604902/hull-city-vs-ipswich-live-premier-league-match-updates-news-and-score",
-          "source": "Sky Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "npl",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T16:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1A1kEwGGNcsNM9yPuRG7fy2RDV2zAbnQ1No2ngRIXVLxaUNdSEsYz-GsSvLM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTksDSw_lfNKkXAVoPzrc8gxrmqgsnrBdRBpmkWtJLfyU1BlftMMHP1CAOGsNQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "Waterlogged TU cricket ground (photos)",
-          "url": "https://english.onlinekhabar.com/waterlogged-tu-cricket-ground.html",
-          "source": "OnlineKhabar English News"
+          "title": "Manchester City vs Brighton & Hove Albion: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.co.uk/sport/football/live/c6x2v4k8e0y9t",
+          "source": "BBC"
         },
         {
-          "title": "Match Predictions: Nepal Premier League 2026 - Lumbini Lions vs Chitwan Rhinos - Sudurpaschim Royals vs Biratnagar Kings - 31st October",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-lumbini-lions-vs-chitwan-rhinos-sudurpaschim-royals-vs-biratnagar-kings-31st-october/114116.htm",
-          "source": "Cricket World"
+          "title": "Hull City 2-2 Ipswich: Stunning Julio Enciso strike earns visitors point as Tigers' winless run extends to seven games",
+          "url": "https://www.skysports.com/football/news/13606108/hull-city-2-2-ipswich-stunning-julio-enciso-strike-earns-visitors-point-as-tigers-winless-run-extends-to-seven-games",
+          "source": "Sky Sports"
         },
         {
-          "title": "विराटनगर किंग्स Sets 106-Run Target for सुदूरपश्चिम रोयल्स",
-          "url": "https://english.ratopati.com/story/85272/biratnagar-kings-scored-105-runs-in-five-overs",
-          "source": "Ratopati"
+          "title": "Premier League: Sergej Jakirovic post match interview",
+          "url": "https://www.bbc.com/sport/football/videos/ck0e0y180z90o",
+          "source": "BBC"
         }
       ]
     }
