@@ -1,20 +1,28 @@
 {
-  "updatedAt": "2026-11-01T12:39:30.240Z",
+  "updatedAt": "2026-11-01T13:42:36.252Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 3
     },
     {
       "category": "경제",
       "count": 2
     },
     {
-      "category": "연예",
+      "category": "IT·과학",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
@@ -24,98 +32,73 @@
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-01T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGgTtvvSwJcUz-OHzI2sMtUgUr__9H4cNnikBolsCYFdKSQllkotDmqrjbhOY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8BocedIPUCrbTacysUMwKKArZpbxdT-fEfvyHcG9iBvhOE6b1AomZjMYZFA",
       "category": "경제",
       "news": [
         {
-          "title": "새만금이 이렇게 달라진다고? - 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148974630",
-          "source": "대한민국 정책브리핑"
+          "title": "’3분 만에 주차 척척’…현대차, 주차로봇 실증",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031092613zcM",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "장재훈 현대차그룹 부회장 \"새만금 9조 투자 차질없이 추진\" : 네이버 블로그",
-          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224461262721&redirect=Dlog",
-          "source": "Naver Blog"
+          "title": "\"주차 때마다 조마조마 했는데\"…월패드로 출차 누르면 3분 만에 차 빼주는 현대차로봇",
+          "url": "https://www.etnews.com/20261030000116",
+          "source": "전자신문"
         },
         {
-          "title": "새만금, AI·로봇·에너지 융합 거점으로…전력·인재·실행력이 성패 가른다",
-          "url": "https://www.sedaily.com/article/20108586",
+          "title": "아파트 이중주차 없어지나…현대차그룹, 공동주택 주차로봇 시연회",
+          "url": "https://www.sedaily.com/article/20108154",
           "source": "서울경제"
         }
       ]
     },
     {
-      "keyword": "부평",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-01T09:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwKLZQRTceE7bAgNc5ifp04y5feosQIeiK59ylfDayKy1qrybSFY7bpYiQLd0",
-      "category": "기타",
+      "keyword": "허미미",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T12:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBIx4P4jK1kUHxhMIW4OB6MUne3TaC0d2s66kVE82jvAcfmmBybf41VN6W3U",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "'핼러윈' 16만 명 운집‥이태원역 무정차 통과",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862244_37012.html",
-          "source": "MBC 뉴스"
+          "title": "오상욱, '그랜드슬램 목표' 허미미에 멘탈 비법 전수",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738907",
+          "source": "국제뉴스"
         },
         {
-          "title": "핼러윈 밤 홍대 13만·이태원 3만 인파…큰 혼란 없었다",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700815",
-          "source": "KBS 뉴스"
+          "title": "‘냉장고를 부탁해’ 비웨사 다니엘·허미미 출연… 아시안게임 뒷이야기 공개",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444847",
+          "source": "천지일보"
         },
         {
-          "title": "잊지 않을께요",
-          "url": "https://www.newsis.com/view/NISI20261031_0021512811",
-          "source": "뉴시스"
+          "title": "日 국적 포기 귀화 허미미, 먹고 충격받은 한식은? “일본엔 ‘이것’ 없어”(냉부)",
+          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110&code=100100",
+          "source": "뉴스엔"
         }
       ]
     },
     {
-      "keyword": "7 호선 고장",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T11:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWBb0TE4uXDOhWbu22w5xwwxOyNTtn_NH_QBF4h0m1Yx7c9I2qVPw1vjoF75A",
-      "category": "기타",
+      "keyword": "논쟁",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T11:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwc-YCvxKYP-fEDvt15z9mD4p7yqAL-K25y6FUYwfY7JlgSM5YY9l4eJxb5s",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "서울 지하철 2호선, 서초역-종합운동장역 단전으로 한때 운행 차질",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862335_36918.html",
-          "source": "MBC 뉴스"
+          "title": "“李 코피 골프탓” “소주 챙기던 尹 잊었나”…‘해외순방’ 여야 충돌",
+          "url": "https://www.joongang.co.kr/article/25474759",
+          "source": "중앙일보"
         },
         {
-          "title": "2호선 두 차례 단전…양방향 열차 한때 운행 차질",
-          "url": "https://view.asiae.co.kr/article/2026110120165773489",
-          "source": "아시아경제"
+          "title": "“돼지 눈엔 돼지만”…이 대통령 SNS, 소통 창구서 ‘설전 도구’로",
+          "url": "https://www.khan.co.kr/article/202611012132015",
+          "source": "경향신문"
         },
         {
-          "title": "7호선 보라매역서 열차 고장으로 승객 전원 하차…상행선 운행 지장",
-          "url": "https://www.yna.co.kr/view/AKR20261101026000004",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "노벨상",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T10:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ3BqqsJpCUO24fp7KrhBnP7KKpQnUExAtCe6T3Lxz3H782H_9aIDXi0ITV2A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[단독] 노벨상 심사 수장 “한국 수상 가까워졌다”…콕 집은 두 분야는",
-          "url": "https://www.mk.co.kr/news/it/12192950",
-          "source": "매일경제"
-        },
-        {
-          "title": "한림원-성균관대, 30日 스벤 리딘 스웨덴왕립과학한림원장 특별강연 개최",
-          "url": "https://www.etnews.com/20261029000451",
-          "source": "전자신문"
-        },
-        {
-          "title": "노벨상 선정한 과학자, 한국 대학생에 '위대한 발견' 강연",
-          "url": "https://view.asiae.co.kr/article/2026102923014281333",
-          "source": "아시아경제"
+          "title": "이재명 대통령 시정연설 D-1, 외교성과 감싼 정부…\"돼지눈엔 돼지만\" 정상 외교 공방 계속",
+          "url": "https://news.jtbc.co.kr/article/NB12325893",
+          "source": "JTBC"
         }
       ]
     },
@@ -133,9 +116,9 @@
           "source": "뉴시스"
         },
         {
-          "title": "KT 은퇴 임직원, AI 강사로 변신…1인가구 어르신 대상 생성형 AI 교육",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/01/XBH74P7KIBFYXL7TYCFCD644TY/",
-          "source": "Chosunbiz"
+          "title": "KT, 은퇴 임직원이 어르신에 생성형 AI 교육",
+          "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102030004",
+          "source": "서울신문"
         },
         {
           "title": "KT, 퇴직 임직원 AI 강사로 육성⋯시니어 교육 확대",
@@ -145,59 +128,9 @@
       ]
     },
     {
-      "keyword": "11 월 13 일",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T10:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7iwKh9L3e8KIqPVr-gtqj1sChLf-ZZsjZSV_pPB2gnrp4eKSZD-x7ZrTvaO0",
-      "category": "연예",
-      "news": [
-        {
-          "title": "“11월 13일 세계 종말, 비행기 타지 마라”…과학자들의 경고는 사실일까",
-          "url": "https://weekly.khan.co.kr/article/202611011334001",
-          "source": "주간경향"
-        },
-        {
-          "title": "제4회 김해시민영화제 ‘김씨네’ 13일 개막",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2018361",
-          "source": "경남도민일보"
-        },
-        {
-          "title": "‘나의 삶, 나의 영화’… 제4회 김해시민영화제 ‘김씨네’ 11월 13일 개막",
-          "url": "https://www.newsnjeju.com/news/articleView.html?idxno=303406",
-          "source": "뉴스N제주"
-        }
-      ]
-    },
-    {
-      "keyword": "김승수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTccZdyWaEEW_uxdozCbfiRp6BfDfQ6YGp3N6ZYFWT-3VYZxxpgphS01TTqtpk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "김승수, 16세 연하 아나운서와 핑크빛 계속",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849649",
-          "source": "뉴시스"
-        },
-        {
-          "title": "50대 김승수, 맞선녀와 첫 데이트인데 母까지 당황하게 만든 '맨발 사태' (미우새)",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/10/30/MY4DKZTDMIZWEZLDG44GENRWME/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "'미우새' 김승수, 박혜연 아나운서와 첫 데이트",
-          "url": "https://m.enter.etoday.co.kr/view/news_view.php?varAtcId=304599",
-          "source": "비즈엔터"
-        }
-      ]
-    },
-    {
       "keyword": "고양시",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-01T10:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk-icHT9hPvyD7fmPBQQBsCGV8uFyHXgiy2yYhJoHaMPzPB7N5SOgTQH-0CzM",
       "category": "연예",
@@ -216,6 +149,106 @@
           "title": "민경선 고양시장, 흥도동·삼송2동 주민축제 참석...주민자치 활성화 강조",
           "url": "https://www.ajunews.com/view/20261101140917680",
           "source": "아주경제"
+        }
+      ]
+    },
+    {
+      "keyword": "롯데그룹",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T12:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShov0NxiKaupRXSduacV1Qf19H4VmbXl5SUmx7HTCude9Z7LVt_IOyL-qzL9g",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[힘내라K산업]④롯데타워 담보 잡혔던 롯데그룹, 2년 만에 '위기설' 지웠다",
+          "url": "https://www.asiatime.co.kr/article/20261101500047",
+          "source": "아시아타임즈"
+        },
+        {
+          "title": "[힘내라 K산업]② 2년간 2조원 넘게 팔았다…롯데, 비핵심 정리 ‘최대 거래’는 롯데렌탈",
+          "url": "https://www.asiatime.co.kr/article/20261030500258",
+          "source": "아시아타임즈"
+        },
+        {
+          "title": "TPG, 롯데렌탈 인수 1조3105억원에 마무리",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=05795766645618168",
+          "source": "마켓인"
+        }
+      ]
+    },
+    {
+      "keyword": "como vs venezia",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T12:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH6O6q7xXSoLIMkDQj9F6N-wXEcLZSTTb7I4GAVRAufAewptNOTdjKFXxK04",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Con Nico Paz titular, el Como vence al Venezia con polémica :: Olé - ole.com.ar",
+          "url": "https://www.ole.com.ar/futbol-internacional/italia/nico-paz-titular-recibe-venezia-serie_0_tSvkAwHGFT.html",
+          "source": "Olé"
+        },
+        {
+          "title": "Como – Venecia el partido de fútbol de la jornada 10 de la Serie A, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261101/2453/como-venecia-serie-a-ca-en-directo-ctx.html",
+          "source": "La Vanguardia"
+        },
+        {
+          "title": "Venezia se concentra para salir del último lugar ante Como 1907",
+          "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/",
+          "source": "Anecdotarios"
+        }
+      ]
+    },
+    {
+      "keyword": "한세실업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T11:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXLgy53D84IE-svq_3gfmAZUX5wWk0L1ykiftoDd5DFTojrIvUeo_Gti2CQ_4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"미국인 3명 중 1명이 입는다\"…베트남서 옷 쏟아내는 韓기업",
+          "url": "https://www.hankyung.com/article/202611018137i",
+          "source": "한국경제"
+        },
+        {
+          "title": "3년 숙련공 일도 신입이 척척... ‘연 4억장’ 의류 기업의 자동화",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/01/HILFABSW7NA2NDHNB5SD53ER3Q/",
+          "source": "조선일보"
+        },
+        {
+          "title": "“자동화로 생산량 3배…미국인 3명 중 1명은 한세실업의 옷을 입는다”",
+          "url": "https://www.donga.com/news/Economy/article/all/20261101/134945091/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "다니엘",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T12:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJBt_enmtrUzstHULx5wGmFH87DiZtjZz9qVvyaJKuXR9YfUTUMaN2XVp-JOU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“다시 일어서기 위해” 뉴진스 4인·다니엘, 팬클럽 기념일에 각자 근황",
+          "url": "https://www.sedaily.com/article/20108362",
+          "source": "서울경제"
+        },
+        {
+          "title": "복귀 선언 1년, 뉴진스의 시계는 왜 '민지' 앞에서 멈췄나? [IZE 진단] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026103014387297584",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"예전과 같을 순 없겠죠\"…뉴진스 팬덤 생일에 자작곡",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822218",
+          "source": "SBS 뉴스"
         }
       ]
     },
@@ -241,31 +274,6 @@
           "title": "이준영, '포핸즈' 끝나도 응원 계속…기사후원 1위 (배우 브랜드 리포트)",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265166",
           "source": "톱스타뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "강부자",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKCSoIN_hZop0pEVv5ZzjFpfLoUO_T7E1A5eG_dyY2OxqJxRwkZwMkf_v7geA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "경북도, ‘친정엄마와 2박 3일’ 동락관서 선보이다",
-          "url": "https://www.dailydgnews.com/news/article.html?no=267698",
-          "source": "데일리대구경북뉴스"
-        },
-        {
-          "title": "강부자·윤유선 모녀의 눈물…동락관 울린 감동 무대",
-          "url": "https://www.reporternside.com/news/articleView.html?idxno=434617",
-          "source": "http://www.reporternside.com/"
-        },
-        {
-          "title": "강부자·윤유선이 전한 모녀의 정…‘친정엄마와 2박 3일’ 동락관 무대에",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089252",
-          "source": "경북일보"
         }
       ]
     }
