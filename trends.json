@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-01T10:32:30.364Z",
+  "updatedAt": "2026-11-01T11:27:37.669Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 3
+    },
+    {
+      "category": "연예",
+      "count": 3
     },
     {
       "category": "스포츠",
@@ -20,81 +24,197 @@
   ],
   "items": [
     {
-      "keyword": "ตรวจหวย",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T08:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMNoVQV4-IienhmFNeNh2AL8XoWqt8KBuc2vQi7Kbj9Anlz5KRvcnQpnwI7n4",
-      "category": "기타",
+      "keyword": "fc 서울 대 인천 유나이티드 fc 순위",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-01T09:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS8-4dlTuJA1y6DFCxYO10fwpS64gHnIAfSJyB5tIC4toxQTt74MLYr2zBrGg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "ตรวจหวย 1/11/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 1 พ.ย. 69",
-          "url": "https://www.sanook.com/news/9910754/",
-          "source": "Sanook"
+          "title": "FC서울 ‘인천 비하 현수막’ 사과… 인천, 경인더비서 1-0 승리",
+          "url": "https://www.kyeongin.com/article/1773825",
+          "source": "경인일보"
         },
         {
-          "title": "เปิดสถิติหวย งวด 1 พฤศจิกายน ย้อนหลัง 20 ปี พบเลขไม่ซ้ำ มีเบิ้ลบ้าง",
-          "url": "https://www.matichon.co.th/economy/news_5956300",
-          "source": "Matichon Online"
+          "title": "3위부터 6위까지 겨우 승점 2점 차! K리그1 순위 경쟁 대혼전...인천, 챔피언 서울 격파하고 4위 탈환",
+          "url": "https://www.chosun.com/sports/football/2026/11/01/GE4DKZLBHE2TAMLGHA4DKOJZGU/",
+          "source": "조선일보"
         },
         {
-          "title": "เลขเด็ด นกตาทิพย์ 1 พ.ย. 69 มาแล้ว เปิดโพยเลขเด่น พร้อมชุด 2 ตัวงวดนี้",
-          "url": "https://thethaiger.com/th/news/1626019/",
-          "source": "Thaiger"
+          "title": "[프로축구] 인천, '챔피언' 서울 1-0 제압…제르소 극장골로 4위 도약",
+          "url": "https://www.newspim.com/news/view/20261101000121",
+          "source": "뉴스핌"
         }
       ]
     },
     {
-      "keyword": "수원fc 대 안산 그리너스 fc 순위",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T08:20:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "keyword": "황희찬",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-01T09:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJeuK5s3pxwbTQIKk1Ys_BdpWGWqxMud0oeAgQuWcKpKA5X6Jv8GjvDHe9Yxo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘스태프 밀친’ 황희찬, 징계 없이 선발 출전해 83분 소화…팀은 패배",
+          "url": "https://www.donga.com/news/Sports/article/all/20261101/134943841/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "\"황희찬, 자신의 잘못 충분히 인정\" 샬케 감독 공개 질책...주치의 밀친 논란에 전 선수단 앞에서 규율 강조 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311126773772O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "대기심·팀닥터 밀친 황희찬, 선수단에 공식 사과…'매우 반성'",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849290",
+          "source": "뉴시스"
+        }
+      ]
     },
     {
-      "keyword": "t.o.p",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T08:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ9j7WLwdFmGqnWiW3Y_uCRVvI24GYi2OVH7pVApYC40mDow2pSZziAQQ4EFo",
+      "keyword": "부평",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-01T09:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRTHSq6UI8HKMww1TW55KVcnYX3YvZrJ8cGMS0AgrEvjzTj56IfDR-3abzgI",
       "category": "기타",
       "news": [
         {
-          "title": "Tomorrow's Top 25 Today: Ohio State falls from top 10, USC reenters college football rankings after upset win",
-          "url": "https://www.cbssports.com/college-football/news/college-football-rankings-tomorrows-top-25-ap-poll-ohio-state-usc/",
-          "source": "CBS Sports"
+          "title": "일제, 기구 이용해 부평 지하호 공사 속도냈다 [인천조병창 아카이브, 빈칸을 채우다]",
+          "url": "https://www.kyeongin.com/article/1773831",
+          "source": "경인일보"
         },
         {
-          "title": "Ohio State replaces BYU at No. 2 as Top 25 jumbled again by top-10 losses",
-          "url": "https://www.espn.com/college-football/story/_/id/50278326/ohio-state-replaces-byu-no-2-ap-top-25",
-          "source": "ESPN"
+          "title": "부평지하호 추정 장소 발견, \"정확한 조사 이어져야\"",
+          "url": "http://news.lghellovision.net/news/articleView.html?idxno=559867",
+          "source": "LG헬로비전"
         },
         {
-          "title": "Brett McMurphy's college football AP Top 25 ballot after Week 9",
-          "url": "https://www.on3.com/news/brett-mcmurphys-college-football-ap-top-25-ballot-after-week-9-2/",
-          "source": "On3"
+          "title": "옥외 설치 공기압축기 최소 6대 추정… 굴착작업 착암기 사용 가능성 크다 [인천조병창 아카이브, 빈칸을 채우다·(6)]",
+          "url": "https://www.kyeongin.com/article/1773813",
+          "source": "경인일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김승수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T10:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTccZdyWaEEW_uxdozCbfiRp6BfDfQ6YGp3N6ZYFWT-3VYZxxpgphS01TTqtpk",
+      "category": "연예",
+      "news": [
+        {
+          "title": "김승수, 16세 연하 아나운서와 핑크빛 계속",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849649",
+          "source": "뉴시스"
+        },
+        {
+          "title": "50대 김승수, 맞선녀와 첫 데이트인데 母까지 당황하게 만든 '맨발 사태' (미우새)",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/10/30/MY4DKZTDMIZWEZLDG44GENRWME/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "방송용 썸? 이번엔 진짜 연애?...김승수, 박혜연에 개인 연락하더니 (미우새)",
+          "url": "https://www.xportsnews.com/article/2213334",
+          "source": "www.xportsnews.com"
+        }
+      ]
+    },
+    {
+      "keyword": "악뮤",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T09:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9JEVeYqNqw5FQ7_V4z309eaXHn-3z9jCvmf5nDX5XAVCO7ZPfKjW24iRPt9Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"월세 지원에 주 4일 근무까지\"…이찬혁이 만든 기획사 파격 복지",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01859766645641456&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "'악뮤' 이찬혁-수현 남매, 북악산 뷰 3층집 공개 \"동거는 계속할 듯\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/01/2026110107275391684",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘주4일+월세 지원’ 꿈의 직장인데..‘소속사 대표’ 악뮤 “성 겹치면 입사 불가” ('전참시')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MRTDCNJTGE2GCODEHFSDQMLEMI/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이적",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T09:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTni6HPfJyCX1s4q3laW5I7oJu4ifXCXDJT4fTxAjR_F4S9Tlt2QgJBFHWtcRY",
+      "category": "연예",
+      "news": [
+        {
+          "title": "이적+서울대학교 합창단 - 걱정 말아요 그대 | KBS 261101 방송",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K01_PS-2026132672-01-000_MFSC17&program_code=T2000-0096&program_id=PS-2026132672-01-000&section_code=04&broadcast_complete_yn=N&section_id=10762",
+          "source": "대한민국 대표 공영미디어 KBS"
+        },
+        {
+          "title": "'열린음악회' 이적·윤하·포레스텔라·아일릿 총출동",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738848",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "열린음악회 출연진 라인업 윤하·이적",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611010030",
+          "source": "BNT뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "ai 데이터 센터",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T09:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiRn8nkcHbcDOK3L6SLniNNJu24I7vLZjtqedYBxftd7eRFVbT5zG-MbaDP2U",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한투·日 SBI, 1조엔 AI인프라 펀드 추진",
+          "url": "https://stock.mk.co.kr/news/view/1186394",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "韓日 금융·제조업 뭉친다…일본에 10兆 AI 데이터센터 추진",
+          "url": "https://www.hankyung.com/article/202611018268i",
+          "source": "한국경제"
+        },
+        {
+          "title": "투자 수익에 설비 수주까지…韓 기업, 日 데이터센터서 기회 찾는다",
+          "url": "https://www.fnnews.com/news/202611011023295305",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
     {
       "keyword": "이현중",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-01T09:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtkcWzHGwnJBUdWSzfZF9sNW2rrI9RtYnHfDYIhwvFJZWTgUi3ueswzMKr7j4",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLSWOO2bxwbZSw7wPcO8etbyk37tG1VTuS2G4gBp6F_GTm6trn8kWY2PfJ98",
+      "category": "IT·과학",
       "news": [
+        {
+          "title": "이현중 \"아시안게임서 금메달 땄는데 '런닝맨'에서는 패배\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6339132",
+          "source": "뉴스1"
+        },
         {
           "title": "천하의 김종국도 속수무책…김민종 압도적 피지컬 (런닝맨)",
           "url": "https://sports.donga.com/ent/article/all/20261101/134944858/1",
           "source": "스포츠동아"
-        },
-        {
-          "title": "'런닝맨' 김민종X이현중, 국가대표들의 극과 극 밥상 공개",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523102",
-          "source": "iMBC 연예"
         },
         {
           "title": "\"종국이 일반인이네\"… '런닝맨' 유도 김민종 압도적 힘에 김종국 조기 퇴진",
@@ -104,152 +224,52 @@
       ]
     },
     {
-      "keyword": "한화솔루션",
+      "keyword": "노벨상",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-01T08:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0yChf0_PNZjouxslsG6WcgwX_oTyuvBtnjUnTJE_PhWphTjhkAz2b6yMKwME",
-      "category": "경제",
-      "news": [
-        {
-          "title": "한 분기 만에 다시 적자…한화솔루션 실적 발목 잡은 석유화학",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980158.html",
-          "source": "인베스트조선"
-        },
-        {
-          "title": "태양광 3사, 실적 회복세 지속…美 시장 확대에 4분기 주목",
-          "url": "https://www.g-enews.com/article/Industry/2026/10/202610301521477039ea14faf6f5_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "한화솔루션, 美 태양광 판가 상승에도 '어닝 쇼크'…수익성 개선은 2027년부터",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353504",
-          "source": "녹색경제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "콜 오브 듀티: 모던 워페어 4",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T08:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSix2kSzkIvli02vvJ6w6EKzGOWO5g-MBtNg_Z6WOC_kKN973KcgD9TtEY3_k",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독] '이태원 참사 박제' 콜오브듀티 \"머리 숙여 사과‥전면 삭제\"",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862063_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[ZD e게임] 익숙한 한국 도심이 전장으로…'콜 오브 듀티' 신작 해보니",
-          "url": "https://zdnet.co.kr/view/?no=20261101143744",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "\"우크라 침공·이란전 예언했나\"…'콜 오브 듀티' 논란의 역사 주목 [지금이뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0545_202610310920013748",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "persib bandung vs adhyaksa",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T08:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG8PLlg_excVwgVL0K6cZv_rcrlYD0HD8Hc-8TwJuG3UHYoww7uVTGGqfJCtU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Link Live Streaming Persib vs Isenmulang Hari Ini: Demi Kejar Persija di Puncak, Maung Tumpuk 4 Pemain Depan, Tayang di Vidio",
-          "url": "https://afu.id/olahraga/link-live-streaming-persib-vs-isenmulang-hari-ini-demi-kejar-persija-di-puncak-maung-tumpuk-4-pemain-depan-tayang-di-vidio",
-          "source": "AFU.id"
-        },
-        {
-          "title": "Persib Tunda Kembalinya Teja dan Gabriel saat Jamu Isen Mulang",
-          "url": "https://demokratis.co.id/persib-teja-gabriel-isen-mulang",
-          "source": "Demokratis.co.id"
-        },
-        {
-          "title": "Daftar Susunan Pemain Persib Bandung vs Isenmulang Kalteng Hari Ini",
-          "url": "https://mediaindonesia.com/sepak-bola/951018/daftar-susunan-pemain-persib-bandung-vs-isenmulang-kalteng-hari-ini",
-          "source": "Media Indonesia"
-        }
-      ]
-    },
-    {
-      "keyword": "australia vs afghanistan",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T08:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwISGq_wsTRI143bgn_TJkrmG6lgn7oPEIweR07YNfuAN_pScYXUTeUaDajhQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Australia vs Afghanistan T10 Today at Mission Road Ground, Mong Kok, Hong Kong stadium",
-          "url": "https://aimamedia.org/newsdetails.aspx?nid=837407",
-          "source": "AIMA Media"
-        },
-        {
-          "title": "Australia vs Afghanistan Final Stats - Mong Kok | Most Runs, Wickets & Boundaries, 01 November 2026 | The SportsTak",
-          "url": "https://thesportstak.com/cricket/match/aus-vs-afg-final-hong-kong-sixes-01-november-2026-275395/stats",
-          "source": "SportsTak"
-        },
-        {
-          "title": "Full Scorecard of Afghanistan vs Australia, Hong Kong International Sixes 2026, Final - Score Report | ESPN.com",
-          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559216/afghanistan-vs-australia-final-hong-kong-international-sixes-2026-27",
-          "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "heidi klum",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T08:40:00.000Z",
-      "picture": "",
+      "startedAt": "2026-11-01T10:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ3BqqsJpCUO24fp7KrhBnP7KKpQnUExAtCe6T3Lxz3H782H_9aIDXi0ITV2A",
       "category": "기타",
       "news": [
         {
-          "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-          "url": "https://www.bbc.com/news/videos/cj040yd1xdrlo",
-          "source": "BBC"
+          "title": "[단독] 노벨상 심사 수장 “한국 수상 가까워졌다”…콕 집은 두 분야는",
+          "url": "https://www.mk.co.kr/news/it/12192950",
+          "source": "매일경제"
         },
         {
-          "title": "’I DID NOT EXPECT THIS’: Heidi Klum’s most insane Halloween look revealed",
-          "url": "https://www.news.com.au/entertainment/heidi-klums-halloween-costumes-every-outrageous-look-year-by-year/image-gallery/1d7802c4a36c01183df9c42d08e40b81",
-          "source": "News.com.au"
+          "title": "한림원-성균관대, 30日 스벤 리딘 스웨덴왕립과학한림원장 특별강연 개최",
+          "url": "https://www.etnews.com/20261029000451",
+          "source": "전자신문"
         },
         {
-          "title": "Heidi Klum Becomes Her Left Hand for Halloween",
-          "url": "https://www.nytimes.com/2026/10/31/style/heidi-klum-halloween-costume-hand.html",
-          "source": "The New York Times"
+          "title": "노벨상 선정한 과학자, 한국 대학생에 '위대한 발견' 강연",
+          "url": "https://view.asiae.co.kr/article/2026102923014281333",
+          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "유학생",
+      "keyword": "11월 13일",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-01T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNXmxlC-YFmjPLjw7h6BHUtomK-qAa5-S9rmnZMq8nwn2S_75nyWdpcJP5_3A",
-      "category": "기타",
+      "startedAt": "2026-11-01T10:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7iwKh9L3e8KIqPVr-gtqj1sChLf-ZZsjZSV_pPB2gnrp4eKSZD-x7ZrTvaO0",
+      "category": "연예",
       "news": [
         {
-          "title": "“K팝 듣다 한국 유학 꿈꿔요”…하노이 달군 한국유학박람회",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261101010000154",
-          "source": "아시아투데이"
+          "title": "“11월 13일 세계 종말, 비행기 타지 마라”…과학자들의 경고는 사실일까",
+          "url": "https://weekly.khan.co.kr/article/202611011334001",
+          "source": "주간경향"
         },
         {
-          "title": "\"고1부터 베트남 입시 포기하고 한국 대학 준비...고대 '과잠' 입는 게 평생 소원\"[르포]",
-          "url": "https://www.fnnews.com/news/202611010432539627",
-          "source": "파이낸셜뉴스"
+          "title": "제4회 김해시민영화제 ‘김씨네’ 13일 개막",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2018361",
+          "source": "경남도민일보"
         },
         {
-          "title": "대구광역시, 베트남 유학박람회서 유학생 유치 설명회 단독 개최",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738767",
-          "source": "국제뉴스"
+          "title": "‘나의 삶, 나의 영화’… 제4회 김해시민영화제 ‘김씨네’ 11월 13일 개막",
+          "url": "https://www.newsnjeju.com/news/articleView.html?idxno=303406",
+          "source": "뉴스N제주"
         }
       ]
     }
