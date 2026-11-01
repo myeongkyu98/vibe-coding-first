@@ -1,67 +1,184 @@
 {
-  "updatedAt": "2026-11-01T22:29:18.306Z",
+  "updatedAt": "2026-11-01T23:29:26.176Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 8
+      "count": 4
+    },
+    {
+      "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 2
     },
     {
       "category": "경제",
       "count": 1
     },
     {
-      "category": "기타",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "kia 타이거즈",
-      "traffic": "200000+",
-      "trafficValue": 200000,
-      "startedAt": "2026-11-01T21:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfub8NVqPYaiNrxz_p1L812jpTK_dXg4hWAu8fS4FoGGVOIiiHoFEaRUfNxBY",
+      "keyword": "김호령",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-01T21:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPl7ZI_4_tiNNki7NtXAJgLa0ej8_t1TWUN_5LIN-gfHfN4-P-gvLoRzMRTRs",
       "category": "스포츠",
       "news": [
         {
-          "title": "후라도 7이닝 1실점... 삼성, 벼랑 끝 5차전서 KIA 잡고 KS행",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/01/EQMA4NQGWRDFFHYX2C7WTL56CE/",
-          "source": "조선일보"
+          "title": "KIA 가을 최악 악몽 주인공… FA 가치 시험대 오른다, 설마 이렇게 KIA 떠날까",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016924",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "'KS행' 박진만 감독이 꼽은 '숨은 MVP' 뜻밖에! 이 선수였다, PO 전 경기 역투라니 '압권' [PO5 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110112343551277",
+          "title": "[사진]아쉬운 김호령 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/202610302057770725O",
           "source": "머니투데이"
         },
         {
-          "title": "“고개 들어라, 정말 멋지고 자랑스럽다” 198승 대투수, PO 패배에도 후배들에게 전한 진심",
-          "url": "https://www.osen.co.kr/article/G1112902367",
-          "source": "OSEN"
+          "title": "이범호 감독 ‘이호연 대타’[포토]",
+          "url": "https://www.xportsnews.com/article/2214015",
+          "source": "www.xportsnews.com"
         }
       ]
     },
     {
-      "keyword": "화이트캡스 대 시애틀 사운더스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T20:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0cE1IBTa1oJs2bfOMMV-4mx5B0f1uKWVdx6b2XXU7hMHHBJlLgCfn3I3ZFeE",
-      "category": "스포츠",
+      "keyword": "비트코인",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T22:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOJvw8pulqKrLaezI7QdnVcY2E7cG-ZiKIh6dTixW4ng0xnZbEx-Q29O0OSac",
+      "category": "경제",
       "news": [
         {
-          "title": "Whitecaps vs. Sounders, livestream: Kickoff, lineups, updates",
-          "url": "https://www.sounderatheart.com/2026/11/whitecaps-vs-sounders-gamethread-3/",
-          "source": "Sounder at Heart"
+          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "Idle Whitecaps clinch first place in Western Conference",
-          "url": "https://www.sportsnet.ca/mls/article/idle-whitecaps-clinch-first-place-in-western-conference/",
-          "source": "Sportsnet.ca"
+          "title": "“8조 원이 한순간에 증발”…바이낸스, 대체 왜 털렸나? [잇슈 머니]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700945",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "PREVIEW: Over 30,000 expected for 'Caps final regular season home match against Seattle, presented by Chevrolet | Watch on Apple TV",
-          "url": "https://www.whitecapsfc.com/news/preview-caps-final-regular-season-home-match-seattle",
-          "source": "www.whitecapsfc.com"
+          "title": "트럼프 \"바이낸스 해킹, 북한 소행 확인되면 대화할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442367",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "휴고 칼데라노",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T22:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRbuWZk_6MEWV8XNBZMwfIInmVcvhreknhZMgi7LYJFyWGdWjRz3FYyyRjm8E",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘거침없다’ 탁구 에이스 장우진, 세계랭킹 6위와 결승 티켓 다툰다…WTT 챔피언스 몽펠리에 4강 진출",
+          "url": "https://www.osen.co.kr/article/G1112902055",
+          "source": "OSEN"
+        },
+        {
+          "title": "장우진 쾌거! 韓 탁구 최초 WTT 챔피언스 2회 결승 진출…세계 7위 칼데라누에 4-3 역전승→18위 프란치스카와 트로피 다툰다",
+          "url": "https://www.xportsnews.com/article/2214143",
+          "source": "엑스포츠뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "구미시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T22:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-6WlVPcszyVesWx2xGmc3f6jCTnqU1GDxl4wReZUOwNTOaAPrEESkL1D6tLU",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
+          "url": "https://www.ajunews.com/view/20261101203439139",
+          "source": "아주경제"
+        },
+        {
+          "title": "구미 중소기업·소상공인 협업 지원 길 열렸다",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089130",
+          "source": "경북일보"
+        },
+        {
+          "title": "구미시, 기업지원 체계 바꾼다⋯AI·공급망 중심 전환",
+          "url": "https://www.kbsm.net/news/view.php?idx=539845",
+          "source": "경북신문"
+        }
+      ]
+    },
+    {
+      "keyword": "사학연금",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T21:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "파업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T21:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4eDPF3ADluUwo-Oaabfc2EvAUmFqcXPTnvKA4LS7C0T9GDYmrpYJ9-1SmyXQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
+          "url": "https://www.yna.co.kr/view/AKR20261101014100053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "포스코 노조 파업 철회하고 7일 임금협상 잠정합의안 투표, 과반 찬성하면 최종 타결",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450846",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "포스코 노사, 올해 임금협상 '극적 합의'…\"철강 위기 극복 위해 힘 합친다\"",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849616",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "미국 중간선거",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T21:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT2oZmNnysmrO9f08I_uoob5X-U1PisyEBqNXUUP4xVV6gwh2zz_xvPZgoqco",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "미 중간선거 D-2‥트럼프 '패배 대비책' 마련",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862372_37012.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "미 중간선거 D-1, 사전투표 5천만 명 넘어 '역대 최다'...트럼프 앞날은? [뉴스타트]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611020717303040",
+          "source": "YTN"
+        },
+        {
+          "title": "美 민주 완승땐 태양광-ESS산업 탄력… 공화 승리땐 마스가 속도 기대",
+          "url": "https://www.donga.com/news/Economy/article/all/20261102/134946943/2",
+          "source": "동아일보"
         }
       ]
     },
@@ -70,13 +187,13 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-01T21:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdVCR0oINMoi-4uAC1ClfnipH3sLAUgUW4K95gpEgLHEAaD80e7wzn2f7mWvM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9qQQN3Fn2tPX9MGlp-3jkhjGhvxQEu5ZpOTdLuECuhKXsi0GvsAfB4ISAchc",
       "category": "스포츠",
       "news": [
         {
-          "title": "김연경, 인쿠시 포함 3명 방출 경고 \"몸 관리도 실력…팀에서 나가\" - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/02/2026110205075828775",
-          "source": "머니투데이"
+          "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1",
+          "source": "스포츠동아"
         },
         {
           "title": "‘신인감독 김연경2’ 표승주 팀과 맞대결서 고전…김연경 “할 말이 없다”",
@@ -91,163 +208,38 @@
       ]
     },
     {
-      "keyword": "대한민국 축구 국가대표팀",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T21:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvkJBztRvUJPXXEbSfUCqpnlIGB6OUUtbcbTEmqrxYooedY-nrWImyBAmFKGk",
+      "keyword": "지소연",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T22:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl0Un1y8-RocVflJDt8zEdZp6toGK5X5qYKVYBWIy-eAAmXWFgRnXAevfksLY",
       "category": "스포츠",
       "news": [
         {
-          "title": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814",
-          "source": "머니투데이"
+          "title": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
+          "url": "https://www.xportsnews.com/article/2213907",
+          "source": "엑스포츠뉴스"
         },
         {
-          "title": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
-          "url": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/",
-          "source": "조선일보"
+          "title": "'A매치 200경기 앞둔' 지소연 \"국가대표 20년 차...대표팀 주장은 한 번도 안 했죠\"",
+          "url": "https://www.hankookilbo.com/news/article/A2026103014500000918",
+          "source": "한국일보"
         },
         {
-          "title": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
-          "url": "https://weekly.khan.co.kr/article/202610311852001",
-          "source": "주간경향"
+          "title": "“손흥민 안쓰러웠다”… 96라인 내분설에 입 연 ‘이 선수’, 작심하고 발언했다",
+          "url": "https://www.wikitree.co.kr/articles/1170829",
+          "source": "위키트리"
         }
       ]
     },
     {
-      "keyword": "klasemen racing santander vs real madrid",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T21:00:00.000Z",
+      "keyword": "klasemen liverpool vs arsenal",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T22:00:00.000Z",
       "picture": "",
       "category": "스포츠",
       "news": []
-    },
-    {
-      "keyword": "nfl",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T21:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ5qDx56whPanfKmGRjhP7WWqB7CiD9OP3uxj1YIx3HXOWz9g6I7P8HsEzmPY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "NFL Vikings suffer first loss while Allen sparks Bills win",
-          "url": "https://www.france24.com/en/live-news/20261101-nfl-vikings-suffer-first-loss-while-allen-sparks-bills-win",
-          "source": "France 24"
-        },
-        {
-          "title": "Tom Brady’s LFG Player of the Game: Lions’ Jahmyr Gibbs | Week 8",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-l5ff673x2oe4v8ab",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "Detroit Free Press. . Andrew Birkle and Shawn Windsor are LIVE on the Freep Sports Show discussing the #detroitlions vs. #minnesotavikings NFC North game in Week 8 at Ford Field. Did the Lions finally take hold of the division? Was Jared Goff able to pick",
-          "url": "https://www.facebook.com/detroitfreepress/videos/lions-vikings-week-8-live-reaction-show-from-huge-nfc-north-game/2704439936668556/",
-          "source": "Facebook"
-        }
-      ]
-    },
-    {
-      "keyword": "afc 아시안컵",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T20:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxR9XZ89OV2h_K8F4ezoo4kUXokhHNsD0DwrcaCJoHHaQ9hqmA6_KTLf1LM7U",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "사우디 아시안컵 1년 연기 가능성…손흥민 '라스트 댄스' 변수",
-          "url": "https://www.newspim.com/news/view/20261102000017",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "충격 '오피셜' 발표하나, '손흥민-이강인 김민재 어떡해' 韓 축구 대표팀 안전 위기 피할 수 있다...파격 전망 \"아시안컵 2028년 연기 준비\" 등장",
-          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100007550000396",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "적금",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T20:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuO5SP7ZgW77s_N4TURIT9jMQ-oMIu2c-MCCcLKJYOKxv8EhEv1a4YUwcsk4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
-          "source": "금융신문"
-        },
-        {
-          "title": "12개월 정기예금 최고 연 4.1%…저축은행·지방은행이 상위권, 우대조건은 꼭 확인",
-          "url": "https://www.diarypoint.com/news/articleView.html?idxno=6469",
-          "source": "https://www.diarypoint.com/"
-        },
-        {
-          "title": "12개월 최고 연 6.00%…BNK저축은행 'BNK동행적금'[이주의 저축은행 적금금리-11월 1주]",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026110100111753707c96e79780_18",
-          "source": "금융신문"
-        }
-      ]
-    },
-    {
-      "keyword": "이영준",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T20:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCB_aXtWacgi5qqheeNsf2zNIPIvJffEu6V-65YgM-oz0w_lKb00W0JYC0UAE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "이영준, 시즌 6호골로 2-2 무승부 기여‥엄지성은 어시스트",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6862294_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "'모레노호 승선 불발' 이영준, 시즌 6호골로 2-2 무승부 기여",
-          "url": "https://www.yna.co.kr/view/AKR20261101012400007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "이영준 시즌 6호골 맹활약에도…그라스호퍼는 리그 5경기 무승",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849606",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "임영웅",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T20:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvCiJf6elfpJolLJ80RwlOL1Z89qOUKX8r_jAVKpWrbhlCsey7pmecqSXX-Kc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "임영웅, 하루에만 644만 회 재생…멜론 누적 148억 회 넘었다",
-          "url": "https://sports.donga.com/ent/article/all/20261030/134937232/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "148억 대기록 세운 임영웅, 영웅시대는 선행으로 온기를 더했다",
-          "url": "https://www.sportsseoul.com/news/read/1645380",
-          "source": "스포츠서울"
-        },
-        {
-          "title": "임영웅, 모교 후배들과 녹음실서 맞춘 하모니",
-          "url": "https://enter.etoday.co.kr/news/view/304379",
-          "source": "비즈엔터"
-        }
-      ]
     }
   ]
 }
