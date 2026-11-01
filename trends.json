@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-01T07:53:01.965Z",
+  "updatedAt": "2026-11-01T08:42:14.572Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 4
+      "count": 5
     },
     {
-      "category": "경제",
+      "category": "기타",
       "count": 2
     },
     {
@@ -14,90 +14,49 @@
       "count": 2
     },
     {
-      "category": "기타",
-      "count": 2
+      "category": "경제",
+      "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "울산 hd fc 대 강원 fc 순위",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-01T07:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSHFltnZz4qS_yS8qr0WTMV0jcSgNFbq-CBoqvZahsbm9MR1az10g_JMbZ1VM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "’에릭 멀티골’ 프로축구 울산, 강원에 2-1 역전승…2위 사수",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261101170004V3F",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "K리그1 울산, 강원에 2-1 역전승…포항은 제주와 무승부",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849749",
+          "source": "뉴시스"
+        },
+        {
+          "title": "역전승 거둔 김현석 울산 감독 “앞으로 선제골 넣으며 이기는 경기 하자”…정경호 강원 감독 “작은 미스로 결과가 바뀌었다”",
+          "url": "https://www.sportsworldi.com/newsView/20261101509416",
+          "source": "스포츠월드"
+        }
+      ]
+    },
+    {
       "keyword": "fc 서울 대 인천",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-01T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ezgOqLVhFqdcl_eWNGbtgL8Te-37mjYWnB5A0RCZ-hBT6dc-A_dtqMklYUw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[K리그 유스컵 인천 2026] 최우수선수상(MVP) FC서울 노시온 “동료들과 함께 만든 우승”",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335585",
-          "source": "인천일보"
-        },
-        {
-          "title": "'K-올리세' 인터내셔널 유스컵 득점왕 안제민 \"(손)정범이 형처럼 프로 데뷔·국대까지 가고파\" [인천 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103018084583384",
-          "source": "머니투데이"
-        },
-        {
-          "title": "FC서울 U-17, 'K리그 인터내셔널 유스컵' 한국 팀 사상 첫 우승…결승전 광주FC 4-1 대파 [현장리뷰]",
-          "url": "https://www.xportsnews.com/article/2213477",
-          "source": "www.xportsnews.com"
-        }
-      ]
-    },
-    {
-      "keyword": "kbo",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-01T05:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2kM8EoJHKlqe-XUgXwDk2EgJy7k2EnXYDNVxlz30rlab1YQxXSdbTjkYK5E",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Tigers manager sticks to same lineup in KBO postseason elimination game",
-          "url": "https://en.yna.co.kr/view/AEN20261101002800315",
-          "source": "Yonhap News Agency"
-        },
-        {
-          "title": "KIA Places Star Batter Kim Do-young in No. 2 Spot for Game 4 of Playrestling Playoffs",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008823610",
-          "source": "news.sbs.co.kr"
-        },
-        {
-          "title": "[Photo] Castro ties game in 7th",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/30/YBKZYCKZH5CIXMCZ6KL2QRCFOA/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "빙그레",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T06:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyDnzpWqTwC49Q_AZ_1mAxYA_udeLNUyC6-fkONYhIqwcTdr6xeHafmZ_BVHI",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"젠슨 황도 100개 쏘더니\"…해외서 불티난 52살 '국민 간식'",
-          "url": "https://www.hankyung.com/article/2026110178927",
-          "source": "한국경제"
-        },
-        {
-          "title": "빙그레 바나나맛우유 수출 4년새 두배…해외에 4번째 법인 설립",
-          "url": "https://www.yna.co.kr/view/AKR20261031036600030",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "빙그레 바나나맛우유, 해외 매출 4년 새 96%↑… 호주 생산기지로 글로벌 공략",
-          "url": "https://www.viva100.com/article/20261101500263",
-          "source": "브릿지경제"
-        }
-      ]
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "로이킴",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-01T06:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlgkbkMtmEy5CDOd5duDKiwZA2XvG5fuX2nYqyawPcQu4c66i6Vz09-hH1uKY",
       "category": "연예",
@@ -120,127 +79,127 @@
       ]
     },
     {
-      "keyword": "코스피 200",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T06:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPOlHMp2Vi5XUFVnVdRARzjAe6v39ZO3xJeRVCimv7tU4TjViQ3qGQrgkGjec",
-      "category": "경제",
+      "keyword": "india vs new zealand",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T07:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_AMHlHxZv-kOoEZ3_vd7OU7IOBZJhn3ipYBTwHd5oyfkFBELTASnScWAMzV0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "연금 고수들, 美 지수 대신 코스피200·반도체 담았다",
-          "url": "https://www.hankyung.com/article/202611018112i",
-          "source": "한국경제"
+          "title": "Vaibhav Sooryavanshi Snubbed Again As India Make 2 Changes In Playing XI For 5th T20I",
+          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/vaibhav-sooryavanshi-snubbed-again-as-india-make-2-changes-in-playing-xi-for-5th-t20i-12266375",
+          "source": "NDTV Sports"
         },
         {
-          "title": "“퇴직연금 다 날릴 수도”…ETF 투자한도 100%의 함정 [잇슈 머니]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699397",
-          "source": "KBS 뉴스"
+          "title": "New Zealand field in final T20I; Bhuvneshwar and Varun in for India",
+          "url": "https://www.cricinfo.com/story/nz-vs-ind-5th-t20i-new-zealand-field-bhuvneshwar-kumar-and-varun-chakravarthy-in-for-india-1560931",
+          "source": "Cricinfo"
         },
         {
-          "title": "\"실질수익률 0.5%..\" 60대 DC형 퇴직연금, 그냥 두면 손해인 이유 1위",
-          "url": "https://v.daum.net/v/6lVPujqFjx",
-          "source": "Daum"
+          "title": "New Zealand finally wins a toss and decides to bowl in the 5th T20 against India",
+          "url": "https://www.eagletribune.com/new-zealand-finally-wins-a-toss-and-decides-to-bowl-in-the-5th-t20-against/article_a65b116b-d383-5d37-9df0-404352f539f5.html",
+          "source": "Eagle-Tribune"
         }
       ]
     },
     {
-      "keyword": "kia 타이거즈 대 삼성 라이온즈 방송 채널",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T06:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrz5cscWQcQPJKJFlsOAxQ_qkXzqRHVKe2pKyLaUQ2nD8IKrW0h_lWSiAxbGE",
-      "category": "연예",
+      "keyword": "오타니 쇼헤이",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbPS065Jc53YsclIOx7SDX3ch1k0VxwbyWluEjc1BwNE-GrvXGFcDdlT2mijM",
+      "category": "스포츠",
       "news": [
         {
-          "title": "한준수 '내가 해냈어요'",
-          "url": "https://www.yna.co.kr/view/PYH20261030194100054",
-          "source": "연합뉴스"
+          "title": "이게 1조짜리 선수의 인성… 부친상 동료에 오타니가 건넨 한 마디, \"평생 못 잊을 것\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GEZTEZDEGRRTKNZZMVSGCZDCHA/",
+          "source": "조선일보"
         },
         {
-          "title": "‘94구→3일 휴식→99구’ 역대급 투혼 외인 에이스 “치어리더처럼 응원하겠다, 정말 KS 가고 싶어” [PO5]",
-          "url": "https://www.osen.co.kr/article/G1112902136",
+          "title": "오타니가 '부친상' 동료를 챙기는 방법…이러니 감동 받을 수밖에 \"세계 최고의 선수, 얼마나 마음 따뜻한지\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016781",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "\"아버지 돌아가셨는데, 오타니에게 전화가 왔다\" 이게 1조짜리 선수 인성",
+          "url": "https://www.sportschosun.com/baseball/2026-10-31/202611010100001410014251",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "한국시리즈 예매",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T07:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnsYXztzRK6VibW6-Y-pgiZZHndf3alQ6o2hHSObTsETzQ0_yyKKVZyVh4O7s",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'아노락 자켓 첫선' KBO, 2026 한국시리즈 기념 한정판 상품 출시…30일부터 판매 시작",
+          "url": "https://www.osen.co.kr/article/G1112901145",
           "source": "OSEN"
         },
         {
-          "title": "PO 승부는 5차전으로!…사자의 실책, 호랑이 살렸다!",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700184",
-          "source": "KBS 뉴스"
+          "title": "[프로야구] KBO, 2026 한국시리즈 기념 공식 기념상품 출시",
+          "url": "https://www.newspim.com/news/view/20261030001285",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "KT vs 삼성? KIA?…KBO, 한국시리즈 공식 기념상품 출시",
+          "url": "https://www.sportsseoul.com/news/read/1645669",
+          "source": "스포츠서울"
         }
       ]
     },
     {
-      "keyword": "김태군",
+      "keyword": "이승민",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-01T06:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRES-voNKm8LOgD2gpgDX1bqbCS59ZGaSZD0cjmadO_8C6qfqLuZAhn-YDYK1Q",
-      "category": "기타",
-      "news": [
-        {
-          "title": "와! '상남자' 김태군이 추워도 민소매로 훈련한 사연 \"이겼던 날 루틴 그대로\" [PO5 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110111054618276",
-          "source": "머니투데이"
-        },
-        {
-          "title": "“추워요, 피곤하게 살고 있습니다” KIA 테토남 포수의 11월 민소매 훈련…KS행 굳은 의지, 감기 걸려도 OK[MD대구 PO5]",
-          "url": "https://mydaily.co.kr/page/view/2026110113083047799",
-          "source": "마이데일리"
-        },
-        {
-          "title": "데드볼 김태군",
-          "url": "https://mobile.newsis.com/photo/NISI20261030_0021512191",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "김지찬",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T06:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGj_OJBVRU5DEX8zWgs8ple1zhYmsRI4E9w5QAk4ZJSaHANzx6CtNGuGJZHg",
+      "startedAt": "2026-11-01T07:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM9cL6pi0fgb_IDenNbJOquFUg17JimF3wXdTS709ftbauiuF3eHXVNMxEbfk",
       "category": "스포츠",
       "news": [
         {
-          "title": "김지찬, 적시타 치고 도루까지",
-          "url": "https://www.newsis.com/view/NISI20261101_0021513578",
+          "title": "역투하는 이승민",
+          "url": "https://www.newsis.com/view/NISI20261101_0021513675",
           "source": "뉴시스"
         },
         {
-          "title": "[사진] 득점 올린 강민호와 이재원, 박진만 감독과 하이파이브",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/01/GI2GGZRZHEZTKMRZMUYDKNRRGQ/",
-          "source": "Chosunbiz"
+          "title": "[포토] '만루위기 막아냈다!' 환호하는 강민호 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/30/2026103020550188750",
+          "source": "머니투데이"
         },
         {
-          "title": "[한번에쓱]카스트로 키 넘기며 '6회말 양현종 상대로 1타점 3루타' 김지찬 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110116073826086",
-          "source": "머니투데이"
+          "title": "‘PO 전 경기 출장’ 23홀드 좌완의 유쾌한 감사 인사, “하늘에 고맙다고 커피를 살 수도 없고…” [PO]",
+          "url": "https://www.osen.co.kr/article/G1112901077",
+          "source": "OSEN"
         }
       ]
     },
     {
-      "keyword": "스포츠",
+      "keyword": "윤종훈",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-01T06:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzub49vSY9COnd-Yc_jiEBDhgYtybZkXbs9IMuRqrAoY8l2NYDolPgkZrgzcM",
-      "category": "스포츠",
+      "startedAt": "2026-11-01T07:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUqeA-ZSsAKpi10ZYzznTLCkrYKTPvEFsqLqOeCFY9ZvG7SqvGWpymCbqTfJw",
+      "category": "연예",
       "news": [
         {
-          "title": "K리그2 수원FC, 안산에 1-0 승리",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039519",
-          "source": "기호일보"
+          "title": "배우 윤종훈, 11세 연하 한은서와 백년가약",
+          "url": "https://www.donga.com/news/Society/article/all/20261101/134943465/1",
+          "source": "동아일보"
         },
         {
-          "title": "'승격권 상대로 박빙 승부' 고춧가루 뿌릴 뻔한 최문식 안산 감독 \"골만 넣었다면...\" [수원 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110112385193658",
-          "source": "머니투데이"
+          "title": "윤종훈, 11세 연하 ♥한은서와 오늘 결혼…“평생 함께할 사람”",
+          "url": "https://www.sedaily.com/article/20108650",
+          "source": "서울경제"
         },
         {
-          "title": "수원FC 남매, 잇단 홈 경기 팬들과 함께 승전고 울리나",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363740929",
-          "source": "중부일보"
+          "title": "윤종훈♥한은서, 10살 차이 극복하고 오늘(1일) 결혼..\"책임감 있게 살 것\" [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GY3DCNBSGVQTOMBWMVSGINTGGI/",
+          "source": "조선일보"
         }
       ]
     },
@@ -249,23 +208,48 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-01T06:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2hUaus688p0mgWlmz2wWAqWMI8gP4YjnYzIU2ZHQPLiI93zi8P0KwccQEFjg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT949xXv_MY30eAlmmoFg-X79VcNt0vcd8_gVv9hEFyFWZmjfaUV2kyn3Nsgz0",
       "category": "기타",
       "news": [
         {
-          "title": "빅뱅 출신 탑, '20년' 팬사이트 폐쇄에 결국 사과 \"상처 드려 죄송\"",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849707",
-          "source": "뉴시스"
-        },
-        {
-          "title": "마약→은퇴 번복 다 참아줬는데..'빅뱅 출신' 탑, 20년 팬 손절에 뒤늦은 사과 [스타이슈]",
-          "url": "https://www.starnewskorea.com/music/2026/11/01/2026110111471211218",
-          "source": "스타뉴스"
+          "title": "탑, 20년 운영 팬페이지 폐쇄에 사과..\"소중한 세월이 오해로 남지않길\" [공식]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MEZTAMDEMMYDONZVMUYTMM3CGY/",
+          "source": "조선일보"
         },
         {
           "title": "‘빅뱅 출신’ 탑, 20년 팬 탈덕에 읍소 “큰 버팀목, 진심 잊지 못해” [전문]",
           "url": "https://sports.donga.com/ent/article/all/20261101/134943781/1",
           "source": "스포츠동아"
+        },
+        {
+          "title": "마약→은퇴 번복 다 참아줬는데..'빅뱅 출신' 탑, 20년 팬 손절에 뒤늦은 사과 [스타이슈]",
+          "url": "https://www.starnewskorea.com/music/2026/11/01/2026110111471211218",
+          "source": "스타뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "카스트로",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T06:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwVnSO4CQPUZo-xBD51YXxK7hKbnauy6hcXE4_SV47UokEbaF8DEzfFQz92DU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "KIA 카스트로 \"좋은 공 기다릴 것\"…PO 최종전 앞두고 전략 수정",
+          "url": "https://www.yna.co.kr/view/AKR20261101024800007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "끝장 경기에서 만세 수비 대참사→허무한 주루 포기…카스트로가 KIA 업셋 희망을 꺾었다 [PO5]",
+          "url": "https://www.osen.co.kr/article/G1112902317",
+          "source": "OSEN"
+        },
+        {
+          "title": "\"좌절하지 마, 에너지 유지하자\" 박재현 어떻게 달랬나...할 일 많은 카스트로, \"오늘 모두가 잘할 수 있다\" [PO5]",
+          "url": "https://www.koreadaily.com/article/20261031212022193",
+          "source": "미주중앙일보"
         }
       ]
     }
