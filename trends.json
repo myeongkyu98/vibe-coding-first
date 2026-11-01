@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-01T01:54:49.634Z",
+  "updatedAt": "2026-11-01T02:42:08.938Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
+    },
+    {
+      "category": "경제",
+      "count": 3
     },
     {
       "category": "정치·사회",
@@ -15,10 +19,6 @@
     },
     {
       "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "경제",
       "count": 1
     }
   ],
@@ -62,14 +62,14 @@
           "source": "OSEN"
         },
         {
-          "title": "[롤드컵] ‘LCK 4팀 8강’은 끝내 없었다!…BLG, 한화생명 떨어뜨리고 8강 막차 합류!, MSI 결승 복...",
-          "url": "https://sports.khan.co.kr/article/202611010854003",
-          "source": "스포츠경향"
-        },
-        {
           "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
           "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/",
           "source": "조선일보"
+        },
+        {
+          "title": "[롤드컵] 젠지는 LYON, T1은 KC, DK는 BLG…롤드컵 8강 대진 확정",
+          "url": "https://sports.khan.co.kr/article/202611010923003",
+          "source": "스포츠경향"
         }
       ]
     },
@@ -78,23 +78,73 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-10-31T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9L1Zty0516StXvIADO35q3RJjuNgbEaFOGPqtE8pihWPpJJhuggFz1-rj2IA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNizG4gAxKoCVreec-BIpqnvxx9EoCKnpb74s84ufUbahp_X-TT0DBB6ehV1g",
       "category": "정치·사회",
       "news": [
+        {
+          "title": "서울시, 겨울철 화재 안전 강화…취약주택에 자동소화기 보급",
+          "url": "https://www.yna.co.kr/view/AKR20261031030800004",
+          "source": "연합뉴스"
+        },
         {
           "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
           "url": "https://www.newsis.com/view/NISX20261031_0003849162",
           "source": "뉴시스"
         },
         {
-          "title": "경북소방 '겨울철 화재안전대책' 추진…사상자 10% 줄인다",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849570",
-          "source": "뉴시스"
-        },
-        {
           "title": "[기고] 올겨울 월동 준비 목록에 `안전`을 더하자",
           "url": "https://www.imaeil.com/page/view/2026102216372069216",
           "source": "매일신문"
+        }
+      ]
+    },
+    {
+      "keyword": "이경실",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T01:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhVjBOjgYbpMn4ec0VK4RD-4tp-LddwkHAKgs9jSuoUhwM3v23-XiwlTbhpsU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "이경실 \"89평 아파트 경매 위기, 김지선 1억 선뜻 빌려줘\"",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849587",
+          "source": "뉴시스"
+        },
+        {
+          "title": "이경실, 아파트 경매 위기서 ‘1억’ 빌려준 김지선에 무한 감사..“1년 걸려 갚아”",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/G4ZTIOJZMRRDEMZVMI2GGNTEGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "이경실, 과부 정선희 위해 3억 5천 모은 이유 “지금도 한우 옥돔 보내”(지식인사이드)",
+          "url": "https://www.newsen.com/news_view.php?uid=202611010800582310&code=100100",
+          "source": "뉴스엔"
+        }
+      ]
+    },
+    {
+      "keyword": "적금",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T01:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuL1zTWPxVihDmxNTvw0CDSr6L4gAb1M6nAfcN1gRv2d0yFtNOKFHPROk4xo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026103015240148661b5a221379_18",
+          "source": "금융신문"
+        },
+        {
+          "title": "12개월 정기예금 최고 연 4.1%…저축은행·지방은행이 상위권, 우대조건은 꼭 확인",
+          "url": "https://www.diarypoint.com/news/articleView.html?idxno=6469",
+          "source": "https://www.diarypoint.com/"
+        },
+        {
+          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
+          "source": "금융신문"
         }
       ]
     },
@@ -204,56 +254,6 @@
           "title": "Matias Alemanno victime d’une commotion cérébrale lors de la défaite du RC Vannes à Lyon",
           "url": "https://www.letelegramme.fr/sports/rugby/rc-vannes/matias-alemanno-victime-dune-commotion-cerebrale-lors-de-la-defaite-du-rc-vannes-a-lyon-7149830.php",
           "source": "Le Télégramme"
-        }
-      ]
-    },
-    {
-      "keyword": "gs건설",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T23:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJiZzTyP53Ga4h3WjUKucTgeKL04Tmy5Wb41pRIsc7LwkIPpaECOi0kh8omIY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "역대 최대 영업이익 질주하던 에이피알…원화 강세에 꺾였다",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442178",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "에이피알, 3분기 영업이익 1,606억 원…누적 매출 2조 돌파",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120707dbE",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "에이피알·GS건설·티에프이",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01728566645618496",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "테일러 프리츠",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T23:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD9V-DTN-7MRWScaDERLNIIdp13iljqKYvmAVcmQ0M9sASjeBM3z-kweE8vSQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Olivia Jade Reportedly Has a New Man in the Picture, & It’s Not Taylor Fritz",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-jade-reportedly-man-picture-190624887.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "OLIVIA JADE’S RELATIONSHIP REVEALED: Mystery man uncovered",
-          "url": "https://www.deuxmoi.world/news/olivia-jades-relationship-revealed",
-          "source": "DeuxMoi.world"
-        },
-        {
-          "title": "Olivia Jade Holds Hands With Businessman PC Valmorbida During NYC Outing a Year After Jacob Elordi Split",
-          "url": "https://www.eonline.com/news/1437509/is-olivia-jade-dating-pc-valmorbida-see-nyc-photo-after-jacob-elordi-split",
-          "source": "E! News"
         }
       ]
     }
