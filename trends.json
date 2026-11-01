@@ -1,58 +1,58 @@
 {
-  "updatedAt": "2026-11-01T00:47:41.151Z",
+  "updatedAt": "2026-11-01T01:54:49.634Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 3
-    },
-    {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
+      "count": 6
     },
     {
       "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "샬럿 대 필라데피아",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-31T22:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTguQEyS_0Bl-6J_soZUuxi2QPM_27SVps78vArLE5-DjJegiDdy49ZbTXEwGE",
-      "category": "스포츠",
+      "keyword": "사랑 이 온다",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-01T00:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHP2biKQ1qkDr7fS78y2HRBnfQOcAzAs8nsz7WC7FFdhi9vDwdrLWeFDizIrg",
+      "category": "기타",
       "news": [
         {
-          "title": "Sixers at Hornets: Game Preview, Injury Report and How to Watch 10/31/2026",
-          "url": "https://sixers.com/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026",
-          "source": "NBA.com"
+          "title": "'사랑이 온다' 안희연, 하석진에 고백…27화 예고",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610310150",
+          "source": "BNT뉴스"
         },
         {
-          "title": "Charlotte Hornets vs. Philadelphia 76ers Full Game Preview, Score Predictions",
-          "url": "https://www.si.com/nba/hornets/onsi/charlotte-hornets-vs-philadelphia-76ers-full-game-preview-score-predictions",
-          "source": "Sports Illustrated"
+          "title": "민진웅, '사랑이 온다' 단짠 매력남",
+          "url": "https://www.starnewskorea.com/broadcast-drama/2026/10/23/2026102309435214946",
+          "source": "스타뉴스"
         },
         {
-          "title": "Sixers-Hornets: Game Discussion Thread",
-          "url": "https://sports.yahoo.com/articles/sixers-hornets-game-discussion-thread-213000783.html",
-          "source": "Yahoo Sports"
+          "title": "시청률 20% 육박 ‘닥터X’ 없는 곳에선 ‘사랑이 온다’ 시청률 1위",
+          "url": "https://m.newsen.com/news_view.php?uid=202610260900011910",
+          "source": "뉴스엔"
         }
       ]
     },
     {
-      "keyword": "롤드컵 8강",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T23:40:00.000Z",
+      "keyword": "한화생명 e스포츠",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-01T00:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ8M0vUPwaAysblsimHupwcHohrpgPDjs2eEVO_T9rqujCYeyaHRA9RsRk47c",
       "category": "기타",
       "news": [
@@ -70,6 +70,31 @@
           "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
           "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/",
           "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "화재",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-10-31T23:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9L1Zty0516StXvIADO35q3RJjuNgbEaFOGPqtE8pihWPpJJhuggFz1-rj2IA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849162",
+          "source": "뉴시스"
+        },
+        {
+          "title": "경북소방 '겨울철 화재안전대책' 추진…사상자 10% 줄인다",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849570",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[기고] 올겨울 월동 준비 목록에 `안전`을 더하자",
+          "url": "https://www.imaeil.com/page/view/2026102216372069216",
+          "source": "매일신문"
         }
       ]
     },
@@ -99,127 +124,111 @@
       ]
     },
     {
-      "keyword": "fc barcelona vs deportivo alavés standings",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJO4htgPOSXMVGacVoM87ukzredZ1dXqk4sW4ayPkgKclX0itVHy6p5oSCsw",
+      "keyword": "골키퍼",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T00:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Ke-pWjYnimNNTyIbPMEnE7NqhJ3oyt4MCf1D1uP1FRRwwSnbCvXpjjAKTbE",
       "category": "스포츠",
       "news": [
         {
-          "title": "Barcelona 6-1 Alaves: Lamine Yamal and Raphinha each score twice as Barca return to top of La Liga",
-          "url": "https://www.bbc.com/sport/football/live/cwg7xe5g11m0t",
-          "source": "BBC"
+          "title": "‘한국은 AG 금메달로 병역 혜택 받는데…’ 아시아 최고 GK는 군대 간다 ‘10경기 2실점’ 기록하던 중 이란군 입대",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100108",
+          "source": "포포투"
         },
         {
-          "title": "Barcelona 6-1 Alavés (Oct 31, 2026) Game Analysis",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401882822",
-          "source": "ESPN"
+          "title": "‘월드컵 위해 손가락 바쳤다’ 마르티네스, “손가락 정상으로 돌아오지 않을 것”",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216350",
+          "source": "풋볼리스트"
         },
         {
-          "title": "Barcelona vs. Alaves: Preview, Predictions and Lineups",
-          "url": "https://www.si.com/soccer/barcelona-vs-alaves-preview-predictions-and-lineups-10-31-26",
-          "source": "Sports Illustrated"
+          "title": "첼시는 디부 마르티네스의 부상과 관련하여 좋은 소식을 받았습니다.",
+          "url": "https://www.vietnam.vn/ko/chelsea-don-tin-vui-tu-chan-thuong-cua-dibu-martinez",
+          "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "대구날씨",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPfyb6LD1cSnqtnWtOsJrU-WpVJgrxP-FMFifhzz_PLLUvhpUjy2Kkf6x62w",
-      "category": "생활·날씨",
+      "keyword": "정전",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T23:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJMQDUzkTLDvT6U1miryjXXivQm4NzZEnie9CTsOigAucb57RgfyZo2rg2bRw",
+      "category": "경제",
       "news": [
         {
-          "title": "대구경북 대체로 흐리다가 낮부터 비…낮 최고 17도",
-          "url": "https://www.yna.co.kr/view/AKR20261101004400053",
+          "title": "거제서 전신주 파손…아파트 1천200여세대 한때 정전",
+          "url": "https://www.yna.co.kr/view/AKR20261031039100052",
           "source": "연합뉴스"
         },
         {
-          "title": "[날씨] 대구·경북 오늘 늦은 밤~내일 새벽 5mm 미만 비",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699060",
-          "source": "KBS 뉴스"
+          "title": "거제 공사 현장서 전신주 파손…1200세대 아파트 단지 정전",
+          "url": "https://www.donga.com/news/Society/article/all/20261031/134942831/1",
+          "source": "동아일보"
         },
         {
-          "title": "시월 마지막날 경북중·북부내륙 짙은 안개...큰 기온차 '건강 유의'",
-          "url": "https://www.newspim.com/news/view/20261030001316",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "이정영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T22:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuK_pZWSUXCBt6yAN3tSSbwkmdRirrysfzz4i28hOlL0gtdy_gip9tyceEhxo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"나는 코리안 타이거, 증명하겠다\" 이정영 계체 통과, 美 파이터와 맞대결 '화끈 다짐' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/31/2026103113024659616",
-          "source": "머니투데이"
-        },
-        {
-          "title": "또 다시 쓰러진 코리안 타이거...이로사에 1라운드 KO패 [MK현장]",
-          "url": "https://www.mk.co.kr/news/sports/12192535",
-          "source": "매일경제"
-        },
-        {
-          "title": "[격투기] '코리안 타이거' 되찾을 이정영, 1년 반 만의 UFC 복귀 준비 완료",
-          "url": "https://www.newspim.com/news/view/20261031000056",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "눈 둘 데가 없네",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGLHH02EXUGYQtP4CVIbUMSWjC5MwSS7HICMgXPeUT_WXvqR2xyo1GC-9-HM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[TF씨네리뷰] '눈 둘 데가 없네' 속 오래 남는 김민희",
-          "url": "https://news.tf.co.kr/read/entertain/2383185.htm",
-          "source": "더팩트"
-        },
-        {
-          "title": "홍상수의 세상 인식법 '눈 둘 데가 없네'",
-          "url": "https://www.mindlenews.com/news/articleView.html?idxno=22991",
-          "source": "세상을 바꾸는 시민언론 민들레"
-        },
-        {
-          "title": "[삶과문화] 메시지 없는 영화",
-          "url": "https://m.segye.com/view/20261029516443",
-          "source": "세계일보"
+          "title": "거제 아주동 공사장서 전신주 파손…아파트 1200세대 한때 정전",
+          "url": "https://www.news1.kr/local/busan-gyeongnam/6338704",
+          "source": "뉴스1"
         }
       ]
     },
     {
       "keyword": "자폭형 무인 항공기",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-10-31T23:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "lyon",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-10-31T23:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqhhJwjEqTB8VT3yk-HDlIEWaWtzgwPyTjl8KNM340lxe0OcByvzDyy-zHAvo",
-      "category": "정치·사회",
+      "startedAt": "2026-11-01T00:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw7HdYtU2LaJTNbHqXbwC7vpfuwodlZgaxNn77t6oL6Dji1wOGA-YvlY8D-MA",
+      "category": "기타",
       "news": [
         {
-          "title": "북한 무인기 공개‥남북 드론 전력차 해법은?",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862218_37004.html",
-          "source": "MBC 뉴스"
+          "title": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier",
+          "url": "https://www.rugbyrama.fr/2026/10/31/top-14-on-a-le-sentiment-que-nos-leaders-grandissent-ethan-dumortier-lyon-revient-sur-la-victoire-du-lou-qui-a-pris-du-temps-a-se-dessiner-13630025.php",
+          "source": "Rugbyrama"
         },
         {
-          "title": "김여정은 왜 밝은 옷을 입고 전방에 나타났을까 …북한이 숨긴 사진, 북한이 퍼트린 사진 [청계천 옆 사진관]",
-          "url": "https://www.donga.com/news/Politics/article/all/20261031/134942240/1",
-          "source": "동아일보"
+          "title": "Les Vannetais ont longtemps résisté mais s’inclinent à Lyon",
+          "url": "https://www.rugbyclubvannes.bzh/les-vannetais-ont-longtemps-resiste-mais-sinclinent-a-lyon/",
+          "source": "Rugby Club Vannes"
         },
         {
-          "title": "[한반도브리핑] 김정은의 ’드론 협박’…美 중간선거 사흘 앞",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031181825YIu",
+          "title": "Matias Alemanno victime d’une commotion cérébrale lors de la défaite du RC Vannes à Lyon",
+          "url": "https://www.letelegramme.fr/sports/rugby/rc-vannes/matias-alemanno-victime-dune-commotion-cerebrale-lors-de-la-defaite-du-rc-vannes-a-lyon-7149830.php",
+          "source": "Le Télégramme"
+        }
+      ]
+    },
+    {
+      "keyword": "gs건설",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-10-31T23:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJiZzTyP53Ga4h3WjUKucTgeKL04Tmy5Wb41pRIsc7LwkIPpaECOi0kh8omIY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "역대 최대 영업이익 질주하던 에이피알…원화 강세에 꺾였다",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442178",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "에이피알, 3분기 영업이익 1,606억 원…누적 매출 2조 돌파",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030120707dbE",
           "source": "연합뉴스TV"
+        },
+        {
+          "title": "에이피알·GS건설·티에프이",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01728566645618496",
+          "source": "마켓인"
         }
       ]
     },
@@ -245,31 +254,6 @@
           "title": "Olivia Jade Holds Hands With Businessman PC Valmorbida During NYC Outing a Year After Jacob Elordi Split",
           "url": "https://www.eonline.com/news/1437509/is-olivia-jade-dating-pc-valmorbida-see-nyc-photo-after-jacob-elordi-split",
           "source": "E! News"
-        }
-      ]
-    },
-    {
-      "keyword": "milan vs inter",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-10-31T22:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxjq8SmW0xXmjaz38umrYRNqNoygS8XwJ_x98Ysn303MspP8udkP90pEmg3Uw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Video: Milan surge into 2-0 lead over Inter within first 10 minutes",
-          "url": "https://football-italia.net/video-milan-surge-into-2-0-lead-over-inter/",
-          "source": "Football Italia"
-        },
-        {
-          "title": "In the footsteps of Kaká and Çalhanoğlu: Rabiot writes an exceptional chapter with Milan",
-          "url": "https://www.goal.com/en/news/in-the-footsteps-of-kaka-and-calhanoglu-rabiot-writes-an-exceptional-chapter-with-milan/blt02cba0df9cf4e96d",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Modric: ‘Maybe Milan’s best game of the season, we deserved the victory’",
-          "url": "https://onefootball.com/en/news/modric-maybe-milans-best-game-of-the-season-we-deserved-the-victory-43705789",
-          "source": "OneFootball"
         }
       ]
     }
