@@ -1,16 +1,20 @@
 {
-  "updatedAt": "2026-11-01T17:27:47.528Z",
+  "updatedAt": "2026-11-01T18:34:17.824Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 7
+      "count": 4
+    },
+    {
+      "category": "기타",
+      "count": 3
     },
     {
       "category": "연예",
       "count": 1
     },
     {
-      "category": "기타",
+      "category": "생활·날씨",
       "count": 1
     },
     {
@@ -21,8 +25,8 @@
   "items": [
     {
       "keyword": "리버풀 대 아스널",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-01T15:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9Arf4PvmWnnGzJWoC7ad2-X-9SAHVN8j8ZYAXUOZ8bzFXQSzxO7nLw3Ytkas",
       "category": "스포츠",
@@ -70,51 +74,26 @@
       ]
     },
     {
-      "keyword": "racing santander vs real madrid",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T14:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpH7DxLyRGtCjZuirBP1QSQmF18e932eoPg8vbhWk2c5zjhLVcsLt6F2ohO_Q",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Racing - Real Madrid, en directo | Última hora de LALIGA EA Sports en vivo hoy",
-          "url": "https://www.marca.com/futbol/laliga-ea-sports/racing-santander-r-madrid/2026/11/01/01_0101_20261101_189_186-directo.html",
-          "source": "MARCA"
-        },
-        {
-          "title": "Jude Bellingham marcó su gol número 50 con la camiseta de Real Madrid",
-          "url": "https://es-us.noticias.yahoo.com/deportes/jude-bellingham-marc%C3%B3-gol-n%C3%BAmero-154800784.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": ">~!@#$[[[PARTIDO!]^]] zbit-vs [#FÚTBOLENVIVO] Racing de Santander vs Los Blancos - Transmisión gratuita – 1 de noviembre de 2026, Benfica vs Celtic Streaming Live: Don t miss the UEFA Europa League match with live covserage, score updates, and hig",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vY2ltYW5nby5naXRodWIuaW8vc2FuaS9jMWlwcy54bWwiLz48L2tycGFubz4=&id=video-racing-de-santander-vs-los-blancos-partido-en-directo-gratis-hoy-uk-755",
-          "source": "Pierce Manufacturing"
-        }
-      ]
-    },
-    {
       "keyword": "레알마드리드",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-01T16:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1rhSLDIZJCM6ViQ68vvmOjpIOX6V_hwK7kA9ouAvX0_rD2haus9K7tW2wW3Y",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmAxytVxpT2q8z2RNnGUVoDI2C-xGmf7zCckQK-FMPbJ7MqeIgGyp-ttHGhmc",
+      "category": "기타",
       "news": [
         {
-          "title": "라리가 라싱 데 산탄데르 대 레알 마드리드 생중계 링크",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-racing-de-santander-vs-real-madrid-tai-la-liga-1792942.ldo",
-          "source": "Laodong.vn"
+          "title": "'무리뉴는 해냈다' 레알 마드리드에서 벌어진 놀라운 변화...레알 5연승에 엘 클라시코 승리까지 '완벽한 변신' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/31/202610311210771338O",
+          "source": "머니투데이"
         },
         {
-          "title": "라싱 vs 레알 마드리드 축구 경기 예측: 무리뉴의 추억",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-racing-vs-real-madrid-ky-uc-mourinho",
-          "source": "Vietnam.vn"
+          "title": "레알 마드리드 5연승 질주…엘 클라시코 2-1 승리 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1063976",
+          "source": "재경일보"
         },
         {
-          "title": "라싱 산탄데르 vs 레알 마드리드 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-racing-santander-vs-real-madrid-khach-tiep-tuc-bay-cao",
+          "title": "무리뉴가 바르셀로나를 이해했을 때",
+          "url": "https://www.vietnam.vn/ko/khi-mourinho-giai-ma-barcelona",
           "source": "Vietnam.vn"
         }
       ]
@@ -124,48 +103,73 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-01T15:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsKj9Zl6pNrZkOUeibUCKN2O9FpfXmJdHJamaA8orXgCrPb718B-C-1SQDcFw",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqwuBmyM63gjKlZCjySpAf929jJ5x_5aaU0aqh5T6Gn4f4JhuskIPHRUuwoJQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "Liverpool: Carragher says Reds star might 'never recover' from brutal Andoni Iraola call for Arsenal clash",
-          "url": "https://www.football365.com/news/liverpool-carragher-never-recover-brutal-iraola-call",
-          "source": "Football365"
+          "title": "Jamie Carragher fumes over VAR as Liverpool penalty agreement reached - 'Do your job!'",
+          "url": "https://www.aol.co.uk/articles/jamie-carragher-fumes-over-var-174200000.html",
+          "source": "AOL.co.uk"
         },
         {
-          "title": "Trey Nyoni start “seismic” from Iraola – Liverpool fans embrace “huge call”",
-          "url": "https://www.thisisanfield.com/2026/11/trey-nyoni-liverpool-start-arsenal-fan-reaction/",
-          "source": "This Is Anfield"
+          "title": "Liverpool get penalty verdict during Arsenal showdown",
+          "url": "https://www.standard.co.uk/sport/football/liverpool-fc-isak-timber-penalty-arsenal-b1303163.html",
+          "source": "London Evening Standard"
         },
         {
-          "title": "Andoni Iraola gives honest verdict on Ryan Gravenberch's form as Dominik Szoboszlai nears return",
-          "url": "https://www.rousingthekop.com/2026/10/30/andoni-iraola-gives-honest-verdict-on-ryan-gravenberchs-form-as-dominik-szoboszlai-nears-return/",
-          "source": "Rousing The Kop"
+          "title": "Was Gakpo treated unfairly? Controversial moment sparks debate in Liverpool-Arsenal clash",
+          "url": "https://www.goal.com/en/news/was-gakpo-wronged-controversial-moment-ignites-debate-in-liverpool-and-arsenal-clash/bltdd18b454f9afc8ab",
+          "source": "Goal.com"
         }
       ]
     },
     {
-      "keyword": "우니온 베를린 대 쾰른",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T14:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-      "category": "스포츠",
+      "keyword": "킬리안 음바페",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T17:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwN2cnpa4Y16GhGddo1kALnTYmZHUj0ozeMDktgW39JonsqOZxVRK2nAZgKwU",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "Union Berlin vs Köln: German Bundesliga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cwx284edymj3t",
-          "source": "BBC"
+          "title": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2",
+          "source": "동아일보"
         },
         {
-          "title": "Malek El Mala gives Cologne draw after sharing pitch with brother",
-          "url": "https://sports.yahoo.com/articles/malek-el-mala-gives-cologne-164819474.html",
-          "source": "Yahoo Sports"
+          "title": "[특파원 시선] 음바페에게 날아든 천문학적 규모의 '中청구서'",
+          "url": "https://www.yna.co.kr/view/AKR20261030161200083",
+          "source": "연합뉴스"
         },
         {
-          "title": "Union Berlin vs Koln predictions today (2.30pm KO): Honours set to be shared in the capital",
-          "url": "https://www.squawka.com/en/news/previews/union-berlin-vs-koln-predictions-today-01-11-2026/",
-          "source": "Squawka"
+          "title": "\"독재자\" '낄낄' 한번에 1400억 날릴 판…음바페 사과에도 中중계 통째로 중단",
+          "url": "https://view.asiae.co.kr/article/2026103114260459751",
+          "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "ลิเวอร์พูล พบ อาร์เซนอล",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T16:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7g7hEijUCI3aph4cQrxVatKoy-emkDIt2vlvicmaO1WiJ1BYHuTOBij-ubs0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ อาร์เซนอล บอลวันนี้ (1 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2968279",
+          "source": "Thairath.co.th"
+        },
+        {
+          "title": "ทำนายผลการแข่งขันพรีเมียร์ลีกอังกฤษ: ลิเวอร์พูลถล่มอาร์เซนอลที่แอนฟิลด์",
+          "url": "https://www.vietnam.vn/th/du-doan-ti-so-ngoai-hang-anh-liverpool-khien-arsenal-bat-luc-tai-anfield",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "โปรแกรมกีฬาวันนี้ พร้อมช่องถ่ายทอดสด วันอาทิตย์ที่ 1 พฤศจิกายน 69",
+          "url": "https://www.tnnthailand.com/sports/251126/",
+          "source": "TNN Thailand"
         }
       ]
     },
@@ -174,23 +178,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-01T15:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsYeRad6DgE67nT0_woEHmpNwbloZ4mI_fFBMIDM3VVs0poL2UjLW0EkdrXcM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvd11J1g9UhnweVnFqfGneVR5EoEybXJ-v7GCcY9Yx6jphts9LW_8P6DVouKM",
       "category": "기타",
       "news": [
         {
-          "title": "Реал определился с вратарём на матч против Расинга – что решили насчёт Лунина",
-          "url": "https://www.ua-football.com/ukrainian/ukrainians/1793541948-real-opredelilsya-s-vrataryom-na-match-protiv-rasinga-chto-reshili-naschyot-lunina.html",
+          "title": "Ла Лига. Реал продолжает ломать домашние серии: вслед за Барселоной пострадал Расинг",
+          "url": "https://www.ua-football.com/foreign/spain/1793552296-la-liga-real-prodolzhaet-lomat-domashnie-serii-vsled-za-barselonoy-postradal-rasing.html",
           "source": "UA-Football"
         },
         {
-          "title": "Расинг – Реал Мадрид. Андрей Лунин. Смотреть онлайн. LIVE трансляция",
-          "url": "https://sport.ua/news/920908-rasing-real-madrid-andrey-lunin-smotret-onlayn-live-translyatsiya",
-          "source": "Sport.ua"
+          "title": "«Реал» учинил разгром после Эль-Класико",
+          "url": "https://www.sports.kz/news/real-uchinil-razgrom-posle-el-klasiko",
+          "source": "Sports.kz"
         },
         {
-          "title": "«Расинг» — «Реал» Мадрид. Трансляция: смотреть онлайн",
-          "url": "https://sport24.ru/football/news-894372-rasing-real-madrid-translyatsiya-smotret-onlayn",
-          "source": "Sport24.ru"
+          "title": "Расинг Реал Мадрид – смотреть результат матча 11 тура Ла Лиги с участием команды Лунина – Футбол 24",
+          "url": "https://football24.ua/ru/news/rasing-real-madrid-smotret-rezultat-matcha-11-tura-la-ligi-s-uchastiem-komandi-lunina-973488",
+          "source": "Футбол 24"
+        }
+      ]
+    },
+    {
+      "keyword": "스타링크",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQS8FqySZZ4qmLyshaditQJ7UHs9LK6NMvu0HdYy1jjLujCRSmOgB-47cA5KA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "통신주 급락, 스페이스X 위성이 기지국을 대체할까?",
+          "url": "https://story.pay.naver.com/content/3724",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "이통사 '우군'에서 '경쟁자'로…스타링크의 변신",
+          "url": "http://www.inews24.com/view/2021114",
+          "source": "아이뉴스24"
+        },
+        {
+          "title": "\"일론 머스크가 쏘아올린 코스닥 기업?\"…쏠리드에 무슨 일이",
+          "url": "https://www.newsis.com/view/NISX20261030_0003847886",
+          "source": "뉴시스"
         }
       ]
     },
@@ -199,22 +228,22 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-01T14:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9xv6dF_LfiUQT3tTT82aKIzE28YKIdquFnDl80j18Oph01vnvHybvGG4zzY0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DG9UUX5eCIWLs-sNzw_k4pN6q1wE2EhCumRYttSOEBNKZfUR89rqcqDlMLE",
       "category": "스포츠",
       "news": [
         {
-          "title": "Jude Bellingham becomes first Englishman to score 50 goals for Real Madrid",
-          "url": "https://www.espn.com/soccer/story/_/id/50348576/jude-bellingham-becomes-first-englishman-score-50-goals-real-madrid",
-          "source": "ESPN"
+          "title": "Racing Santander 0-3 Real Madrid: England's Jude Bellingham scores in win",
+          "url": "https://www.bbc.com/sport/football/live/c6zxj7vpggn2t",
+          "source": "BBC"
         },
         {
-          "title": "'He was looking for a problem': refereeing expert hits out at Mbappe after the controversial penalty",
-          "url": "https://www.yardbarker.com/soccer/articles/he_was_looking_for_a_problem_refereeing_expert_hits_out_at_mbappe_after_the_controversial_penalty/s1_17790_44502001",
-          "source": "Yardbarker"
+          "title": "Real Madrid's expected lineup against Racing Santander in La Liga: Courtois returns, Valverde is absent",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/11/01/real-madrids-expected-lineup-against-racing-santander-in-la-liga-courtois-returns-valverde-is-absent/",
+          "source": "صوت الإمارات"
         },
         {
-          "title": "Real Madrid's Galácticos show out in dominant first-half display vs Racing",
-          "url": "https://sports.yahoo.com/articles/real-madrids-gal-cticos-show-162100096.html",
+          "title": "Did Kylian Mbappé send a Ballon d’Or message with celebration vs Racing?",
+          "url": "https://sports.yahoo.com/articles/did-kylian-mbapp-send-ballon-154400302.html",
           "source": "Yahoo Sports"
         }
       ]
@@ -236,31 +265,6 @@
           "title": "라치오 vs 칼리아리 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까요?",
           "url": "https://www.vietnam.vn/ko/nhan-dinh-lazio-vs-cagliari-chu-nha-noi-dai-mach-thang-hoa",
           "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "스타링크",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQS8FqySZZ4qmLyshaditQJ7UHs9LK6NMvu0HdYy1jjLujCRSmOgB-47cA5KA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "통신주 급락, 스페이스X 위성이 기지국을 대체할까?",
-          "url": "https://story.pay.naver.com/content/3724",
-          "source": "네이버페이 머니스토리"
-        },
-        {
-          "title": "이통사 '우군'에서 '경쟁자'로…스타링크의 변신",
-          "url": "http://www.inews24.com/view/2021114",
-          "source": "아이뉴스24"
-        },
-        {
-          "title": "\"일론 머스크가 쏘아올린 코스닥 기업?\"…쏠리드에 무슨 일이",
-          "url": "https://www.newsis.com/view/NISX20261030_0003847886",
-          "source": "뉴시스"
         }
       ]
     }
