@@ -1,76 +1,46 @@
 {
-  "updatedAt": "2026-11-01T09:37:53.579Z",
+  "updatedAt": "2026-11-01T10:32:30.364Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 5
-    },
-    {
       "category": "기타",
-      "count": 3
+      "count": 6
     },
     {
-      "category": "연예",
+      "category": "스포츠",
       "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "울산 hd fc 대 강원 fc 순위",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-01T07:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSHFltnZz4qS_yS8qr0WTMV0jcSgNFbq-CBoqvZahsbm9MR1az10g_JMbZ1VM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "’에릭 멀티골’ 프로축구 울산, 강원에 2-1 역전승…2위 사수",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261101170004V3F",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "K리그1 울산, 강원에 2-1 역전승…포항은 제주와 무승부",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849749",
-          "source": "뉴시스"
-        },
-        {
-          "title": "역전승 거둔 김현석 울산 감독 “앞으로 선제골 넣으며 이기는 경기 하자”…정경호 강원 감독 “작은 미스로 결과가 바뀌었다”",
-          "url": "https://www.sportsworldi.com/newsView/20261101509416",
-          "source": "스포츠월드"
-        }
-      ]
-    },
-    {
-      "keyword": "fc 서울 대 인천",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-01T06:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "오타니 쇼헤이",
+      "keyword": "ตรวจหวย",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-01T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbPS065Jc53YsclIOx7SDX3ch1k0VxwbyWluEjc1BwNE-GrvXGFcDdlT2mijM",
-      "category": "스포츠",
+      "startedAt": "2026-11-01T08:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMNoVQV4-IienhmFNeNh2AL8XoWqt8KBuc2vQi7Kbj9Anlz5KRvcnQpnwI7n4",
+      "category": "기타",
       "news": [
         {
-          "title": "이게 1조짜리 선수의 인성… 부친상 동료에 오타니가 건넨 한 마디, \"평생 못 잊을 것\"",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GEZTEZDEGRRTKNZZMVSGCZDCHA/",
-          "source": "조선일보"
+          "title": "ตรวจหวย 1/11/69 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 1 พ.ย. 69",
+          "url": "https://www.sanook.com/news/9910754/",
+          "source": "Sanook"
         },
         {
-          "title": "오타니가 '부친상' 동료를 챙기는 방법…이러니 감동 받을 수밖에 \"세계 최고의 선수, 얼마나 마음 따뜻한지\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016781",
-          "source": "SPOTV NEWS"
+          "title": "เปิดสถิติหวย งวด 1 พฤศจิกายน ย้อนหลัง 20 ปี พบเลขไม่ซ้ำ มีเบิ้ลบ้าง",
+          "url": "https://www.matichon.co.th/economy/news_5956300",
+          "source": "Matichon Online"
         },
         {
-          "title": "\"아버지 돌아가셨는데, 오타니에게 전화가 왔다\" 이게 1조짜리 선수 인성",
-          "url": "https://www.sportschosun.com/baseball/2026-10-31/202611010100001410014251",
-          "source": "스포츠조선"
+          "title": "เลขเด็ด นกตาทิพย์ 1 พ.ย. 69 มาแล้ว เปิดโพยเลขเด่น พร้อมชุด 2 ตัวงวดนี้",
+          "url": "https://thethaiger.com/th/news/1626019/",
+          "source": "Thaiger"
         }
       ]
     },
@@ -84,27 +54,127 @@
       "news": []
     },
     {
-      "keyword": "india vs new zealand",
+      "keyword": "t.o.p",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-01T07:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_AMHlHxZv-kOoEZ3_vd7OU7IOBZJhn3ipYBTwHd5oyfkFBELTASnScWAMzV0",
+      "startedAt": "2026-11-01T08:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ9j7WLwdFmGqnWiW3Y_uCRVvI24GYi2OVH7pVApYC40mDow2pSZziAQQ4EFo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Tomorrow's Top 25 Today: Ohio State falls from top 10, USC reenters college football rankings after upset win",
+          "url": "https://www.cbssports.com/college-football/news/college-football-rankings-tomorrows-top-25-ap-poll-ohio-state-usc/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Ohio State replaces BYU at No. 2 as Top 25 jumbled again by top-10 losses",
+          "url": "https://www.espn.com/college-football/story/_/id/50278326/ohio-state-replaces-byu-no-2-ap-top-25",
+          "source": "ESPN"
+        },
+        {
+          "title": "Brett McMurphy's college football AP Top 25 ballot after Week 9",
+          "url": "https://www.on3.com/news/brett-mcmurphys-college-football-ap-top-25-ballot-after-week-9-2/",
+          "source": "On3"
+        }
+      ]
+    },
+    {
+      "keyword": "이현중",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T09:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtkcWzHGwnJBUdWSzfZF9sNW2rrI9RtYnHfDYIhwvFJZWTgUi3ueswzMKr7j4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "천하의 김종국도 속수무책…김민종 압도적 피지컬 (런닝맨)",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134944858/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'런닝맨' 김민종X이현중, 국가대표들의 극과 극 밥상 공개",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523102",
+          "source": "iMBC 연예"
+        },
+        {
+          "title": "\"종국이 일반인이네\"… '런닝맨' 유도 김민종 압도적 힘에 김종국 조기 퇴진",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738856",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "한화솔루션",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T08:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0yChf0_PNZjouxslsG6WcgwX_oTyuvBtnjUnTJE_PhWphTjhkAz2b6yMKwME",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한 분기 만에 다시 적자…한화솔루션 실적 발목 잡은 석유화학",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980158.html",
+          "source": "인베스트조선"
+        },
+        {
+          "title": "태양광 3사, 실적 회복세 지속…美 시장 확대에 4분기 주목",
+          "url": "https://www.g-enews.com/article/Industry/2026/10/202610301521477039ea14faf6f5_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "한화솔루션, 美 태양광 판가 상승에도 '어닝 쇼크'…수익성 개선은 2027년부터",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353504",
+          "source": "녹색경제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "콜 오브 듀티: 모던 워페어 4",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T08:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSix2kSzkIvli02vvJ6w6EKzGOWO5g-MBtNg_Z6WOC_kKN973KcgD9TtEY3_k",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[단독] '이태원 참사 박제' 콜오브듀티 \"머리 숙여 사과‥전면 삭제\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862063_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[ZD e게임] 익숙한 한국 도심이 전장으로…'콜 오브 듀티' 신작 해보니",
+          "url": "https://zdnet.co.kr/view/?no=20261101143744",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "\"우크라 침공·이란전 예언했나\"…'콜 오브 듀티' 논란의 역사 주목 [지금이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0545_202610310920013748",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "persib bandung vs adhyaksa",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T08:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG8PLlg_excVwgVL0K6cZv_rcrlYD0HD8Hc-8TwJuG3UHYoww7uVTGGqfJCtU",
       "category": "스포츠",
       "news": [
         {
-          "title": "Vaibhav Sooryavanshi Snubbed Again As India Make 2 Changes In Playing XI For 5th T20I",
-          "url": "https://sports.ndtv.com/new-zealand-vs-india-2026-27/vaibhav-sooryavanshi-snubbed-again-as-india-make-2-changes-in-playing-xi-for-5th-t20i-12266375",
-          "source": "NDTV Sports"
+          "title": "Link Live Streaming Persib vs Isenmulang Hari Ini: Demi Kejar Persija di Puncak, Maung Tumpuk 4 Pemain Depan, Tayang di Vidio",
+          "url": "https://afu.id/olahraga/link-live-streaming-persib-vs-isenmulang-hari-ini-demi-kejar-persija-di-puncak-maung-tumpuk-4-pemain-depan-tayang-di-vidio",
+          "source": "AFU.id"
         },
         {
-          "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 5th T20I",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-t20i-1539436/ball-by-ball-commentary",
-          "source": "Cricinfo"
+          "title": "Persib Tunda Kembalinya Teja dan Gabriel saat Jamu Isen Mulang",
+          "url": "https://demokratis.co.id/persib-teja-gabriel-isen-mulang",
+          "source": "Demokratis.co.id"
         },
         {
-          "title": "New Zealand finally wins a toss and decides to bowl in the 5th T20 against India",
-          "url": "https://www.eagletribune.com/new-zealand-finally-wins-a-toss-and-decides-to-bowl-in-the-5th-t20-against/article_a65b116b-d383-5d37-9df0-404352f539f5.html",
-          "source": "Eagle-Tribune"
+          "title": "Daftar Susunan Pemain Persib Bandung vs Isenmulang Kalteng Hari Ini",
+          "url": "https://mediaindonesia.com/sepak-bola/951018/daftar-susunan-pemain-persib-bandung-vs-isenmulang-kalteng-hari-ini",
+          "source": "Media Indonesia"
         }
       ]
     },
@@ -127,109 +197,59 @@
           "source": "SportsTak"
         },
         {
-          "title": "Afghanistan stun Australia to clinch maiden Hong Kong Sixes title",
-          "url": "https://pajhwok.com/2026/11/01/afghanistan-stun-australia-to-clinch-maiden-hong-kong-sixes-title/",
-          "source": "Pajhwok Afghan News"
+          "title": "Full Scorecard of Afghanistan vs Australia, Hong Kong International Sixes 2026, Final - Score Report | ESPN.com",
+          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559216/afghanistan-vs-australia-final-hong-kong-international-sixes-2026-27",
+          "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "정석원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T08:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0frYRwRwzKZqVtCLfJ77y_gGg4A50YdPxo01Fb0kvz_j_joXZjzRkv4TEYDo",
-      "category": "연예",
-      "news": [
-        {
-          "title": "백지영, '마약 논란' 정석원 품은 이유…\"평소 어떤 사람인지 알아\"",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849402",
-          "source": "뉴시스"
-        },
-        {
-          "title": "백지영, '필로폰 투약' 남편 품은 이유…\"원래 그런 사람 아냐\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103120461153098",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'결혼 14년차' 백지영♥정석원, '각방' 고백..\"노이로제 걸린듯 뛰쳐나가\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/31/MNQWEMLCMIZGMOJWGM3DOMZZMY/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "한국시리즈 예매",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T07:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcmw6DIbj1EWCm6uft4yXyiM517vsXn-IhgBF3FiV1gfOMU2peN1Geb7DOBZI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "KT-삼성 한국시리즈 입장권, 2일 오전 11시부터 예매",
-          "url": "https://www.news1.kr/sports/baseball/6339076",
-          "source": "뉴스1"
-        },
-        {
-          "title": "한국시리즈 1차전 선발 누굴까? 2일 미디어데이서 전격 공개…장성우-소형준 vs 구자욱-원태인 참가한다",
-          "url": "https://biz.chosun.com/sports/baseball/2026/11/01/GY4DGMBZHAZWKNLBGA2WCNZWGQ/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "'아노락 자켓 첫선' KBO, 2026 한국시리즈 기념 한정판 상품 출시…30일부터 판매 시작",
-          "url": "https://www.osen.co.kr/article/G1112901145",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "윤종훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T07:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUqeA-ZSsAKpi10ZYzznTLCkrYKTPvEFsqLqOeCFY9ZvG7SqvGWpymCbqTfJw",
-      "category": "연예",
-      "news": [
-        {
-          "title": "배우 윤종훈, 11세 연하 한은서와 백년가약",
-          "url": "https://www.donga.com/news/Society/article/all/20261101/134943465/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "윤종훈, 11세 연하 ♥한은서와 오늘 결혼…“평생 함께할 사람”",
-          "url": "https://www.sedaily.com/article/20108650",
-          "source": "서울경제"
-        },
-        {
-          "title": "윤종훈♥한은서, 10살 차이 극복하고 오늘(1일) 결혼..\"책임감 있게 살 것\" [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GY3DCNBSGVQTOMBWMVSGINTGGI/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "강유미",
+      "keyword": "heidi klum",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-01T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWs0dc59rICTyfHwmL-xbZ_U4s2Tm_lxOl-QYg8NLXsbna9jfm6IEGqFqE5k",
+      "startedAt": "2026-11-01T08:40:00.000Z",
+      "picture": "",
       "category": "기타",
       "news": [
         {
-          "title": "\"부잣집 딸, 마실 나온 척\"…'이수지 패딩 꼴 날라' 강유미 현백코어 풍자에 업계 긴장",
-          "url": "https://view.asiae.co.kr/article/2026103017334238366",
-          "source": "아시아경제"
+          "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+          "url": "https://www.bbc.com/news/videos/cj040yd1xdrlo",
+          "source": "BBC"
         },
         {
-          "title": "\"몽클레르처럼 될라\"…강유미 풍자 영상에 백화점 '초긴장'",
-          "url": "https://www.hankyung.com/article/202610305125g",
-          "source": "한국경제"
+          "title": "’I DID NOT EXPECT THIS’: Heidi Klum’s most insane Halloween look revealed",
+          "url": "https://www.news.com.au/entertainment/heidi-klums-halloween-costumes-every-outrageous-look-year-by-year/image-gallery/1d7802c4a36c01183df9c42d08e40b81",
+          "source": "News.com.au"
         },
         {
-          "title": "[기획] “현백코어에 인형키링”…키덜트와 ‘부잣집 딸’룩의 웃픈 공존",
-          "url": "https://www.sentv.co.kr/article/view/sentv202610290151",
-          "source": "서울경제TV"
+          "title": "Heidi Klum Becomes Her Left Hand for Halloween",
+          "url": "https://www.nytimes.com/2026/10/31/style/heidi-klum-halloween-costume-hand.html",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "keyword": "유학생",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNXmxlC-YFmjPLjw7h6BHUtomK-qAa5-S9rmnZMq8nwn2S_75nyWdpcJP5_3A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“K팝 듣다 한국 유학 꿈꿔요”…하노이 달군 한국유학박람회",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261101010000154",
+          "source": "아시아투데이"
+        },
+        {
+          "title": "\"고1부터 베트남 입시 포기하고 한국 대학 준비...고대 '과잠' 입는 게 평생 소원\"[르포]",
+          "url": "https://www.fnnews.com/news/202611010432539627",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "대구광역시, 베트남 유학박람회서 유학생 유치 설명회 단독 개최",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738767",
+          "source": "국제뉴스"
         }
       ]
     }
