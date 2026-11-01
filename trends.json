@@ -1,125 +1,141 @@
 {
-  "updatedAt": "2026-11-01T02:42:08.938Z",
+  "updatedAt": "2026-11-01T03:44:34.350Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 4
     },
     {
-      "category": "경제",
+      "category": "기타",
       "count": 3
     },
     {
-      "category": "정치·사회",
-      "count": 1
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "사랑 이 온다",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-01T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHP2biKQ1qkDr7fS78y2HRBnfQOcAzAs8nsz7WC7FFdhi9vDwdrLWeFDizIrg",
-      "category": "기타",
+      "keyword": "김지민",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-01T02:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBqqX8WPT4NoYlVAg4W0BJG4ArpcD2_1ErpQguXWojirEK8t45DT4mMhzL_Q",
+      "category": "연예",
       "news": [
         {
-          "title": "'사랑이 온다' 안희연, 하석진에 고백…27화 예고",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610310150",
-          "source": "BNT뉴스"
+          "title": "김준호 결혼 참 잘했다..김지민, ♥임신 중에도 새벽 '집밥 내조' [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MZTDOOLCGY3DAYRWGA2GCZLDMU/",
+          "source": "조선일보"
         },
         {
-          "title": "민진웅, '사랑이 온다' 단짠 매력남",
-          "url": "https://www.starnewskorea.com/broadcast-drama/2026/10/23/2026102309435214946",
-          "source": "스타뉴스"
+          "title": "김지민, 임신 6개월인데 '새벽 5시' 김밥 내조..\"♥김준호·시어머니 도시락\"",
+          "url": "https://www.osen.co.kr/article/G1112901989",
+          "source": "OSEN"
         },
         {
-          "title": "시청률 20% 육박 ‘닥터X’ 없는 곳에선 ‘사랑이 온다’ 시청률 1위",
-          "url": "https://m.newsen.com/news_view.php?uid=202610260900011910",
+          "title": "김지민, ♥김준호 2세 출산 두 달 전 맞아? 작은 얼굴, D라인은 올블랙에 감춰",
+          "url": "https://m.newsen.com/news_view.php?uid=202610290703032110",
           "source": "뉴스엔"
         }
       ]
     },
     {
-      "keyword": "한화생명 e스포츠",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ8M0vUPwaAysblsimHupwcHohrpgPDjs2eEVO_T9rqujCYeyaHRA9RsRk47c",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[롤드컵] '운명의 멸망전' 첫 세트부터 대접전… 한화생명, 中 BLG에 아쉬운 1세트 덜미",
-          "url": "https://www.osen.co.kr/article/G1112902078",
-          "source": "OSEN"
-        },
-        {
-          "title": "[롤드컵] 추첨 운도 지독하게 없다…한화생명, 빌리빌리와 8강행 결정짓는 '단두대 매치'",
-          "url": "https://www.chosun.com/sports/sports_general/2026/10/31/GM4TKNJWMM4TGOJVMNQTENLGGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[롤드컵] 젠지는 LYON, T1은 KC, DK는 BLG…롤드컵 8강 대진 확정",
-          "url": "https://sports.khan.co.kr/article/202611010923003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "화재",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-10-31T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNizG4gAxKoCVreec-BIpqnvxx9EoCKnpb74s84ufUbahp_X-TT0DBB6ehV1g",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "서울시, 겨울철 화재 안전 강화…취약주택에 자동소화기 보급",
-          "url": "https://www.yna.co.kr/view/AKR20261031030800004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "울산소방본부, 겨울철 화재예방대책 추진…취약시설 안전관리 강화",
-          "url": "https://www.newsis.com/view/NISX20261031_0003849162",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[기고] 올겨울 월동 준비 목록에 `안전`을 더하자",
-          "url": "https://www.imaeil.com/page/view/2026102216372069216",
-          "source": "매일신문"
-        }
-      ]
-    },
-    {
       "keyword": "이경실",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-01T01:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhVjBOjgYbpMn4ec0VK4RD-4tp-LddwkHAKgs9jSuoUhwM3v23-XiwlTbhpsU",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLmYWOiOZOB-9HgPXyFf49R_l-tmnskBbA5FM4vE1Rq3JM2z33Q5MlQMnvcXI",
       "category": "경제",
       "news": [
-        {
-          "title": "이경실 \"89평 아파트 경매 위기, 김지선 1억 선뜻 빌려줘\"",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849587",
-          "source": "뉴시스"
-        },
         {
           "title": "이경실, 아파트 경매 위기서 ‘1억’ 빌려준 김지선에 무한 감사..“1년 걸려 갚아”",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/G4ZTIOJZMRRDEMZVMI2GGNTEGM/",
           "source": "조선일보"
         },
         {
+          "title": "이경실 \"89평 아파트 경매 위기, 김지선 1억 선뜻 빌려줘\"",
+          "url": "https://www.segye.com/newsView/20261101503632",
+          "source": "세계일보"
+        },
+        {
           "title": "이경실, 과부 정선희 위해 3억 5천 모은 이유 “지금도 한우 옥돔 보내”(지식인사이드)",
-          "url": "https://www.newsen.com/news_view.php?uid=202611010800582310&code=100100",
+          "url": "https://m.newsen.com/news_view.php?uid=202611010800582310",
           "source": "뉴스엔"
+        }
+      ]
+    },
+    {
+      "keyword": "계수정",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T02:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXryOGd41WLezLDjlgDCd_trjtpJ-dS24YCoC22WrHap0hH3IOUsP4GdazcE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "시청률 20% 앞두고 15%대로…‘닥터X’ 전공의 파업 일침, 2회 연속 하락",
+          "url": "https://www.mk.co.kr/news/hot-issues/12192541",
+          "source": "매일경제"
+        },
+        {
+          "title": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동[Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MVRGMYRTMY3TGNJZHEZGEMZTMQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'암살자(들)' 인기 여전한데... 행사 꺼리는 극장 3사의 속사정",
+          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003280243",
+          "source": "OhmyNews"
+        }
+      ]
+    },
+    {
+      "keyword": "쇼트트랙",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T01:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuFPICu6wh0nZqhu6Cc9bT6mumPIOuPCSgLlHWmrAdl8kZ_AUbw_7wdSVi8ME",
+      "category": "기타",
+      "news": [
+        {
+          "title": "마지막 시즌도 ‘최민정’답게…월드투어 2연속 ‘금빛 질주’",
+          "url": "https://www.kyeonggi.com/article/20261101580024",
+          "source": "경기일보"
+        },
+        {
+          "title": "최민정 \"캐나다는 메이플 시럽이지\"",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261101_0002279501&provider_id=&cID=&type=photoMain&catg=&idx=7",
+          "source": "뉴시스"
+        },
+        {
+          "title": "은퇴 시즌 맞아? '라스트댄스' 최민정의 환상 역전극! 2차 투어 女1000m 금메달 '2대회 연속 개인전 金'...계주서도 날찌르기로 은메달",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/01/HA2TKNZQGFSDKYLDME2DCZDBHE/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "bangladesh vs india",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T01:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U9XHCb7_IerMLyJo10x10K7Emkf51vrjuuAG0koBc4WdLxAkgaMQuOV5yno",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "BAN vs IND, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026 - Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/175190/ban-vs-ind-11th12th-bowl-play-off-hong-kong-sixes-2026",
+          "source": "Cricbuzz"
+        },
+        {
+          "title": "India vs Bangladesh Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+          "url": "https://www.ndtvprofit.com/sports/india-vs-bangladesh-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12265078",
+          "source": "NDTV Profit"
         }
       ]
     },
@@ -128,12 +144,12 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-01T01:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuL1zTWPxVihDmxNTvw0CDSr6L4gAb1M6nAfcN1gRv2d0yFtNOKFHPROk4xo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuO5SP7ZgW77s_N4TURIT9jMQ-oMIu2c-MCCcLKJYOKxv8EhEv1a4YUwcsk4",
       "category": "경제",
       "news": [
         {
-          "title": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-11월 1주]",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026103015240148661b5a221379_18",
+          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
           "source": "금융신문"
         },
         {
@@ -142,118 +158,109 @@
           "source": "https://www.diarypoint.com/"
         },
         {
-          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
+          "title": "12개월 최고 연 6.00%…BNK저축은행 'BNK동행적금'[이주의 저축은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026110100111753707c96e79780_18",
           "source": "금융신문"
         }
       ]
     },
     {
-      "keyword": "이찬원",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-10-31T23:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwprwdRjEaeZZ4QPXWUg9F4KeDGCZQ8PX03V-BeJ7uwPs-FNSaL1Zxa1J5hZ4",
-      "category": "연예",
+      "keyword": "인천광역시 부교육감",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T02:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSu3N5Mensb4RhzOQbmJ87YWhEu0dBbAy1AGeDYca6TvpoA0327nEjmRaPDyQ",
+      "category": "기타",
       "news": [
         {
-          "title": "이찬원 팬클럽, 생일 맞아 청각장애인 위해 3,445만원 후원",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737647",
-          "source": "국제뉴스"
+          "title": "경기도교육청 제1부교육감에 이상돈 선임… 업무 공백 해소 기대",
+          "url": "https://www.kyeongin.com/article/1773776",
+          "source": "경인일보"
         },
         {
-          "title": "가수 이찬원 팬클럽 ‘합심대도 Chan’s’, 경남발달장애인복지협회에 후원금 200만 원 전달",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2018268",
-          "source": "경남도민일보"
+          "title": "[새얼굴] 이상돈 경기도교육청 제1부교육감",
+          "url": "https://www.kyeonggi.com/article/20261030580283",
+          "source": "경기일보"
         },
         {
-          "title": "이찬원, 29번째 생일 포스터 공개…연말 콘서트로 팬 사랑 잇는다",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264788",
-          "source": "톱스타뉴스"
+          "title": "[단독] 경기도교육청 부교육감에 이상돈 유력…인천은 최은희 거론",
+          "url": "https://www.edupress.kr/news/articleView.html?idxno=30569",
+          "source": "에듀프레스"
         }
       ]
     },
     {
-      "keyword": "골키퍼",
+      "keyword": "ban vs ind",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-01T00:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Ke-pWjYnimNNTyIbPMEnE7NqhJ3oyt4MCf1D1uP1FRRwwSnbCvXpjjAKTbE",
+      "startedAt": "2026-11-01T01:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbFcB5WuCwGTUv_wdLmJRi0pigWdcCJ358B3vWPb7SgdU015nb1DN9xrWGLHo",
       "category": "스포츠",
       "news": [
         {
-          "title": "‘한국은 AG 금메달로 병역 혜택 받는데…’ 아시아 최고 GK는 군대 간다 ‘10경기 2실점’ 기록하던 중 이란군 입대",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100108",
-          "source": "포포투"
+          "title": "India face tricky WTC final road after South Africa's Cape Town Test win: Here's how",
+          "url": "https://www.indiatoday.in/sports/cricket/story/india-wtc-final-qualification-scenarios-south-africa-australia-series-win-3029501-2026-10-31",
+          "source": "India Today"
         },
         {
-          "title": "‘월드컵 위해 손가락 바쳤다’ 마르티네스, “손가락 정상으로 돌아오지 않을 것”",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216350",
-          "source": "풋볼리스트"
+          "title": "WTC points table after BAN vs WI 1st Test: India move up to fourth as Bangladesh drop to fifth after eight-wicket defeat",
+          "url": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
+          "source": "Livemint"
         },
         {
-          "title": "첼시는 디부 마르티네스의 부상과 관련하여 좋은 소식을 받았습니다.",
-          "url": "https://www.vietnam.vn/ko/chelsea-don-tin-vui-tu-chan-thuong-cua-dibu-martinez",
-          "source": "Vietnam.vn"
+          "title": "How Can India Qualify For WTC 2025-27 Final? Check Scenario After South Africa Vs Australia Test Series",
+          "url": "https://www.outlookindia.com/sports/cricket/india-qualification-scenario-world-test-championship-2025-27-explained",
+          "source": "Outlook India"
         }
       ]
     },
     {
-      "keyword": "정전",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJMQDUzkTLDvT6U1miryjXXivQm4NzZEnie9CTsOigAucb57RgfyZo2rg2bRw",
-      "category": "경제",
-      "news": [
-        {
-          "title": "거제서 전신주 파손…아파트 1천200여세대 한때 정전",
-          "url": "https://www.yna.co.kr/view/AKR20261031039100052",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "거제 공사 현장서 전신주 파손…1200세대 아파트 단지 정전",
-          "url": "https://www.donga.com/news/Society/article/all/20261031/134942831/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "거제 아주동 공사장서 전신주 파손…아파트 1200세대 한때 정전",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6338704",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "자폭형 무인 항공기",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-10-31T23:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "lyon",
+      "keyword": "hong kong sixes",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-01T00:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw7HdYtU2LaJTNbHqXbwC7vpfuwodlZgaxNn77t6oL6Dji1wOGA-YvlY8D-MA",
-      "category": "기타",
+      "startedAt": "2026-11-01T02:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U9XHCb7_IerMLyJo10x10K7Emkf51vrjuuAG0koBc4WdLxAkgaMQuOV5yno",
+      "category": "스포츠",
       "news": [
         {
-          "title": "\"On a le sentiment que nos leaders grandissent\", retient Dumortier",
-          "url": "https://www.rugbyrama.fr/2026/10/31/top-14-on-a-le-sentiment-que-nos-leaders-grandissent-ethan-dumortier-lyon-revient-sur-la-victoire-du-lou-qui-a-pris-du-temps-a-se-dessiner-13630025.php",
-          "source": "Rugbyrama"
+          "title": "Australia vs Afghanistan, Cup, Final, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/175223/aus-vs-afg-cup-final-hong-kong-sixes-2026",
+          "source": "Cricbuzz"
         },
         {
-          "title": "Les Vannetais ont longtemps résisté mais s’inclinent à Lyon",
-          "url": "https://www.rugbyclubvannes.bzh/les-vannetais-ont-longtemps-resiste-mais-sinclinent-a-lyon/",
-          "source": "Rugby Club Vannes"
+          "title": "Australia vs Afghanistan Final Stats - Mong Kok | Most Runs, Wickets & Boundaries, 01 November 2026 | The SportsTak",
+          "url": "https://thesportstak.com/cricket/match/aus-vs-afg-final-hong-kong-sixes-01-november-2026-275395/stats",
+          "source": "SportsTak"
         },
         {
-          "title": "Matias Alemanno victime d’une commotion cérébrale lors de la défaite du RC Vannes à Lyon",
-          "url": "https://www.letelegramme.fr/sports/rugby/rc-vannes/matias-alemanno-victime-dune-commotion-cerebrale-lors-de-la-defaite-du-rc-vannes-a-lyon-7149830.php",
-          "source": "Le Télégramme"
+          "title": "SCO 100/3 (6) vs AFG 121/4 (Jasper Davidson 3(3) Lyle Robertson 14(3)) | Scotland vs Afghanistan, Cup, Semi Final 2, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/175183/sco-vs-afg-cup-semi-final-2-hong-kong-sixes-2026",
+          "source": "Cricbuzz"
+        }
+      ]
+    },
+    {
+      "keyword": "골프존카운티",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T01:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9766b6T9odGIQKCJN34EjGnwRsIVbXhaFdv-jg18TFqP3qVNunM5csd-7bec",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "더시에나그룹, 골프존카운티 인수…MBK와 SPA 체결",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880024.html",
+          "source": "인베스트조선"
+        },
+        {
+          "title": "MBK, 홈플러스 이어 골프존 매각 과정서도 '잡음'…골프존홀딩스 “법적 대응 검토”",
+          "url": "https://www.etnews.com/20261031000048",
+          "source": "전자신문"
+        },
+        {
+          "title": "골프존홀딩스는 왜 골프존카운티 매각에 반발할까",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=01758086645618496",
+          "source": "마켓인"
         }
       ]
     }
