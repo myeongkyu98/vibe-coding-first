@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:45:02.470Z",
+  "updatedAt": "2026-11-01T05:40:06.428Z",
   "summary": [
     {
       "category": "스포츠",
@@ -24,38 +24,18 @@
   ],
   "items": [
     {
-      "keyword": "플레이오프 5차전",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-01T03:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkyS_sXkOwu_CG--fPfynbrdthZhSudZTiPSpbz8q8k5YUzSjjIi4lyRhD61o",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "삼성-KIA, 오늘 PO 끝장승부...한국시리즈 진출 팀은?",
-          "url": "https://www.ytn.co.kr/_ln/0107_202611011124330751",
-          "source": "YTN"
-        },
-        {
-          "title": "KIA 이범호 감독, PO 5차전 불펜 총력전 선언 \"시라카와도 대기\"",
-          "url": "https://www.yna.co.kr/view/AKR20261101024300007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "실책 후 눈물 흘린 김영웅 감싼 삼성 류지혁 \"누구라도 못 잡는 타구\"[PO]",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849695",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
       "keyword": "김지민",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-01T02:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBqqX8WPT4NoYlVAg4W0BJG4ArpcD2_1ErpQguXWojirEK8t45DT4mMhzL_Q",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwNadW665he8a9SSLN690Cs3HFLAONkQj5XVLp2X7QGSMmuFfthU3u8DePxnQ",
       "category": "연예",
       "news": [
+        {
+          "title": "김지민, 삼겹살·매운 음식 먹방 “예전보다 훨씬 잘 먹어”…임신 중 괜찮을까? [건강팩트체크]",
+          "url": "https://www.donga.com/news/Culture/article/all/20261030/134932595/2",
+          "source": "동아일보"
+        },
         {
           "title": "김준호 결혼 참 잘했다..김지민, ♥임신 중에도 새벽 '집밥 내조' [Oh!쎈 이슈]",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MZTDOOLCGY3DAYRWGA2GCZLDMU/",
@@ -65,18 +45,13 @@
           "title": "김지민, 임신 6개월인데 '새벽 5시' 김밥 내조..\"♥김준호·시어머니 도시락\"",
           "url": "https://www.osen.co.kr/article/G1112901989",
           "source": "OSEN"
-        },
-        {
-          "title": "김지민, ♥김준호 2세 출산 두 달 전 맞아? 작은 얼굴, D라인은 올블랙에 감춰",
-          "url": "https://m.newsen.com/news_view.php?uid=202610290703032110",
-          "source": "뉴스엔"
         }
       ]
     },
     {
       "keyword": "상장지수 펀드",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-01T03:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBt4Qk858rBBPCyCQ_OrJyysLdx6E5Azj-Ic1yvY3musiqjRcsaDtah9trz50",
       "category": "경제",
@@ -99,6 +74,56 @@
       ]
     },
     {
+      "keyword": "트레킹",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T03:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMdowY5wkRwwbC4Uz_0_qO4_436eK-qnWAWr4UsiqK-MfSfXpJZSVuBZ0CvIY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "하이원리조트 운탄고도 트레킹 성료…3000명 가을 정취 만끽",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849735",
+          "source": "뉴시스"
+        },
+        {
+          "title": "하이원리조트, 제2회 운탄고도 소원의 길 트레킹 행사 성료",
+          "url": "https://m.segye.com/view/20261101504052",
+          "source": "세계일보"
+        },
+        {
+          "title": "하이원리조트, 운탄고도 탄광길에서 이번엔 소원을 캤다 [PS]",
+          "url": "https://sports.donga.com/life/article/all/20261101/134943997/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "정기예금",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T02:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsIejq4qwKsUWVoib41qVM6YaJuPuds1nXCdRJ337BxYDyBvge9x3mJ1GxYnc",
+      "category": "경제",
+      "news": [
+        {
+          "title": "4% 예금이 돌아왔다…신규 정기예금 10%가 연 4% 이상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700727",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "“연 4% 예금 찾는 발길”...반가운 금리 상승, 대출자는 부담",
+          "url": "https://m.ekn.kr/view.php?key=20261101022333851",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "은행서 정기예금 연 4% 이상 금리 비중 2년 9개월만에 두 자릿수로 '껑충'",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261101010000106",
+          "source": "중도일보"
+        }
+      ]
+    },
+    {
       "keyword": "클루브 아메리카 대 톨루카",
       "traffic": "200+",
       "trafficValue": 200,
@@ -112,34 +137,14 @@
           "source": "YSscores"
         },
         {
-          "title": "Club América vs. Toluca Preview",
-          "url": "https://hooligan-soccer.com/club-america-vs-toluca-preview/",
-          "source": "Hooligan Soccer"
+          "title": "América vs Toluca: the forgotten final of 110,000 that changed Mexican soccer forever",
+          "url": "https://en.as.com/soccer/america-vs-toluca-the-forgotten-final-of-110000-that-changed-mexican-soccer-forever-f202610-n/",
+          "source": "Diario AS"
         },
         {
-          "title": "Club America vs Toluca: How to watch, Live Stream, TV Channel and Time for a Liga MX game on October 31, 2026",
-          "url": "https://bolavip.com/en/soccer/club-america-vs-toluca-how-to-watch-live-stream-tv-channel-and-time-for-a-liga-mx-game-on-october-31-2026",
-          "source": "Bolavip US"
-        }
-      ]
-    },
-    {
-      "keyword": "트레킹",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T03:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyVb8i5CqtCPTerbIjFEL_BLskWYVBrdRMY8wVCnOrx_YIdC_l4LOyrjy6z5Y",
-      "category": "기타",
-      "news": [
-        {
-          "title": "하이원리조트, 제2회 운탄고도 소원의 길 트레킹 행사 성료",
-          "url": "https://m.segye.com/view/20261101504052",
-          "source": "세계일보"
-        },
-        {
-          "title": "하이원리조트, 운탄고도 탄광길에서 이번엔 소원을 캤다 [PS]",
-          "url": "https://sports.donga.com/life/article/all/20261101/134943997/1",
-          "source": "스포츠동아"
+          "title": "Watch CF America vs. Toluca live today: Who is broadcasting the match on TV and via live stream?",
+          "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-cf-america-v-toluca/blt92fa1e716f12b9dc",
+          "source": "Goal.com"
         }
       ]
     },
@@ -169,52 +174,27 @@
       ]
     },
     {
-      "keyword": "sl vs hk",
+      "keyword": "플레이오프 5차전",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-01T03:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgyAmDkRN1iBJGRxR7d7h9eeNX4MUNSdV2tjDFIa7kAroaSyZ1Qg4MG-Olto",
+      "startedAt": "2026-11-01T03:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX9t8DZo70QPCVNPf_yoEV-p8gEACNsdhuuFLiYvWiFQIIVNzDo_2yBBR6jhw",
       "category": "스포츠",
       "news": [
         {
-          "title": "SL vs HKC, 7th/8th Plate, Play-off, Hong Kong Sixes 2026 - Full Commentary",
-          "url": "https://www.cricbuzz.com/live-cricket-full-commentary/175193/hkc-vs-sl-7th8th-plate-play-off-hong-kong-sixes-2026",
-          "source": "Cricbuzz"
+          "title": "삼성-KIA PO 5차전 매진…PS 46경기 연속 만원 관중",
+          "url": "https://www.yna.co.kr/view/AKR20261101027500007",
+          "source": "연합뉴스"
         },
         {
-          "title": "Sri Lanka vs Hong Kong, China Stats",
-          "url": "https://thesportstak.com/cricket/match/sl-vs-hk-7th-place-play-off-hong-kong-sixes-01-november-2026-275391/stats",
-          "source": "SportsTak"
+          "title": "\"광주는 머리속에 없다\" 기적의 'KS행', 화두로 떠오른 '후라도 하이존' 공략 \"실투 잡아내는 싸움\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/01/MVSDEYTFMRSTIMRTGFRTSZBSMQ/",
+          "source": "조선일보"
         },
         {
-          "title": "SL vs HKC, 7th/8th Plate, Play-off, Hong Kong Sixes 2026 - Commentary",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/175193/sl-vs-hkc-7th8th-plate-play-off-hong-kong-sixes-2026",
-          "source": "Cricbuzz"
-        }
-      ]
-    },
-    {
-      "keyword": "정기예금",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsIejq4qwKsUWVoib41qVM6YaJuPuds1nXCdRJ337BxYDyBvge9x3mJ1GxYnc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "4% 예금이 돌아왔다…신규 정기예금 10%가 연 4% 이상",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700727",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "“연 4% 예금 찾는 발길”...반가운 금리 상승, 대출자는 부담",
-          "url": "https://m.ekn.kr/view.php?key=20261101022333851",
-          "source": "에너지경제신문"
-        },
-        {
-          "title": "은행서 정기예금 연 4% 이상 금리 비중 2년 9개월만에 두 자릿수로 '껑충'",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261101010000106",
-          "source": "중도일보"
+          "title": "실책 후 눈물 흘린 김영웅 감싼 삼성 류지혁 \"누구라도 못 잡는 타구\"[PO]",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849695",
+          "source": "뉴시스"
         }
       ]
     },
@@ -265,6 +245,31 @@
           "title": "조인성, 청룡영화상 주연·조연상 동시 후보 기염‥말타고 달린 보람 있다",
           "url": "https://m.newsen.com/news_view.php?uid=202610291734566710",
           "source": "뉴스엔"
+        }
+      ]
+    },
+    {
+      "keyword": "sl vs hk",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T03:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgyAmDkRN1iBJGRxR7d7h9eeNX4MUNSdV2tjDFIa7kAroaSyZ1Qg4MG-Olto",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "SL vs HKC, 7th/8th Plate, Play-off, Hong Kong Sixes 2026 - Full Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-full-commentary/175193/hkc-vs-sl-7th8th-plate-play-off-hong-kong-sixes-2026",
+          "source": "Cricbuzz"
+        },
+        {
+          "title": "Sri Lanka vs Hong Kong, China Stats",
+          "url": "https://thesportstak.com/cricket/match/sl-vs-hk-7th-place-play-off-hong-kong-sixes-01-november-2026-275391/stats",
+          "source": "SportsTak"
+        },
+        {
+          "title": "HK vs SL, Hong Kong Sixes 2026: Indian-origin Anshuman Rath stars with bat as Hong Kong stun Sri Lanka for 7th place",
+          "url": "https://www.livemint.com/sports/cricket-news/hk-vs-sl-hong-kong-sixes-2026-indian-origin-anshuman-rath-stars-with-bat-as-hong-kong-stun-sri-lanka-for-7th-place-11793507001226.html",
+          "source": "Livemint"
         }
       ]
     }
