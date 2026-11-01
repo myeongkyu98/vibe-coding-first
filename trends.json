@@ -1,28 +1,57 @@
 {
-  "updatedAt": "2026-11-01T03:44:34.350Z",
+  "updatedAt": "2026-11-01T04:45:02.470Z",
   "summary": [
     {
       "category": "스포츠",
       "count": 4
     },
     {
-      "category": "기타",
-      "count": 3
+      "category": "경제",
+      "count": 2
     },
     {
-      "category": "경제",
+      "category": "기타",
       "count": 2
     },
     {
       "category": "연예",
       "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "플레이오프 5차전",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-01T03:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkyS_sXkOwu_CG--fPfynbrdthZhSudZTiPSpbz8q8k5YUzSjjIi4lyRhD61o",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "삼성-KIA, 오늘 PO 끝장승부...한국시리즈 진출 팀은?",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611011124330751",
+          "source": "YTN"
+        },
+        {
+          "title": "KIA 이범호 감독, PO 5차전 불펜 총력전 선언 \"시라카와도 대기\"",
+          "url": "https://www.yna.co.kr/view/AKR20261101024300007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "실책 후 눈물 흘린 김영웅 감싼 삼성 류지혁 \"누구라도 못 잡는 타구\"[PO]",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849695",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "김지민",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-01T02:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBqqX8WPT4NoYlVAg4W0BJG4ArpcD2_1ErpQguXWojirEK8t45DT4mMhzL_Q",
       "category": "연예",
@@ -45,222 +74,197 @@
       ]
     },
     {
-      "keyword": "이경실",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T01:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLmYWOiOZOB-9HgPXyFf49R_l-tmnskBbA5FM4vE1Rq3JM2z33Q5MlQMnvcXI",
+      "keyword": "상장지수 펀드",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T03:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBt4Qk858rBBPCyCQ_OrJyysLdx6E5Azj-Ic1yvY3musiqjRcsaDtah9trz50",
       "category": "경제",
       "news": [
         {
-          "title": "이경실, 아파트 경매 위기서 ‘1억’ 빌려준 김지선에 무한 감사..“1년 걸려 갚아”",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/G4ZTIOJZMRRDEMZVMI2GGNTEGM/",
-          "source": "조선일보"
+          "title": "\"시장 흔들려도 버텨라\"…연령별 ETF 투자 황금비율은",
+          "url": "https://www.hankyung.com/article/202611018106i",
+          "source": "한국경제"
         },
         {
-          "title": "이경실 \"89평 아파트 경매 위기, 김지선 1억 선뜻 빌려줘\"",
-          "url": "https://www.segye.com/newsView/20261101503632",
+          "title": "최고민수의 442 포트폴리오 전술✨",
+          "url": "https://www.mt.co.kr/video/channel/475303",
+          "source": "머니투데이"
+        },
+        {
+          "title": "고금리·고유가 ‘이중고’…변동성 장세 투자 대안은?",
+          "url": "https://www.dailian.co.kr/news/view/1708997/%EA%B3%A0%EA%B8%88%EB%A6%AC%EA%B3%A0%EC%9C%A0-%E2%80%98%EC%9D%B4%EC%A4%91%EA%B3%A0%E2%80%99%EB%B3%80%EB%8F%99%EC%84%B1-%EC%9E%A5%EC%84%B8-%ED%88%AC%EC%9E%90-2026",
+          "source": "데일리안"
+        }
+      ]
+    },
+    {
+      "keyword": "클루브 아메리카 대 톨루카",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T03:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9vJ4v7Cic9t0c5y69xMpXz3UFt_nGnevgfMo9YtnFjIT8E4Jaws-iviXgfvc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "CF America vs Toluca match lineup | Liga MX · 1 Nov 2026",
+          "url": "https://www.ysscores.com/en/lineup/5830967/CF-Am%C3%A9rica-vs-Deportivo-Toluca",
+          "source": "YSscores"
+        },
+        {
+          "title": "Club América vs. Toluca Preview",
+          "url": "https://hooligan-soccer.com/club-america-vs-toluca-preview/",
+          "source": "Hooligan Soccer"
+        },
+        {
+          "title": "Club America vs Toluca: How to watch, Live Stream, TV Channel and Time for a Liga MX game on October 31, 2026",
+          "url": "https://bolavip.com/en/soccer/club-america-vs-toluca-how-to-watch-live-stream-tv-channel-and-time-for-a-liga-mx-game-on-october-31-2026",
+          "source": "Bolavip US"
+        }
+      ]
+    },
+    {
+      "keyword": "트레킹",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T03:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyVb8i5CqtCPTerbIjFEL_BLskWYVBrdRMY8wVCnOrx_YIdC_l4LOyrjy6z5Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "하이원리조트, 제2회 운탄고도 소원의 길 트레킹 행사 성료",
+          "url": "https://m.segye.com/view/20261101504052",
           "source": "세계일보"
         },
         {
-          "title": "이경실, 과부 정선희 위해 3억 5천 모은 이유 “지금도 한우 옥돔 보내”(지식인사이드)",
-          "url": "https://m.newsen.com/news_view.php?uid=202611010800582310",
-          "source": "뉴스엔"
+          "title": "하이원리조트, 운탄고도 탄광길에서 이번엔 소원을 캤다 [PS]",
+          "url": "https://sports.donga.com/life/article/all/20261101/134943997/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "계수정",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXryOGd41WLezLDjlgDCd_trjtpJ-dS24YCoC22WrHap0hH3IOUsP4GdazcE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "시청률 20% 앞두고 15%대로…‘닥터X’ 전공의 파업 일침, 2회 연속 하락",
-          "url": "https://www.mk.co.kr/news/hot-issues/12192541",
-          "source": "매일경제"
-        },
-        {
-          "title": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동[Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MVRGMYRTMY3TGNJZHEZGEMZTMQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'암살자(들)' 인기 여전한데... 행사 꺼리는 극장 3사의 속사정",
-          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003280243",
-          "source": "OhmyNews"
-        }
-      ]
-    },
-    {
-      "keyword": "쇼트트랙",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T01:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuFPICu6wh0nZqhu6Cc9bT6mumPIOuPCSgLlHWmrAdl8kZ_AUbw_7wdSVi8ME",
-      "category": "기타",
-      "news": [
-        {
-          "title": "마지막 시즌도 ‘최민정’답게…월드투어 2연속 ‘금빛 질주’",
-          "url": "https://www.kyeonggi.com/article/20261101580024",
-          "source": "경기일보"
-        },
-        {
-          "title": "최민정 \"캐나다는 메이플 시럽이지\"",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261101_0002279501&provider_id=&cID=&type=photoMain&catg=&idx=7",
-          "source": "뉴시스"
-        },
-        {
-          "title": "은퇴 시즌 맞아? '라스트댄스' 최민정의 환상 역전극! 2차 투어 女1000m 금메달 '2대회 연속 개인전 金'...계주서도 날찌르기로 은메달",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/01/HA2TKNZQGFSDKYLDME2DCZDBHE/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "bangladesh vs india",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T01:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U9XHCb7_IerMLyJo10x10K7Emkf51vrjuuAG0koBc4WdLxAkgaMQuOV5yno",
+      "keyword": "hong kong vs sri lanka",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T03:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GBdbjfX1tuzhorXLluCvcmkuGHk-HGIuUWonbkEVJIkYPdsNbrqbtkRenjU",
       "category": "스포츠",
       "news": [
         {
-          "title": "BAN vs IND, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026 - Commentary",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/175190/ban-vs-ind-11th12th-bowl-play-off-hong-kong-sixes-2026",
+          "title": "OMAN 93/1 (4.4) vs SL 92/5 (Zohaib Amanat 43(13) Aamir Kaleem 1(1)) | Sri Lanka vs Oman, Plate, Semi Final 1, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/175163/sl-vs-oman-plate-semi-final-1-hong-kong-sixes-2026",
           "source": "Cricbuzz"
         },
         {
-          "title": "India vs Bangladesh Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
-          "url": "https://www.ndtvprofit.com/sports/india-vs-bangladesh-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12265078",
-          "source": "NDTV Profit"
+          "title": "Plate, 1st Semi-Final, Hong Kong International Sixes at Mong Kok, Oct 31 2026",
+          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559207/oman-vs-sri-lanka-plate-1st-semi-final-hong-kong-international-sixes-2026-27",
+          "source": "ESPN"
+        },
+        {
+          "title": "OMA:93/1 (4.4) | Live Cricket Score | SL vs OMA | hk sixes 2026 | Cricket Scoreboard",
+          "url": "https://sports.ndtv.com/cricket/sl-vs-oma-scorecard-live-cricket-score-hong-kong-sixes-2026-plate-semi-final-1-slom10312026275386",
+          "source": "NDTV Sports"
         }
       ]
     },
     {
-      "keyword": "적금",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T01:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuO5SP7ZgW77s_N4TURIT9jMQ-oMIu2c-MCCcLKJYOKxv8EhEv1a4YUwcsk4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
-          "source": "금융신문"
-        },
-        {
-          "title": "12개월 정기예금 최고 연 4.1%…저축은행·지방은행이 상위권, 우대조건은 꼭 확인",
-          "url": "https://www.diarypoint.com/news/articleView.html?idxno=6469",
-          "source": "https://www.diarypoint.com/"
-        },
-        {
-          "title": "12개월 최고 연 6.00%…BNK저축은행 'BNK동행적금'[이주의 저축은행 적금금리-11월 1주]",
-          "url": "https://www.fntimes.com/html/view.php?ud=2026110100111753707c96e79780_18",
-          "source": "금융신문"
-        }
-      ]
-    },
-    {
-      "keyword": "인천광역시 부교육감",
+      "keyword": "sl vs hk",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-01T02:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSu3N5Mensb4RhzOQbmJ87YWhEu0dBbAy1AGeDYca6TvpoA0327nEjmRaPDyQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "경기도교육청 제1부교육감에 이상돈 선임… 업무 공백 해소 기대",
-          "url": "https://www.kyeongin.com/article/1773776",
-          "source": "경인일보"
-        },
-        {
-          "title": "[새얼굴] 이상돈 경기도교육청 제1부교육감",
-          "url": "https://www.kyeonggi.com/article/20261030580283",
-          "source": "경기일보"
-        },
-        {
-          "title": "[단독] 경기도교육청 부교육감에 이상돈 유력…인천은 최은희 거론",
-          "url": "https://www.edupress.kr/news/articleView.html?idxno=30569",
-          "source": "에듀프레스"
-        }
-      ]
-    },
-    {
-      "keyword": "ban vs ind",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T01:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbFcB5WuCwGTUv_wdLmJRi0pigWdcCJ358B3vWPb7SgdU015nb1DN9xrWGLHo",
+      "startedAt": "2026-11-01T03:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgyAmDkRN1iBJGRxR7d7h9eeNX4MUNSdV2tjDFIa7kAroaSyZ1Qg4MG-Olto",
       "category": "스포츠",
       "news": [
         {
-          "title": "India face tricky WTC final road after South Africa's Cape Town Test win: Here's how",
-          "url": "https://www.indiatoday.in/sports/cricket/story/india-wtc-final-qualification-scenarios-south-africa-australia-series-win-3029501-2026-10-31",
-          "source": "India Today"
-        },
-        {
-          "title": "WTC points table after BAN vs WI 1st Test: India move up to fourth as Bangladesh drop to fifth after eight-wicket defeat",
-          "url": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
-          "source": "Livemint"
-        },
-        {
-          "title": "How Can India Qualify For WTC 2025-27 Final? Check Scenario After South Africa Vs Australia Test Series",
-          "url": "https://www.outlookindia.com/sports/cricket/india-qualification-scenario-world-test-championship-2025-27-explained",
-          "source": "Outlook India"
-        }
-      ]
-    },
-    {
-      "keyword": "hong kong sixes",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T02:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U9XHCb7_IerMLyJo10x10K7Emkf51vrjuuAG0koBc4WdLxAkgaMQuOV5yno",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Australia vs Afghanistan, Cup, Final, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/175223/aus-vs-afg-cup-final-hong-kong-sixes-2026",
+          "title": "SL vs HKC, 7th/8th Plate, Play-off, Hong Kong Sixes 2026 - Full Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-full-commentary/175193/hkc-vs-sl-7th8th-plate-play-off-hong-kong-sixes-2026",
           "source": "Cricbuzz"
         },
         {
-          "title": "Australia vs Afghanistan Final Stats - Mong Kok | Most Runs, Wickets & Boundaries, 01 November 2026 | The SportsTak",
-          "url": "https://thesportstak.com/cricket/match/aus-vs-afg-final-hong-kong-sixes-01-november-2026-275395/stats",
+          "title": "Sri Lanka vs Hong Kong, China Stats",
+          "url": "https://thesportstak.com/cricket/match/sl-vs-hk-7th-place-play-off-hong-kong-sixes-01-november-2026-275391/stats",
           "source": "SportsTak"
         },
         {
-          "title": "SCO 100/3 (6) vs AFG 121/4 (Jasper Davidson 3(3) Lyle Robertson 14(3)) | Scotland vs Afghanistan, Cup, Semi Final 2, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/175183/sco-vs-afg-cup-semi-final-2-hong-kong-sixes-2026",
+          "title": "SL vs HKC, 7th/8th Plate, Play-off, Hong Kong Sixes 2026 - Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/175193/sl-vs-hkc-7th8th-plate-play-off-hong-kong-sixes-2026",
           "source": "Cricbuzz"
         }
       ]
     },
     {
-      "keyword": "골프존카운티",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T01:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9766b6T9odGIQKCJN34EjGnwRsIVbXhaFdv-jg18TFqP3qVNunM5csd-7bec",
-      "category": "스포츠",
+      "keyword": "정기예금",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T02:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsIejq4qwKsUWVoib41qVM6YaJuPuds1nXCdRJ337BxYDyBvge9x3mJ1GxYnc",
+      "category": "경제",
       "news": [
         {
-          "title": "더시에나그룹, 골프존카운티 인수…MBK와 SPA 체결",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/28/2026102880024.html",
-          "source": "인베스트조선"
+          "title": "4% 예금이 돌아왔다…신규 정기예금 10%가 연 4% 이상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700727",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "MBK, 홈플러스 이어 골프존 매각 과정서도 '잡음'…골프존홀딩스 “법적 대응 검토”",
-          "url": "https://www.etnews.com/20261031000048",
-          "source": "전자신문"
+          "title": "“연 4% 예금 찾는 발길”...반가운 금리 상승, 대출자는 부담",
+          "url": "https://m.ekn.kr/view.php?key=20261101022333851",
+          "source": "에너지경제신문"
         },
         {
-          "title": "골프존홀딩스는 왜 골프존카운티 매각에 반발할까",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=01758086645618496",
-          "source": "마켓인"
+          "title": "은행서 정기예금 연 4% 이상 금리 비중 2년 9개월만에 두 자릿수로 '껑충'",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261101010000106",
+          "source": "중도일보"
+        }
+      ]
+    },
+    {
+      "keyword": "xrp",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T03:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkRAFw_Dps0A4VYhYzLoJgovXmbSzK37DWzDUS2anADBylCEQxBfeTxjx3EM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Ripple Price Analysis: Can XRP Recover After the Hack-Driven Sell-Off?",
+          "url": "https://cryptopotato.com/ripple-price-analysis-can-xrp-recover-after-the-hack-driven-sell-off/",
+          "source": "CryptoPotato"
+        },
+        {
+          "title": "XRP Price Prediction: Deeper Correction Possible as Binance Hack Pushes XRP Below $1.26",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-deeper-correction-141756765.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Ripple Transfers 120 Million XRP to Anonymous Wallet",
+          "url": "https://en.bloomingbit.io/feed/news/123285",
+          "source": "bloomingbit"
+        }
+      ]
+    },
+    {
+      "keyword": "호프",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T03:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ2yyL4G4A0kQ5K1LM1rs96d51Z54bFsck_yaCpkAMf1a_LN6VcnD7hc8JLN4",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "‘호프’부터 ‘가능한 사랑’까지… 청룡영화상 트로피 주인공은?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189493",
+          "source": "금강일보"
+        },
+        {
+          "title": "소처럼 일한 조인성…두 영화로 청룡, 남우주연·조연상 동시 후보",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821748",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "조인성, 청룡영화상 주연·조연상 동시 후보 기염‥말타고 달린 보람 있다",
+          "url": "https://m.newsen.com/news_view.php?uid=202610291734566710",
+          "source": "뉴스엔"
         }
       ]
     }
