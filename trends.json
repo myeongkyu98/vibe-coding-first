@@ -1,275 +1,251 @@
 {
-  "updatedAt": "2026-11-01T05:40:06.428Z",
+  "updatedAt": "2026-11-01T06:47:24.193Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 4
-    },
-    {
-      "category": "경제",
-      "count": 2
+      "count": 7
     },
     {
       "category": "기타",
       "count": 2
     },
     {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김지민",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-01T02:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwNadW665he8a9SSLN690Cs3HFLAONkQj5XVLp2X7QGSMmuFfthU3u8DePxnQ",
-      "category": "연예",
+      "keyword": "야구 중계",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-01T05:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHg4ph67RCN0drccXkL9ERZLt8vLFvIb3coe1Y3n_yHVYYtMmgPUJ2ioqU9zY",
+      "category": "스포츠",
       "news": [
         {
-          "title": "김지민, 삼겹살·매운 음식 먹방 “예전보다 훨씬 잘 먹어”…임신 중 괜찮을까? [건강팩트체크]",
-          "url": "https://www.donga.com/news/Culture/article/all/20261030/134932595/2",
+          "title": "원태인 ‘불펜 전환’, 삼성의 ‘신의 한 수’ 될까 ‘무리수’ 될까",
+          "url": "https://www.donga.com/news/Sports/article/all/20261101/134943592/1",
           "source": "동아일보"
         },
         {
-          "title": "김준호 결혼 참 잘했다..김지민, ♥임신 중에도 새벽 '집밥 내조' [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MZTDOOLCGY3DAYRWGA2GCZLDMU/",
+          "title": "내일 없는 삼성·KIA 마운드 총력전…기다리는 kt만 미소",
+          "url": "https://www.yna.co.kr/view/AKR20261030029900007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "\"대구 찍고 수원 간다\" 벼랑 끝에서도 희망 잃지 않은 나성범, KS 원정 짐까지 챙겼다 [PO4]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GE3GCZBQMI3TKMTCGQ2TSNTCGA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "야구중계",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-01T05:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiEleFoWSa-czgb-FTV4VA0xOwzwMuE5nHYSs5e4nDd56X7GSecZ3CQrDBcuc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'범인 찾기 중계' 그만하자...현직 캐스터 쓴소리에 야구팬 공감 [지금 이뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202610311905262720",
+          "source": "YTN"
+        },
+        {
+          "title": "\"실책한 선수 그만 비췄으면\"…정우영 캐스터, 야구 중계 관행에 쓴소리",
+          "url": "https://www.newsis.com/view/NISX20261031_0003849273",
+          "source": "뉴시스"
+        },
+        {
+          "title": "김영웅 두 번 죽인 방송 카메라... '표적' 관행 사라져야",
+          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003280441",
+          "source": "오마이스타"
+        }
+      ]
+    },
+    {
+      "keyword": "닥터 x 시청률",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T05:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXryOGd41WLezLDjlgDCd_trjtpJ-dS24YCoC22WrHap0hH3IOUsP4GdazcE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "시청률 20% 앞두고 15%대로…‘닥터X’ 전공의 파업 일침, 2회 연속 하락",
+          "url": "https://www.mk.co.kr/news/hot-issues/12192541",
+          "source": "매일경제"
+        },
+        {
+          "title": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동[Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/MVRGMYRTMY3TGNJZHEZGEMZTMQ/",
           "source": "조선일보"
         },
         {
-          "title": "김지민, 임신 6개월인데 '새벽 5시' 김밥 내조..\"♥김준호·시어머니 도시락\"",
-          "url": "https://www.osen.co.kr/article/G1112901989",
+          "title": "‘사이버레커’ 정치인들의 전성시대",
+          "url": "https://h21.hani.co.kr/arti/politics/politics_general/60098.html",
+          "source": "한겨레21"
+        }
+      ]
+    },
+    {
+      "keyword": "후라도",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T05:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2o5Wnc0UJjVJZLp-KHPsqiEwkj8NAw2D4NuYj-qdhq9k2OuyEo400xz92Brk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "역투하는 후라도",
+          "url": "https://www.newsis.com/view/NISI20261101_0021513392",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[포토] '김도영 땅볼로 잡는' 후라도 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110114083425894",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'바꿔도 또 바꿔도 답이 없다' 벼랑 끝 KIA, 테이블세터 24타수 2안타 충격 부진…이범호 감독도 깊은 고민 [PO]",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/30/GVRDINBQMNSGMOBZMRRTCMJTHA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "고양 소노 대 수원 kt",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T05:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "강민호",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T05:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx0rjk8zS7vSun1lY20EpoEG-PkVSSFFzT4KSUe78_M1vhTgE6K3U8ZxTH7bc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“몸 불편해도 뛰겠다” 85년생 베테랑 포수의 뜨거운 투혼…강민호, 생애 두 번째 KS 진출 위해 몸 던진다 [PO5]",
+          "url": "https://biz.chosun.com/sports/baseball/2026/11/01/GIZTSNBSMRTDSYRQGU3TMYJVMM/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "[포토] '2회말 안타로 찬스만든' 강민호 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/01/2026110114530728602",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[사진] 강민호, 추가 득점 가자",
+          "url": "https://www.osen.co.kr/article/G1112901364",
           "source": "OSEN"
         }
       ]
     },
     {
-      "keyword": "상장지수 펀드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBt4Qk858rBBPCyCQ_OrJyysLdx6E5Azj-Ic1yvY3musiqjRcsaDtah9trz50",
-      "category": "경제",
+      "keyword": "디아즈",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T05:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-Nbfx1ArNOIkkaqh3_DnRoKSZBMUG_RSe_EGXId3oxnG5jwI1CnZF_qLE1M",
+      "category": "스포츠",
       "news": [
         {
-          "title": "\"시장 흔들려도 버텨라\"…연령별 ETF 투자 황금비율은",
-          "url": "https://www.hankyung.com/article/202611018106i",
-          "source": "한국경제"
-        },
-        {
-          "title": "최고민수의 442 포트폴리오 전술✨",
-          "url": "https://www.mt.co.kr/video/channel/475303",
-          "source": "머니투데이"
-        },
-        {
-          "title": "고금리·고유가 ‘이중고’…변동성 장세 투자 대안은?",
-          "url": "https://www.dailian.co.kr/news/view/1708997/%EA%B3%A0%EA%B8%88%EB%A6%AC%EA%B3%A0%EC%9C%A0-%E2%80%98%EC%9D%B4%EC%A4%91%EA%B3%A0%E2%80%99%EB%B3%80%EB%8F%99%EC%84%B1-%EC%9E%A5%EC%84%B8-%ED%88%AC%EC%9E%90-2026",
-          "source": "데일리안"
-        }
-      ]
-    },
-    {
-      "keyword": "트레킹",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMdowY5wkRwwbC4Uz_0_qO4_436eK-qnWAWr4UsiqK-MfSfXpJZSVuBZ0CvIY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "하이원리조트 운탄고도 트레킹 성료…3000명 가을 정취 만끽",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849735",
+          "title": "'2경기 연속 수비 실수' 디아즈, PO 통산 최다 실책 타이[PO]",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849800",
           "source": "뉴시스"
         },
         {
-          "title": "하이원리조트, 제2회 운탄고도 소원의 길 트레킹 행사 성료",
-          "url": "https://m.segye.com/view/20261101504052",
-          "source": "세계일보"
+          "title": "'이럴수가'",
+          "url": "https://www.news1.kr/photos/8190529",
+          "source": "뉴스1"
         },
         {
-          "title": "하이원리조트, 운탄고도 탄광길에서 이번엔 소원을 캤다 [PS]",
-          "url": "https://sports.donga.com/life/article/all/20261101/134943997/1",
-          "source": "스포츠동아"
+          "title": "적시타 때려 점수차 벌리고 기뻐하는 하주석",
+          "url": "https://www.yna.co.kr/view/PYH20261030194800054",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "정기예금",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsIejq4qwKsUWVoib41qVM6YaJuPuds1nXCdRJ337BxYDyBvge9x3mJ1GxYnc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "4% 예금이 돌아왔다…신규 정기예금 10%가 연 4% 이상",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700727",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "“연 4% 예금 찾는 발길”...반가운 금리 상승, 대출자는 부담",
-          "url": "https://m.ekn.kr/view.php?key=20261101022333851",
-          "source": "에너지경제신문"
-        },
-        {
-          "title": "은행서 정기예금 연 4% 이상 금리 비중 2년 9개월만에 두 자릿수로 '껑충'",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261101010000106",
-          "source": "중도일보"
-        }
-      ]
-    },
-    {
-      "keyword": "클루브 아메리카 대 톨루카",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T03:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9vJ4v7Cic9t0c5y69xMpXz3UFt_nGnevgfMo9YtnFjIT8E4Jaws-iviXgfvc",
+      "keyword": "기아 야구",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T05:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwVnSO4CQPUZo-xBD51YXxK7hKbnauy6hcXE4_SV47UokEbaF8DEzfFQz92DU",
       "category": "스포츠",
       "news": [
         {
-          "title": "CF America vs Toluca match lineup | Liga MX · 1 Nov 2026",
-          "url": "https://www.ysscores.com/en/lineup/5830967/CF-Am%C3%A9rica-vs-Deportivo-Toluca",
-          "source": "YSscores"
-        },
-        {
-          "title": "América vs Toluca: the forgotten final of 110,000 that changed Mexican soccer forever",
-          "url": "https://en.as.com/soccer/america-vs-toluca-the-forgotten-final-of-110000-that-changed-mexican-soccer-forever-f202610-n/",
-          "source": "Diario AS"
-        },
-        {
-          "title": "Watch CF America vs. Toluca live today: Who is broadcasting the match on TV and via live stream?",
-          "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-cf-america-v-toluca/blt92fa1e716f12b9dc",
-          "source": "Goal.com"
-        }
-      ]
-    },
-    {
-      "keyword": "hong kong vs sri lanka",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T03:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GBdbjfX1tuzhorXLluCvcmkuGHk-HGIuUWonbkEVJIkYPdsNbrqbtkRenjU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "OMAN 93/1 (4.4) vs SL 92/5 (Zohaib Amanat 43(13) Aamir Kaleem 1(1)) | Sri Lanka vs Oman, Plate, Semi Final 1, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/175163/sl-vs-oman-plate-semi-final-1-hong-kong-sixes-2026",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Plate, 1st Semi-Final, Hong Kong International Sixes at Mong Kok, Oct 31 2026",
-          "url": "https://www.espn.com/cricket/series/8768/scorecard/1559207/oman-vs-sri-lanka-plate-1st-semi-final-hong-kong-international-sixes-2026-27",
-          "source": "ESPN"
-        },
-        {
-          "title": "OMA:93/1 (4.4) | Live Cricket Score | SL vs OMA | hk sixes 2026 | Cricket Scoreboard",
-          "url": "https://sports.ndtv.com/cricket/sl-vs-oma-scorecard-live-cricket-score-hong-kong-sixes-2026-plate-semi-final-1-slom10312026275386",
-          "source": "NDTV Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "플레이오프 5차전",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T03:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX9t8DZo70QPCVNPf_yoEV-p8gEACNsdhuuFLiYvWiFQIIVNzDo_2yBBR6jhw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "삼성-KIA PO 5차전 매진…PS 46경기 연속 만원 관중",
-          "url": "https://www.yna.co.kr/view/AKR20261101027500007",
+          "title": "KIA 카스트로 \"좋은 공 기다릴 것\"…PO 최종전 앞두고 전략 수정",
+          "url": "https://www.yna.co.kr/view/AKR20261101024800007",
           "source": "연합뉴스"
         },
         {
-          "title": "\"광주는 머리속에 없다\" 기적의 'KS행', 화두로 떠오른 '후라도 하이존' 공략 \"실투 잡아내는 싸움\"",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/01/MVSDEYTFMRSTIMRTGFRTSZBSMQ/",
-          "source": "조선일보"
+          "title": "[야구] KIA 카스트로, PO 최종전 전략 수정… “좋은 공 기다리겠다”",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3444870",
+          "source": "천지일보"
         },
         {
-          "title": "실책 후 눈물 흘린 김영웅 감싼 삼성 류지혁 \"누구라도 못 잡는 타구\"[PO]",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849695",
-          "source": "뉴시스"
+          "title": "\"좌절하지 마, 에너지 유지하자\" 박재현 어떻게 달랬나...할 일 많은 카스트로, \"오늘 모두가 잘할 수 있다\" [PO5]",
+          "url": "https://www.koreadaily.com/article/20261031212022193",
+          "source": "미주중앙일보"
         }
       ]
     },
     {
-      "keyword": "xrp",
+      "keyword": "중계",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-01T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkRAFw_Dps0A4VYhYzLoJgovXmbSzK37DWzDUS2anADBylCEQxBfeTxjx3EM",
-      "category": "기타",
+      "startedAt": "2026-11-01T05:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHbRbpZtwonx05KwlZDjfp2f_R_-86z0q62TUg0eDpewrFezN8VSha9VuHryE",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "Ripple Price Analysis: Can XRP Recover After the Hack-Driven Sell-Off?",
-          "url": "https://cryptopotato.com/ripple-price-analysis-can-xrp-recover-after-the-hack-driven-sell-off/",
-          "source": "CryptoPotato"
+          "title": "이천시, 인허가 행정 혁신 나선다…처리 지연·불합리한 관행 개선",
+          "url": "https://www.kyeonggi.com/article/20261101580096",
+          "source": "경기일보"
         },
         {
-          "title": "XRP Price Prediction: Deeper Correction Possible as Binance Hack Pushes XRP Below $1.26",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-deeper-correction-141756765.html",
-          "source": "Yahoo Finance"
+          "title": "이천시, 주요정책회의 첫 온라인 공개…내년 실시간 중계",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039510",
+          "source": "기호일보"
         },
         {
-          "title": "Ripple Transfers 120 Million XRP to Anonymous Wallet",
-          "url": "https://en.bloomingbit.io/feed/news/123285",
-          "source": "bloomingbit"
+          "title": "성수석 이천시장, 인·허가 대폭 손질한다…우수 공무원 추천제 등 추진",
+          "url": "https://www.munhwa.com/article/11627534",
+          "source": "문화일보"
         }
       ]
     },
     {
-      "keyword": "호프",
+      "keyword": "헐크",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-01T03:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ2yyL4G4A0kQ5K1LM1rs96d51Z54bFsck_yaCpkAMf1a_LN6VcnD7hc8JLN4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "‘호프’부터 ‘가능한 사랑’까지… 청룡영화상 트로피 주인공은?",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189493",
-          "source": "금강일보"
-        },
-        {
-          "title": "소처럼 일한 조인성…두 영화로 청룡, 남우주연·조연상 동시 후보",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821748",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "조인성, 청룡영화상 주연·조연상 동시 후보 기염‥말타고 달린 보람 있다",
-          "url": "https://m.newsen.com/news_view.php?uid=202610291734566710",
-          "source": "뉴스엔"
-        }
-      ]
-    },
-    {
-      "keyword": "sl vs hk",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T03:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgyAmDkRN1iBJGRxR7d7h9eeNX4MUNSdV2tjDFIa7kAroaSyZ1Qg4MG-Olto",
+      "startedAt": "2026-11-01T05:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIk2-caEJ5ICDqraYIFtz8THVKWCcSpFJxoYpB_vO-pk5H9ZJoG5vUAIbV5M",
       "category": "스포츠",
       "news": [
         {
-          "title": "SL vs HKC, 7th/8th Plate, Play-off, Hong Kong Sixes 2026 - Full Commentary",
-          "url": "https://www.cricbuzz.com/live-cricket-full-commentary/175193/hkc-vs-sl-7th8th-plate-play-off-hong-kong-sixes-2026",
-          "source": "Cricbuzz"
+          "title": "Spider-Man Defies the Avengers to Take on Marvel’s Most Terrifying Hulk in New Preview",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-defies-avengers-marvel-184630831.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Sri Lanka vs Hong Kong, China Stats",
-          "url": "https://thesportstak.com/cricket/match/sl-vs-hk-7th-place-play-off-hong-kong-sixes-01-november-2026-275391/stats",
-          "source": "SportsTak"
+          "title": "Infernal Hulk vs. Spider-Man #1 Preview: Spidey's Suicide Mission",
+          "url": "https://bleedingcool.com/comics/infernal-hulk-vs-spider-man-1-preview-spideys-suicide-mission/",
+          "source": "Bleeding Cool News"
         },
         {
-          "title": "HK vs SL, Hong Kong Sixes 2026: Indian-origin Anshuman Rath stars with bat as Hong Kong stun Sri Lanka for 7th place",
-          "url": "https://www.livemint.com/sports/cricket-news/hk-vs-sl-hong-kong-sixes-2026-indian-origin-anshuman-rath-stars-with-bat-as-hong-kong-stun-sri-lanka-for-7th-place-11793507001226.html",
-          "source": "Livemint"
+          "title": "The Infernal Hulk vs. The Avengers",
+          "url": "https://nordic.ign.com/the-infernal-hulk-vs-the-avengers",
+          "source": "IGN Nordic"
         }
       ]
     }
