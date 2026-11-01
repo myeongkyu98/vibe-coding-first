@@ -1,250 +1,251 @@
 {
-  "updatedAt": "2026-11-01T21:29:35.521Z",
+  "updatedAt": "2026-11-01T22:29:18.306Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
-    },
-    {
       "category": "스포츠",
-      "count": 3
+      "count": 8
     },
     {
-      "category": "IT·과학",
+      "category": "경제",
       "count": 1
     },
     {
-      "category": "생활·날씨",
+      "category": "기타",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "뱀",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-01T18:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS07pdBosNDqPwzijBNU0pbclb1hCc22A5IXLeqVyI4qIdsyGEoTwIWh7cIvsw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"사진만 봐도 아찔\"...고속도로 달리는데 핸들서 뱀 튀어나와",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03145526645641456&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "[속보]고속도로 주행 중 핸들서 뱀머리 ‘삐죽’…운전자 렌터카 몰다 ‘깜짝’ 소방 출동 소동",
-          "url": "https://www.munhwa.com/article/11627877",
-          "source": "문화일보"
-        },
-        {
-          "title": "“으악, 뱀이다!”… 고속도로 달리던 차량 핸들서 뱀 머리가 '불쑥'",
-          "url": "https://www.etnews.com/20261101000097",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "현대",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T19:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgCGyvlX93oXq3OSdPvW2Q_7jjSmXiPWqXDE_AkUXIPgf8deYt_Pk_uk6G0fk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "저PBR 151개사 명단 첫공개…현대제철 등 시총 1조 이상도 포함",
-          "url": "https://www.yna.co.kr/view/AKR20261031025200008",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "만년 저평가 151개사 '경고장' - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/02/2026110119513938687",
-          "source": "머니투데이"
-        },
-        {
-          "title": "1조클럽도 못피했다…한화생명·현대제철 등 151곳에 ‘저PBR 꼬리표’",
-          "url": "https://stock.mk.co.kr/news/view/1186416",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "창신메모리테크놀로지",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-01T18:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FYzxpueYOjBwCkR_QnCZx3ZwBogNAtH_o_GSUcfxJ_xcUPE5EVitqUunESc",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "中CXMT \"4F²기반 6세대 D램 시제품 검증 완료…점진적 양산\"",
-          "url": "https://www.yna.co.kr/view/AKR20261101023300089",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "공급사 쥐어짜던 애플, 낸드값 5배 급등에 ‘발동동'",
-          "url": "https://m.joseilbo.com/news/view.htm?newsid=578491",
-          "source": "조세일보"
-        },
-        {
-          "title": "中 창신메모리 급성장했지만 마이크론 경쟁력 훼손하기엔 역부족",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611011337179336e250e8e188_1",
-          "source": "글로벌이코노믹"
-        }
-      ]
-    },
-    {
-      "keyword": "아틀레틱 대 레알 소시에다드",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T20:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpU5jqVqdg6b5CFDB6Fs7fGadCYqiaP8UNBt12zqB-iwZf31q66LpBxY4uTwo",
+      "keyword": "kia 타이거즈",
+      "traffic": "200000+",
+      "trafficValue": 200000,
+      "startedAt": "2026-11-01T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfub8NVqPYaiNrxz_p1L812jpTK_dXg4hWAu8fS4FoGGVOIiiHoFEaRUfNxBY",
       "category": "스포츠",
       "news": [
         {
-          "title": "라리가 아틀레틱 빌바오 대 레알 소시에다드 축구 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-athletic-bilbao-vs-real-sociedad-tai-la-liga-1792865.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "아틀레틱 클럽 vs 레알 소시에다드 프리뷰: 우승 경쟁의 뜨거운 승부",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-athletic-club-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "유벤투스 대 나폴리",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T19:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGvWzSTnBh9sakxgb5VGfmLCkQWK-TvEMxfJPV8HMb_IkAoVqw5y2-2PyBNa0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "세리에 A 유벤투스 대 나폴리 경기 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-juventus-vs-napoli-tai-serie-a-1792878.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "유벤투스 대 나폴리 경기 예측, 11월 2일 오전 2시 45분: 많은 기대를 모으는 경기입니다.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-napoli-02h45-ngay-2-11-dai-chien-duyen-no",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "세리에 A 제노아 대 유벤투스 축구 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-genoa-vs-juventus-tai-serie-a-1790816.ldo",
-          "source": "Laodong.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "f1",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T19:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBghlXNdcDVrn5suYvP7z53wBorDKML5sg-2oGw5D1ofU7UNvOPs322GIspTc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "F1 LIVE: Mexico City Grand Prix 2026 UK time, start time, grid, radio & updates",
-          "url": "https://www.bbc.com/sport/formula1/live/clyr72l2mzvt",
-          "source": "BBC"
-        },
-        {
-          "title": "(5) Mexican Formula One Grand Prix: Kimi Antonelli aims to seal title – live",
-          "url": "https://www.theguardian.com/sport/live/2026/nov/01/mexican-formula-one-grand-prix-kimi-antonelli-aims-to-seal-title-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "What To Watch For in the Mexico City Grand Prix",
-          "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf",
-          "source": "Formula 1"
-        }
-      ]
-    },
-    {
-      "keyword": "유조선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T19:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiDbwLlFvcSqcDcv31LDGJF7k-K4JkqQPDl-UqSbWoSyoFAaKrj0_jjNfH3iU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "올해 선박 발주, 2007년 맞먹는 호황…2028년엔 신조선가 하락",
-          "url": "https://www.dt.co.kr/article/12092329?ref=naver",
-          "source": "www.dt.co.kr"
-        },
-        {
-          "title": "K조선 ‘고부가 텃밭’ 대형 LNG선 파고드는 중국",
-          "url": "https://www.chosun.com/economy/industry-company/2026/10/27/OMJ2FL5UT5GEHKFQBT3TFGTVZY/",
+          "title": "후라도 7이닝 1실점... 삼성, 벼랑 끝 5차전서 KIA 잡고 KS행",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/01/EQMA4NQGWRDFFHYX2C7WTL56CE/",
           "source": "조선일보"
         },
         {
-          "title": "\"메탄올 꺾고 LNG 메가막스로\"… 머스크, 초대형 컨테이너선 대량 발주 임박",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/2026103009292591120c8c1c064d_1",
-          "source": "글로벌이코노믹"
+          "title": "'KS행' 박진만 감독이 꼽은 '숨은 MVP' 뜻밖에! 이 선수였다, PO 전 경기 역투라니 '압권' [PO5 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/2026110112343551277",
+          "source": "머니투데이"
+        },
+        {
+          "title": "“고개 들어라, 정말 멋지고 자랑스럽다” 198승 대투수, PO 패배에도 후배들에게 전한 진심",
+          "url": "https://www.osen.co.kr/article/G1112902367",
+          "source": "OSEN"
         }
       ]
     },
     {
-      "keyword": "경상남도",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T18:50:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "킬리안 음바페",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-01T17:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwN2cnpa4Y16GhGddo1kALnTYmZHUj0ozeMDktgW39JonsqOZxVRK2nAZgKwU",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "[특파원 칼럼/김철중]음바페가 마주한 中 ‘소비자 민족주의’",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261101/134946791/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "[특파원 시선] 음바페에게 날아든 천문학적 규모의 '中청구서'",
-          "url": "https://www.yna.co.kr/view/AKR20261030161200083",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "\"독재자\" '낄낄' 한번에 1400억 날릴 판…음바페 사과에도 中중계 통째로 중단",
-          "url": "https://view.asiae.co.kr/article/2026103114260459751",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "프리미어리그 순위",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T18:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1nceOmQdlYsYMi7JN6ofb88AKaBIMOshe06dvJzCO2VQGapdXrbkHLLymE9Q",
+      "keyword": "화이트캡스 대 시애틀 사운더스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-01T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0cE1IBTa1oJs2bfOMMV-4mx5B0f1uKWVdx6b2XXU7hMHHBJlLgCfn3I3ZFeE",
       "category": "스포츠",
       "news": [
         {
-          "title": "유럽 ​​축구 경기 일정: 리버풀 vs. 아스널, 유벤투스 vs. 나폴리",
-          "url": "https://www.vietnam.vn/ko/lich-thi-dau-bong-da-chau-au-liverpool-dai-chien-arsenal-juventus-doi-dau-napoli",
-          "source": "Vietnam.vn"
+          "title": "Whitecaps vs. Sounders, livestream: Kickoff, lineups, updates",
+          "url": "https://www.sounderatheart.com/2026/11/whitecaps-vs-sounders-gamethread-3/",
+          "source": "Sounder at Heart"
         },
         {
-          "title": "맨시티 첫 패배·맨유 16위 추락…프리미어리그 순위는?",
-          "url": "https://m.etoday.co.kr/news/view/2639813?trc=main_list_news",
-          "source": "이투데이"
+          "title": "Idle Whitecaps clinch first place in Western Conference",
+          "url": "https://www.sportsnet.ca/mls/article/idle-whitecaps-clinch-first-place-in-western-conference/",
+          "source": "Sportsnet.ca"
         },
         {
-          "title": "2026/27 잉글랜드 프리미어 리그 10라운드 경기 일정",
-          "url": "https://www.vietnam.vn/ko/lich-thi-dau-vong-10-ngoai-hang-anh-2026-27",
-          "source": "Vietnam.vn"
+          "title": "PREVIEW: Over 30,000 expected for 'Caps final regular season home match against Seattle, presented by Chevrolet | Watch on Apple TV",
+          "url": "https://www.whitecapsfc.com/news/preview-caps-final-regular-season-home-match-seattle",
+          "source": "www.whitecapsfc.com"
+        }
+      ]
+    },
+    {
+      "keyword": "신인감독 김연경",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T21:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdVCR0oINMoi-4uAC1ClfnipH3sLAUgUW4K95gpEgLHEAaD80e7wzn2f7mWvM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "김연경, 인쿠시 포함 3명 방출 경고 \"몸 관리도 실력…팀에서 나가\" - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/02/2026110205075828775",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘신인감독 김연경2’ 표승주 팀과 맞대결서 고전…김연경 “할 말이 없다”",
+          "url": "https://www.sedaily.com/article/20108740",
+          "source": "서울경제"
+        },
+        {
+          "title": "'신인감독' 김연경 감독, 친정팀 '흥국생명' 맞춤형 훈련 공개",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523092",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T21:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvkJBztRvUJPXXEbSfUCqpnlIGB6OUUtbcbTEmqrxYooedY-nrWImyBAmFKGk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "황희찬, 손흥민 하이파이브 외면하고 '쌩'…또 불붙은 '불화설' - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/10/31/2026103119561622814",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"손흥민, 호날두처럼 분열 초래\" 국제망신 된 축구대표팀 내분설",
+          "url": "https://www.chosun.com/sports/football/2026/10/31/GJRGMMZZME3DGOBRGM2GCMZXGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘손흥민 불확실한 미래, 선수단 내분’···가디언 “한국 축구 계속 추락”",
+          "url": "https://weekly.khan.co.kr/article/202610311852001",
+          "source": "주간경향"
+        }
+      ]
+    },
+    {
+      "keyword": "klasemen racing santander vs real madrid",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T21:00:00.000Z",
+      "picture": "",
+      "category": "스포츠",
+      "news": []
+    },
+    {
+      "keyword": "nfl",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T21:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ5qDx56whPanfKmGRjhP7WWqB7CiD9OP3uxj1YIx3HXOWz9g6I7P8HsEzmPY",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "NFL Vikings suffer first loss while Allen sparks Bills win",
+          "url": "https://www.france24.com/en/live-news/20261101-nfl-vikings-suffer-first-loss-while-allen-sparks-bills-win",
+          "source": "France 24"
+        },
+        {
+          "title": "Tom Brady’s LFG Player of the Game: Lions’ Jahmyr Gibbs | Week 8",
+          "url": "https://www.foxsports.com/watch-vertical/fmc-l5ff673x2oe4v8ab",
+          "source": "FOX Sports"
+        },
+        {
+          "title": "Detroit Free Press. . Andrew Birkle and Shawn Windsor are LIVE on the Freep Sports Show discussing the #detroitlions vs. #minnesotavikings NFC North game in Week 8 at Ford Field. Did the Lions finally take hold of the division? Was Jared Goff able to pick",
+          "url": "https://www.facebook.com/detroitfreepress/videos/lions-vikings-week-8-live-reaction-show-from-huge-nfc-north-game/2704439936668556/",
+          "source": "Facebook"
+        }
+      ]
+    },
+    {
+      "keyword": "afc 아시안컵",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T20:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxR9XZ89OV2h_K8F4ezoo4kUXokhHNsD0DwrcaCJoHHaQ9hqmA6_KTLf1LM7U",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'한국 축구 초대형 변수' 손흥민 라스트댄스 어쩌나...'64년만의 우승 도전' 2027 아시안컵, 끝내 연기 가능성 높다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016931",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "사우디 아시안컵 1년 연기 가능성…손흥민 '라스트 댄스' 변수",
+          "url": "https://www.newspim.com/news/view/20261102000017",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "충격 '오피셜' 발표하나, '손흥민-이강인 김민재 어떡해' 韓 축구 대표팀 안전 위기 피할 수 있다...파격 전망 \"아시안컵 2028년 연기 준비\" 등장",
+          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100007550000396",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "적금",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T20:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbuO5SP7ZgW77s_N4TURIT9jMQ-oMIu2c-MCCcLKJYOKxv8EhEv1a4YUwcsk4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026103015253891391b5a221379_18",
+          "source": "금융신문"
+        },
+        {
+          "title": "12개월 정기예금 최고 연 4.1%…저축은행·지방은행이 상위권, 우대조건은 꼭 확인",
+          "url": "https://www.diarypoint.com/news/articleView.html?idxno=6469",
+          "source": "https://www.diarypoint.com/"
+        },
+        {
+          "title": "12개월 최고 연 6.00%…BNK저축은행 'BNK동행적금'[이주의 저축은행 적금금리-11월 1주]",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026110100111753707c96e79780_18",
+          "source": "금융신문"
+        }
+      ]
+    },
+    {
+      "keyword": "이영준",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T20:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCB_aXtWacgi5qqheeNsf2zNIPIvJffEu6V-65YgM-oz0w_lKb00W0JYC0UAE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "이영준, 시즌 6호골로 2-2 무승부 기여‥엄지성은 어시스트",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6862294_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "'모레노호 승선 불발' 이영준, 시즌 6호골로 2-2 무승부 기여",
+          "url": "https://www.yna.co.kr/view/AKR20261101012400007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "이영준 시즌 6호골 맹활약에도…그라스호퍼는 리그 5경기 무승",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849606",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "임영웅",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T20:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvCiJf6elfpJolLJ80RwlOL1Z89qOUKX8r_jAVKpWrbhlCsey7pmecqSXX-Kc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "임영웅, 하루에만 644만 회 재생…멜론 누적 148억 회 넘었다",
+          "url": "https://sports.donga.com/ent/article/all/20261030/134937232/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "148억 대기록 세운 임영웅, 영웅시대는 선행으로 온기를 더했다",
+          "url": "https://www.sportsseoul.com/news/read/1645380",
+          "source": "스포츠서울"
+        },
+        {
+          "title": "임영웅, 모교 후배들과 녹음실서 맞춘 하모니",
+          "url": "https://enter.etoday.co.kr/news/view/304379",
+          "source": "비즈엔터"
         }
       ]
     }
