@@ -1,54 +1,67 @@
 {
-  "updatedAt": "2026-11-01T13:42:36.252Z",
+  "updatedAt": "2026-11-01T14:30:42.777Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
+      "count": 7
     },
     {
-      "category": "경제",
+      "category": "스포츠",
       "count": 2
     },
     {
       "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "현대자동차그룹",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-01T11:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8BocedIPUCrbTacysUMwKKArZpbxdT-fEfvyHcG9iBvhOE6b1AomZjMYZFA",
-      "category": "경제",
+      "keyword": "중산층",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-01T13:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyggvc72WjDMM_7_TRYtRJGlD_Qel9j1PujMZCRbusydpeM9o8udLwmFD0TCM",
+      "category": "기타",
       "news": [
         {
-          "title": "’3분 만에 주차 척척’…현대차, 주차로봇 실증",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031092613zcM",
-          "source": "연합뉴스TV"
+          "title": "[그래픽] 소득분위별 근로·사업소득 감소 비율",
+          "url": "https://www.yna.co.kr/view/GYH20261101000500044",
+          "source": "연합뉴스"
         },
         {
-          "title": "\"주차 때마다 조마조마 했는데\"…월패드로 출차 누르면 3분 만에 차 빼주는 현대차로봇",
-          "url": "https://www.etnews.com/20261030000116",
-          "source": "전자신문"
+          "title": "“주변에 큰돈 벌었단 얘기 들리는데”…중산층 10명 중 4명 되레 소득 줄어",
+          "url": "https://stock.mk.co.kr/news/view/1186370",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "아파트 이중주차 없어지나…현대차그룹, 공동주택 주차로봇 시연회",
-          "url": "https://www.sedaily.com/article/20108154",
-          "source": "서울경제"
+          "title": "중간소득층 40% 벌이 줄었다…8명 중 1명은 소득 '반토막'",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849585",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "김건모",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-01T12:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdsAa0uW4ktc93U7dGyu1FrojMFmjh4WV_cbV8Xb2-vCMbBokYwG1EeFenDag",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'새출발' 김건모, 회춘 비주얼로 전한 근황",
+          "url": "https://www.segye.com/newsView/20261101506853",
+          "source": "세계일보"
+        },
+        {
+          "title": "58세 김건모, 누명 벗으니 얼굴까지 달라졌어..깜짝 놀랄 동안 비주얼[핫피플]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/01/MUZTENRTGMZTAZJTGM3WMMDEGI/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "\"지옥의 3년 버티더니 싹 바뀌었다\"… 누명 벗은 김건모, 확 젊어진 충격 근황",
+          "url": "https://www.fnnews.com/news/202611011756369860",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
@@ -72,83 +85,33 @@
         },
         {
           "title": "日 국적 포기 귀화 허미미, 먹고 충격받은 한식은? “일본엔 ‘이것’ 없어”(냉부)",
-          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110&code=100100",
+          "url": "https://www.newsen.com/news_view.php?uid=202611011953236110",
           "source": "뉴스엔"
         }
       ]
     },
     {
-      "keyword": "논쟁",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T11:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwc-YCvxKYP-fEDvt15z9mD4p7yqAL-K25y6FUYwfY7JlgSM5YY9l4eJxb5s",
-      "category": "정치·사회",
+      "keyword": "배용준",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-01T13:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRyojfC7fyv_E2aa-Fa0PCnANV19hfUApTE-yYRBUPlfeXr-KXgEdCZMl8KJQ",
+      "category": "스포츠",
       "news": [
         {
-          "title": "“李 코피 골프탓” “소주 챙기던 尹 잊었나”…‘해외순방’ 여야 충돌",
-          "url": "https://www.joongang.co.kr/article/25474759",
-          "source": "중앙일보"
+          "title": "[포토] 배용준, 사랑하는 부모님과 함께",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03037286645641456&mediaCodeNo=257",
+          "source": "이데일리"
         },
         {
-          "title": "“돼지 눈엔 돼지만”…이 대통령 SNS, 소통 창구서 ‘설전 도구’로",
-          "url": "https://www.khan.co.kr/article/202611012132015",
-          "source": "경향신문"
-        },
-        {
-          "title": "이재명 대통령 시정연설 D-1, 외교성과 감싼 정부…\"돼지눈엔 돼지만\" 정상 외교 공방 계속",
-          "url": "https://news.jtbc.co.kr/article/NB12325893",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "퇴직",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T11:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNzOlswgojeMS1GQ6bG8jvU0JRkQG9d0mgT-iwZpNiBV7ORec6SH_dWGDeO8Q",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "KT 퇴직자가 어르신 AI 선생님으로…시니어 1인가구 교육",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849611",
+          "title": "배용준, KPGA 렉서스 마스터즈서 2차 연장 끝 정상…통산 3승 달성",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849931",
           "source": "뉴시스"
         },
         {
-          "title": "KT, 은퇴 임직원이 어르신에 생성형 AI 교육",
-          "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/02/20261102030004",
-          "source": "서울신문"
-        },
-        {
-          "title": "KT, 퇴직 임직원 AI 강사로 육성⋯시니어 교육 확대",
-          "url": "https://www.viva100.com/article/20261101500135",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "고양시",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-01T10:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk-icHT9hPvyD7fmPBQQBsCGV8uFyHXgiy2yYhJoHaMPzPB7N5SOgTQH-0CzM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "고양시, 주말 곳곳 축제 물결.. ‘주민자치부터 도시농업까지’ 풍성[포토]",
-          "url": "https://sports.donga.com/region/article/all/20261101/134943296/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "고양시 흥도동, 아나바다 장터·돗자리 영화제·주민총회 개최",
-          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1066754",
-          "source": "내외뉴스통신"
-        },
-        {
-          "title": "민경선 고양시장, 흥도동·삼송2동 주민축제 참석...주민자치 활성화 강조",
-          "url": "https://www.ajunews.com/view/20261101140917680",
-          "source": "아주경제"
+          "title": "배용준, 2차 연장 우승…스트로크 플레이 대회 첫 정상",
+          "url": "https://view.asiae.co.kr/article/2026110118223142932",
+          "source": "아시아경제"
         }
       ]
     },
@@ -171,9 +134,9 @@
           "source": "아시아타임즈"
         },
         {
-          "title": "TPG, 롯데렌탈 인수 1조3105억원에 마무리",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=05795766645618168",
-          "source": "마켓인"
+          "title": "롯데 \"롯데렌탈 매각 거래 종결…매각대금 1조3천억원 확보\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030128200030",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -182,23 +145,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-01T12:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH6O6q7xXSoLIMkDQj9F6N-wXEcLZSTTb7I4GAVRAufAewptNOTdjKFXxK04",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2kC-uSkCOoq8pTxg5IzKtNVyU9UC5NsFdKILqiV5CYJMfA9xoNxJyh5T8pig",
       "category": "스포츠",
       "news": [
-        {
-          "title": "Con Nico Paz titular, el Como vence al Venezia con polémica :: Olé - ole.com.ar",
-          "url": "https://www.ole.com.ar/futbol-internacional/italia/nico-paz-titular-recibe-venezia-serie_0_tSvkAwHGFT.html",
-          "source": "Olé"
-        },
-        {
-          "title": "Como – Venecia el partido de fútbol de la jornada 10 de la Serie A, en directo",
-          "url": "https://www.lavanguardia.com/deportes/futbol/20261101/2453/como-venecia-serie-a-ca-en-directo-ctx.html",
-          "source": "La Vanguardia"
-        },
         {
           "title": "Venezia se concentra para salir del último lugar ante Como 1907",
           "url": "https://anecdotarios.com/2026/11/01/venezia-se-concentra-para-salir-del-ultimo-lugar-ante-como-1907/",
           "source": "Anecdotarios"
+        },
+        {
+          "title": "'Repóker' del Como sin pasearse en góndola",
+          "url": "https://www.marca.com/futbol/liga-italiana/cronica/2026/11/01/repoker-pasearse-gondola.html",
+          "source": "MARCA"
+        },
+        {
+          "title": "Dónde ver el Como-Venezia: streaming, canales de televisión, fecha, hora y alineaciones",
+          "url": "https://www.goal.com/es-ar/noticias/donde-ver-el-como-venezia-streaming-canales-de-television-fecha-hora-y-alineaciones/blt67a1800595fae407",
+          "source": "Goal.com"
         }
       ]
     },
@@ -228,6 +191,40 @@
       ]
     },
     {
+      "keyword": "살림하는 남자들",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T12:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "이봉주",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-01T12:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqnd83OSIDIAW3FcKBB_EtyBO4XO6BAYFeIBLOpROOJ7UddFvrfXQ9xZ-y7A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "이봉주, 근육 뒤틀리는 희귀병 투병→다시 달리며 희망 전해 (시대목격)",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134943355/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'근육 긴장 이상증' 이봉주 \"숨어 있었으면, 회복 못했을 것\"",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849567",
+          "source": "뉴시스"
+        },
+        {
+          "title": "이봉주, 근육 긴장 이상증 투병..\"숨어 있었으면 회복 못 했을 것\"('시대목격')",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/01/MVSWENBVMRRGMZJZHEYTAMJUHA/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
       "keyword": "다니엘",
       "traffic": "100+",
       "trafficValue": 100,
@@ -249,31 +246,6 @@
           "title": "\"예전과 같을 순 없겠죠\"…뉴진스 팬덤 생일에 자작곡",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822218",
           "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "송강",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-01T11:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2sjHLT5kgTmWLq8S5YiVncZ3VKJ_bIufNreyRfRHIq5K39twuQTi5K5txPvQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“성수 핫플이 집 앞에”…송강이 67억 주고 산 고급 아파트[누구집]",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645641456&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "'포핸즈' 장규리 '단 몇컷 위해 비올라 2달간 맹훈련… 송강 눈빛 연기에 도움 받아'[인터뷰]",
-          "url": "https://www.hankooki.com/news/articleView.html?idxno=347363",
-          "source": "한국아이닷컴"
-        },
-        {
-          "title": "이준영, '포핸즈' 끝나도 응원 계속…기사후원 1위 (배우 브랜드 리포트)",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265166",
-          "source": "톱스타뉴스"
         }
       ]
     }
