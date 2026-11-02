@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-11-02T16:56:24.039Z",
+  "updatedAt": "2026-11-02T17:51:12.334Z",
   "summary": [
     {
       "category": "스포츠",
       "count": 4
     },
     {
-      "category": "기타",
+      "category": "경제",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 2
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "기타",
+      "count": 1
     },
     {
       "category": "IT·과학",
@@ -24,9 +28,34 @@
   ],
   "items": [
     {
+      "keyword": "아이 파크 몰 용산 점",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T16:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1a2Z8ofABVYBCpt4DTPu52PoUtr6eA7Y_zQ5ZlSGckD2L_H4jDIne_et1BCE",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "침낭까지 챙겨와 '오픈런'…전국서 덕후 몰리더니 '대반전'",
+          "url": "https://www.hankyung.com/article/2026110209961",
+          "source": "한국경제"
+        },
+        {
+          "title": "아이파크몰 55개월 연속 매출 증가…올해 8500억 전망 : 기업·산업",
+          "url": "https://news.jkn.co.kr/post/1066171",
+          "source": "재경일보"
+        },
+        {
+          "title": "아이파크몰, 쇼핑 공간서 문화·스포츠 프로그램 마련",
+          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210442",
+          "source": "라이센스뉴스"
+        }
+      ]
+    },
+    {
       "keyword": "김지영",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-02T15:50:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRW8t7ExA8uRnKO_krtK9FTFfiao2BaHL0PIdWylOk1zCiHIPN5fARsjW7X-tE",
       "category": "기타",
@@ -87,14 +116,39 @@
           "source": "KBS 뉴스"
         },
         {
-          "title": "[김국현의 과학기술 유행어 도감] [22] 아이폰 ‘힌지니어’의 굴욕",
-          "url": "https://www.chosun.com/opinion/specialist_column/2026/11/02/E2NIJ7YCFBF3NIDTUYWV2JSPHM/",
-          "source": "조선일보"
-        },
-        {
           "title": "'애플 폴더블폰' 아이폰 듀오, 14만 번 접었더니",
           "url": "https://zdnet.co.kr/view/?no=20261102095925",
           "source": "지디넷코리아"
+        },
+        {
+          "title": "아이폰 듀오·갤럭시 Z 폴드8 써보니…두뇌는 애플, 완성도는 삼성 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/11/02/2026110119440848173",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "한국 버추얼 휴먼 산업 협회",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T14:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_25tzy21QuhgCGXiHsvh-xClIH9Wsg8UxboqzXF4Hemh6DyJBFfGMR_P3_vE",
+      "category": "연예",
+      "news": [
+        {
+          "title": "국내 첫 버추얼 전문 시상식 열린다…‘버추얼 아이콘 어워즈’ 내년 2월 개최",
+          "url": "https://sports.khan.co.kr/article/202611021038013",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "가상 아이돌 등 시상…'버추얼 아이콘 어워즈' 내년 2월 첫 개최",
+          "url": "https://stock.mk.co.kr/news/view/1186987",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "'제1회 버추얼 아이콘 어워즈', 내년 2월 킨텍스 개최",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850398",
+          "source": "뉴시스"
         }
       ]
     },
@@ -167,8 +221,8 @@
           "source": "Vietnam.vn"
         },
         {
-          "title": "파크타코르 vs 알 나스르 예측: 상위권 경쟁의 뜨거운 승부",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-pakhtakor-vs-al-nassr-diem-nong-cuoc-dua-top-dau",
+          "title": "호날두를 대신해 주앙 펠릭스가 빛나는 활약을 펼치며 알 나스르는 아시아 챔피언스 리그에서 '테니스 경기'를 펼쳤다.",
+          "url": "https://www.vietnam.vn/ko/joao-felix-ruc-sang-thay-ronaldo-al-nassr-choi-tennis-o-cup-c1-chau-a",
           "source": "Vietnam.vn"
         }
       ]
@@ -199,31 +253,6 @@
       ]
     },
     {
-      "keyword": "한국 버추얼 휴먼 산업 협회",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T14:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_25tzy21QuhgCGXiHsvh-xClIH9Wsg8UxboqzXF4Hemh6DyJBFfGMR_P3_vE",
-      "category": "연예",
-      "news": [
-        {
-          "title": "국내 첫 버추얼 전문 시상식 열린다…‘버추얼 아이콘 어워즈’ 내년 2월 개최",
-          "url": "https://sports.khan.co.kr/article/202611021038013",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "가상 아이돌 등 시상…'버추얼 아이콘 어워즈' 내년 2월 첫 개최",
-          "url": "https://stock.mk.co.kr/news/view/1186987",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "'제1회 버추얼 아이콘 어워즈', 내년 2월 킨텍스 개최",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850398",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
       "keyword": "오라클",
       "traffic": "100+",
       "trafficValue": 100,
@@ -237,39 +266,14 @@
           "source": "연합인포맥스"
         },
         {
+          "title": "[미국 특징주] 오라클, AI 투자 위해 200억달러 조달…부채 부담 우려에 주가 4% 하락",
+          "url": "https://www.newspim.com/news/view/20261102001642",
+          "source": "뉴스핌"
+        },
+        {
           "title": "Stephens, 클라우드 인프라 전망에 Oracle 투자의견 상향",
           "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2153601",
           "source": "Investing.com 한국어"
-        },
-        {
-          "title": "오라클, 파트너 생태계에 4년간 10억달러 투자",
-          "url": "https://www.metroseoul.co.kr/article/20261102500461",
-          "source": "메트로신문"
-        }
-      ]
-    },
-    {
-      "keyword": "대한민국",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbdXhK59K0oy-UCDf5kdB0wQjLy5k5YGJofSCl11MzczE9ibXqU6UAiGpvBpM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "자유 대한민국의 초석 이승만… 교과서에선 ‘反통일세력’처럼 묘사",
-          "url": "https://www.chosun.com/culture-life/relion-academia/2026/11/03/LBASDTZHXJBLVBSQ5FL5WXZS54/",
-          "source": "조선일보"
-        },
-        {
-          "title": "우남네트워크, '한국사 교과서와 이승만’ 학술대회 4일 개최",
-          "url": "https://www.paxetv.com/news/articleView.html?idxno=285783",
-          "source": "팍스경제TV"
-        },
-        {
-          "title": "내달 4일 한국사 교과서·이승만 관련 학술대회 개최",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/26/2026102600324.html",
-          "source": "뉴데일리"
         }
       ]
     }
