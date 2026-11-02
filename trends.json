@@ -1,279 +1,275 @@
 {
-  "updatedAt": "2026-11-02T05:54:38.126Z",
+  "updatedAt": "2026-11-02T07:09:58.425Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "생활·날씨",
-      "count": 1
+      "category": "IT·과학",
+      "count": 2
     },
     {
       "category": "경제",
       "count": 1
     },
     {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "정년 연장",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-02T04:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO3RKSVMxoGRLoFlEJOf8Ax-n1bVESMXSBE_Mhbc6WjbPIIh-HR8g0uDCNeKA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'박애'를 흔드는 프랑스 연금 갈등[투데이窓/박경덕] - 머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/11/02/2026110110081316176",
-          "source": "머니투데이"
-        },
-        {
-          "title": "“임금 삭감·촉탁직 재고용 말고, 65세 온전한 정년연장 입법하라”",
-          "url": "https://www.ilabor.org/news/articleView.html?idxno=12450",
-          "source": "https://www.ilabor.org/"
-        },
-        {
-          "title": "정년연장, 나이만 올리면 끝?…임금·연금·퇴직 등 통합 설계해야\"[만났습니다②]",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01666246645618168&mediaCodeNo=257",
-          "source": "이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "신의 구슬",
+      "keyword": "선박",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-02T04:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUf0aJ9tNRKirzC6UkTDrr9XAA6F8WYo5yr2zM4ynftIvIF-UE6YG7DMRvrI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "안보현·이성민, 세대 뛰어넘는 특별한 전우호흡 예고…든든한 투샷(‘신의 구슬’)",
-          "url": "https://www.osen.co.kr/article/G1112902607",
-          "source": "OSEN"
-        },
-        {
-          "title": "‘신의 구슬’ 안보현·이성민, 관음보주 호송 작전서 맞선다… 첫 투샷 공개",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445062",
-          "source": "천지일보"
-        },
-        {
-          "title": "'신의 구슬' 안보현·이성민, 관음보주 호송대 이끈다…세대 초월 전우 호흡",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523182",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "당구",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-02T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYB3bAbqTAOLAw1wQdLXlBRblxFWGaj3V4z5Z19l_g_Wb_yNRArCzYUtTYCOc",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "경복당구회, ‘창립 20주년 기념 당구축제’ 성황리 마무리",
-          "url": "https://sports.donga.com/sports/article/all/20261102/134950261/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "경복당구회 20주년 축제…동문 170명 참가 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1065270",
-          "source": "재경일보"
-        },
-        {
-          "title": "'2026 진주시당구연맹회장배 3쿠션 당구대회' 열려",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739380",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "보안",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T04:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkakhfyQg7msARQy59dhXjMfKohSMFLvJXUuUO2FeKNcCZEm1M-V1QXJf5wI",
+      "startedAt": "2026-11-02T05:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3wYYjTi3Ev8jTdnU0hMUqCGBjk-x8IhWG15RsUJcS8HgrIv5iYArqj-1UiB8",
       "category": "경제",
       "news": [
         {
-          "title": "주택금융공사, '2026 부산 사이버보안 콘퍼런스' 공동 개최",
-          "url": "https://www.etnews.com/20261102000202",
-          "source": "전자신문"
+          "title": "트럼프, 알래스카 또 거론…\"한중일行 선박 위한 가스관 있다\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261102023651071",
+          "source": "연합뉴스"
         },
         {
-          "title": "주택금융공사, 부산 사이버보안 콘퍼런스 공동 개최",
-          "url": "https://view.asiae.co.kr/article/2026110212002620308",
-          "source": "아시아경제"
+          "title": "중간선거 유세서 알래스카 LNG 꺼낸 트럼프… “한·중·일로 운송”",
+          "url": "https://biz.chosun.com/international/international_general/2026/11/02/IUEWJL5B3BDO3EQHQBU5F2KZ3U/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "라쿠텐 마리타임, “IACS 규제 넘어 실전 복원력으로”... ‘MATS 2026’ ‘마리타임 AI & 테크 서밋 2026’ 개최",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=146899",
+          "title": "트럼프 \"죽었던 알래스카 되살렸다\"…韓·日·中에 가스 수출 추진",
+          "url": "https://www.newsis.com/view/NISX20261102_0003851029",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "김도영",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T06:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMxe-mhUlK9HeAuVZMAuhttNO--11wSCVdVLmuO18-FIg5WuCvqi24m6mMkBA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "2년 반짝한 선수가 200억 받고 갔다...'충격 계약' 307억 사나이, 미국 못 갈 이유 없다",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/02/GA3DQNDFG43TMOJUHAYTKNRZGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "MLB닷컴 \"노시환, 빅리그서 통할 장타력\"…수비는 보완 과제",
+          "url": "https://www.yna.co.kr/view/AKR20261102071500007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "“김도영 메츠-양키스-다저스-보스턴-에인절스 딱이야” 韓슈퍼스타 관심 폭발! 벌써 ML이 주목한다 “미국 와도 20~25홈런 칠 것” - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/02/202611020903772157O",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "협박",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T05:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReVCcL2PhK92Zttz7-JvfnrCLn3wywd0OWsppk_tkVRmFvr-ezTGySvmOGDqg",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "“신세경에 염산 테러” 두달간 450회 협박·모욕글…징역 8개월에 법정구속",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134950358/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "신세경 악플러, 실형 선고받고 ‘법정 구속’",
+          "url": "https://www.munhwa.com/article/11628114",
+          "source": "문화일보"
+        },
+        {
+          "title": "신세경 상습 협박·모욕, 항소심도 징역 8개월 실형… 법정구속",
+          "url": "https://ichannela.com/news/detail/000000557939.do",
+          "source": "채널A"
+        }
+      ]
+    },
+    {
+      "keyword": "한진칼",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T05:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6znhRIuFrHCyrKjEBHES7zLVvBSCaHrXEnRWCdsWIP5EUIP5KRfw6ojC3GFk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "호반, 한진칼 최대주주? 경영권 분쟁 시계제로",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/02/SN3N3CKNG5AJPF2X5RB3YJSTOA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "호반그룹 “한진칼 최대 주주로 파악”…지분 확대에도 “경영권 인수 논의 없다”",
+          "url": "https://m.ekn.kr/view.php?key=20261102022204224",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "한진칼 최대주주 올라선 호반그룹…조원태 경영권은 또 안갯속",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280113.html",
+          "source": "인베스트조선"
+        }
+      ]
+    },
+    {
+      "keyword": "방은희",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T05:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9ACzlqKxHRZYcrSGLIcjhsL7TT4i10N5UZI4P_KiPoDiXh5qTnxmAFNNPV5Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"1년간 엄마 피했는데…\" 방은희, 모친 고독사 이틀 만에 발견 '오열' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110207363741441",
+          "source": "머니투데이"
+        },
+        {
+          "title": "“母 고독사, 특수 업체 유품 정리” 고백 방은희, 가슴치고 오열하며 후회 “미안해”(운명네컷)",
+          "url": "https://www.newsen.com/news_view.php?uid=202611020822076710&code=100100",
+          "source": "뉴스엔"
+        },
+        {
+          "title": "방은희, 母 고독사 이틀만에 발견→특수청소업체 연락..\"옆에 못 있어 미안\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100008590000463",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "배추",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfaDuxQBcYc62nWsv1wfT7ej0bGDcIE2tH_D71TYM91X1qnBIV7ZYIJm7clc8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김장철 앞두고 배추 등 원산지 속이면 7년 이하 징역",
+          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.99099000396&kid=",
+          "source": "국제신문"
+        },
+        {
+          "title": "농관원, 김장철 배추김치 원산지 표시 집중 단속",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102143154Knf",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "농관원, 김장철 배추김치·양념류 원산지 표시 집중 단속",
+          "url": "https://www.yna.co.kr/view/AKR20261102058800030",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "암표",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T05:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvLFZKADKCPZossVCNgKdhTnbUGL9rKcRFU_d4FVKZNNANwr7p0SSWcMfjukg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "프로야구 한국시리즈 입장권 '110배' 부풀려 판매‥매크로 암표상 검거",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862448_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "한국시리즈 매진은 순식간, 암표는 200만 원 [현민석의 페어플레이]",
+          "url": "https://www.hankyung.com/article/202611029590i",
+          "source": "한국경제"
+        },
+        {
+          "title": "아이돌·프로야구 티켓 최대 110배에 되팔아 22억 챙긴 일당",
+          "url": "https://www.yna.co.kr/view/AKR20261102059500065",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "랜섬웨어",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T05:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShvnP3uX4yRgeilkz67I8rBFy9_VxCRcFViXA6sAL4rvFJTgJZYsnjofXVsR0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "1년 30곳 뚫은 독학 해커… AI 쓰니 40일 만에 60곳 해킹",
+          "url": "https://www.donga.com/news/Society/article/all/20261101/134946639/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "해킹 리스크 키운 오픈AI·앤트로픽 역설…보안 시장서 기회 모색",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442525",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "[이슈칼럼] AI가 정찰을 끝낼 때, 방어자는 아직 자산을 세고 있다",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146928",
           "source": "보안뉴스"
         }
       ]
     },
     {
-      "keyword": "수원삼성",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T04:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezVs15RowhtBHXoW2zoDJAJICJLaihxxtpa_BBpqYazYktkATMzbyYNNkRXo",
-      "category": "스포츠",
+      "keyword": "황사",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T06:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmcdD8TOjRfu2pI0LYbo4OOuqw9NcaXwbcwgCO4lbbgutCHYYaFjGF5UZCsc",
+      "category": "기타",
       "news": [
         {
-          "title": "수원 삼성 3년 만의 승격 보인다!…매직넘버 ‘1’",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700604",
-          "source": "KBS 뉴스"
+          "title": "서울에 6년 만의 '11월 황사'‥내일 밤 추가 유입",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862510_36918.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로",
-          "url": "https://www.ytn.co.kr/_ln/0107_202610312323090902",
+          "title": "찬 바람 불며 기온 ’뚝’…서울 등 서쪽지방 황사",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102150617wpD",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "올해는 좀 잠잠하나 했는데...서해안·제주에 '올 가을 첫 황사' [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611021136094260",
           "source": "YTN"
-        },
-        {
-          "title": "수원 삼성, 승격잔치 다음에...수원FC는 자동 승격 유리한 고지 점령",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741103",
-          "source": "중부일보"
         }
       ]
     },
     {
-      "keyword": "농업",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T04:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKlNz5MjwFscx3AWBHNRGfEOnLB6P-dfo_9PZ-d5jvPagtDk9b2b32MABbP6E",
+      "keyword": "기술",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T05:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQb2svRRcaOi6MkXNYimpXfDiF4f8p8EwgSs7EeB_XnT_qAvR1fFmsLn_GRc",
       "category": "IT·과학",
       "news": [
         {
-          "title": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/02/2026110213391627658",
-          "source": "머니투데이"
+          "title": "최대호 안양시장, ITU-UN-Habitat 공식 초청으로 출국",
+          "url": "https://www.viva100.com/article/20261102501097",
+          "source": "브릿지경제"
         },
         {
-          "title": "[게시판] 농식품부, 4∼7일 대구서 '2026 국제농기계자재박람회'",
-          "url": "https://stock.mk.co.kr/news/view/1186686",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "딸기 휴머노이드·자율주행 한자리에…'농기계자재박람회' 열려",
-          "url": "https://www.newspim.com/news/view/20261102000270",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "기인",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T04:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfnF7zj5CbceeoLCj7qDCXpOz8ZITnEtT2qeyCt0us0fwO4eJVf6F62ClJss",
-      "category": "기타",
-      "news": [
-        {
-          "title": "춘길X장혜리, 연습실 문까지 잠갔다…핑크빛 폭발 커플 요가 (천만기인쇼)",
-          "url": "https://sports.donga.com/ent/article/all/20261102/134947673/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "‘천만기인쇼’ 표창원 파격 변신에 춘길·장혜리 묘한 기류… 195점 기록 깨질까",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445033",
-          "source": "천지일보"
-        },
-        {
-          "title": "춘길, 장혜리와 묘한 핑크빛 기류? 수위부터 남다른 '커플 요가' 포착 (천만기인쇼)",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/02/MMZTIMZYME3WINDDGFRTKZBXMQ/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "철원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T04:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpZXoeL6zMXk2L9xcOoYQ8nmlhugaqX3GAS1b5Xk_xZ9d4dZZGM-CH68EtOc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[속보]육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”···사고 경위 조사 중",
-          "url": "https://www.khan.co.kr/article/202611021114001",
-          "source": "경향신문"
-        },
-        {
-          "title": "육군 \"강원 철원 전방부대서 하사 1명 외상 입고 숨져\"",
-          "url": "https://news.jtbc.co.kr/article/NB12325985",
-          "source": "JTBC"
-        },
-        {
-          "title": "[속보]철원 육군부대서 부사관 외상 입은 채 사망",
-          "url": "https://www.nocutnews.co.kr/news/6600525",
-          "source": "노컷뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "조경태",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T04:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIFYVhHk_IEfxXOmD4ldTqjOiIPopxtedJ1PMHCvUNKodp9pkvbDIBoXlP62k",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[속보]이 대통령 “30년 만에 IMF 졸업···K자 성장 극복은 새 성장 공식으로”",
-          "url": "https://www.khan.co.kr/article/202611021017001",
-          "source": "경향신문"
-        },
-        {
-          "title": "국민의힘 \"李대통령 시정연설, 미래세대 판돈 삼은 재정 도박\" - 머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/11/02/2026110214254245130",
-          "source": "머니투데이"
-        },
-        {
-          "title": "텅 빈 국힘 의원석에 남은 한 사람…대통령이 먼저 다가갔다 [현장영상]",
-          "url": "https://news.jtbc.co.kr/article/NB12325953",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "손태영",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf5MX1uJ00-hBdBkKo1aIPhD9Kgx0M4EIsPTkaukFGd8RZu4QIGAJmztfRqJ4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "손태영, 미국서 아들 시집살이…\"스트레스 확 올라와\"",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850414",
+          "title": "안양시, 스마트시티 엑스포 월드콩그레스서 AI도시 소개",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850954",
           "source": "뉴시스"
         },
         {
-          "title": "손태영 “시어머니도 아니고 아들 시집살이”…룩희 때문에 스트레스",
-          "url": "https://sports.donga.com/ent/article/all/20261101/134946031/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "\"이모님 쓴적 없다\"... 손태영, 17살 아들 시집살이 고백 \"시母도 아닌데 스트레스\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZRTIMJQMM4TSNZRHFRWEM3FG4/",
-          "source": "조선일보"
+          "title": "세계 무대에 뜬 '안양 시티버스'…최대호 안양시장, AI 도시 비전 발표 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/02/2026110215230047664",
+          "source": "머니투데이"
         }
       ]
     }
