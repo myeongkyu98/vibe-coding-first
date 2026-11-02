@@ -1,82 +1,107 @@
 {
-  "updatedAt": "2026-11-02T02:45:16.953Z",
+  "updatedAt": "2026-11-02T03:49:03.665Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 4
-    },
-    {
       "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
-      "count": 2
+      "count": 5
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "골든 스테이트 대 la 클리퍼스",
+      "keyword": "라이언 와이스",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-02T01:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxXooB9M-xcOZzgT7bPkUMPZMJpGRml9eb_ZS6eXjsSvZVaj_uoGgk_ucWaW8",
-      "category": "기타",
+      "startedAt": "2026-11-02T02:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZmCQdJj9bE1BdaiOvyLhXxlYKoRDgHle4w-33cf-uzZEtVTOiGxtcMHjw3cQ",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Final Injury Report for Clippers-Warriors: Will Stephen Curry, Draymond Green Play?",
-          "url": "https://sports.yahoo.com/articles/final-injury-report-clippers-warriors-213000163.html",
-          "source": "Yahoo Sports"
+          "title": "'한화 어쩌나' 美도 와이스 관심 보인다…\"빠듯한 자금력 구단, 지체없이 움직여야 한다\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/10/31/GM2WEZJXMVTGEN3CME2TEY3DGU/",
+          "source": "조선일보"
         },
         {
-          "title": "With Steph Curry out, Yaxel Lendeborg could be key for Warriors",
-          "url": "https://www.thesportsleader.com/2026/10/31/with-steph-curry-out-yaxel-lendeborg-could-be-key-for-warriors/",
-          "source": "KNBR"
+          "title": "한화 복귀 원했던 팬들 '날벼락'… 라이언 와이스 '재취업' 길 열렸다",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739421",
+          "source": "국제뉴스"
         },
         {
-          "title": "Steph Curry, Draymond Green ruled out for front end of Warriors' back-to-back",
-          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-draymond-green-out-clippers/1975946/",
-          "source": "NBC Sports Bay Area & California"
+          "title": "'한화 출신' 와이스, MLB 휴스턴 떠나 FA 신분…KBO리그 복귀하나",
+          "url": "https://www.newsis.com/view/NISX20261030_0003848374",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "한남더힐 아파트",
+      "keyword": "휴고 칼데라 노",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-02T00:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU-nqmQTr-l2Qfkxy2Pl2WyEzUoBaaY5S4WjQvOu8wEMuePL05rzy5pcccjgQ",
-      "category": "경제",
+      "startedAt": "2026-11-02T02:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrWQlNAqfhtx5CNdohGJl3RmQUQb808Gjzl4Pa94qB5b_HyQ8zWymbGhjf2KY",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "\"옥주현 190억 한남더힐, ○○ 때문에 경매행\" 변호사 분석 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/estate/2026/11/02/2026110207514776285",
+          "title": "남자탁구 에이스 장우진, 한국 탁구 사상 첫 WTT 챔피언스 우승",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6862453_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "\"1-3→4-3 대역전승\" '투혼의 탁구짱!' 장우진이 돌아왔다! 생애 첫 WTT챔피언스 단식 우승[WTT 챔피언스 몽펠리에]",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MYZGCMRSHA3WEYZXMIYGINJZMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"운이 좋아서 이겼습니다\" 세계 7위 칼데라노 제압한 장우진의 겸손...7게임 대혈투 끝 승리에도 상대부터 치켜세웠다",
+          "url": "https://www.osen.co.kr/article/G1112902450",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "티아라",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T02:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZsH0a2h2Hth8hm6SIvAOpztNYGl5a5XYXlsmWF7b_Z_Dq96DlDHnM8zzevj8",
+      "category": "연예",
+      "news": [
+        {
+          "title": "티아라 출신 소연, 결혼 4년 만에 임신…9세 연상 조유민과 첫아이",
+          "url": "https://www.donga.com/news/Culture/article/all/20261101/134947107/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "티아라 소연, '아들맘' 된다…조유민과 결혼 4년만 임신 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110206060221518",
           "source": "머니투데이"
         },
         {
-          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투자사가 상환 예정\"",
-          "url": "https://www.hankyung.com/article/202610294537H",
-          "source": "한국경제"
-        },
-        {
-          "title": "옥주현, '190억'에 산 한남동 고급주택 '경매' 넘어간 이유..\"M&A 절차\" [공식]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/30/GMYGEZJQHFTDMYJSGNSWMZBUMI/",
+          "title": "결혼식 불참했는데도…함은정, 소연 임신 소식에 \"언니 너무 축하해\"",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/02/GVRDEZTGHBSDQMJQGE2WMMJVGQ/",
           "source": "조선일보"
         }
       ]
     },
     {
       "keyword": "계주",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-02T01:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDjLOTMHbDNLYdGNar3pFsVGYLua2rdvQmkSA8vHbER3HP2RMS5Yh4N3mAIvc",
       "category": "경제",
@@ -99,179 +124,138 @@
       ]
     },
     {
-      "keyword": "정의선",
+      "keyword": "인공위성",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-02T01:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo8JpllIlfZi2yWH_iKKbkWqvbyjvQg5iegS05e3KifcfALYzPXU_7BRsH_Ts",
+      "startedAt": "2026-11-02T02:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBnFo9wQWE9manEwmscsPmlZzCNMfjD4WshVvta9R7qLEjPf2IiLk7QWPxtCg",
       "category": "IT·과학",
       "news": [
         {
-          "title": "174만대 테슬라 잡는다…현대차·GM, '2028년 자율주행 대전'",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092173081",
-          "source": "IT조선"
+          "title": "장갑차 이동부터 원유 재고까지 분석하는 ‘우주의 눈’… 돈 되는 ‘위성 인텔리전스’",
+          "url": "https://www.chosun.com/economy/science/2026/11/02/EQ3XBKG27BBOPBMEJWBGTW3LO4/",
+          "source": "조선일보"
         },
         {
-          "title": "자율운영공장의 미래를 그리다, 이포레스트 테크데이 2026 | 저널 | 현대자동차그룹",
-          "url": "https://www.hyundaimotorgroup.com/ko/story/eforest-tech-day-2026",
-          "source": "Hyundai Motor Group"
+          "title": "AI가 위성영상 실시간 분석… SAR 위성 한계 보완",
+          "url": "https://www.donga.com/news/Economy/article/all/20261029/134928094/2",
+          "source": "동아일보"
         },
         {
-          "title": "실리콘밸리 인재 직접 찾아나선 현대차그룹 \"피지컬 AI 기업으로\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01790886645618168",
-          "source": "마켓인"
+          "title": "우주로 올라간 중국 레이저 총구…별들의 전쟁터서 미군 위성 흔든다",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611011658515258fbbec65dfb_1",
+          "source": "글로벌이코노믹"
         }
       ]
     },
     {
-      "keyword": "t 멤버십",
+      "keyword": "국가교육위원회",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-02T00:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp0gGhdawHbrnFLb61zVbK_-RxMYxpEGy9B4RatUqv6Qq5T7dr11N-U859f3Y",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "늦가을의 특별한 즐거움, 11월 T 멤버십 혜택 총정리",
-          "url": "https://news.sktelecom.com/232556",
-          "source": "SK텔레콤 뉴스룸"
-        },
-        {
-          "title": "파파존스, KT 멤버십 고객에 방문 포장 50% 할인 혜택",
-          "url": "https://www.etnews.com/20261102000129",
-          "source": "전자신문"
-        },
-        {
-          "title": "수능 끝나면 KT가 커피 쏜다…11월 멤버십 혜택 공개",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849621",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "한국장학재단",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T00:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7eWLQJxqnymu6wSMJgsFxYVD1dKH9O_HYASfIQEAELORW6B-UeGpS5_YEsmQ",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "한국장학재단, 자발적 중복지원 해소가 어려운 중복지원 환수대상자 조치율 100% 달성",
-          "url": "https://www.domin.co.kr/news/articleView.html?idxno=1573888&sc_section_code=S1N10",
-          "source": "전북도민일보"
-        },
-        {
-          "title": "‘취업 후 학자금대출’ 의무상환액 납부, 11월부터 휴일도 가능",
-          "url": "https://news.unn.net/news/articleView.html?idxno=599675",
-          "source": "한국대학신문"
-        },
-        {
-          "title": "학자금대출 원천공제액, 11월부터 휴일에도 납부 가능",
-          "url": "https://www.kbsm.net/news/view.php?idx=539867",
-          "source": "경북신문"
-        }
-      ]
-    },
-    {
-      "keyword": "lg화학",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T01:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjOwd44R4ebEriyRD5eW7uk_IxMt7YlUUTJhVz2qWpyJJg2xwGJzErju2FCWc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "LG화학, 엔솔 지분 유동화에도 순차입금 26조...신용도 개선 제한적",
-          "url": "https://v.daum.net/v/fvafoGLxon",
-          "source": "Daum"
-        },
-        {
-          "title": "LG화학·LG엔솔, 지분 유동화로 재무·투자 기반 동반 강화 기대감",
-          "url": "https://www.newsis.com/view/NISX20261030_0003848834",
-          "source": "뉴시스"
-        },
-        {
-          "title": "‘아직 남았다’…LG엔솔 주주 짓누르는 오버행 부담 [재계톡톡]",
-          "url": "https://www.mk.co.kr/news/business/12191616",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "영광",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T00:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNFgBUpn87Cr4RH0fC4b9cHjZQnoH7jMAkJ-yCtvbymXJ1DB4PhVvHeZ2nHl4",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "영광군, 착한가격업소 이용 시 영광사랑카드 혜택 확대",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420584",
-          "source": "데일리한국"
-        },
-        {
-          "title": "영광군, 착한가격업소 이용하면 영광사랑카드 5% 캐시백",
-          "url": "https://www.pressian.com/pages/articles/2026110210593580738",
-          "source": "프레시안"
-        },
-        {
-          "title": "한춘옥 특별시의원, “공공요금 심의 및 물가안정 기반 마련” > 뉴스",
-          "url": "https://www.thekorea.kr/567691",
-          "source": "더코리아"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성증권",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T00:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkO54eUhF2-3rs_vwHKSDIUz_GcV8coO9tG6Svxb2OD_EIMk54Wf6Oa7_xqbA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "삼성증권, 올해 IPO 주관 1위 노리나…3분기 누적 '선두' 올라",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442401",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "삼성 선두에 미래에셋·NH 추격…연말 IPO 주관 순위 경쟁 가열",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03086486645641456",
-          "source": "마켓인"
-        },
-        {
-          "title": "[IPO 주관사 점검] [삼성증권] 올해 주관금액 1등…기술기업 '러브콜'",
-          "url": "https://news.dealsitetv.com/articles/177807",
-          "source": "DealSite경제TV"
-        }
-      ]
-    },
-    {
-      "keyword": "november",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T00:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK-tfQiNXzWs_5jdWjRUw52hh9xqA1yGtfzD0bchQO1rQxcnou_x9FoDUeM1A",
+      "startedAt": "2026-11-02T02:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFcbLxumc8WoYJ9qT381XKpzV8FOlXBArTSA21g5-vMwLGvXHp3jreTy0ehRI",
       "category": "기타",
       "news": [
         {
-          "title": "First week of November weather forecast",
-          "url": "https://katu.com/news/local/first-week-of-november-weather-forecast",
-          "source": "KATU"
+          "title": "외부 전문가도 교사로?…국교위 '교직 개방' 검토에 교원단체 반발",
+          "url": "https://www.news1.kr/society/education/6338956",
+          "source": "뉴스1"
         },
         {
-          "title": "Widespread, heavy rain to kick off November",
-          "url": "https://www.keyc.com/2026/10/31/widespread-heavy-rain-kick-off-november/",
-          "source": "KEYC News Now"
+          "title": "[교육타파] 국교위 '교직 개방' 논의에 현장 반발…교사노조연맹 \"교원자격은 인력난 해소 수단 아니다\"",
+          "url": "https://edujb.com/news/articleView.html?idxno=9652",
+          "source": "전북미래교육신문"
         },
         {
-          "title": "A sunny and seasonable first Sunday of November",
-          "url": "https://www.wtnh.com/weather/a-sunny-and-seasonable-first-sunday-of-november/",
-          "source": "WTNH.com"
+          "title": "[단독] '속도전/N수 유리' 수능 전면개편해야.. '2028개편도 객관식 유지'",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634401",
+          "source": "베리타스알파"
         }
       ]
+    },
+    {
+      "keyword": "가덕도",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2DRsWZVt_QyeHwrcgN3KSpXVSFFjkzkh57GPeIBG4zxHpt9elqbYy-uce414",
+      "category": "기타",
+      "news": [
+        {
+          "title": "가덕 첫삽 끝내 연내로 후퇴…당정 “공사비 8500억 증액”(종합)",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22003000232",
+          "source": "국제신문"
+        },
+        {
+          "title": "가덕도신공항 공사비 증액 공방…연내 착공은?",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700264&ref=A",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "대우건설 핵심 일감 가덕도, 11월 착공 불투명…국토부 연내 계약 목표",
+          "url": "https://www.ajunews.com/view/20261030114719369",
+          "source": "아주경제"
+        }
+      ]
+    },
+    {
+      "keyword": "리노베이션",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T02:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XVE0w4K9E9Zv7I_Te1d6G_SUEoWnmLCiV-xnNu4w_3S-C0JrYVqxVBn79kU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Provo Community Church gathering funds for renovation, restoration",
+          "url": "https://www.ksl.com/article/51638767/provo-community-church-gathering-funds-for-renovation-restoration",
+          "source": "KSL News"
+        },
+        {
+          "title": "Wausau’s Grand Theater to reopen Nov. 7 after six-month renovation",
+          "url": "https://www.wsaw.com/2026/11/01/wausaus-grand-theater-reopen-nov-7-after-six-month-renovation/",
+          "source": "WSAW"
+        },
+        {
+          "title": "Judge says court will investigate government officials in DC golf course case",
+          "url": "https://abcnews.com/Politics/judge-court-investigate-government-officials-dc-golf-case/story?id=137723824",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        }
+      ]
+    },
+    {
+      "keyword": "쇼트트랙",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T02:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRD0zPyDkxSu2obTgF8YXVq1YBmt-DTWRTIMS5PTWvcULKjEZOs4uOEDR3oOVg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "쇼트트랙 최민정 ‘추월쇼’",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/4RNMOMOTLVCDFJN4MOP7YVHYRE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "최민정, 쇼트트랙 월드투어 2차 대회 1500ｍ 은메달",
+          "url": "https://www.munhwa.com/article/11627985",
+          "source": "문화일보"
+        },
+        {
+          "title": "최민정, 9명 혼전 뚫고 여자 1,500ｍ 은메달 …은퇴 시즌 투혼",
+          "url": "https://www.yna.co.kr/view/AKR20261102020600007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "트리니티 항공",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T02:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
