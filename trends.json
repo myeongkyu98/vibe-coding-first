@@ -1,255 +1,279 @@
 {
-  "updatedAt": "2026-11-02T19:47:43.058Z",
+  "updatedAt": "2026-11-02T20:39:14.663Z",
   "summary": [
-    {
-      "category": "스포츠",
-      "count": 4
-    },
     {
       "category": "기타",
       "count": 3
     },
     {
-      "category": "생활·날씨",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "걷기",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-02T14:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC1E1toT6FJpaNLTwOCa0EzI483PWd5BbMfk4xLG2PvFBp5Dx3uOpI9yPjsrg",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "속초해수욕장서 7일 맨발걷기…버스킹·체험 행사",
-          "url": "https://www.yna.co.kr/view/AKR20261102057400062",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "한겨울에도 맨발로…속초시 꽃묘장 황톳길 다시 열린다",
-          "url": "https://view.asiae.co.kr/article/2026110209440026521",
-          "source": "아시아경제"
-        },
-        {
-          "title": "\"맨발로 걸으며 추위 이겨요\"…속초 꽃묘장 황톳길 2일 재개장",
-          "url": "https://www.news1.kr/local/kangwon/6339590",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "김지영",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-02T15:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRW8t7ExA8uRnKO_krtK9FTFfiao2BaHL0PIdWylOk1zCiHIPN5fARsjW7X-tE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "김지영, 故 최불암 조문 패션에 “예의 아니다” 시끌",
-          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/11/02/20261102500324",
-          "source": "서울신문"
-        },
-        {
-          "title": "\"가도 논란, 안 가도 논란\"…故 최불암 마지막 길, 지나친 잣대들",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100015060001319",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "\"장례식장에 가죽재킷+금체인?\"…故 최불암 빈소 찾은 김지영, '뜻밖의 복장 논란' 터졌다[MD이슈]",
-          "url": "https://mydaily.co.kr/page/view/2026110220571690954",
-          "source": "마이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "아이 파크 몰 용산 점",
+      "keyword": "뉴캐슬 대 에버턴",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-02T16:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1a2Z8ofABVYBCpt4DTPu52PoUtr6eA7Y_zQ5ZlSGckD2L_H4jDIne_et1BCE",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "침낭까지 챙겨와 '오픈런'…전국서 덕후 몰리더니 '대반전'",
-          "url": "https://www.hankyung.com/article/2026110209961",
-          "source": "한국경제"
-        },
-        {
-          "title": "아이파크몰 용산점 55개월 연속 매출 증가…올해 8500억원 전망 : 산업",
-          "url": "https://news.jkn.co.kr/post/1066213",
-          "source": "재경일보"
-        },
-        {
-          "title": "아이파크몰, 쇼핑 공간서 문화·스포츠 프로그램 마련",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210442",
-          "source": "라이센스뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김태균",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T15:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKL1Bb0liEJD6t39pOBiF7d23eD3NnSSKWg9YcjpiNg2Jf7ugvzKePkKp6GJg",
+      "startedAt": "2026-11-02T19:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsp-IKjAGffCx8-gro4Q-5VVtSHJq2WKr_ImHFrZMNWb8bqbSr4IBiupqGzlg",
       "category": "스포츠",
       "news": [
         {
-          "title": "김태균·오승환 합류한 APBC 대표팀…도쿄돔 응원 열기도 달군다",
-          "url": "https://www.segye.com/newsView/20261102515720",
-          "source": "세계일보"
+          "title": "뉴캐슬 vs 에버턴 프리뷰: 우승 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-newcastle-vs-everton-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "\"캐치볼도 잘 안 되는데 어떻게 프로에…\" 국대 수석코치 조성환, 韓 야구 기본기 부족에 쓴소리",
-          "url": "https://sports.news.nate.com/view/20261102n25058",
-          "source": "네이트"
+          "title": "[efl.review] ‘아스널...아니 플릿우드 나와라!’ 에버턴, 해크니 1골 1도움 앞세워 뉴캐슬 3-1 격파→리그컵 8강 진출!",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100051",
+          "source": "포포투"
         },
         {
-          "title": "최민석, 신영우 낙마 ‘박사 출신 최원호의 묘안은?’",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701920",
-          "source": "KBS 뉴스"
+          "title": "프리미어 리그 뉴캐슬 대 에버튼 점수 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-newcastle-vs-everton-tai-premier-league-1793270.ldo",
+          "source": "Laodong.vn"
         }
       ]
     },
     {
-      "keyword": "크랙",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgV2RfKXVVfi5k_upiKk1FunYhjecXfiNxr7EtICJ0OqaVeb-nCedMpdOu60s",
-      "category": "IT·과학",
+      "keyword": "심수봉",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T18:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJSiRaRIgWKPobO6MlQVvEi4R5h8MJ3PPe0WTx3-apN81i1JdF4PiJtueBrU8",
+      "category": "연예",
       "news": [
         {
-          "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇슈#태그]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700914",
-          "source": "KBS 뉴스"
+          "title": "심수봉, 후배 비판 논란 후 첫 무대서 재차 사과…\"해선 안될말\"",
+          "url": "https://www.yna.co.kr/view/AKR20261102086900005",
+          "source": "연합뉴스"
         },
         {
-          "title": "아이폰 듀오·갤럭시 Z 폴드8 써보니…두뇌는 애플, 완성도는 삼성 - 머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/11/02/2026110119440848173",
-          "source": "머니투데이"
+          "title": "심수봉, 김다현 공개 비판 재차 사과…\"반성·회개의 시간 가져\"",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611021336105061",
+          "source": "YTN"
         },
         {
-          "title": "\"20번 접었는데 화면이 '쩍'\"…애플 첫 폴더블폰 덮친 '크랙 게이트' [취재파일]",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825826",
+          "title": "심수봉, 콘서트서 김다현에 다시 고개 숙여…“반성과 회개의 시간”",
+          "url": "https://www.kyeonggi.com/article/20261102580200",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "기온",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T19:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyfsb0QHedhvPtczbw_wmWzuxIMUqz7G71mw3R8Y1p4v2y_sXFyqIksns2KdE",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "내일 아침에 패딩 꺼내야 하나···최저 기온 ‘0도’ 쌀쌀, 경기·강원 얼음 언다",
+          "url": "https://www.khan.co.kr/article/202611021559001",
+          "source": "경향신문"
+        },
+        {
+          "title": "서울 6년만에 11월 황사… 오늘은 아침 0~9도",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134953780/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "[날씨] 오늘 밤 곳곳 미세먼지 농도 짙어...내일 아침 반짝 추위",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611021930471021",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "관광객",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T19:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREWG8kIwkGHfNwV9KDHBjLyTw7A9LPhgAbLWjbZbTPJ5vLQCweesCUFB68cWw",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "한국 관광객 상대 '필리핀 강도' 총격‥ 현지 경찰 즉각 추격 1명 체포",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862520_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "필리핀서 한국인 관광객 총기 강도 피해…용의자 1명 검거",
+          "url": "https://www.yna.co.kr/view/AKR20261102172000084",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[단독] 필리핀 3인조 강도…\"한국 관광객에 총까지\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827047",
           "source": "SBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "에어부산",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T17:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8zCK-0zwOPqbkDuN6dIlFU3D0CoGkLx-x622_r2MBTpTuZIyUMY6Yq3FmFRU",
+      "keyword": "서울경제tv",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T19:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwm6k4M9QGoLC6v-0tnbk0wQ3AC254SuWNH-tceL34QeRm46ZgD-PmT9FV-E",
       "category": "기타",
       "news": [
         {
-          "title": "도쿄 가던 에어부산 여객기, 동해 상공서 회항…연료 이상 경고등",
-          "url": "https://weekly.chosun.com/news/articleView.html?idxno=56804",
-          "source": "주간조선"
+          "title": "[오늘과 내일/이상훈]석유 최고가격제, 올해 안엔 끝내자",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261102/134953877/2",
+          "source": "동아일보"
         },
         {
-          "title": "일본 향하던 에어부산 여객기 김해공항 회항…연료 계통 결함",
-          "url": "https://www.yna.co.kr/view/AKR20261102167300051",
+          "title": "24주 연속 하락세 보인 전국 주유소 기름값",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261101_0021513048&pID=1&cID=&sID=1&type=photoMain&idx=3",
+          "source": "뉴시스"
+        },
+        {
+          "title": "국제유가 상승 속 국내 기름값 24주 연속 하락",
+          "url": "https://www.news1.kr/photos/8190298",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "iphone",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T19:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbbNxgQaGWAIE26aamNSY2G-IGcwnd7p_iwR4kQFIeVi1e0AN7HmvCR9Oqzw0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Apple Q4 earnings live: iPhone 18 sales in the spotlight",
+          "url": "https://finance.yahoo.com/markets/stocks/article/apple-q4-earnings-live-iphone-18-sales-in-the-spotlight-183000820.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
+          "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple's new CEO Ternus to face first earnings test as memory costs surge",
+          "url": "https://www.reuters.com/business/retail-consumer/apples-new-ceo-ternus-face-first-earnings-test-memory-costs-surge-2026-11-02/",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "keyword": "l g 에너지 솔루션",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T19:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsnjF79LeUXiziwyBYySxh6o1CTKK8MTVp4fRHnIOg_G5ZMgb1Qk-TQF9W_AY",
+      "category": "경제",
+      "news": [
+        {
+          "title": "삼성SDI, LG엔솔 파트너 손잡았다…APS 레이저 기술 검토",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=64714",
+          "source": "디일렉"
+        },
+        {
+          "title": "삼정KPMG \"ESS 전력망 제약 완충할 인프라로 주목\" - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/02/2026110209172823241",
+          "source": "머니투데이"
+        },
+        {
+          "title": "美 보조금 축소 시계 가동⋯K배터리, ESS 수익성 확보 시험대",
+          "url": "https://www.viva100.com/article/20261101500489",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "keyword": "양민혁",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T19:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXTXX5zIoMKS138TUfaUD4QgXYHAC0jwWzTB3bIcATEqxJIwZjQyr2XxRMgFQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"군 면제만 바라봤다\" 망언 손흥민 후계자, 이대로면 절대 불가...사령탑 공개 비판 후 계속된 벤치 출전",
+          "url": "https://www.sportschosun.com/football/2026-11-01/202611010100005490000259",
+          "source": "스포츠조선"
+        },
+        {
+          "title": "'태도 논란' 양민혁, '충격 근황' 또다시 고개 떨궜다...절박한 마음으로 향했던 벨기에서 '리그 선발 출전 0회' 반복되는 벤치 대기",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553664920",
+          "source": "스포탈코리아"
+        },
+        {
+          "title": "\"양민혁이 감독에게 비판을 좀 받았는데...\" 토트넘 전담 기자도 현실 짚었다, \"훈련에서 부족하다더라\"",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99998",
+          "source": "포포투"
+        }
+      ]
+    },
+    {
+      "keyword": "장금상선",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T18:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAiiDRnh15WrxGQyoeCVtIT3TVt40WVVoWW-DKvTV782TxZpEKns5TLaj6KCU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "이란 해군 \"호르무즈서 경로 이탈 유조선 기뢰 충돌 화재\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6862638_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "장금상선 세계 석유 해운 사실상 '독점' 평가, \"전쟁 끝나도 고운임 유지 전망\"",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450885",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "이란 \"호르무즈 해협서 유조선 2척 기뢰에 폭발…1척 화재\"",
+          "url": "https://www.yna.co.kr/view/AKR20261102017500009",
           "source": "연합뉴스"
-        },
-        {
-          "title": "\"일본 가는 줄 알았는데 다시 한국으로\"…승객 200여명 탄 여객기 '긴급 회항'",
-          "url": "https://view.asiae.co.kr/article/2026110220490213679",
-          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "노숙인",
+      "keyword": "한화그룹",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-02T16:10:00.000Z",
-      "picture": "",
+      "startedAt": "2026-11-02T18:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUr1xSzwgxgeD-5ORqGWTAje92zdWqxrBPOY8yo4DSY_JTyyKHqoOzMKUXiM",
       "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "손정범",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T14:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGsIx-A4mwKTx6wmQ_7jS1mkoE-g9encW3XJ669vkNYpQjLagT0v8U_gPR2o",
-      "category": "스포츠",
       "news": [
         {
-          "title": "FC서울 손정범 “이렇게 빨리 태극마크 달 줄 몰랐다”",
-          "url": "https://www.khan.co.kr/article/202611022028025",
+          "title": "수면 위 오른 ‘MASGA’...한화 미 상륙함 건조 계약, 군함 시장 진출 위한 ‘첫 단추’",
+          "url": "https://news.jtbc.co.kr/article/NB12326049",
+          "source": "JTBC"
+        },
+        {
+          "title": "\"한 달 만에 한숨 안 쉬었다\"…11% 급등에 한화 개미들 '화색'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03132406645641784&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "[기고]‘마스가’의 성패, 구호 아닌 제도에 달렸다",
+          "url": "https://www.khan.co.kr/article/202611022011015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
           "source": "경향신문"
-        },
-        {
-          "title": "[GOAL 현장] K리그 챔피언 서울의 '숨은 영웅' 바베츠 \"지금 여기서 너무 행복하고 즐기고 있다\"",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-%E1%84%92%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%86%BC-k%E1%84%85%E1%85%B5%E1%84%80%E1%85%B3-%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB-%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%B4-%E1%84%89%E1%85%AE%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%AE%E1%86%BC-%E1%84%87%E1%85%A1%E1%84%87%E1%85%A6%E1%84%8E%E1%85%B3-%E1%84%8C%E1%85%B5%E1%84%80%E1%85%B3%E1%86%B7-%E1%84%8B%E1%85%A7%E1%84%80%E1%85%B5%E1%84%89%E1%85%A5-%E1%84%82%E1%85%A5%E1%84%86%E1%85%AE-%E1%84%92%E1%85%A2%E1%86%BC%E1%84%87%E1%85%A9%E1%86%A8%E1%84%92%E1%85%A1%E1%84%80%E1%85%A9-%E1%84%8C%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%E1%84%80%E1%85%A9-%E1%84%8B%E1%85%B5%E1%86%BB%E1%84%83%E1%85%A1/bltb603223ec63970db",
-          "source": "Goal.com"
-        },
-        {
-          "title": "[축구] 포포프 감독 \"베트남-한국 간 실력 격차 인정… 과거 대표팀도 0-6 패\"",
-          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84297",
-          "source": "굿모닝베트남미디어"
-        }
-      ]
-    },
-    {
-      "keyword": "알나스르",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T14:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QIXNeeZrpkMn2WWnoDTdRduSepe27zKKK72hewUXTQW4FfcvBIZGyC1w9J0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "AFC 챔피언스 리그 파흐타코르 타슈켄트 대 알나스르 생중계 링크",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-pakhtakor-tashkent-vs-al-nassr-tai-afc-champions-league-1793409.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "알 와슬 FC vs 알 쿠와 알 자위야 경기 예측: 선두 경쟁의 뜨거운 대결",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-al-wasl-fc-vs-al-quwa-al-jawiya-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "호날두를 대신해 주앙 펠릭스가 빛나는 활약을 펼치며 알 나스르는 아시아 챔피언스 리그에서 '테니스 경기'를 펼쳤다.",
-          "url": "https://www.vietnam.vn/ko/joao-felix-ruc-sang-thay-ronaldo-al-nassr-choi-tennis-o-cup-c1-chau-a",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "pakhtakor đấu với al-nassr",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwds0hFcSmDEpwLmCW_KCZX8Y9uk6_11Fk3TQVMi_Cv3cT6ob3rh-TwhU1q6w",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Nhận định Pakhtakor vs Al Nassr: Ronaldo lại tỏa sáng?, 20h45 ngày 2/11/2026",
-          "url": "https://thethao247.vn/441-nhan-dinh-pakhtakor-vs-al-nassr-ronaldo-lai-toa-sang-20h45-ngay-2-11-2026-c288-d443121.html",
-          "source": "Thể Thao 247"
-        },
-        {
-          "title": "Al Nassr bất ngờ loại Ronaldo ở AFC Champions League",
-          "url": "https://dantri.com.vn/the-thao/al-nassr-bat-ngo-loai-ronaldo-o-afc-champions-league-20261102165654983.htm",
-          "source": "Báo Dân trí"
-        },
-        {
-          "title": "Video bóng đá Pakhtakor - Al Nassr: Đội Ronaldo thắng \"hủy diệt\" (Cúp C1 châu Á)",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-pakhtakor-al-nassr-doi-ronaldo-thang-huy-diet-cup-c1-chau-a-c48a1807862.html",
-          "source": "Tin tức 24h"
         }
       ]
     }
