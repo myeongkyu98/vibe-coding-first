@@ -1,20 +1,16 @@
 {
-  "updatedAt": "2026-11-02T22:35:26.134Z",
+  "updatedAt": "2026-11-02T23:32:12.916Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "IT·과학",
+      "count": 4
     },
     {
       "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
       "count": 1
     },
     {
@@ -24,254 +20,228 @@
   ],
   "items": [
     {
-      "keyword": "성과급",
+      "keyword": "뉴캐슬 대 에버튼 순위",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-02T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjCe7ZkKDg_tB2vFqZ-rr9LP5gFZkKTclb7e2Tg0cYIWewadLxt7CGKlguVxY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Newcastle 0-1 Everton (Nov 2, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878762",
+          "source": "ESPN"
+        },
+        {
+          "title": "Newcastle 0-1 Everton: Toffees earn first away league win of season as Magpies booed off after Jacob Ramsey sees red",
+          "url": "https://www.skysports.com/football/news/13605474/newcastle-0-1-everton-toffees-earn-first-away-league-win-of-season-as-magpies-booed-off-after-jacob-ramsey-sees-red",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Meek Newcastle beaten by Everton. Are fans at St James’ Park getting restless?",
+          "url": "https://www.nytimes.com/athletic/7741815/2026/11/02/newcastle-everton-result-analysis/",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "keyword": "필라델피아 반도체 지수",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-02T21:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZvYbVa7UL6H8X_Hep8Ptp6PYjTPmi3yA1ukYOZ0hN1kbhOe3UElcP1DAMWUc",
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_zPXd2wGRD0wFfL5xa1iS4JAtHaVtGGsjlAp8ygLRkyxkTWNc9jdVbb9erTQ",
       "category": "IT·과학",
       "news": [
         {
-          "title": "\"성과급만 71억, 마흔 전 은퇴 새 삶 살고 싶다\"…삼성전자 직원 글 '갸웃'",
-          "url": "https://www.news1.kr/finance/general-finance/6339477",
+          "title": "美 반도체주 급락 여파…삼성전자·SK하이닉스 프리마켓서 동반 약세",
+          "url": "https://www.newsis.com/view/NISX20261103_0003851936",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[속보] 필라델피아 반도체 지수 3.4% 급락…마이크론 -5.4%",
+          "url": "https://www.news1.kr/world/international-economy/6340592",
           "source": "뉴스1"
         },
         {
-          "title": "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
-          "url": "https://www.fnnews.com/news/202611021928139205",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "\"40세까지 성과급 포함 80억\"…조기 은퇴 꿈꾸는 삼성전자 직원 글 '화제'",
-          "url": "https://www.newsis.com/view/NISX20261102_0003851099",
-          "source": "뉴시스"
+          "title": "'AI 수익성 우려'에 美 반도체주 또 급락 … 삼성전자·SK하이닉스 프리마켓서 3~4% 동반 약세",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300031.html",
+          "source": "뉴데일리"
         }
       ]
     },
     {
-      "keyword": "중간선거 미국",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T21:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh10vQLH7grj72BF4FXLjFacemq34QU7rz4c6p5w7vH167fiSuI76i0XRnqfg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "트럼프 \"우리 생애 가장 중요한 선거\"...오늘 미 중간선거 운명의 날",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611030547515114",
-          "source": "YTN"
-        },
-        {
-          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702079",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "미 상원 7개 경합주서 민주 6곳 우세…공화당 텃밭들 뚫려",
-          "url": "https://news.jtbc.co.kr/article/NB12326114",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "thứ hạng của pakhtakor gặp al-nassr",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T21:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTamjmsclplZ6t37ZrhgovqRdDQ-bCly5bsUJo-F4Of74HHbLpVy6YvFNYQ_jI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Video bóng đá Pakhtakor - Al Nassr: Đội Ronaldo thắng \"hủy diệt\" (Cúp C1 châu Á)",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-pakhtakor-al-nassr-doi-ronaldo-thang-huy-diet-cup-c1-chau-a-c48a1807862.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Nhận định Pakhtakor vs Al Nassr: Ronaldo lại tỏa sáng?, 20h45 ngày 2/11/2026",
-          "url": "https://thethao247.vn/441-nhan-dinh-pakhtakor-vs-al-nassr-ronaldo-lai-toa-sang-20h45-ngay-2-11-2026-c288-d443121.html",
-          "source": "Thể Thao 247"
-        },
-        {
-          "title": "IN DIRETTA Pakhtakor vs Al-Nassr: Inizia il secondo tempo, Al-Nassr conduce 3-1",
-          "url": "https://www.vietnam.vn/it/truc-tieptruc-tiep-pakhtakor-vs-al-nassr-hiep-2-bat-dau-al-nassr-dan-3-1",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "건강보험",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T21:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSb5KtXfFXMZIB4Qn5yB269Qqjf1sHxHYpcTRgIbNtFSGMZjkVgqZ2HWQbNV54",
-      "category": "기타",
-      "news": [
-        {
-          "title": "국민건강보험공단, 제23차 건강보험 국제연수과정 개최",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611021759127440f4ab64559d_12",
-          "source": "로이슈"
-        },
-        {
-          "title": "건보공단, ‘건보 국제 연수과정’ 개최",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7191809",
-          "source": "주간한국"
-        },
-        {
-          "title": "세계 16개국 보건의료 전문가 원주 집결…한국 건강보험 세계화 속도",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611020209",
-          "source": "서울경제TV"
-        }
-      ]
-    },
-    {
-      "keyword": "더본코리아",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T21:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3ugwrzvkcuC1cXFVXk2mpnz40hpqA0-Mkn0o_WYBJ2x2hQjcWZPUrQSTfHIo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "더본코리아, 새마을식당 앞세워 글로벌 외식 영토 넓힌다",
-          "url": "https://www.sportsseoul.com/news/read/1645011",
-          "source": "스포츠서울"
-        },
-        {
-          "title": "미국·일본서 줄 선다는데…'백종원 브랜드', 국내는 휘청",
-          "url": "https://news.bizwatch.co.kr/article/consumer/2026/10/27/0030",
-          "source": "비즈워치"
-        },
-        {
-          "title": "[데스크칼럼] 집안 가게는 문 닫는데 해외에 소스 팔러 가는 백종원...순서가 틀렸다",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498617",
-          "source": "핀포인트뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "newcastle vs everton",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T21:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5gLlliN1SqUo8QfslHbLwz7pp6ku_IPVA8pE_0Gh7YAtpRv_GCTmhKxp-T7s",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Premier League LIVE: Newcastle United 0-1 Everton - reaction as Thierno Barry scores winner",
-          "url": "https://www.bbc.com/sport/football/live/cq2d68r9y6kwt",
-          "source": "BBC"
-        },
-        {
-          "title": "Player Ratings: A double whammy for the battleing Blues",
-          "url": "https://www.toffeeweb.com/season/26-27/news/player-ratings-a-double-whammy-for-the-battleing-blues/",
-          "source": "ToffeeWeb"
-        },
-        {
-          "title": "ProphetX promo code TSN: Get $75 prediction bonus for Newcastle vs. Everton, any Premier League games",
-          "url": "https://www.sportingnews.com/us/predictions-markets/news/prophetx-promo-code-tsn-prediction-bonus-newcastle-everton/3bfb9232b1adbba7a65a483e",
-          "source": "Sporting News"
-        }
-      ]
-    },
-    {
-      "keyword": "애플 주가",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T21:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo6uS9tUgJvJMBQRLvN2AK3QgpXFKkxj5T6z9e1NkbhDW2JPbRzivyjR-QtZc",
+      "keyword": "나스닥 100",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQeOZhCAHVnFZbUMxC2oSPOgYRsWG_b7F_TjoMiX4zkpSCI9i_cTN5NqCve0",
       "category": "경제",
       "news": [
         {
-          "title": "애플, 분기 매출 154조원…시장전망치 상회",
-          "url": "https://www.yna.co.kr/view/AKR20261103012200091",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[MUST KNOW5]애플, 아이폰은 '굿'·수익성은 '삐끗'…투자자가 알아야 할 5가지",
-          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02499366645642112&Kind=257",
-          "source": "이데일리TV"
-        },
-        {
-          "title": "애플 매출액, 시장 예상 상회…시간외 주가 1% 미만 상승 - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/03/2026110307023871472",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "쌍둥이",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T21:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSO2d-ZMG-zR9H7E4jXOAEiDNzQkPBexCZnOA5MsNoVw1lRu5qvPS1bsiXRtJY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "1년 만에 또 쌍둥이, 아들 넷…‘10만분의 1 기적’ 30대 부부 3억 받는다",
-          "url": "https://www.mk.co.kr/news/society/12193998",
-          "source": "매일경제"
-        },
-        {
-          "title": "‘10만분의 1 확률’ 자연임신 연년생 쌍둥이",
-          "url": "https://www.donga.com/news/People/article/all/20261103/134953832/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "충북 제천서 겹쌍둥이 출산 경사…\"10만분의 1 확률\"",
-          "url": "https://www.yna.co.kr/view/AKR20261102034100064",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "팔란티어 주가",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T21:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYyBeAat0Rr8Hj9vpRLjjoHgmGC3b6jyGKg5PjhQgmaTVN2vnvCmA3WAVJnE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "팔란티어 분기매출 20억 달러 첫 돌파…전년 대비 2배로 성장",
-          "url": "https://www.yna.co.kr/view/AKR20261103013300091",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "Palantir Tech A Q3 실적, 수익 예상치를 넘어",
-          "url": "https://kr.investing.com/news/earnings/article-2154589",
+          "title": "나스닥 100, 베어 플래그 붕괴 후 주요 지지선 테스트: 매시 업데이트",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2153982",
           "source": "Investing.com 한국어"
         },
         {
-          "title": "[미국 특징주] 팔란티어, AI 수요에 4분기 매출 전망 예상 상회…연간 전망도 상향",
-          "url": "https://www.newspim.com/news/view/20261103000029",
-          "source": "뉴스핌"
+          "title": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다",
+          "url": "https://story.pay.naver.com/content/3839",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "코스피 저점 5,100? \"그 가격은 이제 안온다..이미 '쌍바닥' 확인\"",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611020640388023",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "임영웅",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T21:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW5D2DOvkFDqBLSqn99A9tkXywDTe2gsfXiOzRectoVrR7fj-kSr8-0YE-Rng",
+      "keyword": "아이폰 듀오",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgV2RfKXVVfi5k_upiKk1FunYhjecXfiNxr7EtICJ0OqaVeb-nCedMpdOu60s",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇슈#태그]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700914",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "애플 CEO \"아이폰 듀오 결함 극소수…수요 못 따라가\" [IT썰] - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/11/03/2026110307143127297",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"20번 접었는데 화면이 '쩍'\"…애플 첫 폴더블폰 덮친 '크랙 게이트' [취재파일]",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825826",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "vix",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj7nCr2r1LGnhSxggGskTX7_UyxmRE7ZalmvXPEl_yRYIdlLr7R9lt3WvyBLY",
       "category": "기타",
       "news": [
         {
-          "title": "[영웅신문] 임영웅, '미워요 RE' 202만 뷰 돌파 …2016년 첫 설렘→2026년 깊어진 목소리 '감동의 10년'",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266263",
-          "source": "톱스타뉴스"
+          "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
+          "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+          "source": "CNBC"
         },
         {
-          "title": "임영웅 팬클럽 대구영웅시대(대구누부야방), 장애인 위한 '제주 힐링 캠프'..따뜻한 나눔 실천",
-          "url": "https://www.starnewskorea.com/star/2026/10/30/2026102907030844625",
-          "source": "스타뉴스"
+          "title": "VIX Retreat Signals Unusual Calm in Options Trading",
+          "url": "https://ozarab.media/vix-retreat-signals-unusual-calm-in-options-trading/?utm_source=rss&utm_medium=rss&utm_campaign=vix-retreat-signals-unusual-calm-in-options-trading",
+          "source": "Oz Arab Media"
         },
         {
-          "title": "임영웅 팬모임 '부산영웅홀릭', 데뷔 10주년 기념 동물보호단체 '라이프' 기부..선한 영향력 실천",
-          "url": "https://www.starnewskorea.com/star/2026/10/27/2026102605065376858",
-          "source": "스타뉴스"
+          "title": "VIX Rises Above 20 as U.S. Stocks Sell Off and Risk Aversion Grows",
+          "url": "https://www.tokenpost.com/news/investing/44957",
+          "source": "TOKENPOST"
         }
       ]
+    },
+    {
+      "keyword": "tqqq",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRaCqN7g8yBmWOXeDsXFD01PvpLOLMVa1-eznLDB6jYKBaQ-vrEwudLBOGGpM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Here’s How Much You Would Have Made Owning ProShares UltraPro QQQ Stock In The Last 15 Years",
+          "url": "https://www.benzinga.com/news/26/11/62778322/here-s-how-much-you-would-have-made-owning-proshares-ultrapro-qqq-stock-last-15-years",
+          "source": "Benzinga"
+        }
+      ]
+    },
+    {
+      "keyword": "mu",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5Djy0iR4zyYQ454qBkmLs77yIyEJ5Kp27nQ-DOtE8xtPgYnhcnWUyz0xkWXA",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "Micron Stock Needs Markets to Clear These 3 Hurdles",
+          "url": "https://www.barrons.com/articles/micron-stock-price-market-ai-fears-b922ab80",
+          "source": "Barron's"
+        },
+        {
+          "title": "MU Stock Falls to $840 as Kioxia Outlook and Big Tech Earnings Raise Memory Market Concerns",
+          "url": "https://www.fxleaders.com/news/2026/11/02/mu-stock-falls-to-840-as-kioxia-outlook-and-big-tech-earnings-raise-memory-market-concerns/",
+          "source": "FXLeaders"
+        },
+        {
+          "title": "The AI Memory Boom Could Make This Stock a Much Bigger Story by 2030",
+          "url": "https://247wallst.com/investing/2026/11/02/the-ai-memory-boom-could-make-this-stock-a-much-bigger-story-by-2030/",
+          "source": "24/7 Wall St."
+        }
+      ]
+    },
+    {
+      "keyword": "삼성중공업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T22:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoAXd8kKHXSKYAkIYbPHoMfsGmSfbymZpptgOaXa2exVNq-EFmHYkwnN3_R2s",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "인도 정부, 최성안 삼성重 부회장에 '33조 규모' 메가 조선 클러스터 공식 참여 제안",
+          "url": "https://www.theguru.co.kr/news/article.html?no=109149",
+          "source": "더구루"
+        },
+        {
+          "title": "이상균 HD현대중공업 총괄부회장, 印 파라딥항만청과 회동",
+          "url": "https://thetracker.co.kr/View.aspx?No=4289667",
+          "source": "더트래커"
+        },
+        {
+          "title": "기술 배운 인도 기술자들 자국 품으로 부른 인도 해운장관",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610260636039881fbbec65dfb_1",
+          "source": "글로벌이코노믹"
+        }
+      ]
+    },
+    {
+      "keyword": "김제시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65IqDvjmk08hEYDd97vgLCc8_gjw-fiFPLXVQQ876_GA4JZHAbOc6K1oHTm8",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "이원택 전북지사 \"국가예산 확보 총력…일자리 창출 속도\" 주문",
+          "url": "https://www.yna.co.kr/view/AKR20261102103700055",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "전북도의회 기행위, 정읍서 내년도 예산안 심사 대비 연찬회",
+          "url": "https://www.news1.kr/local/jeonbuk/6340087",
+          "source": "뉴스1"
+        },
+        {
+          "title": "김소원 TYM 대표 “새만금 프로젝트, 농업 분야 피지컬 AI 육성해야”",
+          "url": "https://biz.chosun.com/industry/business-venture/2026/11/02/HIOR5LCF7ZG7TB3LBRRDVSHHE4/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "미사동",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T22:20:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
