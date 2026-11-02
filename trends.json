@@ -1,259 +1,279 @@
 {
-  "updatedAt": "2026-11-02T04:53:26.544Z",
+  "updatedAt": "2026-11-02T05:54:38.126Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
-      "category": "스포츠",
+      "category": "정치·사회",
       "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     },
     {
       "category": "경제",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "로스앤젤레스 fc 대 미네소타 유나이티드 fc 순위",
-      "traffic": "50000+",
-      "trafficValue": 50000,
-      "startedAt": "2026-11-02T03:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLdOlHIweLH8TbTRMKUBlvKaXO67D-Breamif4lIiW5cDIFGT4HBXh8dRydu0",
+      "keyword": "정년 연장",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-02T04:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO3RKSVMxoGRLoFlEJOf8Ax-n1bVESMXSBE_Mhbc6WjbPIIh-HR8g0uDCNeKA",
       "category": "기타",
       "news": [
         {
-          "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
-          "url": "https://www.yna.co.kr/view/AKR20261102091400007",
-          "source": "연합뉴스"
+          "title": "'박애'를 흔드는 프랑스 연금 갈등[투데이窓/박경덕] - 머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/11/02/2026110110081316176",
+          "source": "머니투데이"
         },
         {
-          "title": "손흥민 선발 풀타임에도 '대참사' LAFC, 12위 미네소타에 1-3 완패...전반에만 2골 허용→후반 추가골까지 '속수무책'",
-          "url": "https://www.osen.co.kr/article/G1112902576",
+          "title": "“임금 삭감·촉탁직 재고용 말고, 65세 온전한 정년연장 입법하라”",
+          "url": "https://www.ilabor.org/news/articleView.html?idxno=12450",
+          "source": "https://www.ilabor.org/"
+        },
+        {
+          "title": "정년연장, 나이만 올리면 끝?…임금·연금·퇴직 등 통합 설계해야\"[만났습니다②]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01666246645618168&mediaCodeNo=257",
+          "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "신의 구슬",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-02T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUf0aJ9tNRKirzC6UkTDrr9XAA6F8WYo5yr2zM4ynftIvIF-UE6YG7DMRvrI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "안보현·이성민, 세대 뛰어넘는 특별한 전우호흡 예고…든든한 투샷(‘신의 구슬’)",
+          "url": "https://www.osen.co.kr/article/G1112902607",
           "source": "OSEN"
         },
         {
-          "title": "LAFC 손흥민, 미네소타전 선발 출격…구단 최다 도움 도전",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850473",
-          "source": "뉴시스"
+          "title": "‘신의 구슬’ 안보현·이성민, 관음보주 호송 작전서 맞선다… 첫 투샷 공개",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3445062",
+          "source": "천지일보"
+        },
+        {
+          "title": "'신의 구슬' 안보현·이성민, 관음보주 호송대 이끈다…세대 초월 전우 호흡",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523182",
+          "source": "iMBC 연예"
         }
       ]
     },
     {
-      "keyword": "주식시장",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-02T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT15CjdeqGArlYCtcvdhQ3B_aorhrbcBNPeGLhCGv6HUAh3mvcEzJNR2E1l-2c",
+      "keyword": "당구",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYB3bAbqTAOLAw1wQdLXlBRblxFWGaj3V4z5Z19l_g_Wb_yNRArCzYUtTYCOc",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "경복당구회, ‘창립 20주년 기념 당구축제’ 성황리 마무리",
+          "url": "https://sports.donga.com/sports/article/all/20261102/134950261/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "경복당구회 20주년 축제…동문 170명 참가 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1065270",
+          "source": "재경일보"
+        },
+        {
+          "title": "'2026 진주시당구연맹회장배 3쿠션 당구대회' 열려",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739380",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "보안",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T04:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkakhfyQg7msARQy59dhXjMfKohSMFLvJXUuUO2FeKNcCZEm1M-V1QXJf5wI",
       "category": "경제",
       "news": [
         {
-          "title": "주식 판 돈, 이틀 말고 하루 만에 받는다… 54년 만에 결제주기 단축 2028년 목표",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/EXQXMPTKWFFDNDFINQRJ4Y7EZE/",
-          "source": "조선일보"
+          "title": "주택금융공사, '2026 부산 사이버보안 콘퍼런스' 공동 개최",
+          "url": "https://www.etnews.com/20261102000202",
+          "source": "전자신문"
         },
         {
-          "title": "증권시장 결제주기 단축 로드맵 발표...2028년 중 시행 목표",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611021102287860",
-          "source": "YTN 사이언스"
+          "title": "주택금융공사, 부산 사이버보안 콘퍼런스 공동 개최",
+          "url": "https://view.asiae.co.kr/article/2026110212002620308",
+          "source": "아시아경제"
         },
         {
-          "title": "주식 매도대금 하루 일찍 받는다…'T+1' 도입 로드맵 공개",
-          "url": "https://www.news1.kr/finance/general-stock/6339623",
-          "source": "뉴스1"
+          "title": "라쿠텐 마리타임, “IACS 규제 넘어 실전 복원력으로”... ‘MATS 2026’ ‘마리타임 AI & 테크 서밋 2026’ 개최",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=146899",
+          "source": "보안뉴스"
         }
       ]
     },
     {
-      "keyword": "중대범죄 수사청",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-02T03:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdEwYyq5t_fmh24bVDvXcYCpUOlChKGdqOq7zB5vJo480D65EKUVSiDH8xso8",
+      "keyword": "수원삼성",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T04:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezVs15RowhtBHXoW2zoDJAJICJLaihxxtpa_BBpqYazYktkATMzbyYNNkRXo",
       "category": "스포츠",
       "news": [
         {
-          "title": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
-          "url": "https://www.chosun.com/national/court_law/2026/11/02/L3ACB4PKOZBIBDC75XP454VQ3A/",
-          "source": "조선일보"
+          "title": "수원 삼성 3년 만의 승격 보인다!…매직넘버 ‘1’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700604",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "보완수사 요구 49% 늘어난 경기남부청…수사 초임 인력 약 10%",
-          "url": "https://www.yna.co.kr/view/AKR20261102087700061",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "증거 못 다루는 검사, 기록 못 보는 변호사… 피해자는 운다",
-          "url": "https://m.go.seoul.co.kr/news/society/law/2026/11/02/20261102010003",
-          "source": "서울Pn"
-        }
-      ]
-    },
-    {
-      "keyword": "이동건",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-02T03:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQrr47RawpMZ_UAJVjQUVVRle3CQJ9FoUzGZ_q7EnLDKiC1XJNfHgOwEddN_o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "제주 카페 왜 문 닫았나 했더니…이동건, 결국 서울로 옮긴다",
-          "url": "https://www.hankyung.com/article/202611029090H",
-          "source": "한국경제"
-        },
-        {
-          "title": "\"소문에 망했다던데\" 이동건, 제주도 카페 1년 6개월 만에 문 닫은 이유",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6339540",
-          "source": "뉴스1"
-        },
-        {
-          "title": "이동건, 제주카페 폐업 이유 밝혔다 \"너무 힘들어\"",
-          "url": "https://www.newsis.com/view/NISX20261101_0003850014",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "콜 오브 듀티",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-02T03:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmcHAbMB-uHWFlhi2Vdeytcca_yzZMopUSqUKqSic8fLG37OiKIP0_ZHViOG4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "북한 PC방에 ‘콜 오브 듀티 4’가…북한군과 싸우는 게임도 있다",
-          "url": "https://weekly.khan.co.kr/article/202611020754001",
-          "source": "주간경향"
-        },
-        {
-          "title": "국정원, 김주애 '후계자 단계' 밟는다고 추측한 이유 [Y녹취록]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610301343552017",
+          "title": "K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로",
+          "url": "https://www.ytn.co.kr/_ln/0107_202610312323090902",
           "source": "YTN"
         },
         {
-          "title": "\"김주애 이름은 김주애?\"…국정원 첫 확인, 북한 발표는? [취재파일]",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822963",
-          "source": "SBS 뉴스"
+          "title": "수원 삼성, 승격잔치 다음에...수원FC는 자동 승격 유리한 고지 점령",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741103",
+          "source": "중부일보"
         }
       ]
     },
     {
-      "keyword": "부평구",
+      "keyword": "농업",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-02T03:50:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "startedAt": "2026-11-02T04:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKlNz5MjwFscx3AWBHNRGfEOnLB6P-dfo_9PZ-d5jvPagtDk9b2b32MABbP6E",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/02/2026110213391627658",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[게시판] 농식품부, 4∼7일 대구서 '2026 국제농기계자재박람회'",
+          "url": "https://stock.mk.co.kr/news/view/1186686",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "딸기 휴머노이드·자율주행 한자리에…'농기계자재박람회' 열려",
+          "url": "https://www.newspim.com/news/view/20261102000270",
+          "source": "뉴스핌"
+        }
+      ]
     },
     {
-      "keyword": "헤지펀드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T03:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4asZQ-YNGhpV3ct6rjUSuA375iMp3l5vaGRGnjFi37HiYcwWx4HfK3vy6eq4",
+      "keyword": "기인",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T04:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfnF7zj5CbceeoLCj7qDCXpOz8ZITnEtT2qeyCt0us0fwO4eJVf6F62ClJss",
+      "category": "기타",
+      "news": [
+        {
+          "title": "춘길X장혜리, 연습실 문까지 잠갔다…핑크빛 폭발 커플 요가 (천만기인쇼)",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134947673/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "‘천만기인쇼’ 표창원 파격 변신에 춘길·장혜리 묘한 기류… 195점 기록 깨질까",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3445033",
+          "source": "천지일보"
+        },
+        {
+          "title": "춘길, 장혜리와 묘한 핑크빛 기류? 수위부터 남다른 '커플 요가' 포착 (천만기인쇼)",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/02/MMZTIMZYME3WINDDGFRTKZBXMQ/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "철원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T04:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpZXoeL6zMXk2L9xcOoYQ8nmlhugaqX3GAS1b5Xk_xZ9d4dZZGM-CH68EtOc",
       "category": "정치·사회",
       "news": [
         {
-          "title": "\"이제 진짜 바닥 찍었나\"…4년 반 만에 벌어진 '이례적 현상' [도쿄나우]",
-          "url": "https://www.hankyung.com/article/202611028901i",
-          "source": "한국경제"
+          "title": "[속보]육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”···사고 경위 조사 중",
+          "url": "https://www.khan.co.kr/article/202611021114001",
+          "source": "경향신문"
         },
         {
-          "title": "日엔화, 4년 반 만에 '최소 변동폭'…헤지펀드 매도세 '8분의 1' 뚝",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02200886645641784",
-          "source": "마켓인"
+          "title": "육군 \"강원 철원 전방부대서 하사 1명 외상 입고 숨져\"",
+          "url": "https://news.jtbc.co.kr/article/NB12325985",
+          "source": "JTBC"
         },
         {
-          "title": "엔화, 美 중간선거 전 포지션 조정에 1달러=157엔대 중반 출발",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850535",
-          "source": "뉴시스"
+          "title": "[속보]철원 육군부대서 부사관 외상 입은 채 사망",
+          "url": "https://www.nocutnews.co.kr/news/6600525",
+          "source": "노컷뉴스"
         }
       ]
     },
     {
-      "keyword": "yaxel lendeborg",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZhurJopC2mU7Mg5X42Yzk8L0vUdobfW5-iPHw1r--EesXfnn_iOAnwp3TCg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"As you get older, you start to understand\" - Aaron Gordon admits he got caught up in NBA materialism early in his career",
-          "url": "https://www.basketballnetwork.net/off-the-court/aaron-gordon-admits-he-got-caught-up-in-nba-materialism-early-in-his-career",
-          "source": "Basketball Network"
-        },
-        {
-          "title": "Yaxel Lendeborg scores 37, carries Warriors to 124-112 win over Clippers",
-          "url": "https://www.goldenstateofmind.com/general/113158/yaxel-lendeborg-scores-37-carries-warriors-to-124-112-win-over-clippers",
-          "source": "Golden State Of Mind"
-        },
-        {
-          "title": "Stephen Curry and Yaxel Lendeborg have immediate chemistry",
-          "url": "https://www.nba.com/watch/video/stephen-curry-and-yaxel-lendeborg-chemistry-mix",
-          "source": "NBA.com"
-        }
-      ]
-    },
-    {
-      "keyword": "마쓰이 유키",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T03:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "직장폐쇄 우려? ERA 1.83 → PS 5G 비자책 마쓰이, 옵트아웃 실행 X…SD 잔류",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/02/GMZGCYZTMMZDIMLGMQ3DCMBSMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "샌디에이고, 좌완 불펜 마쓰이 옵트아웃 포기하고 하트 옵션 행사로 2027시즌 동행",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435060",
-          "source": "데일리스포츠한국"
-        },
-        {
-          "title": "'고우석과 엇갈린 희비' 마쓰이, SD 잔류…옵트아웃 NO→연봉 87억 확보",
-          "url": "https://isplus.com/article/view/isp202611020042",
-          "source": "일간스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "lakers vs raptors",
+      "keyword": "조경태",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-02T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJCMqoVpx7M4Y0OLbcZ1DAFnlQIsXR-DH66zw1EgrN3DeuW76Gh7m_PxV798",
-      "category": "스포츠",
+      "startedAt": "2026-11-02T04:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIFYVhHk_IEfxXOmD4ldTqjOiIPopxtedJ1PMHCvUNKodp9pkvbDIBoXlP62k",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "How to watch Lakers vs Raptors: Live stream NBA, TV channel",
-          "url": "https://www.thebiglead.com/how-to-watch-lakers-vs-raptors-live-stream-nba-tv-channel/",
-          "source": "The Big Lead"
+          "title": "[속보]이 대통령 “30년 만에 IMF 졸업···K자 성장 극복은 새 성장 공식으로”",
+          "url": "https://www.khan.co.kr/article/202611021017001",
+          "source": "경향신문"
         },
         {
-          "title": "[WATCHLIVE]NBA!] Los Angeles Lakers vs Toronto Raptors 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Football ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
-          "url": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldGRiZHMuZ2l0aHViLmlvL3Nwb3J0cy1zdHJlYW0taHViL2UueG1sIi8+PC9rcnBhbm8+&id=video-watchlivenba-los-angeles-lak-5vgippp8",
-          "source": "Pierce Manufacturing"
+          "title": "국민의힘 \"李대통령 시정연설, 미래세대 판돈 삼은 재정 도박\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/02/2026110214254245130",
+          "source": "머니투데이"
         },
         {
-          "title": "Raptors vs. Lakers: Prediction, How to Watch for Free (11/1/26)",
-          "url": "https://globelynews.com/americas/raptors-vs-lakers-prediction-how-to-watch-for-free-11-1-26/",
-          "source": "Globely News"
+          "title": "텅 빈 국힘 의원석에 남은 한 사람…대통령이 먼저 다가갔다 [현장영상]",
+          "url": "https://news.jtbc.co.kr/article/NB12325953",
+          "source": "JTBC"
+        }
+      ]
+    },
+    {
+      "keyword": "손태영",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf5MX1uJ00-hBdBkKo1aIPhD9Kgx0M4EIsPTkaukFGd8RZu4QIGAJmztfRqJ4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "손태영, 미국서 아들 시집살이…\"스트레스 확 올라와\"",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850414",
+          "source": "뉴시스"
+        },
+        {
+          "title": "손태영 “시어머니도 아니고 아들 시집살이”…룩희 때문에 스트레스",
+          "url": "https://sports.donga.com/ent/article/all/20261101/134946031/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "\"이모님 쓴적 없다\"... 손태영, 17살 아들 시집살이 고백 \"시母도 아닌데 스트레스\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/01/GZRTIMJQMM4TSNZRHFRWEM3FG4/",
+          "source": "조선일보"
         }
       ]
     }
