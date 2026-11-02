@@ -1,21 +1,17 @@
 {
-  "updatedAt": "2026-11-02T09:55:30.017Z",
+  "updatedAt": "2026-11-02T10:53:05.796Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 5
+    },
+    {
+      "category": "연예",
+      "count": 2
     },
     {
       "category": "경제",
       "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
     },
     {
       "category": "정치·사회",
@@ -24,27 +20,27 @@
   ],
   "items": [
     {
-      "keyword": "코스피",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-02T08:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1U7cKkcbTM4NxrEKhfMa0085JygLTwQOvkPgRkismYbPIz_nR6NtBqfVoYNI",
-      "category": "경제",
+      "keyword": "xrp",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3ahq9s8iPL0GwOio9Ms7fIe2GpuiiAkwXexzjCMlkaa1iYQkFeExltCGIYYk",
+      "category": "기타",
       "news": [
         {
-          "title": "개인 1.8조 팔 때 기관이 받았다…연기금 이틀 새 1조 '안전판' - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/02/2026110216034248456",
-          "source": "머니투데이"
+          "title": "XRP ETF draws inflows despite sharp drop, led by Franklin and Bitwise",
+          "url": "https://www.digitaltoday.co.kr/en/view/122562/xrp-etf-inflows-franklin-bitwise-lead-despite-price-drop",
+          "source": "디지털투데이"
         },
         {
-          "title": "[마감] 코스피, 기관 저가 매수에 2.24% 반등…’인텔 쇼크’ 딛고 5850선 By 알파경제 alphabiz",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2153125",
-          "source": "Investing.com 한국어"
+          "title": "Can XRP ETFs Maintain Their Winning Streak Despite Crypto Market Pressure?",
+          "url": "https://kalkinemedia.com/news/cryptocurrency/can-xrp-etfs-maintain-their-winning-streak-despite-crypto-market-pressure",
+          "source": "Kalkine Media"
         },
         {
-          "title": "삼전 1.8%·하이닉스 3.8%↑…장중 출렁하다 상승 마감(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261102033851008",
-          "source": "연합뉴스"
+          "title": "Ripple (XRP) ETFs Beat Every Major Rival in October: But Two Problems Remain",
+          "url": "https://cryptopotato.com/ripple-xrp-etfs-beat-every-major-rival-in-october-but-two-problems-remain/",
+          "source": "CryptoPotato"
         }
       ]
     },
@@ -62,30 +58,21 @@
           "source": "뉴시스"
         },
         {
+          "title": "미운 우리 새끼 : [11월 8일 예고] 김장훈×이소라, 이제서야 풀어보는 그 시절 이야기★ (ft. 열애설)",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482710047?div=live_end",
+          "source": "programs.sbs.co.kr"
+        },
+        {
           "title": "64세 김장훈, 57세 이소라와 열애설 났었다 “심지어 손 잡고 가”(‘미우새’)",
           "url": "https://www.koreadaily.com/article/20261101173638143",
           "source": "미주중앙일보"
-        },
-        {
-          "title": "“지금도 팔짱 껴” 이소라, 김장훈 집에서 설거지까지…‘열애설’ 자진 소환",
-          "url": "https://www.sedaily.com/article/20108935",
-          "source": "서울경제"
         }
       ]
     },
     {
-      "keyword": "고령화",
+      "keyword": "현대 제네시스",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-02T07:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "현대 제네시스",
-      "traffic": "500+",
-      "trafficValue": 500,
       "startedAt": "2026-11-02T08:10:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuJiVt8RigOq91tSLu5nVFABo3NdqMtXBNGCid5drUfwozn1kL5PPDvPr6QUk",
       "category": "기타",
@@ -108,27 +95,111 @@
       ]
     },
     {
-      "keyword": "홋카이도 닛폰햄 파이터스",
+      "keyword": "대구 한국가스공사 대 안양 정관장",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T09:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "한학자",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T09:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadCSVd3So5_8edW1rJJS_DH0McFUpiC4hHnWv2B89eA_3mfnsax2RVplgnT8",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "통일교 한학자, 보석 상태서 병원 이탈‥법원, 위반 여부 확인",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862538_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "한학자 재판부 \"서류 전달 안돼. 보석조건 준수?\" 변호인 \"그렇다\"...보석 이튿날부터 '병원→천정궁'",
+          "url": "https://news.jtbc.co.kr/article/NB12326026",
+          "source": "JTBC"
+        },
+        {
+          "title": "'병보석' 한학자, 병원 무단이탈…법원, 보석 조건 위반 여부 확인",
+          "url": "https://www.yna.co.kr/view/AKR20261102136000004",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "원익홀딩스",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-02T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1lsMfsIZ6h9Hzg9wOHl4_QM4rVN9wMJUsCel6H36G8UsVHtP19w8Oorosyn4",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShLp6c0oqymBm_qM2H5ow3cuTRN7_u_WXxUzMY2T3EBRPyBbqDsf3Eqzd2r0Q",
+      "category": "경제",
       "news": [
         {
-          "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
-          "url": "https://isplus.com/article/view/isp202611020108",
-          "source": "일간스포츠"
+          "title": "원익홀딩스, 삼성 P5 투자 가시화 '직수혜'…'휴머노이드 핵심' 로봇핸드 성장성까지 '주목'",
+          "url": "https://m.newsprime.co.kr/section_view.html?no=753179&menu=1",
+          "source": "프라임경제"
         },
         {
-          "title": "일본 가서 대박났네! 프란밀 레이예스, 닛폰햄과 4년 4000만$, 리그 최고 대우 계약 연장",
-          "url": "https://www.mk.co.kr/news/sports/12193479",
+          "title": "[리포트 브리핑]원익홀딩스, '실적개선(반도체)과 성장성(로봇)의 조화' Not Rated - iM증권",
+          "url": "https://www.newspim.com/news/view/20261102001323",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "원익홀딩스 주가 32% 상승…최원범 2위 도약 : 한국증시",
+          "url": "https://news.jkn.co.kr/post/1065794",
+          "source": "재경일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이미숙",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T09:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6cj0_gwkpBTsUCSKO8igqNaFfS2cgE_9oQoT0EcwNXc8w-KHuO1NVLJlwII",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"집 다 날아갔다\"…이미숙, 주식 손실 얼마길래",
+          "url": "https://www.hankyung.com/article/202611020422H",
+          "source": "한국경제"
+        },
+        {
+          "title": "“왜 늘그막에 주식을 해서”…이미숙, ‘집 날아간’ 투자 손실 고백",
+          "url": "https://www.mk.co.kr/news/culture/12193667",
           "source": "매일경제"
         },
         {
-          "title": "2019년 기쿠치 보고 동경…1년 전 포스팅 실패, 해외 FA로 다시 MLB 도전?",
-          "url": "https://isplus.com/article/view/isp202611020050",
-          "source": "일간스포츠"
+          "title": "생전 안 하던 주식 뛰어든 이미숙…급락장에 \"집 날아갔다\"",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04070486645641784&mediaCodeNo=257",
+          "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "하남시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T09:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrLT1l0-WPjz_-KmZ_G7Eobt4m_JXGzyqfL8j2qTsr9DWGMTuBXtbHhsu35Zw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "2018년 불소 검출 8년 공방…하남시, 한강 폐천부지 소송 1심 승소",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335720",
+          "source": "인천일보"
+        },
+        {
+          "title": "한강 폐천부지 정화책임 소송, 하남시 승소…환경청 소 각하",
+          "url": "https://www.yna.co.kr/view/AKR20261102145400061",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "“오염된 국유지 정화책임은 환경청에”…하남시 1심 승소",
+          "url": "https://www.munhwa.com/article/11628124",
+          "source": "문화일보"
         }
       ]
     },
@@ -158,102 +229,27 @@
       ]
     },
     {
-      "keyword": "원익홀딩스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShLp6c0oqymBm_qM2H5ow3cuTRN7_u_WXxUzMY2T3EBRPyBbqDsf3Eqzd2r0Q",
-      "category": "경제",
+      "keyword": "하이브",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T09:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-utYmkDQib4KdW_xTiXYK5itwRHzVQJ7FFKBgNMkQxKXb8kGe_KMv327DrTs",
+      "category": "연예",
       "news": [
         {
-          "title": "원익홀딩스, 삼성 P5 투자 가시화 '직수혜'…'휴머노이드 핵심' 로봇핸드 성장성까지 '주목'",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=753179&menu=1",
-          "source": "프라임경제"
+          "title": "하이브, 사원 여권·카드번호 등 개인정보 유출‥\"깊이 사과\"",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6862537_36932.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "[리포트 브리핑]원익홀딩스, '실적개선(반도체)과 성장성(로봇)의 조화' Not Rated - iM증권",
-          "url": "https://www.newspim.com/news/view/20261102001323",
-          "source": "뉴스핌"
+          "title": "하이브 사내 시스템 외부 비정상 접근…\"일부 협력사·임직원 개인정보 유출\"",
+          "url": "https://www.newsis.com/view/NISX20261102_0003851133",
+          "source": "뉴시스"
         },
         {
-          "title": "[코스닥 외국인] 원익홀딩스 집중 매수…안랩은 대거 팔았다",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500644",
-          "source": "핀포인트뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "박수현",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T08:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw1wS4OcZqXDjnBFYWpVv-M5_cmNA9w_dmW4vtWjP46u0XQzbaW4WhRdOuUOk",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "아침 7시, 동네 빵집 갔더니 “어디서 많이 본 사람인데”···도지사가 ‘첫 손님’ 된 이유",
-          "url": "https://www.khan.co.kr/article/202611021012001",
-          "source": "경향신문"
-        },
-        {
-          "title": "박수현 \"국방기관 14곳 논산·계룡 유치 총력…국방수도 육성\"",
-          "url": "https://www.yna.co.kr/view/AKR20261102142700063",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "박수현 충남지사 ’소상공인 기 살리기 프로젝트’ 착수…소상공인 응원",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102101504LSK",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "샘스미스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_hClcLP6RAjztOFSWa1F87m-DUP2oOVK0XblyU65PF97KCPWLIJIgHBUpJi4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "샘 스미스, ‘망사스타킹+브래지어’ 파격 변신…“너무 예뻐 보인다”",
-          "url": "https://www.sportsseoul.com/news/read/1646002",
-          "source": "스포츠서울"
-        },
-        {
-          "title": "샘 스미스, 초록 실크 가운·망사 스타킹 파격 패션 공개",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622438",
-          "source": "메디컬투데이"
-        },
-        {
-          "title": "샘 스미스, 커밍아웃→약혼 후 근황…과감한 패션",
-          "url": "https://www.newsen.com/news_view.php?uid=202611020806270410",
-          "source": "뉴스엔"
-        }
-      ]
-    },
-    {
-      "keyword": "k리그",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFAOwtFN5hHkOrmTOxAG0HLqnOMTCsFouKahPZPe1_1UrBw6PTUFJri1cKrRE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "최대 4팀 올라간다! 수원 삼성, 4년 만의 K리그1 복귀까지 승점 1점…‘공동 연고’ 수원FC와 동반 승격 가능성↑…PO 경쟁도 치열",
-          "url": "https://sports.donga.com/sports/article/all/20261102/134950129/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "[k2.live] '팔꿈치에 얼굴 맞고 눈 퉁퉁...결국 응급실행' 부상에 김해운 감독 분통 \"VAR 봤어야 하지 않나?\"",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99838",
-          "source": "포포투"
-        },
-        {
-          "title": "[K리그2 기자회견] 이정효 감독 \"7연승? 2부에서 기록 무의미해…우린 1부 올라갈 거다, 얼마 안 남았다\"",
-          "url": "https://m.news.nate.com/view/20261025n11271?issue_sq=10989",
-          "source": "네이트"
+          "title": "하이브, 직원 주민번호·여권번호에 의료정보까지 유출…“깊이 사과”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701497",
+          "source": "KBS 뉴스"
         }
       ]
     }
