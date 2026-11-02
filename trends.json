@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T15:53:16.891Z",
+  "updatedAt": "2026-11-02T16:56:24.039Z",
   "summary": [
     {
       "category": "스포츠",
@@ -14,87 +14,87 @@
       "count": 2
     },
     {
-      "category": "연예",
+      "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "파흐타코르 대 알나스르",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-02T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMwkwOyPIuvvIiujudBB6RTz9-hQu9cfdq3elUvO7RSd6Q-uw4UDTDJo-T34",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Cristiano Ronaldo Excluded from Al Nassr’s ACL Squad for Uzbekistan Match",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/03/2DUKZROJHBEPZJXVYEL3O2CE54/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Following Cristiano's exclusion: Postecoglou surprises with Al-Nassr's line-up in the AFC Champions League Elite",
-          "url": "https://www.goal.com/en/news/after-cristiano-s-exclusion-postecoglou-shakes-up-al-nassr-s-line-up-in-the-afc-champions-league-elite/blt64094b9723b4d0e6",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Al Nassr vs Pakhtakor Head to Head: Overall Stats, Records & Results",
-          "url": "https://www.sportsdunia.com/football-analysis/al-nassr-vs-pakhtakor-head-to-head-record-stats-results",
-          "source": "Sportsdunia"
-        }
-      ]
-    },
-    {
-      "keyword": "윤영미",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-02T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTT5pebbceh1rqoqcNu_RrepA_403_mIDCi9y3znFwdU_RMob6zC7pJFetTO2k",
+      "keyword": "김지영",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T15:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRW8t7ExA8uRnKO_krtK9FTFfiao2BaHL0PIdWylOk1zCiHIPN5fARsjW7X-tE",
       "category": "기타",
       "news": [
         {
-          "title": "윤영미 \"아들 500만원 뉴욕 월세방서 내 침실은 옷장\"",
-          "url": "https://www.newsis.com/view/NISX20261102_0003851774",
-          "source": "뉴시스"
+          "title": "김지영, 故 최불암 조문 패션에 “예의 아니다” 시끌",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/11/02/20261102500324",
+          "source": "서울신문"
         },
         {
-          "title": "윤영미, 아들 유학 26억 지원… \"뉴욕 500만원 월세방, 옷장서 자\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110215244724355",
-          "source": "머니투데이"
+          "title": "\"가도 논란, 안 가도 논란\"…故 최불암 마지막 길, 지나친 잣대들",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-02/202611020100015060001319",
+          "source": "스포츠조선"
         },
         {
-          "title": "`유학비 26억` 윤영미, 子 뉴욕집 옷장 살이…\"5평 방·월세 500만원\"",
-          "url": "https://mydaily.co.kr/page/view/2026110213265458683",
+          "title": "\"장례식장에 가죽재킷+금체인?\"…故 최불암 빈소 찾은 김지영, '뜻밖의 복장 논란' 터졌다[MD이슈]",
+          "url": "https://mydaily.co.kr/page/view/2026110220571690954",
           "source": "마이데일리"
         }
       ]
     },
     {
-      "keyword": "초록우산 어린이재단",
+      "keyword": "김태균",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-02T13:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZLVvif0-Nr5gGdRj0qLnLNC-N2veVCUcrmoiuv208q-AiKkNTPe9be99XbME",
-      "category": "기타",
+      "startedAt": "2026-11-02T15:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKL1Bb0liEJD6t39pOBiF7d23eD3NnSSKWg9YcjpiNg2Jf7ugvzKePkKp6GJg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "’국민 아버지’ 故 최불암 발인 엄수…눈물 속 배웅",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261102142843haM",
-          "source": "연합뉴스TV"
+          "title": "김태균·오승환 합류한 APBC 대표팀…도쿄돔 응원 열기도 달군다",
+          "url": "https://www.segye.com/newsView/20261102515720",
+          "source": "세계일보"
         },
         {
-          "title": "\"나 가거든 꼭 재단 들러줘\" 도열한 직원들 '오열' 배웅 [현장영상]",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862567_36918.html",
-          "source": "MBC 뉴스"
+          "title": "\"캐치볼도 잘 안 되는데 어떻게 프로에…\" 국대 수석코치 조성환, 韓 야구 기본기 부족에 쓴소리",
+          "url": "https://sports.news.nate.com/view/20261102n25058",
+          "source": "네이트"
         },
         {
-          "title": "연기자의 길에 ‘수도자’의 마음…이웃을 사랑했던 ‘프란치스코’ 최불암 [현장영상]",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701418",
+          "title": "최민석, 신영우 낙마 ‘박사 출신 최원호의 묘안은?’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701920",
           "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "크랙",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgV2RfKXVVfi5k_upiKk1FunYhjecXfiNxr7EtICJ0OqaVeb-nCedMpdOu60s",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇슈#태그]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700914",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[김국현의 과학기술 유행어 도감] [22] 아이폰 ‘힌지니어’의 굴욕",
+          "url": "https://www.chosun.com/opinion/specialist_column/2026/11/02/E2NIJ7YCFBF3NIDTUYWV2JSPHM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'애플 폴더블폰' 아이폰 듀오, 14만 번 접었더니",
+          "url": "https://zdnet.co.kr/view/?no=20261102095925",
+          "source": "지디넷코리아"
         }
       ]
     },
@@ -124,31 +124,6 @@
       ]
     },
     {
-      "keyword": "알나스르",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T14:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QIXNeeZrpkMn2WWnoDTdRduSepe27zKKK72hewUXTQW4FfcvBIZGyC1w9J0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "AFC 챔피언스 리그 파흐타코르 타슈켄트 대 알나스르 생중계 링크",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-pakhtakor-tashkent-vs-al-nassr-tai-afc-champions-league-1793409.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "알 와슬 FC vs 알 쿠와 알 자위야 경기 예측: 선두 경쟁의 뜨거운 대결",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-al-wasl-fc-vs-al-quwa-al-jawiya-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "파크타코르 vs 알 나스르 예측: 상위권 경쟁의 뜨거운 승부",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-pakhtakor-vs-al-nassr-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
       "keyword": "손정범",
       "traffic": "100+",
       "trafficValue": 100,
@@ -174,27 +149,52 @@
       ]
     },
     {
+      "keyword": "알나스르",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T14:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QIXNeeZrpkMn2WWnoDTdRduSepe27zKKK72hewUXTQW4FfcvBIZGyC1w9J0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "AFC 챔피언스 리그 파흐타코르 타슈켄트 대 알나스르 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-pakhtakor-tashkent-vs-al-nassr-tai-afc-champions-league-1793409.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "알 와슬 FC vs 알 쿠와 알 자위야 경기 예측: 선두 경쟁의 뜨거운 대결",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-al-wasl-fc-vs-al-quwa-al-jawiya-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "파크타코르 vs 알 나스르 예측: 상위권 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-pakhtakor-vs-al-nassr-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
       "keyword": "pakhtakor đấu với al-nassr",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-02T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsiW7x0s6-iT4imWbDN73VTP46s87IWIUKwjRW-ry1kCDxn5l9sdNhnFn1tEw",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwds0hFcSmDEpwLmCW_KCZX8Y9uk6_11Fk3TQVMi_Cv3cT6ob3rh-TwhU1q6w",
       "category": "스포츠",
       "news": [
-        {
-          "title": "Nhận định bóng đá Pakhtakor vs Al Nassr, 20h45 ngày 2/11: Vắng Ronaldo cũng chẳng sao!",
-          "url": "https://bongdaplus.vn/afc-champions-league/nhan-dinh-bong-da-pakhtakor-vs-al-nassr-20h45-ngay-2-11-vang-ronaldo-cung-chang-sao-5277332611.html",
-          "source": "Tạp chí Bóng đá"
-        },
         {
           "title": "Nhận định Pakhtakor vs Al Nassr: Ronaldo lại tỏa sáng?, 20h45 ngày 2/11/2026",
           "url": "https://thethao247.vn/441-nhan-dinh-pakhtakor-vs-al-nassr-ronaldo-lai-toa-sang-20h45-ngay-2-11-2026-c288-d443121.html",
           "source": "Thể Thao 247"
         },
         {
-          "title": "Cristiano Ronaldo vắng mặt tại AFC Champions League, an ninh đe dọa lịch tổ chức Asian Cup",
-          "url": "https://baoquangninh.vn/cristiano-ronaldo-vang-mat-tai-afc-champions-league-an-ninh-de-doa-lich-to-chuc-asian-cup-post3425819.html",
-          "source": "Báo Quảng Ninh"
+          "title": "TRỰC TIẾPTrực tiếp Pakhtakor vs Al-Nassr: Hết hiệp 1, Al-Nassr dẫn 3-1",
+          "url": "https://www.vietnam.vn/nl/truc-tieptruc-tiep-pakhtakor-vs-al-nassr-het-hiep-1-al-nassr-dan-3-1",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Al Nassr bất ngờ loại Ronaldo ở AFC Champions League",
+          "url": "https://dantri.com.vn/the-thao/al-nassr-bat-ngo-loai-ronaldo-o-afc-champions-league-20261102165654983.htm",
+          "source": "Báo Dân trí"
         }
       ]
     },
@@ -228,7 +228,7 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-02T14:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8JMGoOw9HrzsIyvMtkKNmvmC0ba9Hy6_QxgYhAPEeHjUyQYApersILqwTH4Q",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSz0Cj3HMVS6oasW384C5opphTCVpRHSnghJBxgepHismmFwg9sVhnYpkOQbL8",
       "category": "경제",
       "news": [
         {
@@ -253,23 +253,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-02T13:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl69zih5TUu6wPESEFQRk4fhOi4YqI49nxuFS0dap1o4FgbedsAR4COFBaBdM",
-      "category": "정치·사회",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbdXhK59K0oy-UCDf5kdB0wQjLy5k5YGJofSCl11MzczE9ibXqU6UAiGpvBpM",
+      "category": "기타",
       "news": [
         {
-          "title": "대한민국 최초 軍 통신위성 ‘아나시스 1호’ 임무 성공적 완수 후 명예로운 퇴역식",
-          "url": "https://www.munhwa.com/article/11628204",
-          "source": "문화일보"
+          "title": "자유 대한민국의 초석 이승만… 교과서에선 ‘反통일세력’처럼 묘사",
+          "url": "https://www.chosun.com/culture-life/relion-academia/2026/11/03/LBASDTZHXJBLVBSQ5FL5WXZS54/",
+          "source": "조선일보"
         },
         {
-          "title": "헤이그 특사단 대표 이상설, 부사보다 낮은 훈격…서훈 재평가 촉구",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108481",
-          "source": "충청매일"
+          "title": "우남네트워크, '한국사 교과서와 이승만’ 학술대회 4일 개최",
+          "url": "https://www.paxetv.com/news/articleView.html?idxno=285783",
+          "source": "팍스경제TV"
         },
         {
-          "title": "충북도의회 김성우 의원 \"이상설 선생 대한민국장 추서 절실\"",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739911",
-          "source": "국제뉴스"
+          "title": "내달 4일 한국사 교과서·이승만 관련 학술대회 개최",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/26/2026102600324.html",
+          "source": "뉴데일리"
         }
       ]
     }
