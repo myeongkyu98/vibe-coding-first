@@ -1,13 +1,9 @@
 {
-  "updatedAt": "2026-11-02T10:53:05.796Z",
+  "updatedAt": "2026-11-02T11:47:06.292Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "연예",
-      "count": 2
+      "count": 6
     },
     {
       "category": "경제",
@@ -16,147 +12,67 @@
     {
       "category": "정치·사회",
       "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "xrp",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-02T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3ahq9s8iPL0GwOio9Ms7fIe2GpuiiAkwXexzjCMlkaa1iYQkFeExltCGIYYk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "XRP ETF draws inflows despite sharp drop, led by Franklin and Bitwise",
-          "url": "https://www.digitaltoday.co.kr/en/view/122562/xrp-etf-inflows-franklin-bitwise-lead-despite-price-drop",
-          "source": "디지털투데이"
-        },
-        {
-          "title": "Can XRP ETFs Maintain Their Winning Streak Despite Crypto Market Pressure?",
-          "url": "https://kalkinemedia.com/news/cryptocurrency/can-xrp-etfs-maintain-their-winning-streak-despite-crypto-market-pressure",
-          "source": "Kalkine Media"
-        },
-        {
-          "title": "Ripple (XRP) ETFs Beat Every Major Rival in October: But Two Problems Remain",
-          "url": "https://cryptopotato.com/ripple-xrp-etfs-beat-every-major-rival-in-october-but-two-problems-remain/",
-          "source": "CryptoPotato"
-        }
-      ]
-    },
-    {
-      "keyword": "김장훈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-02T08:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXX5-QpivffMlFqh1JAjloJseAO24QSGpYQRHqP7J37sfvdgwJQlqpBor8OuM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "'64세' 김장훈, 국민연금 예상액 듣고 깜짝 \"그렇게 많이 줘요?\"",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850381",
-          "source": "뉴시스"
-        },
-        {
-          "title": "미운 우리 새끼 : [11월 8일 예고] 김장훈×이소라, 이제서야 풀어보는 그 시절 이야기★ (ft. 열애설)",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC482710047?div=live_end",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "64세 김장훈, 57세 이소라와 열애설 났었다 “심지어 손 잡고 가”(‘미우새’)",
-          "url": "https://www.koreadaily.com/article/20261101173638143",
-          "source": "미주중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "현대 제네시스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-02T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuJiVt8RigOq91tSLu5nVFABo3NdqMtXBNGCid5drUfwozn1kL5PPDvPr6QUk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "현대차 생산라인 또 멈췄다…G80 신차 투입 인력 놓고 노사 충돌 - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/02/2026110214030671642",
-          "source": "머니투데이"
-        },
-        {
-          "title": "신차 투입 갈등에 제네시스 생산 차질…노조, 재개 여부 논의(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261102116051057",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "1.1조 물량 손실에 판매목표까지 낮췄는데⋯ 투싼 발목 잡은 현대차 노조, G80도 멈췄다",
-          "url": "https://www.viva100.com/article/20261102501016",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "대구 한국가스공사 대 안양 정관장",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T09:50:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "한학자",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T09:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSadCSVd3So5_8edW1rJJS_DH0McFUpiC4hHnWv2B89eA_3mfnsax2RVplgnT8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "통일교 한학자, 보석 상태서 병원 이탈‥법원, 위반 여부 확인",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862538_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "한학자 재판부 \"서류 전달 안돼. 보석조건 준수?\" 변호인 \"그렇다\"...보석 이튿날부터 '병원→천정궁'",
-          "url": "https://news.jtbc.co.kr/article/NB12326026",
-          "source": "JTBC"
-        },
-        {
-          "title": "'병보석' 한학자, 병원 무단이탈…법원, 보석 조건 위반 여부 확인",
-          "url": "https://www.yna.co.kr/view/AKR20261102136000004",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "원익홀딩스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShLp6c0oqymBm_qM2H5ow3cuTRN7_u_WXxUzMY2T3EBRPyBbqDsf3Eqzd2r0Q",
+      "keyword": "은마아파트",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-02T10:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOZGk-z_SEsIuMsCD8f45_fDrF8rbaruCg2fjYlm070h7xm_TXnNQMybFoFLI",
       "category": "경제",
       "news": [
         {
-          "title": "원익홀딩스, 삼성 P5 투자 가시화 '직수혜'…'휴머노이드 핵심' 로봇핸드 성장성까지 '주목'",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=753179&menu=1",
-          "source": "프라임경제"
+          "title": "'대치동 은마' 100억대 펜트하우스 경쟁률 0.18대 1…조합원들 뜻밖의 선택",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110201698.html",
+          "source": "땅집고"
         },
         {
-          "title": "[리포트 브리핑]원익홀딩스, '실적개선(반도체)과 성장성(로봇)의 조화' Not Rated - iM증권",
-          "url": "https://www.newspim.com/news/view/20261102001323",
-          "source": "뉴스핌"
+          "title": "[단독] 은마, 국평 늘리고 일반분양 더…설계 바꾼다",
+          "url": "https://biz.sbs.co.kr/article/20000343601",
+          "source": "SBS Biz"
         },
         {
-          "title": "원익홀딩스 주가 32% 상승…최원범 2위 도약 : 한국증시",
-          "url": "https://news.jkn.co.kr/post/1065794",
-          "source": "재경일보"
+          "title": "분담금 급증…은마 조합원, '국평'에 몰렸다",
+          "url": "https://www.hankyung.com/article/2026110209711",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "민호",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-02T10:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlc3qTLGjmcUcI1peKT2e4BruHfL6OKv7-hdp99Svf5asdY_QArAxALfbRaww",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[DM왔어요] 샤이니 민호 마라톤 완주에 ‘반칙 논란’…\"뒤에서 누가 밀어줬다?\" 外",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026110218475879P",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "샤이니 민호, 마라톤 ‘실격 논란’···대회 규정엔 ‘미는 조력’ 금지",
+          "url": "https://sports.khan.co.kr/article/202611021323003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "민호, '마라톤 42㎞' 3시간18초에 완주했는데…설왕설래 왜?",
+          "url": "https://www.newsis.com/view/NISX20261102_0003851023",
+          "source": "뉴시스"
         }
       ]
     },
     {
       "keyword": "이미숙",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-02T09:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6cj0_gwkpBTsUCSKO8igqNaFfS2cgE_9oQoT0EcwNXc8w-KHuO1NVLJlwII",
       "category": "경제",
@@ -179,59 +95,68 @@
       ]
     },
     {
-      "keyword": "하남시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T09:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrLT1l0-WPjz_-KmZ_G7Eobt4m_JXGzyqfL8j2qTsr9DWGMTuBXtbHhsu35Zw",
+      "keyword": "대구 한국가스공사 대 안양 정관장",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T09:50:00.000Z",
+      "picture": "",
       "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "한학자",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-02T09:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHg0-gmTwistTDVeFry6UQ_F05LZ6CJ5J7Nhcs0qMfULOuLBD74IUjxqb-J74",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "2018년 불소 검출 8년 공방…하남시, 한강 폐천부지 소송 1심 승소",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335720",
-          "source": "인천일보"
+          "title": "[단독] ‘병 보석’ 한학자, 수시로 병원 빠져나와 ‘통일교 궁전행’",
+          "url": "https://news.jtbc.co.kr/article/NB12326043",
+          "source": "JTBC"
         },
         {
-          "title": "한강 폐천부지 정화책임 소송, 하남시 승소…환경청 소 각하",
-          "url": "https://www.yna.co.kr/view/AKR20261102145400061",
+          "title": "통일교 한학자, 보석 상태서 병원 이탈‥법원, 위반 여부 확인",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862538_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "'천정궁에 외출' 한학자 보석취소심문…재판부 \"당황스러워\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261102136051004",
           "source": "연합뉴스"
-        },
-        {
-          "title": "“오염된 국유지 정화책임은 환경청에”…하남시 1심 승소",
-          "url": "https://www.munhwa.com/article/11628124",
-          "source": "문화일보"
         }
       ]
     },
     {
-      "keyword": "신영우",
+      "keyword": "rashid khan",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-02T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHp5I0wqn-KU1teYtD02CyEiPKB4G8_goAIOC_iZsL-czu5eMhFQsLyox-E2U",
+      "startedAt": "2026-11-02T10:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe92mtjwl9xhuEXU55UYl9cYzWXS70faMXa4WBmVgWK2Lafibax5uGGrSMDXk",
       "category": "기타",
       "news": [
         {
-          "title": "두산 최민석·NC 신영우, 팔꿈치 부상으로 APBC 대표팀 낙마",
-          "url": "https://www.yna.co.kr/view/AKR20261102084200007",
-          "source": "연합뉴스"
+          "title": "Kathmandu Gorkhas chase down 181-run target with two balls to spare",
+          "url": "https://english.nepalnews.com/s/sports/kathmandu-gorkhas-chase-down-181-run-target-with-two-balls-to-spare/",
+          "source": "Nepalnews.com"
         },
         {
-          "title": "태극마크 불발 충격! '스무살' 14승 우완 팔꿈치 탈났다, 부상 어느 정도인가 \"염좌 증세, 日서 회복 훈련 전념\"",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/02/MQYDMZBQGIYDIMBVMRRTGOBUME/",
-          "source": "조선일보"
+          "title": "Kathmandu’s Rashid Khan Scores Half-Century Against Karnali Yaks in NPL",
+          "url": "https://english.ratopati.com/story/85447/rashid-khan-is-out-after-scoring-a-half-century",
+          "source": "Ratopati"
         },
         {
-          "title": "김태균·오승환 APBC 인스트럭터 합류…최민석·신영우 부상 낙마(종합)",
-          "url": "https://www.news1.kr/sports/baseball/6339905",
-          "source": "뉴스1"
+          "title": "Karnali Yaks Lose Fourth Wicket Against Gurkhas",
+          "url": "https://english.ratopati.com/story/85420/karnali-lost-their-fourth-wicket-in-93-overs-scoring-80-runs-with-4-players-out",
+          "source": "Ratopati"
         }
       ]
     },
     {
       "keyword": "하이브",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-02T09:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-utYmkDQib4KdW_xTiXYK5itwRHzVQJ7FFKBgNMkQxKXb8kGe_KMv327DrTs",
       "category": "연예",
@@ -250,6 +175,65 @@
           "title": "하이브, 직원 주민번호·여권번호에 의료정보까지 유출…“깊이 사과”",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8701497",
           "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "하남시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T09:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrLT1l0-WPjz_-KmZ_G7Eobt4m_JXGzyqfL8j2qTsr9DWGMTuBXtbHhsu35Zw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "2018년 불소 검출 8년 공방…하남시, 한강 폐천부지 소송 1심 승소",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335720",
+          "source": "인천일보"
+        },
+        {
+          "title": "하남시, 한강 폐천부지 토양정화 소송 1심 승소",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=800920",
+          "source": "일간투데이"
+        },
+        {
+          "title": "“오염된 국유지 정화책임은 환경청에”…하남시 1심 승소",
+          "url": "https://www.munhwa.com/article/11628124",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "연구",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T10:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "김경란",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T10:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPzTqCkOYucwoh00H6SSizkiRcWKVS7Jcuh61-CIIXxHdGvCNRJYXDnFVZBnE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"나 가거든 꼭 재단 들러줘\" 도열한 직원들 '오열' 배웅 [현장영상]",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862567_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[이슈5] ’영원한 국민 아버지’ 故 최불암…눈물 속 발인 外",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611021948292fB",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "“이제 아이들은 맡겨 주시고 편히 쉬시라”… ‘국민 아버지’이자 ‘큰 나무’ 최불암의 마지막 길",
+          "url": "https://www.chosun.com/national/people/2026/11/02/H2LBZAYB45HLRD2FLZH47G2Q4Y/",
+          "source": "조선일보"
         }
       ]
     }
