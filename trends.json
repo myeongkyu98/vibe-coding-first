@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-03T15:44:11.274Z",
+  "updatedAt": "2026-11-03T16:48:33.422Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
+    },
+    {
+      "category": "스포츠",
+      "count": 3
     },
     {
       "category": "경제",
       "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 1
     },
     {
       "category": "IT·과학",
@@ -33,46 +33,21 @@
           "source": "Chosunbiz"
         },
         {
-          "title": "Samsung Lions 7-8 KT Wiz in Korean Series Game 1 — as it happened",
-          "url": "https://www.koreajoongangdaily.com/sports/samsung-lions-78-kt-wiz-in-korean-series-game-1-as-it-happened/12952792",
-          "source": "Korea JoongAng Daily"
+          "title": "American slugger Hilliard delivers key plays with bat, glove in 1st KBO postseason game",
+          "url": "https://en.yna.co.kr/view/AEN20261103013100315",
+          "source": "Yonhap News Agency"
         },
         {
-          "title": "Former MLB player from Mansfield slugs his way into Korea’s World Series",
-          "url": "https://sports.yahoo.com/articles/former-mlb-player-mansfield-slugs-210140911.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "양도소득세",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-03T12:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQad-XqTzaE0cwdH_LbF06Sz8dYVICO8ddo2bGsVen81710vxwqfRaE3cgpZnE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
-          "url": "https://www.yna.co.kr/view/AKR20261103075200002",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
-          "url": "https://www.munhwa.com/article/11628518",
-          "source": "문화일보"
+          "title": "Davis Daniel (KT Wiz) showed off the dignity of the wizard corps ace.Danyel took the mound as KT's s..",
+          "url": "https://www.mk.co.kr/en/sports/12195296",
+          "source": "매일경제"
         }
       ]
     },
     {
       "keyword": "한국항공우주산업",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-03T13:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4qvGuC9aAK9qSfCBi7TRqlKEptxZH7Jz2Zgu8AAAS-ZPjEc7LITdQOlkKlk",
       "category": "IT·과학",
@@ -95,6 +70,81 @@
       ]
     },
     {
+      "keyword": "폰지 사기",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T13:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIM5gSNBQGsfpuhilDCCrtdrqzvwCdhWtWqiGDj8rAhIxWJ2QggNnK_7Omhs4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702352",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "“미리 얘기하면 원금 반환” 수강생 꼬드긴 부동산 유튜버",
+          "url": "https://www.kyeongin.com/article/1774046",
+          "source": "경인일보"
+        }
+      ]
+    },
+    {
+      "keyword": "코너 맥그리거",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T15:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98rYjNKGFkkcMSoEQgn3yRyOg3J-khygHYyBXuf_WziMAIcFBzBGmO0BS6g8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "UFC 레전드 코너 맥그리거, '라스트 댄스' 종합격투기 복귀 예고",
+          "url": "https://hypebeast.kr/2026/11/ufc-conor-mcgregor-announces-final-fight-last-dance-mma-return-news",
+          "source": "Hypebeast.KR"
+        },
+        {
+          "title": "'69초 만에 402억' 맥그리거, 은퇴 예고했다…카넬로 경기 흥행 저격→\"내 마지막 경기는 제대로 홍보할 것\"",
+          "url": "https://www.xportsnews.com/article/2214467",
+          "source": "엑스포츠뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "종합부동산세",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T15:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHZIwX5ZpPoGn18xPKcWqQ1nfRlUkYnNZUUheF4Wtzgsz2Sfr_8XEqkUYkkrg",
+      "category": "경제",
+      "news": [
+        {
+          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
+          "url": "https://www.mk.co.kr/news/realestate/12194970",
+          "source": "매일경제"
+        },
+        {
+          "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112",
+          "source": "마켓인"
+        },
+        {
+          "title": "“징벌적 과세” vs “방향은 옳아”...세제개편 공청회 보유세 공방",
+          "url": "https://www.sedaily.com/article/20109806",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
       "keyword": "small business",
       "traffic": "200+",
       "trafficValue": 200,
@@ -108,39 +158,14 @@
           "source": "The Guardian"
         },
         {
-          "title": "U.S. Small Business Employment Trends Hold Steady in October",
-          "url": "https://www.morningstar.com/news/globe-newswire/9868193/us-small-business-employment-trends-hold-steady-in-october",
-          "source": "Morningstar"
+          "title": "Holiday Shoppers Plan to Spend More at Small Businesses. Many Owners Overlook 1 Key Priority",
+          "url": "https://www.inc.com/rachel-suleymanov/holiday-shoppers-plan-spend-more-small-businesses-owners-overlook-1-key-priority/91430057",
+          "source": "Inc.com"
         },
         {
-          "title": "Gusto Small Business Jobs and Pay Report: Small Businesses Add 38,000 Jobs in October, Marking Ninth Straight Month of Growth",
-          "url": "https://www.prnewswire.com/news-releases/gusto-small-business-jobs-and-pay-report-small-businesses-add-38-000-jobs-in-october-marking-ninth-straight-month-of-growth-302927134.html",
-          "source": "PR Newswire"
-        }
-      ]
-    },
-    {
-      "keyword": "폰지 사기",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T13:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHPfBDdxu0F522N9nXNMryYFT-JYkCw5Xe-Ic1WfNOiVTi0SsfWVQK03hkXM",
-      "category": "경제",
-      "news": [
-        {
-          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "“미리 얘기하면 원금 회수” 수강생 꼬드긴 부동산 유튜버",
-          "url": "https://www.kyeongin.com/article/1774046",
-          "source": "경인일보"
+          "title": "Why Holiday Shoppers Are Choosing Small Businesses And How To Win Them Over",
+          "url": "https://www.forbes.com/sites/noemi-kis/2026/11/03/why-holiday-shoppers-are-choosing-small-businesses-and-how-to-win-them-over/",
+          "source": "Forbes"
         }
       ]
     },
@@ -149,23 +174,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T12:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6WG-Q2kc0DU3sVcMaw49FDgcJeTUUTmGu-yrXNyWIKAii8yhzvE9telhtCwU",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvUBSZLm4j1n9yGTRRkJf_wEsmT4VM_n89b2TXPUdYJnzIPNd01MCOd7PjDWs",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-          "source": "CoinDesk"
+          "title": "[포토] 김영웅 '유후후 무사 만루다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321143392274",
+          "source": "머니투데이"
         },
         {
-          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
-          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html",
-          "source": "GlobeNewswire"
+          "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/",
+          "source": "조선일보"
         },
         {
-          "title": "Bitcoin (BTC) White Paper Marks 18 Years as U.S. ETFs Hold 1.28M BTC",
-          "url": "https://www.tokenpost.com/news/investing/45850",
-          "source": "www.tokenpost.com"
+          "title": "KT와 점수차 좁히는 이재현의 적시타",
+          "url": "https://www.newsis.com/view/NISI20261103_0021517730",
+          "source": "뉴시스"
         }
       ]
     },
@@ -183,48 +208,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-03T13:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo1tiQCiKKwvEWBr-mlGnSShvFb_sfWYJeTwPt9SVIsQrQOKAXbZXmiCMtQ3w",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSAxk2uI3V1WwLsKVOjQ0uLVxqj0-7vWu1DXXgvB_XKGPzcC0KBdQ4eAFhzn0",
       "category": "기타",
       "news": [
         {
-          "title": "Live updates: 2026 US midterm elections and results",
-          "url": "https://www.bbc.com/news/live/cj1dw0ydn595t",
-          "source": "BBC"
+          "title": "How to watch live 2026 midterm election results on CBS News",
+          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
+          "source": "CBS News"
         },
         {
-          "title": "Polling Stations Busy From Early Morning... Trump Faces 'Day of Destiny'",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008829128",
-          "source": "SBS 뉴스"
+          "title": "For Midterms Night, a TV Schedule Overflowing With Options",
+          "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
+          "source": "The New York Times"
         },
         {
-          "title": "US midterms set to reshape Congress, test Trump and 2028 race",
-          "url": "https://biz.chosun.com/en/en-international/2026/11/03/VTW5C6TOFFET7K55OK63UDG3CE/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "이재현",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGEGvkex9zEtlBY9ateQb-Tc6uqgdLE0earoVJgY4QRTnt_S570k-Hwrd6NYQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[사진]실점 위기 등판한 사토시, 한점 차 승부 이어가보자",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/GYZTGYRVMNRTMZLCMYYWCY3BMI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "KT와 점수차 좁히는 이재현의 적시타",
-          "url": "https://www.newsis.com/view/NISI20261103_0021517730",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[포토] 박승규, 추격의 서막 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320514242272",
-          "source": "머니투데이"
+          "title": "US mid-term elections: where to watch the results, analysis and commentary live on TV",
+          "url": "https://www.repubblica.it/en/entertainment/tv-radio/2026/11/03/news/us_mid-term_elections_where_to_watch_the_results_analysis_and_commentary_live_on_tv-425695297/",
+          "source": "la Repubblica"
         }
       ]
     },
