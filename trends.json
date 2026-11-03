@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-03T03:44:29.165Z",
+  "updatedAt": "2026-11-03T04:46:19.608Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 4
+      "category": "스포츠",
+      "count": 3
     },
     {
       "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "경제",
       "count": 2
     },
     {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
+      "category": "연예",
       "count": 1
     },
     {
@@ -24,59 +24,34 @@
   ],
   "items": [
     {
-      "keyword": "상속세",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-03T01:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Vmc41hizqN0Vs0ZWS6U14p0b0N77KD7BrfTIEA9Icr328zTJaSdS1lg2bKM",
-      "category": "경제",
-      "news": [
-        {
-          "title": "상속세 아끼려면? “집 팔아서 현금으로 주세요”",
-          "url": "https://www.munhwa.com/article/11628181",
-          "source": "문화일보"
-        },
-        {
-          "title": "\"집 팔아 금융재산 넘겨라\"…세무사가 밝힌 상속세 2억 절세법",
-          "url": "https://www.newsis.com/view/NISX20261029_0003847018",
-          "source": "뉴시스"
-        },
-        {
-          "title": "부모에게 집 물려받았는데 오히려 골칫거리?…주택 상속의 숨겨진 비용 > 시애틀 뉴스/핫이슈",
-          "url": "https://www.seattlen.com/hot/69625",
-          "source": "SeattleN"
-        }
-      ]
-    },
-    {
-      "keyword": "저기압",
+      "keyword": "신지애",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-03T02:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJNSgjFmFXULVRMOwqUVmWthLrjd3xoIabPA9n-6Lpq0o26ehviN29LdD31OA",
-      "category": "생활·날씨",
+      "startedAt": "2026-11-03T03:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgrK13HCDMXrj-LMMtArupL89QYLRZy44TJ7lrstXa5EH1a40aow8bJjoT-I",
+      "category": "스포츠",
       "news": [
         {
-          "title": "제31호 태풍 '인파' 심상찮은 진로 변화…한반도 영향 미칠까",
-          "url": "https://www.kyeonggi.com/article/20261101580312",
-          "source": "경기일보"
+          "title": "엄마가 남긴 1700만원으로 시작한 골프…68번 우승 끝에 처음 울었다",
+          "url": "https://www.segye.com/newsView/20261030513121",
+          "source": "세계일보"
         },
         {
-          "title": "[뉴스초점] 비 내리고 또 기온 뚝…일본 향하는 태풍 '인파'",
-          "url": "https://www.yna.co.kr/view/MYH20261101010400038",
-          "source": "연합뉴스"
+          "title": "[LPGA] 김효주 vs 야마시타...한일 '스윙 머신 대결' 누가 웃을까",
+          "url": "https://www.newspim.com/news/view/20261103000381",
+          "source": "뉴스핌"
         },
         {
-          "title": "강도 4 태풍 '인파' 경로 바뀐다…일본 남쪽서 다시 북상",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645618496&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "'아시안 스윙' 마지막 무대 LPGA 토토 저팬 클래식 5일 개막",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827753",
+          "source": "SBS 뉴스"
         }
       ]
     },
     {
       "keyword": "부동산 투자",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-03T02:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-MWJ_6wldo7xs6Y_AuYixgLBsllJj_lhu02GpixxwVg634YgljDoUDsxnxXA",
       "category": "경제",
@@ -87,34 +62,34 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "'최대 20% 수익 보장' 투자 사기 유명 부동산 유튜버 구속 송치",
-          "url": "https://www.yna.co.kr/view/AKR20261103060400061",
-          "source": "연합뉴스"
+          "title": "방송 출연 명성 악용 125억 가로챈 부동산 유튜버 구속",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003281249",
+          "source": "OhmyNews"
         },
         {
-          "title": "분당경찰서, 125억여원 투자사기 부동산 유튜버 강사 구속 송치",
-          "url": "https://www.kyeongin.com/article/1773966",
-          "source": "경인일보"
+          "title": "“원금·확정 수익 보장”…126명에 125억 가로챈 부동산 유튜버 구속",
+          "url": "https://view.asiae.co.kr/article/2026110310171047432",
+          "source": "아시아경제"
         }
       ]
     },
     {
       "keyword": "유가증권",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-03T02:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPdrxlptFUfwvwQAaxwdFOIDrnQNVQaxefskBPQ1xWLIxZxaPH3PG1QAqnG0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFyr0uhfJkOnRI075LSU7i-ps1gvSKx9YRBD3_LYt_LQGTNJM4TAsmU7G156o",
       "category": "경제",
       "news": [
         {
-          "title": "코스피, 장 중 3%대 '뚝'… AI 수익성 우려에 美 기술주 급락 여파 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110308482056384",
-          "source": "머니투데이"
+          "title": "코스피·코스닥 장 초반 약세...장중 2%대 낙폭",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611031157585391",
+          "source": "YTN"
         },
         {
-          "title": "[특징주] 삼전·닉스, 美반도체주 약세에 장초반 5% 안팎 급락",
-          "url": "https://www.yna.co.kr/view/AKR20261103043700008",
-          "source": "연합뉴스"
+          "title": "美반도체 급락에 삼전닉스 휘청… 증권가 “지금 더 담아라”",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000115",
+          "source": "IT조선"
         },
         {
           "title": "오늘의 국내 증시 개장 시황",
@@ -124,27 +99,127 @@
       ]
     },
     {
-      "keyword": "디에이치 반포124",
+      "keyword": "장성규",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-03T02:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7abHvH_Bec5gjsSyQUxn0wBXs-u8ueoWOcI-SjgIRFR-i1M3L3Kh1Zv2fl78",
-      "category": "경제",
+      "startedAt": "2026-11-03T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmVB2-ZrxgsyafqB615UVCf29WYssIVfMlbLA9J0b7KoboFH6g0RHwUGuZJAs",
+      "category": "연예",
       "news": [
         {
-          "title": "11월 수도권 아파트 분양 예정 물량 1만9천851가구",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039530",
-          "source": "기호일보"
+          "title": "장성규, ‘나혼산’ 김민에 팬심 고백..“엄청 친절+소탈, 더 빠지게 됐다”",
+          "url": "https://www.osen.co.kr/article/G1112902413",
+          "source": "OSEN"
         },
         {
-          "title": "11월 서울 6605가구 분양…서초 대어급 정비사업 줄줄이 출격 - 머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/11/02/2026110210290677939",
-          "source": "머니투데이"
+          "title": "김민 실제 성격도 '나혼산' 그대로…장성규 \"친절하고 소탈, 만나니 더 빠져\" [★해시태그]",
+          "url": "https://www.xportsnews.com/article/2214245",
+          "source": "www.xportsnews.com"
         },
         {
-          "title": "11월 경기·인천 수도권 분양 물량 ‘봇물’…철저한 자금 계획 필수",
-          "url": "https://www.kyeonggi.com/article/20261102580059",
-          "source": "경기일보"
+          "title": "장성규, ‘대세’ 男 배우와 사진→실명 언급…”연예인의 연예인, 만나고 나서 더 빠져” [MHN:피드]",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1662663",
+          "source": "MHN스포츠"
+        }
+      ]
+    },
+    {
+      "keyword": "차정원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T03:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6KNcD0fhxjh7oBVGfKrH0GIVlgoPME1Aav5IvLFyoUiXfNKsfOJnThznyYxo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘킬잇’ 우승자 김나라, 8년 연애 동성 연인과 결혼식… “허락 필요치 않아”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/EF6ZL6PTTRFTDPVNGRTSSGXLB4/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "‘♥하정우’ 차정원, 김나라 결혼식 참석 [DA★]",
+          "url": "https://www.donga.com/SODA/article/0210/20261103/134956237/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "“나라의 결혼식, 행복”…‘다음달 하정우와 결혼’ 차정원이 간 뜻밖의 장소",
+          "url": "https://www.mk.co.kr/news/culture/12194385",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "agf",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T03:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBWTCP24ziiSwNlO9PZ8sJIg_pE9rDl3xMB3kJGkOKsUzCPOo-hm5VCSHJgA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "AGF v AC Horsens Odds",
+          "url": "https://sportsbook.fanduel.com/soccer/danish-superliga/agf-v-ac-horsens-36272042",
+          "source": "FanDuel Sportsbook"
+        },
+        {
+          "title": "AGF suffer tough blow to championship playoff hopes as champions lose in Brondby",
+          "url": "https://www.flashscore.com/news/soccer-superliga-agf-suffer-tough-blow-to-championship-playoff-hopes-as-champions-lose-in-brondby/MZrDb7uH/",
+          "source": "Flashscore.com"
+        },
+        {
+          "title": "Brondby v AGF Odds",
+          "url": "https://sportsbook.fanduel.com/soccer/danish-superliga/brondby-v-agf-36246924",
+          "source": "FanDuel Sportsbook"
+        }
+      ]
+    },
+    {
+      "keyword": "르브론 제임스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T03:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk0na9P7TnVYcM1Fcs4OgQWjovQ1woydgF5rq2Ht_vS2KNKF-nfWLnjH-LErY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "NBA 필라델피아, 샬럿 109-104 꺾고 3연승…맥시 38점 폭발",
+          "url": "https://www.newsis.com/view/NISX20261101_0003849696",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[오늘의 NBA] (11/1) 클러치 일타 강사 필라델피아",
+          "url": "https://contents.premium.naver.com/nba/shemagicnba/contents/261101142922643ci",
+          "source": "네이버 프리미엄콘텐츠"
+        },
+        {
+          "title": "'르브론 20점' NBA 필라델피아, 뉴욕 잡고 동부 공동 선두 질주",
+          "url": "https://www.news1.kr/sports/basketball/6338628",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "김은중",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T02:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlJqHfP3YCph4y-lrCSjhbza38-mdR80oR5no4tQoiY6N9_Rr5v4ylKlubW1c",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "U-21 축구대표팀, 멕시코와 2연전 명단 발표‥'김예건·김민수 포함'",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6862554_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "U-21 축구대표팀, 멕시코 2연전 명단에 김민수·윤도영 포함",
+          "url": "https://www.yna.co.kr/view/AKR20261102150000007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[공식발표] '韓 축구의 미래' 김민수 들어갔다...김은중 감독의 U-21 대표팀 명단 발표→김예건-윤도영 등도 포함",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017061",
+          "source": "SPOTV NEWS"
         }
       ]
     },
@@ -167,9 +242,9 @@
           "source": "위키트리"
         },
         {
-          "title": "＂삼성전자 17인치 폴더블 태블릿 개발중＂",
-          "url": "https://www.kpinews.kr/newsView/1065601291238326",
-          "source": "KPI뉴스"
+          "title": "갤럭시Z 폴드9만 3종? 삼성 2027년 폴더블 라인업 총정리",
+          "url": "https://www.betanews.net/article/view/beta202610310015",
+          "source": "베타뉴스"
         }
       ]
     },
@@ -181,76 +256,6 @@
       "picture": "",
       "category": "기타",
       "news": []
-    },
-    {
-      "keyword": "lg디스플레이",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T02:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0D8poDZIHxzvAbW_imbgI2CmQL7k08idr-HZ4qVkbD9I9EplpmaIPkWzo3Nk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "LG디스플레이, DMZ 두루미 서식지 조성 나선다",
-          "url": "https://www.khan.co.kr/article/202611031059001",
-          "source": "경향신문"
-        },
-        {
-          "title": "LG디스플레이, 국립생태원과 파주사업장 주변 생태계 보전 추진",
-          "url": "https://www.yna.co.kr/view/AKR20261103040600003",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "LG디스플레이, 생물다양성 보전을 위한 업무협약 체결",
-          "url": "https://www.etnews.com/20261103000057",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "춘천 마라톤",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T01:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkul8g3R8sWr3z2XrR7uCtRLk9-PXQ6pjxmz0Dd4DrCzTM73UIwToi2FVNTU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "금주·노카페인·턱걸이… 노력했지만 서브스리 실패",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/GHA2PLGXTJHPBD7EVL6LCGBOM4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "이승만·김구가 우승컵 기증…1회 춘마 그 시절 그 풍경",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/01/E7MGWDIXF5HORMWWXCDXLZF5NM/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김은중",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T02:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlJqHfP3YCph4y-lrCSjhbza38-mdR80oR5no4tQoiY6N9_Rr5v4ylKlubW1c",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "U-21 축구대표팀, 멕시코와 2연전 명단 발표‥'김예건·김민수 포함'",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6862554_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "U-21 축구대표팀, 멕시코 2연전 명단에 김민수·윤도영 포함",
-          "url": "https://www.yna.co.kr/view/AKR20261102150000007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "김민수 등 26명 소집…올림픽 U-21 대표팀, 멕시코와 2연전",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611021653446j4",
-          "source": "연합뉴스TV"
-        }
-      ]
     }
   ]
 }
