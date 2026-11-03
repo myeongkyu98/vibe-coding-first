@@ -1,132 +1,53 @@
 {
-  "updatedAt": "2026-11-03T08:08:29.401Z",
+  "updatedAt": "2026-11-03T09:51:04.289Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 4
     },
     {
+      "category": "연예",
+      "count": 3
+    },
+    {
+      "category": "기타",
+      "count": 2
+    },
+    {
       "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼성",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-03T06:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOOLtpyD0XmTdyf7HwaAPiuCdVwVhzf5B1XwWuCLXkB-WCrzL-zJuIbhBoXAo",
-      "category": "IT·과학",
+      "keyword": "삼성 대 kt",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-03T08:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvCmypqSKt2ZpzVjXG3H_iAkDjJJOTmXi4MuzUa0fEzZ4zz41qH41AnXpk0W4",
+      "category": "스포츠",
       "news": [
         {
-          "title": "45세 슈퍼모델 김자연, 70세 삼성전자 전 사장과 결혼",
-          "url": "https://www.newsis.com/view/NISX20261103_0003853011",
+          "title": "\"73.8%를 잡아라\"...kt·삼성, 한국시리즈 1차전 격돌",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611031713306242",
+          "source": "YTN"
+        },
+        {
+          "title": "'정규시즌 우승 축하합니다'",
+          "url": "https://www.newsis.com/view/NISI20261103_0021517336",
           "source": "뉴시스"
         },
         {
-          "title": "25살 차이 극복…슈퍼모델 김자연, 전 삼성전자 사장 손영권과 결혼 [자막뉴스]",
-          "url": "https://ichannela.com/news/detail/000000558186.do",
-          "source": "채널A"
-        },
-        {
-          "title": "‘25살 차’…슈퍼모델 김자연·손영권 삼성전자 고문 스위스서 결혼",
-          "url": "https://www.donga.com/news/Culture/article/all/20261103/134958436/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "어린이",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-03T05:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxRNy0bB-VgiE-Lu3rJg9LAZmY4xKyH_eb5laKOH89Nt6z5Dk14NOc9tVSPQQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[평창소식]부모·자녀 함께 요리교실…건강한 식습관 교육 등",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852635",
-          "source": "뉴시스"
-        },
-        {
-          "title": "남동구, 영유아 부모 대상 건강한 집밥 요리교실 운영",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=720602",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "평창군어린이/사회복지급식관리지원센터 부모와 함께하는 아동 요리교실 운영",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634685",
-          "source": "베리타스알파"
-        }
-      ]
-    },
-    {
-      "keyword": "우량주",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-03T05:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html",
-          "source": "뉴데일리"
-        },
-        {
-          "title": "미 중간선거 우려 속 AI 주가 급락과 증시 향방",
-          "url": "https://story.pay.naver.com/content/3860_39_C9",
-          "source": "네이버페이 머니스토리"
-        },
-        {
-          "title": "코스피 개장 때 美 선거결과 우르르…증권가 관전포인트는 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110315280671067",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "이효리",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-03T05:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkcEVzsYfruHIG5OXfo9wuidjt6xWzXCodplA_GamP9hm4_kyn_30DPG4w3is",
-      "category": "기타",
-      "news": [
-        {
-          "title": "이효리 \"정신과, 검진받듯 간다\"…'술 갈등' 커플 조언 중 고백 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/03/2026110307354166715",
-          "source": "머니투데이"
-        },
-        {
-          "title": "서장훈 “그러다 죽어”… 음주 폭행남에 경고 (연애전쟁)",
-          "url": "https://sports.donga.com/ent/article/all/20261103/134954904/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "“방귀 냄새 맡아도 돼?” 남친 체취 집착녀 논란… 생리학적 이유 있었다",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110202001.html",
-          "source": "헬스조선"
+          "title": "삼성 원태인 \"주자 남겨놓지 마\"…이승민 \"내로남불이 심하네\"",
+          "url": "https://www.yna.co.kr/view/AKR20261103164500007",
+          "source": "연합뉴스"
         }
       ]
     },
     {
       "keyword": "전투기",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-03T06:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayaSsAetDk4dE2PjlvZAmhbqgGlCS5VaFrVvtatXVP-_ZQNFNyvl1WCRDgq0",
       "category": "기타",
@@ -149,117 +70,167 @@
       ]
     },
     {
-      "keyword": "담배",
+      "keyword": "헤수스 데 미겔",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-03T04:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyBg8pkLtoKAGEED0DLvDr8hGIvIVaSGtHp7kbba0axAei0WQIwk0llo7KHt8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "\"담배가 갈수록 싸진다?\"…11년째 '4500원' 담뱃값의 역설 [프라이스&]",
-          "url": "https://www.hankyung.com/article/202611031794i",
-          "source": "한국경제"
-        },
-        {
-          "title": "'무니코틴'이라더니 유사니코틴?…정부, 유사니코틴 독성 연구 추진",
-          "url": "https://www.etnews.com/20261103000181",
-          "source": "전자신문"
-        },
-        {
-          "title": "전자담배도 ‘발암물질’…비연소 키웠던 담배업계, 규제 변수 촉각",
-          "url": "https://www.asiatime.co.kr/article/20261103500302",
-          "source": "아시아타임즈"
-        }
-      ]
-    },
-    {
-      "keyword": "월악산",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "월악산 야영장에 ‘자율주행 배송로봇’ 떴다…배송에 안전, 환경까지",
-          "url": "https://m.segye.com/view/20261102519013",
-          "source": "세계일보"
-        },
-        {
-          "title": "국립공원 최초, ‘자율주행무인배송로봇’ 월악산 닷돈재야영장서 실증 성공",
-          "url": "http://m.mgnews.kr/view.php?idx=76944",
-          "source": "문경시민신문"
-        },
-        {
-          "title": "월악산 닷돈재 야영장 '친환경 스마트 탐방' 도입…로봇이 짐 운반",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6336134",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "where to vote",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T06:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3Ahz25iGjmYz9zQWoXmLURLoNObKZ8FsRUJDJMXq9SgUZm2MS4HTteHcwTc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "It’s Election Day in Florida",
-          "url": "https://www.newsfromthestates.com/article/its-election-day-florida",
-          "source": "News From The States"
-        },
-        {
-          "title": "The ultimate voter guide for Tallahassee, Florida elections",
-          "url": "https://www.fsunews.com/story/news/2026/11/02/tallahassee-want-to-know-more-about-who-youre-voting-for-look-here/92563316007/",
-          "source": "FSView & Florida Flambeau"
-        },
-        {
-          "title": "Broward County voters prepare to make their voices heard on Election Day",
-          "url": "https://www.cbsnews.com/miami/video/broward-county-voters-prepare-to-make-their-voices-heard-on-election-day/",
-          "source": "CBS News"
-        }
-      ]
-    },
-    {
-      "keyword": "스테픈 커리",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T05:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIICJQe1_FWSWvWygMnkh1iv-uLpYyq0m6yfEhf4oQOuirHAatQDCqHRyPoXc",
+      "startedAt": "2026-11-03T08:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWxHO3koS9lslu5UO5AcbZGkKWQ6Gqg-aja_TQg6a7oaS5_cusJfgIB_DDNlo",
       "category": "스포츠",
       "news": [
         {
-          "title": "[오늘의 NBA] (11/2) 황금 전사 군단의 새로운 희망",
-          "url": "https://contents.premium.naver.com/nba/shemagicnba/contents/261102145709508oy",
-          "source": "네이버 프리미엄콘텐츠"
+          "title": "골키퍼 니킥 맞고 쓰러진 공격수, 끝내 의식 잃고 세상 떠나",
+          "url": "https://isplus.com/article/view/isp202611030298",
+          "source": "일간스포츠"
         },
         {
-          "title": "GSW ‘괴물 루키’ 렌더보그 ‘37득점 대폭발’···커리 이후 16년 만의 루키 최다골 ‘도미니카 르브론’ 주...",
-          "url": "https://sports.khan.co.kr/article/202611021449003",
-          "source": "스포츠경향"
+          "title": "라리가2 경기 중 발생한 아찔한 사고… 테네리페 “신경학적 상태 악화”",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190827",
+          "source": "금강일보"
         },
         {
-          "title": "돈치치 꽈당! 충격 앵클 브레이크 스테판 커리의 철저한 복수. \"지독한 결과 나올 줄 몰랐다. 완벽한 오픈 3점은 정말 오랜만\"",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/01/HBRWKZRTGBTDCMDBMVRDKYRZGA/",
+          "title": "충격 사고! \"상대 골키퍼 니킥 맞고 심정지\" 스페인에서 벌어진 최악의 부상, 상대 선수는 \"심각한 상태로 중환자실 입원\"",
+          "url": "https://www.sportschosun.com/football/2026-11-03/202611030100017270001596",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "폴더 블 스마트 폰",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-03T07:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRsU-0S7MktCt4Apf_n94NJ45HbeHAYEcAdCwnZoA8FMOA1Zpf3Ed7kRu9mqE",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "화면이 쩍, 아이폰 듀오 사려다 '접었다'...갤Z폴드8 판매 쑥 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/11/03/2026110309453419418",
+          "source": "머니투데이"
+        },
+        {
+          "title": "UBS, iPhone 판매 호조에 애플 목표주가 340달러로 상향",
+          "url": "https://kr.investing.com/news/analyst-ratings/article-93CH-2155417",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇슈#태그]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700914",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "우리들의 발라드",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T07:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2Zpb0hHS41ih4o3dAwCtD4uS9nYY_PIcrDj2UjXYqP9z3lSkmXhM_Tptp7Hc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘우리들의 발라드2’ 무대 뒤집은 한로이의 반전…박예승, 데스매치서 아쉬운 고배",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846017",
+          "source": "제민일보"
+        },
+        {
+          "title": "우리들의 발라드 2 : 한로이, 폭발적인 가창력으로 선사한 무대",
+          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC482723296",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "전현무, 데스매치 속 ‘안정형 탑백귀’ 빛났다(‘우발라2’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/03/GE4GMMTBG42TSNZTHBSTOYJSGI/",
           "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "마이데일리",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T08:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRrWBkzdOeQ8roaCG2q3eRd5PXebwUbSBz_YfJV1ifaKnsuN302tFIneJy9GI",
+      "category": "연예",
+      "news": [
+        {
+          "title": "지금 더 아름다운 40대 여배우들 ③",
+          "url": "http://woman.chosun.com/news/articleView.html?idxno=126776",
+          "source": "여성조선"
+        },
+        {
+          "title": "[MD포토] 유나 `포토 행사 왔어요`",
+          "url": "https://www.mydaily.co.kr/page/view/2026110314302584737",
+          "source": "마이데일리"
+        },
+        {
+          "title": "김태희, 외모 악플 무색하네…직접 공개한 사진 보니",
+          "url": "https://sports.donga.com/ent/article/all/20261026/134912721/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "지예은",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T08:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkqZwkvU237XGId_p8ssGYOWpOAkknO6sWy4E1sX7pnH1VlOhkmRWzZjO-MBE",
+      "category": "연예",
+      "news": [
+        {
+          "title": "지예은, 청첩장 공개…신동엽 앞에서 \"사회는 유재석\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110223195918105",
+          "source": "머니투데이"
+        },
+        {
+          "title": "유재석, 김종국에 아직도 서운…\"내 결혼식 때 부탁한 축가 거절\"",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852089",
+          "source": "뉴시스"
+        },
+        {
+          "title": "유부녀 되는 지예은, 예비 신랑과 다정한 셀카",
+          "url": "https://www.donga.com/news/Culture/article/all/20261103/134956683/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "한재아",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T07:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcm7Zpfx694JdjmtNjQymj7n4yaje5hR743Z4GvkTDXhZGiZ7Dd16hgAeAwew",
+      "category": "연예",
+      "news": [
+        {
+          "title": "뮤지컬 배우 배나라-한재아 14일 결혼…“동료에서 연인으로”",
+          "url": "https://www.donga.com/news/Culture/article/all/20261103/134957351/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "단독 배나라♥한재아, 11월 14일 결혼…옥수동 성당서 혼배미사",
+          "url": "https://star.ytn.co.kr/_sn/0117_202611031200019044",
+          "source": "YTN star"
+        },
+        {
+          "title": "배우 배나라·한재아 14일 결혼…\"서로 의지하는 삶 살아가기로\"",
+          "url": "https://www.yna.co.kr/view/AKR20261103123900005",
+          "source": "연합뉴스"
         }
       ]
     },
     {
       "keyword": "아시안컵",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-03T07:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjL7rgo5i6OhgTHWsrZG2q3EJ8XnlPy-I4CKAwej96ScxZxoPh6t_RfXYlccs",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5rQcTyan2f3KQY-eXQ5tF39iGRtLjMQpGBPuPZ6j2x0x7CQJaA-0F5uhGKaA",
       "category": "스포츠",
       "news": [
         {
-          "title": "2027 아시안컵, 중동 정세 불안으로 1년여 연기",
-          "url": "https://www.chosun.com/international/international_general/2026/11/03/FJLC6IIHWFHN7E5LB2J5UETMWU/",
-          "source": "조선일보"
+          "title": "[속보]사우디 아시안컵, 내년 1월→12월 연기…모레노 감독 거취는?",
+          "url": "https://www.donga.com/news/Inter/article/all/20261103/134958276/2",
+          "source": "동아일보"
         },
         {
           "title": "아시안컵 축구, 2027년 12월 개최…중동 정세 불안 탓 일정 변경",
@@ -270,6 +241,31 @@
           "title": "[속보] 안산 '질산 누출'로 원시역 2번 출구 폐쇄…열차는 정상 운행",
           "url": "https://www.hankyung.com/article/2026110332647",
           "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "청년기본소득",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T08:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJzOTCm0vTZ0PSBfohbB5iJmIqB-2MSNdhmWyIOLjlPFpkfYRR5j8zAyyFbCk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "경기 ‘청년기본소득’ 성남·동두천·연천 불참, 고양 참여",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701502",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[패트롤] 과천시-광명시-안양시-의왕시-하남시",
+          "url": "https://m.ekn.kr/view.php?key=20261101022083949",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "오산시, 24세 청년에 분기 25만원…청년기본소득 4분기 접수",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850912",
+          "source": "뉴시스"
         }
       ]
     }
