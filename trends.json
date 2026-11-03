@@ -1,112 +1,53 @@
 {
-  "updatedAt": "2026-11-03T00:49:25.394Z",
+  "updatedAt": "2026-11-03T01:54:32.654Z",
   "summary": [
+    {
+      "category": "경제",
+      "count": 4
+    },
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "경제",
-      "count": 3
-    },
-    {
       "category": "연예",
       "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "중앙일보",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-02T23:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFj68PAdVun7m1wI5y1XUZAmL5CS5806pcIsC8H7i25Tl3u06H2x1LHnJWL0A",
+      "keyword": "비야 디",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-03T00:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqL8auM99l5EndfOgt6_9SjtRSHGMXVl3MarAKri2_4TFkQnNg-J95PskWAQ4",
       "category": "경제",
       "news": [
         {
-          "title": "[단독] 중앙일보 새 주주 될 다우·CJ·신세계 신주인수계약체결 연기",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338136",
-          "source": "미디어오늘"
+          "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
+          "url": "https://www.hankyung.com/article/2026110210431",
+          "source": "한국경제"
         },
         {
-          "title": "투자는 계속, 성과는 아직…중앙일보 베팅 CJ, 미디어 M&A 시험대",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/10/29/2026102980194.html",
-          "source": "인베스트조선"
+          "title": "중국산 전기차의 공습...흔들리는 안방 시장",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611021104314804",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "선정 일주일됐는데… 중앙 경영진 \"아직 '우협' 기업 못 만나\"",
-          "url": "https://m.journalist.or.kr/m/m_article.html?no=61964",
-          "source": "한국기자협회"
+          "title": "[세계車트] 수출로 버틴 중국차, 유럽선 물량 제한 변수…리튬 가격 뚝",
+          "url": "https://zdnet.co.kr/view/?no=20261102181547",
+          "source": "지디넷코리아"
         }
       ]
     },
     {
-      "keyword": "제민일보",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5uMEdi3uWwGebphjO2yzE51adftk4nDQJVMLcCU-2ZD24LZp9HdbkhWiojZw",
+      "keyword": "지밀 레니 얼",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-03T00:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvHuU-RreHvrsbFo8Q1b9IvJew8fM60rAL-kxhQD9myOCK1Yr6bSkbPrUpMcI",
       "category": "기타",
       "news": [
-        {
-          "title": "제주시·서귀포시 체육회 제도 개선 건의",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845945",
-          "source": "제민일보"
-        },
-        {
-          "title": "“지방체육 현안 해결-제도 개선 공동 노력”",
-          "url": "https://www.samdailbo.com/news/articleView.html?idxno=272154",
-          "source": "삼다일보"
-        },
-        {
-          "title": "'금토금토 새연쇼', 대장정 마무리",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=845942",
-          "source": "제민일보"
-        }
-      ]
-    },
-    {
-      "keyword": "종신보험",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T23:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-3fr4V6IzZj0p2QS-sZMtHCipDsPEi6vA3WjudkWSjWTY7-L-FT1ejvxles",
-      "category": "경제",
-      "news": [
-        {
-          "title": "죽은 뒤 1억원 주면 무슨 소용있나…고령화에 종신보험 바뀐다 [금융 라운지]",
-          "url": "https://www.mk.co.kr/news/economy/12194100",
-          "source": "매일경제"
-        },
-        {
-          "title": "동양생명, 암·뇌출혈 진단 시 보험료 면제…치료비 보장하는 종신보험 출시",
-          "url": "https://www.news1.kr/finance/insurance-card/6340866",
-          "source": "뉴스1"
-        },
-        {
-          "title": "ABL생명, '우리WON스테이블종신보험' 장기 계약 유지시 사망보험금 체증",
-          "url": "https://www.g-enews.com/article/Finance/2026/11/202611021651023225a6e8311f64_1",
-          "source": "글로벌이코노믹"
-        }
-      ]
-    },
-    {
-      "keyword": "지민",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-02T23:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjG7ws08-cdJNTgnbI3uJ9XWqN9RaTuHsXzYl6jrUF1QdhpDjbj0r0D9u5AMk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "BTS 지민 부친 카페, 내년 영업 종료",
-          "url": "https://www.newsis.com/view/NISX20261103_0003851902",
-          "source": "뉴시스"
-        },
         {
           "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 문 닫는다",
           "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1",
@@ -116,6 +57,111 @@
           "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
           "url": "https://www.munhwa.com/article/11628280",
           "source": "문화일보"
+        },
+        {
+          "title": "BTS 지민 부친 카페, 내년 영업 종료",
+          "url": "https://www.newsis.com/view/NISX20261103_0003851902",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "래블업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4nW7bXjZrQ61hMHRSlE0yBsogAMAbEA5GJiKmRzw8JP-l6-KFyRRUJtweLHA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261102032651008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'AI 소프트웨어' 래블업 주가 코스닥 상장 첫날 장중 공모가보다 13%대 올라",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450999",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
+          "url": "https://zdnet.co.kr/view/?no=20261102120713",
+          "source": "지디넷코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "미스트롯4",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSnQm13Vi0KaoRgUjY32QqA3CvnC4btmKQ7ZmjdfWVQSbm9p9j36sFOUNd1yk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'미스트롯4' 톱7, 서울 앙코르로 6개월 전국투어 마무리",
+          "url": "https://www.asiae.co.kr/article/2026110310272151628",
+          "source": "아시아경제"
+        },
+        {
+          "title": "[트롯돋보기] 왕관의 무게 견딘 ‘미스트롯4’ 톱7… 논란마저 잠재운 6개월의 눈물",
+          "url": "https://www.mk.co.kr/news/entertain/12193856",
+          "source": "매일경제"
+        },
+        {
+          "title": "‘미스트롯4’ 서울 앙코르 성료…허찬미 오열→TOP7 눈물바다",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134947791/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "말자쇼",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T00:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7AqCCyYn7YeDensGCgICkrVoRjaf_BdQ1GclHxRY20Yz6TaxElSgr5m8Xw8g",
+      "category": "연예",
+      "news": [
+        {
+          "title": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "김원효, \"엉뚱하다? 개념 없는 것\" 폭로에 어질 [RE:TV]",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6340504",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "단기채",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-02T23:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRSUscv2caCmjXS4zHOdNFONTMObwwKqHkTqzTBvo8jyveDSmug2RzeuDyTic",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라\"",
+          "url": "https://www.chosun.com/economy/money/2026/11/03/EYYBMPLNO5HDXF3SLB3I6FN5WA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "1300원대 환율에 외화투자 관심 쑥, 달러예금 트래블통장 더해 ETF도 눈길",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450832",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "쌀 때 빌리자…환율 내리자 달러대출 ‘쑥‘",
+          "url": "https://biz.sbs.co.kr/article/20000343318",
+          "source": "SBS Biz"
         }
       ]
     },
@@ -124,148 +170,98 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-02T23:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPj7gEvsMDfJz9xm1iYlCdXKiSsaP7bMW8TVdTk_RkEHy0qileOs1vQlnzW40",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
       "category": "기타",
       "news": [
         {
-          "title": "“꼬박꼬박 국민연금 낸 우린 뭔가”…국민연금 가입자 10년 부었더니 ‘맙소사’",
-          "url": "https://www.mk.co.kr/news/economy/12194311",
-          "source": "매일경제"
+          "title": "[보도자료] 규제합리화 라이브클럽 현장 간담회",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454698",
+          "source": "서울Pn"
         },
         {
-          "title": "\"국민연금 10년 가입자의 연금액, 기초연금보다 적다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261102155600530",
-          "source": "연합뉴스"
+          "title": "[매일경제] 차민태 교수, 칼럼 'K클럽이 예술도시를 만든다' 기고",
+          "url": "http://www.newshyu.com/news/articleView.html?idxno=1026907",
+          "source": "뉴스H"
         },
         {
-          "title": "국민연금 수급자 66%, 월 60만원도 못 받는다 - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/02/2026110119403343123",
-          "source": "머니투데이"
+          "title": "'오방가르드 사태' 계기로…라이브클럽 춤 규제 개선 논의 본격화",
+          "url": "https://www.fnnews.com/news/202611021740514437",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
     {
-      "keyword": "김민",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T23:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0pwl8HdmqZTXxjhiPFbUFYzCzlbbFgvEOXMBxJQ0lCPTEeBhTwJEbBQ8riI",
-      "category": "연예",
-      "news": [
-        {
-          "title": "김민, 집 공개 후 사생활 침해 피해 \"모르는 사람 계속 온다\"",
-          "url": "https://www.segye.com/newsView/20261031501185",
-          "source": "세계일보"
-        },
-        {
-          "title": "'나혼산' 위기마다 나타나는 구세주…시청률 71% 급등→5주 연속 1위 '김민 효과'",
-          "url": "https://news.nate.com/view/20261102n28641",
-          "source": "Nate News"
-        },
-        {
-          "title": "MBC '나혼산', 김민 또 활약…2054 예능 시청률 5주 연속 1위",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523194",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "유예린",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T23:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7VebxLTEYq16R06EQtT-N3a2egISM_0j7MDGENwN_wKQ_5UyY7HWLX_CIhuk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "유예린, WTT 피더 대회 '3전 4기' 첫 우승…준우승 징크스 깼다",
-          "url": "https://www.yna.co.kr/view/AKR20261102118700007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'유남규2세' 유예린, WTT 시니어 女단식 '3전4기' 첫 우승! \"'유예린 아빠' 유남규 만들어드릴 것[WTT피더 첸나이]",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/02/MYYGMOBTMJTDMZDDMY2TCNZWGI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'유남규의 딸' 유예린, WTT 피더 대회 3전 4기로 첫 우승",
-          "url": "https://www.newspim.com/news/view/20261102001254",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "김원효",
+      "keyword": "양주시",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-02T23:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8T720wQNiRRJLTyHQwUsTVpqGjJnP7P7jhJlxxDrSEmUTy23FN_yichB9B8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "김원효, 심진화에 매년 명품백 선물 \"누적 금액 1억 넘어\"",
-          "url": "https://www.newsis.com/view/NISX20261102_0003851792",
-          "source": "뉴시스"
-        },
-        {
-          "title": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "김원효 “♥심진화 한마디에 영화관서 최초 결혼식”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "미국시간",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T23:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDfmQrYHLsBSir-FGdIUTmdRh8Ih2EjiuFYrlnBRkkIUOMJiLpHY3Dni0Q-P0",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“어? 미장 데이거래 아침9시부터 아니였나요…”서머타임끝, 한시간 늦춰집니다“",
-          "url": "https://stock.mk.co.kr/news/view/1186606",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "저녁 햇빛을 얻은 앨버타, 겨울 아침은 더 어두워졌다",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280748",
-          "source": "OhmyNews"
-        },
-        {
-          "title": "美 증시 '겨울 시간표'로…오늘부터 밤 11시 30분 개장",
-          "url": "https://news.tf.co.kr/read/economy/2383736.htm",
-          "source": "더팩트"
-        }
-      ]
-    },
-    {
-      "keyword": "토지임대부 분양주택",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-02T23:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmVr8RiW0VlP-tXfMq4j1TQd0LAci5bdRaWnodn9cP2kVz6kk8csz_bi4XSHs",
+      "startedAt": "2026-11-03T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaER-emQ_-EN4BTzNpE4qbrMg1jyJaZw7DCaiEr-gefG6-midYCpFxiVzJVoY",
       "category": "기타",
       "news": [
         {
-          "title": "'3억대 신축' 고덕강일3단지…실부담 따지니 59㎡ 월 140만원대",
-          "url": "https://www.news1.kr/realestate/general/6340382",
-          "source": "뉴스1"
+          "title": "양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335727",
+          "source": "인천일보"
         },
         {
-          "title": "반도건설, 계양신도시 브랜드 상가 ‘시간’ 분양",
-          "url": "https://www.viva100.com/article/20261102501108",
+          "title": "“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의",
+          "url": "https://www.viva100.com/article/20261103500102",
           "source": "브릿지경제"
         },
         {
-          "title": "계양 첫 민영 ‘카이브 유보라’, 특공 84㎡A에 관심…1순위 기대",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314488",
-          "source": "스트레이트뉴스"
+          "title": "정덕영 양주시장, LH 사장 만나 원활한 사업 추진 요청",
+          "url": "https://www.kyeonggi.com/article/20261102580545",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "리센느 컴백",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T00:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFxYga5aBmnuweQF6cu6A-9pwAkTGW-V0i-59eL0em9htwqg33XwBdJSZbe8",
+      "category": "연예",
+      "news": [
+        {
+          "title": "리센느, 향기는 고동이 된다…맥박 뛰는 자리마다 번지는 온기",
+          "url": "https://www.newsis.com/view/NISX20261103_0003851913",
+          "source": "뉴시스"
+        },
+        {
+          "title": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/03/GU2WENRQMMYDKYZTGAYWKOBTGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "일방통행 아닌 쌍방향 호흡…리센느가 새 앨범 ‘PULSE’에 심은 유대 서사",
+          "url": "https://sports.donga.com/ent/article/all/20261103/134954927/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "도지코인",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-02T23:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBOTin2QZq1TN--ojysYBKk0rmTYO3k0w485GF6VgALsPWvY9cXhIMO8BOs2s",
+      "category": "경제",
+      "news": [
+        {
+          "title": "도지코인에 무슨 일이…대형 고래 1억 2,000만 개 던지고 가격은 5주째 추락",
+          "url": "https://www.coinreaders.com/266853",
+          "source": "코인리더스"
+        },
+        {
+          "title": "Dogecoin은 커뮤니티 주도 결제 네트워크로 작동합니다",
+          "url": "https://www.onebullex.com/ko-kr/academy/what-is-dogecoin-doge-and-how-does-it-work",
+          "source": "OneBullEx"
+        },
+        {
+          "title": "도지코인, '도지코인 랩스'로 일론 머스크 영향력 벗어나나",
+          "url": "https://gall.dcinside.com/board/view/?id=khgames&no=11735",
+          "source": "갤러리"
         }
       ]
     }
