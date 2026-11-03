@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-11-03T14:05:03.358Z",
+  "updatedAt": "2026-11-03T14:56:43.977Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
     },
     {
-      "category": "스포츠",
+      "category": "경제",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 2
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
@@ -20,13 +24,13 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-03T12:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4FKdcwqfF3X-LBASMn7lQiSpMZyU34lNuETo4XUr1hFOXbof5qjRfUw4IM8I",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6StTH6sdLd5198X6oZCEumfbBX5iDmpGsXBvA1ZPbfBIzYJzQ-Obtn94PRBc",
       "category": "스포츠",
       "news": [
         {
-          "title": "November 7, 2026: KT Wiz vs Samsung Lions Baseball Prediction Market",
-          "url": "https://robinhood.com/us/en/prediction-markets/baseball/events/kt-wiz-vs-samsung-lions-nov-07-2026/",
-          "source": "Robinhood"
+          "title": "Live: Samsung Lions vs. KT Wiz in Game 1 of Korean Series",
+          "url": "https://www.koreajoongangdaily.com/sports/live-samsung-lions-vs-kt-wiz-in-game-1-of-korean-series/12952792",
+          "source": "Korea JoongAng Daily"
         },
         {
           "title": "[Photo] Coach Park Kyung-soo throws ceremonial first pitch, wishing for the championship of the founding captain",
@@ -41,34 +45,9 @@
       ]
     },
     {
-      "keyword": "두산에너 빌리티",
+      "keyword": "양도소득세",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-03T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOXlHtsGf6eA8Txi_kSM9dbZFUiM4prE650vt2wZw5iePuwRFy8W_eBoR74MA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "겹악재에 52주 최저가 찍은 두산에너빌리티…4분기가 분수령",
-          "url": "https://www.hankyung.com/article/202611033095i",
-          "source": "한국경제"
-        },
-        {
-          "title": "두산에너빌, 3분기 영업이익 전년 대비 90.6%↑",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700617",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "\"두산에너빌리티, 2027년 하반기 대형 원전 수주 본격화\"-대신",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03096326645618168&mediaCodeNo=257",
-          "source": "이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "양도소득세",
-      "traffic": "500+",
-      "trafficValue": 500,
       "startedAt": "2026-11-03T12:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQad-XqTzaE0cwdH_LbF06Sz8dYVICO8ddo2bGsVen81710vxwqfRaE3cgpZnE",
       "category": "경제",
@@ -91,27 +70,77 @@
       ]
     },
     {
-      "keyword": "김광석",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T11:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqAw2dnExr52DTk6O6JCKqQS6SRDrNaa4x1tMPAcTCshIwobfrd9YNxdp-ck",
-      "category": "기타",
+      "keyword": "한국항공우주산업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T13:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAtV_xRCwnWexTfxO58stOJpPiXvkmN3yKICcIYv1LiHoK9ZQKDOfesx_3NWs",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "'그대 그리고 나' 부른 포크 그룹 소리새 김광석 별세",
-          "url": "https://www.yna.co.kr/view/AKR20261103159200005",
+          "title": "KAI 노조 1천300명 상경투쟁…\"한화 인수 저지·독립경영 보장\"",
+          "url": "https://www.yna.co.kr/view/AKR20261103155700052",
           "source": "연합뉴스"
         },
         {
-          "title": "‘그대 그리고 나’ 부른 소리새 김광석 별세…향년 70세",
-          "url": "https://www.mk.co.kr/news/hot-issues/12195259",
-          "source": "매일경제"
+          "title": "[데스크의 눈] ‘KAI 민영화’ 논란, 뭣이 중헌디",
+          "url": "https://www.segye.com/newsView/20261103517116",
+          "source": "세계일보"
         },
         {
-          "title": "‘그대 그리고 나’ 부른 소리새 김광석, 뇌병변 투병 끝 별세…향년 70세",
-          "url": "https://sports.khan.co.kr/article/202611031733003",
-          "source": "스포츠경향"
+          "title": "[르포] “방산 핵심부문 대기업이 집어삼킨다”…KAI 노조원들의 절박한 상경투쟁",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353759",
+          "source": "녹색경제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "small business",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T13:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSnvpsgcnytt2MsBYJd6wYFMXyKCddfHKfk_sAPMHSbzT0C8e7GFg3WYVGigc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Gusto Small Business Jobs and Pay Report: Small Businesses Add 38,000 Jobs in October, Marking Ninth Straight Month of Growth",
+          "url": "https://www.morningstar.com/news/pr-newswire/20261103sf87282/gusto-small-business-jobs-and-pay-report-small-businesses-add-38000-jobs-in-october-marking-ninth-straight-month-of-growth",
+          "source": "Morningstar"
+        },
+        {
+          "title": "U.S. Small Business Employment Trends Hold Steady in October",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394226/0/en/u-s-small-business-employment-trends-hold-steady-in-october.html",
+          "source": "GlobeNewswire"
+        }
+      ]
+    },
+    {
+      "keyword": "폰지 사기",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T13:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbHPfBDdxu0F522N9nXNMryYFT-JYkCw5Xe-Ic1WfNOiVTi0SsfWVQK03hkXM",
+      "category": "경제",
+      "news": [
+        {
+          "title": "‘부동산 전문가’ 믿었는데…125억 가로챈 스타 강사",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702992",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "“미리 얘기하면 원금 회수” 수강생 꼬드긴 부동산 유튜버",
+          "url": "https://www.kyeongin.com/article/1774046",
+          "source": "경인일보"
         }
       ]
     },
@@ -166,27 +195,27 @@
       ]
     },
     {
-      "keyword": "kt wiz",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T11:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00iHN9RlCItWA70enw59YmrPH9ifzmdj2L8pQuqyr2goh3IMA_LW1yr3SHVs",
+      "keyword": "midterm elections 2026",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T13:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdoYefuj9wQ2lYXULmy9ajxoWlhQYRxZwOU0LB7_4p1iJAmQ0NOBrOfDesB9g",
       "category": "기타",
       "news": [
         {
-          "title": "Kim Hyun-soo's Homer Powers KT to 8-0 Lead in Korean Series",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/03/Y6UCGQ3MMVDJJCNUEQMYEFCJZY/",
-          "source": "조선일보"
+          "title": "Midterm elections live: America heads to the polls to decide control of Congress for Trump’s final two years",
+          "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress",
+          "source": "CNN"
         },
         {
-          "title": "(LEAD) Wiz hold off Lions in Korean Series opener",
-          "url": "https://en.yna.co.kr/view/AEN20261103012651315",
-          "source": "Yonhap News Agency"
+          "title": "Polling Stations Busy From Early Morning... Trump Faces 'Day of Destiny'",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008829128",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "Choi Won-tae (Samsung Lions) failed to repay the expectations of the head coach.",
-          "url": "https://www.mk.co.kr/en/sports/12195225",
-          "source": "매일경제"
+          "title": "US midterms set to reshape Congress, test Trump and 2028 race",
+          "url": "https://biz.chosun.com/en/en-international/2026/11/03/VTW5C6TOFFET7K55OK63UDG3CE/",
+          "source": "Chosunbiz"
         }
       ]
     },
@@ -195,73 +224,48 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-03T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9yS9e3bDdg09uK3RnZcaDuAmthKLKXiSzOrqxIRGvRznAJgTb-clSPzZb3-Q",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIVcrS9OAE5UAYaSN8eIk226SXJTuEoS7ox5XePZlZWidupPrTfE6vXbeuWHg",
       "category": "기타",
       "news": [
         {
           "title": "추가 실점위기, 역투하는 김정운",
-          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517760",
+          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517759",
           "source": "뉴시스"
         },
         {
-          "title": "[사진]삼성 3루수 김영웅, '좋은 수비로 2사 만루 위기 막아내고'",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/GJTGMOJRGZRDIOLEMVSWIMLGME/",
-          "source": "Chosunbiz"
+          "title": "[포토] 삼성, 아쉽게 패배",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/MQ4TOMDEMYZGCNRQMI2WMZBXGM/",
+          "source": "조선일보"
         },
         {
-          "title": "[포토] 박승규, 추격의 서막 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320514242272",
+          "title": "[포토] 임기영 '막으면 디비진다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320411848267",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "캐시워크 정답",
+      "keyword": "내장산ic",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-03T11:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOD3N3fxpAJmsjWQLJxvKXekIMb8FyMZGceL5q_a889L703lkcQPjfX6Dhag8",
+      "startedAt": "2026-11-03T12:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNbmYe5K0UdoPDZlTtHL1HFg9tR2XoFe_Y4mGZG-VZtwROUhP9BZ6sFfa65JM",
       "category": "기타",
       "news": [
         {
-          "title": "알리 캐시워크 돈 버는 퀴즈, 정답은?",
-          "url": "https://www.ajunews.com/view/20261102072836256",
-          "source": "아주경제"
+          "title": "전북 도공, 호남고속道 내장산 IC~정읍IC 차로 부분통제",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852421",
+          "source": "뉴시스"
         },
         {
-          "title": "2일 배달의민족 캐시워크 돈버는퀴즈 정답 공개",
-          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=878823",
-          "source": "한스경제"
+          "title": "호남고속도로 4~5일 '내장산IC~정읍IC 천안방향' 일부 통제",
+          "url": "https://www.news1.kr/local/jeonbuk/6340941",
+          "source": "뉴스1"
         },
         {
-          "title": "[캐시워크 종합] 11월 3일 화요일 오전 10시 현재 출제되고 있는 모든 문제들의 정답은?",
-          "url": "http://www.bizwnews.com/news/articleView.html?idxno=150726",
-          "source": "비즈월드"
-        }
-      ]
-    },
-    {
-      "keyword": "잠실야구장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T11:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0twySKkgJSro9cgFGW9aDI2caHBt2iiYV0BMhRPaXzMQ1TnN66hu2tnR6PRo",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'아직' 잠실야구장 사라지기 전... 특별한 추억 남길 수 있다, 두산 베어스 8일, 11일, 20일, 24일 팬 투어 프로그램 진행 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/02/2026103122230050808",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'다큐멘터리 3일' 잠실야구장의 추억과 이별",
-          "url": "https://enter.etoday.co.kr/news/view/304666",
-          "source": "비즈엔터"
-        },
-        {
-          "title": "“뱃속에 있을 때부터 야구장 왔어요”… ‘다큐멘터리 3일’ 잠실야구장에 쌓인 가족들의 추억",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266483",
-          "source": "톱스타뉴스"
+          "title": "호남고속도로 내장산~정읍IC 천안 방향, 4~5일 부분 통제",
+          "url": "https://jb.nocutnews.co.kr/news/6601085",
+          "source": "전북노컷"
         }
       ]
     }
