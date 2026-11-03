@@ -1,12 +1,16 @@
 {
-  "updatedAt": "2026-11-03T05:47:31.786Z",
+  "updatedAt": "2026-11-03T06:56:04.132Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 3
+      "category": "기타",
+      "count": 2
     },
     {
-      "category": "기타",
+      "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 2
     },
     {
@@ -14,45 +18,41 @@
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "경제",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "스포츠",
       "count": 1
     },
     {
       "category": "생활·날씨",
       "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "신지애",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-03T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgrK13HCDMXrj-LMMtArupL89QYLRZy44TJ7lrstXa5EH1a40aow8bJjoT-I",
-      "category": "스포츠",
+      "keyword": "이효리",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-03T05:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkcEVzsYfruHIG5OXfo9wuidjt6xWzXCodplA_GamP9hm4_kyn_30DPG4w3is",
+      "category": "기타",
       "news": [
         {
-          "title": "엄마가 남긴 1700만원으로 시작한 골프…68번 우승 끝에 처음 울었다",
-          "url": "https://www.segye.com/newsView/20261030513121",
-          "source": "세계일보"
+          "title": "이효리 \"정신과, 검진받듯 간다\"…'술 갈등' 커플 조언 중 고백 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/03/2026110307354166715",
+          "source": "머니투데이"
         },
         {
-          "title": "'아시안 스윙' 마지막 무대 LPGA 토토 저팬 클래식 5일 개막",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827753",
-          "source": "SBS 뉴스"
+          "title": "서장훈 “그러다 죽어”… 음주 폭행남에 경고 (연애전쟁)",
+          "url": "https://sports.donga.com/ent/article/all/20261103/134954904/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "[LPGA] 김효주 vs 야마시타...한일 '스윙 머신 대결' 누가 웃을까",
-          "url": "https://www.newspim.com/news/view/20261103000381",
-          "source": "뉴스핌"
+          "title": "“방귀 냄새 맡아도 돼?” 남친 체취 집착녀 논란… 생리학적 이유 있었다",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/02/2026110202001.html",
+          "source": "헬스조선"
         }
       ]
     },
@@ -82,77 +82,122 @@
       ]
     },
     {
-      "keyword": "교수",
+      "keyword": "우량주",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-03T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfddb-agA6jIWUpQApHLJDQ3ow5PuXovABeTqTgLDXjqsbc203FmYvb10Up_Y",
-      "category": "IT·과학",
+      "startedAt": "2026-11-03T05:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ",
+      "category": "경제",
       "news": [
         {
-          "title": "\"다음 40년 연다\" 구상모 광운대 교수, 전기전자재료학회 차기회장 선출 - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/03/2026110311381779544",
-          "source": "머니투데이"
-        },
-        {
-          "title": "광운대 구상모 교수, 한국전기전자재료학회 차기회장 선출 … 차세대 전력반도체 권위자",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300170.html",
+          "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html",
           "source": "뉴데일리"
         },
         {
-          "title": "광운대 구상모 교수 한국전기전자재료학회 차기회장 선출",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634858",
-          "source": "베리타스알파"
+          "title": "[베트남 증시] 유동성 늘었지만 外人 '팔자' 지속에 하락...은행 등 대형주 ↓",
+          "url": "https://www.newspim.com/news/view/20261102001612",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "VN 지수가 급락하면서 증권사들은 시장이 바닥을 찾기 위한 노력을 계속하고 있다고 전망했다.",
+          "url": "https://www.vietnam.vn/ko/vn-index-lui-sau-ctck-du-bao-thi-truong-tiep-tuc-do-day",
+          "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "차정원",
+      "keyword": "담배",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-03T03:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6KNcD0fhxjh7oBVGfKrH0GIVlgoPME1Aav5IvLFyoUiXfNKsfOJnThznyYxo",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘킬잇’ 우승자 김나라, 8년 연애 동성 연인과 결혼식… “허락 필요치 않아”",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/02/EF6ZL6PTTRFTDPVNGRTSSGXLB4/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "‘♥하정우’ 차정원, 김나라 결혼식 참석 [DA★]",
-          "url": "https://www.donga.com/SODA/article/0210/20261103/134956237/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "“나라의 결혼식, 행복”…‘다음달 하정우와 결혼’ 차정원이 간 뜻밖의 장소",
-          "url": "https://www.mk.co.kr/news/culture/12194385",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "agf",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKfYGLb-Xr1FHaOSBihCyBC3z9BB5sNfNU-4TEJ1L48qSyKj-I8mvjgbGaqy0",
+      "startedAt": "2026-11-03T04:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyBg8pkLtoKAGEED0DLvDr8hGIvIVaSGtHp7kbba0axAei0WQIwk0llo7KHt8",
       "category": "기타",
       "news": [
         {
-          "title": "AGF suffer tough blow to championship playoff hopes as champions lose in Brondby",
-          "url": "https://www.flashscore.com/news/soccer-superliga-agf-suffer-tough-blow-to-championship-playoff-hopes-as-champions-lose-in-brondby/MZrDb7uH/",
-          "source": "Flashscore.com"
+          "title": "\"담배가 갈수록 싸진다?\"…11년째 '4500원' 담뱃값의 역설 [프라이스&]",
+          "url": "https://www.hankyung.com/article/202611031794i",
+          "source": "한국경제"
         },
         {
-          "title": "Brondby v AGF Odds",
-          "url": "https://sportsbook.fanduel.com/soccer/danish-superliga/brondby-v-agf-36246924",
-          "source": "FanDuel Sportsbook"
+          "title": "전자담배도 ‘발암물질’…비연소 키웠던 담배업계, 규제 변수 촉각",
+          "url": "https://www.asiatime.co.kr/article/20261103500302",
+          "source": "아시아타임즈"
         },
         {
-          "title": "AGF suffer blow to championship playoff hopes with loss to Brondby",
-          "url": "https://www.tribalfootball.com/article/agf-suffer-blow-to-championship-playoff-hopes-with-loss-to-brondby-2753c2fc-a6c3-4957-a8ce-2ed9a32fe74a",
-          "source": "TribalFootball"
+          "title": "‘무니코틴’ 광고하지만…규제 밖 유사담배 급증",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700570",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "스테픈 커리",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T05:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIICJQe1_FWSWvWygMnkh1iv-uLpYyq0m6yfEhf4oQOuirHAatQDCqHRyPoXc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[오늘의 NBA] (11/2) 황금 전사 군단의 새로운 희망",
+          "url": "https://contents.premium.naver.com/nba/shemagicnba/contents/261102145709508oy",
+          "source": "네이버 프리미엄콘텐츠"
+        },
+        {
+          "title": "GSW ‘괴물 루키’ 렌더보그 ‘37득점 대폭발’···커리 이후 16년 만의 루키 최다골 ‘도미니카 르브론’ 주...",
+          "url": "https://sports.khan.co.kr/article/202611021449003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "돈치치 꽈당! 충격 앵클 브레이크 스테판 커리의 철저한 복수. \"지독한 결과 나올 줄 몰랐다. 완벽한 오픈 3점은 정말 오랜만\"",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/01/HBRWKZRTGBTDCMDBMVRDKYRZGA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "월악산",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "월악산 야영장에 ‘자율주행 배송로봇’ 떴다…배송에 안전, 환경까지",
+          "url": "https://m.segye.com/view/20261102519013",
+          "source": "세계일보"
+        },
+        {
+          "title": "국립공원 최초, ‘자율주행무인배송로봇’ 월악산 닷돈재야영장서 실증 성공",
+          "url": "http://m.mgnews.kr/view.php?idx=76944",
+          "source": "문경시민신문"
+        },
+        {
+          "title": "월악산 닷돈재 야영장 '친환경 스마트 탐방' 도입…로봇이 짐 운반",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6336134",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "손영권",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T04:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm-m43Et5zwwWm26qwZce_fI_zOtXgbGHdmtEuCeJ2gDTHrAVW5ueFdoQh2CI",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "45살 `슈퍼모델` 김자연, 70살 삼성전자 전 사장 손영권과 스위스서 로맨틱 결혼식[MD이슈]",
+          "url": "https://mydaily.co.kr/page/view/2026110314433231918",
+          "source": "마이데일리"
+        },
+        {
+          "title": "슈퍼모델 출신 45세 김자연, 70세 삼성전자 전 사장 손영권과 스위스서 결혼",
+          "url": "https://www.wikitree.co.kr/articles/1171453",
+          "source": "위키트리"
         }
       ]
     },
@@ -161,23 +206,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyPJn5nYDcxWCQ-zWUXvKYGwgMxLYKHySgv-t0EJgb3Ran8GP2wUzcKEqdxNY",
-      "category": "기타",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkqZwkvU237XGId_p8ssGYOWpOAkknO6sWy4E1sX7pnH1VlOhkmRWzZjO-MBE",
+      "category": "연예",
       "news": [
         {
-          "title": "서장훈, '자칭 인천 얼짱' 김원훈에 경고 \"이효리 아니면 말 조심\"",
-          "url": "https://www.osen.co.kr/article/G1112902809",
-          "source": "OSEN"
+          "title": "지예은, 청첩장 공개…신동엽 앞에서 \"사회는 유재석\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110223195918105",
+          "source": "머니투데이"
         },
         {
-          "title": "“인천 4대천왕이었다”…‘연애전쟁’ 김원훈, 과거 얼짱 자부심에 서장훈 질색",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266531",
-          "source": "톱스타뉴스"
+          "title": "유재석, 김종국에 아직도 서운…\"내 결혼식 때 부탁한 축가 거절\"",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852089",
+          "source": "뉴시스"
         },
         {
-          "title": "“이효리 정도는 돼야…” 김원훈 인천 4대 천왕 자랑했다가 서장훈에 혼쭐 (연애전쟁)",
-          "url": "https://m.newsen.com/news_view.php?uid=202611021927235710",
-          "source": "뉴스엔"
+          "title": "'바타와 12월 결혼' 지예은, 유재석·신동엽·김종국·양세찬에 직접 청첩장 전달",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6341099",
+          "source": "뉴스1"
         }
       ]
     },
@@ -200,34 +245,9 @@
           "source": "조선일보"
         },
         {
-          "title": "[TF초점] 플레이브, 견고한 성 밖으로",
-          "url": "https://news.tf.co.kr/read/entertain/2383194.htm",
+          "title": "플레이브, '팬앤스타' 글로벌 핫스타 107주 연속 1위…빌보드 자체 최고 기록 '경신'",
+          "url": "https://news.tf.co.kr/stars/read/starwars/2384280.htm",
           "source": "더팩트"
-        }
-      ]
-    },
-    {
-      "keyword": "르브론 제임스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T03:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkWbBn3jVgTBjTOztTPKdRjBdcn4lrt---pYos0UAB908s5pcqQkWeL8SeCVM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "심장 멈췄다 돌아왔는데 “아빠찬스”…유명한 아버지 둔 55순위의 숙명",
-          "url": "https://www.segye.com/newsView/20261029515488",
-          "source": "세계일보"
-        },
-        {
-          "title": "'르브론 아들이라는 후광도 끝났다!'… 레이커스 돌풍 속 홀로 외면받는 브로니, 1분 44초 뛰고 0점→현지 매체 “당장 G리그로 보내야 한다”",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697640",
-          "source": "인터풋볼"
-        },
-        {
-          "title": "NBA 필라델피아, 샬럿 109-104 꺾고 3연승…맥시 38점 폭발",
-          "url": "https://www.newsis.com/view/NISX20261101_0003849696",
-          "source": "뉴시스"
         }
       ]
     },
@@ -241,43 +261,18 @@
       "news": [
         {
           "title": "신세계그룹, '쓱데이' 막바지 할인 공세…최대 92% 재고 정리",
-          "url": "https://www.yna.co.kr/view/AKR20261102151000030",
-          "source": "연합뉴스"
+          "url": "https://stock.mk.co.kr/news/view/1187213",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "[똑똑한소비] SSG닷컴, 무신사, G마켓, GS25, 이마트24, 쿠팡, 컬리, 다이소",
-          "url": "https://m.ekn.kr/view.php?key=20261102028474268",
-          "source": "에너지경제신문"
+          "title": "신세계그룹, ‘2026 쓱데이’ 막판 할인전…이마트·백화점 등 혜택 확대",
+          "url": "https://www.donga.com/news/Economy/article/all/20261103/134957780/1",
+          "source": "동아일보"
         },
         {
           "title": "SSG닷컴, 쓱데이 맞아 '쓱7클럽' 혜택 확대…장보기 14% 적립",
-          "url": "https://stock.mk.co.kr/news/view/1186452",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "해커",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T03:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYeXWBUZ_IwWModaqgSnNGqKazgkFosVeMy6x8Fx6QP3OuYHrcJfmo-9p-Ogo",
-      "category": "경제",
-      "news": [
-        {
-          "title": "바이낸스, 해킹 보상에 비트코인 7499개 투입…보유량 50% 급감",
-          "url": "https://zdnet.co.kr/view/?no=20261103093841",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "해킹 사태에 반응한 김여정‥\"정치적 도발\"",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6862832_36974.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "20분 만에 8조 원 탈취...\"내부 시스템 침투\"",
-          "url": "https://www.ytn.co.kr/_ln/0105_202611031219283059",
-          "source": "YTN"
+          "url": "https://www.yna.co.kr/view/AKR20261102021500030",
+          "source": "연합뉴스"
         }
       ]
     }
