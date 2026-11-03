@@ -1,263 +1,271 @@
 {
-  "updatedAt": "2026-11-03T10:51:11.811Z",
+  "updatedAt": "2026-11-03T11:44:30.528Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 8
+      "category": "기타",
+      "count": 6
     },
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼성 대 kt",
-      "traffic": "50000+",
-      "trafficValue": 50000,
-      "startedAt": "2026-11-03T08:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvCmypqSKt2ZpzVjXG3H_iAkDjJJOTmXi4MuzUa0fEzZ4zz41qH41AnXpk0W4",
-      "category": "스포츠",
+      "keyword": "jesus de miguel",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T10:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw_eN_Qc102cZb1giHc6DnTgbBUZz6Yt_UzW7HkjCv6Oihc9pyvqRmPn6QXmY",
+      "category": "기타",
       "news": [
         {
-          "title": "\"73.8%를 잡아라\"...kt·삼성, 한국시리즈 1차전 격돌",
-          "url": "https://www.ytn.co.kr/_ln/0107_202611031713306242",
-          "source": "YTN"
+          "title": "Tenerife striker De Miguel dies after on-field collision",
+          "url": "https://www.bbc.com/sport/football/articles/ck62yvz046pjo",
+          "source": "BBC"
         },
         {
-          "title": "[포토] 질주하라 힐리어드 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110319074368041",
-          "source": "머니투데이"
+          "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
+          "url": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
+          "source": "CNN"
         },
         {
-          "title": "선수들과 인사 나누는 박진만 감독",
-          "url": "https://www.newsis.com/view/NISI20261103_0021517474",
+          "title": "Tenerife footballer Jesús de Miguel dies aged 30 after on-pitch collision",
+          "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "keyword": "한승택",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T10:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0ETwb3fQAqbqGbu7ky3ybfDGJt4d97BJAUOKABtBRWB0n_Ww1SowBDe1Icb8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "침묵 깨고 1점 추가하는 KT 한승택",
+          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517574",
           "source": "뉴시스"
+        },
+        {
+          "title": "‘KIA→KT’ 10억 주전 포수마저 터졌다! 장찬희에 달아나는 솔로포 폭발…KT 6-0 리드 ‘1차전 승리 보인다’ [KS1]",
+          "url": "https://biz.chosun.com/sports/baseball/2026/11/03/GIZWMMBQGU2TOOLBHE2TKNLDMU/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "호랑이 피가 흐른다…FA 초대박 208안타 외야수-최고 가성비 포수, KIA 탈락 아픔 갚아줄까 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/202611030403779829O",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "전북 대 조호르 fc",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-03T09:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqG7sZ4i2Z3OeqR66OHrO3RHve9T4MOSvSKlYXEJI8zIA1Uy9KXAxPktPYm4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'모따+이탈로 최전방, 이승우 벤치대기' 전북, 조호르전 베스트11 출격…조호르는 말레이시아 선수 단 2명 [오!쎈 전주]",
-          "url": "https://www.chosun.com/sports/football/2026/11/03/MMYGKM3GGIYDSNBXGY3TONZVGQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "전북 현대, 조호르 잡고 ACLE 도약 노린다",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445603",
-          "source": "천지일보"
-        },
-        {
-          "title": "‘브라질과 스페인 출신만 무려 12명’ 조호르가 강한 이유? 모따에게 물었다 [현장 인터뷰]",
-          "url": "https://www.osen.co.kr/article/G1112902636",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "헤수스 데 미겔",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-03T08:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4t0nswW3P_AtpzSOc0UsPK2R-FOqBQZNgHBjPjlYRJeJAO13GDDUlwMpSIQo",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'골키퍼와 충돌→이송 중 심정지' 스페인 공격수 끝내 사망…\"슬픔으로 가득 찬 이 감정을 조금이라도 덜어줄 수 있는 것은 아무것도 없다\"",
-          "url": "https://www.mydaily.co.kr/page/view/2026110317280216575",
-          "source": "마이데일리"
-        },
-        {
-          "title": "[해외축구] '경기 중 GK와 충돌' 스페인 2부 공격수 데 미겔 사망",
-          "url": "https://www.newspim.com/news/view/20261103001355",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "골키퍼 니킥 맞고 쓰러진 공격수, 끝내 의식 잃고 세상 떠나",
-          "url": "https://isplus.com/article/view/isp202611030298",
-          "source": "일간스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "부산 kcc 대 고양 소노",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-03T09:40:00.000Z",
+      "keyword": "김현수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T10:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuGQwiG_wl_Z401wcwishhSipcVGKxqx4GnY1lxNRlbcvx9OwaJ_pTzoryV9U",
       "category": "기타",
       "news": [
         {
-          "title": "[사진] 켐바오, 과감한 3점슛 시도",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/ME3GMMRZMVRWGYZYMQ4WMMLGHE/",
+          "title": "[사진]KT 김현수, '포스트시즌 통산 최다 루타 신기록'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/GA4WINJVMJSDINZQGBTGIZJZMI/",
           "source": "Chosunbiz"
         },
         {
-          "title": "[사진] 김진유, 제임스 골 좋아",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/GI4DKMBSGAYGIMZXGIZDMNDDME/",
-          "source": "조선일보"
+          "title": "[포토] 김현수 150루타! PS 통산 최다 루타 신기록을 달성 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320121384371",
+          "source": "머니투데이"
         },
         {
-          "title": "[사진] 정희재, 3점 성공",
-          "url": "https://www.osen.co.kr/article/G1112903370",
-          "source": "OSEN"
+          "title": "리더의 품격…베테랑 이적생들이 써 내려갈 ‘가을의 전설’",
+          "url": "https://www.hankookilbo.com/news/article/A2026110313470000742",
+          "source": "한국일보"
         }
       ]
     },
     {
-      "keyword": "가시와 레이솔 대 대전",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-03T09:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"월드컵 때만 생각하면 가슴 아파\" 대표팀 깜짝 복귀한 이명재 \"기대 내려놓고 있었는데, 마음 편히 플레이한 결과\"[인터뷰]",
-          "url": "https://www.chosun.com/sports/football/2026/11/03/G4ZWKYJWMRRTEYZZMVQTOYTBHE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'친정팀' 가시와 상대하는 황선홍 감독 로테이션 '승부수', 박규현-김진야-김준범-주앙빅토르 '출격'[ACLE 현장 라인업]",
-          "url": "https://www.chosun.com/sports/football/2026/11/03/HFQTSMRVGVSDQNRYGFRTIOBZMM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "K리그의 'ACL 패싱 논란'에 대한 이순민의 단언 \"ACLE와 병행하는게 더 큰 동기부여가 된다\"",
-          "url": "https://www.sportschosun.com/football/2026-11-02/202611020100013960001119",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "야구중계",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T09:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuU-r48AY3pV9yXiN4O9NWDvdjmzw1dKWCgv2jCT6S8qxh7E9qGjnepGIua4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘스포츠 명가’ 삼성의 부활…야구-축구-농구-배구 일제히 ‘파란 돌풍’",
-          "url": "https://www.donga.com/news/Culture/article/all/20261103/134957943/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "이강철의 철벽도 뚫을까...사자 군단, 이제 수원으로 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611020945463039",
-          "source": "YTN"
-        },
-        {
-          "title": "10구단 체제 KS, '업셋' 두 번…모두 PO 끝장 승부 승자가 정상",
-          "url": "https://www.news1.kr/sports/baseball/6341143",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "박세리",
+      "keyword": "보증금",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-03T09:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPXzB-pPfwW5_PwKpRjPaEp1VccVX-VHXjwG5GeKWrpp4QJ8P4aHermHz2DzQ",
+      "startedAt": "2026-11-03T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt2UmhWaZAxjzKtv-LA-BTtAYmeSOr5dCYtZGOWKygblvOS5seFr0jcLzIZKY",
+      "category": "경제",
+      "news": [
+        {
+          "title": "경기도의회, 청년 주거지원 100억 삭감…조례로 되살리나",
+          "url": "https://www.sentv.co.kr/article/view/sentv202611030191",
+          "source": "서울경제TV"
+        },
+        {
+          "title": "신혼부부 주택구입자금 대출 2026년 총정리｜금리·소득조건·한도·신청방법",
+          "url": "https://www.youthassembly.kr/news/1026974",
+          "source": "유스연합"
+        },
+        {
+          "title": "수원특례시, 무주택 청년·신혼부부 298가구에 전월세보증금 대출잔액의 이자 1%지원 > 뉴스",
+          "url": "https://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=567283",
+          "source": "더코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "samsung vs kt",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T09:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbaw5pmMV4jFLLnx7MP0SYjm23c3HzF0qUNRNikmtViDAm-Cumv9xiC-tSXaQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "박세리 \"첫째 주 숨막혀…1번 월급, 2번 세금\" 은퇴 후 '이것' 못 피해",
-          "url": "https://economist.co.kr/article/view/ecn202611030026",
-          "source": "이코노미스트"
+          "title": "[Photo] Samsung manager Park Jin-man trusts Choi Hyoung-woo",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/DOQ6XFFF6FCILIDP65GIIUIVJE/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "박세리 “방송하는 이유? 직원들 월급”…은퇴 후 현실 고충",
-          "url": "https://www.donga.com/news/Culture/article/all/20261103/134955129/1",
-          "source": "동아일보"
+          "title": "Choi Hyoung-woo, Kang Min-ho Start Despite Aches in Korean Series",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/03/HK5YM5YWMJFEFOZ3V4OQQBCIWY/",
+          "source": "조선일보"
         },
         {
-          "title": "박세리, 40세 골프 은퇴 후 달라진 인생…\"사람들에게 아쉬운 소리도 해야 했다\"",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266544",
+          "title": "Woo Kyu-min reaches Korea Series and vows to beat former team Samsung",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/03/FKLAKZE7QJE3HGF66LB3XRWWCU/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "시사회",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T09:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUctHaxoWQ7KsLkrBMiHKpbKyCjunzGwOgreRiVbeT0KO3l2MgLKV_gKzEt6k",
+      "category": "연예",
+      "news": [
+        {
+          "title": "‘변이’ 4일 개봉…시사회 호평",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611030092",
+          "source": "BNT뉴스"
+        },
+        {
+          "title": "영화 ‘변이’, 개봉주 특전은 시그니처 아트카드…수령 가능 지점 어디?",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264878",
           "source": "톱스타뉴스"
+        },
+        {
+          "title": "'변이', 개봉 전부터 심상치 않은 반응!",
+          "url": "http://m.jtn.co.kr/view.php?m=culture&idx=79823",
+          "source": "JTN뉴스"
         }
       ]
     },
     {
-      "keyword": "박경수",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIBZ5sanHCCZZ15YU3I531kgrslMkhP6oWt1l1sO-okVQWFARDSf5piSsW0fU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'목발투혼' kt 박경수 코치, KS 1차전 시구 \"기쁨 안겨드리고파\"",
-          "url": "https://www.yna.co.kr/view/AKR20261103142900007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "KS 1차전 시구하는 박경수 코치",
-          "url": "https://www.newsis.com/view/NISI20261103_0021517461",
-          "source": "뉴시스"
-        },
-        {
-          "title": "‘2021년 KS MVP’ 박경수, 5년 만의 통합 우승 도전 알리는 시구…애국가는 하현상 [KS1]",
-          "url": "https://www.osen.co.kr/article/G1112903107",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "정하연",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrGKUrpCdQPnQfghDGE36eUybvotHxrXmrwT7EsjFz2yUobJRoqg7YlmuBO5Y",
+      "keyword": "다니엘기도회 2026",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T10:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEnZrD4NXJw5_iJbFcwCIUmh5SngdxLq6bU4_Ub74oPZyASfDFqzp0sognVE",
       "category": "기타",
       "news": [
         {
-          "title": "'사극 대가' 정하연 작가 별세…'왕과 비'·'명성황후' 등 집필",
-          "url": "https://www.yna.co.kr/view/AKR20261101051300005",
-          "source": "연합뉴스"
+          "title": "‘2026 다니엘기도회’ 21일간 영적 대장정 돌입",
+          "url": "https://www.kidok.com/news/articleView.html?idxno=509327",
+          "source": "기독신문"
         },
         {
-          "title": "故최불암 발인날 또 비보…‘왕과 비’·‘명성황후’ 정하연 작가 별세",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/02/MU2TEOBTHE2WEZJQGNRDCYZSGA/",
-          "source": "조선일보"
+          "title": "[2026 다니엘기도회: 2일] “기도한 대로 이루어지지 않아도…” : 목회/신학",
+          "url": "https://www.christiantoday.co.kr/news/378332",
+          "source": "크리스천투데이"
         },
         {
-          "title": "‘장녹수’·‘왕과 비’ 쓴 사극 대가 정하연 작가 별세…향년 82세",
-          "url": "https://www.donga.com/news/Culture/article/all/20261102/134947414/1",
+          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
+          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742",
+          "source": "데일리굿뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "사기",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T10:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKFyCBtn4Vr_C9wKDjEMk2rMDsOBbBQhmlUwmBkzadfcqqrIGeQPvwDrPwp6w",
+      "category": "기타",
+      "news": [
+        {
+          "title": "총·방패 중무장 '방콕 빌라' 급습‥\"엎드려!\" 불호령 한국 남성들 '벌벌'",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862897_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "\"유명인과 성매매\" 줄줄이 걸려들었다…일당 무더기 검거",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828294",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "조건만남 사이트에 6억 입금한 70대…‘가짜 여성’에 뜯겼다",
+          "url": "https://www.donga.com/news/Society/article/all/20261103/134956436/2",
           "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "청년기본소득",
+      "keyword": "돔 경기장",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-03T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJzOTCm0vTZ0PSBfohbB5iJmIqB-2MSNdhmWyIOLjlPFpkfYRR5j8zAyyFbCk",
+      "startedAt": "2026-11-03T10:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX5emfWgusQrCXmQVwF980kX6TjSzPxwm1CWprCIp6bqVBQ0duZM6f3YlIbHo",
       "category": "스포츠",
       "news": [
         {
-          "title": "경기 ‘청년기본소득’ 성남·동두천·연천 불참, 고양 참여",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8701502",
-          "source": "KBS 뉴스"
+          "title": "부천시, 돔구장 유치·AI 콤팩트시티 조성 추진",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202611031823357063&s_mcd=0115",
+          "source": "YTN"
         },
         {
-          "title": "[패트롤] 과천시-광명시-안양시-의왕시-하남시",
-          "url": "https://m.ekn.kr/view.php?key=20261101022083949",
-          "source": "에너지경제신문"
+          "title": "부산 동구 범일2동 주민자치위원회, '2026년 범일2동 주민자치위원회 단합대회' 개최, 북항 돔구장 유치 홍보도",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261103.99099001091",
+          "source": "국제신문"
         },
         {
-          "title": "오산시, 24세 청년에 분기 25만원…청년기본소득 4분기 접수",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850912",
-          "source": "뉴시스"
+          "title": "부천종합운동장에 스포츠·공연 3만석 규모 ‘돔구장’ 유치 추진",
+          "url": "https://www.khan.co.kr/article/202611031434001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "약",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T10:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqxk4nuNRgGxdQ-tTaVNV0WK2EuHrchA3Yu_bXwGdyYwySVNdG-GjDQc4hHY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "남편 약상자서 현금 3000만원…모르고 버렸다가 되찾아",
+          "url": "https://www.donga.com/news/Society/article/all/20261103/134956777/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "폐기용 약 상자에 든 3천만원…약국직원 선행으로 주인 품에",
+          "url": "https://www.dailypharm.com/user/news/344120",
+          "source": "데일리팜"
+        },
+        {
+          "title": "사별한 남편 약상자 속 현금 3000만원…되찾은 사연[오따뉴] - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/03/2026110318461175847",
+          "source": "머니투데이"
         }
       ]
     }
