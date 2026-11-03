@@ -1,70 +1,99 @@
 {
-  "updatedAt": "2026-11-03T12:52:24.935Z",
+  "updatedAt": "2026-11-03T14:05:03.358Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "한승택",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T10:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShlBvAcZdKujOZwZ-ICVOK7O15xYSdLcD_0h5SbDANzzVMj_52h-jS9eo-eZo",
-      "category": "기타",
+      "keyword": "kbo",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-03T12:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4FKdcwqfF3X-LBASMn7lQiSpMZyU34lNuETo4XUr1hFOXbof5qjRfUw4IM8I",
+      "category": "스포츠",
       "news": [
         {
-          "title": "만년 백업서 가을의 영웅으로…kt 한승택, 안방과 타석에서 펄펄",
-          "url": "https://www.yna.co.kr/view/AKR20261103183000007",
-          "source": "연합뉴스"
+          "title": "November 7, 2026: KT Wiz vs Samsung Lions Baseball Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/baseball/events/kt-wiz-vs-samsung-lions-nov-07-2026/",
+          "source": "Robinhood"
         },
         {
-          "title": "‘KIA→KT’ 10억 주전 포수마저 터졌다! 장찬희에 달아나는 솔로포 폭발…KT 6-0 리드 ‘1차전 승리 보인다’ [KS1]",
-          "url": "https://biz.chosun.com/sports/baseball/2026/11/03/GIZWMMBQGU2TOOLBHE2TKNLDMU/",
-          "source": "Chosunbiz"
+          "title": "[Photo] Coach Park Kyung-soo throws ceremonial first pitch, wishing for the championship of the founding captain",
+          "url": "https://www.starnewskorea.com/en/sports/2026/11/03/2026110318364213990",
+          "source": "스타뉴스"
         },
         {
-          "title": "호랑이 피가 흐른다…FA 초대박 208안타 외야수-최고 가성비 포수, KIA 탈락 아픔 갚아줄까 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/202611030403779829O",
-          "source": "머니투데이"
+          "title": "KT Manager Lee Kang-chul: \"Batters are in good rhythm... hope Daniel holds his own,\" \"Just pitch like you did in the regular season\"",
+          "url": "https://news.jkn.co.kr/editions/english/post/1068004",
+          "source": "재경일보"
         }
       ]
     },
     {
-      "keyword": "김현수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T10:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRw5Y68zJy6NpoRVgnDBdEKS2Q-UtkVOHpMowhUwVPT0lSSCxh9k4uOZp2Uvsw",
-      "category": "스포츠",
+      "keyword": "두산에너 빌리티",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-03T11:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOXlHtsGf6eA8Txi_kSM9dbZFUiM4prE650vt2wZw5iePuwRFy8W_eBoR74MA",
+      "category": "경제",
       "news": [
         {
-          "title": "작년 LG에서 KS MVP→올해도 KS 지배! 임기영에 달아나는 투런포 폭발, KT 8-0까지 달아났다 [KS1]",
-          "url": "https://www.osen.co.kr/article/G1112903529",
-          "source": "OSEN"
+          "title": "겹악재에 52주 최저가 찍은 두산에너빌리티…4분기가 분수령",
+          "url": "https://www.hankyung.com/article/202611033095i",
+          "source": "한국경제"
         },
         {
-          "title": "[사진]추격의 투런포 뽑아낸 구자욱 맞이하는 삼성 박진만 감독",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/MIYTOM3BMM2WEMRSGY2WEMJRG4/",
+          "title": "두산에너빌, 3분기 영업이익 전년 대비 90.6%↑",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700617",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "\"두산에너빌리티, 2027년 하반기 대형 원전 수주 본격화\"-대신",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03096326645618168&mediaCodeNo=257",
+          "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "양도소득세",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T12:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQad-XqTzaE0cwdH_LbF06Sz8dYVICO8ddo2bGsVen81710vxwqfRaE3cgpZnE",
+      "category": "경제",
+      "news": [
+        {
+          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
+          "url": "https://www.yna.co.kr/view/AKR20261103075200002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/",
           "source": "조선일보"
         },
         {
-          "title": "[AI그래픽] KBO KS 1차전, KT 김현수 6회 2점포…KT 8-0 삼성",
-          "url": "https://www.newspim.com/news/view/20261103001396",
-          "source": "뉴스핌"
+          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
+          "url": "https://www.munhwa.com/article/11628518",
+          "source": "문화일보"
         }
       ]
     },
     {
       "keyword": "김광석",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-03T11:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnqAw2dnExr52DTk6O6JCKqQS6SRDrNaa4x1tMPAcTCshIwobfrd9YNxdp-ck",
       "category": "기타",
@@ -75,114 +104,114 @@
           "source": "연합뉴스"
         },
         {
-          "title": "‘그대 그리고 나’ 부른 소리새 김광석, 뇌병변 투병 끝 별세…향년 70세",
-          "url": "https://sports.khan.co.kr/article/202611031733003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "‘그대 그리고 나’ 그룹 소리새 김광석 별세…향년 70",
-          "url": "https://www.hani.co.kr/arti/culture/music/1285593.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성 케이티",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T11:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxrh3hFgcVMyRlbRRZkU_5osbZz4y5DXN78yoU21LmOI3uK8cUxd2SjDu00Mk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Davis Daniel (KT Wiz) showed off the dignity of the wizard corps ace.Danyel took the mound as KT's s..",
-          "url": "https://www.mk.co.kr/en/sports/12195296",
+          "title": "‘그대 그리고 나’ 부른 소리새 김광석 별세…향년 70세",
+          "url": "https://www.mk.co.kr/news/hot-issues/12195259",
           "source": "매일경제"
         },
         {
-          "title": "Former MLB player from Mansfield slugs his way into Korea’s World Series",
-          "url": "https://sports.yahoo.com/articles/former-mlb-player-mansfield-slugs-210140911.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Kim Hyun-soo Sets Postseason Hits Record in Korean Series",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/03/THXE2S3H3ZEUTJPDTNQFDD44CU/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "오스카",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T11:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQi1Kso-zAraz0-ggvKKLna1OTh1bD9gizjutzzpwbWMESwgz2JMfN5Dmk6eK0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "설경구·전도연·조여정·조인성의 엇갈린 욕망…‘가능한 사랑’, 스토리 스틸 공개",
-          "url": "https://sports.donga.com/ent/article/all/20261103/134955024/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "‘가능한 사랑’ 조인성·전도연, 묘한 기류 포착",
-          "url": "https://sports.khan.co.kr/article/202611031029023",
+          "title": "‘그대 그리고 나’ 부른 소리새 김광석, 뇌병변 투병 끝 별세…향년 70세",
+          "url": "https://sports.khan.co.kr/article/202611031733003",
           "source": "스포츠경향"
-        },
-        {
-          "title": "조인성은 왜 전도연 무릎의 모래를 털어줬나…‘가능한 사랑’ 미묘한 관계",
-          "url": "https://www.sportsworldi.com/newsView/20261103505234",
-          "source": "스포츠월드"
         }
       ]
     },
     {
-      "keyword": "공룡",
+      "keyword": "사토시",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-03T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQntxCaRTejU57NVhVW3945g3emWq4Jy54_pa3Yn1WHprCT4Rp0wynuPYucvuU",
+      "startedAt": "2026-11-03T12:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6WG-Q2kc0DU3sVcMaw49FDgcJeTUUTmGu-yrXNyWIKAii8yhzvE9telhtCwU",
       "category": "기타",
       "news": [
         {
-          "title": "울산서 ‘공룡 꼬리’ 흔적 발견…“국내 유일 보존”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702705",
-          "source": "KBS 뉴스"
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+          "source": "CoinDesk"
         },
         {
-          "title": "울산 태화강변서 국내 유일 ‘공룡 꼬리 끌림 흔적’ 확인",
-          "url": "https://www.khan.co.kr/article/202611032103005",
-          "source": "경향신문"
+          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html",
+          "source": "GlobeNewswire"
         },
         {
-          "title": "울주군 입암리 화석산지 가치규명 학술연구 최종 결과를 발표",
-          "url": "https://www.newsis.com/view/NISI20261103_0021516721",
+          "title": "Bitcoin White Paper Turns 18 With Payment Verification Still at Its Core",
+          "url": "https://www.tradingview.com/news/newsbtc:eb129e82e094b:0-bitcoin-white-paper-turns-18-with-payment-verification-still-at-its-core/",
+          "source": "TradingView"
+        }
+      ]
+    },
+    {
+      "keyword": "하희라",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T12:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5beesCIMVgxXeV3qpArFxfAun_wkOzybyZOdIiN1QrqDYsQDaiouS-omPy_k",
+      "category": "기타",
+      "news": [
+        {
+          "title": "최수종, ♥하희라에 지극정성 이유 있었다 \"4번 유산하고도 아이들 케어\" 애틋(옥문아)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/GEZTQOLCMIYGKOJWMRTDANRUGU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "최수종, 2000년생 딸 언급 \"대학생인데 통금이 9시\"",
+          "url": "https://www.newsis.com/view/NISX20261103_0003853551",
           "source": "뉴시스"
+        },
+        {
+          "title": "최수종 \"39년 전과 몸무게 똑같아\"…동안 관리법 공개",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6341964",
+          "source": "뉴스1"
         }
       ]
     },
     {
       "keyword": "kt wiz",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-03T11:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00iHN9RlCItWA70enw59YmrPH9ifzmdj2L8pQuqyr2goh3IMA_LW1yr3SHVs",
       "category": "기타",
       "news": [
         {
-          "title": "KT Wiz's Kim Hyun-soo Injured in Korean Series Opener",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/03/2UF33ODQAJE4LKKE3MQ32PVNNE/",
+          "title": "Kim Hyun-soo's Homer Powers KT to 8-0 Lead in Korean Series",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/03/Y6UCGQ3MMVDJJCNUEQMYEFCJZY/",
           "source": "조선일보"
         },
         {
-          "title": "KT Wiz's Kim Hyun-soo leaves Korean Series game with left thumb injury",
-          "url": "https://biz.chosun.com/en/en-sports/2026/11/03/VMPNKG3LGVAUXPMAS7LXO4N2D4/",
+          "title": "(LEAD) Wiz hold off Lions in Korean Series opener",
+          "url": "https://en.yna.co.kr/view/AEN20261103012651315",
+          "source": "Yonhap News Agency"
+        },
+        {
+          "title": "Choi Won-tae (Samsung Lions) failed to repay the expectations of the head coach.",
+          "url": "https://www.mk.co.kr/en/sports/12195225",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "이재현",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T13:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9yS9e3bDdg09uK3RnZcaDuAmthKLKXiSzOrqxIRGvRznAJgTb-clSPzZb3-Q",
+      "category": "기타",
+      "news": [
+        {
+          "title": "추가 실점위기, 역투하는 김정운",
+          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517760",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[사진]삼성 3루수 김영웅, '좋은 수비로 2사 만루 위기 막아내고'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/03/GJTGMOJRGZRDIOLEMVSWIMLGME/",
           "source": "Chosunbiz"
         },
         {
-          "title": "[Photo] Jang Chan-hee dominates on mound",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/PL47FCU4DRDT3PNTTC2TCQQSV4/",
-          "source": "Chosunbiz"
+          "title": "[포토] 박승규, 추격의 서막 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320514242272",
+          "source": "머니투데이"
         }
       ]
     },
@@ -233,31 +262,6 @@
           "title": "“뱃속에 있을 때부터 야구장 왔어요”… ‘다큐멘터리 3일’ 잠실야구장에 쌓인 가족들의 추억",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16266483",
           "source": "톱스타뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "다니엘기도회 2026",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T10:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEnZrD4NXJw5_iJbFcwCIUmh5SngdxLq6bU4_Ub74oPZyASfDFqzp0sognVE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘2026 다니엘기도회’ 21일간 영적 대장정 돌입",
-          "url": "https://www.kidok.com/news/articleView.html?idxno=509327",
-          "source": "기독신문"
-        },
-        {
-          "title": "[2026 다니엘기도회: 2일] “기도한 대로 이루어지지 않아도…” : 목회/신학",
-          "url": "https://www.christiantoday.co.kr/news/378332",
-          "source": "크리스천투데이"
-        },
-        {
-          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
-          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742",
-          "source": "데일리굿뉴스"
         }
       ]
     }
