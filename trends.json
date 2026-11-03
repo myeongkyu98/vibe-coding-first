@@ -1,36 +1,103 @@
 {
-  "updatedAt": "2026-11-03T06:56:04.132Z",
+  "updatedAt": "2026-11-03T08:08:29.401Z",
   "summary": [
     {
       "category": "기타",
-      "count": 2
+      "count": 4
     },
     {
       "category": "IT·과학",
       "count": 2
     },
     {
-      "category": "연예",
+      "category": "스포츠",
       "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
     },
     {
       "category": "경제",
       "count": 1
     },
     {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "삼성",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-03T06:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOOLtpyD0XmTdyf7HwaAPiuCdVwVhzf5B1XwWuCLXkB-WCrzL-zJuIbhBoXAo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "45세 슈퍼모델 김자연, 70세 삼성전자 전 사장과 결혼",
+          "url": "https://www.newsis.com/view/NISX20261103_0003853011",
+          "source": "뉴시스"
+        },
+        {
+          "title": "25살 차이 극복…슈퍼모델 김자연, 전 삼성전자 사장 손영권과 결혼 [자막뉴스]",
+          "url": "https://ichannela.com/news/detail/000000558186.do",
+          "source": "채널A"
+        },
+        {
+          "title": "‘25살 차’…슈퍼모델 김자연·손영권 삼성전자 고문 스위스서 결혼",
+          "url": "https://www.donga.com/news/Culture/article/all/20261103/134958436/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "어린이",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-03T05:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxRNy0bB-VgiE-Lu3rJg9LAZmY4xKyH_eb5laKOH89Nt6z5Dk14NOc9tVSPQQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[평창소식]부모·자녀 함께 요리교실…건강한 식습관 교육 등",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852635",
+          "source": "뉴시스"
+        },
+        {
+          "title": "남동구, 영유아 부모 대상 건강한 집밥 요리교실 운영",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=720602",
+          "source": "뉴스타운"
+        },
+        {
+          "title": "평창군어린이/사회복지급식관리지원센터 부모와 함께하는 아동 요리교실 운영",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=634685",
+          "source": "베리타스알파"
+        }
+      ]
+    },
+    {
+      "keyword": "우량주",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-03T05:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html",
+          "source": "뉴데일리"
+        },
+        {
+          "title": "미 중간선거 우려 속 AI 주가 급락과 증시 향방",
+          "url": "https://story.pay.naver.com/content/3860_39_C9",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "코스피 개장 때 美 선거결과 우르르…증권가 관전포인트는 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110315280671067",
+          "source": "머니투데이"
+        }
+      ]
+    },
     {
       "keyword": "이효리",
       "traffic": "2000+",
@@ -57,62 +124,37 @@
       ]
     },
     {
-      "keyword": "유언",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-03T04:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbRedOcZE2QZr-DdFoBTTb8eVpKUMR8QbCEewwLPJRljx9h8B_gvgPXzqnA3I",
-      "category": "정치·사회",
+      "keyword": "전투기",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-03T06:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayaSsAetDk4dE2PjlvZAmhbqgGlCS5VaFrVvtatXVP-_ZQNFNyvl1WCRDgq0",
+      "category": "기타",
       "news": [
         {
-          "title": "\"15억 전재산 동거녀에게 다 준다는 아버지 유언, 친자녀 몫은 0원?\"",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/02/2026110202845.html",
-          "source": "땅집고"
+          "title": "[영상] 우크라 \"러 Su-57 전투기, 지상에서 엔진 시동 중 폭발\"",
+          "url": "https://www.yna.co.kr/view/AKR20261103109200704",
+          "source": "연합뉴스"
         },
         {
-          "title": "27년 부양한 자녀의 유류분, 대법원 판결",
-          "url": "https://www.lawtalk.co.kr/posts/202511",
-          "source": "로톡"
+          "title": "우크라이나 “러, 수호이 전투기 시동 중 폭발” [자막뉴스]",
+          "url": "https://ichannela.com/news/detail/000000558172.do",
+          "source": "채널A"
         },
         {
-          "title": "[이슈브리핑] 내용증명, 제대로 알고 활용하기",
-          "url": "http://www.aptn.co.kr/news/articleView.html?idxno=113094",
-          "source": "아파트관리신문"
-        }
-      ]
-    },
-    {
-      "keyword": "우량주",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T05:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAAXWxqye4gJrVKS4Dt3RZSvZk0MMkv5ROeCF6eMu-Vgi5rCq_yf1Yv1xzkxQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"다신 국장 안해\" … 李 '오천피' 무색, 우량주는 '코스피 2000' 시절로 회귀",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300107.html",
-          "source": "뉴데일리"
-        },
-        {
-          "title": "[베트남 증시] 유동성 늘었지만 外人 '팔자' 지속에 하락...은행 등 대형주 ↓",
-          "url": "https://www.newspim.com/news/view/20261102001612",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "VN 지수가 급락하면서 증권사들은 시장이 바닥을 찾기 위한 노력을 계속하고 있다고 전망했다.",
-          "url": "https://www.vietnam.vn/ko/vn-index-lui-sau-ctck-du-bao-thi-truong-tiep-tuc-do-day",
+          "title": "Su-57 전투기는 여전히 현대화 잠재력이 매우 높습니다.",
+          "url": "https://www.vietnam.vn/ko/tiem-nang-hien-dai-hoa-cua-tiem-kich-su-57-con-rat-cao",
           "source": "Vietnam.vn"
         }
       ]
     },
     {
       "keyword": "담배",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-03T04:50:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyBg8pkLtoKAGEED0DLvDr8hGIvIVaSGtHp7kbba0axAei0WQIwk0llo7KHt8",
-      "category": "기타",
+      "category": "정치·사회",
       "news": [
         {
           "title": "\"담배가 갈수록 싸진다?\"…11년째 '4500원' 담뱃값의 역설 [프라이스&]",
@@ -120,14 +162,64 @@
           "source": "한국경제"
         },
         {
+          "title": "'무니코틴'이라더니 유사니코틴?…정부, 유사니코틴 독성 연구 추진",
+          "url": "https://www.etnews.com/20261103000181",
+          "source": "전자신문"
+        },
+        {
           "title": "전자담배도 ‘발암물질’…비연소 키웠던 담배업계, 규제 변수 촉각",
           "url": "https://www.asiatime.co.kr/article/20261103500302",
           "source": "아시아타임즈"
+        }
+      ]
+    },
+    {
+      "keyword": "월악산",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "월악산 야영장에 ‘자율주행 배송로봇’ 떴다…배송에 안전, 환경까지",
+          "url": "https://m.segye.com/view/20261102519013",
+          "source": "세계일보"
         },
         {
-          "title": "‘무니코틴’ 광고하지만…규제 밖 유사담배 급증",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8700570",
-          "source": "KBS 뉴스"
+          "title": "국립공원 최초, ‘자율주행무인배송로봇’ 월악산 닷돈재야영장서 실증 성공",
+          "url": "http://m.mgnews.kr/view.php?idx=76944",
+          "source": "문경시민신문"
+        },
+        {
+          "title": "월악산 닷돈재 야영장 '친환경 스마트 탐방' 도입…로봇이 짐 운반",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6336134",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "where to vote",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T06:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3Ahz25iGjmYz9zQWoXmLURLoNObKZ8FsRUJDJMXq9SgUZm2MS4HTteHcwTc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "It’s Election Day in Florida",
+          "url": "https://www.newsfromthestates.com/article/its-election-day-florida",
+          "source": "News From The States"
+        },
+        {
+          "title": "The ultimate voter guide for Tallahassee, Florida elections",
+          "url": "https://www.fsunews.com/story/news/2026/11/02/tallahassee-want-to-know-more-about-who-youre-voting-for-look-here/92563316007/",
+          "source": "FSView & Florida Flambeau"
+        },
+        {
+          "title": "Broward County voters prepare to make their voices heard on Election Day",
+          "url": "https://www.cbsnews.com/miami/video/broward-county-voters-prepare-to-make-their-voices-heard-on-election-day/",
+          "source": "CBS News"
         }
       ]
     },
@@ -157,122 +249,27 @@
       ]
     },
     {
-      "keyword": "월악산",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmLJGfmMB1et2fY89F5gnwYMf6BP2fDE6TYx_MY2sYbxDEDvvXLvWXYN1Jgg",
-      "category": "IT·과학",
+      "keyword": "아시안컵",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T07:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjL7rgo5i6OhgTHWsrZG2q3EJ8XnlPy-I4CKAwej96ScxZxoPh6t_RfXYlccs",
+      "category": "스포츠",
       "news": [
         {
-          "title": "월악산 야영장에 ‘자율주행 배송로봇’ 떴다…배송에 안전, 환경까지",
-          "url": "https://m.segye.com/view/20261102519013",
-          "source": "세계일보"
-        },
-        {
-          "title": "국립공원 최초, ‘자율주행무인배송로봇’ 월악산 닷돈재야영장서 실증 성공",
-          "url": "http://m.mgnews.kr/view.php?idx=76944",
-          "source": "문경시민신문"
-        },
-        {
-          "title": "월악산 닷돈재 야영장 '친환경 스마트 탐방' 도입…로봇이 짐 운반",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6336134",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "손영권",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T04:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm-m43Et5zwwWm26qwZce_fI_zOtXgbGHdmtEuCeJ2gDTHrAVW5ueFdoQh2CI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "45살 `슈퍼모델` 김자연, 70살 삼성전자 전 사장 손영권과 스위스서 로맨틱 결혼식[MD이슈]",
-          "url": "https://mydaily.co.kr/page/view/2026110314433231918",
-          "source": "마이데일리"
-        },
-        {
-          "title": "슈퍼모델 출신 45세 김자연, 70세 삼성전자 전 사장 손영권과 스위스서 결혼",
-          "url": "https://www.wikitree.co.kr/articles/1171453",
-          "source": "위키트리"
-        }
-      ]
-    },
-    {
-      "keyword": "김원훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkqZwkvU237XGId_p8ssGYOWpOAkknO6sWy4E1sX7pnH1VlOhkmRWzZjO-MBE",
-      "category": "연예",
-      "news": [
-        {
-          "title": "지예은, 청첩장 공개…신동엽 앞에서 \"사회는 유재석\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/02/2026110223195918105",
-          "source": "머니투데이"
-        },
-        {
-          "title": "유재석, 김종국에 아직도 서운…\"내 결혼식 때 부탁한 축가 거절\"",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852089",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'바타와 12월 결혼' 지예은, 유재석·신동엽·김종국·양세찬에 직접 청첩장 전달",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6341099",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "버추얼 아이돌",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T04:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWu5puWR_4K0OSL4YQ7FGPE2xLPZpVqbqxoJFbfh41kqsVCzkVmhz18--j36U",
-      "category": "연예",
-      "news": [
-        {
-          "title": "점심시간💜",
-          "url": "https://weverse.io/plave/live/1-181334450",
-          "source": "Weverse"
-        },
-        {
-          "title": "인간 아이돌 제쳤다… 올해 데뷔 4명 중 1명은 ‘버추얼’",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/03/5XLTRHNKH5BQ7ALFLH4BLRZSSM/",
+          "title": "2027 아시안컵, 중동 정세 불안으로 1년여 연기",
+          "url": "https://www.chosun.com/international/international_general/2026/11/03/FJLC6IIHWFHN7E5LB2J5UETMWU/",
           "source": "조선일보"
         },
         {
-          "title": "플레이브, '팬앤스타' 글로벌 핫스타 107주 연속 1위…빌보드 자체 최고 기록 '경신'",
-          "url": "https://news.tf.co.kr/stars/read/starwars/2384280.htm",
-          "source": "더팩트"
-        }
-      ]
-    },
-    {
-      "keyword": "신세계그룹",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIczBzk1AJlmc6XetfEuH-FrsWan2KrQ2ZoHNkNs7i-wN69bclZhcsLdJZbeg",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "신세계그룹, '쓱데이' 막바지 할인 공세…최대 92% 재고 정리",
-          "url": "https://stock.mk.co.kr/news/view/1187213",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "신세계그룹, ‘2026 쓱데이’ 막판 할인전…이마트·백화점 등 혜택 확대",
-          "url": "https://www.donga.com/news/Economy/article/all/20261103/134957780/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "SSG닷컴, 쓱데이 맞아 '쓱7클럽' 혜택 확대…장보기 14% 적립",
-          "url": "https://www.yna.co.kr/view/AKR20261102021500030",
+          "title": "아시안컵 축구, 2027년 12월 개최…중동 정세 불안 탓 일정 변경",
+          "url": "https://www.yna.co.kr/view/AKR20261103133600007",
           "source": "연합뉴스"
+        },
+        {
+          "title": "[속보] 안산 '질산 누출'로 원시역 2번 출구 폐쇄…열차는 정상 운행",
+          "url": "https://www.hankyung.com/article/2026110332647",
+          "source": "한국경제"
         }
       ]
     }
