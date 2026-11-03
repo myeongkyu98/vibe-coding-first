@@ -1,265 +1,271 @@
 {
-  "updatedAt": "2026-11-03T21:37:48.351Z",
+  "updatedAt": "2026-11-03T22:36:12.818Z",
   "summary": [
     {
-      "category": "IT·과학",
-      "count": 3
+      "category": "기타",
+      "count": 5
     },
     {
-      "category": "기타",
+      "category": "경제",
       "count": 3
     },
     {
       "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "경제",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "연금",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-03T20:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX84WG1a6ujWRnb1RrQ2rMuUfysidr3Z1SzeNpL6hFoHGp6NrzNJw2-gQ-5Qw",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“국민연금 10년 가입자 수령액, 기초연금보다 적어”",
-          "url": "https://www.donga.com/news/Society/article/all/20261103/134961032/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "800만명이나 받고 있다는데…“통장에 찍힌 돈은 고작 60만원” 은퇴자 ‘한숨’",
-          "url": "https://www.sedaily.com/article/20109497",
-          "source": "서울경제"
-        },
-        {
-          "title": "국민연금액이 기초연금액보다 적다는 보고서, 정부 '기초연금 차등지급' 추진하는데 '연금 합산' 고려해야 목소리도",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451059",
-          "source": "비즈니스포스트"
-        }
-      ]
-    },
-    {
-      "keyword": "한국경제",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-03T20:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzxXkQKh40QFHc1vB0gFYoeD231BHPw82B2WzORwOvRM9Ovanp4N9bnBTU80",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "AI 랠리 제동 걸리나… 반도체·전력·통신주 장중 낙폭 확대",
-          "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=218677",
-          "source": "인포스탁데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "라이언 와이스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T20:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf2sFFbI-qVccILLNZeQU9_Hw3dFif-VnCFsFxlm8xw8GOUXbjviYtqAhhN4Q",
+      "keyword": "띠별 운세",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-03T21:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF8fVZ52FRFPFRB-04zOc0QnhEYA9SlXykVi9VR2mYrF6XuXDzG79fI52vLAI",
       "category": "기타",
       "news": [
         {
-          "title": "[오피셜] 휴스턴 67억 옵션 거부→대전예수 공식 '자유의 몸'…한화로 돌아올까? \"와이스 美 남으면 마이너 계약\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017115",
-          "source": "SPOTV NEWS"
+          "title": "[오늘의 운세] 2026년 11월 04일 별자리 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611040000000002",
+          "source": "YTN"
         },
         {
-          "title": "한화 복귀 원했던 팬들 '날벼락'… 라이언 와이스 '재취업' 길 열렸다",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3739421",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "'한화 초비상!'…와이스, 이글스 복귀 확률 점점 사라진다→美 매체 \"피츠버그서 옛 스승과 재회 가능성 높아\"",
-          "url": "https://www.xportsnews.com/article/2214189",
-          "source": "엑스포츠뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "man utd vs roma",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq3Qmp52BpPffdFkmV1urZgNgsjY_m8arDtV7x6xUsK67SfLhw5zq_j0CfZ4k",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "(1) Manchester United v Roma: Champions League – live",
-          "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Roma set new record for fastest brace at Old Trafford",
-          "url": "https://sports.yahoo.com/articles/roma-set-record-fastest-brace-205400519.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Champions League: Man United hosts Roma, Barcelona vs Aston Villa, wins for Galatasaray, Sporting",
-          "url": "https://www.foxsports.com/articles/soccer/champions-league-man-united-hosts-roma-barcelona-vs-aston-villa-wins-for-galatasaray-sporting",
-          "source": "FOX Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "맥주",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T20:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3wmZmyPDCzxoqrsxcKlbzmldlp6U43HPgjFM0-TyDjKtEsii-u_BNgIPkD0U",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "하이트진로, 말아 마시던 '테슬라' 소맥 완제품 출시 추진",
-          "url": "https://www.yna.co.kr/view/AKR20261103083900030",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "소맥 조합 ‘테슬라’ 온다⋯ 하이트진로, 소맥 완제품 출시 준비",
-          "url": "https://www.viva100.com/article/20261103500864",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "젠슨 황도 “정말 맛있다” 감탄한 그 술…말아먹던 ‘테슬라’, 완제품으로 나온다",
-          "url": "https://www.sedaily.com/article/20109835",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "챔스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T20:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiU8vcB2KQ0V3JrYYmAtqOtbvITfHpm1bCEUEsvbbxHVem2nhzpNAFvKZrUV4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "케인의 우승 갈증 \"챔스 트로피 위해선 발롱도르 맞바꾸겠다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261103021300007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘발롱도르 품었더니 돈벼락 쏟아진다!’ 바이에른 뮌헨, 세계최고선수 케인에게 통 큰 계약 쏜다…“며칠 안에 재계약 발표” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/202611031959772972O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'7년 전 악몽의 그 경기장으로 돌아간다' 발롱 위너 케인, 토트넘 시절 UCL 결승 패배 장소 재방문...\"좋은 기억 없다, 이번엔 다를 것\"",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/03/GUZDSNZXHAYTKMTFMRRGEZJQGQ/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "그랜드 테프트 오토 vi",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T20:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWOBzV9_8589STIE-JEqKb12QurMfz1e3eeHTJ57Kav9EFt_lZRyoqzl4oOVE",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "GTA6 출시 앞두고 美 들썩…150만명 결근·1조원 손실 주장까지",
-          "url": "https://www.ajunews.com/view/20261102102142838",
-          "source": "아주경제"
-        },
-        {
-          "title": "그랜드 테프트 오토 VI의 PC 버전은 이르면 2027년 1분기에 출시될 수 있습니다.",
-          "url": "https://ko.gamegpu.com/news/igry/reliz-grand-theft-auto-vi-na-pk-mozhet-sostoyatsya-uzhe-v-pervom-kvartale-2027-goda",
-          "source": "GameGPU"
-        },
-        {
-          "title": "신작 없이 13년 어떻게 버텼냐고요? 'GTA'니까",
-          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6399",
-          "source": "캠페인 인사이트"
-        }
-      ]
-    },
-    {
-      "keyword": "psg",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T20:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4VlyUSUqPIfhMaPa0QPPQiyup9BCpwgahVJAKXbPTiIpZG20oYlpKEFZn5k",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Ligue des champions : le Paris Saint-Germain met son sans-faute à l'épreuve à Villarreal : 선물·상품 : JKN",
-          "url": "https://news.jkn.co.kr/editions/french/post/1068226",
-          "source": "재경일보"
-        },
-        {
-          "title": "~!@[EN-DIRECT]@! Villarreal - Paris Saint-Germain En Direct Streaming voir le match de ce soir en direct",
-          "url": "https://www.anayasa.gov.tr/galeri360/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9qb3JpbmEvbWIueG1sIi8+PC9rcnBhbm8+&id=video-villarreal-paris-saint-germain-en-vivo-gratuit-dextvc-0101-7eyo41z",
-          "source": "Anayasa.gov.tr"
-        },
-        {
-          "title": "@![EN[DIRECT]! PSG-Villarreal en direct et gratuit - Supercoupe Finale, 4 novembre 2026",
-          "url": "https://www.anayasa.gov.tr/galeri360/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9qb3JpbmEvd2VzLnhtbCIvPjwva3JwYW5vPg==&id=video-psg-villarreal-en-streaming-juin-2026-dextvc-0103-gimmmwg",
-          "source": "Anayasa.gov.tr"
-        }
-      ]
-    },
-    {
-      "keyword": "man utd đấu với roma",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T20:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMfP1aVO87BpfAybdOU8zo-3LYqD_6iyEdPudhxZMXtwiD-Gu_mQTgNe9zgb8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Manchester United - AS Roma Maç Öncesi Analizi: Zirve Yarışında Önemli Bir Nokta",
-          "url": "https://www.vietnam.vn/tr/nhan-dinh-manchester-united-vs-as-roma-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Kobbie Mainoo kỳ vọng Man Utd chấm dứt chuỗi 9 trận không thắng",
-          "url": "https://bongda.com.vn/kobbie-mainoo-ky-vong-man-utd-cham-dut-chuoi-9-tran-khong-thang-d853627.html",
-          "source": "bongda.com.vn"
-        },
-        {
-          "title": "HLV AS Roma không chủ quan trước trận đấu Man Utd",
-          "url": "https://bongda24h.vn/c1-champions-league/hlv-as-roma-khong-chu-quan-truoc-tran-dau-man-utd-488-463892.html",
-          "source": "Bongda24h"
-        }
-      ]
-    },
-    {
-      "keyword": "한국수력원자력",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T20:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTujyqSRdV6l1q-N8-8b1ioLkrzuMUVurEmE59A97GrRmSS7palo7YmA5lNp9I",
-      "category": "경제",
-      "news": [
-        {
-          "title": "한수원, 유럽 원전 디지털 기기 인증 추진…독일 인증기관과 협력",
-          "url": "https://www.newspim.com/news/view/20261103001298",
+          "title": "[재미있는 오늘의 운세] 2026년 11월 4일",
+          "url": "https://www.newspim.com/news/view/20261030000704",
           "source": "뉴스핌"
         },
         {
-          "title": "한국수력원자력, TUV 라인란드와 유럽 원전 디지털 기기 인증 협력",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202611031828151658f4ab64559d_12",
-          "source": "로이슈"
+          "title": "[오늘의 운세] 11월 4일 수요일 (음력 9월 25일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20261026580393",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "벼",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T21:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7qsD35Db-qoSEApd3oRZ9Nzdnc_mltOD0KR_AtgUnlP80g8QOxGhhzTR0lKM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "벼 수확 및 쌀 수매현장 방문 - 사진 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74096&pageIndex=1",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "한수원, 유럽 원전 기술 장벽 넘는다…TUV 라인란드와 협력 체계 구축",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421390",
-          "source": "데일리한국"
+          "title": "송미령 \"올해 쌀 초과생산량 최대한 격리…수확기 쌀값 안정 총력\"",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850789",
+          "source": "뉴시스"
+        },
+        {
+          "title": "올해 쌀 생산량 전년보다 감소…가격 '강보합' 전망",
+          "url": "https://www.yna.co.kr/view/AKR20261103065600054",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "atlético vs bayern",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T21:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq1C43cGugcPBuDct-YX8ofCjIVzxjt-YtUzPcO4g6Wz9a0K8GCSf_I5YNk_A",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give visitors win",
+          "url": "https://www.bbc.com/sport/football/live/cmy0r2lw77r1t",
+          "source": "BBC"
+        },
+        {
+          "title": "Bayern Munich Defeats Atlético Madrid 2-0 in UCL Korean Derby",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/G2DCQQGJL5APVN4CZNF24DZ2H4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "Licensable picture: ATLETICO DE MADRID Vs BAYERN DE MUNICH Champions League Match, 11.03.26",
+          "url": "https://www.reutersconnect.com/item/atletico-de-madrid-vs-bayern-de-munich-champions-league-match-110326/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDAwSExYMFQ",
+          "source": "Reuters Connect"
+        }
+      ]
+    },
+    {
+      "keyword": "말자쇼",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvhGRkvhp7m8eKwvh9QdWDk6zXwuUIjY7Bvb0nx3qv2FipheJM4OZYGPCdvGI",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "송준근, 아픈 가족사 공개 \"7살때 가족여행 중 세살 위 형 잃어…심장마비 사망\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6340991",
+          "source": "뉴스1"
+        },
+        {
+          "title": "'말자쇼', 가족 위해 달려온 아빠들에게 전한 응원",
+          "url": "https://www.etnews.com/20261103000284",
+          "source": "전자신문"
+        },
+        {
+          "title": "송준근, '10살 형 사망' 고백…\"어머니 우울증 시달려\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/03/2026110223342324014",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "노동조합",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8JBpqWE5TqAL0Eh1h9RTXp5zRcVI0Jpw3aWQoWmvcGEexzEz6aeNocy1t-hE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "효성중공업 사무직노조, 내일부터 파업…사측 \"공장 정상 가동\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261103052951003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "효성重, 노조 72시간 총파업 예고에 “법과 원칙에 따라 대응”",
+          "url": "https://www.etnews.com/20261103000249",
+          "source": "전자신문"
+        },
+        {
+          "title": "슈퍼사이클 속 '성과급 신경전'…효성중공업 노사, 파업 앞두고 대립",
+          "url": "https://zdnet.co.kr/view/?no=20261103133854",
+          "source": "지디넷코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "보안",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T21:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU3PKWXdFNduQ4t7jCW15GSvGmeeNhGr8ES_SspbnqShmc9Mpt6-6mdDK4CNs",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한양증권에서도 해킹…고객정보 등 일부 정보 유출(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261103022951008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[금융권 해킹] ② '체크리스트'로는 못 막는 AI 해킹…\"실시간 탐지 의무화해야\"",
+          "url": "https://www.newspim.com/news/view/20261103000784",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "[속보] 국정원, ‘해킹사고’ 관련 중앙부처·지자체 2100여곳 긴급 보안점검 착수",
+          "url": "https://www.khan.co.kr/article/202611031030001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "대구백화점 본점",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T20:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQszp8KQyxsguBnos1BAl1YFQlddD7L95lWRxqVY6PB1vTj8parC-24J9Mey1g",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[대백의 추락, 그리고 눈물] \"자산 매각에만 의존, 협상력 약화…재무구조 개선 활용 나서야\"",
+          "url": "https://www.imaeil.com/page/view/2026110314124800088",
+          "source": "매일신문"
+        },
+        {
+          "title": "대구백화점 본점 매각 또 난항…중도금 15억 미입금",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261101020148167",
+          "source": "영남일보"
+        },
+        {
+          "title": "대구백화점 본점 매각 또 차질…경영권 소송도 부담",
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=666627",
+          "source": "대구일보"
+        }
+      ]
+    },
+    {
+      "keyword": "보험",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T21:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoOv7hUvtND4hi-sTCE0MvEB2VOHJ7zXhjPxK_wU_jZSVm8sYRAhrRxO2BxpI",
+      "category": "경제",
+      "news": [
+        {
+          "title": "'고의 자해'로 보험금 타내…보험설계사 낀 일당 검거",
+          "url": "https://www.yna.co.kr/view/AKR20261103078700054",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘이 정도는 괜찮겠지’…일상 파고든 보험사기 [김앤장 금융·핀테크·가상자산 인사이트]",
+          "url": "https://www.mk.co.kr/news/society/12195193",
+          "source": "매일경제"
+        },
+        {
+          "title": "보험설계사 자해 보험사기…9억원 챙긴 일당 5명 검거",
+          "url": "https://www.newspim.com/news/view/20261103000372",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "amd 주가",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T21:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwHlbLAeDKeU8jkEhxXjgf7Z-83njyB_GXENwioG7WvQlGxp9vtkDtpY-v0A",
+      "category": "경제",
+      "news": [
+        {
+          "title": "AMD 주가, 분기 실적·매출 가이던스 예상치 상회로 시간외 급등",
+          "url": "https://kr.investing.com/news/earnings/article-2156987",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "인텔과 다르다…AMD 3분기 실적·가이던스 호조에 시간외 주가 9% 급등",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442842",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "기술주 저가매수 유입 …반도체 생명력 어디까지?[박신영의 개장전 요것만]",
+          "url": "https://www.hankyung.com/article/202611044097i",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "쌍둥이",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T21:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiDRXVADAj3a2hlWA02UYv2L7VOn-lso3oTCU41Po1PbhstL3DOgR1mmHGBCc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "1년만에 또 쌍둥이, 아들 넷…‘10만분의 1 기적’ 30대부부 3억 받는다",
+          "url": "https://www.donga.com/news/Society/article/all/20261102/134953686/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "\"쌍둥이 낳았는데 또 쌍둥이\"…3억 지원받는 '10만분의 1의 기적' 애국 부부",
+          "url": "https://view.asiae.co.kr/article/2026110310361603185",
+          "source": "아시아경제"
+        },
+        {
+          "title": "충북 제천 겹쌍둥이 탄생…출산·양육 등 지원금만 3억3000만원",
+          "url": "https://www.khan.co.kr/article/202611021633001",
+          "source": "경향신문"
         }
       ]
     }
