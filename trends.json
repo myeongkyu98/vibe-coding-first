@@ -1,45 +1,28 @@
 {
-  "updatedAt": "2026-11-03T02:44:42.706Z",
+  "updatedAt": "2026-11-03T03:44:29.165Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 6
-    },
-    {
       "category": "경제",
+      "count": 4
+    },
+    {
+      "category": "기타",
       "count": 2
     },
     {
-      "category": "연예",
+      "category": "스포츠",
       "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "비야 디",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-03T00:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqL8auM99l5EndfOgt6_9SjtRSHGMXVl3MarAKri2_4TFkQnNg-J95PskWAQ4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
-          "url": "https://www.hankyung.com/article/2026110210431",
-          "source": "한국경제"
-        },
-        {
-          "title": "[자막뉴스] \"팔면 끝?\" '가성비' 중국 전기차의 반전…광주서 부산까지 '수리 난민' 된 BYD 차주들",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827787&plink=RSSLINK&cooper=GSTAND",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "중국산 전기차의 공습...흔들리는 안방 시장",
-          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611021104314804",
-          "source": "YTN 사이언스"
-        }
-      ]
-    },
     {
       "keyword": "상속세",
       "traffic": "5000+",
@@ -66,202 +49,206 @@
       ]
     },
     {
-      "keyword": "지밀 레니 얼",
+      "keyword": "저기압",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-03T00:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvHuU-RreHvrsbFo8Q1b9IvJew8fM60rAL-kxhQD9myOCK1Yr6bSkbPrUpMcI",
-      "category": "기타",
+      "startedAt": "2026-11-03T02:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJNSgjFmFXULVRMOwqUVmWthLrjd3xoIabPA9n-6Lpq0o26ehviN29LdD31OA",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
-          "url": "https://www.munhwa.com/article/11628280",
-          "source": "문화일보"
-        },
-        {
-          "title": "BTS 지민 부친 카페, 내년 영업 종료",
-          "url": "https://www.newsis.com/view/NISX20261103_0003851902",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "띠별 운세",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T01:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF8fVZ52FRFPFRB-04zOc0QnhEYA9SlXykVi9VR2mYrF6XuXDzG79fI52vLAI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[오늘의 운세] 2026년 11월 03일 별자리 운세",
-          "url": "https://www.ytn.co.kr/_ln/0121_202611030000000002",
-          "source": "YTN"
-        },
-        {
-          "title": "[오늘의 운세] 11월 3일 화요일 (음력 9월 24일) 띠별 운세",
-          "url": "https://www.kyeonggi.com/article/20261026580371",
+          "title": "제31호 태풍 '인파' 심상찮은 진로 변화…한반도 영향 미칠까",
+          "url": "https://www.kyeonggi.com/article/20261101580312",
           "source": "경기일보"
         },
         {
-          "title": "[김동완의 오늘의 운세] 2026년 11월 3일",
-          "url": "https://m.go.seoul.co.kr/news/life/culture-news/fortune-today/2026/11/03/20261103500003?cp=go",
-          "source": "서울Pn"
-        }
-      ]
-    },
-    {
-      "keyword": "박지선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T01:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoD_zLydx-l85O4kfUmEyzdOIhxKUPhXIklo76YRF9cTcsx4XJRUIKhhQ6dY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "故박지선, 6주기에 동기들 모였다... 양상국 \"잘하고 있으니 응원 많이해줘\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/HA2WMZJZG44WGNTGMUYGCODEMM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "故박지선 6주기…양상국·조윤호·김지호, 납골당 모인 KBS 22기 동기들",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6340416",
-          "source": "뉴스1"
-        },
-        {
-          "title": "이종훈, 故 박지선 6주기에 애틋한 인사…“착하고 속 깊은 지선이 너무 보고싶다”",
-          "url": "https://www.sedaily.com/article/20109226",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "말자쇼",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7AqCCyYn7YeDensGCgICkrVoRjaf_BdQ1GclHxRY20Yz6TaxElSgr5m8Xw8g",
-      "category": "연예",
-      "news": [
-        {
-          "title": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "정범균, 개그계 군기 폭로…\"김원효와 NG 냈는데 나만 뺨 맞아\"",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852377",
-          "source": "뉴시스"
-        },
-        {
-          "title": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "미스트롯4",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSnQm13Vi0KaoRgUjY32QqA3CvnC4btmKQ7ZmjdfWVQSbm9p9j36sFOUNd1yk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'미스트롯4' 톱7, 서울 앙코르로 6개월 전국투어 마무리",
-          "url": "https://www.asiae.co.kr/article/2026110310272151628",
-          "source": "아시아경제"
-        },
-        {
-          "title": "[트롯돋보기] 왕관의 무게 견딘 ‘미스트롯4’ 톱7… 논란마저 잠재운 6개월의 눈물",
-          "url": "https://www.mk.co.kr/news/entertain/12193856",
-          "source": "매일경제"
-        },
-        {
-          "title": "‘미스트롯4’ 서울 앙코르 성료…허찬미 오열→TOP7 눈물바다",
-          "url": "https://sports.donga.com/ent/article/all/20261102/134947791/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "래블업",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4nW7bXjZrQ61hMHRSlE0yBsogAMAbEA5GJiKmRzw8JP-l6-KFyRRUJtweLHA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261102032651008",
+          "title": "[뉴스초점] 비 내리고 또 기온 뚝…일본 향하는 태풍 '인파'",
+          "url": "https://www.yna.co.kr/view/MYH20261101010400038",
           "source": "연합뉴스"
         },
         {
-          "title": "'AI 소프트웨어' 래블업 주가 코스닥 상장 첫날 장중 공모가보다 13%대 올라",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450999",
-          "source": "비즈니스포스트"
-        },
-        {
-          "title": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
-          "url": "https://zdnet.co.kr/view/?no=20261102120713",
-          "source": "지디넷코리아"
+          "title": "강도 4 태풍 '인파' 경로 바뀐다…일본 남쪽서 다시 북상",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02876566645618496&mediaCodeNo=257",
+          "source": "이데일리"
         }
       ]
     },
     {
-      "keyword": "리센느 컴백",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFxYga5aBmnuweQF6cu6A-9pwAkTGW-V0i-59eL0em9htwqg33XwBdJSZbe8",
-      "category": "연예",
+      "keyword": "부동산 투자",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-03T02:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-MWJ_6wldo7xs6Y_AuYixgLBsllJj_lhu02GpixxwVg634YgljDoUDsxnxXA",
+      "category": "경제",
       "news": [
         {
-          "title": "리센느, 향기는 고동이 된다…맥박 뛰는 자리마다 번지는 온기",
-          "url": "https://www.newsis.com/view/NISX20261103_0003851913",
-          "source": "뉴시스"
+          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "일방통행 아닌 쌍방향 호흡…리센느가 새 앨범 ‘PULSE’에 심은 유대 서사",
-          "url": "https://sports.donga.com/ent/article/all/20261103/134954927/1",
-          "source": "스포츠동아"
+          "title": "'최대 20% 수익 보장' 투자 사기 유명 부동산 유튜버 구속 송치",
+          "url": "https://www.yna.co.kr/view/AKR20261103060400061",
+          "source": "연합뉴스"
         },
         {
-          "title": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/GY4DOZJZGEZDIZBYMMYTEMZZMU/",
-          "source": "Chosunbiz"
+          "title": "분당경찰서, 125억여원 투자사기 부동산 유튜버 강사 구속 송치",
+          "url": "https://www.kyeongin.com/article/1773966",
+          "source": "경인일보"
         }
       ]
     },
     {
-      "keyword": "양주시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOhF8jXs5gtGLNUl_TygEWP9PGWh9dZ_1xKC8dlys2b4nsY77rVxCLnRR3rJU",
+      "keyword": "유가증권",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-03T02:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPdrxlptFUfwvwQAaxwdFOIDrnQNVQaxefskBPQ1xWLIxZxaPH3PG1QAqnG0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "코스피, 장 중 3%대 '뚝'… AI 수익성 우려에 美 기술주 급락 여파 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110308482056384",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[특징주] 삼전·닉스, 美반도체주 약세에 장초반 5% 안팎 급락",
+          "url": "https://www.yna.co.kr/view/AKR20261103043700008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "오늘의 국내 증시 개장 시황",
+          "url": "https://www.newsis.com/view/NISI20261103_0021516118",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "디에이치 반포124",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7abHvH_Bec5gjsSyQUxn0wBXs-u8ueoWOcI-SjgIRFR-i1M3L3Kh1Zv2fl78",
+      "category": "경제",
+      "news": [
+        {
+          "title": "11월 수도권 아파트 분양 예정 물량 1만9천851가구",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039530",
+          "source": "기호일보"
+        },
+        {
+          "title": "11월 서울 6605가구 분양…서초 대어급 정비사업 줄줄이 출격 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/02/2026110210290677939",
+          "source": "머니투데이"
+        },
+        {
+          "title": "11월 경기·인천 수도권 분양 물량 ‘봇물’…철저한 자금 계획 필수",
+          "url": "https://www.kyeonggi.com/article/20261102580059",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "삼성 갤럭시 z 폴드 6",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T02:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWkVNCGsg4KGO9lcRjVImirway1xh5VBJ1yxzVqXdPopZeRwLXLW61c1Tld_0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "삼성 갤럭시Z폴드9 울트라, 얼마나 달라지나",
+          "url": "https://zdnet.co.kr/view/?no=20261030193751",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "삼성 갤럭시 Z 폴드9, 플러스·9F 두 모델 동시 시험…최종 출시는 한 모델만 간다",
+          "url": "https://www.wikitree.co.kr/articles/1171248",
+          "source": "위키트리"
+        },
+        {
+          "title": "＂삼성전자 17인치 폴더블 태블릿 개발중＂",
+          "url": "https://www.kpinews.kr/newsView/1065601291238326",
+          "source": "KPI뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "jtbc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T02:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "lg디스플레이",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T02:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0D8poDZIHxzvAbW_imbgI2CmQL7k08idr-HZ4qVkbD9I9EplpmaIPkWzo3Nk",
       "category": "기타",
       "news": [
         {
-          "title": "양주시, 초등학교 통학로 13곳 CCTV 확충…어린이 안전망 강화",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=318700",
-          "source": "https://www.ppss.kr/"
+          "title": "LG디스플레이, DMZ 두루미 서식지 조성 나선다",
+          "url": "https://www.khan.co.kr/article/202611031059001",
+          "source": "경향신문"
         },
         {
-          "title": "양주시, 초교 통학 취약지에 방범 CCTV 설치‧보강한다",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=917891",
-          "source": "경기신문"
+          "title": "LG디스플레이, 국립생태원과 파주사업장 주변 생태계 보전 추진",
+          "url": "https://www.yna.co.kr/view/AKR20261103040600003",
+          "source": "연합뉴스"
         },
         {
-          "title": "양주시, 2억 들여 초교 통학로 13개소 방범 CCTV 확충",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852243",
-          "source": "뉴시스"
+          "title": "LG디스플레이, 생물다양성 보전을 위한 업무협약 체결",
+          "url": "https://www.etnews.com/20261103000057",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "춘천 마라톤",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T01:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkul8g3R8sWr3z2XrR7uCtRLk9-PXQ6pjxmz0Dd4DrCzTM73UIwToi2FVNTU",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "금주·노카페인·턱걸이… 노력했지만 서브스리 실패",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/GHA2PLGXTJHPBD7EVL6LCGBOM4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "이승만·김구가 우승컵 기증…1회 춘마 그 시절 그 풍경",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/01/E7MGWDIXF5HORMWWXCDXLZF5NM/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김은중",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T02:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlJqHfP3YCph4y-lrCSjhbza38-mdR80oR5no4tQoiY6N9_Rr5v4ylKlubW1c",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "U-21 축구대표팀, 멕시코와 2연전 명단 발표‥'김예건·김민수 포함'",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6862554_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "U-21 축구대표팀, 멕시코 2연전 명단에 김민수·윤도영 포함",
+          "url": "https://www.yna.co.kr/view/AKR20261102150000007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "김민수 등 26명 소집…올림픽 U-21 대표팀, 멕시코와 2연전",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611021653446j4",
+          "source": "연합뉴스TV"
         }
       ]
     }
