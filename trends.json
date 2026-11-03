@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-03T17:43:49.951Z",
+  "updatedAt": "2026-11-03T18:42:59.929Z",
   "summary": [
     {
       "category": "기타",
       "count": 5
     },
     {
-      "category": "경제",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "경제",
       "count": 2
     },
     {
@@ -20,18 +20,38 @@
   ],
   "items": [
     {
+      "keyword": "코너 맥그리거",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T15:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQtGvc4Fa5uM8-tHZC3aDC8oO0iXOIINhJjKRyW7wOujWJLsCcEZnlZM-gpY4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "UFC 레전드 코너 맥그리거, '라스트 댄스' 종합격투기 복귀 예고 | Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/11/ufc-conor-mcgregor-announces-final-fight-last-dance-mma-return-news",
+          "source": "Hypebeast.KR"
+        },
+        {
+          "title": "'69초 만에 402억' 맥그리거, 은퇴 예고했다…카넬로 경기 흥행 저격→\"내 마지막 경기는 제대로 홍보할 것\"",
+          "url": "https://www.xportsnews.com/article/2214467",
+          "source": "엑스포츠뉴스"
+        }
+      ]
+    },
+    {
       "keyword": "종합부동산세",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-03T15:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHZIwX5ZpPoGn18xPKcWqQ1nfRlUkYnNZUUheF4Wtzgsz2Sfr_8XEqkUYkkrg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_LAzVYoHB1fZB2QCkTTC_evNqUr7ZEwb1kZrdqEC9x2rdD2ySy_ufwqOMYmk",
       "category": "경제",
       "news": [
-        {
-          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
-          "url": "https://www.mk.co.kr/news/realestate/12194970",
-          "source": "매일경제"
-        },
         {
           "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
           "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112",
@@ -41,6 +61,11 @@
           "title": "“징벌적 과세” vs “방향은 옳아”...세제개편 공청회 보유세 공방",
           "url": "https://www.sedaily.com/article/20109806",
           "source": "서울경제"
+        },
+        {
+          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
+          "url": "https://www.mk.co.kr/news/realestate/12194970",
+          "source": "매일경제"
         }
       ]
     },
@@ -104,52 +129,27 @@
       ]
     },
     {
-      "keyword": "코너 맥그리거",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQtGvc4Fa5uM8-tHZC3aDC8oO0iXOIINhJjKRyW7wOujWJLsCcEZnlZM-gpY4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "1분 만에 드러눕고 450억 번 맥그리거, 격투기 은퇴 시사",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/03/V565ESHVUVHKJBYCR2WRBCIPKA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "UFC 레전드 코너 맥그리거, '라스트 댄스' 종합격투기 복귀 예고",
-          "url": "https://hypebeast.kr/2026/11/ufc-conor-mcgregor-announces-final-fight-last-dance-mma-return-news",
-          "source": "Hypebeast.KR"
-        },
-        {
-          "title": "'69초 만에 402억' 맥그리거, 은퇴 예고했다…카넬로 경기 흥행 저격→\"내 마지막 경기는 제대로 홍보할 것\"",
-          "url": "https://www.xportsnews.com/article/2214467",
-          "source": "엑스포츠뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "midterm elections 2026",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T13:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSAxk2uI3V1WwLsKVOjQ0uLVxqj0-7vWu1DXXgvB_XKGPzcC0KBdQ4eAFhzn0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAKNXVHY_d-fpAD0OD-3ELpB-_HiQr83lE6K-yLMGzAQrFoqFxP8p2tWH9m4M",
       "category": "기타",
       "news": [
         {
-          "title": "How to watch live 2026 midterm election results on CBS News",
-          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
-          "source": "CBS News"
+          "title": "2026 Illinois election: See who's on your ballot with our sample ballot tool",
+          "url": "https://www.nbcchicago.com/news/local/whos-on-the-ballot-in-your-area-see-the-candidates-running-for-house-senate-in-illinois/4011123/",
+          "source": "NBC 5 Chicago"
         },
         {
-          "title": "For Midterms Night, a TV Schedule Overflowing With Options",
-          "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
-          "source": "The New York Times"
+          "title": "Live Illinois Results | Elections 2026",
+          "url": "https://www.pbs.org/newshour/elections-2026/results/illinois",
+          "source": "PBS"
         },
         {
-          "title": "US mid-term elections: where to watch the results, analysis and commentary live on TV",
-          "url": "https://www.repubblica.it/en/entertainment/tv-radio/2026/11/03/news/us_mid-term_elections_where_to_watch_the_results_analysis_and_commentary_live_on_tv-425695297/",
-          "source": "la Repubblica"
+          "title": "It's Election Day",
+          "url": "https://www.advantagenews.com/news/local/its-election-day/article_ad53d1cb-3885-41fb-a992-794a9b3bcc05.html",
+          "source": "AdVantageNews.com"
         }
       ]
     },
@@ -167,14 +167,14 @@
           "source": "The Guardian"
         },
         {
-          "title": "Holiday Shoppers Plan to Spend More at Small Businesses. Many Owners Overlook 1 Key Priority",
-          "url": "https://www.inc.com/rachel-suleymanov/holiday-shoppers-plan-spend-more-small-businesses-owners-overlook-1-key-priority/91430057",
-          "source": "Inc.com"
+          "title": "Huron County Economic Development Corporation awarded $100,000 to support small businesses",
+          "url": "https://www.michigansthumb.com/news/article/huron-county-small-business-grant-22506116.php",
+          "source": "Huron Daily Tribune"
         },
         {
-          "title": "Why Holiday Shoppers Are Choosing Small Businesses And How To Win Them Over",
-          "url": "https://www.forbes.com/sites/noemi-kis/2026/11/03/why-holiday-shoppers-are-choosing-small-businesses-and-how-to-win-them-over/",
-          "source": "Forbes"
+          "title": "St. Clair County small businesses can apply for coaching and up to $3,500 in support services",
+          "url": "https://metromodemedia.com/st-clair-county-small-businesses-can-apply-for-coaching-and-up-to-3500-in-support-services/",
+          "source": "Metromode Media"
         }
       ]
     },
@@ -183,48 +183,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T12:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[포토] 김영웅 '유후후 무사 만루다' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321143392274",
-          "source": "머니투데이"
-        },
-        {
-          "title": "KT와 점수차 좁히는 이재현의 적시타",
-          "url": "https://www.newsis.com/view/NISI20261103_0021517730",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "내장산ic",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNbmYe5K0UdoPDZlTtHL1HFg9tR2XoFe_Y4mGZG-VZtwROUhP9BZ6sFfa65JM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6WG-Q2kc0DU3sVcMaw49FDgcJeTUUTmGu-yrXNyWIKAii8yhzvE9telhtCwU",
       "category": "기타",
       "news": [
         {
-          "title": "전북 도공, 호남고속道 내장산 IC~정읍IC 차로 부분통제",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852421",
-          "source": "뉴시스"
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+          "source": "CoinDesk"
         },
         {
-          "title": "호남고속도로 4~5일 '내장산IC~정읍IC 천안방향' 일부 통제",
-          "url": "https://www.news1.kr/local/jeonbuk/6340941",
-          "source": "뉴스1"
+          "title": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
+          "url": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/",
+          "source": "investingLive"
         },
         {
-          "title": "호남고속도로 내장산~정읍IC 천안 방향, 4~5일 부분 통제",
-          "url": "https://jb.nocutnews.co.kr/news/6601085",
-          "source": "전북노컷"
+          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html",
+          "source": "GlobeNewswire"
         }
       ]
     },
@@ -236,6 +211,31 @@
       "picture": "",
       "category": "기타",
       "news": []
+    },
+    {
+      "keyword": "이재현",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T13:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-WMlf3R8Q26soJuGFydPy9toSWyaBufdWJw1j7LH0x62BL2Kcp4EmEr_MIUY",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/",
+          "source": "조선일보"
+        },
+        {
+          "title": "KT와 점수차 좁히는 이재현의 적시타",
+          "url": "https://www.newsis.com/view/NISI20261103_0021517730",
+          "source": "뉴시스"
+        }
+      ]
     }
   ]
 }
