@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-03T16:48:33.422Z",
+  "updatedAt": "2026-11-03T17:43:49.951Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "스포츠",
-      "count": 3
+      "count": 5
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
       "count": 2
     },
     {
@@ -20,29 +20,38 @@
   ],
   "items": [
     {
-      "keyword": "kbo",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-03T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOpYLlsZpb9owNUNezWNUVrlfFlbo0jQWf09lSRNighONRqZqby9FhREvLaUc",
-      "category": "스포츠",
+      "keyword": "종합부동산세",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T15:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHZIwX5ZpPoGn18xPKcWqQ1nfRlUkYnNZUUheF4Wtzgsz2Sfr_8XEqkUYkkrg",
+      "category": "경제",
       "news": [
         {
-          "title": "[Photo] Park Yeong-hyeon climbs mound amid bases-loaded threat in 8th",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/ANJPSF5GNND3PEYU7VSR2UNGRM/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "American slugger Hilliard delivers key plays with bat, glove in 1st KBO postseason game",
-          "url": "https://en.yna.co.kr/view/AEN20261103013100315",
-          "source": "Yonhap News Agency"
-        },
-        {
-          "title": "Davis Daniel (KT Wiz) showed off the dignity of the wizard corps ace.Danyel took the mound as KT's s..",
-          "url": "https://www.mk.co.kr/en/sports/12195296",
+          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
+          "url": "https://www.mk.co.kr/news/realestate/12194970",
           "source": "매일경제"
+        },
+        {
+          "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112",
+          "source": "마켓인"
+        },
+        {
+          "title": "“징벌적 과세” vs “방향은 옳아”...세제개편 공청회 보유세 공방",
+          "url": "https://www.sedaily.com/article/20109806",
+          "source": "서울경제"
         }
       ]
+    },
+    {
+      "keyword": "대리기사",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T14:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "한국항공우주산업",
@@ -99,7 +108,7 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98rYjNKGFkkcMSoEQgn3yRyOg3J-khygHYyBXuf_WziMAIcFBzBGmO0BS6g8",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQtGvc4Fa5uM8-tHZC3aDC8oO0iXOIINhJjKRyW7wOujWJLsCcEZnlZM-gpY4",
       "category": "스포츠",
       "news": [
         {
@@ -120,27 +129,27 @@
       ]
     },
     {
-      "keyword": "종합부동산세",
+      "keyword": "midterm elections 2026",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-03T15:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHZIwX5ZpPoGn18xPKcWqQ1nfRlUkYnNZUUheF4Wtzgsz2Sfr_8XEqkUYkkrg",
-      "category": "경제",
+      "startedAt": "2026-11-03T13:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSAxk2uI3V1WwLsKVOjQ0uLVxqj0-7vWu1DXXgvB_XKGPzcC0KBdQ4eAFhzn0",
+      "category": "기타",
       "news": [
         {
-          "title": "실거주 아니면 ‘세금 폭탄’…꼬이는 부동산 세제개편안 셈법",
-          "url": "https://www.mk.co.kr/news/realestate/12194970",
-          "source": "매일경제"
+          "title": "How to watch live 2026 midterm election results on CBS News",
+          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
+          "source": "CBS News"
         },
         {
-          "title": "“국세수입 0.5% 늘리자고…종부세 48만명 부담 키우나”",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05116806645642112",
-          "source": "마켓인"
+          "title": "For Midterms Night, a TV Schedule Overflowing With Options",
+          "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
+          "source": "The New York Times"
         },
         {
-          "title": "“징벌적 과세” vs “방향은 옳아”...세제개편 공청회 보유세 공방",
-          "url": "https://www.sedaily.com/article/20109806",
-          "source": "서울경제"
+          "title": "US mid-term elections: where to watch the results, analysis and commentary live on TV",
+          "url": "https://www.repubblica.it/en/entertainment/tv-radio/2026/11/03/news/us_mid-term_elections_where_to_watch_the_results_analysis_and_commentary_live_on_tv-425695297/",
+          "source": "la Repubblica"
         }
       ]
     },
@@ -174,18 +183,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T12:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvUBSZLm4j1n9yGTRRkJf_wEsmT4VM_n89b2TXPUdYJnzIPNd01MCOd7PjDWs",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY",
       "category": "스포츠",
       "news": [
-        {
-          "title": "[포토] 김영웅 '유후후 무사 만루다' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321143392274",
-          "source": "머니투데이"
-        },
         {
           "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
           "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/",
           "source": "조선일보"
+        },
+        {
+          "title": "[포토] 김영웅 '유후후 무사 만루다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321143392274",
+          "source": "머니투데이"
         },
         {
           "title": "KT와 점수차 좁히는 이재현의 적시타",
@@ -195,43 +204,9 @@
       ]
     },
     {
-      "keyword": "최미나수",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T14:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "midterm elections 2026",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T13:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSAxk2uI3V1WwLsKVOjQ0uLVxqj0-7vWu1DXXgvB_XKGPzcC0KBdQ4eAFhzn0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "How to watch live 2026 midterm election results on CBS News",
-          "url": "https://www.cbsnews.com/news/where-to-watch-election-2026/",
-          "source": "CBS News"
-        },
-        {
-          "title": "For Midterms Night, a TV Schedule Overflowing With Options",
-          "url": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "US mid-term elections: where to watch the results, analysis and commentary live on TV",
-          "url": "https://www.repubblica.it/en/entertainment/tv-radio/2026/11/03/news/us_mid-term_elections_where_to_watch_the_results_analysis_and_commentary_live_on_tv-425695297/",
-          "source": "la Repubblica"
-        }
-      ]
-    },
-    {
       "keyword": "내장산ic",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-03T12:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNbmYe5K0UdoPDZlTtHL1HFg9tR2XoFe_Y4mGZG-VZtwROUhP9BZ6sFfa65JM",
       "category": "기타",
@@ -252,6 +227,15 @@
           "source": "전북노컷"
         }
       ]
+    },
+    {
+      "keyword": "최미나수",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T14:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
