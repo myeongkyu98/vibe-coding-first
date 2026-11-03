@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T18:42:59.929Z",
+  "updatedAt": "2026-11-03T19:46:22.747Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 3
     },
     {
       "category": "스포츠",
@@ -11,10 +11,22 @@
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 1
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
@@ -79,127 +91,152 @@
       "news": []
     },
     {
-      "keyword": "한국항공우주산업",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T13:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4qvGuC9aAK9qSfCBi7TRqlKEptxZH7Jz2Zgu8AAAS-ZPjEc7LITdQOlkKlk",
-      "category": "IT·과학",
+      "keyword": "배추",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T17:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsg4CuhYiNjkoM5mhQox5TV4hhZU7NVv2zIjwGNMXZJ-MOkWVBw9FSzHpvE1s",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가",
-          "url": "https://www.yna.co.kr/view/AKR20261103148500003",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "한국항공우주산업 3분기 영업이익 794억원…작년 대비 32%↑",
-          "url": "https://stock.mk.co.kr/news/view/1187834",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "신규 수주 500% 급증…KAI, 부진 딛고 연말까지 달린다(종합)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442802",
-          "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "폰지 사기",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T13:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIM5gSNBQGsfpuhilDCCrtdrqzvwCdhWtWqiGDj8rAhIxWJ2QggNnK_7Omhs4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702352",
+          "title": "쪽파는 갈아엎고 배추는 풍작…김장물가 전망은?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702998",
           "source": "KBS 뉴스"
         },
         {
-          "title": "'125억 원 투자사기' 유명 부동산 강사 구속 송치",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6862761_36918.html",
-          "source": "MBC 뉴스"
+          "title": "김장철 농수산물 최대 50% 할인",
+          "url": "https://www.khan.co.kr/article/202611032048035",
+          "source": "경향신문"
         },
         {
-          "title": "“미리 얘기하면 원금 반환” 수강생 꼬드긴 부동산 유튜버",
-          "url": "https://www.kyeongin.com/article/1774046",
-          "source": "경인일보"
+          "title": "최대 반값! 김장재료 6종 저렴하게! '농산물 착한가격 프로젝트'",
+          "url": "https://mediahub.seoul.go.kr/archives/2019910",
+          "source": "서울특별시"
         }
       ]
     },
     {
-      "keyword": "midterm elections 2026",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAKNXVHY_d-fpAD0OD-3ELpB-_HiQr83lE6K-yLMGzAQrFoqFxP8p2tWH9m4M",
-      "category": "기타",
+      "keyword": "성리",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T18:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQChA5qaoxT5qLSpS8sJISAoDxvHut_fQ19lwtr2FCQ7tG6bhHzLpP_vObw5Q",
+      "category": "연예",
       "news": [
         {
-          "title": "2026 Illinois election: See who's on your ballot with our sample ballot tool",
-          "url": "https://www.nbcchicago.com/news/local/whos-on-the-ballot-in-your-area-see-the-candidates-running-for-house-senate-in-illinois/4011123/",
-          "source": "NBC 5 Chicago"
+          "title": "[단독]가수 성리, 12월 20일 KBS 전국노래자랑 고창편 녹화 참여",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324975",
+          "source": "더퍼블릭"
         },
         {
-          "title": "Live Illinois Results | Elections 2026",
-          "url": "https://www.pbs.org/newshour/elections-2026/results/illinois",
-          "source": "PBS"
+          "title": "[단독] 조혜련X서경석→전유진·마이진, '불후-여의도 챔피언스 특집' 출격 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/30/2026103007007288160",
+          "source": "머니투데이"
         },
         {
-          "title": "It's Election Day",
-          "url": "https://www.advantagenews.com/news/local/its-election-day/article_ad53d1cb-3885-41fb-a992-794a9b3bcc05.html",
-          "source": "AdVantageNews.com"
+          "title": "[단독]가수 성리, 11월 9일 KBS '불후의 명곡' 녹화 출격",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=324620",
+          "source": "더퍼블릭"
         }
       ]
     },
     {
-      "keyword": "small business",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T13:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSnvpsgcnytt2MsBYJd6wYFMXyKCddfHKfk_sAPMHSbzT0C8e7GFg3WYVGigc",
-      "category": "기타",
+      "keyword": "경기신용보증재단",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T17:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg9QXTcWhLylHNMcCx5X0cZf50CaqT7wgfXc0uTsOtSMJE_yTKnayWfYIo6Jw",
+      "category": "스포츠",
       "news": [
         {
-          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
-          "source": "The Guardian"
+          "title": "법인·공동대표도 이제 스마트폰으로…경기신보 ‘이지원’ 문턱 낮췄다",
+          "url": "https://www.donga.com/news/Society/article/all/20261103/134958768/1",
+          "source": "동아일보"
         },
         {
-          "title": "Huron County Economic Development Corporation awarded $100,000 to support small businesses",
-          "url": "https://www.michigansthumb.com/news/article/huron-county-small-business-grant-22506116.php",
-          "source": "Huron Daily Tribune"
+          "title": "우리은행, 납품 전 생산단계부터 지원하는 공급망금융 대출 출시",
+          "url": "https://www.yna.co.kr/view/AKR20261103053100002",
+          "source": "연합뉴스"
         },
         {
-          "title": "St. Clair County small businesses can apply for coaching and up to $3,500 in support services",
-          "url": "https://metromodemedia.com/st-clair-county-small-businesses-can-apply-for-coaching-and-up-to-3500-in-support-services/",
-          "source": "Metromode Media"
+          "title": "“물건 납품 전 발주만 받아도 대출”…우리은행, 중소기업에 2000억원 지원",
+          "url": "https://stock.mk.co.kr/news/view/1187637",
+          "source": "매일경제 마켓"
         }
       ]
     },
     {
-      "keyword": "사토시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T12:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6WG-Q2kc0DU3sVcMaw49FDgcJeTUUTmGu-yrXNyWIKAii8yhzvE9telhtCwU",
+      "keyword": "grok",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T17:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJdfby9z4gAqgTZ-Ftv7SjqMVVFoIuRWvFBiDp8TQy3JhRJkClnp1vjxM_LwY",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "Elon Musk Says Grok Bot Costs Were ‘Unsustainably High’ Amid Complaints Over Usage Limits",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/02/musk-says-grok-bots-costs-were-unsustainably-high-weeks-after-touting-rapid-growth/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Musk is throttling Grok because its cost is 'unsustainably high'",
+          "url": "https://finance.yahoo.com/technology/article/musk-is-throttling-grok-because-its-cost-is-unsustainably-high-162959909.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "AI firms ration usage as losses mount",
+          "url": "https://www.telegraph.co.uk/business/2026/11/02/ai-firms-ration-usage-as-losses-mount/",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "keyword": "폴리마켓",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2ldoZDGg3H6VFOcyEBENR2m7CMkWSGgez3QgJ--UGQ33PZqdoZa-Ik-Y8Ng4",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[美중간선거] 예측시장 거래액 2조5천억원…선거판 베팅 확산",
+          "url": "https://www.yna.co.kr/view/AKR20261104001200072",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "미국 중간선거 예측 시장 '베팅' 거래액 2조 5천억 원",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829251",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "\"4년만에 수백배 뛴 베팅판\"…미 중간선거에 걸린 돈 '2조5000억' - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/04/2026110401282530919",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "us election",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T15:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3GMpxJcHY_hf9iZJlKYd7hpP17H1MCR7FLXq6r-ixXmk-t-NIYFChSlqrPSc",
       "category": "기타",
       "news": [
         {
-          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-          "source": "CoinDesk"
+          "title": "U.S. House Midterm Election Live Results 2026",
+          "url": "https://www.nbcnews.com/politics/2026-elections/house-results",
+          "source": "NBC News"
         },
         {
-          "title": "Bitcoin got spooked this Halloween. Is a monster rebound brewing or another crypto nightmare?",
-          "url": "https://investinglive.com/cryptocurrency/bitcoin-got-spooked-this-halloween-is-a-monster-rebound-brewing-or-another-crypto-nightmare/",
-          "source": "investingLive"
+          "title": "2026 election results: National balance of power in Congress",
+          "url": "https://www.latimes.com/politics/story/2026-11-03/2026-midterm-election-live-results-balance-of-power-democrats-republicans-control-congress-senate",
+          "source": "Los Angeles Times"
         },
         {
-          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
-          "url": "https://www.globenewswire.com/news-release/2026/11/02/3392929/0/en/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin.html",
-          "source": "GlobeNewswire"
+          "title": "How House districts might shift in the 2026 midterms",
+          "url": "https://www.cnn.com/2026/11/03/politics/house-districts-midterms-trump-vis",
+          "source": "CNN"
         }
       ]
     },
@@ -211,31 +248,6 @@
       "picture": "",
       "category": "기타",
       "news": []
-    },
-    {
-      "keyword": "이재현",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T13:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-WMlf3R8Q26soJuGFydPy9toSWyaBufdWJw1j7LH0x62BL2Kcp4EmEr_MIUY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[포토] 김성윤 '다 잡았다' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110321404496971",
-          "source": "머니투데이"
-        },
-        {
-          "title": "\"셋 중 하나만 넘어갔더라면...\" 박진만의 장탄식, 흐름 바꾼 '파울홈런→적시타' 쏟아진 칭찬 세례 [KS1 현장]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/04/MQ4TSMRZMVSTSNZYGE3DAOLDME/",
-          "source": "조선일보"
-        },
-        {
-          "title": "KT와 점수차 좁히는 이재현의 적시타",
-          "url": "https://www.newsis.com/view/NISI20261103_0021517730",
-          "source": "뉴시스"
-        }
-      ]
     }
   ]
 }
