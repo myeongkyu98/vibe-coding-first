@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T14:56:43.977Z",
+  "updatedAt": "2026-11-03T15:44:11.274Z",
   "summary": [
     {
       "category": "기타",
@@ -21,26 +21,26 @@
   "items": [
     {
       "keyword": "kbo",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-03T12:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6StTH6sdLd5198X6oZCEumfbBX5iDmpGsXBvA1ZPbfBIzYJzQ-Obtn94PRBc",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOpYLlsZpb9owNUNezWNUVrlfFlbo0jQWf09lSRNighONRqZqby9FhREvLaUc",
       "category": "스포츠",
       "news": [
         {
-          "title": "Live: Samsung Lions vs. KT Wiz in Game 1 of Korean Series",
-          "url": "https://www.koreajoongangdaily.com/sports/live-samsung-lions-vs-kt-wiz-in-game-1-of-korean-series/12952792",
+          "title": "[Photo] Park Yeong-hyeon climbs mound amid bases-loaded threat in 8th",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/03/ANJPSF5GNND3PEYU7VSR2UNGRM/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "Samsung Lions 7-8 KT Wiz in Korean Series Game 1 — as it happened",
+          "url": "https://www.koreajoongangdaily.com/sports/samsung-lions-78-kt-wiz-in-korean-series-game-1-as-it-happened/12952792",
           "source": "Korea JoongAng Daily"
         },
         {
-          "title": "[Photo] Coach Park Kyung-soo throws ceremonial first pitch, wishing for the championship of the founding captain",
-          "url": "https://www.starnewskorea.com/en/sports/2026/11/03/2026110318364213990",
-          "source": "스타뉴스"
-        },
-        {
-          "title": "KT Manager Lee Kang-chul: \"Batters are in good rhythm... hope Daniel holds his own,\" \"Just pitch like you did in the regular season\"",
-          "url": "https://news.jkn.co.kr/editions/english/post/1068004",
-          "source": "재경일보"
+          "title": "Former MLB player from Mansfield slugs his way into Korea’s World Series",
+          "url": "https://sports.yahoo.com/articles/former-mlb-player-mansfield-slugs-210140911.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
@@ -74,23 +74,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T13:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAtV_xRCwnWexTfxO58stOJpPiXvkmN3yKICcIYv1LiHoK9ZQKDOfesx_3NWs",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj4qvGuC9aAK9qSfCBi7TRqlKEptxZH7Jz2Zgu8AAAS-ZPjEc7LITdQOlkKlk",
       "category": "IT·과학",
       "news": [
         {
-          "title": "KAI 노조 1천300명 상경투쟁…\"한화 인수 저지·독립경영 보장\"",
-          "url": "https://www.yna.co.kr/view/AKR20261103155700052",
+          "title": "KAI, 수출 호조에 3분기 매출 52% 증가…영업익도 32% 증가",
+          "url": "https://www.yna.co.kr/view/AKR20261103148500003",
           "source": "연합뉴스"
         },
         {
-          "title": "[데스크의 눈] ‘KAI 민영화’ 논란, 뭣이 중헌디",
-          "url": "https://www.segye.com/newsView/20261103517116",
-          "source": "세계일보"
+          "title": "한국항공우주산업 3분기 영업이익 794억원…작년 대비 32%↑",
+          "url": "https://stock.mk.co.kr/news/view/1187834",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "[르포] “방산 핵심부문 대기업이 집어삼킨다”…KAI 노조원들의 절박한 상경투쟁",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353759",
-          "source": "녹색경제신문"
+          "title": "신규 수주 500% 급증…KAI, 부진 딛고 연말까지 달린다(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442802",
+          "source": "연합인포맥스"
         }
       ]
     },
@@ -108,14 +108,14 @@
           "source": "The Guardian"
         },
         {
-          "title": "Gusto Small Business Jobs and Pay Report: Small Businesses Add 38,000 Jobs in October, Marking Ninth Straight Month of Growth",
-          "url": "https://www.morningstar.com/news/pr-newswire/20261103sf87282/gusto-small-business-jobs-and-pay-report-small-businesses-add-38000-jobs-in-october-marking-ninth-straight-month-of-growth",
+          "title": "U.S. Small Business Employment Trends Hold Steady in October",
+          "url": "https://www.morningstar.com/news/globe-newswire/9868193/us-small-business-employment-trends-hold-steady-in-october",
           "source": "Morningstar"
         },
         {
-          "title": "U.S. Small Business Employment Trends Hold Steady in October",
-          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394226/0/en/u-s-small-business-employment-trends-hold-steady-in-october.html",
-          "source": "GlobeNewswire"
+          "title": "Gusto Small Business Jobs and Pay Report: Small Businesses Add 38,000 Jobs in October, Marking Ninth Straight Month of Growth",
+          "url": "https://www.prnewswire.com/news-releases/gusto-small-business-jobs-and-pay-report-small-businesses-add-38-000-jobs-in-october-marking-ninth-straight-month-of-growth-302927134.html",
+          "source": "PR Newswire"
         }
       ]
     },
@@ -163,49 +163,33 @@
           "source": "GlobeNewswire"
         },
         {
-          "title": "Bitcoin White Paper Turns 18 With Payment Verification Still at Its Core",
-          "url": "https://www.tradingview.com/news/newsbtc:eb129e82e094b:0-bitcoin-white-paper-turns-18-with-payment-verification-still-at-its-core/",
-          "source": "TradingView"
+          "title": "Bitcoin (BTC) White Paper Marks 18 Years as U.S. ETFs Hold 1.28M BTC",
+          "url": "https://www.tokenpost.com/news/investing/45850",
+          "source": "www.tokenpost.com"
         }
       ]
     },
     {
-      "keyword": "하희라",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T12:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5beesCIMVgxXeV3qpArFxfAun_wkOzybyZOdIiN1QrqDYsQDaiouS-omPy_k",
+      "keyword": "최미나수",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T14:10:00.000Z",
+      "picture": "",
       "category": "기타",
-      "news": [
-        {
-          "title": "최수종, ♥하희라에 지극정성 이유 있었다 \"4번 유산하고도 아이들 케어\" 애틋(옥문아)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/GEZTQOLCMIYGKOJWMRTDANRUGU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "최수종, 2000년생 딸 언급 \"대학생인데 통금이 9시\"",
-          "url": "https://www.newsis.com/view/NISX20261103_0003853551",
-          "source": "뉴시스"
-        },
-        {
-          "title": "최수종 \"39년 전과 몸무게 똑같아\"…동안 관리법 공개",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6341964",
-          "source": "뉴스1"
-        }
-      ]
+      "news": []
     },
     {
       "keyword": "midterm elections 2026",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-03T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdoYefuj9wQ2lYXULmy9ajxoWlhQYRxZwOU0LB7_4p1iJAmQ0NOBrOfDesB9g",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo1tiQCiKKwvEWBr-mlGnSShvFb_sfWYJeTwPt9SVIsQrQOKAXbZXmiCMtQ3w",
       "category": "기타",
       "news": [
         {
-          "title": "Midterm elections live: America heads to the polls to decide control of Congress for Trump’s final two years",
-          "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress",
-          "source": "CNN"
+          "title": "Live updates: 2026 US midterm elections and results",
+          "url": "https://www.bbc.com/news/live/cj1dw0ydn595t",
+          "source": "BBC"
         },
         {
           "title": "Polling Stations Busy From Early Morning... Trump Faces 'Day of Destiny'",
@@ -224,22 +208,22 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-03T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIVcrS9OAE5UAYaSN8eIk226SXJTuEoS7ox5XePZlZWidupPrTfE6vXbeuWHg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGEGvkex9zEtlBY9ateQb-Tc6uqgdLE0earoVJgY4QRTnt_S570k-Hwrd6NYQ",
       "category": "기타",
       "news": [
         {
-          "title": "추가 실점위기, 역투하는 김정운",
-          "url": "https://mobile.newsis.com/photo/NISI20261103_0021517759",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[포토] 삼성, 아쉽게 패배",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/MQ4TOMDEMYZGCNRQMI2WMZBXGM/",
+          "title": "[사진]실점 위기 등판한 사토시, 한점 차 승부 이어가보자",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/GYZTGYRVMNRTMZLCMYYWCY3BMI/",
           "source": "조선일보"
         },
         {
-          "title": "[포토] 임기영 '막으면 디비진다' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320411848267",
+          "title": "KT와 점수차 좁히는 이재현의 적시타",
+          "url": "https://www.newsis.com/view/NISI20261103_0021517730",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[포토] 박승규, 추격의 서막 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110320514242272",
           "source": "머니투데이"
         }
       ]
