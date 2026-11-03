@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-03T01:54:32.654Z",
+  "updatedAt": "2026-11-03T02:44:42.706Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 4
+      "category": "기타",
+      "count": 6
     },
     {
-      "category": "기타",
-      "count": 4
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "연예",
@@ -17,11 +17,11 @@
   "items": [
     {
       "keyword": "비야 디",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-03T00:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqL8auM99l5EndfOgt6_9SjtRSHGMXVl3MarAKri2_4TFkQnNg-J95PskWAQ4",
-      "category": "경제",
+      "category": "기타",
       "news": [
         {
           "title": "'이럴 거면 그냥 국산차 탈걸'…BYD 차주들 비명 터졌다",
@@ -29,14 +29,39 @@
           "source": "한국경제"
         },
         {
+          "title": "[자막뉴스] \"팔면 끝?\" '가성비' 중국 전기차의 반전…광주서 부산까지 '수리 난민' 된 BYD 차주들",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827787&plink=RSSLINK&cooper=GSTAND",
+          "source": "SBS 뉴스"
+        },
+        {
           "title": "중국산 전기차의 공습...흔들리는 안방 시장",
           "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611021104314804",
           "source": "YTN 사이언스"
+        }
+      ]
+    },
+    {
+      "keyword": "상속세",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-03T01:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Vmc41hizqN0Vs0ZWS6U14p0b0N77KD7BrfTIEA9Icr328zTJaSdS1lg2bKM",
+      "category": "경제",
+      "news": [
+        {
+          "title": "상속세 아끼려면? “집 팔아서 현금으로 주세요”",
+          "url": "https://www.munhwa.com/article/11628181",
+          "source": "문화일보"
         },
         {
-          "title": "[세계車트] 수출로 버틴 중국차, 유럽선 물량 제한 변수…리튬 가격 뚝",
-          "url": "https://zdnet.co.kr/view/?no=20261102181547",
-          "source": "지디넷코리아"
+          "title": "\"집 팔아 금융재산 넘겨라\"…세무사가 밝힌 상속세 2억 절세법",
+          "url": "https://www.newsis.com/view/NISX20261029_0003847018",
+          "source": "뉴시스"
+        },
+        {
+          "title": "부모에게 집 물려받았는데 오히려 골칫거리?…주택 상속의 숨겨진 비용 > 시애틀 뉴스/핫이슈",
+          "url": "https://www.seattlen.com/hot/69625",
+          "source": "SeattleN"
         }
       ]
     },
@@ -49,7 +74,7 @@
       "category": "기타",
       "news": [
         {
-          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 문 닫는다",
+          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
           "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1",
           "source": "동아일보"
         },
@@ -66,27 +91,77 @@
       ]
     },
     {
-      "keyword": "래블업",
+      "keyword": "띠별 운세",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T01:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF8fVZ52FRFPFRB-04zOc0QnhEYA9SlXykVi9VR2mYrF6XuXDzG79fI52vLAI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[오늘의 운세] 2026년 11월 03일 별자리 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611030000000002",
+          "source": "YTN"
+        },
+        {
+          "title": "[오늘의 운세] 11월 3일 화요일 (음력 9월 24일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20261026580371",
+          "source": "경기일보"
+        },
+        {
+          "title": "[김동완의 오늘의 운세] 2026년 11월 3일",
+          "url": "https://m.go.seoul.co.kr/news/life/culture-news/fortune-today/2026/11/03/20261103500003?cp=go",
+          "source": "서울Pn"
+        }
+      ]
+    },
+    {
+      "keyword": "박지선",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T01:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoD_zLydx-l85O4kfUmEyzdOIhxKUPhXIklo76YRF9cTcsx4XJRUIKhhQ6dY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "故박지선, 6주기에 동기들 모였다... 양상국 \"잘하고 있으니 응원 많이해줘\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/02/HA2WMZJZG44WGNTGMUYGCODEMM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "故박지선 6주기…양상국·조윤호·김지호, 납골당 모인 KBS 22기 동기들",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6340416",
+          "source": "뉴스1"
+        },
+        {
+          "title": "이종훈, 故 박지선 6주기에 애틋한 인사…“착하고 속 깊은 지선이 너무 보고싶다”",
+          "url": "https://www.sedaily.com/article/20109226",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "말자쇼",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4nW7bXjZrQ61hMHRSlE0yBsogAMAbEA5GJiKmRzw8JP-l6-KFyRRUJtweLHA",
-      "category": "경제",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7AqCCyYn7YeDensGCgICkrVoRjaf_BdQ1GclHxRY20Yz6TaxElSgr5m8Xw8g",
+      "category": "연예",
       "news": [
         {
-          "title": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261102032651008",
-          "source": "연합뉴스"
+          "title": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1",
+          "source": "동아일보"
         },
         {
-          "title": "'AI 소프트웨어' 래블업 주가 코스닥 상장 첫날 장중 공모가보다 13%대 올라",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450999",
-          "source": "비즈니스포스트"
+          "title": "정범균, 개그계 군기 폭로…\"김원효와 NG 냈는데 나만 뺨 맞아\"",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852377",
+          "source": "뉴시스"
         },
         {
-          "title": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
-          "url": "https://zdnet.co.kr/view/?no=20261102120713",
-          "source": "지디넷코리아"
+          "title": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/",
+          "source": "Chosunbiz"
         }
       ]
     },
@@ -116,102 +191,27 @@
       ]
     },
     {
-      "keyword": "말자쇼",
+      "keyword": "래블업",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7AqCCyYn7YeDensGCgICkrVoRjaf_BdQ1GclHxRY20Yz6TaxElSgr5m8Xw8g",
-      "category": "연예",
-      "news": [
-        {
-          "title": "김원효♥심진화, 영화관서 결혼한 이유…“아내 한마디 듣고 바로 전화”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954308/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "김원효, ♥심진화와 이혼 위기 고백 “투자 실패로 전 재산 날려..간실히 잘 사는 중”",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/MIZTGYJWMQ4DCZDBGFRWKNRRHA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "김원효, \"엉뚱하다? 개념 없는 것\" 폭로에 어질 [RE:TV]",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6340504",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "단기채",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRSUscv2caCmjXS4zHOdNFONTMObwwKqHkTqzTBvo8jyveDSmug2RzeuDyTic",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4nW7bXjZrQ61hMHRSlE0yBsogAMAbEA5GJiKmRzw8JP-l6-KFyRRUJtweLHA",
       "category": "경제",
       "news": [
         {
-          "title": "\"제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라\"",
-          "url": "https://www.chosun.com/economy/money/2026/11/03/EYYBMPLNO5HDXF3SLB3I6FN5WA/",
-          "source": "조선일보"
+          "title": "[특징주] 영광, 코스닥 상장 첫날 26% 상승 마감(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261102032651008",
+          "source": "연합뉴스"
         },
         {
-          "title": "1300원대 환율에 외화투자 관심 쑥, 달러예금 트래블통장 더해 ETF도 눈길",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450832",
+          "title": "'AI 소프트웨어' 래블업 주가 코스닥 상장 첫날 장중 공모가보다 13%대 올라",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450999",
           "source": "비즈니스포스트"
         },
         {
-          "title": "쌀 때 빌리자…환율 내리자 달러대출 ‘쑥‘",
-          "url": "https://biz.sbs.co.kr/article/20000343318",
-          "source": "SBS Biz"
-        }
-      ]
-    },
-    {
-      "keyword": "매일경제",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-02T23:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[보도자료] 규제합리화 라이브클럽 현장 간담회",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=454698",
-          "source": "서울Pn"
-        },
-        {
-          "title": "[매일경제] 차민태 교수, 칼럼 'K클럽이 예술도시를 만든다' 기고",
-          "url": "http://www.newshyu.com/news/articleView.html?idxno=1026907",
-          "source": "뉴스H"
-        },
-        {
-          "title": "'오방가르드 사태' 계기로…라이브클럽 춤 규제 개선 논의 본격화",
-          "url": "https://www.fnnews.com/news/202611021740514437",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "양주시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaER-emQ_-EN4BTzNpE4qbrMg1jyJaZw7DCaiEr-gefG6-midYCpFxiVzJVoY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "양주 백석·광적 신규 택지개발 요청…LH에 16개 현안 건의",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335727",
-          "source": "인천일보"
-        },
-        {
-          "title": "“신도시 난개발·미매각 용지 묵히지 마라”… 양주시, LH 사장 만나 ‘16대 숙원’ 전격 건의",
-          "url": "https://www.viva100.com/article/20261103500102",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "정덕영 양주시장, LH 사장 만나 원활한 사업 추진 요청",
-          "url": "https://www.kyeonggi.com/article/20261102580545",
-          "source": "경기일보"
+          "title": "[IPO] 영광YKMC, 차세대 EUV 등 영역 확장…\"올 매출 800억 달성\"",
+          "url": "https://zdnet.co.kr/view/?no=20261102120713",
+          "source": "지디넷코리아"
         }
       ]
     },
@@ -229,39 +229,39 @@
           "source": "뉴시스"
         },
         {
-          "title": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/03/GU2WENRQMMYDKYZTGAYWKOBTGA/",
-          "source": "조선일보"
-        },
-        {
           "title": "일방통행 아닌 쌍방향 호흡…리센느가 새 앨범 ‘PULSE’에 심은 유대 서사",
           "url": "https://sports.donga.com/ent/article/all/20261103/134954927/1",
           "source": "스포츠동아"
+        },
+        {
+          "title": "리센느, 머스크 향 품고 오늘(3일) 컴백..정주행의 시간",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/03/GY4DOZJZGEZDIZBYMMYTEMZZMU/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "도지코인",
+      "keyword": "양주시",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-02T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBOTin2QZq1TN--ojysYBKk0rmTYO3k0w485GF6VgALsPWvY9cXhIMO8BOs2s",
-      "category": "경제",
+      "startedAt": "2026-11-03T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOhF8jXs5gtGLNUl_TygEWP9PGWh9dZ_1xKC8dlys2b4nsY77rVxCLnRR3rJU",
+      "category": "기타",
       "news": [
         {
-          "title": "도지코인에 무슨 일이…대형 고래 1억 2,000만 개 던지고 가격은 5주째 추락",
-          "url": "https://www.coinreaders.com/266853",
-          "source": "코인리더스"
+          "title": "양주시, 초등학교 통학로 13곳 CCTV 확충…어린이 안전망 강화",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=318700",
+          "source": "https://www.ppss.kr/"
         },
         {
-          "title": "Dogecoin은 커뮤니티 주도 결제 네트워크로 작동합니다",
-          "url": "https://www.onebullex.com/ko-kr/academy/what-is-dogecoin-doge-and-how-does-it-work",
-          "source": "OneBullEx"
+          "title": "양주시, 초교 통학 취약지에 방범 CCTV 설치‧보강한다",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=917891",
+          "source": "경기신문"
         },
         {
-          "title": "도지코인, '도지코인 랩스'로 일론 머스크 영향력 벗어나나",
-          "url": "https://gall.dcinside.com/board/view/?id=khgames&no=11735",
-          "source": "갤러리"
+          "title": "양주시, 2억 들여 초교 통학로 13개소 방범 CCTV 확충",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852243",
+          "source": "뉴시스"
         }
       ]
     }
