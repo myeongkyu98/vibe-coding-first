@@ -1,255 +1,259 @@
 {
-  "updatedAt": "2026-11-04T19:52:38.076Z",
+  "updatedAt": "2026-11-04T20:45:52.828Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
-    },
-    {
       "category": "기타",
-      "count": 3
+      "count": 5
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "페네르바흐체 대 리버풀",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-04T16:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaGJInd-IuQRA4vRm5tef2QulojqM7yh1s9Ex_Z37ITel0nrJ779BFLJwghdI",
-      "category": "기타",
+      "keyword": "슬라비아 프라하 대 아스널",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-04T19:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIzfGmN5IDsRZVLonz7lRtOTsk7ZZuwDe5CywRIhqWA3-wfKrCk-fLMmo56VU",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Champions League: Liverpool visit Fenerbahce before Arsenal and Man City in action",
-          "url": "https://www.bbc.com/sport/football/live/c6rmy8zvwnryt",
+          "title": "챔피언스 리그 슬라비아 프라하 대 아스날 경기 점수 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-slavia-prague-vs-arsenal-tai-champions-league-1794591.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "슬라비아 프라하 vs 아스널, 11월 5일 새벽 3시: 생중계 링크, 분석 및 예측.",
+          "url": "https://www.vietnam.vn/ko/slavia-praha-vs-arsenal-3h-ngay-5-11-link-xem-truc-tiep-nhan-dinh-du-doan",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "슬라비아 프라하 vs 아스널 경기 예측, 11월 5일 오전 3시: 무패 행진 연장 가능성",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-slavia-praha-vs-arsenal-03h00-ngay-5-11-noi-dai-mach-bat-bai",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "라이프치히 대 맨 시티",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-04T19:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6zOZw4pIldFqNyJrBvP8xCM9_oBHrHr-z8p1okAGJtTA5OdZr-5zucqill-Q",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "RB Leipzig vs Manchester City: UEFA Champions League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cq1kd2r14z8rt",
           "source": "BBC"
         },
         {
-          "title": "Team news: Confirmed Liverpool line-up v Fenerbahce",
-          "url": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-fenerbahce",
-          "source": "Liverpool FC"
+          "title": "RB Leipzig vs Man City LIVE! Champions League match updates, team news, score and analysis",
+          "url": "https://www.skysports.com/football/live-blog/13607406/rb-leipzig-vs-man-city-live-champions-league-match-updates-team-news-score-and-analysis",
+          "source": "Sky Sports"
         },
         {
-          "title": "FOX Network: FENERBAHCE LIVERPOOL UEFA Champions League Match 𝐋𝐈𝐕𝐄 fRee",
-          "url": "https://interaktiv.tagesanzeiger.ch/2016/plaine-morte/panos/camp/camp.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbHVlOTM3Mmx1Y2FzLmdpdGh1Yi5pby91Y2xvbnR2L2ZpbGUueG1sIi8+PC9rcnBhbm8+&id=fenerbahce-liverpool-epl-live-on-usstv-qzwh7660",
-          "source": "tagesanzeiger.ch"
+          "title": "Champions League expert picks, predictions, best bets: Manchester City aim for turnaround vs. RB Leipzig",
+          "url": "https://www.cbssports.com/soccer/news/champions-league-expert-picks-predictions-best-bets-manchester-city-aim-for-turnaround-vs-rb-leipzi/",
+          "source": "CBS Sports"
         }
       ]
     },
     {
-      "keyword": "이찬원",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-04T15:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShLMbvmWky8s4MiVxf22ekx-LHUqfR8YsbZfFyiTDQd96Oe-6mkAv_P7ijMOk",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "통행 금지령 내린 파리 현지 상황부터 캐나다 퀘벡 단풍 여행까지",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742593",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "[종합] '톡파원 25시' 김대호&조정식이 꼽은 서울 명소, 여의도 서울달·남산타워",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16268595",
-          "source": "톱스타뉴스"
-        },
-        {
-          "title": "이찬원, 다음주 '톡파원 25시' 예고…도쿄 펜트하우스 매매가 공개",
-          "url": "https://enter.etoday.co.kr/news/view/304768",
-          "source": "비즈엔터"
-        }
-      ]
-    },
-    {
-      "keyword": "한화 이글스",
+      "keyword": "혈당",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-04T17:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklCACVCPuth3iBks5RiExvkZEWepNCwbd1FsuXqE4UQOHLhTAbTFdoPaaq6U",
-      "category": "스포츠",
+      "startedAt": "2026-11-04T18:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Pl0aYjELYrODr7HRcIsi8pC3C8QJCIrz3dZQGtHRaDt7rLagq6QoCodWd5o",
+      "category": "기타",
       "news": [
         {
-          "title": "미 SI가 평가한 ‘한화 노시환’…“수비수로 어깨 강하지만 좌우 움직임 개선 필요”",
-          "url": "https://www.khan.co.kr/article/202611032037025",
-          "source": "경향신문"
+          "title": "연인·가족과 함께할 때 몸도 편안해진다… “혈당 변동 폭 줄고 스트레스 완화”",
+          "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=69643",
+          "source": "하이닥"
         },
         {
-          "title": "'킹캉' 못잊는 피츠버그, 노시환 주목할 수밖에 없었던 숨은 이유…관건은 실제 제안",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/05/GFRTKYJZGA3GCMJZGI2TEYTFMU/",
-          "source": "조선일보"
+          "title": "“혈당 스파이크 막는다” 채정안이 식사 전 ‘깻잎’ 먼저 먹는 이유",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/03/2026110302219.html",
+          "source": "헬스조선"
         },
         {
-          "title": "“노시환은 노숙자 수준” 폰세와 한솥밥은 무리인가, 美매체 혹평일색…아시아 포스팅 선수 중 평가 꼴찌 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/202611041433772691O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "aek vs real madrid",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-04T17:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43_x0904unK6tAgDUUqOHqoP2rodawtkGnZHBXZbOyECJ-YMOkU7ZfEOl0LE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "LIVE BLOG: AEK Athens vs Real Madrid | UEFA Champions League",
-          "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/live-blog-aek-athens-vs-real-madrid-uefa-champions-league-2026-11-04",
-          "source": "beIN SPORTS"
-        },
-        {
-          "title": "By video: the eighth, a historic Arab goal adds to Real Madrid's misery",
-          "url": "https://www.goal.com/en/news/by-video-the-eighth-a-historic-arab-goal-adds-to-real-madrid-s-misery/blt56befb6f8c4d1904",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-          "url": "https://www.firstpost.com/football-news/live-score/stats/fen-vs-liv-194013/",
-          "source": "Firstpost"
+          "title": "“식사 30분 전 ‘20g’ 먹어보세요”… 식후 혈당 급상승 막는 가장 쉬운 방법",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/04/2026110401962.html",
+          "source": "헬스조선"
         }
       ]
     },
     {
       "keyword": "소유진",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-04T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0J99pvRXse5l25lbFKB9HWA7kr7_dAoeTV0vD5JmGjh12s46oVzICKHLwZZI",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxbI12gDxQdiUk_yODwuqCknQS2N-8WBXB2H5WZAvLCgPdDf2D1Ja6nqM9cMI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "'백종원♥' 소유진, 블랙 언더웨어 비치는 시스루톱 입고 외출…과감한 애셋맘",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/04/HA3GGZJZGJSDMMZQHBSTCMJQGU/",
-          "source": "Chosunbiz"
+          "title": "‘백종원♥’ 소유진, 미술관 뺨치는 대저택 공개…고가 작품만 수십 점",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261104/134964397/1",
+          "source": "동아일보"
         },
         {
-          "title": "`백종원♥` 소유진, 이렇게 화사할 수가…물 오른 미모에 감탄만",
-          "url": "https://mydaily.co.kr/page/view/2026110413441670974",
-          "source": "마이데일리"
+          "title": "'백종원♥' 소유진, 연일 집자랑..보드게임 카페 뺨치는 규모 '깜짝'",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-03/202611030100020250001913",
+          "source": "스포츠조선"
         },
         {
-          "title": "‘백종원♥’ 소유진, 운동 끝나자마자 자녀들과 또 수영..강철 체력 ‘삼남매맘’",
-          "url": "https://www.koreadaily.com/article/20261027160115705",
-          "source": "미주중앙일보"
+          "title": "소유진, 집 곳곳 채운 미술품 공개…그림에 담긴 육아 시절의 마음",
+          "url": "https://www.koreaes.com/news/articleView.html?idxno=407021",
+          "source": "한국연예스포츠신문"
         }
       ]
     },
     {
-      "keyword": "도깨비",
+      "keyword": "택시",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T18:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHpVzunwWKHflIeHSRCAi4ZiXXaEKiwc9BtsQ14_nUoIVPDc_VPEt0efhjwA",
-      "category": "IT·과학",
+      "startedAt": "2026-11-04T19:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLBfs79sbhS4-cq_K8U2PBbz8fpecrNUJittgcaTh41ySfmyTaGe3jzpV3Vlg",
+      "category": "기타",
       "news": [
         {
-          "title": "카카오게임즈 3분기 영업손실 263억원…적자 확대",
-          "url": "https://www.yna.co.kr/view/AKR20261104026600527",
-          "source": "연합뉴스"
+          "title": "[나의 의정일지] 최수연 경기도의회 건설교통위원회 위원",
+          "url": "https://www.kyeongin.com/article/1774045",
+          "source": "경인일보"
         },
         {
-          "title": "카카오게임즈, '도깨비의세계'서 희망 봤다…턴어라운드 기대감↑ - 머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/11/04/2026110409221390516",
-          "source": "머니투데이"
+          "title": "경기도의회 건설교통위원회, 택시업계 민생예산 지키기에 한목소리",
+          "url": "https://nuriilbo.com/news/article.html?no=935973",
+          "source": "누리일보"
         },
         {
-          "title": "[클릭 e종목]\"카카오게임즈, 게임업종 톱픽…목표가 상향\"",
-          "url": "https://core.asiae.co.kr/article/2026110419271769585",
+          "title": "고찬석 위원장 “도민 체감 교통환경 개선 최선”",
+          "url": "https://www.dongbangilbo.co.kr/news/articleView.html?idxno=111824",
+          "source": "동방일보"
+        }
+      ]
+    },
+    {
+      "keyword": "에코프로",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T19:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuMDrlUHSl-Q3mFzXwuYEaM4UiQ7yX1-pOdDvad9KZriprEmxzQ0WUoVNgmm4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "특구재단, 에코프로와 오픈이노베이션 성과…지역기업 3곳에 55억원 투자 연계",
+          "url": "https://www.etnews.com/20261103000052",
+          "source": "전자신문"
+        },
+        {
+          "title": "충북대 에코프로 파트너스 민간부담금 1억원 확보 …강소특구 자립화 기반 강화",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=635266",
+          "source": "베리타스알파"
+        },
+        {
+          "title": "특구재단 \"오픈이노베이션으로 기업 성장 지원…55억원 투자연계\"",
+          "url": "https://view.asiae.co.kr/article/2026110314245753772",
           "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "리버풀",
+      "keyword": "김보연",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T17:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0n4l05RQyJclCemsKXG8il5vWrTZOp8Vux11xVvyS_hlaLMoW22eBazTyyp4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "페네르바체 vs 리버풀 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fenerbahce-vs-liverpool-ban-linh-san-khach-duoc-thu-lua",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "[오피셜] 김민재 前 소속팀 페네르바체에서 김민재 지도하고, ‘승점 99점’ 준우승했던 감독 자진 사임",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99975",
-          "source": "포포투"
-        },
-        {
-          "title": "[오피셜] ‘리버풀 출신’ 디르크 카윗, 페네르바체 임시 감독으로… 선수로 뛰던 친정팀 지휘한다",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313544",
-          "source": "베스트일레븐"
-        }
-      ]
-    },
-    {
-      "keyword": "김보연",
-      "traffic": "100+",
-      "trafficValue": 100,
       "startedAt": "2026-11-04T18:40:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "레알마드리드",
+      "keyword": "real madrid",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-04T18:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7dY2DjW6ue13AKjZrrJqEVOcIuSD3dgMqactCqyNAwQKifC8YVqeaucibXCI",
-      "category": "스포츠",
+      "startedAt": "2026-11-04T19:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6t5ms48yvMUyWwEUI9Cg005k5tiKFspTamUJ9rxK1jnCrNpk_fRwTyMt9wqQ",
+      "category": "기타",
       "news": [
         {
-          "title": "챔피언스 리그 AEK 아테네 대 레알 마드리드 경기 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-aek-athens-vs-real-madrid-tai-champions-league-1794631.ldo",
-          "source": "Laodong.vn"
+          "title": "El Madrid borra al AEK de su lista de víctimas pendientes y solo quedan dos",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/11/04/madrid-borra-aek-lista-victimas-pendientes.html",
+          "source": "MARCA"
         },
         {
-          "title": "무리뉴: \"레알은 아직 어떤 타이틀도 따내지 못했습니다. 이제 시작일 뿐입니다.\"",
-          "url": "https://www.vietnam.vn/ko/mourinho-real-chua-thang-danh-hieu-nao-tat-ca-moi-bat-dau",
-          "source": "Vietnam.vn"
+          "title": "2-3. Valverde reina entre la anarquía",
+          "url": "https://es-us.noticias.yahoo.com/deportes/2-3-valverde-reina-anarqu%C3%ADa-195201127.html",
+          "source": "Yahoo"
         },
         {
-          "title": "AEK 아테네 vs 레알 마드리드, 11월 5일 00:45: 생중계 링크, 분석 및 예측.",
-          "url": "https://www.vietnam.vn/ko/aek-athens-vs-real-madrid-0h45-ngay-5-11-link-xem-truc-tiep-nhan-dinh-du-doan",
-          "source": "Vietnam.vn"
+          "title": "El Real Madrid sale con vida de la trampa de Atenas",
+          "url": "https://holanews.com/el-real-madrid-sale-con-vida-de-la-trampa-de-atenas/",
+          "source": "HolaNews"
         }
       ]
     },
     {
-      "keyword": "microsoft",
+      "keyword": "เฟแนร์บาห์เช พบ ลิเวอร์พูล",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-04T15:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn0_IW4CUTXu_dFgeR9XIgdfWFmIqRgMaZaWs8Fw7hJR_HouDcZY33i3TRvpE",
-      "category": "IT·과학",
+      "startedAt": "2026-11-04T19:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQQnR1jXEsAA1WTQvE7mZOdIWW6dTvcbCBE1EVqHLDohQjmZtOKOc5OoAxKzA",
+      "category": "기타",
       "news": [
         {
-          "title": "Microsoft Wins Even If The AI Bubble Pops (NASDAQ:MSFT)",
-          "url": "https://seekingalpha.com/article/4962094-microsoft-wins-even-if-the-ai-bubble-pops",
-          "source": "Seeking Alpha"
+          "title": "โปรแกรมการแข่งขันแชมเปี้ยนส์ลีก: แมนเชสเตอร์ ซิตี้ เยือนไลป์ซิก, ลิเวอร์พูล และอาร์เซนอล มุ่งสู่ชัยชนะ",
+          "url": "https://www.vietnam.vn/th/lich-thi-dau-c1-manchester-city-lam-khach-truoc-leipzig-liverpool-va-arsenal-huong-toi-chien-thang",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Microsoft Just Revealed a $677 Billion Reason to Buy Its Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-revealed-677-billion-173102834.html",
-          "source": "Yahoo Finance"
+          "title": "ปรีวิว-ฟันธง! หงส์บุกอิสตันบูลซดทีมศิษย์เก่า",
+          "url": "https://www.naewna.com/n/breaking/148223/",
+          "source": "แนวหน้า"
         },
         {
-          "title": "FY27 Q1 - Press Releases - Investor Relations",
-          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
-          "source": "Microsoft"
+          "title": "คู่แรก UCL 'เฟเนร์บาห์เช่ พบ ลิเวอร์พูล' ดูบอลสด ยูฟ่า แชมเปี้ยนส์ ลีก",
+          "url": "https://www.bangkokbiznews.com/news/sport/1259252",
+          "source": "bangkokbiznews"
+        }
+      ]
+    },
+    {
+      "keyword": "강호동",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T18:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQM_n3Od1IPcsE1iE8p2_EL3FdN4I1X-Pz83K0lMUJJWYMdUPFbxDlgzQ-agU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "경찰, '뇌물 수수 의혹' 강호동 농협중앙회장 구속영장 신청",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863214_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "강호동 농협회장 1억대 금품수수…경찰, 수사 1년 만에 구속영장 신청",
+          "url": "https://www.khan.co.kr/article/202611042059045",
+          "source": "경향신문"
+        },
+        {
+          "title": "강호동 농협중앙회장 구속영장 신청...개인 사법리스크 넘어 농협 개혁 시험대",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353883",
+          "source": "녹색경제신문"
         }
       ]
     }
