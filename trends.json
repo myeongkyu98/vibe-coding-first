@@ -1,275 +1,255 @@
 {
-  "updatedAt": "2026-11-04T00:48:57.443Z",
+  "updatedAt": "2026-11-04T01:53:17.637Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "count": 6
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "생활·날씨",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "정년",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-03T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhifkhJvSeI1OGN-mRj-6R8rwc4zBUfLF2iASv5wkwBpaza2vJaUc124WaHME",
+      "keyword": "송중기",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-04T00:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsdIyrD32lRMYIOywwpK_A4bpIHXzmuztLRmDAGYoggF86qazQMOeWqgzyGQ",
       "category": "기타",
       "news": [
         {
-          "title": "정년연장 법안 곧 발의, ‘변곡점’ 맞은 연내 입법",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237549",
-          "source": "매일노동뉴스"
-        },
-        {
-          "title": "김동명 한국노총 위원장, 김민석 대표 만나 “집권당, 청와대 판단 없으면 아무 결정도 못해”",
-          "url": "https://www.khan.co.kr/article/202611031544001",
-          "source": "경향신문"
-        },
-        {
-          "title": "한국노총 \"민주, 靑판단 없이 아무것도 못해\"‥초광역특구법 성토",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6862836_36911.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "권오중",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T23:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTdoXFIMWGvX52MZrTTc1WlRAK_IJIn3-zp1js-sC5ychpfV9HEPyU2Yl2aYA",
-      "category": "연예",
-      "news": [
-        {
-          "title": "아들은 세상 속 ‘홀로서기’, 아빠는 배우로 ‘다시 서기’",
-          "url": "https://www.chosun.com/national/people/2026/11/04/QGSN5KNR5ZCCNC4SPOKCY4TNEM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'희귀병子' 권오중, 7년째 금주한 사연 \"술에 의존하던 아버지 닮아가\"",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-03/202611030100015200001327",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "아들 희귀질환과 가족의 시간…배우 권오중의 첫 산문집",
-          "url": "https://www.news1.kr/life-culture/book/6329319",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "thứ hạng của man utd gặp as roma",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-03T23:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1915tjKHQqBSbU0NN1xH4YtHjoSBH2DSuF76DlxorGxPa-WtO2v2adCyB2ms",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Video bóng đá MU - AS Roma: Ngược dòng cảm xúc, Cunha chói sáng (Cúp C1)",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-as-roma-tra-gia-sai-lam-cup-c1-c48a1808154.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Man Utd thắng ngược khó tin trước Roma ở Champions League",
-          "url": "https://vnexpress.net/man-utd-thang-nguoc-kho-tin-truoc-roma-o-champions-league-5140449.html",
-          "source": "VnExpress"
-        },
-        {
-          "title": "Kết quả MU 3-2 AS Roma: Ngược dòng điên rồ",
-          "url": "https://bongdaplus.vn/champions-league-cup-c1/ket-qua-mu-vs-as-roma-nguoc-dong-dien-ro-5280302611.html",
-          "source": "Tạp chí Bóng đá"
-        }
-      ]
-    },
-    {
-      "keyword": "외환시장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T23:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwePIsyz-yEXhK4tlMBZHUUrCmNphDEpuHDSq515aZnC57scmIwHiqHuM3MN4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "NDF, 1,344.00/ 1,344.40원…3.95원↑",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442895",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "美 중간선거 개표 앞두고 관망세…환율 1340원대 등락",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03207846645642440",
-          "source": "마켓인"
-        },
-        {
-          "title": "달러 당 원화값, 2.8원 오른 1,341원…중간선거 앞두고 관망세",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005954105",
-          "source": "매일경제TV"
-        }
-      ]
-    },
-    {
-      "keyword": "여객선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T23:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_iXX9cZEhzUOaLObEqzrI5krVynHcjJkemxeyrK_b4KXxuXzXP5EIHLCb2U",
-      "category": "기타",
-      "news": [
-        {
-          "title": "1500원에 가던 백령도, 내년부턴 1만5600원 내야 간다",
-          "url": "https://www.chosun.com/national/regional/2026/11/03/KQZIILYYVNDU7BEZJ2MXMA3LIA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'편도 1500원' i-바다패스 후퇴…시민 부담 최대 10배",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335894",
-          "source": "인천일보"
-        },
-        {
-          "title": "[인천] 인천시민, 내년부터 여객선 이용부담액 최고 10배 오를 듯",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611031525481890",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "fc barcelona vs aston villa standings",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T23:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROEb0ZOzrvMK5tozeI15nordzCJYsWGH-NrkSOi8pyKHb9KBi4RjdRGq2DGB0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "With Hamza Abdel Karim's participation: a crazy draw between Barcelona and Aston Villa in the UEFA Youth League",
-          "url": "https://www.goal.com/en/news/with-hamza-abdelkrim-featuring-a-crazy-draw-between-barcelona-and-aston-villa-in-the-uefa-youth-league/bltcddcb7ed1b1facf4",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Ebrima Tunkara scores and assists as Barcelona rescue UEFA Youth League draw against Aston Villa",
-          "url": "https://www.barcablaugranes.com/barca-atletic/136960/ebrima-tunkara-uefa-youth-league-aston-villa",
-          "source": "Barca Blaugranes"
-        },
-        {
-          "title": "Cunha seals memorable Man Utd Euro fightback",
-          "url": "https://www.bbc.com/sport/football/live/cmj47pveql18t",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "keyword": "기상",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T23:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRx9uMXju5fS1720hUkafs0TxlifWVX5op5tajcCETQOweK-6yUFp4YYvdvM",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "[뉴스9 날씨] 내일까지 ‘가을 날씨’…목요일 전국에 비",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703134",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "남서부부터 ‘비 소식’, 내일 전국 확대…토요일 아침 ‘영하’",
-          "url": "https://www.hani.co.kr/arti/society/environment/1285667.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "부산, 울산, 경남 대체로 구름 많은 날씨…낮 기온 최대 19도",
-          "url": "https://www.yna.co.kr/view/AKR20261104008700052",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "제민 일보",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T23:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTs6oSq8NDnEL6f_W5tGohpmZM0MWBIuOe1wEeORA68tz4d82PbqB3V1aF0MEY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[제민탑] 제주 제2공항 건설 어디로 가고 있나",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846070",
-          "source": "제민일보"
-        },
-        {
-          "title": "‘우여곡절’ 2공항 갈등조정협의회 출범…찬성 단체 ‘반발’",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702165",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[한라일보 저녁잇슈] 2026년 11월 2일 제주뉴스",
-          "url": "http://www.ihalla.com/article.php?aid=1793608343792316121",
-          "source": "한라일보"
-        }
-      ]
-    },
-    {
-      "keyword": "atlético madrid vs bayern munich standings",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-03T23:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq1C43cGugcPBuDct-YX8ofCjIVzxjt-YtUzPcO4g6Wz9a0K8GCSf_I5YNk_A",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give visitors win",
-          "url": "https://www.bbc.com/sport/football/live/cmy0r2lw77r1t",
-          "source": "BBC"
-        },
-        {
-          "title": "Atlético 0-2 Bayern (Nov 3, 2026) Game Analysis",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401915386",
-          "source": "ESPN"
-        },
-        {
-          "title": "Bayern skeleton crew sink Atletico in Champions League",
-          "url": "https://sports.yahoo.com/articles/bayern-skeleton-crew-sink-atletico-220810697.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "비행기",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T23:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM7nPNtQuYobvfZKDqQvPA7I5T2uAJMTQNT_G-8ZG6x0crSsve0gEQ0H320c",
-      "category": "연예",
-      "news": [
-        {
-          "title": "\"발냄새 못 참겠네\"…美 유명 여가수, 팔걸이 차지한 맨발에 스프레이 '칙'",
-          "url": "https://www.newsis.com/view/NISX20261103_0003852003",
+          "title": "유모차 끄는 송중기, 영국 아내와 두 자녀 데리고 외출",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853796",
           "source": "뉴시스"
         },
         {
-          "title": "\"발냄새 너무 심해\"…유명 여가수, 비행기 뒷좌석 승객 발에 스프레이 칙~",
-          "url": "https://www.news1.kr/world/global-topic/6340626",
-          "source": "뉴스1"
+          "title": "송중기♥케이티 가족 나들이 화제...목격담 보니",
+          "url": "https://www.mk.co.kr/news/hot-issues/12196092",
+          "source": "매일경제"
         },
         {
-          "title": "코 막더니 스프레이 칙…기내 팔걸이 위 맨발에 응징한 美 가수",
-          "url": "https://www.hankyung.com/article/202611032210H",
-          "source": "한국경제"
+          "title": "송중기 아들 키가 '훌쩍'...서울서 포착된 가족 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110408304272064",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "여객기",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-04T00:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrVKEJQaY8fwPfp9bYi-UDsMw0r6LHxvE5icxwSxL1i2MpM9XqfnFjIzFoN1w",
+      "category": "기타",
+      "news": [
+        {
+          "title": "유럽 하늘길 불안…여객기 7대 폭파 위협 신고",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703234",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "여객기 7대에 '폭탄 협박'‥공항 폐쇄·전투기 출격",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6862995_37012.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "또 폭파 위협 신고…181명 탄 런던발 여객기 ‘비상착륙’",
+          "url": "https://www.donga.com/news/Inter/article/all/20261104/134961794/2",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "2026 us election results",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-04T00:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3GMpxJcHY_hf9iZJlKYd7hpP17H1MCR7FLXq6r-ixXmk-t-NIYFChSlqrPSc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "U.S. House Midterm Election Live Results 2026",
+          "url": "https://www.nbcnews.com/politics/2026-elections/house-results",
+          "source": "NBC News"
+        },
+        {
+          "title": "Midterm Election Results (Live Updates): First Races Called",
+          "url": "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-first-races-called/",
+          "source": "Forbes"
+        },
+        {
+          "title": "Midterm elections 2026 live updates: Cooper wins N.C. Senate, House control 'leans' Dem",
+          "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "keyword": "홈택스 국세청",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-04T00:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQad-XqTzaE0cwdH_LbF06Sz8dYVICO8ddo2bGsVen81710vxwqfRaE3cgpZnE",
+      "category": "경제",
+      "news": [
+        {
+          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
+          "url": "https://www.yna.co.kr/view/AKR20261103075200002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
+          "url": "https://www.munhwa.com/article/11628518",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "돈 스파이크",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T00:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR12rT18GdtlIHFzughDUm2cbTt-a6qpuerBhFo4YRe4HoiNmob56gYkEXa-Q",
+      "category": "기타",
+      "news": [
+        {
+          "title": "돈스파이크, 식당 가격 논란에 해명 “코스 형식 무한리필”",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611031547170954",
+          "source": "YTN"
+        },
+        {
+          "title": "‘마약 실형’ 돈 스파이크, 9만 9000원 스테이크 논란에 “무한리필 바비큐 집” [MK★이슈]",
+          "url": "https://www.mk.co.kr/news/entertain/12194591",
+          "source": "매일경제"
+        },
+        {
+          "title": "'출소' 돈스파이크, 식당가격 논란에 해명…\"파인다이닝 아냐\"",
+          "url": "https://www.segye.com/newsView/20261101505762",
+          "source": "세계일보"
+        }
+      ]
+    },
+    {
+      "keyword": "조원태",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIgKcnGDBZHw_NdlkepBKHcZNwdARVyJCwa4xWd9wOwW8ynY7VTxGeiXkJkiA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "주가 30% 급등한 한진칼에 무슨 일이? 불붙은 지분 경쟁",
+          "url": "https://story.pay.naver.com/content/3864_3_C1",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "[한진칼 경영권 2막] 바람 잘 날 없는 지배구조 잔혹사",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442901",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "조원태 보수 인상 반대하던 호반, 최대주주 명분으로 한진칼 이사회 진출하나",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300135.html",
+          "source": "뉴데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "하트시그널",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T00:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGVy4LakvbvL70fsXGbtuRsmP-L5yTAKNdWNrWkztPCWotxElOttcKXeFgssg",
+      "category": "연예",
+      "news": [
+        {
+          "title": "‘하시4’ 김지영, 출산 3개월 차 맞아? 남편과 데이트하며 리즈 미모",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261104/134961583/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "Kim Ji-young returns to Baeten four months after childbirth",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/04/6WYZ7CFPHZEMPNITWBWNV7TN6U/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "‘김지영♥’ 윤수영 “딸보다 아내가 우선…아이 낳으려고 결혼한 것 아냐”",
+          "url": "https://sports.khan.co.kr/article/202611040749013",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "근로장려금",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T00:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "election 2026",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T00:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMcxfSBxLAOTxvYy_XMvSgPuz_EWItXNajMdepZjYqalv0NszOJux9f6eq-zk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Florida House District 12 Midterm Election 2026: Live Results",
+          "url": "https://www.nbcnews.com/politics/2026-elections/florida-us-house-district-12-results",
+          "source": "NBC News"
+        },
+        {
+          "title": "Republican Gus Bilirakis wins reelection to U.S. House in Florida's 12th Congressional District",
+          "url": "https://www.news8000.com/news/politics/national-politics/republican-gus-bilirakis-wins-reelection-to-u-s-house-in-floridas-12th-congressional-district/article_ad35d685-fc98-58bb-8eba-4b0c379b0da3.html",
+          "source": "news8000.com"
+        },
+        {
+          "title": "CD 12 Candidates Q&As",
+          "url": "https://www.hernandosun.com/2026/10/29/cd-12-candidates-qas/",
+          "source": "Hernando Sun"
+        }
+      ]
+    },
+    {
+      "keyword": "골프존카운티",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T00:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMr74lLVjDgccPXcewS5YDEQuWu659nIfLVGp1mREZyyF8YuLNFvHpYTsYNCs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/04/2026110409194480467",
+          "source": "머니투데이"
+        },
+        {
+          "title": "더 시에나 그룹, 골프존카운티 하이엔드 골프클럽 전환 추진… “경쟁력의 중심은 사람”",
+          "url": "https://www.etnews.com/20261103000225",
+          "source": "전자신문"
+        },
+        {
+          "title": "더 시에나 그룹, 21개 골프장 운영 골프존카운티 인수",
+          "url": "https://www.koreadaily.com/article/20261102224641113",
+          "source": "미주중앙일보"
         }
       ]
     }
