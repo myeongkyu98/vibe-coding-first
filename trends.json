@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:50:33.152Z",
+  "updatedAt": "2026-11-04T05:51:47.688Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
-      "category": "스포츠",
+      "category": "경제",
       "count": 2
     },
     {
@@ -14,93 +14,122 @@
       "count": 2
     },
     {
-      "category": "경제",
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "박진영",
+      "keyword": "골프",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-04T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3gEcC9utFZIBX0e-JZthdKEZWK-6gZOhN-zKHmcaWIGH6LE120hWvNbHlJL8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "박진영, 이단 논란에 입 열었다…“핍박받기 시작, 하나님이 해결할 것”",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56851",
-          "source": "주간조선"
-        },
-        {
-          "title": "구원파 이어 또 종교 의혹…박진영 “하느님이 해결할 일”",
-          "url": "https://www.mk.co.kr/news/society/12195334",
-          "source": "매일경제"
-        },
-        {
-          "title": "박진영, 종교 모임 논란에 입 열어…\"이단·사이비라 핍박\"",
-          "url": "https://www.yna.co.kr/view/AKR20261104071800005",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "양민혁",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-04T03:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKoC77RXiXn6Yn58Dkcy7OCCPLX0W4uNEqU6aXSPOTizbTf8ak-S1wK4_LZA",
+      "startedAt": "2026-11-04T04:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMr74lLVjDgccPXcewS5YDEQuWu659nIfLVGp1mREZyyF8YuLNFvHpYTsYNCs",
       "category": "스포츠",
       "news": [
         {
-          "title": "‘3연승 & 8위 도약’ 토트넘, 더 이상 강등권 수모는 없다? 데 제르비 감독, “더 많은 골, 더 많은 승리가 필요해”",
-          "url": "https://sports.donga.com/sports/article/all/20261101/134943508/1",
-          "source": "스포츠동아"
+          "title": "\"MBK, 골프존카운티 계약 전날 협상 중단\"...법적대응 예고한 골프존홀딩스 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/04/2026110409194480467",
+          "source": "머니투데이"
         },
         {
-          "title": "손흥민 캡틴 시절 보는 것 같다…환골탈태 토트넘 “이제 정말 원팀 됐다, 모두 형제처럼 지내”",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100182",
-          "source": "포포투"
+          "title": "더 시에나 그룹, 골프존카운티 하이엔드 골프클럽 전환 추진… “경쟁력의 중심은 사람”",
+          "url": "https://www.etnews.com/20261103000225",
+          "source": "전자신문"
         },
         {
-          "title": "'손흥민 2도움' 그날 이후 616일 만! 토트넘, 스페인 휴양지 다녀오고 '3연승' 미쳤다...英 매체 \"전지훈련의 놀라운 효과\"",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/01/GE4TKNLDGJTDKM3FG4ZWGODEGU/",
-          "source": "조선일보"
+          "title": "권광석이 돌아왔다…1.8조 골프존카운티 인수전 전면에",
+          "url": "https://dealsite.co.kr/articles/171915",
+          "source": "딜사이트"
         }
       ]
     },
     {
-      "keyword": "재난",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-04T03:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjEhL_BGjQyVoRFUdxFAQs6AEyCi1LbGkJQZF2sW0cFOME6vZGAI_b_0T4Ktk",
-      "category": "기타",
+      "keyword": "소득세",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-04T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQad-XqTzaE0cwdH_LbF06Sz8dYVICO8ddo2bGsVen81710vxwqfRaE3cgpZnE",
+      "category": "경제",
       "news": [
         {
-          "title": "서울교육청, 학교 재난 피해 보상 강화… 공제 사각지대 줄인다",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3445759",
-          "source": "천지일보"
+          "title": "국세청, 주식 양도세 더 낸 4천687명에게 21억원 돌려줘",
+          "url": "https://www.yna.co.kr/view/AKR20261103075200002",
+          "source": "연합뉴스"
         },
         {
-          "title": "서울 교육시설공제 사각지대 해소…가입 간소화·보장 확대",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854316",
-          "source": "뉴시스"
+          "title": "국세청, 해외 주식 등 주식 양도소득세에서 기본공제 누락된 4687명에 21억원 환급 완료",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/03/GVDE3FMCNNGCFJPIJGZL3NSWAM/",
+          "source": "조선일보"
         },
         {
-          "title": "서울시교육청, 학교 재난피해 보상 확대⋯미가입 물품도 보장",
-          "url": "https://www.etoday.co.kr/news/view/2643899",
-          "source": "이투데이"
+          "title": "“주식 양도세 납세자 확인 필수”... 기본공제 누락 4600여명에 환급",
+          "url": "https://www.munhwa.com/article/11628518",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "리니지m",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-04T04:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6pNzlGKlZU3cxjWX2_yratdytF54G8xFZ5X32mm0O9bcbILIIAgGoBrgmqT0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "'모험' 담은 리니지M 캠페인, '올해의 브랜드상' 수상",
+          "url": "https://stock.mk.co.kr/news/view/1187632",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "[게임업계 소식] 엔씨 ‘리니지M’, 한국광고학회 ‘2026 올해의 브랜드상’ 수상 外",
+          "url": "https://www.viva100.com/article/20261103500481",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "한진, 한국광고학회 '올해의 브랜드상' 수상… \"종합 물류 경쟁력 인정\"",
+          "url": "https://view.asiae.co.kr/article/2026110310540777985",
+          "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "집",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-04T04:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfaoXqoeTXeKexhgJhtCxzjqQrrBdr2iuZRd9oynGsDvt0iC1LC-D26AYLLv0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "'분양가 25%로 내 집 마련'‥다음 달 고양창릉서 첫 분양",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6863084_36932.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "분양가 25% 내고 입주…LH 공공분양 지분적립형·이익공유형Ⅱ 도입",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374337",
+          "source": "전기신문"
+        },
+        {
+          "title": "\"앉아서 6억 번다\"…'시세 반값 아파트' 등장에 4만명 우르르 [주간이집]",
+          "url": "https://www.hankyung.com/article/2026110332276",
+          "source": "한국경제"
         }
       ]
     },
     {
       "keyword": "이란",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-04T03:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtE92n5Dvx67WBctGoWWHAj-oPkiTRuzdG_cfYZzw3tfjuS4GWK42UYkbmhNI",
-      "category": "기타",
+      "category": "정치·사회",
       "news": [
         {
           "title": "트럼프 \"이란 방공시설 완공되자마자 어젯밤 타격…작은 공격\"",
@@ -108,9 +137,9 @@
           "source": "연합뉴스"
         },
         {
-          "title": "이란 “종전 합의, 여전히 갈 길 멀어…미국 공격엔 강력 대응”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703513",
-          "source": "KBS 뉴스"
+          "title": "트럼프 \"이란 즉각 공격 계획 없다\"...선거 후 전면전 개시 일축 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/world/2026/11/04/2026110412254539961",
+          "source": "머니투데이"
         },
         {
           "title": "카타르 매체 \"美, 이란에 제시된 양해각서 초안에 동의\"",
@@ -120,152 +149,111 @@
       ]
     },
     {
-      "keyword": "리드 프레임",
+      "keyword": "지민",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-04T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOfw5qkbzmtdceG3TqMoEbgOY_gi_aL5xv3GijYaDCxdm4G622eAJp1qzGQMU",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"주문 밀려 '배급제'합니다\"…AI 열풍 타고 화려한 부활",
-          "url": "https://www.hankyung.com/article/202611044685i",
-          "source": "한국경제"
-        },
-        {
-          "title": "키움증권, 해성DS 목표가↓…\"IT·차량 업황 녹록지 않아\"",
-          "url": "https://www.yna.co.kr/view/AKR20261103030100008",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[모닝 리포트] \"해성디에스, 패키징기판 실적 기여 확대에 성장 기대\"",
-          "url": "https://www.newspim.com/news/view/20261103000086",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "gina hinojosa",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T03:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9kX-rpd3ZPZvOoZgtAYP0sL8hWgFIODvTucjmAhA92hGWvU_XCU5vq6wUosg",
+      "startedAt": "2026-11-04T04:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvHuU-RreHvrsbFo8Q1b9IvJew8fM60rAL-kxhQD9myOCK1Yr6bSkbPrUpMcI",
       "category": "기타",
       "news": [
         {
-          "title": "Minuto a minuto: todo lo que debes saber sobre las elecciones de medio término en Texas",
-          "url": "https://www.telemundosanantonio.com/elecciones/elecciones-medio-termino-2026-texas-live-updates/2530294/",
-          "source": "Telemundo San Antonio"
-        },
-        {
-          "title": "Informe desde Austin: ¿el fenómeno deTalarico podría hacer temblar el dominio republicano en Texas?",
-          "url": "https://www.france24.com/es/video/20261103-informe-desde-austin-el-fen%C3%B3meno-detalarico-podr%C3%ADa-hacer-temblar-el-dominio-republicano-en-texas",
-          "source": "France 24"
-        },
-        {
-          "title": "Abbott e Hinojosa llegan a la recta final por la gubernatura de Texas",
-          "url": "https://www.telemundolaredo.tv/2026/11/04/abbott-e-hinojosa-llegan-la-recta-final-por-la-gubernatura-de-texas/",
-          "source": "Telemundo Laredo"
-        }
-      ]
-    },
-    {
-      "keyword": "대학수학능력시험",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRajMv4epxrTgHMJLkONJpmHN6nVjBPGS6UUWUBDsZxjpWMmNTkD8_8OVh2-3Y",
-      "category": "기타",
-      "news": [
-        {
-          "title": "고3 수능 '뒷심'…9월 모평보다 등급 상승비율, 졸업생의 1.7배",
-          "url": "https://www.yna.co.kr/view/AKR20261104036900530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "9월 모평보다 수능 성적 오른 비율, '현역' 고3이 N수생 앞섰다",
-          "url": "https://www.newspim.com/news/view/20261104000083",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "N수생에 밀릴까 걱정?…9모보다 수능 잘 본 ‘고3’ 더 많다",
-          "url": "https://www.donga.com/news/Society/article/all/20261104/134962107/1",
+          "title": "“함께할 시간 365일뿐”…‘부산 명소’ BTS 지민 아버지 카페 1년 뒤 문 닫는다",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261103/134954529/1",
           "source": "동아일보"
+        },
+        {
+          "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
+          "url": "https://www.munhwa.com/article/11628280",
+          "source": "문화일보"
+        },
+        {
+          "title": "'아미 성지였는데' 방탄소년단 지민 父 카페, 돌연 폐업..\"365일 남았다\"[Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/03/MJQTCNDBHAZDEYRYGIZTKMDEMY/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "시험",
+      "keyword": "이수민",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T04:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "마이크로소프트",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T03:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNXNQT1GiMcShVB_M_z6h9eM3OKpQvembyyOCZQMybai-hew1qiSjEd2nvo4w",
+      "startedAt": "2026-11-04T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldydL3KoZGAfQh7egeZkO3Q-M-adMbOi_-HJ9QjPu8NukTCkKHNvil9AT6SI",
       "category": "IT·과학",
       "news": [
         {
-          "title": "충남교육청, 올해 수능부터 스마트안경 부정행위 탐지 나선다",
-          "url": "https://www.yna.co.kr/view/AKR20261104067000063",
-          "source": "연합뉴스"
+          "title": "Xbox Game Pass: 2025년 12월 구독 포함 게임 목록",
+          "url": "https://www.sortiraparis.com/ko/palieseo-hal-il/noleum/articles/281796-xbox-game-pass-2026nyeon-11wol-singyu-geim-konsol-pc-mich-keullaudeu",
+          "source": "Sortir à Paris"
         },
         {
-          "title": "교육부 \"스마트안경 전담요원, 판별 역량 갖추도록 사전교육\"",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611031103319053",
-          "source": "YTN 사이언스"
+          "title": "MS 게임패스, 11월 1차 신규 라인업 공개···〈FM27〉 등 출격",
+          "url": "https://www.globale.co.kr/news/articleView.html?idxno=41414",
+          "source": "글로벌E"
         },
         {
-          "title": "변호사 시험도 ’AI안경 주의보’…법무부, 이달 지침 공지",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261103200024wkj",
-          "source": "연합뉴스TV"
+          "title": "11월 중순에 구독이 시작됩니다. Xbox Game Pass 14경기를 남겨두고 떠날 것입니다",
+          "url": "https://ko.gamegpu.com/news/igry/v-seredine-noyabrya-podpisku-xbox-game-pass-pokinut-14-igr",
+          "source": "GameGPU"
         }
       ]
     },
     {
-      "keyword": "한미반도체",
+      "keyword": "greg abbott",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-04T03:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjC4ktfB1qAFhWQXKHsC7nJsXI49SY9fzj43zNWCfEiMyh4w5q0Buz1c4SdnU",
-      "category": "IT·과학",
+      "startedAt": "2026-11-04T04:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTztl2vDkc_zeuEfusKD3Q5JGeGk_I1HAHzcTG37RE_mKqZE8UWtj0T6s47wuk",
+      "category": "기타",
       "news": [
         {
-          "title": "한미반도체 곽동신 회장, 자사주 100억원 추가 매수",
-          "url": "https://www.yna.co.kr/view/AKR20261104034300003",
-          "source": "연합뉴스"
+          "title": "Texas U.S. Senate Election Live Results 2026",
+          "url": "https://apnews.com/projects/elections-2026/texas-us-senate-results/",
+          "source": "AP News"
         },
         {
-          "title": "곽동신 한미반도체 회장, 사재로 주식 100억원 추가 매수…올해 다섯 번째",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/04/CTGCTMK57BCQLCTMUD3PEPF5EA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "한미반도체 곽동신, 100억원 규모 자사주 추가 취득",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261104094200hrV",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "abdul el-sayed",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T03:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQKypHOxUkVtbzYHHorl8V9AcYHyYtLcTt3PW1Ly1N-teGA0uI8usGb6RqfyQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Michigan U.S. Senate Election 2026 Live Results: Abdul El-Sayed vs. Mike Rogers",
-          "url": "https://www.nbcnews.com/politics/2026-elections/michigan-senate-results",
-          "source": "NBC News"
-        },
-        {
-          "title": "Michigan U.S. Senate 2026: Live Midterm Election Results, El-Sayed vs. Rogers",
-          "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan-us-senate.html",
+          "title": "Gina Hinojosa Wins Texas Governor Race in Major Upset, Defeating Greg Abbott",
+          "url": "https://www.nytimes.com/2026/11/03/us/texas-governor-abbott-hinojosa.html",
           "source": "The New York Times"
         },
         {
-          "title": "Why Abdul El-Sayed is now a top Senate contender",
-          "url": "https://www.koreatimes.co.kr/opinion/20261103/why-abdul-el-sayed-is-now-a-top-senate-contender",
-          "source": "The Korea Times"
+          "title": "Democrat Gina Hinojosa takes down Texas Gov. Greg Abbott in stunning result",
+          "url": "https://www.nbcnews.com/politics/2026-election/gina-hinojosa-win-texas-governor-race-greg-abbott-upset-election-rcna603360",
+          "source": "NBC News"
+        }
+      ]
+    },
+    {
+      "keyword": "nyt",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVWJtcF0S0j8JAN1yCZVVJ17pqi2y8XOTPPc4ZmwD89d4cRJOB9tPH0euI5NM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Marraskuusta tulee epätavallinen",
+          "url": "https://www.iltalehti.fi/saauutiset/a/d4965df5-8c0d-480d-924e-6c6c3bda893a",
+          "source": "Iltalehti"
+        },
+        {
+          "title": "Aurinko näyttäytyy tiistai-iltapäivänä",
+          "url": "https://yle.fi/a/74-20254710",
+          "source": "Yle"
+        },
+        {
+          "title": "Nyt kannattaa mennä ulos – meteorologilta mukava ennuste",
+          "url": "https://www.is.fi/kotimaa/art-2000012386989.html",
+          "source": "Ilta-Sanomat"
         }
       ]
     }
