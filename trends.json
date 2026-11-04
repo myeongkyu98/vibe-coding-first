@@ -1,20 +1,41 @@
 {
-  "updatedAt": "2026-11-04T11:03:16.231Z",
+  "updatedAt": "2026-11-04T11:55:35.879Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 5
+      "count": 7
     },
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
+      "count": 3
     }
   ],
   "items": [
+    {
+      "keyword": "송혜교",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-04T10:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7olxBt616C1flliDnT2WwPqAjHDYc6MJCqzOoOvPpBHhmXRVwLl1LSaEojo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "송혜교, 또 헤어스타일리스트 이일중과 투샷 포착",
+          "url": "https://www.newsis.com/view/NISX20261104_0003853703",
+          "source": "뉴시스"
+        },
+        {
+          "title": "45세 송혜교, 흑백 사진 속 ‘눈부신 미모’..화면 뚫고 나오는 우아함",
+          "url": "https://www.osen.co.kr/article/G1112903727",
+          "source": "OSEN"
+        },
+        {
+          "title": "송혜교, 홍콩서 남사친 어깨에 '브이'…독보적 비주얼 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6342126",
+          "source": "뉴스1"
+        }
+      ]
+    },
     {
       "keyword": "포항 대 감바 오사카",
       "traffic": "2000+",
@@ -34,9 +55,9 @@
           "source": "매일경제"
         },
         {
-          "title": "압박·전환 ‘변화’ 조짐…‘ACLE 4연패는 안 된다’ 대행 체제 포항, J리그 16위 감바 상대 첫 승점·승리 도전",
-          "url": "https://www.sportsseoul.com/news/read/1646403",
-          "source": "스포츠서울"
+          "title": "'네게바 10호골' 제주SK 아쉬운 무승부.. 3연패 탈출",
+          "url": "http://m.ihalla.com/article.php?aid=1793519208792261051",
+          "source": "한라일보"
         }
       ]
     },
@@ -45,81 +66,56 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-04T09:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTg5nfbIU0kz-tr1IR66lAf-pqi6mDIwl9xBshjAZRupR31BaR4aOTfHtWvitM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQp9wby5p8mwYQNJun_swEVkpEvsGQSFG-qBIJ3vI7xNcpTGYj1kZQBKXThiE",
       "category": "스포츠",
       "news": [
-        {
-          "title": "[Photo] Cheering for Samsung with giant banner",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/04/XYVDS5APWZAAHJVN2QYVK5LCG4/",
-          "source": "Chosunbiz"
-        },
         {
           "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
           "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/",
           "source": "조선일보"
         },
         {
-          "title": "Wiz manager admits to taking foot off gas in narrow Korean Series win",
-          "url": "https://en.yna.co.kr/view/AEN20261103012900315",
+          "title": "Jang Chan-hee mixes confidence and regret after Korean Series debut loss",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/04/BFGLBJFBAJAYRNVQFQJASZ3NAU/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "Wiz closer Park Yeong-hyun says belief in himself, catcher led to big Korean Series save",
+          "url": "https://en.yna.co.kr/view/AEN20261104002400315",
           "source": "Yonhap News Agency"
         }
       ]
     },
     {
-      "keyword": "서울 sk 대 대구 한국가스공사",
+      "keyword": "klasemen melbourne victory vs persib bandung",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-04T09:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5bWww7gdKh2u4SrSTvnLeLgWKddKSwHCu5nyb6YaUIWoHdU5ld_luUfrz_mk",
+      "startedAt": "2026-11-04T10:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4v0i2WI0ySZUoxoViMzwdtUKC5OJjbJ38dmV4OMrLJV7oWH_IBEMruouyZ6E",
       "category": "스포츠",
       "news": [
         {
-          "title": "[BK 프리뷰] ‘같은 5승, 다른 무게’ 5연승 SK vs 5할 복귀 노리는 한국가스공사",
-          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065549458513778",
-          "source": "바스켓코리아"
+          "title": "Persib Bandung sukses mencuri kemenangan 2-1 atas Melbourne Victory pada matchday keempat Grup E AFC Champions League Two 2026/2027, Rabu 4 November 2026. Sempat berada dalam tekanan, Persib mampu bangkit dan membalikkan keadaan",
+          "url": "https://www.instagram.com/p/DfULOLVxBKI/",
+          "source": "Instagram"
         },
         {
-          "title": "[웜업터뷰] “90점 이상 어렵다” 상승세에도 냉정, 전희철 감독의 자가 진단",
-          "url": "http://www.jumpball.co.kr/news/newsview.php?ncode=1065606821232189",
-          "source": "점프볼"
+          "title": "Nyaris Bikin Persib Kalah, Tangis Fitrah Maulana Pecah di Pelukan Sandy Walsh",
+          "url": "https://radarcirebon.disway.id/sport/read/235089/nyaris-bikin-persib-kalah-tangis-fitrah-maulana-pecah-di-pelukan-sandy-walsh",
+          "source": "Radar Cirebon"
         },
         {
-          "title": "'연승과 연패' 이어지는 한국가스공사···'연패는 없다' 잠실학생체육관 978일만 승리 도전",
-          "url": "https://dgmbc.com/NewsArticle/871338",
-          "source": "대구MBC"
+          "title": "Comeback di AAMI Park, Persib Bandung Pastikan Tiket 16 Besar ACL Two",
+          "url": "https://www.liputan6.com/bola/read/8328458/comeback-di-aami-park-persib-bandung-pastikan-tiket-16-besar-acl-two",
+          "source": "Liputan6.com"
         }
       ]
     },
     {
-      "keyword": "한우",
+      "keyword": "디아즈",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-04T09:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSHx8rL2JLQel7pjhZ7s9-QKbHFFV9bbrEcrOd9GY1FpN0dfIXTCX5FF1EQw",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "경주한우·축산물축제 성황리 마무리…지역 축산물 우수성 알려",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2361398",
-          "source": "웹이코노미"
-        },
-        {
-          "title": "경주한우·축산물축제 성료…할인 판매·시식 행사에 방문객 호응",
-          "url": "https://www.kbmaeil.com/article/20261104500181",
-          "source": "경북매일"
-        },
-        {
-          "title": "홍콩 미식 축제에 K-한우 매력 알렸다 … 한우자조금, '홍콩 K-비프 한우데이' 개최",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400264.html",
-          "source": "뉴데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "최원준",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T09:30:00.000Z",
+      "startedAt": "2026-11-04T10:10:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeA4_VxQ9oXwQSt0YjB0uH6Q9aYsX-dz_OZt0NkT2hm0cXVcJhAcsymi6Lk6E",
       "category": "기타",
       "news": [
@@ -134,23 +130,48 @@
           "source": "뉴시스"
         },
         {
-          "title": "[사진]펜스와 충동하는 최원준",
-          "url": "https://www.osen.co.kr/article/G1112904124",
+          "title": "‘PS 타율 .167’ 디아즈, 데뷔 첫 3루타 폭발…삼성 선취점 이끌었다 [KS2]",
+          "url": "https://www.osen.co.kr/article/G1112904106",
           "source": "OSEN"
         }
       ]
     },
     {
-      "keyword": "난파선",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "keyword": "서울 sk 대 대구 한국가스공사",
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-04T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3CaARvRC6o2LPRvwwMwPTHrz4k7TXwfKP0j7nqHo8hzEw3pwfyjaR0Hko4is",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShkXby7qwzS1u_enR-kr2p4juhyTjkssEVvjYfo24hQs2JZxpkOGNtQQ_atN4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“힉스, 기대보다 훨씬 잘해준다”…전희철 감독이 꼽은 SK 상승세 이유 [쿠키 현장]",
+          "url": "https://www.kukinews.com/article/view/kuk202611040242",
+          "source": "쿠키뉴스"
+        },
+        {
+          "title": "[BK 프리뷰] ‘같은 5승, 다른 무게’ 5연승 SK vs 5할 복귀 노리는 한국가스공사",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065549458513778",
+          "source": "바스켓코리아"
+        },
+        {
+          "title": "프로농구 오늘(4일) 경기 일정…서울 SK VS 대구 한국가스공사, 중계 채널→현재 순위?",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16268060",
+          "source": "톱스타뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "난파선",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T09:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pcMpm84pYmstTERGKQsHIYfTgxSlDQvOAAZf1uNhuGgYxl5ZMTSq8alEP84",
       "category": "기타",
       "news": [
         {
-          "title": "난파선 화물표에 ‘장씨 댁 쌀 12석’…800년 전 고려시대 물류 ‘생생’",
-          "url": "https://www.khan.co.kr/article/202611040900001",
+          "title": "고려 난파선서 길어 올린 800년 전 물류의 비밀",
+          "url": "https://www.khan.co.kr/article/202611042028015",
           "source": "경향신문"
         },
         {
@@ -159,9 +180,34 @@
           "source": "연합뉴스"
         },
         {
-          "title": "'바다의 경주'서…50㎏ 잠수복 입고 고려 청자 찾았다[현장]",
-          "url": "https://www.newsis.com/view/NISX20261104_0003855050",
-          "source": "뉴시스"
+          "title": "'바다의 경주'에 잠들었던 800년 전 선박…오늘 흔적 찾았다 - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/04/2026110414311187834",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "김지찬",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T10:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKztCFMevjKDMYcEUFpIo0PF0i0CnXSEy_bmNdmXpEciFZog225857FibMv-c",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "삼성 김지찬 \"아직 1패…우리가 먼저 네 번 이기면 된다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261104160800007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[사진]몸 날리는 장준원",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/03/GRRGEZJWMNQWMZDGGU3WKNJSG4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"(김)상수 형, 은퇴 전 삼성 돌아왔으면\" 적으로 만난 4회 우승 선배 향한 김지찬 진심 \"그래도 반지는 우리가 가져갈게요\" [KS2 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110414025245468",
+          "source": "머니투데이"
         }
       ]
     },
@@ -170,23 +216,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-04T09:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbrCJ-C7zggw5GCAbIHoMvr-om8CVFsV6XWMgn0fTwbB5uD8relF1HnaVif7Q",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvRRlW4UFdGph-lKGGqcv6BJLciyhBLk3nmboNbonqxoBmvyt3_CADpJUHo3I",
       "category": "스포츠",
       "news": [
         {
-          "title": "'오늘N'-'가족관계증명서', 오늘(4일) 결방…프로야구 한국시리즈 2차전 중계",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16268298",
-          "source": "톱스타뉴스"
+          "title": "후배에게 쓴약 같은 잔소리…KT 김현수의 ‘형님 리더십’",
+          "url": "https://www.khan.co.kr/article/202611042023015",
+          "source": "경향신문"
         },
         {
-          "title": "25만 개 팔린 bhc '콰삭모짜킹'... 이제 전국 매장서 만난다",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190543",
-          "source": "금강일보"
+          "title": "[사진]KT 1루수 김현수, '빈틈 없는 수비'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/04/MIZDENTBGBRTIMZUG5RTEY3DGA/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "남양유업-교촌치킨-bhc, 미국산 버터 시연회 개최...'허니페스타' 진행...'뚝닭 댄스 챌린지' 실시",
-          "url": "http://m.wsobi.com/news/articleView.html?idxno=320485",
-          "source": "여성소비자신문"
+          "title": "이강철 감독 \"김상수, 팔꿈치 통증으로 빠져…로건은 제자리로\"",
+          "url": "https://www.yna.co.kr/view/AKR20261104143900007",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -212,56 +258,6 @@
           "title": "뉴욕 마라톤에서 횡문근융해증으로 20대 여성 숨져",
           "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611041107056991",
           "source": "YTN 사이언스"
-        }
-      ]
-    },
-    {
-      "keyword": "대장암",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQN9ikvcCtgCCxMlwPg6feUNOBfdS8EnOp-s8XC6JQL9dh5FU4VYoGx1SA7vQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "대장암은 왜 젊은층에 더 치명적일까?",
-          "url": "https://www.dttoday.com/news/articleView.html?idxno=97358",
-          "source": "덴탈투데이"
-        },
-        {
-          "title": "대장암 발생률, 20년 만에 전 연령대서 동시에 올랐다",
-          "url": "https://www.imaeil.com/page/view/2026102810180585332",
-          "source": "매일신문"
-        },
-        {
-          "title": "가는 변보다 더 흔한 신호…50세 미만 대장암 환자 45%가 겪었다",
-          "url": "https://www.segye.com/newsView/20261030501314",
-          "source": "세계일보"
-        }
-      ]
-    },
-    {
-      "keyword": "nvidia",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T09:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCTHfoSIK4SemzBXXscVNZ149NFmDr2F3ePDBsI_HhfGtj7q86qXgUnRE502Y",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Nvidia orders data center clients to reduce China exposure: FT",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-orders-data-center-clients-080911859.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "How Nvidia Uses Its Soft Power to Influence Customers and Shape Policy",
-          "url": "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy",
-          "source": "The Information"
         }
       ]
     }
