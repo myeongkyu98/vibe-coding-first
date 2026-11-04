@@ -1,275 +1,275 @@
 {
-  "updatedAt": "2026-11-03T23:34:35.806Z",
+  "updatedAt": "2026-11-04T00:48:57.443Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 2
     },
     {
       "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "경제",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "더중앙플러스",
+      "keyword": "정년",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-03T22:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6LOpn5PHjMVmWu5CYwFATr7Cl4A8eCiqfJ-J9-NVK8o10jI_Z8s3K8nz-7o",
+      "startedAt": "2026-11-03T23:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhifkhJvSeI1OGN-mRj-6R8rwc4zBUfLF2iASv5wkwBpaza2vJaUc124WaHME",
       "category": "기타",
       "news": [
         {
-          "title": "\"회사 다닐 때 어떻게 살았나\"…14억 모아 은퇴한 삼성맨의 일상 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/04/2026110314162668750",
-          "source": "머니투데이"
+          "title": "정년연장 법안 곧 발의, ‘변곡점’ 맞은 연내 입법",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237549",
+          "source": "매일노동뉴스"
         },
         {
-          "title": "1년 휴직 후 이 종목 몰빵했다…2000만원→19억 만든 92년생 [파이어 2.0 ②]",
-          "url": "https://www.joongang.co.kr/article/25475309",
-          "source": "중앙일보"
+          "title": "김동명 한국노총 위원장, 김민석 대표 만나 “집권당, 청와대 판단 없으면 아무 결정도 못해”",
+          "url": "https://www.khan.co.kr/article/202611031544001",
+          "source": "경향신문"
         },
         {
-          "title": "“2억 넣고 月160 배당” 30대 파이어족 ETF 4종",
-          "url": "https://www.munhwa.com/article/11627645",
-          "source": "문화일보"
+          "title": "한국노총 \"민주, 靑판단 없이 아무것도 못해\"‥초광역특구법 성토",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6862836_36911.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "오현규",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-03T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRStcXozzsvVZ5ggzT27RqapEFQtfbliToTJO-HQT7UWNZ_muij7AoGdLDp1ig",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "韓 축구 최고 희소식! '국가대표 공격수' 오현규, 한국인 21호 프리미어리거 가능성…\"중앙 공격진 보강 위한 계획의 일환\"",
-          "url": "https://m.news.nate.com/view/20261103n10622",
-          "source": "Nate News"
-        },
-        {
-          "title": "주전 경쟁 밀린 오현규, 줄어드는 존재감",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/02/2026110200032.html",
-          "source": "뉴데일리"
-        },
-        {
-          "title": "모레노호 악재, 결승골 넣어도 안 변하는 오현규 팀내 입지, 경기당 평균 출전시간 '30분'…심지어 카슴파샤전엔 측면 공격수로 플레이",
-          "url": "https://www.sportschosun.com/football/2026-11-02/202611020100009260000502",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "xrp 레저",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-03T22:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8S9ArekPvW3pvONmy3FpWrv6LrqRFkzAvFtjbYMELlFgaG8aSuOAlO8Ty8x4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "스테이블코인을 허락 없이 발행?...XRP 레저, 권한 허점 긴급 봉쇄",
-          "url": "https://www.coinreaders.com/267059",
-          "source": "코인리더스"
-        },
-        {
-          "title": "fixCleanup3_4_0, 볼트·풀·대출 계산 오류도 고친다…일반 보유자엔 영향 없다",
-          "url": "https://www.wikitree.co.kr/articles/1171554",
-          "source": "위키트리"
-        },
-        {
-          "title": "토큰 소각 권한으로 신규 발행 가능…XRPL 권한 위임 기능서 보안 결함",
-          "url": "https://www.bonmedia.kr/news/articleView.html?idxno=8849",
-          "source": "비온미디어"
-        }
-      ]
-    },
-    {
-      "keyword": "필라델피아 반도체 지수",
+      "keyword": "권오중",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-03T22:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgBMsGMhIKG_sol19Gj1ORaSg5dC4bBgVqeWSIg92Y-qLOT671HuuBDX-ny4Y",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[속보]美 필라델피아 반도체지수 4거래일 만에 반등…2.64% 상승",
-          "url": "https://www.news1.kr/world/international-economy/6342073",
-          "source": "뉴스1"
-        },
-        {
-          "title": "필라델피아 반도체지수, 2일 3.37% 하락…나스닥100보다 낙폭 커",
-          "url": "https://www.tokenpost.kr/news/market/432005",
-          "source": "토큰포스트"
-        },
-        {
-          "title": "[속보] 필라델피아 반도체지수 2.63%↑⋯ 나스닥 소폭 상승 마감",
-          "url": "https://www.kmib.co.kr/article/20261104500044",
-          "source": "국민일보"
-        }
-      ]
-    },
-    {
-      "keyword": "나스닥 지수",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T22:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyq2ld_MeT6qdv96U_tFqd3UtwpSl1XTPVxGcTOG4YFzmOB1Fk4WTq_Y1Sbe4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "기술주 반등에 나스닥 0.83%↑…중간선거 앞두고 혼조 [뉴욕증시 브리핑]",
-          "url": "https://www.hankyung.com/article/2026110442136",
-          "source": "한국경제"
-        },
-        {
-          "title": "뉴욕 증시, 중간선거 결과 주시하며 혼조세로 마감",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611040658249726",
-          "source": "YTN"
-        },
-        {
-          "title": "반도체 저가매수 반등…AI 투자 수익성 우려는 여전[뉴욕마감] - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/04/2026110407145263529",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "ionq",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkfMIIyuOVk1LaZ8kPxqQk97mfJ6aoOEu4oqgZNvB2EAI4r2jHBkGRh7M6UI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion",
-          "url": "https://www.ionq.com/news/ionq-awarded-7-5-million-follow-on-funding-from-afrl-to-advance-full-stack-quantum-networking",
-          "source": "IonQ"
-        },
-        {
-          "title": "Weekly Recap: Quantum-networking funding and Nov. 5 Q3 results",
-          "url": "https://www.tradingview.com/news/tradingview:9e88c001c492a:0-weekly-recap-quantum-networking-funding-and-nov-5-q3-results/",
-          "source": "TradingView"
-        },
-        {
-          "title": "How Risky Is IonQ Stock?",
-          "url": "https://www.trefis.com/stock/ionq/articles/622248/how-risky-is-ionq-stock/2026-11-03",
-          "source": "Trefis"
-        }
-      ]
-    },
-    {
-      "keyword": "욕망의 덫",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T22:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIOuB3nQVSEhjkleRa4agPGbSAClTFaAkP-789z9cK5L7GYPVqS_W0RaVfkGQ",
+      "startedAt": "2026-11-03T23:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTdoXFIMWGvX52MZrTTc1WlRAK_IJIn3-zp1js-sC5ychpfV9HEPyU2Yl2aYA",
       "category": "연예",
       "news": [
         {
-          "title": "“ 내가 궁금해? ” 장서희를 찾아간 전혜원 [욕망의 덫] | KBS 261103 방송",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026179150-01-000_MFSC4&program_code=T2026-0209&program_id=PS-2026179150-01-000&section_code=03&broadcast_complete_yn=N&section_id=27853",
-          "source": "대한민국 대표 공영미디어 KBS"
+          "title": "아들은 세상 속 ‘홀로서기’, 아빠는 배우로 ‘다시 서기’",
+          "url": "https://www.chosun.com/national/people/2026/11/04/QGSN5KNR5ZCCNC4SPOKCY4TNEM/",
+          "source": "조선일보"
         },
         {
-          "title": "'욕망의 덫' 전혜원, 주미란 과거 캐묻기 시작…윤해영 \"결혼한 적 없어\"",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=778674",
-          "source": "싱글리스트"
+          "title": "'희귀병子' 권오중, 7년째 금주한 사연 \"술에 의존하던 아버지 닮아가\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-03/202611030100015200001327",
+          "source": "스포츠조선"
         },
         {
-          "title": "‘욕망의 덫’ 50회 예고, 은설이 미란의 감춰 온 과거 파헤친다…국철은 해라 앞에",
-          "url": "https://www.wikitree.co.kr/articles/1171235",
-          "source": "위키트리"
+          "title": "아들 희귀질환과 가족의 시간…배우 권오중의 첫 산문집",
+          "url": "https://www.news1.kr/life-culture/book/6329319",
+          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "파운드리",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX6iav_LYaD8A-R_YuIAiA4KSvO-jd4ZoiUfv72hJ7Ct1Noq8s-JG7nc-Czv0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=64709",
-          "source": "디일렉"
-        },
-        {
-          "title": "[종목상담 주식민원처리반] 삼성 8인치 파운드리 철수 따른 반사이익 기대 'DB하이텍' - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/03/2026110318307087575",
-          "source": "머니투데이"
-        },
-        {
-          "title": "[DB 창립 57주년] 8인치 특화로 일군 '알짜 반도체'… DB하이텍, ‘중국 추격’ 과제",
-          "url": "https://www.mediapen.com/news/view/1134634",
-          "source": "미디어펜"
-        }
-      ]
-    },
-    {
-      "keyword": "신속통합기획",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T22:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCBjJvLOxOAoBSdxqgzW5jt6c1OnY2Dx1d5nSddawXJOLbMDbzuhJ-09PhGi4",
+      "keyword": "thứ hạng của man utd gặp as roma",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-03T23:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1915tjKHQqBSbU0NN1xH4YtHjoSBH2DSuF76DlxorGxPa-WtO2v2adCyB2ms",
       "category": "기타",
       "news": [
         {
-          "title": "신통기획 확정지 신정4동 922번지 재개발 2,170세대 대단지로 재개발",
-          "url": "https://tbs.seoul.kr/news/newsView.do?typ_800=&idx_800=3538653&seq_800=20531554",
-          "source": "TBS 서울"
+          "title": "Video bóng đá MU - AS Roma: Ngược dòng cảm xúc, Cunha chói sáng (Cúp C1)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-as-roma-tra-gia-sai-lam-cup-c1-c48a1808154.html",
+          "source": "Tin tức 24h"
         },
         {
-          "title": "정비구역 지정도 안 됐는데 3억원 껑충…신정4동, 재개발 기대감에 들썩",
-          "url": "https://contents.premium.naver.com/ledesk/agelimit/contents/261103153438972bx",
-          "source": "네이버 프리미엄콘텐츠"
+          "title": "Man Utd thắng ngược khó tin trước Roma ở Champions League",
+          "url": "https://vnexpress.net/man-utd-thang-nguoc-kho-tin-truoc-roma-o-champions-league-5140449.html",
+          "source": "VnExpress"
         },
         {
-          "title": "양천구, 신정4동 922번지 일대 최고 25층·2,170세대 재개발…4일 주민설명회 개최",
-          "url": "https://www.yna.co.kr/view/RPR20261102001200353",
+          "title": "Kết quả MU 3-2 AS Roma: Ngược dòng điên rồ",
+          "url": "https://bongdaplus.vn/champions-league-cup-c1/ket-qua-mu-vs-as-roma-nguoc-dong-dien-ro-5280302611.html",
+          "source": "Tạp chí Bóng đá"
+        }
+      ]
+    },
+    {
+      "keyword": "외환시장",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T23:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwePIsyz-yEXhK4tlMBZHUUrCmNphDEpuHDSq515aZnC57scmIwHiqHuM3MN4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "NDF, 1,344.00/ 1,344.40원…3.95원↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442895",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "美 중간선거 개표 앞두고 관망세…환율 1340원대 등락",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03207846645642440",
+          "source": "마켓인"
+        },
+        {
+          "title": "달러 당 원화값, 2.8원 오른 1,341원…중간선거 앞두고 관망세",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005954105",
+          "source": "매일경제TV"
+        }
+      ]
+    },
+    {
+      "keyword": "여객선",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T23:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_iXX9cZEhzUOaLObEqzrI5krVynHcjJkemxeyrK_b4KXxuXzXP5EIHLCb2U",
+      "category": "기타",
+      "news": [
+        {
+          "title": "1500원에 가던 백령도, 내년부턴 1만5600원 내야 간다",
+          "url": "https://www.chosun.com/national/regional/2026/11/03/KQZIILYYVNDU7BEZJ2MXMA3LIA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'편도 1500원' i-바다패스 후퇴…시민 부담 최대 10배",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335894",
+          "source": "인천일보"
+        },
+        {
+          "title": "[인천] 인천시민, 내년부터 여객선 이용부담액 최고 10배 오를 듯",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611031525481890",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "fc barcelona vs aston villa standings",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T23:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROEb0ZOzrvMK5tozeI15nordzCJYsWGH-NrkSOi8pyKHb9KBi4RjdRGq2DGB0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "With Hamza Abdel Karim's participation: a crazy draw between Barcelona and Aston Villa in the UEFA Youth League",
+          "url": "https://www.goal.com/en/news/with-hamza-abdelkrim-featuring-a-crazy-draw-between-barcelona-and-aston-villa-in-the-uefa-youth-league/bltcddcb7ed1b1facf4",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Ebrima Tunkara scores and assists as Barcelona rescue UEFA Youth League draw against Aston Villa",
+          "url": "https://www.barcablaugranes.com/barca-atletic/136960/ebrima-tunkara-uefa-youth-league-aston-villa",
+          "source": "Barca Blaugranes"
+        },
+        {
+          "title": "Cunha seals memorable Man Utd Euro fightback",
+          "url": "https://www.bbc.com/sport/football/live/cmj47pveql18t",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "keyword": "기상",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T23:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRx9uMXju5fS1720hUkafs0TxlifWVX5op5tajcCETQOweK-6yUFp4YYvdvM",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "[뉴스9 날씨] 내일까지 ‘가을 날씨’…목요일 전국에 비",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703134",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "남서부부터 ‘비 소식’, 내일 전국 확대…토요일 아침 ‘영하’",
+          "url": "https://www.hani.co.kr/arti/society/environment/1285667.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "부산, 울산, 경남 대체로 구름 많은 날씨…낮 기온 최대 19도",
+          "url": "https://www.yna.co.kr/view/AKR20261104008700052",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "간호조무사",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-03T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS08JhzuS8YsO851S0YztWwJPAXUVB9LkS1DlDcp2kpEl8h_IuOwAJaboynRek",
+      "keyword": "제민 일보",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T23:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTs6oSq8NDnEL6f_W5tGohpmZM0MWBIuOe1wEeORA68tz4d82PbqB3V1aF0MEY",
       "category": "기타",
       "news": [
         {
-          "title": "최저임금 올렸더니 요양원 '간호사'가 사라졌다",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611031511509330464",
-          "source": "대한경제"
+          "title": "[제민탑] 제주 제2공항 건설 어디로 가고 있나",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846070",
+          "source": "제민일보"
         },
         {
-          "title": "간호사 대신 조무사로 채운 요양시설…건보 부담 키운다",
-          "url": "https://www.khan.co.kr/article/202611032115005",
-          "source": "경향신문"
+          "title": "‘우여곡절’ 2공항 갈등조정협의회 출범…찬성 단체 ‘반발’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8702165",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "노인요양시설 숙련 간호인력 확충 효과 브리핑하는 권정현 KDI 연구위원",
-          "url": "https://mobile.newsis.com/photo/NISI20261103_0021516199",
+          "title": "[한라일보 저녁잇슈] 2026년 11월 2일 제주뉴스",
+          "url": "http://www.ihalla.com/article.php?aid=1793608343792316121",
+          "source": "한라일보"
+        }
+      ]
+    },
+    {
+      "keyword": "atlético madrid vs bayern munich standings",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-03T23:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq1C43cGugcPBuDct-YX8ofCjIVzxjt-YtUzPcO4g6Wz9a0K8GCSf_I5YNk_A",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Atletico Madrid 0-2 Bayern Munich: Karl Lennart and Konrad Laimer goals give visitors win",
+          "url": "https://www.bbc.com/sport/football/live/cmy0r2lw77r1t",
+          "source": "BBC"
+        },
+        {
+          "title": "Atlético 0-2 Bayern (Nov 3, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401915386",
+          "source": "ESPN"
+        },
+        {
+          "title": "Bayern skeleton crew sink Atletico in Champions League",
+          "url": "https://sports.yahoo.com/articles/bayern-skeleton-crew-sink-atletico-220810697.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "비행기",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-03T23:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToM7nPNtQuYobvfZKDqQvPA7I5T2uAJMTQNT_G-8ZG6x0crSsve0gEQ0H320c",
+      "category": "연예",
+      "news": [
+        {
+          "title": "\"발냄새 못 참겠네\"…美 유명 여가수, 팔걸이 차지한 맨발에 스프레이 '칙'",
+          "url": "https://www.newsis.com/view/NISX20261103_0003852003",
           "source": "뉴시스"
+        },
+        {
+          "title": "\"발냄새 너무 심해\"…유명 여가수, 비행기 뒷좌석 승객 발에 스프레이 칙~",
+          "url": "https://www.news1.kr/world/global-topic/6340626",
+          "source": "뉴스1"
+        },
+        {
+          "title": "코 막더니 스프레이 칙…기내 팔걸이 위 맨발에 응징한 美 가수",
+          "url": "https://www.hankyung.com/article/202611032210H",
+          "source": "한국경제"
         }
       ]
     }
