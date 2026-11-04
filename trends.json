@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-04T16:49:36.258Z",
+  "updatedAt": "2026-11-04T17:46:55.806Z",
   "summary": [
     {
       "category": "연예",
       "count": 3
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "정치·사회",
@@ -12,14 +16,6 @@
     {
       "category": "IT·과학",
       "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "기타",
-      "count": 1
     },
     {
       "category": "경제",
@@ -32,23 +28,23 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-11-04T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9-OO11xEBSORpf-E_9vo8ha01TuHaFbP9hDQFvUt47lof7aSSQK8T7CEiCLg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfCZkZtpUjhoRm8tQDxNRa_Rm8PCcsccImuzjWVau1Xi3Xedcz7Szj5R906BM",
       "category": "스포츠",
       "news": [
-        {
-          "title": "연장 12회 끝낸 건 실책... 삼성, 승부 원점으로 돌렸다",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/04/4XD4NGYJ3RAJ5GI75GDAD7WSOU/",
-          "source": "조선일보"
-        },
         {
           "title": "프로야구 삼성, 연장 혈투 끝에 KS 2차전 승리‥'1승 1패' 균형",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6863252_36946.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "‘연장 12회 혈투’ 삼성, KT 꺾고 KS 1승 1패 균형",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704319",
-          "source": "KBS 뉴스"
+          "title": "\"배찬승이 많이 컸다\" 박진만 감독, 연장 12회 혈투 버틴 불펜에 엄지척…\"좌완 2명이 잘해주고 있다\" [KS2]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/05/HE3WGZBSGM3TQZJZMZQTQYTGME/",
+          "source": "조선일보"
+        },
+        {
+          "title": "한국시리즈 2차전...kt \"홈 2연승\" 삼성 \"원정 1승 1패\"",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611041825297315",
+          "source": "YTN"
         }
       ]
     },
@@ -66,9 +62,9 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "[사설] 검찰 해체하고 대통령 위한 ‘사설 특검’ 만들겠다는 뻔뻔함",
-          "url": "https://www.chosun.com/opinion/editorial/2026/11/05/EMW6Y2TI6VEWTDCW7G4XI24KTY/",
-          "source": "조선일보"
+          "title": "민주당, 오늘(5일) 본회의에서 조작기소 특검법 처리 시도…국힘 “필리버스터”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704328",
+          "source": "KBS 뉴스"
         },
         {
           "title": "퇴장하는 국민의힘 의원들",
@@ -78,27 +74,27 @@
       ]
     },
     {
-      "keyword": "박계범",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-04T13:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtUyHrn5fSXGoL3AMLNl1-SmAzbvoPEdCCMuZKnq7DH_hEm67RL5BcLpoOks",
-      "category": "기타",
+      "keyword": "이찬원",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLIGQcFUAoFFfg9LuNOfUaJx3RXSQLZ6_lfNPFubhuiFBn5SmC1YcIAf-nuFA",
+      "category": "연예",
       "news": [
         {
-          "title": "이재현 '한점 더 달아나자'",
-          "url": "https://www.news1.kr/photos/8197854",
-          "source": "뉴스1"
+          "title": "이찬원 ‘오내언사’ 1200만 뷰 돌파…팬 향한 사랑 담은 자작곡의 저력",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16267395",
+          "source": "톱스타뉴스"
         },
         {
-          "title": "[포토] 김성윤 '끝까지 가보자' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/2026110422365243211",
-          "source": "머니투데이"
+          "title": "이찬원 ‘시월의 시’ MV, 400만 뷰 돌파",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610270174",
+          "source": "BNT뉴스"
         },
         {
-          "title": "[사진]실점 위기 탈출 김정운",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/G5SGGYTEGUZDKMJRGJSTKY3DGY/",
-          "source": "조선일보"
+          "title": "“팬들에게 바친 사랑 고백” 이찬원, 직접 만든 노래가 무려 1200만 뷰 ‘대박’",
+          "url": "https://www.sportsseoul.com/news/read/1646271",
+          "source": "스포츠서울"
         }
       ]
     },
@@ -107,18 +103,18 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-04T14:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYkuNkRtJbJWxAHFvelS-1Va0hxVQ-XIi-G8tJZpkhLxbI3pF3JoEExxs17o",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_2IgcoyTb-zZU3s04RYHvFNZy-8BXk_nQiT7p5GErFf5Rqqym8YV5DO7XtA0",
       "category": "정치·사회",
       "news": [
-        {
-          "title": "李, ‘전광훈 교회’ 강제집행 불발에 “법 어겨도 버티면 되는 세상 없다”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261104/134967492/1",
-          "source": "동아일보"
-        },
         {
           "title": "李, 사랑제일교회 재개발 제외에 \"무력으로 버티면 되는 게 어딨나\"",
           "url": "https://imnews.imbc.com/news/2026/politics/article/6863206_36911.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "李, ‘전광훈 교회’ 강제집행 불발에 “법 어겨도 버티면 되는 세상 없다”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261104/134967492/1",
+          "source": "동아일보"
         },
         {
           "title": "장위동 간 이 대통령 “부패 없고 신속한 공공개발로 중심 옮겨야”",
@@ -132,18 +128,18 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-04T13:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPi4yCtsYMJ-78nbXsEKfUQMq3DTrxFQbjvCu_OjYamII0GG-70Lk-5DT7J7U",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC2yOqebH_gxV_mkoIgzzPZVBhvrIrxzcHFMdaKrRSOQdysjb3gqNt_sPdQds",
       "category": "연예",
       "news": [
-        {
-          "title": "‘23세에 첫 출산’ 이요원, 미모 쏙 빼닮은 장녀 공개…美 명문대 졸업",
-          "url": "https://www.mk.co.kr/news/hot-issues/12196545",
-          "source": "매일경제"
-        },
         {
           "title": "이요원 美 명문대 졸업 큰딸 공개…173㎝ 엄마보다 큰 키 깜짝 - 머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110417294624501",
           "source": "머니투데이"
+        },
+        {
+          "title": "‘23세에 첫 출산’ 이요원, 미모 쏙 빼닮은 장녀 공개…美 명문대 졸업",
+          "url": "https://www.mk.co.kr/news/hot-issues/12196545",
+          "source": "매일경제"
         },
         {
           "title": "김영란, '23세 결혼' 이요원에 \"너무 일찍 시집 가…신인 때 눈에 딱 들어왔다\"",
@@ -178,27 +174,27 @@
       ]
     },
     {
-      "keyword": "이찬원",
+      "keyword": "롤 패치노트",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLIGQcFUAoFFfg9LuNOfUaJx3RXSQLZ6_lfNPFubhuiFBn5SmC1YcIAf-nuFA",
-      "category": "연예",
+      "startedAt": "2026-11-04T16:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjixbODOwq7UwFP1eKKsbkq4zRuWW97JlUbTDLqsy3AhQhg5PpLCK03bblonM",
+      "category": "스포츠",
       "news": [
         {
-          "title": "이찬원 ‘오내언사’ 1200만 뷰 돌파…팬 향한 사랑 담은 자작곡의 저력",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16267395",
-          "source": "톱스타뉴스"
+          "title": "리그 오브 레전드 26.22 패치 노트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-22-notes/",
+          "source": "League of Legends"
         },
         {
-          "title": "“팬들에게 바친 사랑 고백” 이찬원, 직접 만든 노래가 무려 1200만 뷰 ‘대박’",
-          "url": "https://www.sportsseoul.com/news/read/1646271",
-          "source": "스포츠서울"
+          "title": "롤 점검 시간…26.22 패치노트",
+          "url": "https://www.etoday.co.kr/news/view/2643725",
+          "source": "이투데이"
         },
         {
-          "title": "이찬원 ‘시월의 시’ MV, 400만 뷰 돌파",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610270174",
-          "source": "BNT뉴스"
+          "title": "26.22 패치…롤 점검 시간",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611030201",
+          "source": "www.bntnews.co.kr"
         }
       ]
     },
@@ -232,23 +228,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-04T15:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXhO8cxA7NkT6fk-l2p5phA4C12Y4bi1ZrexeJseOT5QxcdPi76wOXnaRvsyQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaJn1olzPxARrDJeMKgEbats5MOzUF2aAZMqaLYjBkuHJO42t2aqoc-07DvHE",
       "category": "IT·과학",
       "news": [
-        {
-          "title": "Microsoft Wins Even If The AI Bubble Pops (NASDAQ:MSFT)",
-          "url": "https://seekingalpha.com/article/4962094-microsoft-wins-even-if-the-ai-bubble-pops",
-          "source": "Seeking Alpha"
-        },
         {
           "title": "FY27 Q1 - Press Releases - Investor Relations",
           "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
           "source": "Microsoft"
         },
         {
-          "title": "Microsoft Just Revealed a $677 Billion Reason to Buy Its Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-revealed-677-billion-173102834.html",
+          "title": "Forget the 12-Month Squeeze: Microsoft Is Primed for an Explosive AI Payoff",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-12-month-squeeze-microsoft-154500157.html",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Microsoft Wins Even If The AI Bubble Pops (NASDAQ:MSFT)",
+          "url": "https://seekingalpha.com/article/4962094-microsoft-wins-even-if-the-ai-bubble-pops",
+          "source": "Seeking Alpha"
         }
       ]
     },
