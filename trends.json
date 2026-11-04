@@ -1,68 +1,31 @@
 {
-  "updatedAt": "2026-11-04T18:50:28.313Z",
+  "updatedAt": "2026-11-04T19:52:38.076Z",
   "summary": [
     {
       "category": "스포츠",
       "count": 4
     },
     {
-      "category": "정치·사회",
-      "count": 1
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "IT·과학",
+      "count": 2
     },
     {
       "category": "생활·날씨",
       "count": 1
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "기타",
-      "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "우규민",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-04T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhy6u0_VdeBWZo0iEj9x8w0d-feKxwfPIh6JTNIULZZHwpF9Z4y3gl1yk3S5c",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "명품 투수전, 실책이 승부 갈랐다…삼성, 연장 12회 혈투 끝 KT 3-2 제압 ‘원점’",
-          "url": "https://www.khan.co.kr/article/202611042304001",
-          "source": "경향신문"
-        },
-        {
-          "title": "\"놀란 라이언도 했는데 나라고 못할까\" 10일간 295구 던진 페덱, 4일 쉬고 7이닝 1실점 역투 [KS2]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/05/HAZWINZWMMYGKMTBME4WGYTBMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "프로야구 삼성, 연장 혈투 끝에 KS 2차전 승리‥'1승 1패' 균형",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6863252_36946.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
     {
       "keyword": "페네르바흐체 대 리버풀",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-04T16:50:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaGJInd-IuQRA4vRm5tef2QulojqM7yh1s9Ex_Z37ITel0nrJ779BFLJwghdI",
-      "category": "스포츠",
+      "category": "기타",
       "news": [
         {
           "title": "Champions League: Liverpool visit Fenerbahce before Arsenal and Man City in action",
@@ -70,71 +33,21 @@
           "source": "BBC"
         },
         {
-          "title": "Fenerbahçe vs. Liverpool: Livestream Champions League Soccer From Anywhere",
-          "url": "https://www.cnet.com/tech/services-and-software/fenerbahce-vs-liverpool-livestream-champions-league-soccer-from-anywhere/",
-          "source": "CNET"
-        },
-        {
           "title": "Team news: Confirmed Liverpool line-up v Fenerbahce",
           "url": "https://www.liverpoolfc.com/news/team-news-confirmed-liverpool-line-up-v-fenerbahce",
           "source": "Liverpool FC"
-        }
-      ]
-    },
-    {
-      "keyword": "사랑제일교회",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-04T14:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_2IgcoyTb-zZU3s04RYHvFNZy-8BXk_nQiT7p5GErFf5Rqqym8YV5DO7XtA0",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "李, 사랑제일교회 재개발 제외에 \"무력으로 버티면 되는 게 어딨나\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6863206_36911.html",
-          "source": "MBC 뉴스"
         },
         {
-          "title": "李, ‘전광훈 교회’ 강제집행 불발에 “법 어겨도 버티면 되는 세상 없다”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261104/134967492/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "이 대통령, ‘전광훈 교회’ 강제집행 불발에 “법 어겨도 버티면 되는 세상 없다”",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1285789.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "aek vs real madrid",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-04T17:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3QV0hBKqX27mJcoG7JbJF1Qe09RBXSbB5BvZ-0JYNo5B2jkhFWXBA7Oa3sBQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "CONFIRMED lineups: AEK Athens vs Real Madrid, 2026 Champions League",
-          "url": "https://www.managingmadrid.com/115097/aek-athens-vs-real-madrid-2026-champions-league-live-online-stream",
-          "source": "Managing Madrid"
-        },
-        {
-          "title": "Licensable picture: GREECE-ATHENS-AEK-ATHENS-REAL-MADRID-UEFA-CHAMPIONS-LEAGUE-04-11-2026",
-          "url": "https://www.reutersconnect.com/item/greece-athens-aek-athens-real-madrid-uefa-champions-league-04-11-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwMEswVkxXTg",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "What does AEK stand for in AEK Athens?",
-          "url": "https://en.as.com/soccer/what-does-aek-stand-for-in-aek-athens-f202611-n/",
-          "source": "Diario AS"
+          "title": "FOX Network: FENERBAHCE LIVERPOOL UEFA Champions League Match 𝐋𝐈𝐕𝐄 fRee",
+          "url": "https://interaktiv.tagesanzeiger.ch/2016/plaine-morte/panos/camp/camp.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vbHVlOTM3Mmx1Y2FzLmdpdGh1Yi5pby91Y2xvbnR2L2ZpbGUueG1sIi8+PC9rcnBhbm8+&id=fenerbahce-liverpool-epl-live-on-usstv-qzwh7660",
+          "source": "tagesanzeiger.ch"
         }
       ]
     },
     {
       "keyword": "이찬원",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-04T15:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShLMbvmWky8s4MiVxf22ekx-LHUqfR8YsbZfFyiTDQd96Oe-6mkAv_P7ijMOk",
       "category": "생활·날씨",
@@ -157,102 +70,161 @@
       ]
     },
     {
-      "keyword": "이요원",
+      "keyword": "한화 이글스",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-04T13:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC2yOqebH_gxV_mkoIgzzPZVBhvrIrxzcHFMdaKrRSOQdysjb3gqNt_sPdQds",
-      "category": "연예",
-      "news": [
-        {
-          "title": "이요원 美 명문대 졸업 큰딸 공개…173㎝ 엄마보다 큰 키 깜짝 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110417294624501",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘23세에 첫 출산’ 이요원, 미모 쏙 빼닮은 장녀 공개…美 명문대 졸업",
-          "url": "https://www.mk.co.kr/news/hot-issues/12196545",
-          "source": "매일경제"
-        },
-        {
-          "title": "김영란, '23세 결혼' 이요원에 \"너무 일찍 시집 가…신인 때 눈에 딱 들어왔다\"",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6342739",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "한화 이글스",
-      "traffic": "200+",
-      "trafficValue": 200,
       "startedAt": "2026-11-04T17:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKH20Q6d8A5p1ZpdVIJRjeoe3wFInf7NxuLlxw1UpQ3dWZ8ZmO6PvmoJmqco",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'1200만원 명품 쾌척!' 한화 복덩이 울린 대선배의 화답…\"18살 때부터 봤는데, 당연히 계속 응원했죠\"",
-          "url": "https://www.sportschosun.com/baseball/2026-11-04/202611040100030150003155",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "[엠빅뉴스] 한국에서의 첫승 질문에 말.잇.못 눈물 뚝뚝 왕옌청",
-          "url": "https://imnews.imbc.com/original/mbig/6861722_29041.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "한화 데뷔승하고 ‘펑펑’ 울던 왕옌청…대만서 또 울컥, 왜?",
-          "url": "https://news.jtbc.co.kr/video/NB12325304",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "롤 패치노트",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T16:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjixbODOwq7UwFP1eKKsbkq4zRuWW97JlUbTDLqsy3AhQhg5PpLCK03bblonM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTklCACVCPuth3iBks5RiExvkZEWepNCwbd1FsuXqE4UQOHLhTAbTFdoPaaq6U",
       "category": "스포츠",
       "news": [
         {
-          "title": "리그 오브 레전드 26.22 패치 노트",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-22-notes/",
-          "source": "League of Legends"
+          "title": "미 SI가 평가한 ‘한화 노시환’…“수비수로 어깨 강하지만 좌우 움직임 개선 필요”",
+          "url": "https://www.khan.co.kr/article/202611032037025",
+          "source": "경향신문"
         },
         {
-          "title": "롤 점검 시간…26.22 패치노트",
-          "url": "https://www.etoday.co.kr/news/view/2643725",
-          "source": "이투데이"
+          "title": "'킹캉' 못잊는 피츠버그, 노시환 주목할 수밖에 없었던 숨은 이유…관건은 실제 제안",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/05/GFRTKYJZGA3GCMJZGI2TEYTFMU/",
+          "source": "조선일보"
         },
         {
-          "title": "26.22 패치…롤 점검 시간",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202611030201",
-          "source": "www.bntnews.co.kr"
+          "title": "“노시환은 노숙자 수준” 폰세와 한솥밥은 무리인가, 美매체 혹평일색…아시아 포스팅 선수 중 평가 꼴찌 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/202611041433772691O",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "사기",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4UQW3nsY6zZ-MQcHRKC5P6S8mM4_K2DxSovvIQ-Wb1qPtadiT5XCaytFuTA",
-      "category": "경제",
+      "keyword": "aek vs real madrid",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T17:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43_x0904unK6tAgDUUqOHqoP2rodawtkGnZHBXZbOyECJ-YMOkU7ZfEOl0LE",
+      "category": "스포츠",
       "news": [
         {
-          "title": "태영호 전 의원 장남 ‘18억 가상자산 사기’ 1심서 징역 3년6개월형",
-          "url": "https://www.khan.co.kr/article/202611041520011",
-          "source": "경향신문"
+          "title": "LIVE BLOG: AEK Athens vs Real Madrid | UEFA Champions League",
+          "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/live-blog-aek-athens-vs-real-madrid-uefa-champions-league-2026-11-04",
+          "source": "beIN SPORTS"
         },
         {
-          "title": "부친 ‘태영호’ 이름 내세워 18억 사기…장남 1심 징역 3년 6개월",
-          "url": "https://www.donga.com/news/Society/article/all/20261104/134966808/2",
-          "source": "동아일보"
+          "title": "By video: the eighth, a historic Arab goal adds to Real Madrid's misery",
+          "url": "https://www.goal.com/en/news/by-video-the-eighth-a-historic-arab-goal-adds-to-real-madrid-s-misery/blt56befb6f8c4d1904",
+          "source": "Goal.com"
         },
         {
-          "title": "父 이름 내세워 ‘투자 사기’ 태영호 장남...1심 징역 3년 6개월",
-          "url": "https://www.chosun.com/national/court_law/2026/11/04/TSF4VC4VBZGNDI3QJMDIIDSIXU/",
-          "source": "조선일보"
+          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
+          "url": "https://www.firstpost.com/football-news/live-score/stats/fen-vs-liv-194013/",
+          "source": "Firstpost"
+        }
+      ]
+    },
+    {
+      "keyword": "소유진",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T18:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0J99pvRXse5l25lbFKB9HWA7kr7_dAoeTV0vD5JmGjh12s46oVzICKHLwZZI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'백종원♥' 소유진, 블랙 언더웨어 비치는 시스루톱 입고 외출…과감한 애셋맘",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/04/HA3GGZJZGJSDMMZQHBSTCMJQGU/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "`백종원♥` 소유진, 이렇게 화사할 수가…물 오른 미모에 감탄만",
+          "url": "https://mydaily.co.kr/page/view/2026110413441670974",
+          "source": "마이데일리"
+        },
+        {
+          "title": "‘백종원♥’ 소유진, 운동 끝나자마자 자녀들과 또 수영..강철 체력 ‘삼남매맘’",
+          "url": "https://www.koreadaily.com/article/20261027160115705",
+          "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "도깨비",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T18:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHpVzunwWKHflIeHSRCAi4ZiXXaEKiwc9BtsQ14_nUoIVPDc_VPEt0efhjwA",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "카카오게임즈 3분기 영업손실 263억원…적자 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261104026600527",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "카카오게임즈, '도깨비의세계'서 희망 봤다…턴어라운드 기대감↑ - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/11/04/2026110409221390516",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[클릭 e종목]\"카카오게임즈, 게임업종 톱픽…목표가 상향\"",
+          "url": "https://core.asiae.co.kr/article/2026110419271769585",
+          "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "리버풀",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T17:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0n4l05RQyJclCemsKXG8il5vWrTZOp8Vux11xVvyS_hlaLMoW22eBazTyyp4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "페네르바체 vs 리버풀 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fenerbahce-vs-liverpool-ban-linh-san-khach-duoc-thu-lua",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "[오피셜] 김민재 前 소속팀 페네르바체에서 김민재 지도하고, ‘승점 99점’ 준우승했던 감독 자진 사임",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99975",
+          "source": "포포투"
+        },
+        {
+          "title": "[오피셜] ‘리버풀 출신’ 디르크 카윗, 페네르바체 임시 감독으로… 선수로 뛰던 친정팀 지휘한다",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=313544",
+          "source": "베스트일레븐"
+        }
+      ]
+    },
+    {
+      "keyword": "김보연",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T18:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "레알마드리드",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T18:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7dY2DjW6ue13AKjZrrJqEVOcIuSD3dgMqactCqyNAwQKifC8YVqeaucibXCI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "챔피언스 리그 AEK 아테네 대 레알 마드리드 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-aek-athens-vs-real-madrid-tai-champions-league-1794631.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "무리뉴: \"레알은 아직 어떤 타이틀도 따내지 못했습니다. 이제 시작일 뿐입니다.\"",
+          "url": "https://www.vietnam.vn/ko/mourinho-real-chua-thang-danh-hieu-nao-tat-ca-moi-bat-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "AEK 아테네 vs 레알 마드리드, 11월 5일 00:45: 생중계 링크, 분석 및 예측.",
+          "url": "https://www.vietnam.vn/ko/aek-athens-vs-real-madrid-0h45-ngay-5-11-link-xem-truc-tiep-nhan-dinh-du-doan",
+          "source": "Vietnam.vn"
         }
       ]
     },
@@ -261,7 +233,7 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-04T15:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXhO8cxA7NkT6fk-l2p5phA4C12Y4bi1ZrexeJseOT5QxcdPi76wOXnaRvsyQ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn0_IW4CUTXu_dFgeR9XIgdfWFmIqRgMaZaWs8Fw7hJR_HouDcZY33i3TRvpE",
       "category": "IT·과학",
       "news": [
         {
