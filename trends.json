@@ -1,255 +1,255 @@
 {
-  "updatedAt": "2026-11-04T22:42:47.387Z",
+  "updatedAt": "2026-11-04T23:37:37.476Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
     },
     {
-      "category": "스포츠",
+      "category": "경제",
       "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "스포츠",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "날씨",
-      "traffic": "100000+",
-      "trafficValue": 100000,
-      "startedAt": "2026-11-04T21:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGX5pEZwco9wcrDWXAwmC5m8tvukdg5xq0KgOd0SKYI7KOlcyYPGOtMmgegzk",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "[날씨] 오후까지 곳곳 가을비...이후 찬 바람 불며 기온 '뚝'",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611050652270870",
-          "source": "YTN"
-        },
-        {
-          "title": "전국 흐리고 곳곳 비…출근길 우산 챙기세요",
-          "url": "https://www.khan.co.kr/article/202611050635001",
-          "source": "경향신문"
-        },
-        {
-          "title": "목요일 전국에 겨울 재촉하는 비…입동엔 영하권 추위",
-          "url": "https://www.yna.co.kr/view/AKR20261104155100530",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "weather",
+      "keyword": "보이스 피싱",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-04T21:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKs3ZxSWaIusnaQhcKd1n8BoLFpcRib5_f_cxa_K-Lrc0RvjdOHGvBluDOmlY",
+      "startedAt": "2026-11-04T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF0B-QHgwBk1cMrggilnfnyw0o-qMssLnOggxR9fOxQL70Hmyg3gL2iusTRIw",
       "category": "기타",
       "news": [
         {
-          "title": "Weather forecast prompts schedule shift of multiple high school football games",
-          "url": "https://www.wavy.com/friday-night-flights/weather-forecast-moves-multiple-high-school-football-games-to-thursday/",
-          "source": "WAVY.com"
+          "title": "피싱에 5000만원 잃고 목숨 끊은 母子…카자흐스탄 한인 조직 소행이었다",
+          "url": "https://www.donga.com/news/Society/article/all/20261105/134969025/2",
+          "source": "동아일보"
         },
         {
-          "title": "HS FOOTBALL: 1480 WHBC Coverage",
-          "url": "https://www.whbc.com/hs-football-1480-whbc-coverage/",
-          "source": "News-Talk 1480 WHBC"
+          "title": "[단독] ‘충북 모자 사망’ 부른 피싱…카자흐스탄 한인들 짓이었다",
+          "url": "https://www.joongang.co.kr/article/25475795",
+          "source": "중앙일보"
         },
         {
-          "title": "Prep football: Highlanders look for bounce back",
-          "url": "https://www.herald-dispatch.com/sports/high_school_sports/prep-football-highlanders-look-for-bounce-back/article_30944fcb-98ff-4384-a160-7d564ae59432.html",
-          "source": "herald-dispatch.com"
+          "title": "“검사 말 믿고 모텔 갔다가 5000만원 날렸다”…모자 숨진 사건 배후에 카자흐스탄 한인 조직",
+          "url": "https://www.mk.co.kr/news/society/12196894",
+          "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "thời tiết",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-04T21:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2goavlG4oqHq0S5V_WHeeQKV_-L0QdFIF8xwdzeektELpQQEK_3UXd09lf6s",
+      "keyword": "s&p 500",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-04T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTllRA-k6TVEpXIjRKlfnA5TJ8vjGtJEYPnxqiniWxfERlW26gol6OZZqVGBgU",
       "category": "기타",
       "news": [
         {
-          "title": "Miền Bắc sắp đón 2 đợt không khí lạnh liên tiếp, đợt sau mạnh hơn",
-          "url": "https://vietnamnet.vn/khong-khi-lanh-sap-tran-ve-mien-bac-2571403.html",
-          "source": "Báo VietNamNet"
+          "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
+          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+          "source": "CNBC"
         },
         {
-          "title": "26 tỉnh, thành phố được yêu cầu chủ động ứng phó các hình thái thiên tai trong 10 ngày tới",
-          "url": "https://laodong.vn/moi-truong/26-tinh-thanh-pho-duoc-yeu-cau-chu-dong-ung-pho-cac-hinh-thai-thien-tai-trong-10-ngay-toi-1794931.ldo",
-          "source": "Laodong.vn"
+          "title": "Dow posts biggest gain of the year after Democrats take control of Congress",
+          "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "source": "CBS News"
         },
         {
-          "title": "[Video] Không khí lạnh mạnh tràn xuống từ ngày 8-9/11, miền trung nguy cơ mưa lớn",
-          "url": "https://nhandan.vn/video-khong-khi-lanh-manh-tran-xuong-tu-ngay-8-911-mien-trung-nguy-co-mua-lon-post1000226.html",
-          "source": "Báo Nhân Dân điện tử"
+          "title": "[New York Stocks] Surge as Democrats Sweep House and Senate; Oil Falls 8% on Hopes of War's End",
+          "url": "https://www.asiae.co.kr/en/article/2026110506453161006",
+          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-04T21:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDh3aL8ZCptpWXexjjex6VnaU1m3TvFam070xpGvHcgnzak1CqUMJAK-LGI0U",
-      "category": "기타",
-      "news": [
-        {
-          "title": "สภาพอากาศวันนี้ กรมอุตุฯ เตือน ไทยมีฝนฟ้าคะนอง-ลมกระโชกแรง 39 จังหวัด",
-          "url": "https://www.sanook.com/news/9910994/",
-          "source": "Sanook"
-        },
-        {
-          "title": "เช็กลิสต์ปริมาณน้ำในอ่างเก็บน้ำ ล่าสุด รับมือสภาพอากาศแปรปรวน",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1259344",
-          "source": "bangkokbiznews"
-        },
-        {
-          "title": "ปภ. แจ้งเตือน 61 จังหวัด และ กทม. เตรียมรับมือฝนฟ้าคะนอง-ลมแรง",
-          "url": "https://www.komchadluek.net/news/general-news/625156",
-          "source": "komchadluek"
-        }
-      ]
-    },
-    {
-      "keyword": "погода",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-04T21:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgQZ0jLgZnKWbZBRm-5TbE6ZiIT9hdIOQh6OlpyXzkq7mz5LjsscxZ_ZmPEw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Минус 33 и морозный туман: какой будет погода в Приамурье 5 ноября",
-          "url": "https://www.amur.life/news/2026/11/04/minus-33-i-moroznyy-tuman-kakoy-budet-pogoda-v-priamure-5-noyabrya",
-          "source": "Amur.life"
-        },
-        {
-          "title": "Снег и морозный туман: какая погода ждет амурчан в четверг",
-          "url": "https://amur.info/2026/11/04/sneg-i-moroznyj-tuman-kakaya-pogoda-zhdet-amurchan-v-chetverg/",
-          "source": "amur.info"
-        },
-        {
-          "title": "В Амурской области от -5 на юге до -21 градуса на севере",
-          "url": "https://ampravda.ru/2026/11/04/v-amurskoi-oblasti-ot-5-na-iuge-do-21-gradusa-na-severe",
-          "source": "Амурская правда"
-        }
-      ]
-    },
-    {
-      "keyword": "天气",
+      "keyword": "피겨스케이팅",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-04T21:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8zUDcjEcNAq-yklPbaeDd_brZGFAC_q6Rx34uP4gz99lnl56Zwn3Q9CffiD0",
+      "startedAt": "2026-11-04T22:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcCndF3MEY-39AL0pIMlWMkHD61i1zx3761E7YYO3EHqzWssKB7u966trxack",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "은반 위의 시…캐나다에서 열린 국제빙상경기연맹 피겨 스케이팅 대회",
+          "url": "https://www.yna.co.kr/view/IPT20261102000010365",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'세계가 놀랐다' 피겨 여제 김연아 뛰어넘는 역대 최고의 피겨 유망주 등장! 日 천재 시마다 마오, 시니어 그랑프리 데뷔전서 압도적 우승",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553667279",
+          "source": "스포탈코리아"
+        },
+        {
+          "title": "김유재, 그랑프리 2차 최종 7위로 마감",
+          "url": "https://www.newsis.com/view/NISI20261102_0002280316",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "vix",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT6tcSSRKR9L9x5qdSE_NZtdV6hXGLlB0_yx5UGuJbFz9cgqRWTwmPEQBI8rw",
       "category": "기타",
       "news": [
         {
-          "title": "Winter Weather Advisory: Up to 10 inches of snow and flood warnings hit Colorado",
-          "url": "https://www.9news.com/article/weather/weather-colorado/winter-weather-advisory-up-to-10-inches-of-snow-and-flood-warnings-hit-colorado/73-b8eba437-a6dc-421d-9a8e-04afd49ffbe6",
-          "source": "9News"
+          "title": "Investor Fear Spikes Ahead Of Midterms. It May Not Be So Bad For Stocks.",
+          "url": "https://www.investors.com/news/vix-stock-market-fear-gauge-sp-500/",
+          "source": "Investor's Business Daily"
         },
         {
-          "title": "Colorado weather: Up to 10 inches of snow forecast for mountains",
-          "url": "https://www.denverpost.com/2026/11/04/colorado-weather-forecast-snow-mountains-wednesday/",
-          "source": "The Denver Post"
+          "title": "CBOE Volatility Index Falls to One-Week Low of 16.97",
+          "url": "https://en.bloomingbit.io/feed/news/123660",
+          "source": "bloomingbit"
         },
         {
-          "title": "Winter weather advisory issued for Summit County as back-to-back storms approach Colorado mountains",
-          "url": "https://www.summitdaily.com/news/winter-weather-advisory-issued-for-summit-county-as-back-to-back-storms-approach-colorado-mountains/",
-          "source": "SummitDaily.com"
+          "title": "Stock Market Today: November 4, 2026",
+          "url": "https://pro.thestreet.com/stock-market-today/treasury-refunding-disappoints-bond-bulls",
+          "source": "RealMoney Pro"
         }
       ]
     },
     {
-      "keyword": "lens vs como",
+      "keyword": "에코프로비엠",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T21:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ8zYAVJCzkLuQglC25EeE0Is7bYNqSOnC9IlGZ0O3fs7aZgVW-X_-1jZ7-Y8",
-      "category": "스포츠",
+      "startedAt": "2026-11-04T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-Iwb23lZ_6lZagik2YFmPt6vQ3UHjA-VuKO8vE4l6r5JLup_z-NpuREB-_90",
+      "category": "경제",
       "news": [
         {
-          "title": "Show histórico de Cesc y Nico Paz",
-          "url": "https://as.com/futbol/champions/show-historico-de-cesc-y-nico-paz-f202611-n/",
-          "source": "Diario AS"
+          "title": "에코프로머티 에코프로 측 지분 45.36%로 하락",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=400192",
+          "source": "비건뉴스"
         },
         {
-          "title": "😱 ¿Rumbo a una goleada récord? ¡El debutante de Champions se desata!",
-          "url": "https://onefootball.com/es/noticias/rumbo-a-una-goleada-record-el-debutante-de-champions-se-desata-43727087",
-          "source": "OneFootball"
+          "title": "에코프로비엠 1.2조 유상증자…키움證 실적 전망 : 한국증시",
+          "url": "https://news.jkn.co.kr/post/1071035",
+          "source": "재경일보"
         },
         {
-          "title": "¡Ni Real Madrid ni Bayern! Como hace historia con nueve goles de visitante en Champions League",
-          "url": "https://www.clarosports.com/futbol/champions-league/ni-real-madrid-ni-bayern-como-hace-historia-con-nueve-goles-de-visitante-en-champions-league/",
-          "source": "Claro Sports"
+          "title": "이동채 등, 에코프로 지분 25.53% 유지·담보주식 6.23%로 확대",
+          "url": "https://www.datatooza.com/article/20261030153114907652ef32306d_80",
+          "source": "데이터투자"
         }
       ]
     },
     {
-      "keyword": "klasemen aek athens vs real madrid",
+      "keyword": "전기 요금",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T21:10:00.000Z",
+      "startedAt": "2026-11-04T22:10:00.000Z",
       "picture": "",
-      "category": "스포츠",
+      "category": "기타",
       "news": []
     },
     {
-      "keyword": "홍창기",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T21:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqvBX6k6sLV5ihlmlm9_GzMpPLtR_E5mjBrHuKwzETk4cdTkODmXw0p2A89po",
+      "keyword": "schd",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfyZ_mCrL94x108sLutiJSLnPBIMtdYZ_nNrDx4YuApK3feSIcKg9k4bup2bw",
       "category": "기타",
       "news": [
         {
-          "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까”",
-          "url": "https://www.osen.co.kr/article/G1112903112",
-          "source": "OSEN"
+          "title": "Dividend ETF SCHD Crushed SPY This Year, But The Rise Has A Cost For New Buyers",
+          "url": "https://www.benzinga.com/opinion/26/11/62832070/dividend-etf-schd-crushed-spy-this-year-but-the-rise-has-a-cost-for-new-buyers",
+          "source": "Benzinga"
         },
         {
-          "title": "\"이주헌 키웠는데도 못 보내?\" LG 박동원, FA 앞두고 몸값이 고민되는 이유",
-          "url": "https://v.daum.net/v/3HNTpTd8BQ",
-          "source": "Daum"
+          "title": "If I Only Had $500 to Invest Right Now, I'd Buy and Hold This ETF for the Next 25 Years",
+          "url": "https://www.aol.com/articles/only-had-500-invest-now-124500000.html",
+          "source": "AOL.com"
         },
         {
-          "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/202611031549775965O",
-          "source": "머니투데이"
+          "title": "SCHD Into Midterms: Healthcare A Concern (NYSEARCA:SCHD)",
+          "url": "https://seekingalpha.com/article/4960886-schd-into-midterms-healthcare-a-concern",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
-      "keyword": "서인영",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T21:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4I_LBUsYmTIX39OElWB6XyrOrktthZNROCVXNIHBBEd_on-8b9rG3o2IJUXw",
-      "category": "연예",
+      "keyword": "다우 존스 산업평균지수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T22:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47XMjC_yz0Qt--sNRs8_xacY1BD7JqAzAIhMvd8FerFoN3lr1w2f5p5ZuURo",
+      "category": "경제",
       "news": [
         {
-          "title": "서인영, 12월 26일 재혼 깜짝 발표…신랑은 NP 최지훈 대표",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12197068",
-          "source": "매일경제"
+          "title": "중간선거 끝나자 다우 3% 급등…정치 불확실성 걷히고 유가도 급락",
+          "url": "https://www.chosun.com/economy/int_economy/2026/11/05/NL2CYCLOANHIVKRTU43CIHL6DM/",
+          "source": "조선일보"
         },
         {
-          "title": "'12월 결혼' 서인영, 사회자로 '대세' 이재율에 러브콜",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855427",
-          "source": "뉴시스"
+          "title": "[굿모닝 증시]美 중간선거發 '블루웨이브'…AI주 희비 엇갈려",
+          "url": "https://www.asiae.co.kr/article/2026110508120979331",
+          "source": "아시아경제"
         },
         {
-          "title": "서인영, 12월 26일 재혼…\"교회에서 스몰웨딩\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110422094748321",
-          "source": "머니투데이"
+          "title": "韓 주식 떨었는데 美는 왜…블루웨이브 효과 3가지",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443088",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "홍수",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuVxHjkhAbgIuQ3ZUotwZax7XlpqHqhtQvs4jgdj5EuRztUQndayp9Imq6SmM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "(해외환경뉴스) 기후 변화는 극한 강수보다 홍수를 더 크게 증폭시킨다.",
+          "url": "https://www.newsje.com/news/articleView.html?idxno=409729",
+          "source": "제주환경일보"
+        },
+        {
+          "title": "기후부, 올여름 집중호우 선제 대응…“홍수 피해 최소화”",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374274",
+          "source": "전기신문"
+        },
+        {
+          "title": "큰비 오기 전에 비웠다…‘물그릇’ 10억4000만톤 늘려 하류 부담 완화",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261103010001208",
+          "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "블리자드",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGleoXSVIU7aUQ1MzHPFuMUrgmctpaeDUHdiRmBHnsCJFzR_83BNRi_zLtC8I",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[클릭! e 게임]넥슨 PC ‘오버워치’, ‘어둠의 신조’ 업데이트",
+          "url": "https://www.munhwa.com/article/11628663",
+          "source": "문화일보"
+        },
+        {
+          "title": "탈론의 지배 - 5시즌 중간 패치로 결전의 막이 오릅니다 - 새소식 - 오버워치",
+          "url": "https://overwatch.blizzard.com/ko-kr/news/24303010/",
+          "source": "Blizzard Entertainment"
+        },
+        {
+          "title": "오버워치, '스텔라 블레이드'와 두 번째 협업…신규 스킨 5종 추가",
+          "url": "https://www.dailygame.co.kr/view.php?ud=20261104114226758143da15d9d2_26",
+          "source": "데일리게임"
         }
       ]
     }
