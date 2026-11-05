@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-05T17:02:13.635Z",
+  "updatedAt": "2026-11-05T17:53:45.254Z",
   "summary": [
     {
       "category": "경제",
-      "count": 5
+      "count": 3
+    },
+    {
+      "category": "IT·과학",
+      "count": 2
     },
     {
       "category": "정치·사회",
@@ -14,48 +18,23 @@
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "미국",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-05T15:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ15ymwqqwcnmx1PV0Hcy4ve-Ebqw1TdBblChiNZzR8cAzVrjVk-viUA3aVPwg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[주간 뉴스타파] 미국 중간선거 블루 쓰나미, 트럼프식 '정글의 법칙' 흔들리나",
-          "url": "https://newstapa.org/article/VVdwE",
-          "source": "뉴스타파"
-        },
-        {
-          "title": "무상의료·부유세 공약 통했다… 민주당 강성 진보, 의회로 진격",
-          "url": "https://www.chosun.com/international/international_general/2026/11/06/4UCP7J273JATHJWHMAOZGIGTHQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"링컨이 와도 못 이겨\" 공화 폭발…한몸 밴스마저 ‘급소’ 찔렀다",
-          "url": "https://news.jtbc.co.kr/article/NB12326673",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
       "keyword": "아이렌",
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-05T15:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RLYHNgtrIoU2HMCUPuB-7wwxn7r6kdvBPifeBRdpxoesaUdO4XA9JIRNBGk",
-      "category": "경제",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1mcklWxUZYh0WpTa9Onu0xIitjfCYb47pmxWsHF7SEUGE9yBANn26WOzJSfo",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "30조 발전소·36조 수주잔고…대미 AI 인프라, 美 의회 변수 노출",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/05/2026110580127.html",
-          "source": "인베스트조선"
+          "title": "미 선거에 흔들린 반도체…복잡해진 우리 경제 셈법",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705267",
+          "source": "KBS 뉴스"
         },
         {
           "title": "뉴욕증시, AI 인프라 규제 우려에 하락 출발",
@@ -71,26 +50,51 @@
     },
     {
       "keyword": "비트코인",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-05T15:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkf0Yb1Ga0kJie8r3vb1ROGbWIVMqBezwwCmfUVNuQJ0vcJ6tlbup2W7ELzTc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCF4hk5ryEGV8QPOFxFOFq8mJa8_7fSRTWidzcaDvT3uwYqmS951ZYHv78Sq0",
       "category": "경제",
       "news": [
         {
-          "title": "기요사키, 비트코인(BTC) 7만 5,000달러 부근 폭락에 추가 매수",
-          "url": "https://www.coinreaders.com/267834",
-          "source": "코인리더스"
+          "title": "비트코인, $80,500 회복…미국 선거 후 위험 선호 심리 개선",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2160831",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "글로벌 부채 증가가 진짜 문제라고 로버트 기요사키는 말한다",
-          "url": "https://tradersunion.com/ko/news/market-voices/show/4092668-kiyosaki-focuses-debt-concerns/",
-          "source": "Traders Union"
+          "title": "美 민주당 의회 장악에 가상자산 규제 강화 전망…전문가 \"단기 영향은 제한적\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443111",
+          "source": "연합인포맥스"
         },
         {
-          "title": "로버트 키요사키, 금·은·비트코인 하락 기대",
-          "url": "https://kr.beincrypto.com/kiyosaki-cant-wait-next-gold-silver-bitcoin/",
-          "source": "BeInCrypto"
+          "title": "美 공화당 참패, 비트코인 랠리 멈추나…\"속도 조절일 뿐 월가·패권 큰 틀은 지속\"",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855586",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "수술",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T16:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpeDJfjieuwSLbVYL5Mhq8i4yYR8astXsX4MITF5BVzF1-GKrtHLXoZ9Efjwc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[단독] 기저질환 없던 60대, 무릎수술 다음날 사망",
+          "url": "https://www.chosun.com/national/national_general/2026/11/05/WZ4ZUNKQWBA4JMU33QAZ3M7URU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "강남 병원서 무릎 수술받은 60대 여성 사망…경찰 수사",
+          "url": "https://www.newsis.com/view/NISX20261105_0003857100",
+          "source": "뉴시스"
+        },
+        {
+          "title": "강남 병원서 무릎 수술 받은 60대 사망…경찰 수사 착수",
+          "url": "https://www.news1.kr/society/incident-accident/6344862",
+          "source": "뉴스1"
         }
       ]
     },
@@ -108,14 +112,14 @@
           "source": "CNBC"
         },
         {
-          "title": "Nasdaq plunges into correction territory as midterm results raise fresh questions about AI boom",
-          "url": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges",
-          "source": "CNN"
+          "title": "Nasdaq set to confirm correction as AI stocks tumble",
+          "url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/",
+          "source": "Reuters"
         },
         {
-          "title": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3%",
-          "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e",
-          "source": "AP News"
+          "title": "Stock Market Today: Nasdaq Sinks 4% as Investors Ditch Chip, Data-Center Stocks — Live Updates",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+          "source": "WSJ"
         }
       ]
     },
@@ -124,18 +128,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-05T15:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoaSx216pYaFievfOfc30TDWe244YJdu9DtGDwQCZU2gjqqjAGFba-NB02m_g",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfG4yCJP4bsNr0WYidGGZDlWkGnFxqx_2dNos0b6WkpiIn-ivzlmRgWfD_wu0",
       "category": "경제",
       "news": [
+        {
+          "title": "마이크론, 대만 HBM 공장 건설 중단…삼성·SK하이닉스 수혜 촉각 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2161305",
+          "source": "Investing.com 한국어"
+        },
         {
           "title": "마이크론, 메모리 가격 급등에도 주가 급락…AI 호황 속 커지는 반도체 시장의 역설",
           "url": "https://www.jemin.com/news/articleView.html?idxno=846205",
           "source": "제민일보"
-        },
-        {
-          "title": "마이크론 테크놀로지 주가, 오늘 급락한 이유는?",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2162458",
-          "source": "Investing.com 한국어"
         },
         {
           "title": "마이크론, 대만 신규 공장 건설 중단…성과급 갈등에 HBM 증설 제동 - 머니투데이",
@@ -170,51 +174,52 @@
       ]
     },
     {
-      "keyword": "vix",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T15:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT6tcSSRKR9L9x5qdSE_NZtdV6hXGLlB0_yx5UGuJbFz9cgqRWTwmPEQBI8rw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Investor Fear Spikes Ahead Of Midterms. It May Not Be So Bad For Stocks.",
-          "url": "https://www.investors.com/news/vix-stock-market-fear-gauge-sp-500/",
-          "source": "Investor's Business Daily"
-        },
-        {
-          "title": "CBOE Volatility Index Falls to One-Week Low of 16.97",
-          "url": "https://en.bloomingbit.io/feed/news/123660",
-          "source": "bloomingbit"
-        },
-        {
-          "title": "Stock Market Today: November 4, 2026",
-          "url": "https://pro.thestreet.com/stock-market-today/treasury-refunding-disappoints-bond-bulls",
-          "source": "RealMoney Pro"
-        }
-      ]
-    },
-    {
       "keyword": "샌디스크 주가",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-05T15:50:00.000Z",
-      "picture": "",
-      "category": "경제",
-      "news": []
-    },
-    {
-      "keyword": "코인니스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T15:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oPMwPepIbe15Q73-q27IKRHOaIXuqN0uqOf9tMVrFZzgxkKpVzxe0Hl_Jzc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVHexZxJiavE9gPSNNVscIV-Z5tkqmKSq3nrDMUfjME4KrUgu8CC5YtFP6_gE",
       "category": "경제",
       "news": [
         {
-          "title": "'Staking Funds Drained for Ether Crash'? The Ledger Tells a Different Story, Binance Hack Fact-Check",
-          "url": "https://www.suwonilbo.kr/en/view.html?id=L261031181506e6e3",
-          "source": "수원일보"
+          "title": "SanDisk 주가가 급락하는 이유는?",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2162356",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "AI 데이터센터가 끌어올린 낸드…샌디스크 호실적에 파두도 기대",
+          "url": "http://www.inews24.com/view/2021808",
+          "source": "아이뉴스24"
+        },
+        {
+          "title": "샌디스크 12% 넘게 하락…씨게이트·웨스턴디지털·AMD도 두 자릿수 하락",
+          "url": "https://www.tokenpost.kr/news/breaking/433417",
+          "source": "토큰포스트"
+        }
+      ]
+    },
+    {
+      "keyword": "세계 청년 대회",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T15:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxe6fWrXPlhx3OK23HNkrjTEc9o_yziyjEAWNHqx-XXtvSz-mUmpnAiI_0Zcg",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "내년 '교황 방한' 행사, 광화문 아닌 상암...\"시민 불편 최소화\"",
+          "url": "https://www.ytn.co.kr/_ln/0106_202611060029098602",
+          "source": "YTN"
+        },
+        {
+          "title": "내년 서울 세계청년대회에 50만명 온다…\"폭염·인파 대비 철저\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261105060451005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "“조건·스펙 아닌 ‘한 사람’으로 만나는 자리”",
+          "url": "https://www.chosun.com/culture-life/relion-academia/2026/11/06/N7E5GICO3NBHJALIIOJFNCYIBU/",
+          "source": "조선일보"
         }
       ]
     },
@@ -240,6 +245,31 @@
           "title": "Education ministers announce suite of curriculum reforms, new commission",
           "url": "https://educationmattersmag.com.au/education-ministers-announce-suite-of-curriculum-reforms-new-commission/",
           "source": "Education Matters Magazine"
+        }
+      ]
+    },
+    {
+      "keyword": "soxl stock",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlEnG3rp_dmKvz0FIJQFTa3WVcA-AJWnLU3GU4rhLUGrh3tBD-FPsQUPoJhEE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Why is Direxion Daily Semiconductor Bear 3X Shares surging today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bear-3x-shares-surging-today-93CH-5005043",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Semiconductor Stocks Are Cheaper Than the S&P 500: Is It Time to Buy SOXX and SMH ETFs?",
+          "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/62779160/semiconductor-stocks-are-cheaper-than-the-sp-500-is-it-time-to-buy-soxx-and-smh-etfs",
+          "source": "Benzinga"
+        },
+        {
+          "title": "The Chip Selloff Just Hit SOXL Holders Hard. Here’s What It Cost a $10,000 Position",
+          "url": "https://247wallst.com/investing/etf/2026/11/05/the-chip-selloff-just-hit-soxl-holders-hard-heres-what-it-cost-a-10000-position/",
+          "source": "24/7 Wall St."
         }
       ]
     }
