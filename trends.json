@@ -1,62 +1,54 @@
 {
-  "updatedAt": "2026-11-05T14:15:28.642Z",
+  "updatedAt": "2026-11-05T15:53:06.401Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 3
-    },
-    {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 4
     },
     {
       "category": "IT·과학",
-      "count": 1
+      "count": 3
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "커버 드 콜",
+      "keyword": "나스닥",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-05T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRBLuCZsisEC98OQra1K--P62zQpZ_xEbHsV6dygDzK5G5fpBzb6kJZ2gpSaE",
-      "category": "경제",
+      "startedAt": "2026-11-05T14:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3RLYHNgtrIoU2HMCUPuB-7wwxn7r6kdvBPifeBRdpxoesaUdO4XA9JIRNBGk",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "[단독] \"원금 돌려받았는데 왜\"…서학개미, 美 커버드콜 '수천억 세금 환급' 집단 반발",
-          "url": "https://www.hankyung.com/article/202611056806i",
-          "source": "한국경제"
+          "title": "30조 발전소·36조 수주잔고…대미 AI 인프라, 美 의회 변수 노출",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/05/2026110580127.html",
+          "source": "인베스트조선"
         },
         {
-          "title": "빈틈없는 연말정산… ‘연금저축 600만원 + IRP 300만원’ 조합이 최적",
-          "url": "https://www.munhwa.com/article/11628617",
-          "source": "문화일보"
+          "title": "[사설]美 데이터센터 급제동 우려… ‘반도체 逆쓰나미’ 대비해야",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261105/134975322/2",
+          "source": "동아일보"
         },
         {
-          "title": "같은 ETF도 계좌 따라 수익 달라진다…절세 투자법은",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03355446645642112",
-          "source": "마켓인"
+          "title": "삼전닉스 타격? 공포 지운 발언…\"3년치 이미 완판\"",
+          "url": "https://news.jtbc.co.kr/article/NB12326677",
+          "source": "JTBC"
         }
       ]
     },
     {
-      "keyword": "상장지수 펀드",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T13:10:00.000Z",
+      "keyword": "상장지수펀드",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-05T14:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1LN_SCaRUy83WagFE_y3WsSQZLKZddyFrAaRTHLB3cN5cCporykOWucWwH4o",
       "category": "경제",
       "news": [
@@ -71,91 +63,91 @@
           "source": "인베스트조선"
         },
         {
-          "title": "TIGER 200, 수익률·분배금 1위…대표지수 ETF 경쟁력 입증",
-          "url": "https://m.blog.naver.com/PostView.naver?blogId=dealsite&logNo=224462796220",
-          "source": "블로그"
+          "title": "[뉴스후] KODEX200의 왕좌와 개미들의 'TIGER 미국S&P500' 대이동",
+          "url": "https://dailyan.com/news/article.html?no=783290",
+          "source": "데일리연합"
         }
       ]
     },
     {
-      "keyword": "목동",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScdRdUeY2nVJe0STsgJibd3XeQ0Aj71L6u1iY-YGrHoQE4BRkanP7BdMpq-TM",
+      "keyword": "제니",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T14:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi7Tlvq8_CoGmJVZ8gKxllLLDh0DTozaItHigg7luG_EeVr19rSY8Ts3lwd4o",
       "category": "기타",
       "news": [
         {
-          "title": "비행기 소음 차단·41층 고층 조망 구현…IPARK현산, 목동 11단지 총력전 [르포]",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/04/2026110403009.html",
-          "source": "땅집고"
+          "title": "‘분노의 질주’ 속 수키로 변신한 제니, 붉은색 차량 앞 파격적인 레트로 룩",
+          "url": "https://www.sportsseoul.com/news/read/1646060",
+          "source": "스포츠서울"
         },
         {
-          "title": "[르포] 목동11단지, 삼성·현대는 잠잠…대우·롯데·현산은 눈독",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001441",
-          "source": "아시아투데이"
+          "title": "제니, 할로윈 신부 드레스로 퇴폐미 완성...파격 스타일에 '시선 집중'",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553669459",
+          "source": "스포탈코리아"
         },
         {
-          "title": "[목동 수주전, 진짜 전쟁터는 어디④] 3조 '대장주' 7단지…현대·롯데 공들이고 삼성도 관심",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421481",
-          "source": "데일리한국"
+          "title": "Y2K 아이콘 데본 아오키, 완벽하게 오마주한 제니",
+          "url": "https://www.vogue.co.kr/2026/11/02/y2k-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%8D%B0%EB%B3%B8-%EC%95%84%EC%98%A4%ED%82%A4-%EC%99%84%EB%B2%BD%ED%95%98%EA%B2%8C-%EC%98%A4%EB%A7%88%EC%A3%BC%ED%95%9C-%EC%A0%9C%EB%8B%88/",
+          "source": "Vogue korea"
         }
       ]
     },
     {
-      "keyword": "이세영",
+      "keyword": "퍽즈",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-05T11:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmYYKFdXIXTWIejNf0DWwQSo-s1pvu1Ucua6XEWBGZQYiBP-euMmQ2Uz5OO-0",
-      "category": "연예",
+      "startedAt": "2026-11-05T14:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8zPgr_HeLEbJ1t5gWjItNuIAs4HhJlpYWVg1pCGikCSvRTh0O6zxfZW8xWWQ",
+      "category": "스포츠",
       "news": [
         {
-          "title": "“언니라고 불러도 될까요?”…‘재혼 황후’ 막장 판타지 통했다…12개국 1위·종합 7위",
-          "url": "https://www.munhwa.com/article/11629082",
-          "source": "문화일보"
+          "title": "'롤드컵 탈락' G2, 정글러 '스큐몬드' 결별하나",
+          "url": "https://www.dailyesports.com/view.php?ud=202611050654018539b91e133c1f_27",
+          "source": "데일리e스포츠"
         },
         {
-          "title": "\"이태오 다음 소비에슈\"..'재혼 황후' 주지훈표 '사빠죄아' [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/05/HAYWENBXGUZGGYJXMJRDINJYME/",
-          "source": "조선일보"
+          "title": "월즈 조기 탈락→SNS 논란 ‘2연타’…G2, ‘퍽즈’ 감독과 결별",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553678086",
+          "source": "스포탈코리아"
         },
         {
-          "title": "\"주지훈, 트로트 가수냐?\" 혹평 쏟아졌는데…해외선 '반전'",
-          "url": "https://www.hankyung.com/article/202611057624H",
-          "source": "한국경제"
+          "title": "[소식통] 린서스, 2027 LEC 시즌 앞두고 G2 e스포츠 합류 예정",
+          "url": "https://www.sheepesports.com/kr/articles/sources-lyncas-set-to-join-g2-esports-ahead-of-lec-2027-season/kr",
+          "source": "Sheep Esports"
         }
       ]
     },
     {
-      "keyword": "쿠칭시티",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T13:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2MZwvYUXuAfb22YIjuwJDgyR1PPBdZsJMX9Md5owUVyx8fKHutaF16N02p3w",
-      "category": "기타",
+      "keyword": "soxx",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T14:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU89C1-qUxPTFHcz51YoIr3wx7VZFhrLVM5r6gmL6zCgoOugWulIE7SkUMgxc",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "The Cats Look To Secure Points Against Gangwon",
-          "url": "https://www.sarawaktribune.com/the-cats-look-to-secure-points-against-gangwon/",
-          "source": "Sarawak Tribune"
+          "title": "AMD rides AI chip boom, projects 80%+ revenue surge next year",
+          "url": "https://biz.chosun.com/en/en-it/2026/11/04/3VFKK7PQA5GNFJDGVY3HW3BO5A/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "Against the odds, Kuching City hunts maiden Asian Champions League 2 win against S. Korea’s Gangwon",
-          "url": "https://dayakdaily.com/against-the-odds-kuching-city-hunts-maiden-asian-champions-league-2-win-against-s-koreas-gangwon/",
-          "source": "DayakDaily"
+          "title": "AMD Posts Record Q3 Revenue, Shares Soar After Hours",
+          "url": "https://www.asiae.co.kr/en/article/2026110409080051387",
+          "source": "아시아경제"
         },
         {
-          "title": "\"Finally, we won\" Choi Byung-chan's decisive strike + national team star Shin Min-ha's rock-solid defense... Gangwon defeats Kuching at home to secure ACL2 \"first victory\"",
-          "url": "https://www.starnewskorea.com/en/sports/2026/10/29/2026102919103112035",
-          "source": "스타뉴스"
+          "title": "AMD Data Center Share Hits 64% vs Intel's 44% as Pivot Pays Off",
+          "url": "https://en.sedaily.com/international/2026/11/04/amd-data-center-share-hits-64-percent-vs-intels-44-percent",
+          "source": "Seoul Economic Daily"
         }
       ]
     },
     {
       "keyword": "서정진",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-05T13:00:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOPQlqW84ZTG8ZZTwqwrGP4rcTd3Wc8cUsD8ol8HANvrRpKjj85Tcogg72KI",
       "category": "IT·과학",
@@ -179,8 +171,8 @@
     },
     {
       "keyword": "인천 유나이티드 fc",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-05T12:50:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHzqMymlOMLgO0SR5H6ohVuu7Q4KMXqbYiMAa8up4a9oW6WXLt8pgNqd2oqqc",
       "category": "기타",
@@ -204,8 +196,8 @@
     },
     {
       "keyword": "유현주",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-05T12:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqx8GdoDNMdDPG2heTrsdRq1OvO9IXfXo74ghFM0tDWsV_faYf2SibeJklvJ0",
       "category": "스포츠",
@@ -228,52 +220,52 @@
       ]
     },
     {
-      "keyword": "전국금속노동조합",
+      "keyword": "허태정",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-05T11:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfoF_LeZpPFDzJPL3o2utlnKjsjt8StblJEBVlftGj0nhlQJx_4zOb5FRVQE8",
-      "category": "정치·사회",
+      "startedAt": "2026-11-05T13:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXxkzdroPVCHldzcv3q1q1h_pPpCrPTll4sfIfdpKLqR8kHVD0HLG--14uLLs",
+      "category": "기타",
       "news": [
         {
-          "title": "광주글로벌모터스 노사, 단체협약 조인식…\"상생 관계 구축\"",
-          "url": "https://www.yna.co.kr/view/AKR20261105169200054",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "신연순 전남광주시의원 \"노사민정협의회, 운영 부실·중립성 한계\"",
-          "url": "https://www.newspim.com/news/view/20261105001124",
+          "title": "대전 시내버스, 공사에 밀리고 대책 없고…허태정표 교통행정 '갈팡질팡'",
+          "url": "https://www.newspim.com/news/view/20261105000749",
           "source": "뉴스핌"
         },
         {
-          "title": "\"GGM 복지 프로그램 12개 중 내세울 게 있나\"…시의회서 질타",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6343182",
-          "source": "뉴스1"
+          "title": "대전참여연대 “트램 급전방식 확정 전 교량 공사, 문제”",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=816846",
+          "source": "디트NEWS24"
+        },
+        {
+          "title": "대전시의회, 대덕대교 교통대책·어르신 버스비 한도 등 시정 현안 집중 점검",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109325",
+          "source": "충청매일"
         }
       ]
     },
     {
-      "keyword": "다니엘기도회 2026",
+      "keyword": "쿠칭시티",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-05T11:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_YGDBiZegl9mGJkk_HLsR3-YL9PoNDdEf9OjBqxlRj2JbjeRyX5gxGhYgZWI",
-      "category": "경제",
+      "startedAt": "2026-11-05T13:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgLGKXIK2hyMZ-woYUatO66OKk6acuIfQ4G0RHtPl4Qhn6PB9H-OkcEhkfXtY",
+      "category": "기타",
       "news": [
         {
-          "title": "[2026 다니엘기도회: 4일] 절이 교회가 된 한마디 “주가 쓰시겠다 하라” : 목회/신학",
-          "url": "https://www.christiantoday.co.kr/news/378397",
-          "source": "크리스천투데이"
+          "title": "강원FC, 말레이시아 쿠칭에 0-2 패배…조 최하위로 추락",
+          "url": "https://www.yna.co.kr/view/AKR20261105185300007",
+          "source": "연합뉴스"
         },
         {
-          "title": "'2026 다니엘기도회' 21일간의 여정 돌입…GOODTV 전 과정 생중계",
-          "url": "https://www.goodnews1.com/news/articleView.html?idxno=465742",
-          "source": "데일리굿뉴스"
+          "title": "강원, ACL2에서 쿠칭에 0-2 완패…동남아 팀에 2패째+조 최하위",
+          "url": "https://www.news1.kr/sports/soccer/6344906",
+          "source": "뉴스1"
         },
         {
-          "title": "8년 전 아버지의 ‘스무 살’ 기도 이뤄져⋯ 부자 함께 선 다니엘기도회",
-          "url": "https://www.themission.co.kr/news/articleView.html?idxno=96675",
-          "source": "더미션"
+          "title": "강원, ACL2 말레이 쿠칭 원정서 0-2 패배…H조 최하위 추락",
+          "url": "https://www.newsis.com/view/NISX20261105_0003857099",
+          "source": "뉴시스"
         }
       ]
     }
