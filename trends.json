@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T02:02:00.325Z",
+  "updatedAt": "2026-11-05T02:52:41.495Z",
   "summary": [
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 3
     },
     {
-      "category": "기타",
+      "category": "IT·과학",
       "count": 3
     },
     {
@@ -14,33 +14,58 @@
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
       "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "보디빌더",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-04T23:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsv5sF25Yc9_T6pLwoRXzhYpwccsh35AGj5dcTAkvMVpaCn3YkWKkqXYZNdQI",
-      "category": "스포츠",
+      "keyword": "한남더힐 아파트",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-05T01:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR00h4R7kj_ZMGCYMAziEInq9ZC8PZu91f3ioooLUIt715WiDz08c20mAEsI0A",
+      "category": "경제",
       "news": [
         {
-          "title": "김민준 ‘세계최고 보디빌더’",
-          "url": "https://www.donga.com/news/Sports/article/all/20261105/134968751/2",
-          "source": "동아일보"
+          "title": "옥주현 '한남더힐 190억' 매입과 대부업 대출…신사동 빌딩서 꼬인 '레버리지의 덫'",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854597",
+          "source": "뉴시스"
         },
         {
-          "title": "제주 박선연, 한국 여자 피지크 최초 세계 정상",
-          "url": "http://www.jemin.com/news/articleView.html?idxno=846152",
-          "source": "제민일보"
+          "title": "옥주현 190억 집, 경매 넘어간 건 우연이 아니다?",
+          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02984806645641784&Kind=257",
+          "source": "이데일리TV"
         },
         {
-          "title": "김민준, 세계보디빌딩선수권 남자 보디빌딩 역대 최초 '오버롤'",
-          "url": "https://www.yna.co.kr/view/AKR20261104146300007",
-          "source": "연합뉴스"
+          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투자사가 상환 예정\"",
+          "url": "https://www.hankyung.com/article/202610294537H",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "김대호",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-05T01:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1Lc-oY4GbonU7NjyWKrVoip2CYP0KVKKA4h8nF-zDNmdjlNZI9Wv77oyhek",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김대호, 9세 연상 김숙과 동거설에 입 열었다",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855440",
+          "source": "뉴시스"
+        },
+        {
+          "title": "김대호, 얼마나 성공하고 싶으면 “구본승 다음은 너” 김숙과 러브라인 (톡파원25시)[어제TV]",
+          "url": "https://m.newsen.com/news_view.php?uid=202611050632281710",
+          "source": "뉴스엔"
+        },
+        {
+          "title": "김대호, ‘9세 연상’ 김숙과 동거설→직접 입 열었다…”열려 있다는 의미” (‘톡파원’)",
+          "url": "https://tvreport.co.kr/entertainment/article/1088458/",
+          "source": "TV리포트"
         }
       ]
     },
@@ -49,23 +74,23 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-04T23:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSooVqjmUTGNYY1yuNHZ77fiYjo4XOw-vYyNa087HhRh5kg0nVkSu9JazkCUMI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyNIHcXBAYn0j-aD2CqbvHkldhFSW28nT1zHD7NQucYKZ703Fn3YA2nBOsoNA",
       "category": "스포츠",
       "news": [
         {
-          "title": "Philadelphia 76ers vs. Detroit Pistons Live NBA Updates, Scores and Highlights",
-          "url": "https://bleacherreport.com/liveblogs/25529350-philadelphia-76ers-vs-detroit-pistons-live-nba-updates-scores-and-highlights",
-          "source": "Bleacher Report"
+          "title": "Hawks vs Wizards Game Overview, Match Player Stats, Injuries, Records - NBA Game on November 04, 2026",
+          "url": "https://www.covers.com/sport/basketball/nba/matchup/388659",
+          "source": "Covers.com"
         },
         {
-          "title": "See Detroit Pistons host LeBron James, Philadelphia 76ers at LCA",
-          "url": "https://www.freep.com/picture-gallery/sports/nba/pistons/2026/11/04/detroit-pistons-host-lebron-james-philadelphia-76ers-game-photos/92617996007/",
-          "source": "Detroit Free Press"
+          "title": "Sharks 3-2 Canucks (Oct 29, 2026) Game Recap",
+          "url": "https://www.espn.com/nhl/recap/_/gameId/401892610",
+          "source": "ESPN"
         },
         {
-          "title": "Sixers face Pistons with chance to avenge lone loss of the season",
-          "url": "https://www.libertyballers.com/76ers-game-previews/100969/philadelphia-sixers-detroit-pistons-nba-embiid-lebron-duren-reed",
-          "source": "Liberty Ballers"
+          "title": "Sharks Insight: It All Starts With Killing Plays",
+          "url": "https://sanjosehockeynow.com/san-jose-sharks-darnell-nurse-vancouver-canucks-insight-14/",
+          "source": "San Jose Hockey Now"
         }
       ]
     },
@@ -88,9 +113,9 @@
           "source": "OSEN"
         },
         {
-          "title": "‘4연패 도전’ T1, KC와 한판 승부…DK도 5년 만에 4강 도전 [롤드컵 프리뷰②]",
-          "url": "https://www.kukinews.com/article/view/kuk202611020172",
-          "source": "쿠키뉴스"
+          "title": "[롤드컵] '압도적 사자 사냥' 젠지, 라이온 3-0 셧아웃 3년 연속 월즈 4강 '안착'...中 IG와 4강 격돌(종합)",
+          "url": "https://www.koreadaily.com/article/20261104170259828",
+          "source": "미주중앙일보"
         }
       ]
     },
@@ -100,7 +125,7 @@
       "trafficValue": 500,
       "startedAt": "2026-11-04T23:50:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsCWIWPZWxXXy4K3xz4Vw48S8v0h1y_7ie-KKLQQHPVp1c1IKFaqZ2nIIGgio",
-      "category": "경제",
+      "category": "IT·과학",
       "news": [
         {
           "title": "AI로 안전 챙긴다…LG 그룹 안전환경 콘퍼런스",
@@ -113,34 +138,34 @@
           "source": "전자신문"
         },
         {
-          "title": "LG그룹, 연말 CEO 쇄신 예고…실적·사업 재편·세대교체",
-          "url": "https://dealsite.co.kr/articles/171953",
-          "source": "딜사이트"
+          "title": "LG, 마곡서 16개 계열사 AI 안전혁신사례 공유",
+          "url": "https://zdnet.co.kr/view/?no=20261105093209",
+          "source": "지디넷코리아"
         }
       ]
     },
     {
-      "keyword": "매일경제",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-04T23:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl9xopisl0ODRgz43KiMisoDE1f24-5DBNvH9tjGjICTHIM5qVe5E6b6KhSs",
-      "category": "기타",
+      "keyword": "아이폰",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T01:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkVWiOoMGl7uoHr92fGD3oldh0tKTp6IvdkTD1XDp6z3d2KbmgBZd_o6oWFXM",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "“1500만원에 산 가방, 6800만원에 팔았어요”...명품 리셀시장서 벌어진 일",
-          "url": "https://www.mk.co.kr/news/business/12197436",
-          "source": "매일경제"
+          "title": "삼성·애플, 폴더블폰 '접는 기술' 경쟁 붙었다",
+          "url": "https://zdnet.co.kr/view/?no=20261104152151",
+          "source": "지디넷코리아"
         },
         {
-          "title": "5분 만에 60만원 증발…포켓몬 '오리파' 도박 논란",
-          "url": "https://www.sidae.com/article/2026110220580597421",
-          "source": "동행미디어 시대"
+          "title": "\"329만원 주고 샀다 깨질라\"…아이폰 듀오 화면 균열에 구매심리도 흔들",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855658",
+          "source": "뉴시스"
         },
         {
-          "title": "어른들이 포켓몬 카드 사러 약국에 간다…문 닫는 약국과 편의점이 찾은 집객 상품",
-          "url": "http://www.casenews.co.kr/news/articleView.html?idxno=19625",
-          "source": "사례뉴스"
+          "title": "쇼마젠시, AI·카메라 기능 강화된 갤럭시 Z폴드8 11월 한정 프로모션 진행",
+          "url": "https://m.ekn.kr/view.php?key=20261104022515309",
+          "source": "에너지경제신문"
         }
       ]
     },
@@ -208,14 +233,14 @@
           "source": "연합뉴스"
         },
         {
+          "title": "한화에어로스페이스 순천사업장 준공...남해안 우주항공산업벨트 거점 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/05/2026110509361541643",
+          "source": "머니투데이"
+        },
+        {
           "title": "한화에어로, 순천 우주발사체 공장 준공…제주 위성센터와 우주 밸류체인 구축",
           "url": "https://www.greened.kr/news/articleView.html?idxno=353879",
           "source": "녹색경제신문"
-        },
-        {
-          "title": "[무등의 아침] 손훈모 “한화에어로 순천 단 조립장 준공…동부권, 우주·방산 산업의 중심지로 도약”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703585",
-          "source": "KBS 뉴스"
         }
       ]
     },
@@ -241,31 +266,6 @@
           "title": "한신대 '2026 대학일자리플러스센터 통합 경진대회 시상식' 성료",
           "url": "https://www.veritas-a.com/news/articleView.html?idxno=635233",
           "source": "베리타스알파"
-        }
-      ]
-    },
-    {
-      "keyword": "엔씨",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuuxkIruglPkfMJF2Otjwa3KmdpqNWykv6KtQOH6TWR6QlfgPv1REJwD6Erk0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "엔씨, '길드워' 20년 만의 신규 콘텐츠 '애프터라이프' 내년 1월 출시",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451198",
-          "source": "비즈니스포스트"
-        },
-        {
-          "title": "엔씨 ‘길드워’, 약 20년 만에 신규 DLC…‘애프터라이프’ 내년 1월 출시",
-          "url": "https://zdnet.co.kr/view/?no=20261104143713",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "[게임스테이션] '크오' 신규 보스 공개·'길드워' DLC·'도깨비~' 신규 서버·'어라이즈 오버드라이브' PS5-엑스박스 출시·'로드나인'-'파파존스' 협업·'솔'-'오버워치'-'리니지W' 업뎃·'아파다' 시즌 2 공개·'원스토어 게임 페스타'·카겜 '실적'·'로아' 8주년 이벤트",
-          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901874",
-          "source": "뉴스웍스"
         }
       ]
     }
