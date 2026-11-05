@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04T23:37:37.476Z",
+  "updatedAt": "2026-11-05T00:51:55.994Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 3
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 2
     },
     {
       "category": "IT·과학",
@@ -20,236 +20,236 @@
   ],
   "items": [
     {
-      "keyword": "보이스 피싱",
+      "keyword": "kia 타이거즈",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-04T22:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF0B-QHgwBk1cMrggilnfnyw0o-qMssLnOggxR9fOxQL70Hmyg3gL2iusTRIw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "피싱에 5000만원 잃고 목숨 끊은 母子…카자흐스탄 한인 조직 소행이었다",
-          "url": "https://www.donga.com/news/Society/article/all/20261105/134969025/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "[단독] ‘충북 모자 사망’ 부른 피싱…카자흐스탄 한인들 짓이었다",
-          "url": "https://www.joongang.co.kr/article/25475795",
-          "source": "중앙일보"
-        },
-        {
-          "title": "“검사 말 믿고 모텔 갔다가 5000만원 날렸다”…모자 숨진 사건 배후에 카자흐스탄 한인 조직",
-          "url": "https://www.mk.co.kr/news/society/12196894",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "s&p 500",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-04T22:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTllRA-k6TVEpXIjRKlfnA5TJ8vjGtJEYPnxqiniWxfERlW26gol6OZZqVGBgU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
-          "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Dow posts biggest gain of the year after Democrats take control of Congress",
-          "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
-          "source": "CBS News"
-        },
-        {
-          "title": "[New York Stocks] Surge as Democrats Sweep House and Senate; Oil Falls 8% on Hopes of War's End",
-          "url": "https://www.asiae.co.kr/en/article/2026110506453161006",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "피겨스케이팅",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-04T22:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcCndF3MEY-39AL0pIMlWMkHD61i1zx3761E7YYO3EHqzWssKB7u966trxack",
+      "startedAt": "2026-11-04T23:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS80La3IyIF3huG8BuSBNyerNoJ-tZTKvcO5mYQoPeRoMsOtgSZBiE39YhLCZ4",
       "category": "스포츠",
       "news": [
         {
-          "title": "은반 위의 시…캐나다에서 열린 국제빙상경기연맹 피겨 스케이팅 대회",
-          "url": "https://www.yna.co.kr/view/IPT20261102000010365",
-          "source": "연합뉴스"
+          "title": "\"4선발 가능\", \"40도루 예상\" 김도영만 보는 게 아니었다…美가 주목한 KBO 스타, 대체 누구길래",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/03/GEYWKNRSGA4GKMJQMVRDKMZZHE/",
+          "source": "조선일보"
         },
         {
-          "title": "'세계가 놀랐다' 피겨 여제 김연아 뛰어넘는 역대 최고의 피겨 유망주 등장! 日 천재 시마다 마오, 시니어 그랑프리 데뷔전서 압도적 우승",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553667279",
-          "source": "스포탈코리아"
+          "title": "한국인 구속 160.3km 실화냐, 美스카우트 앞 광속구 쾅→ML 5개 구단 영입설 떴다 “곽빈, NYM-CHC-WHS-HOU-ARI와 어울려” - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/03/202611030747776808O",
+          "source": "머니투데이"
         },
         {
-          "title": "김유재, 그랑프리 2차 최종 7위로 마감",
-          "url": "https://www.newsis.com/view/NISI20261102_0002280316",
-          "source": "뉴시스"
+          "title": "'와 FA급 관심' KIA 슈퍼스타, 또 역대 최고액 깨나…\"다시 보상받겠다\" 역대 최초 역사 썼으니까",
+          "url": "https://www.sportschosun.com/baseball/2026-11-04/202611050100031030003250",
+          "source": "스포츠조선"
         }
       ]
     },
     {
-      "keyword": "vix",
+      "keyword": "디트로이트 대 필라데피아",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-04T22:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT6tcSSRKR9L9x5qdSE_NZtdV6hXGLlB0_yx5UGuJbFz9cgqRWTwmPEQBI8rw",
-      "category": "기타",
+      "startedAt": "2026-11-04T23:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRfzk13Ho6YGOEuiZ7hXdaHu3eQaiZFEvpQp0z17xKcqogJU2W7gmn7CZWfNM",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Investor Fear Spikes Ahead Of Midterms. It May Not Be So Bad For Stocks.",
-          "url": "https://www.investors.com/news/vix-stock-market-fear-gauge-sp-500/",
-          "source": "Investor's Business Daily"
+          "title": "Pistons vs 76ers preview: East’s top two teams square off on National TV",
+          "url": "https://www.detroitbadboys.com/detroit-pistons-game-day/51431/pistons-vs-76ers-preview-easts-top-two-teams-square-off-on-national-tv",
+          "source": "Detroit Bad Boys"
         },
         {
-          "title": "CBOE Volatility Index Falls to One-Week Low of 16.97",
-          "url": "https://en.bloomingbit.io/feed/news/123660",
-          "source": "bloomingbit"
+          "title": "Sixers face Pistons with chance to avenge lone loss of the season",
+          "url": "https://www.libertyballers.com/76ers-game-previews/100969/philadelphia-sixers-detroit-pistons-nba-embiid-lebron-duren-reed",
+          "source": "Liberty Ballers"
         },
         {
-          "title": "Stock Market Today: November 4, 2026",
-          "url": "https://pro.thestreet.com/stock-market-today/treasury-refunding-disappoints-bond-bulls",
-          "source": "RealMoney Pro"
+          "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on the NBA Tonight, 76ers-Pistons, Cavs-Thunder",
+          "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-nba-tonight-76ers-pistons-cavs-thunder",
+          "source": "Fox News"
         }
       ]
     },
     {
-      "keyword": "에코프로비엠",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-Iwb23lZ_6lZagik2YFmPt6vQ3UHjA-VuKO8vE4l6r5JLup_z-NpuREB-_90",
+      "keyword": "매일경제",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T23:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeEs5wag09L9NKr6i3E17Wy45gScpgjnZa_nz1TzLUB7ZwkSsN7-yeBrI_dYA",
       "category": "경제",
       "news": [
         {
-          "title": "에코프로머티 에코프로 측 지분 45.36%로 하락",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=400192",
-          "source": "비건뉴스"
+          "title": "서울 이어 분당 국평도 30억 턱밑…포모 확산 속 청약쏠림 뚜렷",
+          "url": "https://www.mk.co.kr/news/realestate/12197870",
+          "source": "매일경제"
         },
         {
-          "title": "에코프로비엠 1.2조 유상증자…키움證 실적 전망 : 한국증시",
-          "url": "https://news.jkn.co.kr/post/1071035",
-          "source": "재경일보"
+          "title": "수도권 분양가 1년 새 25.7% 올라… 공사비 증가 영향",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/04/HSHKNDF5Y5HS5MGC3H3HVNU7GQ/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "이동채 등, 에코프로 지분 25.53% 유지·담보주식 6.23%로 확대",
-          "url": "https://www.datatooza.com/article/20261030153114907652ef32306d_80",
-          "source": "데이터투자"
+          "title": "학세권 단지의 진화… 제일건설 '제일풍경채 광주 포에듀' 공급",
+          "url": "https://magazine.hankyung.com/business/article/202611045446b",
+          "source": "한경매거진"
         }
       ]
     },
     {
-      "keyword": "전기 요금",
+      "keyword": "젠지",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T22:10:00.000Z",
+      "startedAt": "2026-11-04T23:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQO05OWvMEuFOeIXWb60eMqV5jncy9xFL448Y-ovQiYlioMtFBW7HnDhU90bM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[롤드컵] '캐니언-기인 활약' 젠지, 초반 위기 딛고 라이온 상대로 8강 기선제압",
+          "url": "https://www.osen.co.kr/article/G1112904589",
+          "source": "OSEN"
+        },
+        {
+          "title": "[롤드컵] LCK 3팀의 4강 도전…관전 포인트는?",
+          "url": "https://sports.khan.co.kr/article/202611031253003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=e-sports",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "[롤드컵] '거침없는 호랑이' 젠지, 2세트도 26분대에 사자 사냥...2-0 리드 '4강 눈앞'",
+          "url": "https://www.koreadaily.com/article/20261104155555519",
+          "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이혼 소송",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T23:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvf3K9bm6Z3TjKFu7Wumftb0p3MHjTGc-CRrQ4HkNgQN066ySACIw496Cl5E",
+      "category": "경제",
+      "news": [
+        {
+          "title": "장모 퇴직금 보태서 산 6억 집, 18억 되자…이혼 소송 남편 \"'옛 공시가'로 나누자\"",
+          "url": "https://www.news1.kr/society/general-society/6342295",
+          "source": "뉴스1"
+        },
+        {
+          "title": "양도세 빼고 공시가로 계산하자?…18억 아파트 앞 남편의 '황당' 셈법",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611040027133077",
+          "source": "YTN"
+        },
+        {
+          "title": "분양가 6억 아파트, 18억 '껑충'…이혼소송 중 집값 뛰면 어떻게 나눌까 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/04/2026110409102562816",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "hd현대중공업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T23:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFeRNEAtYJGwRNA3fSqlciS_0uw_14eYJecwukSF-lMHSvinOyR3jloIaDUc4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "HD현대중공업, 하청노조와 첫 상견례…노란봉투법 시행 8개월만",
+          "url": "https://www.yna.co.kr/view/AKR20261104165700057",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "HD현대일렉트릭, 교섭장 신경전 끝 임단협 합의…내일 찬반 투표",
+          "url": "https://zdnet.co.kr/view/?no=20261104172723",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "김상욱 울산시장, HD현대중공업 노사 만나 산업전환·노동현안 협력 논의",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065573065665671",
+          "source": "울산종합일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이자",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T23:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfjyPBY-ESXn5scvq_8rAjWnkmzGx9cCL_OBWP46qZyLgKxv40Ks1q2koqTA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "KB국민은행 대부업체 성실 상환자 이자 지원에 100억원",
+          "url": "https://www.yna.co.kr/view/AKR20261104058000002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[이코노 브리핑] 국민銀, 취약차주 100억 규모 이자 지원 외",
+          "url": "https://m.segye.com/view/20261104517829",
+          "source": "세계일보"
+        },
+        {
+          "title": "[은행권 풍향계] KB국민은행, 대부업체 성실상환자 1만명 금융부담 완화 外",
+          "url": "https://m.ekn.kr/view.php?key=20261104027205455",
+          "source": "에너지경제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "김포시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-04T23:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIiWCfUOFwQB5G-Y4UBNUgV1PTP5tJe-yhcgTAq2uR6v470bn-7shqQethrCA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "신동화 구리시장, “행안부 지방우대지수, 서울 거리 기준 역차별… 제도 개선 촉구”",
+          "url": "http://incheonilbo.com/news/articleView.html?idxno=1335959",
+          "source": "인천일보"
+        },
+        {
+          "title": "구리시, 지방우대지수 1권역 분류에 반발…“중첩규제 외면한 획일적 기준 개선해야”",
+          "url": "https://www.viva100.com/article/20261105500076",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "강원도의회, 인제 지방우대지수 재검토 촉구",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703118",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "한국대학신문",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-04T23:40:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "schd",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T22:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfyZ_mCrL94x108sLutiJSLnPBIMtdYZ_nNrDx4YuApK3feSIcKg9k4bup2bw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Dividend ETF SCHD Crushed SPY This Year, But The Rise Has A Cost For New Buyers",
-          "url": "https://www.benzinga.com/opinion/26/11/62832070/dividend-etf-schd-crushed-spy-this-year-but-the-rise-has-a-cost-for-new-buyers",
-          "source": "Benzinga"
-        },
-        {
-          "title": "If I Only Had $500 to Invest Right Now, I'd Buy and Hold This ETF for the Next 25 Years",
-          "url": "https://www.aol.com/articles/only-had-500-invest-now-124500000.html",
-          "source": "AOL.com"
-        },
-        {
-          "title": "SCHD Into Midterms: Healthcare A Concern (NYSEARCA:SCHD)",
-          "url": "https://seekingalpha.com/article/4960886-schd-into-midterms-healthcare-a-concern",
-          "source": "Seeking Alpha"
-        }
-      ]
-    },
-    {
-      "keyword": "다우 존스 산업평균지수",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T22:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47XMjC_yz0Qt--sNRs8_xacY1BD7JqAzAIhMvd8FerFoN3lr1w2f5p5ZuURo",
-      "category": "경제",
-      "news": [
-        {
-          "title": "중간선거 끝나자 다우 3% 급등…정치 불확실성 걷히고 유가도 급락",
-          "url": "https://www.chosun.com/economy/int_economy/2026/11/05/NL2CYCLOANHIVKRTU43CIHL6DM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[굿모닝 증시]美 중간선거發 '블루웨이브'…AI주 희비 엇갈려",
-          "url": "https://www.asiae.co.kr/article/2026110508120979331",
-          "source": "아시아경제"
-        },
-        {
-          "title": "韓 주식 떨었는데 美는 왜…블루웨이브 효과 3가지",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443088",
-          "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "홍수",
+      "keyword": "엔씨",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-04T22:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuVxHjkhAbgIuQ3ZUotwZax7XlpqHqhtQvs4jgdj5EuRztUQndayp9Imq6SmM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "(해외환경뉴스) 기후 변화는 극한 강수보다 홍수를 더 크게 증폭시킨다.",
-          "url": "https://www.newsje.com/news/articleView.html?idxno=409729",
-          "source": "제주환경일보"
-        },
-        {
-          "title": "기후부, 올여름 집중호우 선제 대응…“홍수 피해 최소화”",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374274",
-          "source": "전기신문"
-        },
-        {
-          "title": "큰비 오기 전에 비웠다…‘물그릇’ 10억4000만톤 늘려 하류 부담 완화",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261103010001208",
-          "source": "아시아투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "블리자드",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T22:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGleoXSVIU7aUQ1MzHPFuMUrgmctpaeDUHdiRmBHnsCJFzR_83BNRi_zLtC8I",
+      "startedAt": "2026-11-04T23:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuuxkIruglPkfMJF2Otjwa3KmdpqNWykv6KtQOH6TWR6QlfgPv1REJwD6Erk0",
       "category": "IT·과학",
       "news": [
         {
-          "title": "[클릭! e 게임]넥슨 PC ‘오버워치’, ‘어둠의 신조’ 업데이트",
-          "url": "https://www.munhwa.com/article/11628663",
-          "source": "문화일보"
+          "title": "엔씨, '길드워' 20년 만의 신규 콘텐츠 '애프터라이프' 내년 1월 출시",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451198",
+          "source": "비즈니스포스트"
         },
         {
-          "title": "탈론의 지배 - 5시즌 중간 패치로 결전의 막이 오릅니다 - 새소식 - 오버워치",
-          "url": "https://overwatch.blizzard.com/ko-kr/news/24303010/",
-          "source": "Blizzard Entertainment"
+          "title": "엔씨 ‘길드워’, 약 20년 만에 신규 DLC…‘애프터라이프’ 내년 1월 출시",
+          "url": "https://zdnet.co.kr/view/?no=20261104143713",
+          "source": "지디넷코리아"
         },
         {
-          "title": "오버워치, '스텔라 블레이드'와 두 번째 협업…신규 스킨 5종 추가",
-          "url": "https://www.dailygame.co.kr/view.php?ud=20261104114226758143da15d9d2_26",
-          "source": "데일리게임"
+          "title": "[게임스테이션] '크오' 신규 보스 공개·'길드워' DLC·'도깨비~' 신규 서버·'어라이즈 오버드라이브' PS5-엑스박스 출시·'로드나인'-'파파존스' 협업·'솔'-'오버워치'-'리니지W' 업뎃·'아파다' 시즌 2 공개·'원스토어 게임 페스타'·카겜 '실적'·'로아' 8주년 이벤트",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901874",
+          "source": "뉴스웍스"
         }
       ]
     }
