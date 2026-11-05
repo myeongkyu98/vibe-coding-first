@@ -1,71 +1,121 @@
 {
-  "updatedAt": "2026-11-05T00:51:55.994Z",
+  "updatedAt": "2026-11-05T02:02:00.325Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "경제",
+      "category": "스포츠",
       "count": 3
     },
     {
-      "category": "스포츠",
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "경제",
       "count": 2
     },
     {
       "category": "IT·과학",
-      "count": 1
+      "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "kia 타이거즈",
+      "keyword": "보디빌더",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-04T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS80La3IyIF3huG8BuSBNyerNoJ-tZTKvcO5mYQoPeRoMsOtgSZBiE39YhLCZ4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsv5sF25Yc9_T6pLwoRXzhYpwccsh35AGj5dcTAkvMVpaCn3YkWKkqXYZNdQI",
       "category": "스포츠",
       "news": [
         {
-          "title": "\"4선발 가능\", \"40도루 예상\" 김도영만 보는 게 아니었다…美가 주목한 KBO 스타, 대체 누구길래",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/03/GEYWKNRSGA4GKMJQMVRDKMZZHE/",
-          "source": "조선일보"
+          "title": "김민준 ‘세계최고 보디빌더’",
+          "url": "https://www.donga.com/news/Sports/article/all/20261105/134968751/2",
+          "source": "동아일보"
         },
         {
-          "title": "한국인 구속 160.3km 실화냐, 美스카우트 앞 광속구 쾅→ML 5개 구단 영입설 떴다 “곽빈, NYM-CHC-WHS-HOU-ARI와 어울려” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/202611030747776808O",
-          "source": "머니투데이"
+          "title": "제주 박선연, 한국 여자 피지크 최초 세계 정상",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=846152",
+          "source": "제민일보"
         },
         {
-          "title": "'와 FA급 관심' KIA 슈퍼스타, 또 역대 최고액 깨나…\"다시 보상받겠다\" 역대 최초 역사 썼으니까",
-          "url": "https://www.sportschosun.com/baseball/2026-11-04/202611050100031030003250",
-          "source": "스포츠조선"
+          "title": "김민준, 세계보디빌딩선수권 남자 보디빌딩 역대 최초 '오버롤'",
+          "url": "https://www.yna.co.kr/view/AKR20261104146300007",
+          "source": "연합뉴스"
         }
       ]
     },
     {
       "keyword": "디트로이트 대 필라데피아",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-04T23:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRfzk13Ho6YGOEuiZ7hXdaHu3eQaiZFEvpQp0z17xKcqogJU2W7gmn7CZWfNM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSooVqjmUTGNYY1yuNHZ77fiYjo4XOw-vYyNa087HhRh5kg0nVkSu9JazkCUMI",
       "category": "스포츠",
       "news": [
         {
-          "title": "Pistons vs 76ers preview: East’s top two teams square off on National TV",
-          "url": "https://www.detroitbadboys.com/detroit-pistons-game-day/51431/pistons-vs-76ers-preview-easts-top-two-teams-square-off-on-national-tv",
-          "source": "Detroit Bad Boys"
+          "title": "Philadelphia 76ers vs. Detroit Pistons Live NBA Updates, Scores and Highlights",
+          "url": "https://bleacherreport.com/liveblogs/25529350-philadelphia-76ers-vs-detroit-pistons-live-nba-updates-scores-and-highlights",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "See Detroit Pistons host LeBron James, Philadelphia 76ers at LCA",
+          "url": "https://www.freep.com/picture-gallery/sports/nba/pistons/2026/11/04/detroit-pistons-host-lebron-james-philadelphia-76ers-game-photos/92617996007/",
+          "source": "Detroit Free Press"
         },
         {
           "title": "Sixers face Pistons with chance to avenge lone loss of the season",
           "url": "https://www.libertyballers.com/76ers-game-previews/100969/philadelphia-sixers-detroit-pistons-nba-embiid-lebron-duren-reed",
           "source": "Liberty Ballers"
+        }
+      ]
+    },
+    {
+      "keyword": "젠지 라이언",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T00:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9eO818x_gr3MsGG-Sn1uja6lPOxryyUF4Yp23Aget78JZmYkhli-LBER5a6A",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "LCK 챔피언의 압도적 경기력…젠지, 라이언 꺾고 월즈 4강 진출",
+          "url": "https://www.yna.co.kr/view/AKR20261105048100017",
+          "source": "연합뉴스"
         },
         {
-          "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on the NBA Tonight, 76ers-Pistons, Cavs-Thunder",
-          "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-nba-tonight-76ers-pistons-cavs-thunder",
-          "source": "Fox News"
+          "title": "[롤드컵] '캐니언-기인 활약' 젠지, 초반 위기 딛고 라이온 상대로 8강 기선제압",
+          "url": "https://www.osen.co.kr/article/G1112904589",
+          "source": "OSEN"
+        },
+        {
+          "title": "‘4연패 도전’ T1, KC와 한판 승부…DK도 5년 만에 4강 도전 [롤드컵 프리뷰②]",
+          "url": "https://www.kukinews.com/article/view/kuk202611020172",
+          "source": "쿠키뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "lg그룹",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-04T23:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsCWIWPZWxXXy4K3xz4Vw48S8v0h1y_7ie-KKLQQHPVp1c1IKFaqZ2nIIGgio",
+      "category": "경제",
+      "news": [
+        {
+          "title": "AI로 안전 챙긴다…LG 그룹 안전환경 콘퍼런스",
+          "url": "https://www.yna.co.kr/view/AKR20261105028200003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "위험 감지하면 AI가 설비 멈춘다…LG 안전관리, '감시'에서 '제어'로",
+          "url": "https://www.etnews.com/20261105000138",
+          "source": "전자신문"
+        },
+        {
+          "title": "LG그룹, 연말 CEO 쇄신 예고…실적·사업 재편·세대교체",
+          "url": "https://dealsite.co.kr/articles/171953",
+          "source": "딜사이트"
         }
       ]
     },
@@ -74,147 +124,97 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-04T23:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeEs5wag09L9NKr6i3E17Wy45gScpgjnZa_nz1TzLUB7ZwkSsN7-yeBrI_dYA",
-      "category": "경제",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl9xopisl0ODRgz43KiMisoDE1f24-5DBNvH9tjGjICTHIM5qVe5E6b6KhSs",
+      "category": "기타",
       "news": [
         {
-          "title": "서울 이어 분당 국평도 30억 턱밑…포모 확산 속 청약쏠림 뚜렷",
-          "url": "https://www.mk.co.kr/news/realestate/12197870",
+          "title": "“1500만원에 산 가방, 6800만원에 팔았어요”...명품 리셀시장서 벌어진 일",
+          "url": "https://www.mk.co.kr/news/business/12197436",
           "source": "매일경제"
         },
         {
-          "title": "수도권 분양가 1년 새 25.7% 올라… 공사비 증가 영향",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/04/HSHKNDF5Y5HS5MGC3H3HVNU7GQ/",
-          "source": "Chosunbiz"
+          "title": "5분 만에 60만원 증발…포켓몬 '오리파' 도박 논란",
+          "url": "https://www.sidae.com/article/2026110220580597421",
+          "source": "동행미디어 시대"
         },
         {
-          "title": "학세권 단지의 진화… 제일건설 '제일풍경채 광주 포에듀' 공급",
-          "url": "https://magazine.hankyung.com/business/article/202611045446b",
-          "source": "한경매거진"
+          "title": "어른들이 포켓몬 카드 사러 약국에 간다…문 닫는 약국과 편의점이 찾은 집객 상품",
+          "url": "http://www.casenews.co.kr/news/articleView.html?idxno=19625",
+          "source": "사례뉴스"
         }
       ]
     },
     {
-      "keyword": "젠지",
+      "keyword": "레인보우로보틱스",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-04T23:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQO05OWvMEuFOeIXWb60eMqV5jncy9xFL448Y-ovQiYlioMtFBW7HnDhU90bM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[롤드컵] '캐니언-기인 활약' 젠지, 초반 위기 딛고 라이온 상대로 8강 기선제압",
-          "url": "https://www.osen.co.kr/article/G1112904589",
-          "source": "OSEN"
-        },
-        {
-          "title": "[롤드컵] LCK 3팀의 4강 도전…관전 포인트는?",
-          "url": "https://sports.khan.co.kr/article/202611031253003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=e-sports",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "[롤드컵] '거침없는 호랑이' 젠지, 2세트도 26분대에 사자 사냥...2-0 리드 '4강 눈앞'",
-          "url": "https://www.koreadaily.com/article/20261104155555519",
-          "source": "미주중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "이혼 소송",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T23:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvf3K9bm6Z3TjKFu7Wumftb0p3MHjTGc-CRrQ4HkNgQN066ySACIw496Cl5E",
+      "startedAt": "2026-11-05T00:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLe9VwANelbNVirdHrByXpjaxwnAZaGAqmUpIBo9cE_H7EHsmwuZ8tpZ6z_lM",
       "category": "경제",
       "news": [
         {
-          "title": "장모 퇴직금 보태서 산 6억 집, 18억 되자…이혼 소송 남편 \"'옛 공시가'로 나누자\"",
-          "url": "https://www.news1.kr/society/general-society/6342295",
-          "source": "뉴스1"
+          "title": "레인보우로보틱스 주가, 11월 4일 장중 334,000원 4.02% 하락",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=561086",
+          "source": "중앙이코노미뉴스"
         },
         {
-          "title": "양도세 빼고 공시가로 계산하자?…18억 아파트 앞 남편의 '황당' 셈법",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611040027133077",
-          "source": "YTN"
+          "title": "레인보우로보틱스 주가 하락 중",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3214701&type=&mobile=",
+          "source": "아시아뉴스통신"
         },
         {
-          "title": "분양가 6억 아파트, 18억 '껑충'…이혼소송 중 집값 뛰면 어떻게 나눌까 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/04/2026110409102562816",
-          "source": "머니투데이"
+          "title": "레인보우로보틱스 주가 하락 중",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3213811&type=&mobile=",
+          "source": "아시아뉴스통신"
         }
       ]
     },
     {
-      "keyword": "hd현대중공업",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFeRNEAtYJGwRNA3fSqlciS_0uw_14eYJecwukSF-lMHSvinOyR3jloIaDUc4",
+      "keyword": "다문화 가정",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T00:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5A-omynri6GAQzAGxvBaTMLuHcLM3uouucrmsRCNn-Zru87nmC3jujMIlZLs",
       "category": "기타",
       "news": [
         {
-          "title": "HD현대중공업, 하청노조와 첫 상견례…노란봉투법 시행 8개월만",
-          "url": "https://www.yna.co.kr/view/AKR20261104165700057",
-          "source": "연합뉴스"
+          "title": "[단독]입소 1순위라지만···서울시 어린이집에 ‘특혜 논란’ 다문화 원아는 고작 1.9%",
+          "url": "https://www.khan.co.kr/article/202611050600051",
+          "source": "경향신문"
         },
         {
-          "title": "HD현대일렉트릭, 교섭장 신경전 끝 임단협 합의…내일 찬반 투표",
-          "url": "https://zdnet.co.kr/view/?no=20261104172723",
-          "source": "지디넷코리아"
+          "title": "“자가에 차 두 대인데 중국인이라고 우선입학?”…다문화가정 혜택 논란",
+          "url": "https://www.mk.co.kr/news/society/12197522",
+          "source": "매일경제"
         },
         {
-          "title": "김상욱 울산시장, HD현대중공업 노사 만나 산업전환·노동현안 협력 논의",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065573065665671",
-          "source": "울산종합일보"
+          "title": "미스터 달팽이(이공명)",
+          "url": "https://www.kyeongin.com/article/1774110",
+          "source": "경인일보"
         }
       ]
     },
     {
-      "keyword": "이자",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T23:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfjyPBY-ESXn5scvq_8rAjWnkmzGx9cCL_OBWP46qZyLgKxv40Ks1q2koqTA",
-      "category": "경제",
+      "keyword": "우주발사체",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T00:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQg5kt7mDPS8RtvrtJtSPyvi_LWBzgK-VowEd9anMfFPKFf7g4Hwxjs7XmlD7I",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "KB국민은행 대부업체 성실 상환자 이자 지원에 100억원",
-          "url": "https://www.yna.co.kr/view/AKR20261104058000002",
+          "title": "순천에 들어선 우주발사체 사업장",
+          "url": "https://www.yna.co.kr/view/PYH20261104154500054",
           "source": "연합뉴스"
         },
         {
-          "title": "[이코노 브리핑] 국민銀, 취약차주 100억 규모 이자 지원 외",
-          "url": "https://m.segye.com/view/20261104517829",
-          "source": "세계일보"
+          "title": "한화에어로, 순천 우주발사체 공장 준공…제주 위성센터와 우주 밸류체인 구축",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=353879",
+          "source": "녹색경제신문"
         },
         {
-          "title": "[은행권 풍향계] KB국민은행, 대부업체 성실상환자 1만명 금융부담 완화 外",
-          "url": "https://m.ekn.kr/view.php?key=20261104027205455",
-          "source": "에너지경제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "김포시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-04T23:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIiWCfUOFwQB5G-Y4UBNUgV1PTP5tJe-yhcgTAq2uR6v470bn-7shqQethrCA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "신동화 구리시장, “행안부 지방우대지수, 서울 거리 기준 역차별… 제도 개선 촉구”",
-          "url": "http://incheonilbo.com/news/articleView.html?idxno=1335959",
-          "source": "인천일보"
-        },
-        {
-          "title": "구리시, 지방우대지수 1권역 분류에 반발…“중첩규제 외면한 획일적 기준 개선해야”",
-          "url": "https://www.viva100.com/article/20261105500076",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "강원도의회, 인제 지방우대지수 재검토 촉구",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703118",
+          "title": "[무등의 아침] 손훈모 “한화에어로 순천 단 조립장 준공…동부권, 우주·방산 산업의 중심지로 도약”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703585",
           "source": "KBS 뉴스"
         }
       ]
@@ -224,9 +224,25 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-04T23:40:00.000Z",
-      "picture": "",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkFn5uUNU8F5PR9c8Nn4VjyJgHtHIILsBZnbQuMQqxROYzIqu3dmGWcFHeQLU",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "가천대, 채용연계형 설명회 운영…기업 이해부터 입사 지원까지",
+          "url": "https://view.asiae.co.kr/article/2026110507124046579",
+          "source": "아시아경제"
+        },
+        {
+          "title": "가천대, 기업 설명회부터 추천 채용까지…\"취업 지원 강화\"",
+          "url": "https://www.newsis.com/view/NISX20261104_0003855063",
+          "source": "뉴시스"
+        },
+        {
+          "title": "한신대 '2026 대학일자리플러스센터 통합 경진대회 시상식' 성료",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=635233",
+          "source": "베리타스알파"
+        }
+      ]
     },
     {
       "keyword": "엔씨",
