@@ -1,43 +1,27 @@
 {
-  "updatedAt": "2026-11-05T09:54:49.442Z",
+  "updatedAt": "2026-11-05T10:56:12.997Z",
   "summary": [
     {
       "category": "IT·과학",
-      "count": 3
+      "count": 4
+    },
+    {
+      "category": "기타",
+      "count": 4
     },
     {
       "category": "스포츠",
       "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "기타",
-      "count": 1
     }
   ],
   "items": [
     {
       "keyword": "하이닉스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-05T08:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW4bKDc2YA3INk2D1kFXHwAFIMpre_qt056xSsmXZOIsPs1tJny7UCj-k_7v4",
-      "category": "경제",
+      "category": "IT·과학",
       "news": [
         {
           "title": "5300선까지 하락한 코스피...미국 반도체주·외국인 향방 주목 - 머니투데이",
@@ -45,121 +29,96 @@
           "source": "머니투데이"
         },
         {
-          "title": "美 '블루 쓰나미' 쇼크…외인 4조 패닉셀에 한국 증시 '초토화'",
-          "url": "https://www.hankyung.com/article/2026110586056",
-          "source": "한국경제"
+          "title": "데이터센터 등 AI 규제론 ‘쓰나미’…퍼렇게 질린 ‘반도체 한국’",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1286016.html",
+          "source": "한겨레"
         },
         {
-          "title": "코스피·코스닥 동반 5%대 급락 마감‥삼성전자 7%↓·SK하이닉스 9%↓",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863441_36932.html",
+          "title": "미 ‘블루웨이브 쇼크’에 코스피 300포인트 ‘뚝’…삼성전자 7%·SK하이닉스 9%대 급락",
+          "url": "https://news.jtbc.co.kr/article/NB12326640",
+          "source": "JTBC"
+        }
+      ]
+    },
+    {
+      "keyword": "노동조합",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T09:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU9gb6pCRx0Eh0kkYwcjOAtPqMbpUvMubOpr2JVltKf2wSS82WtHCXhXYO4Dk",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "삼성전자 제6노조 설립 추진…동행노조 내부 갈등설 공방(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261105049351003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "삼성전자 DX노조, 수원사업장 앞 집회…'공정한 보상체계' 요구",
+          "url": "https://stock.mk.co.kr/news/view/1190771",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "삼성전자 동행노조 \"메모리價 급등 완제품이 감당…가격정책 적정했나\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443312",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "라파엘 나달",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T09:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoiLYCivBAMfgiN5UdxtCcRRd0ZUb3uG2mpoyAVYAYMr9SKbGwzu05zQm4HM8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'테니스 스타' 나달, 레알 마드리드 이사회 합류…\"제안 수락\"",
+          "url": "https://www.yna.co.kr/view/AKR20261105066500007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘흙신’ 나달, 레알 마드리드 구단 이사 된다…내친 김에 회장까지?",
+          "url": "https://www.donga.com/news/Sports/article/all/20261105/134971041/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "'테니스 전설' 나달, 스페인 레알 마드리드 신임 이사 임명",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855992",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "유네스코",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T09:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREBkX1rzvUkiXx-YR4UerqCuFeU5pul272UqJw6qYWcu_ciLunF3nWfebjexE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "2014년 4월에 멈춘 시간·노란 리본…23만점 기록에 새긴 세월호",
+          "url": "https://www.yna.co.kr/view/AKR20261105168700005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘잊지 않겠다’는 약속…세월호의 기억, 유네스코 기록유산이 되다",
+          "url": "https://www.khan.co.kr/article/202611051729001",
+          "source": "경향신문"
+        },
+        {
+          "title": "세월호 참사 기억·옛 조리서, 세계기록유산 아태 목록 등재",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863479_36918.html",
           "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "장동민",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-05T08:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7EaEpRawsnC0G8Lm7CVhzgjXfmD-f-8oAx181yNPGvwDQFUj6vsfB1H2yMx8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "정현규, 태도 논란에도 '데블스플랜3' 또 출연…\"지금도 반성 중\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/05/2026110514584552886",
-          "source": "머니투데이"
-        },
-        {
-          "title": "장동민부터 홍진호·하석진까지…'데블스 플랜3', 역대급 두뇌 전쟁 예고",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856283",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[사진]이도 '정종연PD에게 수능 성적 공개로 출연 쟁취'",
-          "url": "https://www.osen.co.kr/article/G1112904712",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "시험",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-05T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAxnm-XDuZBZIBH6m_izPHBRhEagAMsjkfvwo6_jGHP6CuGsApvEG2HEbBSo",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "“안경 잘못 건드렸다 고소당할라”…수능 2주 앞 감독 기피하는 교사들",
-          "url": "https://www.kyeonggi.com/article/20261104580512",
-          "source": "경기일보"
-        },
-        {
-          "title": "서울시립대, ’AI 안경 논술시험’ 수험생 2명 고소",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611051703272tz",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "[서해안] 수능 D-14",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039973",
-          "source": "기호일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김태규",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-05T07:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcASa707GwA0FxZTFrq2RtjYLClRI56EW1f30Ct4RygQcHfVPt7AX-h4l6sKo",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[속보] ‘전두환 내란부정’ 김태규 제명촉구결의안 민주당 주도 국회 통과",
-          "url": "https://news.jtbc.co.kr/article/NB12326645",
-          "source": "JTBC"
-        },
-        {
-          "title": "국민의힘, 장외투쟁 선포...꽁꽁 얼어붙는 예산 정국",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611051747520201",
-          "source": "YTN"
-        },
-        {
-          "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704911",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "축제",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-05T07:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrzkmVmTXARbZpqlCn_QklU49pxodWbncqXcckexiq5shJUA1fRbNGmk2nj7E",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "‘광안대교 보이는 방’ 하루 98만원···부산 불꽃축제 앞두고 숙박료 평균 94.5% 뛰었다",
-          "url": "https://www.khan.co.kr/article/202611041708001",
-          "source": "경향신문"
-        },
-        {
-          "title": "[통신 View] 품질 관리에 AI·문화예술까지… 일상·인프라 혁신",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3446280",
-          "source": "천지일보"
-        },
-        {
-          "title": "광안리 불꽃 하루로 끝낼 수 없어… 부산 전역 사계절 관광 추진",
-          "url": "https://view.asiae.co.kr/article/2026110511335545285",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
       "keyword": "어벤져스 둠스데이",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-05T08:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4PVo2q0EftbDgy4nNBhXvyfedY4gDEArRyZd-0jSbA0TluWABn1IFnL2OrzI",
       "category": "IT·과학",
@@ -182,52 +141,102 @@
       ]
     },
     {
-      "keyword": "이동국",
+      "keyword": "맘스터치",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-05T07:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRz2MWsbO5Q5YS2bRL571gVtSaotsEwBCBatCZdSZfYxC0lV9Hyjt9yig6X_E",
-      "category": "스포츠",
+      "startedAt": "2026-11-05T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-6KEE9230yzW2VPAJK0-4pcFYJ3JbWCE6GbymOfkc9WQ486JusExUaSzCQGo",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "용인, 이동국 근태 논란 반박… “업무·성과 긍정적 평가… 활동 내역과 관련 자료로 판단 필요”",
-          "url": "https://www.munhwa.com/article/11628697",
-          "source": "문화일보"
+          "title": "맘스터치, '주술회전' 협업 세트 출시…한정판 굿즈 3종 선봬",
+          "url": "https://www.etnews.com/20261105000102",
+          "source": "전자신문"
         },
         {
-          "title": "이동국 '근무태만' 의혹에 ♥이수진 작심 발언 \"식탁서도 선수 영상\"",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/05/MMZWGYJXMIYWGZJVGUYWKMBSMI/",
-          "source": "조선일보"
+          "title": "맘스터치, 주술회전 시부야 사변 컬래버 세트 29일까지 한정 판매",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611051007334474204ead0791_12",
+          "source": "로이슈"
         },
         {
-          "title": "'연봉 1억 4400만원, 이동국 디렉터 근태 논란'→구단이 직접 전면 반박 \"업무 성과 긍정적, 다만...\"",
-          "url": "https://www.mt.co.kr/sports/2026/11/05/2026110513513060753",
-          "source": "머니투데이"
+          "title": "주술회전 캐릭터가 버거·치킨과 함께…맘스터치, 29일까지 협업",
+          "url": "https://www.wikitree.co.kr/articles/1172063",
+          "source": "위키트리"
         }
       ]
     },
     {
-      "keyword": "위험성",
+      "keyword": "외국인",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-05T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg4-5lfBiPeMmbG7uwo9FMQxHG36Jf_4cR2JccLU9cDVCQhDkSqz3VRCmdUfA",
+      "startedAt": "2026-11-05T09:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXnFDKjk1C0w1VhRZhEEUbzcRjQ5vCw6uzVburG_sneTXmO7AJibTAha31I0w",
       "category": "기타",
       "news": [
         {
-          "title": "건설현장 수시 위험성평가, 작업 전 실시 의무화",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611042149477910697",
-          "source": "대한경제"
+          "title": "40개국 글로벌 청년 하나로… 대전시, ‘2026 외국인 유학생 한마음 대회’ 개최",
+          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/05/2026110500101.html",
+          "source": "뉴데일리 충청세종"
         },
         {
-          "title": "위험성평가 안 하면 과태료…노동자 참여 의무도 강화",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374340",
-          "source": "전기신문"
+          "title": "국적·언어 넘어선 청춘의 열정 한자리에",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109108",
+          "source": "충청매일"
         },
         {
-          "title": "위험성평가 안 하면 과태료 1000만원…산업현장 안전관리 의무 대폭 강화",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846119",
-          "source": "제민일보"
+          "title": "[대전소식] 2026 외국인 유학생 한마음 대회 개최 외",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1421999",
+          "source": "데일리한국"
+        }
+      ]
+    },
+    {
+      "keyword": "최종면접",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T09:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH4r6i6UiJ7WmnM5wBFRLWG4fXaRv3pAmo5Tj6J131Vek2VLwMFe0qgUw5hms",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘최종면접’ 브래드 피트 꺾고 개봉 첫날 1위 [MK박스오피스]",
+          "url": "https://www.mk.co.kr/news/movies/12197890",
+          "source": "매일경제"
+        },
+        {
+          "title": "조이현·김재원 '최종면접' 개봉일 1위...한국 영화로 22일만에 탈환",
+          "url": "https://www.ytn.co.kr/_ln/0106_202611051000169031",
+          "source": "YTN"
+        },
+        {
+          "title": "[인터뷰] 구직이라는 현실 뒤 진실이란, 김정훈 감독",
+          "url": "https://cine21.com/news/view/?mag_id=111183",
+          "source": "씨네21"
+        }
+      ]
+    },
+    {
+      "keyword": "강원도민일보",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjEHIXWtXYYznQ23W6QrUmst4W6B0cp8NIBt4r76CMHGCUElYtIfod2I8q2C0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "국민건강보험공단, 건강보험 빅데이터 분석센터 4개소 신규 개소",
+          "url": "https://zdnet.co.kr/view/?no=20261105144826",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "의료 빅데이터 연구 거점 늘린다…건보공단, 4개 센터 개소",
+          "url": "https://www.hankyung.com/article/202611058778h",
+          "source": "한국경제"
+        },
+        {
+          "title": "건강보험 빅데이터 분석센터 4개소 연내 문 연다",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856410",
+          "source": "뉴시스"
         }
       ]
     },
@@ -253,31 +262,6 @@
           "title": "[축구] 북한, FIFA U-17 여자 월드컵 준결승서 일본에 패배… 3연패 좌절",
           "url": "https://www.newscj.com/news/articleView.html?idxno=3446136",
           "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "프리지아",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T07:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaUuVNz-PFkqyrW4SHWoytUfFEAMaUehL3az950ctbXhMnVtPfnyhTDiZWfkI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "프리지아 측, 사생활 루머 일축…“선처 없는 법적 대응”",
-          "url": "https://www.donga.com/news/Culture/article/all/20261105/134974386/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "'갤럭시 쓰는 남자 별루' 프리지아, 기업인과 열애설 부인 \"법적 대응\"",
-          "url": "https://www.fnnews.com/news/202611051737585672",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "‘솔로지옥’ 프리지아, 악성 루머에 칼 빼 들었다…“고소·고발 진행”",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010002233",
-          "source": "아시아투데이"
         }
       ]
     }
