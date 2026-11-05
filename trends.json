@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-11-05T02:52:41.495Z",
+  "updatedAt": "2026-11-05T03:50:01.470Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
+      "count": 5
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 2
     },
     {
       "category": "스포츠",
-      "count": 2
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "한남더힐 아파트",
+      "keyword": "장기 기증",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-05T01:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR00h4R7kj_ZMGCYMAziEInq9ZC8PZu91f3ioooLUIt715WiDz08c20mAEsI0A",
-      "category": "경제",
+      "startedAt": "2026-11-05T02:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDkPW_jEaAqIQ0_Yb3Q9KLFiHkhMCR2Upndh7fKU8HA4F5XK2y_OuKKg7hq10",
+      "category": "기타",
       "news": [
         {
-          "title": "옥주현 '한남더힐 190억' 매입과 대부업 대출…신사동 빌딩서 꼬인 '레버리지의 덫'",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854597",
-          "source": "뉴시스"
+          "title": "아픈 언니 먼저 챙기던 22세 전수연씨, 8명에 생명 나누고 떠나",
+          "url": "https://www.yna.co.kr/view/AKR20261105046700530",
+          "source": "연합뉴스"
         },
         {
-          "title": "옥주현 190억 집, 경매 넘어간 건 우연이 아니다?",
-          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=02984806645641784&Kind=257",
-          "source": "이데일리TV"
+          "title": "아픈 언니 걱정하던 20대女 돌연 쓰러져…장기기증으로 8명에 새 삶",
+          "url": "https://www.donga.com/news/Society/article/all/20261105/134970066/2",
+          "source": "동아일보"
         },
         {
-          "title": "'190억 한남더힐' 경매 넘어가자…옥주현 측 \"투자사가 상환 예정\"",
-          "url": "https://www.hankyung.com/article/202610294537H",
-          "source": "한국경제"
+          "title": "간호사 꿈꾸던 20대…8명에 새 새명 나누고 떠나 - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/05/2026110511271879144",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "김대호",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-05T01:30:00.000Z",
+      "keyword": "김숙",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-05T01:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1Lc-oY4GbonU7NjyWKrVoip2CYP0KVKKA4h8nF-zDNmdjlNZI9Wv77oyhek",
       "category": "기타",
       "news": [
@@ -59,7 +59,7 @@
         },
         {
           "title": "김대호, 얼마나 성공하고 싶으면 “구본승 다음은 너” 김숙과 러브라인 (톡파원25시)[어제TV]",
-          "url": "https://m.newsen.com/news_view.php?uid=202611050632281710",
+          "url": "https://www.newsen.com/news_view.php?uid=202611050632281710&code=100100",
           "source": "뉴스엔"
         },
         {
@@ -70,202 +70,202 @@
       ]
     },
     {
-      "keyword": "디트로이트 대 필라데피아",
+      "keyword": "류현진",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-04T23:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyNIHcXBAYn0j-aD2CqbvHkldhFSW28nT1zHD7NQucYKZ703Fn3YA2nBOsoNA",
+      "startedAt": "2026-11-05T02:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsMWmtMSxHi9LJCrLSnXEtwzychvJzsWRENtmKCPfmTP5frzgeLJ5LsJClpw",
       "category": "스포츠",
       "news": [
         {
-          "title": "Hawks vs Wizards Game Overview, Match Player Stats, Injuries, Records - NBA Game on November 04, 2026",
-          "url": "https://www.covers.com/sport/basketball/nba/matchup/388659",
-          "source": "Covers.com"
+          "title": "류현진은 생각보다 더 대단한 선수였다… FA 역사에 남을 희귀 사례, 1070억 계약 재조명",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017820",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "Sharks 3-2 Canucks (Oct 29, 2026) Game Recap",
-          "url": "https://www.espn.com/nhl/recap/_/gameId/401892610",
-          "source": "ESPN"
+          "title": "‘최대 4억 달러 전망’ 스쿠발, 11월 내 계약 나온다→‘LAD VS NYM’",
+          "url": "https://sports.donga.com/sports/article/all/20261103/134954534/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "Sharks Insight: It All Starts With Killing Plays",
-          "url": "https://sanjosehockeynow.com/san-jose-sharks-darnell-nurse-vancouver-canucks-insight-14/",
-          "source": "San Jose Hockey Now"
+          "title": "누가 6720억 줄래? LA-뉴욕-시카고 움직임 포착! 빅마켓 3구단 혈투, '보상 없는' 스쿠벌 쟁탈전",
+          "url": "https://www.sportschosun.com/baseball/2026-11-04/202611040100026620002576",
+          "source": "스포츠조선"
         }
       ]
     },
     {
-      "keyword": "젠지 라이언",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-05T00:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9eO818x_gr3MsGG-Sn1uja6lPOxryyUF4Yp23Aget78JZmYkhli-LBER5a6A",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "LCK 챔피언의 압도적 경기력…젠지, 라이언 꺾고 월즈 4강 진출",
-          "url": "https://www.yna.co.kr/view/AKR20261105048100017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[롤드컵] '캐니언-기인 활약' 젠지, 초반 위기 딛고 라이온 상대로 8강 기선제압",
-          "url": "https://www.osen.co.kr/article/G1112904589",
-          "source": "OSEN"
-        },
-        {
-          "title": "[롤드컵] '압도적 사자 사냥' 젠지, 라이온 3-0 셧아웃 3년 연속 월즈 4강 '안착'...中 IG와 4강 격돌(종합)",
-          "url": "https://www.koreadaily.com/article/20261104170259828",
-          "source": "미주중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "lg그룹",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-04T23:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsCWIWPZWxXXy4K3xz4Vw48S8v0h1y_7ie-KKLQQHPVp1c1IKFaqZ2nIIGgio",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "AI로 안전 챙긴다…LG 그룹 안전환경 콘퍼런스",
-          "url": "https://www.yna.co.kr/view/AKR20261105028200003",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "위험 감지하면 AI가 설비 멈춘다…LG 안전관리, '감시'에서 '제어'로",
-          "url": "https://www.etnews.com/20261105000138",
-          "source": "전자신문"
-        },
-        {
-          "title": "LG, 마곡서 16개 계열사 AI 안전혁신사례 공유",
-          "url": "https://zdnet.co.kr/view/?no=20261105093209",
-          "source": "지디넷코리아"
-        }
-      ]
-    },
-    {
-      "keyword": "아이폰",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T01:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkVWiOoMGl7uoHr92fGD3oldh0tKTp6IvdkTD1XDp6z3d2KbmgBZd_o6oWFXM",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "삼성·애플, 폴더블폰 '접는 기술' 경쟁 붙었다",
-          "url": "https://zdnet.co.kr/view/?no=20261104152151",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "\"329만원 주고 샀다 깨질라\"…아이폰 듀오 화면 균열에 구매심리도 흔들",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855658",
-          "source": "뉴시스"
-        },
-        {
-          "title": "쇼마젠시, AI·카메라 기능 강화된 갤럭시 Z폴드8 11월 한정 프로모션 진행",
-          "url": "https://m.ekn.kr/view.php?key=20261104022515309",
-          "source": "에너지경제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "레인보우로보틱스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T00:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLe9VwANelbNVirdHrByXpjaxwnAZaGAqmUpIBo9cE_H7EHsmwuZ8tpZ6z_lM",
-      "category": "경제",
-      "news": [
-        {
-          "title": "레인보우로보틱스 주가, 11월 4일 장중 334,000원 4.02% 하락",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=561086",
-          "source": "중앙이코노미뉴스"
-        },
-        {
-          "title": "레인보우로보틱스 주가 하락 중",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3214701&type=&mobile=",
-          "source": "아시아뉴스통신"
-        },
-        {
-          "title": "레인보우로보틱스 주가 하락 중",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3213811&type=&mobile=",
-          "source": "아시아뉴스통신"
-        }
-      ]
-    },
-    {
-      "keyword": "다문화 가정",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T00:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5A-omynri6GAQzAGxvBaTMLuHcLM3uouucrmsRCNn-Zru87nmC3jujMIlZLs",
+      "keyword": "유물",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-05T02:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtnzqk56oWcqOjYVB6gC-ET9zNk32Ku1Sj2NUVfQ5pblTIjXEkEU3GZbSjS8",
       "category": "기타",
       "news": [
         {
-          "title": "[단독]입소 1순위라지만···서울시 어린이집에 ‘특혜 논란’ 다문화 원아는 고작 1.9%",
-          "url": "https://www.khan.co.kr/article/202611050600051",
+          "title": "태안 앞바다서 발견된 고려 배… 800년 돼도 먹글씨 그대로",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/05/TLSKNXC7BNBEXPVP7GT3HJV2EI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "고려 난파선서 길어 올린 800년 전 물류의 비밀",
+          "url": "https://www.khan.co.kr/article/202611042028015",
           "source": "경향신문"
         },
         {
-          "title": "“자가에 차 두 대인데 중국인이라고 우선입학?”…다문화가정 혜택 논란",
-          "url": "https://www.mk.co.kr/news/society/12197522",
-          "source": "매일경제"
-        },
-        {
-          "title": "미스터 달팽이(이공명)",
-          "url": "https://www.kyeongin.com/article/1774110",
-          "source": "경인일보"
-        }
-      ]
-    },
-    {
-      "keyword": "우주발사체",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T00:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQg5kt7mDPS8RtvrtJtSPyvi_LWBzgK-VowEd9anMfFPKFf7g4Hwxjs7XmlD7I",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "순천에 들어선 우주발사체 사업장",
-          "url": "https://www.yna.co.kr/view/PYH20261104154500054",
+          "title": "마도 5호선에서 찾은 청자",
+          "url": "https://www.yna.co.kr/view/PYH20261104157700005",
           "source": "연합뉴스"
-        },
-        {
-          "title": "한화에어로스페이스 순천사업장 준공...남해안 우주항공산업벨트 거점 - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/05/2026110509361541643",
-          "source": "머니투데이"
-        },
-        {
-          "title": "한화에어로, 순천 우주발사체 공장 준공…제주 위성센터와 우주 밸류체인 구축",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353879",
-          "source": "녹색경제신문"
         }
       ]
     },
     {
-      "keyword": "한국대학신문",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-04T23:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkFn5uUNU8F5PR9c8Nn4VjyJgHtHIILsBZnbQuMQqxROYzIqu3dmGWcFHeQLU",
+      "keyword": "열차",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsKH6f-hko6dtD13ZiyncwMXygZTaiB0Rm863UxPomGH9FrXKYbzqKaD5v2pk",
       "category": "기타",
       "news": [
         {
-          "title": "가천대, 채용연계형 설명회 운영…기업 이해부터 입사 지원까지",
-          "url": "https://view.asiae.co.kr/article/2026110507124046579",
+          "title": "출근길 우이신설선 전 구간 열차 운행 지연…4시간여만에 정상화(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261105032351004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "출근길 서울 우이신설선 경전철 운행 지연‥배차간격 늘어",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6863349_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보] 출근길 우이신설선 전 구간 열차 운행 지연…복구 중",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831530",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "더현대 크리스마스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVyWo_R8rzXu1L5ppQU9NqU2RwHTm7SuILSbY5KFe6PaIKWMPP4Ky432yJQcY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘인증샷 명소’ 신세계百 명동 외벽, 6일 크리스마스 새 영상 공개",
+          "url": "https://www.chosun.com/economy/market_trend/2026/11/05/HFSZQ7VKUNGTRCP4H7WPHXA7LU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[기업] 롯데백화점, 크리스마스 장식 점등...유럽 정원풍 테마 앞세워",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611031742194990",
+          "source": "YTN"
+        },
+        {
+          "title": "더현대 서울, ‘크리스마스 빌리지’ 사전예약 시작... 일정·방법은?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191238",
+          "source": "금강일보"
+        }
+      ]
+    },
+    {
+      "keyword": "교통",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T01:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXOM2R9YgsPAECdIoLfXFxO6jANyxrMoyHhml3HMPy1357FGgwdf5RZ0ltlmQ",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "오산시의회, 화성시 정남면 덕절리 물류센터 관련 교통대책 마련 촉구",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335973",
+          "source": "인천일보"
+        },
+        {
+          "title": "조용호 오산시장 “화성 덕절리 물류센터 교통영향 재검토해야”",
+          "url": "https://www.asiae.co.kr/article/2026110511393763814",
           "source": "아시아경제"
         },
         {
-          "title": "가천대, 기업 설명회부터 추천 채용까지…\"취업 지원 강화\"",
-          "url": "https://www.newsis.com/view/NISX20261104_0003855063",
+          "title": "민주당 오산시의원들, 대형 물류센터 공사현장 항의 방문",
+          "url": "https://www.metroseoul.co.kr/article/20261104500631",
+          "source": "메트로신문"
+        }
+      ]
+    },
+    {
+      "keyword": "이호선 상담소",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T02:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkE_iAmfNiKdowrzeX7B1Wz2jzsm9VPK_iTKtL3_9iz0fwEuhFZ9-jyK3xhAU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "남편이 던진 목베개에 기절까지 했는데…아내가 이혼 못 한 이유 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/03/2026110322274298165",
+          "source": "머니투데이"
+        },
+        {
+          "title": "`나없이 살수나 있겠나`…명문대 딸 7년째 백수, `뒷바라지` 엄마는 한숨",
+          "url": "https://www.imaeil.com/page/view/2026110409513676667",
+          "source": "매일신문"
+        },
+        {
+          "title": "자사고·명문대 나온 30대 딸이 7년 째 백수…母 \"난 입주도우미\" 고민 토로",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6342138",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "로보월드",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T02:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh93i8e0yPdviBeS5d_ig_LoB62MCvWIfzXUqiLlxJYAIw8xk_Dif65s6HiCM",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "이노시뮬레이션, 엔비디아 기반 '피지컬 트윈' 공개… AI 검증 시장 공략 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110509393554102",
+          "source": "머니투데이"
+        },
+        {
+          "title": "브릴스, '2026 로보월드 어워드' 최우수상 수상",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03972086645642768",
+          "source": "마켓인"
+        },
+        {
+          "title": "현대차그룹, 국내 로보틱스 생태계 키운다…'모베드 동맹' 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261104097800003",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "광주광역시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T02:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3YrPM-8cRKu7igzK74RwS37OH4G0pPsYbpCdrTJLlwmsTjmbAtjgmTp7nLs",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "\"주민은 무단 점유, 장애인 지원은 미달\" 복지행정 질타",
+          "url": "https://www.newsis.com/view/NISX20261104_0003854813",
           "source": "뉴시스"
         },
         {
-          "title": "한신대 '2026 대학일자리플러스센터 통합 경진대회 시상식' 성료",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=635233",
-          "source": "베리타스알파"
+          "title": "이오숙 전남광주시의원 \"본청 장애인생산품 구매율 0.26% 불과\"",
+          "url": "https://www.newspim.com/news/view/20261105000390",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "전남광주통합특별시의회 임미란 의원, “수십 년째 무단점유자로 남은 주민들, 행정이 답해야”",
+          "url": "https://www.koreasafetynews.com/news/articleView.html?idxno=283829",
+          "source": "코리아안전뉴스"
         }
       ]
     }
