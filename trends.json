@@ -1,275 +1,271 @@
 {
-  "updatedAt": "2026-11-05T20:42:53.919Z",
+  "updatedAt": "2026-11-05T21:40:41.392Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "경제",
+      "count": 4
+    },
+    {
+      "category": "IT·과학",
       "count": 3
     },
     {
-      "category": "정치·사회",
+      "category": "기타",
       "count": 2
     },
     {
       "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "한국경제",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-05T19:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gZPwcyZeVrFiyJ-SS5-VXzp5RUYSQSBDu0ogQ9AzJRa-E2VjoynbRxqhkVc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘레임덕 위기 트럼프’ 먼저 때린 2인자 “이란전쟁 시작 말았어야”",
-          "url": "https://www.donga.com/news/Inter/article/all/20261106/134975636/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "'김치데이' 발의에 태권도 수련까지…美의회 요직에 친한파 부상",
-          "url": "https://www.yna.co.kr/view/AKR20261106005300072",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "청와대, 미 중간선거 결과에 \"한미동맹, 초당적 지지로 굳건한 관계\"",
-          "url": "https://news.jtbc.co.kr/article/NB12326658",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "잠수함",
+      "keyword": "주식",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-05T19:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-Rj10L28sfenDmoEX2ot19HWMFRsK7SUohDTBeYdZAIJ5yMySwrYJo8aHM4",
-      "category": "기타",
+      "startedAt": "2026-11-05T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQSGgLQDW5RnVnxkS1Q-Shqi4a1pfO13ETlVdEAVDty7Qz9JYlsbzE1Ld0dr8",
+      "category": "경제",
       "news": [
         {
-          "title": "파병 아닌 종전 시 '호르무즈 기여' 준비‥범여권은 당장 반발",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863497_37004.html",
-          "source": "MBC 뉴스"
+          "title": "데이터센터 변동성 속 약세 시 매수할 IT 서비스 주식",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2162087",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "美 ‘호르무즈 기여’ 요구에 호응… 이란엔 ‘위협 아니다’ 설명 방침",
-          "url": "https://www.donga.com/news/Politics/article/all/20261106/134975645/2",
-          "source": "동아일보"
+          "title": "한국 증시, 지금의 조정은 위기인가 새로운 기회인가?",
+          "url": "https://www.hankyung.com/article/202611044856i",
+          "source": "한국경제"
         },
         {
-          "title": "\"전쟁 관여나 개입 안 해...추가 전력은 종전 대비용\"",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611051914391864",
-          "source": "YTN"
+          "title": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사”",
+          "url": "https://weekly.donga.com/economy/article/all/11/6447763/1",
+          "source": "주간동아"
         }
       ]
     },
     {
-      "keyword": "김도영",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-05T19:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPPU812DNztKDnuv1zALh5ocYXQBxgORJRsf_Fda8Bw7LEzocmnHmhCZDG0Kc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "거인 4인방 APBC(아시아프로야구챔피언십) 첫 우승 이끈다…한동희·최준용 중책",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261105.22015001284",
-          "source": "국제신문"
-        },
-        {
-          "title": "KIA 좌완 투수 곽도규, 대퇴부 부상으로 APBC 대표팀 낙마",
-          "url": "https://www.yna.co.kr/view/AKR20261105117300007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "중심 타자에 선발 투수, 필승조까지…롯데, 가을야구의 아쉬움 APBC에서 푼다",
-          "url": "https://sports.khan.co.kr/article/202611051622003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "kia 타이거즈",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-05T19:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYaj9GCBNf7IHBlRdn-X23J31v85qADSBWQFygyMozOPDNWS2pLj1I4nyEAaY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "이런 팬들이 있다는 건 축복…KIA 올러, 시즌 끝나자 남긴 말",
-          "url": "https://www.ajunews.com/view/20261105164130831",
-          "source": "아주경제"
-        },
-        {
-          "title": "'KIA 팬들 감동' 30억 이 선수의 진심, KIA와 함께여서 행복했다…\"최고의 동료들과 즐거웠다, 멋진 팬 여러분이 계신 건 큰 축복\"",
-          "url": "https://mydaily.co.kr/page/view/2026110523082634799",
-          "source": "마이데일리"
-        },
-        {
-          "title": "한글 쓰고 ‘원피스’ 이야기하던 KIA 네일·올러…구단 유튜브 제작진에 깜짝 선물",
-          "url": "https://news.jtbc.co.kr/article/NB12326180",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "수술",
+      "keyword": "김혜수",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-05T16:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvjqUdNIEsaDf7-G2nwY4iUgre-IfkUV46tfo_sdlK6QG7nrJmlsUwEVNNpR0",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[단독] 기저질환 없던 60대, 무릎수술 다음날 사망",
-          "url": "https://www.chosun.com/national/national_general/2026/11/05/WZ4ZUNKQWBA4JMU33QAZ3M7URU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "강남 병원서 무릎 수술받은 60대 여성 사망…경찰 수사",
-          "url": "https://www.newsis.com/view/NISX20261105_0003857100",
-          "source": "뉴시스"
-        },
-        {
-          "title": "강남 병원서 무릎 수술 받은 60대 사망…경찰 수사 착수",
-          "url": "https://www.news1.kr/society/incident-accident/6344862",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "알테오젠",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T17:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlUQIPTF3OK5Tz4v3Yfqj_D---BYO4kS2XKIBOJ6FOohCatQhKzGYhk7xCV-Y",
-      "category": "경제",
-      "news": [
-        {
-          "title": "특징주, 알테오젠-바이오시밀러 테마 상승세에 7.48% ↑",
-          "url": "https://stock.mk.co.kr/news/view/1190290",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "알테오젠 주가 9,500원 하락 후 장마감",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3214537&type=&mobile=",
-          "source": "아시아뉴스통신"
-        },
-        {
-          "title": "알테오젠 투자분석 2026. 11. 02",
-          "url": "https://www.judal.co.kr/?view=stockAI&shareToken=UAbRBIfni2r6JKnw",
-          "source": "주달"
-        }
-      ]
-    },
-    {
-      "keyword": "해군사관학교",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T19:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjsL47dBOjxLJLQe4YMBbrIu0ukRp9I-W5yl2XF-XzsiW_3NiS9bTQiGxJtl4",
+      "startedAt": "2026-11-05T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOnbZUGsGSPvCvFUrL3XWv2q7BnOafG8vC9dQhwGrDuZMAJN0SDe5n8c-sE2Y",
       "category": "기타",
       "news": [
         {
-          "title": "참모부 대표단이 공군사관학교를 방문하여 업무를 수행했습니다.",
-          "url": "https://www.vietnam.vn/ko/doan-cong-tac-cua-bo-tong-tham-muu-tham-lam-viec-tai-truong-si-quan-khong-quan",
-          "source": "Vietnam.vn"
+          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
+          "url": "https://www.kyeonggi.com/article/20261105580023",
+          "source": "경기일보"
         },
         {
-          "title": "해군사관학교는 교육, 훈련 및 과학 연구의 질을 향상시키고 있습니다.",
-          "url": "https://www.vietnam.vn/ko/hoc-vien-hai-quan-nang-cao-chat-luong-giao-duc-dao-tao-va-nghien-cuu-khoa-hoc",
-          "source": "Vietnam.vn"
+          "title": "아버지의 빈자리[뉴스와 시각]",
+          "url": "https://www.munhwa.com/article/11628694",
+          "source": "문화일보"
         },
         {
-          "title": "참모본부 대표단이 해군사관학교의 교육 및 훈련 활동을 시찰했습니다.",
-          "url": "https://www.vietnam.vn/ko/doan-cong-tac-cua-bo-tong-tham-muu-kiem-tra-cong-tac-giao-duc-va-dao-tao-tai-hoc-vien-hai-quan",
-          "source": "Vietnam.vn"
+          "title": "김혜수 “최불암 선생님, 배웅해주신 모든 분께 감사”",
+          "url": "https://weekly.khan.co.kr/article/202611051139001",
+          "source": "주간경향"
         }
       ]
     },
     {
-      "keyword": "신민아",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T18:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTsTXnGECNymoySlBoSEU_g7XQIbxOyj4Wa7LaYGe6sAADvZ-hJlOIdsVmxFw",
-      "category": "연예",
+      "keyword": "뉴스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSVLquP1CZhBqNu5Q-F_5qXZ3nO15Y2s8ypW26zu5hqNt4hLmIMB_ZKsIfQgg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "신민아, 이혼→재혼→첫사랑도 만난다…\"작품 쉴틈 없네\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/05/2026110516123786507",
-          "source": "머니투데이"
+          "title": "이문섭 전 광주시의장, 경기 광주시자원봉사센터 첫 민간 이사장 선임",
+          "url": "https://www.kyeonggi.com/article/20261105580320",
+          "source": "경기일보"
         },
         {
-          "title": "신민아·이진욱의 휴먼 멜로…'수목금' 내년 상반기 방송",
-          "url": "https://www.yna.co.kr/view/AKR20261105032500005",
-          "source": "연합뉴스"
+          "title": "광주시자원봉사센터, 이사장에 이문섭 전 시의회 의장",
+          "url": "https://www.gjnews.net/news/articleView.html?idxno=50961",
+          "source": "광주뉴스"
         },
         {
-          "title": "신민아, 12년 만에 첫사랑 이진욱과 재회…MBC ‘수목금’, 내년 상반기 첫 방송",
-          "url": "https://www.viva100.com/article/20261105500378",
-          "source": "브릿지경제"
+          "title": "무상의료·부유세 공약 통했다… 민주당 강성 진보, 의회로 진격",
+          "url": "https://www.chosun.com/international/international_general/2026/11/06/4UCP7J273JATHJWHMAOZGIGTHQ/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "수소",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-05T18:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbBiFhuR9QTXxitMhTrVngARAuv6lI-QfTIwfKxPiyNifu9tiI9kKpY1RiIZU",
+      "keyword": "두산에너 빌리티",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T20:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnb2RKVYrdKPg4L5_fBoGrrYxgcxXNXbl329q37LDVUBKIw1f94hszsDzZLYs",
       "category": "경제",
       "news": [
         {
-          "title": "한수원, 미·중·일과 머리 맞댔다…청정수소 해법 모색",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374406",
+          "title": "두산에너빌리티 SMR 핵심 기기 수주 본격화, 미국 '블루웨이브'에도 원전 지원 지속 기대",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451277",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "X-energy, Xe-100 원자로용 증기발생기 튜브 첫 발주",
+          "url": "https://kr.investing.com/news/company-news/article-93CH-2158559",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "블루 쓰나미에도… K전력·에너지 '이상無'",
+          "url": "https://www.mk.co.kr/news/business/12198746",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "lg에너지솔루션",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T20:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdgYBeLKypqNn-NGY3bpFqRsLIhL5gChGUg5rFc9TzIafhpimvYuOm-uZ25tE",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[단독] LG에너지솔루션, 3차 ESS 중앙계약입찰 불참...‘삼성SDI·SK온’ 2파전 압축",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374420",
           "source": "전기신문"
         },
         {
-          "title": "한수원, 글로벌 청정수소 공급망 확보 ‘속도’",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3446321",
-          "source": "천지일보"
+          "title": "LG엔솔, 3차 중앙계약시장 불참…\"기존 사업 선택과 집중\"",
+          "url": "https://www.yna.co.kr/view/AKR20261105165100003",
+          "source": "연합뉴스"
         },
         {
-          "title": "한수원, 미국 전력연구원과 청정수소·저탄소 에너지 기술협력",
-          "url": "https://www.yna.co.kr/view/AKR20261104089000003",
+          "title": "LG엔솔 \"3차 ESS 입찰 불참…가격 경쟁 대신 중장기 경쟁력\" - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/05/2026110517223581789",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "1기 신도시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T20:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_UHxptZSnI3CvD02PWtzaz_PXgPNo0NCpCTIvxhG__Ert6ZtVdBK9ThtQdUo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "샛별·양지·더시범 시공사 입찰 채비…분당 선도지구 수주전 초읽기",
+          "url": "https://www.sedaily.com/article/20110022",
+          "source": "서울경제"
+        },
+        {
+          "title": "재건축 속도 산본 앞섰는데, 분당 집값 더 뛰었다",
+          "url": "http://www.inews24.com/view/2023039",
+          "source": "아이뉴스24"
+        },
+        {
+          "title": "1기 신도시 첫 시공사 입찰 산본 9-2구역, 확약서 '0곳'...입찰 일정 조정 가능성",
+          "url": "https://www.dailyhousing.kr/news/articleView.html?idxno=986",
+          "source": "데일리하우징"
+        }
+      ]
+    },
+    {
+      "keyword": "현대자동차",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T20:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR26trOzyurjAMb7-W80D9Uz2-VPpNYm384y6A4TyGmfX491pVOZ1jfEk_8BmQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[포토] 수소연료전지 기반 개방형 플랫폼",
+          "url": "https://www.etnews.com/20261104000396",
+          "source": "전자신문"
+        },
+        {
+          "title": "中 수전해 장비값 절반 공세…현대차그룹이 제시한 해법은 '팀코리아' - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/05/2026110515275627410",
+          "source": "머니투데이"
+        },
+        {
+          "title": "WHE 2026, H2 이노베이션 어워드 수상 기업 7곳 발표…넥스트에너지 대상",
+          "url": "https://mauto.danawa.com/news/?Tab=A&Work=detail&no=6078669",
+          "source": "다나와 자동차"
+        }
+      ]
+    },
+    {
+      "keyword": "농장",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T20:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUY4POw_Tht7Di8VRgJ10d0KStuRgJXhlK9e-B0XxvKeJxnAxZ79fiNuQ16Hw",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "연천 산란계 농장서 올겨울 첫 고병원성 AI...전국 방역 강화",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611051103342160",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "서산 삵 폐사체서 고병원성 AI… 충남 긴급 방역 조치",
+          "url": "https://www.donga.com/news/Society/article/all/20261105/134974375/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "장흥 육용오리농장서 조류인플루엔자 확인…24시간 이동 중지",
+          "url": "https://www.yna.co.kr/view/AKR20261105185700030",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "김지선",
+      "keyword": "장동현",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-05T17:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQuJUPN-wa78ye7El2UHczcq6P6sMbxgmLbWDu6o76DuQeAT_AXOpcrgwNHjs",
-      "category": "기타",
+      "startedAt": "2026-11-05T19:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLwP6lmLJyuqoGJDm4ReJueEkpSze-yWhqUoiklkfPRDKZe5d0UcQQusSQwXY",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "김지선 아들 분노 “못 잡아먹어 안달, 적당히 하시라”…무슨 일",
-          "url": "https://www.koreadaily.com/article/20261104203602054",
-          "source": "미주중앙일보"
+          "title": "SK㈜, SK에코플랜트 완전 자회사화 추진… IPO 접고 반도체·AI 사업 통합 속도",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846213",
+          "source": "제민일보"
         },
         {
-          "title": "‘김지선 둘째’ 래퍼 시바, 악플과 자극적 보도에 불쾌감 “적당히 하시라”",
-          "url": "https://sports.khan.co.kr/article/202611050902003",
-          "source": "스포츠경향"
+          "title": "SK디스커버리, 7년 만에 에코플랜트 PRS 정리…3800억 확보 전망 [시그널]",
+          "url": "https://www.sedaily.com/article/20110682",
+          "source": "서울경제"
         },
         {
-          "title": "'사회공포증' 김지선子 래퍼 시바, 살찐 근황 공개..가족모임 포착",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/04/G42WCZRVMYYTGM3EMQ3TQY3CMY/",
-          "source": "Chosunbiz"
+          "title": "장동현 SK 부회장, SK에코플랜트 대표 사임",
+          "url": "https://www.yna.co.kr/view/AKR20261105161900003",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "매일노동뉴스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-05T19:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFeRNEAtYJGwRNA3fSqlciS_0uw_14eYJecwukSF-lMHSvinOyR3jloIaDUc4",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "HD현대중공업, 하청노조와 첫 상견례…노란봉투법 시행 8개월만",
+          "url": "https://www.yna.co.kr/view/AKR20261104165700057",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "HD현대일렉트릭, 교섭장 신경전 끝 임단협 합의…내일 찬반 투표",
+          "url": "https://zdnet.co.kr/view/?no=20261104172723",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "김상욱 울산시장 “AI 전환에 노동자 참여”…HD현대중공업 노사에 협력 제안",
+          "url": "https://www.viva100.com/article/20261104501175",
+          "source": "브릿지경제"
         }
       ]
     }
