@@ -1,71 +1,133 @@
 {
-  "updatedAt": "2026-11-05T08:21:36.124Z",
+  "updatedAt": "2026-11-05T09:54:49.442Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 4
-    },
-    {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 3
     },
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 2
     },
     {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
       "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "기타",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "경제",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-05T05:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyt0-TxiSZDue_tP3oKBb7TsMm09hx4HBJyDSPDZC1aTfcFheY7W4U0vqvjKI",
+      "keyword": "하이닉스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-05T08:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW4bKDc2YA3INk2D1kFXHwAFIMpre_qt056xSsmXZOIsPs1tJny7UCj-k_7v4",
       "category": "경제",
       "news": [
         {
-          "title": "블루웨이브가 덮치자 삼전닉스 파랗게 질렸다…투자 전략은? - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110516030863340",
+          "title": "5300선까지 하락한 코스피...미국 반도체주·외국인 향방 주목 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/05/2026110515534966157",
           "source": "머니투데이"
         },
         {
-          "title": "美 중간선거 '블루 웨이브' 쇼크…한국 증시 '쓰나미' 덮쳤다",
+          "title": "美 '블루 쓰나미' 쇼크…외인 4조 패닉셀에 한국 증시 '초토화'",
           "url": "https://www.hankyung.com/article/2026110586056",
           "source": "한국경제"
         },
         {
-          "title": "코스피 이어 코스닥에도 매도 사이드카 발동‥5% 급락",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863411_36932.html",
+          "title": "코스피·코스닥 동반 5%대 급락 마감‥삼성전자 7%↓·SK하이닉스 9%↓",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6863441_36932.html",
           "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "제주 감귤",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-05T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8KUeLx4mI62nN7e8PBDDrjAKWN6lIW8MPETwo6tNFvRQREM1GDMaIuFdqzc",
-      "category": "경제",
+      "keyword": "장동민",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T08:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7EaEpRawsnC0G8Lm7CVhzgjXfmD-f-8oAx181yNPGvwDQFUj6vsfB1H2yMx8",
+      "category": "연예",
       "news": [
         {
-          "title": "“점심시간에 만난 달콤함”…제주감귤연합회, 정부세종청사서 고당도 제주감귤 특별판매",
-          "url": "https://www.seoul.co.kr/news/economy/2026/11/05/20261105500202",
-          "source": "서울신문"
+          "title": "정현규, 태도 논란에도 '데블스플랜3' 또 출연…\"지금도 반성 중\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/05/2026110514584552886",
+          "source": "머니투데이"
         },
         {
-          "title": "제주감귤농협 2026년산 노지감귤 수출 본격 추진",
-          "url": "http://www.ihalla.com/article.php?aid=1793751610792394010",
-          "source": "한라일보"
+          "title": "장동민부터 홍진호·하석진까지…'데블스 플랜3', 역대급 두뇌 전쟁 예고",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856283",
+          "source": "뉴시스"
         },
         {
-          "title": "이틀 만에 30% 썩었다…풍년이라던 감귤 농가 ‘죽을 맛’ 왜",
-          "url": "https://www.koreadaily.com/article/20261104120042150",
-          "source": "미주중앙일보"
+          "title": "[사진]이도 '정종연PD에게 수능 성적 공개로 출연 쟁취'",
+          "url": "https://www.osen.co.kr/article/G1112904712",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "시험",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAxnm-XDuZBZIBH6m_izPHBRhEagAMsjkfvwo6_jGHP6CuGsApvEG2HEbBSo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "“안경 잘못 건드렸다 고소당할라”…수능 2주 앞 감독 기피하는 교사들",
+          "url": "https://www.kyeonggi.com/article/20261104580512",
+          "source": "경기일보"
+        },
+        {
+          "title": "서울시립대, ’AI 안경 논술시험’ 수험생 2명 고소",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611051703272tz",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "[서해안] 수능 D-14",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039973",
+          "source": "기호일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김태규",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-05T07:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcASa707GwA0FxZTFrq2RtjYLClRI56EW1f30Ct4RygQcHfVPt7AX-h4l6sKo",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[속보] ‘전두환 내란부정’ 김태규 제명촉구결의안 민주당 주도 국회 통과",
+          "url": "https://news.jtbc.co.kr/article/NB12326645",
+          "source": "JTBC"
+        },
+        {
+          "title": "국민의힘, 장외투쟁 선포...꽁꽁 얼어붙는 예산 정국",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611051747520201",
+          "source": "YTN"
+        },
+        {
+          "title": "‘전두환·윤석열 내란 부정’ 국힘 김태규 제명 촉구 결의안 여권 주도 국회 통과",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704911",
+          "source": "KBS 뉴스"
         }
       ]
     },
@@ -74,130 +136,80 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-05T07:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcnLKwJ5fG5VGIHgjk2pl-P624GjUyPK74EAdL1Rmj-5QdYqyAXehn6fXd9vk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrzkmVmTXARbZpqlCn_QklU49pxodWbncqXcckexiq5shJUA1fRbNGmk2nj7E",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "“군민이 함께 피운 가을 동화”… 진도 보배섬 국화축제 5일 막 올랐다",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=353949",
-          "source": "녹색경제신문"
+          "title": "‘광안대교 보이는 방’ 하루 98만원···부산 불꽃축제 앞두고 숙박료 평균 94.5% 뛰었다",
+          "url": "https://www.khan.co.kr/article/202611041708001",
+          "source": "경향신문"
         },
         {
-          "title": "진도군, 가을 정취 만끽 보배섬 국화축제 5일 개막",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20261108010001877",
-          "source": "중도일보"
+          "title": "[통신 View] 품질 관리에 AI·문화예술까지… 일상·인프라 혁신",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446280",
+          "source": "천지일보"
         },
         {
-          "title": "진도 국화축제 개막…전시 국화 75% 지역 농가 생산",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743460",
-          "source": "국제뉴스"
+          "title": "광안리 불꽃 하루로 끝낼 수 없어… 부산 전역 사계절 관광 추진",
+          "url": "https://view.asiae.co.kr/article/2026110511335545285",
+          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "김태규",
+      "keyword": "어벤져스 둠스데이",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-05T07:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPCXClc1Cl5omOvPRsI3Hls2rUQealVv_V0ZU-MYYkh9LQCsSJwUxOcCrYXE4",
-      "category": "정치·사회",
+      "startedAt": "2026-11-05T08:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4PVo2q0EftbDgy4nNBhXvyfedY4gDEArRyZd-0jSbA0TluWABn1IFnL2OrzI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "이진숙 이어 김태규도… 민주당, 두 달여 만에 또 제명 촉구안 통과",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/05/HO37S2NMOFAYRITREBXJKGJU2E/",
+          "title": "고조에서 세피로스까지: 어마어마한 라인업을 자랑하는 '어벤져스: 두무스데이' 일본어 더빙진",
+          "url": "https://hypebeast.kr/2026/11/marvel-avengers-doomsday-japanese-dub-cast-anime-voice-actors-toshiyuki-morikawa-doctor-doom-announcement",
+          "source": "Hypebeast.KR"
+        },
+        {
+          "title": "‘어벤져스: 둠스데이’ 벌써 뜨겁다…사상 최초 ‘30억 달러’ 돌파 전망",
+          "url": "https://sports.donga.com/ent/article/all/20261102/134948407/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "[해외 캠페인] KFC, '어벤져스: 둠스데이' 메뉴 출시",
+          "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=7066",
+          "source": "캠페인 인사이트"
+        }
+      ]
+    },
+    {
+      "keyword": "이동국",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-05T07:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRz2MWsbO5Q5YS2bRL571gVtSaotsEwBCBatCZdSZfYxC0lV9Hyjt9yig6X_E",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "용인, 이동국 근태 논란 반박… “업무·성과 긍정적 평가… 활동 내역과 관련 자료로 판단 필요”",
+          "url": "https://www.munhwa.com/article/11628697",
+          "source": "문화일보"
+        },
+        {
+          "title": "이동국 '근무태만' 의혹에 ♥이수진 작심 발언 \"식탁서도 선수 영상\"",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/05/MMZWGYJXMIYWGZJVGUYWKMBSMI/",
           "source": "조선일보"
         },
         {
-          "title": "국힘 김태규 제명 촉구 결의안, 與 주도로 국회 본회의 가결 [영상]",
-          "url": "https://www.imaeil.com/page/view/2026110515254275285",
-          "source": "매일신문"
-        },
-        {
-          "title": "시작부터 고성…대통령비서실 국정감사, 정회에 파행 거듭",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8699114",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "데이터센터",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T06:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrJ21oq5cEeQqDbOa7oimqBUlfTOHlEhK3JAlkyYXt2ACkAj7VgK2GyTLT6oU",
-      "category": "경제",
-      "news": [
-        {
-          "title": "美 중간선거 후폭풍, AI 데이터센터 강타하나",
-          "url": "https://zdnet.co.kr/view/?no=20261105093759",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "AI 규제 덮치고 관세는 그대로?…미 민주당 압승에 K기업 '긴장'",
-          "url": "https://stock.mk.co.kr/news/view/1190711",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "美 '블루웨이브'에 韓 셈법 복잡…친환경 훈풍 속 데이터센터 규제 변수 - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/05/2026110510212741251",
+          "title": "'연봉 1억 4400만원, 이동국 디렉터 근태 논란'→구단이 직접 전면 반박 \"업무 성과 긍정적, 다만...\"",
+          "url": "https://www.mt.co.kr/sports/2026/11/05/2026110513513060753",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "박유천",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T05:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRzzlE8Dwx8o0kR5Vd4RRlhYz2MqPMGjAX1Ux1iJ9YbvdyUCOnbESmhAXAw5I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "박유천, 日 고가 디너쇼 논란… 1인 45만원",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/KRDBP62XCBDDXIGPEBOKWD3ZW4/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "“티켓값이 45만 원?” 박유천, 日서 여전히 잘 나가네… 4년 만의 디너쇼 개최",
-          "url": "https://sports.khan.co.kr/article/202611050056003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "박유천, 日 디너쇼 1인 '45만원'…국내 정상급 웃도는 초고가",
-          "url": "https://www.newsis.com/view/NISX20261105_0003855396",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "진쓰레블 사망",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T05:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgZeBfLfLrrtKnq8LDOb0NvGMr9pViCSihihUmsBWuCb8VTfuBCPEkaLeoRgg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "\"믿기지 않는 비보\"…자전거 유튜버 33세 진쓰레블, 남미서 뺑소니 사망",
-          "url": "https://www.news1.kr/society/general-society/6344322",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[자막뉴스] 두 페달에 청춘 싣고 세계 유랑하다가…\"편히 쉬시길\" 애도",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832494",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "한국인 여행 유튜버, 볼리비아서 뺑소니 사고로 사망",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04880646645642768",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
       "keyword": "위험성",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-05T07:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSg4-5lfBiPeMmbG7uwo9FMQxHG36Jf_4cR2JccLU9cDVCQhDkSqz3VRCmdUfA",
       "category": "기타",
@@ -220,52 +232,52 @@
       ]
     },
     {
-      "keyword": "남대문 스카프 아저씨",
+      "keyword": "fifa u-17 여자 월드컵",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-05T06:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9TumYxbMhf2dpbfF7DAwv0Mj0pXgLsNJt2cXiHUhxlowsaCES7cZKHzww1Q4",
-      "category": "정치·사회",
+      "startedAt": "2026-11-05T08:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf5OAV9eDl3Wv8t3J05ulcDAMVY4foBrVe7-wGj0siMz3vMzRx8ABQ6pC5e7w",
+      "category": "스포츠",
       "news": [
         {
-          "title": "’남대문 스카프 아저씨’ 출근길 인증…영업 재개에 시장 들썩",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261104160854BFB",
-          "source": "연합뉴스TV"
+          "title": "북한, U-17 여자 월드컵 준결승서 고배…3연패 도전 무산",
+          "url": "https://www.donga.com/news/Sports/article/all/20261105/134970487/1",
+          "source": "동아일보"
         },
         {
-          "title": "남대문 스카프 아저씨 \"경찰까지 출동\"…영업 재개 하루 만에 또 휴업 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/05/2026110514064120180",
-          "source": "머니투데이"
+          "title": "북한, FIFA U-17 여자 월드컵 일본에 승부차기 패배…3연패 좌절",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008831671",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "‘출근’도 화제?…남대문 스카프 아저씨 근황에 ‘깜짝’",
-          "url": "https://www.munhwa.com/article/11628858",
-          "source": "문화일보"
+          "title": "[축구] 북한, FIFA U-17 여자 월드컵 준결승서 일본에 패배… 3연패 좌절",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446136",
+          "source": "천지일보"
         }
       ]
     },
     {
-      "keyword": "삼전 주가",
+      "keyword": "프리지아",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-05T06:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeuKCtCIBu4DwIrF3BleCECWO1qezjl-RnMdZpEMP46-mTYqsMoG2PEMCH4e4",
-      "category": "경제",
+      "startedAt": "2026-11-05T07:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaUuVNz-PFkqyrW4SHWoytUfFEAMaUehL3az950ctbXhMnVtPfnyhTDiZWfkI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "고점 대비 반토막 난 삼전닉스…내년 실적 믿고 지금 사도 될까",
-          "url": "https://www.mk.co.kr/news/stock/12198148",
-          "source": "매일경제"
+          "title": "프리지아 측, 사생활 루머 일축…“선처 없는 법적 대응”",
+          "url": "https://www.donga.com/news/Culture/article/all/20261105/134974386/1",
+          "source": "동아일보"
         },
         {
-          "title": "급락 하루 만에 뛰는 삼성전자·SK하이닉스…증권가 “내년 영업익 1000조 돌파” [주가동향]",
-          "url": "https://m.joseilbo.com/news/view.htm?newsid=578856",
-          "source": "조세일보"
+          "title": "'갤럭시 쓰는 남자 별루' 프리지아, 기업인과 열애설 부인 \"법적 대응\"",
+          "url": "https://www.fnnews.com/news/202611051737585672",
+          "source": "파이낸셜뉴스"
         },
         {
-          "title": "거품 대신 주문이 터졌다…'삼전닉스' 메모리 없어서 못 판다",
-          "url": "https://news.nate.com/view/20261103n01844",
-          "source": "네이트"
+          "title": "‘솔로지옥’ 프리지아, 악성 루머에 칼 빼 들었다…“고소·고발 진행”",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010002233",
+          "source": "아시아투데이"
         }
       ]
     }
