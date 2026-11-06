@@ -1,71 +1,250 @@
 {
-  "updatedAt": "2026-11-06T12:52:54.865Z",
+  "updatedAt": "2026-11-06T14:05:54.518Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 4
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "category": "연예",
+      "count": 2
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "xsmb",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T11:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTixzTiN6qAV1MPtvA5-oCrh5shJUtFK8b05fJBKjl0VD0ZURWSogqW1xd6fw8",
-      "category": "기타",
+      "keyword": "카광",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T12:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1K1ZtEUaiQluHb8X7SXyNpyTJ114McnkQTHu2i4GL9hbz6rgTZTctZjZIWgo",
+      "category": "연예",
       "news": [
         {
-          "title": "XSBD 6/11 - Kết quả xổ số Bình Dương ngày 6 tháng 11",
-          "url": "https://cafef.vn/xsbd-6-11-ket-qua-xo-so-binh-duong-ngay-6-thang-11-188261106163154116.chn",
-          "source": "CafeF"
+          "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
+          "url": "https://sports.khan.co.kr/article/202611061749003",
+          "source": "스포츠경향"
         },
         {
-          "title": "Xổ số miền Nam ngày 6 tháng 11: Dãy số giúp nhiều người trúng đài Trà Vinh",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-6-thang-11-day-so-giup-nhieu-nguoi-trung-dai-tra-vinh-185261106083235699.htm",
-          "source": "Báo Thanh Niên"
+          "title": "'지적장애女 학대 의혹' 유튜버 카광, 가학 생방송 전말 고발된다",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858579",
+          "source": "뉴시스"
         },
         {
-          "title": "XSHG 7/11. Kết quả xổ số Hậu Giang hôm nay ngày 7/11/2026. SXHG ngày 7/11",
-          "url": "https://bnews.vn/xshg-7-11-ket-qua-xo-so-hau-giang-hom-nay-ngay-7-11-2026-sxhg-ngay-7-11/443095.html",
-          "source": "Bnews.vn"
+          "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
+          "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "이승민",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T11:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMrvlUEmMFOsO6sQOgYP1jzS_aPOKCa6_vFkyKPkoNKcx02D4tZS8IrxoOIFw",
+      "keyword": "장유빈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T13:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8wni8WjWz6s-97DdHY6KKDPfzA3uILvq3KaYA-6F4iy1Y3WJQyRLTy7o09-M",
       "category": "기타",
       "news": [
         {
-          "title": "역투하는 이승민",
-          "url": "https://mobile.newsis.com/photo/NISI20261106_0021522728",
+          "title": "‘스코어카드 반대로 썼다’… 장유빈 KPGA 최종전 실격, 상금·대상 2관왕 무산",
+          "url": "https://www.chosun.com/national/people/2026/11/06/WUGH7AT4N5DH5IDTBW6OFLVDZE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "황재민, 초속 13ｍ 강풍에도 66타…KPGA 투어챔피언십 2R 선두",
+          "url": "https://www.yna.co.kr/view/AKR20261106162900007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "옥태훈·왕정훈, 최종전 KPGA 투어챔피언십 1R 공동 선두",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022551",
+          "source": "골프한국"
+        }
+      ]
+    },
+    {
+      "keyword": "sbs",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T12:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy5uauZDkruJdSAAtCHvsD9KEebER6QlimryCyxGwu2pOBPafGMrqyK5cVJdE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Fire Breaks Out at Muan Pig Farm... Estimated 500 Pigs Dead",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008834812",
+          "source": "news.sbs.co.kr"
+        },
+        {
+          "title": "\"Koreans Can't Even Last 3 Months, but I Want to Work Here for Over 10 Years\"",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008834204",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "IES Global eyes expansion of study abroad, internship programs in Korea",
+          "url": "https://www.koreatimes.co.kr/southkorea/education/20261104/ies-global-eyes-expansion-of-study-abroad-internship-programs-in-korea",
+          "source": "The Korea Times"
+        }
+      ]
+    },
+    {
+      "keyword": "류효영",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T12:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjzPkGAUE5G11JfjxUefUGO7ibS-G33dkPINJTGWj4ue-q1LWE05mRTx6RQY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "이태성, '11살 연하♥' 김요한에 송곳 돌직구 \"안 미안하냐\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/06/MMZTKMTCGI2DKNBZGZRTIMBXMU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[선공개] “오빠한테 관심 있다고 말하고 싶었어” 태성과 효영은 둘만의 새로운 이야기를 써 내려갈 수 있을까?",
+          "url": "https://ichannela.com/program/clip/000000558568.do",
+          "source": "채널A"
+        },
+        {
+          "title": "이태성 \"좋은 친구로 남기로\"…소개팅 상대와 만남 마무리",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346168",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "박승규",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T12:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFSvSi3KGhdT_EHDFXoTEoYhRfMR2SE5-43PDBaDtAy3q4yV_OwCQArcc_mcE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "박승규, '좋았어'",
+          "url": "https://www.newsis.com/view/NISI20261106_0021522762",
           "source": "뉴시스"
         },
         {
-          "title": "[사진]8회 마운드 오른 삼성 이승민, '리드 지킨다'",
-          "url": "http://www.osen.co.kr/article/G1112905525",
+          "title": "'특급 조커' 박승규가 쐐기포 작렬! 삼성 기다리던 추가점 터졌다...5-1, 승리 9부 능선 극복 [KS3]",
+          "url": "https://www.osen.co.kr/article/G1112905542",
           "source": "OSEN"
         },
         {
-          "title": "[사진]KS 2차전 8회 동점 상황에서 출격한 삼성 이승민 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/04/202611042114771314O",
+          "title": "[사진]구자욱, 박승규 'KS 3차전 솔로포에 뜨거운 포옹'",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GBTGKMZRGM4TSMBVMMYWIMBSGM/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이혜정",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T12:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYkBiVKfWuKOruR9hUSjwFvwQL72oP5neC8DAUprKW8QZMmWKHznmYZkkr0NQ",
+      "category": "연예",
+      "news": [
+        {
+          "title": "이혜정, 2년 전 절연한 아들 생각에 눈물…“언젠가는 화해하겠지”",
+          "url": "https://www.segye.com/newsView/20261106503569",
+          "source": "세계일보"
+        },
+        {
+          "title": "이혜정, '남편팔이' 욕먹었는데 \"'외도' 남편 흉 안봤더니 예능 끊겨\" 씁쓸",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GYZWCMZUGM2GMOJUMZSDCNTBGM/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "\"언젠가 화해하겠지\"…이혜정, 절연한 아들 떠올리며 눈물 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/05/2026110522264821288",
           "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "장찬희",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T12:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrlUsKNFK2k0DfKp1kWvqdcJQSHNbQ6IxNAuXxZr8h9BnwL93d7q28S5oCz8Q",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "대반전! 삼성, 4차전 선발 장찬희 깜짝 예고! → KT는 예상대로 로건 [KS3 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MFTGMNJXGBTDSMLDG5SDONRUGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "kt 좌완 로건, KS 4차전 선발 복귀…\"이기는 데만 집중해\"",
+          "url": "https://www.yna.co.kr/view/AKR20261104138900007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "좌타가 지배하는 2026 한국시리즈…디아즈·힐리어드 봉쇄령",
+          "url": "https://www.dailian.co.kr/news/view/1710953/%EC%A2%8C%ED%83%80-%EC%A7%80%EB%B0%B0%ED%95%98%EB%8A%94-2026-%ED%95%9C%EA%B5%AD%EC%8B%9C%EB%A6%AC%EC%A6%88%EB%94%94%EC%95%84-2026",
+          "source": "데일리안"
+        }
+      ]
+    },
+    {
+      "keyword": "현장르포 특종세상",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T12:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH28UrrTR67Y7ei8cygV4YGiYSWmAmDBGrcDBy_jBqYpfQ_trgbRE04UqOfA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
+          "source": "머니투데이"
+        },
+        {
+          "title": "김세레나 \"100억 차용증 없이 빌려줘…사기로 전 재산 잃어\"",
+          "url": "https://www.newsis.com/view/NISX20261105_0003857049",
+          "source": "뉴시스"
+        },
+        {
+          "title": "김세레나 \"첫 남편 유부남, 재혼은 건달…아파트 두 채 건네고 겨우 이혼\"",
+          "url": "https://www.news1.kr/society/general-society/6345136",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "마이클세일러",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T11:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9Q4lii9EWr9X22nRQWtLZEHgVV6o9L9uNjBeWWC8A2zWaFQHRNxCkSmweHo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "AI 해커가 암호화폐 거래소 노린다…바이낸스 63억 달러 해킹 이어 또 보안 위기?",
+          "url": "https://www.coinreaders.com/267961",
+          "source": "코인리더스"
+        },
+        {
+          "title": "마이클 세일러 \"AI 해커, 디지털자산 산업 새 위협…비트코인 보다 거래소가 취약\"",
+          "url": "https://www.blockmedia.co.kr/archives/1162198",
+          "source": "블록미디어"
+        },
+        {
+          "title": "바이낸스 해킹 후 암호화폐 새 적 나타나다…마이클 세일러 경고",
+          "url": "https://kr.beincrypto.com/michael-saylor-ai-hackers-binance-hack/",
+          "source": "BeInCrypto"
         }
       ]
     },
@@ -91,181 +270,6 @@
           "title": "올가홀푸드, 단백질·식이섬유 함께 담은 ‘저온로스팅 고단백&고식이섬유 한봉견과’ 출시",
           "url": "https://www.sportschosun.com/life/2026-11-06/202611060100044250004469",
           "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "최우식",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T11:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkA0U2zdsl7USVt4cec4sbU04n19itjBOoopY6GDxMy9d1Z1yZNUy0SlrOZw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "최우식 측, '승무원 갑질' 의혹에 법적 대응 예고…\"허위 사실, 선처 없다\"",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611061727265969",
-          "source": "YTN"
-        },
-        {
-          "title": "최우식 측, '기내 태도 루머' 법적 대응…\"선처 없다\"",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858309",
-          "source": "뉴시스"
-        },
-        {
-          "title": "최우식 측 \"허위 사실 유포, 명백한 불법 행위..법적 조치 예정\" [공식]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/06/HFSWGZJWGAZTCZJQMYZDAYRRGA/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김상수",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T11:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIgA6G5M0JDtZbsKJ7pOmmo2ITrSOMHjGAIUJsLyBCVbOqNlc9IeWaklywgAs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[사진]김상수, 3차전 선발 라인업",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GE3TKOBUHFRTOOJZME2GIYRSGI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'우승 반지 4개인데 12년째 무관이라니...' KT로 라팍 돌아온 삼성 왕조 주역 뜻밖의 고백 \"그땐 우승이 당연한 줄 알았다\" [KS3 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110610474037653",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘오직 우승’ 전직 삼성맨 부상 투혼 미쳤다! 타구 강타→사흘 만에 출전 강행 “원래 걷는 것도 불편했는데…” [KS3]",
-          "url": "http://www.osen.co.kr/article/G1112905239",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "안현민",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T10:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx3fOjRwVWOdH1ZpXgV9cwRAszJywyNdx9k_meT0pQya3RjMzTFTbSzUEUSpc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "안현민의 투런 홈런으로 격차 벌리는 KT 위즈",
-          "url": "https://www.news1.kr/photos/8195289",
-          "source": "뉴스1"
-        },
-        {
-          "title": "\"도영아, 보고있니?\" PO 홈런 김도영에 연락했다는 안현민이 KS 홈런 치고 김도영에게 보낸 메시지 [베이스볼S]",
-          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89154/22000639319",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "[사진]디아즈 적시타에 기뻐하는 삼성 라이온즈",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GEZDAY3FGA4DAZJXG4YDSMBXME/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김현수",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T10:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPo0l-rHnSWuNBnF6NAds-3mUDgWCIAjqMB4OUPJhATksc45GUL8Z-ory7gcA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "KT 김현수, PS 통산 109경기로 최다 타이기록…홍성흔과 동률[KS]",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858580",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[사진]위기 탈출 기뻐하는 후라도, 7이닝 1실점",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GA3TENTEGFRGGYLEGIZDENZQGU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "승리에 한걸음 앞서",
-          "url": "https://www.news1.kr/photos/8195457",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "마이클세일러",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T11:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9Q4lii9EWr9X22nRQWtLZEHgVV6o9L9uNjBeWWC8A2zWaFQHRNxCkSmweHo",
-      "category": "경제",
-      "news": [
-        {
-          "title": "AI 해커가 암호화폐 거래소 노린다…바이낸스 63억 달러 해킹 이어 또 보안 위기?",
-          "url": "https://www.coinreaders.com/267961",
-          "source": "코인리더스"
-        },
-        {
-          "title": "마이클 세일러 \"AI 해커, 디지털자산 산업 새 위협…비트코인 보다 거래소가 취약\"",
-          "url": "https://www.blockmedia.co.kr/archives/1162198",
-          "source": "블록미디어"
-        },
-        {
-          "title": "바이낸스 해킹 후 암호화폐 새 적 나타나다…마이클 세일러 경고",
-          "url": "https://kr.beincrypto.com/michael-saylor-ai-hackers-binance-hack/",
-          "source": "BeInCrypto"
-        }
-      ]
-    },
-    {
-      "keyword": "kt wiz",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T10:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-JBHXidRKUb-_6GTjj0ya12pgeq_krbgC7mxsUy_ZoiKqoWZeRrsPh_GO7o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Samsung Lions Lead 2-1, 88.9% Title Chance",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/06/FVUPAIFGEFGTNJ62YJJDPOMNMU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Park Seunggyu's Eighth-Inning Home Run Extends Samsung's Lead to 5-1",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/06/4K2KJP3OZJHH5HKD57ZG4YAM24/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Samsung's Park Seung-gyu Overcomes Super Catch in Korean Series",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/06/RKADQFL3V5AVTOZ2K4A5D3Z35U/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "힐리어드",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T10:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU2kDfQaNBYeeHdSzx4N356BwNOvOOp5wzwWgbBaUI3yTyYC1hCuzFcdBU7y4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[포토] 힐리어드, 빅토리 데이 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110618592665361",
-          "source": "머니투데이"
-        },
-        {
-          "title": "부상 악재 대반전! 1위팀 1회부터 삼성 에이스 공략 성공…44홈런 외인 거포 선제 2루타 쾅 ‘KT 1-0 리드’ [KS3]",
-          "url": "https://www.osen.co.kr/article/G1112905305",
-          "source": "OSEN"
-        },
-        {
-          "title": "[사진] 구자욱, 동료들과 함께 한 짜릿한 2타점 3루타",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MYYDEM3BME4DSMRXG4ZGKMDBGA/",
-          "source": "Chosunbiz"
         }
       ]
     }
