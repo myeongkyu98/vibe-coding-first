@@ -1,28 +1,20 @@
 {
-  "updatedAt": "2026-11-06T15:43:12.422Z",
+  "updatedAt": "2026-11-06T16:45:22.220Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
       "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
-      "count": 1
+      "count": 2
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     },
     {
@@ -31,6 +23,31 @@
     }
   ],
   "items": [
+    {
+      "keyword": "유튜버",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-06T15:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1K1ZtEUaiQluHb8X7SXyNpyTJ114McnkQTHu2i4GL9hbz6rgTZTctZjZIWgo",
+      "category": "연예",
+      "news": [
+        {
+          "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
+          "url": "https://sports.khan.co.kr/article/202611061749003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
+          "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'지적장애女 학대 의혹' 유튜버 카광, 가학 생방송 전말 고발된다",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858579",
+          "source": "뉴시스"
+        }
+      ]
+    },
     {
       "keyword": "숲",
       "traffic": "2000+",
@@ -57,34 +74,9 @@
       ]
     },
     {
-      "keyword": "디씨",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T13:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhjY89PfgF0MVkaZg-NT1XIXo6_6AyJlIKlK2UF3tb46Nm6wbnZU4CopS4_UI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Hegseth expands National Guard presence in DC",
-          "url": "https://www.politico.com/news/2026/11/05/hegseth-expands-d-c-national-guard-presence-01151398",
-          "source": "Politico"
-        },
-        {
-          "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "National Guard gets boats and Humvees as D.C. leaders seek to oust troops",
-          "url": "https://www.washingtonpost.com/dc-md-va/2026/11/05/national-guard-adding-boats-humvees-dc-leaders-hope-oust-troops/",
-          "source": "The Washington Post"
-        }
-      ]
-    },
-    {
       "keyword": "장유빈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-06T13:00:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8wni8WjWz6s-97DdHY6KKDPfzA3uILvq3KaYA-6F4iy1Y3WJQyRLTy7o09-M",
       "category": "기타",
@@ -107,12 +99,37 @@
       ]
     },
     {
+      "keyword": "t1 kc",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T15:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwE33-8l4MduKUQA8oXa_yLNjWIeJDgkCQYVxuHstm14lWlWVNtnWfkNx52YY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패",
+          "url": "https://www.yna.co.kr/view/AKR20261106093800017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[롤드컵]젠지, 4강서 중국 IG와 격돌…한중 자존심 대결",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856558",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[롤드컵 톡톡] \"과거 기록 의미 없어, 다음 무대 중요\"... BLG '온' 러원쥔의 4강 출사표",
+          "url": "https://www.osen.co.kr/article/G1112905616",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
       "keyword": "노태문",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-06T14:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShMQaACt3dixVo-xxLxyhClDvQb1pctpirj--N1_4b233I3d_nIAy54r9STU8",
-      "category": "IT·과학",
+      "category": "경제",
       "news": [
         {
           "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
@@ -120,9 +137,9 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "삼성전자 노태문 사장, 자사주 3천주 매입…책임 경영 행보",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106173527nt6",
-          "source": "연합뉴스TV"
+          "title": "노태문 삼성전자 사장, 증시 급락 속 자사주 6.3억원 어치 매입 \"책임경영\"",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858472",
+          "source": "뉴시스"
         },
         {
           "title": "'20만전자' 무너지자…삼성전자 노태문, '3000주' 6억3000만원 규모 추가 매입",
@@ -132,102 +149,77 @@
       ]
     },
     {
+      "keyword": "dc",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T14:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1Pq9w_bfIh5JwGEFBLTIa-u7TCyEiM4urvD7I93YZ33xNiyy8w3PHdphBq1k",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Trump’s D.C. arch gets key approval, then blocked by judge",
+          "url": "https://www.oregonlive.com/nation/2026/11/trumps-dc-arch-gets-key-approval-then-blocked-by-judge.html",
+          "source": "OregonLive.com"
+        },
+        {
+          "title": "Judge blocks construction of Trump’s arch within an hour of its final approval",
+          "url": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
+          "source": "CNN"
+        }
+      ]
+    },
+    {
+      "keyword": "디씨",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T13:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhjY89PfgF0MVkaZg-NT1XIXo6_6AyJlIKlK2UF3tb46Nm6wbnZU4CopS4_UI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Hegseth expands National Guard presence in DC",
+          "url": "https://www.politico.com/news/2026/11/05/hegseth-expands-d-c-national-guard-presence-01151398",
+          "source": "Politico"
+        },
+        {
+          "title": "DC councilmember advocates for National Guard withdrawal",
+          "url": "https://www.nbcwashington.com/news/local/dc-councilmember-advocates-for-national-guard-withdrawal/4178875/",
+          "source": "NBC4 Washington"
+        },
+        {
+          "title": "National Guard gets boats and Humvees as D.C. leaders seek to oust troops",
+          "url": "https://www.washingtonpost.com/dc-md-va/2026/11/05/national-guard-adding-boats-humvees-dc-leaders-hope-oust-troops/",
+          "source": "The Washington Post"
+        }
+      ]
+    },
+    {
       "keyword": "이혜정",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-06T12:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOwufyj0cXS_aJ2KpISr9mZh4-c0NMp5BxElMXPWHjKIrUJv1NA0jp1ndZ1jY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYkBiVKfWuKOruR9hUSjwFvwQL72oP5neC8DAUprKW8QZMmWKHznmYZkkr0NQ",
       "category": "연예",
       "news": [
         {
-          "title": "아들과 절연한 이혜정 \"언젠가 화해할 날 있겠지\" 눈물",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858051",
-          "source": "뉴시스"
+          "title": "이혜정, 2년 전 절연한 아들 생각에 눈물…“언젠가는 화해하겠지”",
+          "url": "https://www.segye.com/newsView/20261106503569",
+          "source": "세계일보"
+        },
+        {
+          "title": "이혜정, '절연' 아들 생각에 '후회·눈물' \"결혼하고 변해..화해할 날 오길\"[핫피플]",
+          "url": "https://www.koreadaily.com/article/20261105014133164",
+          "source": "미주중앙일보"
         },
         {
           "title": "이혜정, '남편팔이' 욕먹었는데 \"'외도' 남편 흉 안봤더니 예능 끊겨\" 씁쓸",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GYZWCMZUGM2GMOJUMZSDCNTBGM/",
           "source": "Chosunbiz"
-        },
-        {
-          "title": "‘빅마마’ 이혜정 “남편 욕 안했더니 방송 끊겨”…아들과 갈등 고백하며 눈물도",
-          "url": "https://sports.khan.co.kr/article/202611061225003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "장찬희",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T12:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcpfo_9FiEK7RRD4DlS1UJ__R6YvxAG6dDGYO7uU5L5YGH6-fTF-9E_jumvs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "대반전! 삼성, 4차전 선발 장찬희 깜짝 예고! → KT는 예상대로 로건 [KS3 현장]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MFTGMNJXGBTDSMLDG5SDONRUGM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "삼성 신인 잘하면 韓 야구 역사가 바뀐다…'19살 1개월 2일' 장찬희 하루 차이로 최연소 선발은 무산, 대신 더 큰 것 온다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018248",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "KT 로건 vs 삼성 '루키' 장찬희 깜짝 선발…KS 4차전서 선발 맞대결",
-          "url": "https://www.news1.kr/sports/baseball/6346226",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "현장르포 특종세상",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T12:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnH28UrrTR67Y7ei8cygV4YGiYSWmAmDBGrcDBy_jBqYpfQ_trgbRE04UqOfA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
-          "source": "머니투데이"
-        },
-        {
-          "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
-          "url": "https://www.segye.com/newsView/20261106501275",
-          "source": "세계일보"
-        },
-        {
-          "title": "79세 김세레나, 불법 성형 시술 부작용 고백…“세월에 장사 없더라, 안 늙으려 발악”",
-          "url": "https://www.sedaily.com/article/20110967",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "sbs",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDqUbJ4yy9DIuj28qJxKedL8n-xHCrhhDaEXEjFS5mKerXuzB0RNJTJVtVLCc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Magnitude 6.1 Earthquake Hits Waters Off Chiba City, Chiba Prefecture, Japan",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008834827",
-          "source": "news.sbs.co.kr"
-        },
-        {
-          "title": "6.2-magnitude quake hits off Honshu coast",
-          "url": "https://breakingthenews.net/Article/6.2-magnitude-quake-hits-off-Honshu-coast/67504737",
-          "source": "Breakingthenews.net"
-        },
-        {
-          "title": "Magnitude-6.1 earthquake hits off Tokyo, no tsunami alert: weather agency",
-          "url": "https://www.thehindu.com/news/international/tokyo-japan-earthquake-weather-updates-november-6-2026/article71674193.ece",
-          "source": "The Hindu"
         }
       ]
     },
