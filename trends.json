@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-06T16:45:22.220Z",
+  "updatedAt": "2026-11-06T17:43:24.348Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "연예",
+      "category": "정치·사회",
       "count": 2
     },
     {
@@ -14,37 +14,62 @@
       "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "임형주",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-06T16:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGOr9gtV_edAkk7HHW5F5nuPONKDHsrxs5BPHR3tbr5YcFR4z3V6FqHrXIPW8",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
+          "url": "https://cine21.com/news/view/?mag_id=111222",
+          "source": "씨네21"
+        },
+        {
+          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
+          "url": "https://www.kyeonggi.com/article/20261105580023",
+          "source": "경기일보"
+        },
+        {
+          "title": "나흘 내내 故최불암 곁 지킨 김혜수 “추모해 준 모든 분께 감사”",
+          "url": "https://www.joongang.co.kr/article/25475818",
+          "source": "중앙일보"
+        }
+      ]
+    },
+    {
       "keyword": "유튜버",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-06T15:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1K1ZtEUaiQluHb8X7SXyNpyTJ114McnkQTHu2i4GL9hbz6rgTZTctZjZIWgo",
-      "category": "연예",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWvP0OnxB4ILJ6-sgoXwctHFDx1wi0Vv7Z_QG-WZEJYgXfwwI8gBk2gIk_vw",
+      "category": "정치·사회",
       "news": [
-        {
-          "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
-          "url": "https://sports.khan.co.kr/article/202611061749003",
-          "source": "스포츠경향"
-        },
         {
           "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
           "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1",
           "source": "스포츠동아"
         },
         {
-          "title": "'지적장애女 학대 의혹' 유튜버 카광, 가학 생방송 전말 고발된다",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858579",
-          "source": "뉴시스"
+          "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
+          "url": "https://sports.khan.co.kr/article/202611061749003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "[다시보기] 궁금한 이야기 Y 802회",
+          "url": "https://programs.sbs.co.kr/culture/cube/vod/54887/22000639439",
+          "source": "programs.sbs.co.kr"
         }
       ]
     },
@@ -53,23 +78,23 @@
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-06T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxFGmTfx88dmE7PluHcabDCecZqcVfmsWKBdBmAFn4uloR4Q_uqw42OQR6ITA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEw-e-pCSE_teNEQrsCPGuPMdNmMiH6cMvpxPb68TUJGir_aTjvoJPK55zqf4",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "숲에서 시작하는 여행, '대한민국 구석구석'에서 만나보세요!",
-          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788202&pWise=sub&pWiseSub=C4",
-          "source": "대한민국 정책브리핑"
+          "title": "황금빛 단풍에 예술 한 스푼…서울대공원 가을축제 ‘예술로 물드는 숲’",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261106500191",
+          "source": "서울Pn"
         },
         {
-          "title": "\"주변 명품숲 어디지?\"...전국 100대 숲, 여행 플랫폼서 만난다",
-          "url": "https://www.fnnews.com/news/202611061216148824",
-          "source": "파이낸셜뉴스"
+          "title": "[포토뉴스]스치듯 만지듯 만추 속으로",
+          "url": "https://www.khan.co.kr/article/202611052109035",
+          "source": "경향신문"
         },
         {
-          "title": "산림청 ‘대한민국 구석구석’ 사이트에서 100대 명품숲 위치 소개",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026110611070825250",
-          "source": "부산일보"
+          "title": "단풍 물든 서울대공원서 가을축제…전시·공연 즐긴다",
+          "url": "https://www.newsis.com/view/NISX20261106_0003857740",
+          "source": "뉴시스"
         }
       ]
     },
@@ -95,6 +120,31 @@
           "title": "옥태훈·왕정훈, 최종전 KPGA 투어챔피언십 1R 공동 선두",
           "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022551",
           "source": "골프한국"
+        }
+      ]
+    },
+    {
+      "keyword": "디씨",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T13:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1Pq9w_bfIh5JwGEFBLTIa-u7TCyEiM4urvD7I93YZ33xNiyy8w3PHdphBq1k",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Judge blocks construction of Trump’s proposed Washington arch",
+          "url": "https://www.staradvertiser.com/2026/11/06/breaking-news/judge-blocks-construction-of-trumps-proposed-washington-arch/",
+          "source": "Honolulu Star-Advertiser"
+        },
+        {
+          "title": "Judge blocks Trump arch hours after federal panel approval",
+          "url": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ]
     },
@@ -149,84 +199,9 @@
       ]
     },
     {
-      "keyword": "dc",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T14:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1Pq9w_bfIh5JwGEFBLTIa-u7TCyEiM4urvD7I93YZ33xNiyy8w3PHdphBq1k",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Trump’s D.C. arch gets key approval, then blocked by judge",
-          "url": "https://www.oregonlive.com/nation/2026/11/trumps-dc-arch-gets-key-approval-then-blocked-by-judge.html",
-          "source": "OregonLive.com"
-        },
-        {
-          "title": "Judge blocks construction of Trump’s arch within an hour of its final approval",
-          "url": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
-          "source": "CNN"
-        }
-      ]
-    },
-    {
-      "keyword": "디씨",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T13:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhjY89PfgF0MVkaZg-NT1XIXo6_6AyJlIKlK2UF3tb46Nm6wbnZU4CopS4_UI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Hegseth expands National Guard presence in DC",
-          "url": "https://www.politico.com/news/2026/11/05/hegseth-expands-d-c-national-guard-presence-01151398",
-          "source": "Politico"
-        },
-        {
-          "title": "DC councilmember advocates for National Guard withdrawal",
-          "url": "https://www.nbcwashington.com/news/local/dc-councilmember-advocates-for-national-guard-withdrawal/4178875/",
-          "source": "NBC4 Washington"
-        },
-        {
-          "title": "National Guard gets boats and Humvees as D.C. leaders seek to oust troops",
-          "url": "https://www.washingtonpost.com/dc-md-va/2026/11/05/national-guard-adding-boats-humvees-dc-leaders-hope-oust-troops/",
-          "source": "The Washington Post"
-        }
-      ]
-    },
-    {
-      "keyword": "이혜정",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T12:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYkBiVKfWuKOruR9hUSjwFvwQL72oP5neC8DAUprKW8QZMmWKHznmYZkkr0NQ",
-      "category": "연예",
-      "news": [
-        {
-          "title": "이혜정, 2년 전 절연한 아들 생각에 눈물…“언젠가는 화해하겠지”",
-          "url": "https://www.segye.com/newsView/20261106503569",
-          "source": "세계일보"
-        },
-        {
-          "title": "이혜정, '절연' 아들 생각에 '후회·눈물' \"결혼하고 변해..화해할 날 오길\"[핫피플]",
-          "url": "https://www.koreadaily.com/article/20261105014133164",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "이혜정, '남편팔이' 욕먹었는데 \"'외도' 남편 흉 안봤더니 예능 끊겨\" 씁쓸",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GYZWCMZUGM2GMOJUMZSDCNTBGM/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
       "keyword": "삼성증권",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-06T14:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcWaNfylMhoiU9AVpgvwZ3V4m7FpMAuXfO9MrIGrMun9Z8UfDGS-hJ6LoXWl4",
       "category": "경제",
@@ -245,6 +220,31 @@
           "title": "한미약품·삼성증권, 27일 바이오벤처·투자자 교류 행사 개최",
           "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192626",
           "source": "주간한국"
+        }
+      ]
+    },
+    {
+      "keyword": "일론 머스크",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T15:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqf21qSMyw19y7kBBjznh0JUCRuDaaZ-p5QeUuImdaMfJcNbJCdpUzPfER8rA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’",
+          "url": "https://www.khan.co.kr/article/202611062104001",
+          "source": "경향신문"
+        },
+        {
+          "title": "E200 1000만원 낮춰 판매한 벤츠…BMW 제치고 2위 탈환",
+          "url": "https://www.sedaily.com/article/20110290",
+          "source": "서울경제"
+        },
+        {
+          "title": "“태극기에 테슬라 로고를 떡하니”…머스크가 올린 사진 ‘눈길’",
+          "url": "https://www.kyeonggi.com/article/20261106580392",
+          "source": "경기일보"
         }
       ]
     },
