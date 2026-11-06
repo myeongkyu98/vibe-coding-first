@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-06T22:35:40.189Z",
+  "updatedAt": "2026-11-06T23:31:50.962Z",
   "summary": [
     {
       "category": "기타",
       "count": 5
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
       "count": 1
     },
     {
@@ -18,168 +18,152 @@
       "count": 1
     },
     {
-      "category": "스포츠",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "옥주현",
+      "keyword": "치지직",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-06T20:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRb3uPM36z-3AThexqJwnf7MkwFk69AFwV_jU-aHZxfvpTfkHR6PMQXqxXDWSE",
+      "startedAt": "2026-11-06T22:00:00.000Z",
+      "picture": "",
       "category": "기타",
-      "news": [
-        {
-          "title": "190억에 산 한남더힐 경매로…\"옥주현 183억 빚\" 자금난 분석한 변호사",
-          "url": "https://www.news1.kr/society/general-society/6344223",
-          "source": "뉴스1"
-        },
-        {
-          "title": "“옥주현, 180억 대부업체 대출 추정…연이자만 20억 이상” 변호사 분석 [이슈픽]",
-          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/05/20261105500315",
-          "source": "TWIG"
-        },
-        {
-          "title": "옥주현 '한남더힐 190억' 매입과 대부업 대출…신사동 빌딩서 꼬인 '레버리지의 덫'",
-          "url": "https://www.newsis.com/view/NISX20261104_0003854597",
-          "source": "뉴시스"
-        }
-      ]
+      "news": []
     },
     {
-      "keyword": "은마아파트",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T21:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrTD5cqC5P6wIkc_vDU6l0VTN8G6lIrpHIGAG1L6b_ddR1_DftS2_j58TdyuA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "주택공급 발목잡는 재초환… 가구당 은마 4억, 반포현대 2억 내야",
-          "url": "https://www.chosun.com/economy/real_estate/2026/11/07/3FFT6HIJ7NG6JEFMGED6OS6BXA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "강남 재건축 덮친 재초환…은마 조합원당 4.6억[집슐랭]",
-          "url": "https://www.sedaily.com/article/20111382",
-          "source": "서울경제"
-        },
-        {
-          "title": "\"같은 평수 받으려면 9억?\"…은마아파트 집주인들 '날벼락'",
-          "url": "https://www.hankyung.com/article/2026110617271",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "패션",
+      "keyword": "적금",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-06T21:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRztQ79-NfUaOVa0JPR23vyxSQNFtr-iy4hRBA5AFLN9qv45AAaVYYS7rom_Vk",
-      "category": "기타",
+      "startedAt": "2026-11-06T22:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHfacYhcDCA28NpkWxuO42Bqq8tifJkNN26iLBssowBPEhV8AZbziDeJddZ0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Fashion Doesn’t Need Kanye West’s Yeezy",
-          "url": "https://www.nytimes.com/2026/11/05/style/yeezy-season-01-fashion-show-kanye-west.html",
-          "source": "The New York Times"
+          "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
+          "url": "https://stock.mk.co.kr/news/view/1192202",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "Yeezy Returns with LA Runway Show and JD Sports Partnership",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/yeezy-returns-with-la-runway-show-and-jd-sports-partnership",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "North West Looks So Different With Icy Blue Contacts and Bleached Eyebrows",
-          "url": "https://www.instyle.com/north-west-looks-so-different-icy-blue-contacts-bleached-eyebrows-12238621",
-          "source": "InStyle"
-        }
-      ]
-    },
-    {
-      "keyword": "비트코인",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T21:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqUAev99wo3eE39Y4A5mVYSyIXr4q9m0w8YxjNx5-S0iaWONfpoEAX1sF88pc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "블랙록 IBIT, 5거래일 연속 10억 4,000만 달러 이탈…나스닥 5.5% 급락 여파",
-          "url": "https://www.wikitree.co.kr/articles/1172576",
-          "source": "위키트리"
-        },
-        {
-          "title": "[ETF 특징주] 비트코인 펀드 이틀간 10억달러 '썰물' 바이낸스·중간선거 파장",
-          "url": "https://www.newspim.com/news/view/20261104001165",
+          "title": "BNK부산은행, BNK썸 농구단 응원 적금 출시…최고 금리 4.90%",
+          "url": "https://www.newspim.com/news/view/20261106000906",
           "source": "뉴스핌"
         },
         {
-          "title": "비트코인(BTC) 현물 ETF 12개 전부 '자금 유입 제로'…하루 5,859억 원 순유출",
-          "url": "https://www.coinreaders.com/268219",
-          "source": "코인리더스"
+          "title": "경기장 직관하면 금리 오른다… BNK부산은행, '농구 응원' 적금 선봬",
+          "url": "https://view.asiae.co.kr/article/2026110610503147434",
+          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "빈곤",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T20:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0-hz7FuCtBDYYUSnhUDlradAbuP8XQHItKWw0PtrsPkZJS-SBk-7i6ihB384",
+      "keyword": "하지수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T22:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGBkiAJwpLCPmcV3L29_roLcmnRypNoSmosZfvtNPrvSsVjR87lMFyLoIM_7w",
+      "category": "연예",
+      "news": [
+        {
+          "title": "이찬혁, 열애설 상대 하지수와 예능 포착… 손 꼭 잡고 스윙댄스",
+          "url": "https://www.hankookilbo.com/news/article/A2026110507590005515",
+          "source": "한국일보"
+        },
+        {
+          "title": "이찬혁, 열애설 하지수와 댄스 파트너…손잡고 스윙 댄스 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110419420737591",
+          "source": "머니투데이"
+        },
+        {
+          "title": "악뮤 이찬혁 회사, 주 4일제는 기본…직원 보증금·월세까지 지원 (전참시)",
+          "url": "https://sports.khan.co.kr/article/202611010816003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T21:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tR1P8zylfWTz12VcuGxk06Mwaff0tR1mCLYGyuPYT06WCPO0BF3qMW-ylVw",
       "category": "기타",
       "news": [
         {
-          "title": "하안구는 2026년 '빈곤층 지원 기금'에 2억 8900만 VND 이상의 기부금을 받았습니다.",
-          "url": "https://www.vietnam.vn/ko/phuong-ha-an-tiep-nhan-tren-289-trieu-dong-ung-ho-quy-vi-nguoi-ngheo-nam-2026",
-          "source": "Vietnam.vn"
+          "title": "“손흥민 발롱도르 축하 메시지는?” 묻자···케인, 활짝 웃으며 답했다",
+          "url": "https://www.khan.co.kr/article/202611062132001",
+          "source": "경향신문"
         },
         {
-          "title": "꽝닌성, 빈곤층 기금 지원을 위해 약 170억 동 모금",
-          "url": "https://ko.laodong.vn/hoat-dong-mat-tran/quang-ninh-van-dong-gan-17-ti-dong-dang-ky-ung-ho-quy-vi-nguoi-ngheo-1795960.ldo",
-          "source": "Laodong.vn"
+          "title": "'일주일에 7억 2천만 원' \"단 1유로도 아깝지 않다!\" 바이에른 회네스, 케인 초대형 재계약에 대만족...발롱도르 수상자 향한 무한 신뢰 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611062039777851O",
+          "source": "머니투데이"
         },
         {
-          "title": "가난한 사람들을 향한 연민으로 손을 맞잡습니다.",
-          "url": "https://www.vietnam.vn/ko/noi-vong-tay-nhan-ai-vi-nguoi-ngheo",
-          "source": "Vietnam.vn"
+          "title": "'발롱도르' 케인, 뮌헨과 2029년까지 재계약…\"더 많은 트로피!\"",
+          "url": "https://www.yna.co.kr/view/AKR20261106024500007",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "데이터 센터",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T21:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgE6pC1pbnMHwQkr7EeSSN_jLTjqolLrYc5yTgBpL6d9b5ZPJxzLXaMYcBUbM",
+      "keyword": "vix",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8vhF9kotCfLXmWBT4UGGu8R4sCjHSQVFmhXCOVzJDKTZYF6qDM8_k0ZJSa1o",
       "category": "IT·과학",
       "news": [
         {
-          "title": "백악관 \"데이터센터, 지지하는 주지사 있는 곳으로 이전할 것\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443570",
-          "source": "연합인포맥스"
+          "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
+          "url": "https://www.reuters.com/business/wall-street-fear-gauge-jumps-most-since-liberation-day-ai-trade-stumbles-2026-11-05/",
+          "source": "Reuters"
         },
         {
-          "title": "美 민주당 승리에 반도체 비상…데이터센터 제동",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000453",
-          "source": "IT조선"
+          "title": "Investors' fears are at their peak in the U.S. stock market. This is due to the sharp drop in artifi..",
+          "url": "https://www.mk.co.kr/en/stock/12200729",
+          "source": "매일경제"
         },
         {
-          "title": "텍사스 \"데이터센터 멈춰야\"‥빅테크, 그래도 멈출 수 없다",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863799_37004.html",
-          "source": "MBC 뉴스"
+          "title": "The VIX volatility index just spiked 70%. Here's what history suggests comes next.",
+          "url": "https://finance.yahoo.com/markets/article/the-vix-volatility-index-just-spiked-70-heres-what-history-suggests-comes-next-125333946.html",
+          "source": "Yahoo Finance"
         }
       ]
     },
     {
-      "keyword": "기소",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T21:30:00.000Z",
+      "keyword": "스페이스x",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T22:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_Y4L6H2fozX_hfiitYkZC8MnaAR_a-xdzxdKwJjXgRyjeq9SCfTp6Ie8KVNk",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "美 민주당 압승 여파에 스페이스X 부도 위험 사상 최고치 By The Guru",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2163176",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "급락장 벗어난 스페이스X, 하루 만에 8.53% 반등… AI 사업 성장 기대와 규제 부담 교차",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846380",
+          "source": "제민일보"
+        },
+        {
+          "title": "테슬라·스페이스X의 폭락...일론 머스크도 '직격탄' [굿모닝경제]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611060839595906",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "서영교",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T22:00:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0qBmYadlGTvY7_VcjA04nJnSgFHYzbVJxP9T39jvWpR30h_DgQe5cAxEbtU",
-      "category": "기타",
+      "category": "정치·사회",
       "news": [
         {
           "title": "李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다",
@@ -187,89 +171,89 @@
           "source": "조선일보"
         },
         {
-          "title": "국민의힘, 한 달 만에 장외로…‘조작기소특검법’ 규탄",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261107053919WLg",
-          "source": "연합뉴스TV"
+          "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
+          "url": "https://www.munhwa.com/article/11629487",
+          "source": "문화일보"
         },
         {
-          "title": "‘조작기소 있었나’ 17개 사건 다시 본다…특검법 통과",
-          "url": "https://news.jtbc.co.kr/article/NB12326871",
-          "source": "JTBC"
+          "title": "‘조작기소 특검’ 파견검사 20명에 수사권… “구법 적용 위헌 소지”",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134982618/2",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "임영웅",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T21:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5Jsjv8NbnH43yLB9SBYHAlE-wophruxhrrgwRoHFV6b3FL5BSXGs14hV2SHs",
-      "category": "연예",
-      "news": [
-        {
-          "title": "임영웅, 공연 실황 영화 예고편 공개… “앞으로 10년도 함께”",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/P6I7OBIKH5BJFPZCELCE7TOAIA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "“영웅시대와 함께한 10년의 기적”…임영웅, 스타디움 감동 담은 예고편 공개",
-          "url": "https://www.viva100.com/article/20261106500158",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "눈앞엔 임영웅, 머리 위엔 불꽃…극장에서 되살리는 스타디움의 밤",
-          "url": "https://www.fnnews.com/news/202611060851550073",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "테일러 프리츠",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T21:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEP3PGR9hUIIct1uF24ihBPHPaZntt_CTrH5M8D6J5LxKPcjAT2LjihElwO6E",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Alcaraz saves 2 MPs, sinks Fritz in Paris late-night thriller",
-          "url": "https://www.atptour.com/en/news/alcaraz-fritz-paris-2026-friday",
-          "source": "ATP Tour"
-        },
-        {
-          "title": "Where to watch Carlos Alcaraz vs Taylor Fritz tennis for free today",
-          "url": "https://www.syracuse.com/tv/2026/11/where-to-watch-carlos-alcaraz-vs-taylor-fritz-tennis-for-free-today.html",
-          "source": "Syracuse.com"
-        },
-        {
-          "title": "Follow the quarter-finals of the Paris Masters LIVE!",
-          "url": "https://www.flashscore.com/news/paris-masters-live-scores-results-updates-alcaraz-shelton-paul-fritz-ruud-november-6-2026/QyBKYaMG/",
-          "source": "Flashscore.com"
-        }
-      ]
-    },
-    {
-      "keyword": "박유천",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T21:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdt2oWBPWWAfxU1N4zefLiRJ0ZbysPd7nV2kPSuX9kOpfLGcOoh9iEZtbafFo",
+      "keyword": "송해",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T21:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLJycXLCtd9-9aGAkzukdOeJ8mAZkQBsayLNxGLbDADI_g2NDAVEMlXolTu54",
       "category": "기타",
       "news": [
         {
-          "title": "[문화연예 플러스] 박유천, 일본 디너쇼 45만 원‥고가 논란",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863597_37012.html",
-          "source": "MBC 뉴스"
+          "title": "송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GYZDCYTFGQ4DMY3BME4TCMRYMY/",
+          "source": "조선일보"
         },
         {
-          "title": "기모노 입고 45만 원 티켓 홍보…박유천, ’일본 디너쇼’ 시끌",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106161721P8h",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "기모노 입고 초고가 디너쇼…박유천 日 디너쇼 가격 논란 [자막뉴스]",
-          "url": "https://ichannela.com/news/detail/000000558566.do",
+          "title": "디테일한 질문을 통해 가까워지는 해나&승우?! 그리고 타로 선생님 국주?!",
+          "url": "https://ichannela.com/program/clip/000000558837.do",
           "source": "채널A"
+        },
+        {
+          "title": "송해나, 6살 연하 변호사와 소개팅…이승철 주선",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346170",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "옥스퍼드 시티 fc 대 레스터 시티",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T21:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCscm3qI1DW7GsCXRFPngt9xFbe6yKB7Q5buFRK1Ox2GIzLckC4QgW9qhDESQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Oxford City 2-4 Leicester City: League One side advance in FA Cup",
+          "url": "https://www.bbc.com/sport/football/live/c98rz2612n2nt",
+          "source": "BBC"
+        },
+        {
+          "title": "Josh Ashby slots in the goal for Oxford City",
+          "url": "https://www.espn.com/video/clip/_/id/50401800/josh-ashby-slots-goal-oxford-city",
+          "source": "ESPN"
+        },
+        {
+          "title": "Pollock 'meant' goal from corner as Hoops bow out of cup",
+          "url": "https://ca.sports.yahoo.com/news/pollock-meant-goal-corner-hoops-230031534.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "박민지",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0tg_lFwooYHjZKAb0TIxaB8Vph-WJS6UFZTB5ZOXNRBqgtrRQb9_LeO6aZE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "귀국일 미룬 박민지·임진영·강채연, 나란히 합격권…JLPGA 프로테스트 최종일 승부",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05854806645643096&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "박민지, 'JLPGA 최종 프로테스트' 첫날 단독 2위…\"새로운 환경에서 도전 기대\"",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022539",
+          "source": "골프한국"
+        },
+        {
+          "title": "\"후회하기 싫었다\"…박민지, 日서 다시 신인으로",
+          "url": "https://www.hankyung.com/article/2026110211071",
+          "source": "한국경제"
         }
       ]
     }
