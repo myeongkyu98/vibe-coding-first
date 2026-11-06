@@ -1,200 +1,248 @@
 {
-  "updatedAt": "2026-11-06T11:45:54.750Z",
+  "updatedAt": "2026-11-06T12:52:54.865Z",
   "summary": [
-    {
-      "category": "스포츠",
-      "count": 4
-    },
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "경제",
-      "count": 1
+      "category": "스포츠",
+      "count": 4
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "퇴직",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-06T09:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSadM3XlpLOI-1XqpfI26Xu9AdFSeKC051alSAtaOZQGIv1mr45gZwAA0KBdXo",
-      "category": "경제",
+      "keyword": "xsmb",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T11:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTixzTiN6qAV1MPtvA5-oCrh5shJUtFK8b05fJBKjl0VD0ZURWSogqW1xd6fw8",
+      "category": "기타",
       "news": [
         {
-          "title": "정부, 퇴직연금 사업자와 제도 개편 논의…기금형 연금 안착 지원",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374453",
-          "source": "전기신문"
+          "title": "XSBD 6/11 - Kết quả xổ số Bình Dương ngày 6 tháng 11",
+          "url": "https://cafef.vn/xsbd-6-11-ket-qua-xo-so-binh-duong-ngay-6-thang-11-188261106163154116.chn",
+          "source": "CafeF"
         },
         {
-          "title": "연봉 7억인데 일 안하는 은행연합회장, 차라리 정치인에게?",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/06/2026110680001.html",
-          "source": "인베스트조선"
+          "title": "Xổ số miền Nam ngày 6 tháng 11: Dãy số giúp nhiều người trúng đài Trà Vinh",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-6-thang-11-day-so-giup-nhieu-nguoi-trung-dai-tra-vinh-185261106083235699.htm",
+          "source": "Báo Thanh Niên"
         },
         {
-          "title": "판 커지는 증권사 퇴직연금, 수익률·편의성 경쟁 '활발'",
-          "url": "https://www.etnews.com/20261105000148",
-          "source": "전자신문"
+          "title": "XSHG 7/11. Kết quả xổ số Hậu Giang hôm nay ngày 7/11/2026. SXHG ngày 7/11",
+          "url": "https://bnews.vn/xshg-7-11-ket-qua-xo-so-hau-giang-hom-nay-ngay-7-11-2026-sxhg-ngay-7-11/443095.html",
+          "source": "Bnews.vn"
         }
       ]
     },
     {
-      "keyword": "후라도",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFERH4_cPLJz6-L41aaHhAWafQN9AFEjIZ3E9emjPM_RPKsjcfkivk7i6a3ik",
-      "category": "스포츠",
+      "keyword": "이승민",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T11:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMrvlUEmMFOsO6sQOgYP1jzS_aPOKCa6_vFkyKPkoNKcx02D4tZS8IrxoOIFw",
+      "category": "기타",
       "news": [
         {
-          "title": "한국시리즈 3차전, 전설과 무대가 만난다..... 이승엽 시구·김소현 애국가…야구팬 기대감 고조",
-          "url": "http://www.jemin.com/news/articleView.html?idxno=846362",
-          "source": "제민일보"
-        },
-        {
-          "title": "[사진]선취 타점 힐리어드, 시작하자마자 KT가 앞서간다",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/ME3TCMDCMEZDMY3EGM4DMMBZGU/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "'국민타자' 이승엽, 삼성라이온즈파크에 뜬다…3차전 시구[KS]",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858363",
+          "title": "역투하는 이승민",
+          "url": "https://mobile.newsis.com/photo/NISI20261106_0021522728",
           "source": "뉴시스"
+        },
+        {
+          "title": "[사진]8회 마운드 오른 삼성 이승민, '리드 지킨다'",
+          "url": "http://www.osen.co.kr/article/G1112905525",
+          "source": "OSEN"
+        },
+        {
+          "title": "[사진]KS 2차전 8회 동점 상황에서 출격한 삼성 이승민 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/04/202611042114771314O",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "안양 정관장 대 서울 sk",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T10:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "야구중계",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T09:50:00.000Z",
-      "picture": "",
-      "category": "스포츠",
-      "news": []
-    },
-    {
-      "keyword": "nepal premier league",
+      "keyword": "식이",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-06T10:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE72OYOJvYhqM4_uiGksRAQHX7vB_ri7ltCNNxjX8sWYY9CLCQwBnhb5NTU1E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "16th Match, Nepal Premier League at Kirtipur, Nov 6 2026",
-          "url": "https://www.espn.in/cricket/series/23081/scorecard/1558597/karnali-yaks-npl-vs-sudur-paschim-royals-npl-16th-match-nepal-premier-league-2026-27",
-          "source": "ESPN India"
-        },
-        {
-          "title": "Sudurpaschim Royals set 177-run target for Karnali Yaks in NPL",
-          "url": "https://english.nepalnews.com/s/sports/sudurpaschim-royals-set-177-run-target-for-karnali-yaks-in-npl/",
-          "source": "Nepalnews.com"
-        },
-        {
-          "title": "NPL 2026 match predictions: Royals take on Yaks as Rhinos face Avengers on November 6",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-16th-17th-match-royals-vs-yaks-rhinos-vs-avengers-6th-november/114199.htm",
-          "source": "Cricket World"
-        }
-      ]
-    },
-    {
-      "keyword": "kt vs samsung",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T10:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHVhdUf4VZUh1IMyvOy9qQwCLgd-3nlaOQKKlMZmb0j4nfLWyE2QtO0IFr-dk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "LIVE: KT Wiz vs. Samsung Lions in Korean Series Game 3",
-          "url": "https://www.koreajoongangdaily.com/sports/live-kt-wiz-vs-samsung-lions-in-korean-series-game-3/12960263",
-          "source": "Korea JoongAng Daily"
-        },
-        {
-          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Leading 8-0, could you have imagined the closer taking the mound? Four pitchers couldn't even hold out for two innings... Manager Lee Kang-cheol's concerns become reality",
-          "url": "https://www.starnewskorea.com/en/sports/2026/11/04/2026110323302742907",
-          "source": "스타뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "kt 삼성",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T10:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSomABI7MtnjE1XSxgZADjBveT_kE2Wenyz4FY1XWCOYjwbZ7STbCZcskI3i7k",
+      "startedAt": "2026-11-06T11:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNYj3-hVgVAKPA5gyy7QZgpsarcQt02sBz_wrD8jaWsDlFGEHpmp_ULl7rM2Y",
       "category": "IT·과학",
       "news": [
         {
-          "title": "KT·삼성전자, AI로 고속철도 통신 끊김 29% 줄였다",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374397",
-          "source": "전기신문"
+          "title": "풀무원 올가홀푸드, 단백질 5g·식이섬유 3g 담은 '한봉견과'",
+          "url": "https://www.newspim.com/news/view/20261106000055",
+          "source": "뉴스핌"
         },
         {
-          "title": "“열차 안이라 잘 안들려”…KT, 차내 통신 끊김 막을 기술 개발",
-          "url": "https://www.sedaily.com/article/20110805",
-          "source": "서울경제"
+          "title": "올가홀푸드, 견과류 7종을 배합한 저온 로스팅 한봉견과 내놓아",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611060830144152204ead0791_12",
+          "source": "로이슈"
         },
         {
-          "title": "KT·삼성전자, 시속 250km 고속철 '통신 끊김' AI로 잡는다",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217041",
-          "source": "AI타임스"
+          "title": "올가홀푸드, 단백질·식이섬유 함께 담은 ‘저온로스팅 고단백&고식이섬유 한봉견과’ 출시",
+          "url": "https://www.sportschosun.com/life/2026-11-06/202611060100044250004469",
+          "source": "스포츠조선"
         }
       ]
     },
     {
-      "keyword": "구자욱",
+      "keyword": "최우식",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-06T10:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdNGVknjD0-PFdIatH8VA4Iyr8r2gQu_uxDuMBvEI03uLiFS48uJDc9pTS1OM",
+      "startedAt": "2026-11-06T11:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkA0U2zdsl7USVt4cec4sbU04n19itjBOoopY6GDxMy9d1Z1yZNUy0SlrOZw",
       "category": "기타",
       "news": [
         {
-          "title": "[사진] 구자욱, 리드폭 늘리고 더그아웃 분위기 업",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/GU3TOYLGG5RDIOBXMQ3WCYRQGQ/",
-          "source": "Chosunbiz"
+          "title": "최우식 측, '승무원 갑질' 의혹에 법적 대응 예고…\"허위 사실, 선처 없다\"",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611061727265969",
+          "source": "YTN"
         },
         {
-          "title": "[사진]2타점 적시타 환호하는 구자욱",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/HAZDMY3DMQYTGOLEHA3TOOLEGU/",
+          "title": "최우식 측, '기내 태도 루머' 법적 대응…\"선처 없다\"",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858309",
+          "source": "뉴시스"
+        },
+        {
+          "title": "최우식 측 \"허위 사실 유포, 명백한 불법 행위..법적 조치 예정\" [공식]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/06/HFSWGZJWGAZTCZJQMYZDAYRRGA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김상수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T11:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIgA6G5M0JDtZbsKJ7pOmmo2ITrSOMHjGAIUJsLyBCVbOqNlc9IeWaklywgAs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[사진]김상수, 3차전 선발 라인업",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GE3TKOBUHFRTOOJZME2GIYRSGI/",
           "source": "조선일보"
         },
         {
-          "title": "부상에 체력 이슈에도 헌신…삼성 베테랑 강민호·구자욱의 투혼[KS]",
-          "url": "https://www.news1.kr/sports/baseball/6344305",
+          "title": "'우승 반지 4개인데 12년째 무관이라니...' KT로 라팍 돌아온 삼성 왕조 주역 뜻밖의 고백 \"그땐 우승이 당연한 줄 알았다\" [KS3 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110610474037653",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘오직 우승’ 전직 삼성맨 부상 투혼 미쳤다! 타구 강타→사흘 만에 출전 강행 “원래 걷는 것도 불편했는데…” [KS3]",
+          "url": "http://www.osen.co.kr/article/G1112905239",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "안현민",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T10:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx3fOjRwVWOdH1ZpXgV9cwRAszJywyNdx9k_meT0pQya3RjMzTFTbSzUEUSpc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "안현민의 투런 홈런으로 격차 벌리는 KT 위즈",
+          "url": "https://www.news1.kr/photos/8195289",
+          "source": "뉴스1"
+        },
+        {
+          "title": "\"도영아, 보고있니?\" PO 홈런 김도영에 연락했다는 안현민이 KS 홈런 치고 김도영에게 보낸 메시지 [베이스볼S]",
+          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89154/22000639319",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "[사진]디아즈 적시타에 기뻐하는 삼성 라이온즈",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/04/GEZDAY3FGA4DAZJXG4YDSMBXME/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김현수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T10:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPo0l-rHnSWuNBnF6NAds-3mUDgWCIAjqMB4OUPJhATksc45GUL8Z-ory7gcA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "KT 김현수, PS 통산 109경기로 최다 타이기록…홍성흔과 동률[KS]",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858580",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[사진]위기 탈출 기뻐하는 후라도, 7이닝 1실점",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GA3TENTEGFRGGYLEGIZDENZQGU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "승리에 한걸음 앞서",
+          "url": "https://www.news1.kr/photos/8195457",
           "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "tving",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T09:50:00.000Z",
-      "picture": "",
+      "keyword": "마이클세일러",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T11:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9Q4lii9EWr9X22nRQWtLZEHgVV6o9L9uNjBeWWC8A2zWaFQHRNxCkSmweHo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "AI 해커가 암호화폐 거래소 노린다…바이낸스 63억 달러 해킹 이어 또 보안 위기?",
+          "url": "https://www.coinreaders.com/267961",
+          "source": "코인리더스"
+        },
+        {
+          "title": "마이클 세일러 \"AI 해커, 디지털자산 산업 새 위협…비트코인 보다 거래소가 취약\"",
+          "url": "https://www.blockmedia.co.kr/archives/1162198",
+          "source": "블록미디어"
+        },
+        {
+          "title": "바이낸스 해킹 후 암호화폐 새 적 나타나다…마이클 세일러 경고",
+          "url": "https://kr.beincrypto.com/michael-saylor-ai-hackers-binance-hack/",
+          "source": "BeInCrypto"
+        }
+      ]
+    },
+    {
+      "keyword": "kt wiz",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-JBHXidRKUb-_6GTjj0ya12pgeq_krbgC7mxsUy_ZoiKqoWZeRrsPh_GO7o",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "Samsung Lions Lead 2-1, 88.9% Title Chance",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/06/FVUPAIFGEFGTNJ62YJJDPOMNMU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "Park Seunggyu's Eighth-Inning Home Run Extends Samsung's Lead to 5-1",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/06/4K2KJP3OZJHH5HKD57ZG4YAM24/",
+          "source": "조선일보"
+        },
+        {
+          "title": "Samsung's Park Seung-gyu Overcomes Super Catch in Korean Series",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/06/RKADQFL3V5AVTOZ2K4A5D3Z35U/",
+          "source": "조선일보"
+        }
+      ]
     },
     {
       "keyword": "힐리어드",
@@ -215,8 +263,8 @@
           "source": "OSEN"
         },
         {
-          "title": "[사진] 힐리어드, 선취점으로 앞서 가는 2루타",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/G44TEYZYMZSGCZRYGUYDQNDDMI/",
+          "title": "[사진] 구자욱, 동료들과 함께 한 짜릿한 2타점 3루타",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MYYDEM3BME4DSMRXG4ZGKMDBGA/",
           "source": "Chosunbiz"
         }
       ]
