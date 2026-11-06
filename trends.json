@@ -1,85 +1,31 @@
 {
-  "updatedAt": "2026-11-06T00:53:01.957Z",
+  "updatedAt": "2026-11-06T02:02:27.107Z",
   "summary": [
     {
       "category": "경제",
-      "count": 4
-    },
-    {
-      "category": "기타",
-      "count": 2
+      "count": 5
     },
     {
       "category": "IT·과학",
       "count": 2
     },
     {
-      "category": "스포츠",
-      "count": 1
+      "category": "기타",
+      "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "서킷브레이커",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-05T23:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf8NWkm25khGnQpHmfntFUkVyLq37jVCHwLCIH5nSA9Lxn5gb94BgdaZ_cvDU",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[속보]코스피, 8% 폭락에 서킷브레이커…5000선 붕괴",
-          "url": "https://www.khan.co.kr/article/202611060908001",
-          "source": "경향신문"
-        },
-        {
-          "title": "미국발 AI 아마겟돈에 코스피 5000선 붕괴",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/11/06/QOXV3PAN2VEX3BHBNURUN54KOI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[속보] 삼전닉스 프리장 10% 폭락 … 美 증시도 투매 쇼크",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/06/2026110600023.html",
-          "source": "뉴데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "삼전주가",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-05T23:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC9TEnP6YWHVHzRHCIXuF1NDCOPFkrN2riMM55Wop8n2c9gO0wFipECCU2U20",
-      "category": "경제",
-      "news": [
-        {
-          "title": "라이프운용, 삼성전자에 주주서한…\"주주환원 유보, 독립 검토 필요\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443127",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "삼성전자·하이닉스 주가 흔들…지금 ’줍줍’할까, 좀 더 후에 들어가야? 셈법 복잡 By FinancialPost",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2160533",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "“주가 1만원 내리면 이재용 증여세 650억↓”…75조 주주환원 이래서 미뤘나",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03552246645642768",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
       "keyword": "장윤정",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-05T23:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0on0zz9fyr1crp0WHKsqBXx-GuidxbkhOVTgBWNWi-nma72rJA2s9__XE-Ok",
-      "category": "기타",
+      "category": "연예",
       "news": [
         {
           "title": "“벌써 이렇게 컸어” 장윤정, 연우·하영 남매 자랑에 ‘광대 승천’",
@@ -92,144 +38,103 @@
           "source": "제민일보"
         },
         {
-          "title": "장윤정, 주당이어도 살 안 찌는 이유 \"저당 감바스+자체 월남쌈 소스 제조\"('장공장장윤정')",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GI2TGOLEHE2GMMRTMFQTKMDFMU/",
-          "source": "Chosunbiz"
+          "title": "\"너무 행복해\" 장윤정, 쉬는 날 육아에도 결국 웃음···연우·하영, 엄마 껌딱지로 출연(‘장공장장윤정’)",
+          "url": "https://www.osen.co.kr/article/G1112905036",
+          "source": "OSEN"
         }
       ]
     },
     {
-      "keyword": "최원태",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-05T23:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT32BWC6Sp0_6-_g2nJMZStr1bVNgQlSfttDyyf1KgaYHrPiCy3dmr2q5kJ8I",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“한국시리즈만 기다렸다” kt, 뜨거운 방망이로 기선제압",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703094",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "'70억 투자' 이대로 퇴장하나…충격의 선발 박탈, 명예회복 기회 찾아올까 [KS]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MU2TGNDDG5TGKYTCHFSGKODEMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[KS2] '수원서 1승 1패' 박진만 감독의 목표 달성…살아난 삼성, 대구서 반격 노린다",
-          "url": "https://www.newspim.com/news/view/20261105000005",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "군함",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-05T23:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj0f-IPyo-J5VG-w9-OO-G8VtcBAl8xSPgLtGt192ESF0kRastK6UKBtzjKdE",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“전투기에 조기경보기·공중급유기까지 총동원”…대만 주변 하늘을 집어삼킨 중국의 무력시위 [밀리터리노트]",
-          "url": "https://www.seoul.co.kr/news/international/china/2026/11/05/20261105500075",
-          "source": "서울신문"
-        },
-        {
-          "title": "中군용기 14대 대만 주변 출현…12대 대만해협 중간선 넘어",
-          "url": "https://www.news1.kr/world/northeast-asia/6343813",
-          "source": "뉴스1"
-        },
-        {
-          "title": "\"中 육군병력 104만명, 해군작전함은 474척\"…대만 국방부 공개",
-          "url": "https://www.yna.co.kr/view/AKR20261104106400009",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "하이닉스 주가",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-05T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-1SVFlSXgZoTUtBOtvQ7x9cT4u09tx1CiIeS4IxvMuJB8xNuP_Jy-2ga5QdE",
+      "keyword": "창신동",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-06T00:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSidIjOPucsKnunw6LexlIzo-tsBoiIrTJ9jBE4U9a4xc0-WL_tk-LF1BrYQ-Y",
       "category": "경제",
       "news": [
         {
-          "title": "SK하이닉스 주가가 오늘 급락한 이유는?",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2160717",
-          "source": "Investing.com 한국어"
+          "title": "여의도 목화아파트 416세대로…창신동 정비사업도 통과",
+          "url": "https://www.yna.co.kr/view/AKR20261105162800004",
+          "source": "연합뉴스"
         },
         {
-          "title": "SK하이닉스 ADR 13% 폭락…반도체 수요 '절벽' 공포",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611060734169368e250e8e188_1",
-          "source": "글로벌이코노믹"
+          "title": "동대문역 앞 창신1구역 3지구, 43층·291가구 주거복합시설로 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/06/2026110609082394633",
+          "source": "머니투데이"
         },
         {
-          "title": "SK하이닉스 급락에 줍줍…삼바는 팔았다 [주식 초고수는 지금]",
-          "url": "https://www.mk.co.kr/news/stock/12198142",
-          "source": "매일경제"
+          "title": "창신1구역 3지구, 291가구 주거복합시설로 재개발",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856944",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "kospi",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-05T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4mI5fupp97_uBvE8Ao_wieSj-OZlKsUTWdlUh8byMDn0WFtPyFVWmW5xVDgw",
+      "keyword": "amd",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T00:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gOFkqYt9mfjRaG0p01bXUhASSSK3hTiskF74kCNbPBAozyhnic8NiKT5lrM",
       "category": "IT·과학",
       "news": [
         {
-          "title": "KOSPI, KOSDAQ Trigger Circuit Breakers Amid U.S. Election AI Regulation Fears",
-          "url": "https://www.chosun.com/english/market-money-en/2026/11/05/7UVZ7O6FPBF4XLJN5XFH2PJTLQ/",
-          "source": "조선일보"
+          "title": "AMD Data Center Revenue Surges 97% as Intel Stumbles",
+          "url": "https://en.sedaily.com/finance/2026/11/06/amd-data-center-revenue-surges-97-percent-as-intel-stumbles",
+          "source": "Seoul Economic Daily"
         },
         {
-          "title": "[Photo] Floor Leader Jeong Jeomsik Speaks",
-          "url": "https://www.asiae.co.kr/en/article/2026110609162004790",
-          "source": "아시아경제"
+          "title": "AMD rides AI chip boom, projects 80%+ revenue surge next year",
+          "url": "https://biz.chosun.com/en/en-it/2026/11/04/3VFKK7PQA5GNFJDGVY3HW3BO5A/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "Foreigners dump 20.6 trillion won in Samsung and SK hynix shares as 'blue wave' hits KOSPI",
-          "url": "https://www.mt.co.kr/en/stock/2026/11/05/2026110517110160047",
-          "source": "머니투데이"
+          "title": "Nvidia Competitor AMD Posts Record Q3 Revenue of KRW 18 Trillion",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008829540",
+          "source": "news.sbs.co.kr"
         }
       ]
     },
     {
-      "keyword": "바이퍼",
+      "keyword": "토스",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-05T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwAF4ob8Ny9-S1psh7Dp3c8mhiRPX_7JiL3s75ekd7GsvrZ15yvUNN-tix1mM",
+      "startedAt": "2026-11-06T00:00:00.000Z",
+      "picture": "",
       "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "달러 환율",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T00:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTZEfb7shongsg2PVKfHSRFh5_3prJoDvyZ1oDxBdfu8qjM_mtqPkt_ebf84M",
+      "category": "경제",
       "news": [
         {
-          "title": "[롤드컵] DK, '바이퍼' 앞세운 中 BLG 공세에 2세트도 패배...0-2 벼랑 끝 내몰려",
-          "url": "https://www.osen.co.kr/article/G1112905081",
-          "source": "OSEN"
+          "title": "'블루쓰나미'에 외환시장도 요동…원/달러 환율, 15원가량 급등 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/11/06/2026110608332315358",
+          "source": "머니투데이"
         },
         {
-          "title": "‘16분의 악몽!’ DK, 전령 한타서 와르르…中 BLG에 33분 만에 1세트 내줬다 [SS댈러스in]",
-          "url": "https://www.sportsseoul.com/news/read/1647415",
-          "source": "스포츠서울"
+          "title": "[신윤우의 외환분석] '반도체 쇼크'에 감전된 원화",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443427",
+          "source": "연합인포맥스"
         },
         {
-          "title": "[롤드컵] '아뿔사 카운터'...DK, 中 BLG와 8강 서전 밴픽부터 말리며 33분대에 완패",
-          "url": "https://www.koreadaily.com/article/20261105151422219",
-          "source": "미주중앙일보"
+          "title": "반도체 수출 호황이어도 다른 수출기업은 웃지 못하는 이유",
+          "url": "https://weekly.donga.com/List/article/all/11/6445999/1",
+          "source": "주간동아"
         }
       ]
     },
     {
       "keyword": "금값",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-05T23:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDG9zx0c2ILx7abzpXc1T_Fw0eB3tLbf_InJn5V1pUr5ELK1bspyQ7E3lHhHo",
-      "category": "IT·과학",
+      "category": "경제",
       "news": [
         {
           "title": "'블루웨이브'에 금·은 가격 회복세…구리는 ‘AI 우려'에 주춤",
@@ -237,39 +142,114 @@
           "source": "마켓인"
         },
         {
-          "title": "[뉴욕 금가격] 美 AI 규제 우려 기술주 투매 속 1% 상승",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443337",
-          "source": "연합인포맥스"
+          "title": "[원자재 시황] 증시 폭락에 오르는 금값 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2163142",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "2주 만에 최고치 찍은 국제 금값…국내 금시세는?",
-          "url": "https://www.etoday.co.kr/news/view/2644852",
-          "source": "이투데이"
+          "title": "[금복이의 금 이야기] 국채금리 동반 하락에 금값 이틀연속 상승",
+          "url": "https://zdnet.co.kr/view/?no=20261106104240",
+          "source": "지디넷코리아"
         }
       ]
     },
     {
-      "keyword": "나스닥 선물",
+      "keyword": "쇼메이커",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-05T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgBMsGMhIKG_sol19Gj1ORaSg5dC4bBgVqeWSIg92Y-qLOT671HuuBDX-ny4Y",
+      "startedAt": "2026-11-06T00:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGeO6wjg07Mr0p6GFQBx98MR64lyG23noPnqVp4JEKKlYdkqaDT1b5B161iwE",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "라이엇게임즈, '와일드 리프트' 글로벌 커뮤니티 행사 21일 개최",
+          "url": "https://zdnet.co.kr/view/?no=20261105182032",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "'와일드 리프트' 글로벌 팬들 성수에 모인다…쇼메이커 vs 스매쉬",
+          "url": "https://www.newsis.com/view/NISX20261105_0003856841",
+          "source": "뉴시스"
+        },
+        {
+          "title": "‘와일드 리프트’ 글로벌 커뮤니티 ‘스매쉬’ 韓서 첫 진행",
+          "url": "https://game.mk.co.kr/news/it/12198147",
+          "source": "매경 게임진"
+        }
+      ]
+    },
+    {
+      "keyword": "삼성전기 주가",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T00:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOsjGfsyMj3s8HcuzgHNGHzN0XwkN-FFd3VIycOxXFm8ETJrpeEN6PNzd_4",
       "category": "경제",
       "news": [
         {
-          "title": "[속보] 美 나스닥 선물 0.15% 반등…다우·S&P500 선물은 하락",
-          "url": "https://www.news1.kr/world/international-economy/6345153",
-          "source": "뉴스1"
+          "title": "[특징주] 삼성전기, 美 AI 투자 둔화 우려에 12%대 급락",
+          "url": "https://www.viva100.com/article/20261106500162",
+          "source": "브릿지경제"
         },
         {
-          "title": "S&P500 선물, 기술주 매도세 후 반등…美 국채금리↑",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442508",
-          "source": "연합인포맥스"
+          "title": "삼성전기, 美 데이터센터 규제·AI 피크아웃 공포에 10%대 급락",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/06/QRRCK5LBIVCXDOLD3AB3NZRGVQ/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "주요 일정이 몰린 한 주 앞두고 위험선호 회복에 다우존스 선물 상승",
-          "url": "https://www.tmgm.com/ko/analysis/market-news/article/dow-jones-futures-advance-as-risk-appetite-rebounds-ahead-of-busy-week-202611020903",
-          "source": "www.tmgm.com"
+          "title": "[특징주] 삼성전기, 美 중간선거로 규제 가능성 제기.. '급락'",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/20261106102812134844093b5d4e_1",
+          "source": "글로벌이코노믹"
+        }
+      ]
+    },
+    {
+      "keyword": "현대차 주가",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T00:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[리포트 브리핑]현대차, '투자기 진입' 목표가 380,000원 - 메리츠증권",
+          "url": "https://www.newspim.com/news/view/20261105000955",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "\"현대차 내년 영업익 8% 급감\" 목표주가 '줄줄줄'…SK텔레콤, AI DC·앤트로픽 지분가치 낮춰 목표가↓ [株토피아]",
+          "url": "https://www.fnnews.com/news/202611051012424021",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "북미서 웃고 韓·유럽서 울었다… 2년차 무뇨스 엇갈린 성적표",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001259",
+          "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "서초구",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQOBE5Av002V3rfVzssn6X_NWy2mfMsFxfB1Tgi6etHU04P__QKqlVevU0QVE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“가구당 평균 2.2억”…서초구, 내주 반포현대 재초환 사전통지",
+          "url": "https://www.mk.co.kr/news/economy/12200143",
+          "source": "매일경제"
+        },
+        {
+          "title": "[단독] '최대 7억' 고지서 나간다…\"퇴직금 썼는데\" 반발",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832894",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "서초구, 국토부에 '재초환 폐지' 건의문·주민 탄원서 전달",
+          "url": "https://www.yna.co.kr/view/AKR20261105097200004",
+          "source": "연합뉴스"
         }
       ]
     }
