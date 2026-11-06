@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-06T19:47:37.492Z",
+  "updatedAt": "2026-11-06T20:41:32.528Z",
   "summary": [
     {
       "category": "기타",
       "count": 3
     },
     {
-      "category": "연예",
+      "category": "경제",
       "count": 2
     },
     {
@@ -14,12 +14,8 @@
       "count": 2
     },
     {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "category": "연예",
+      "count": 2
     },
     {
       "category": "정치·사회",
@@ -28,79 +24,13 @@
   ],
   "items": [
     {
-      "keyword": "임형주",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-06T16:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGOr9gtV_edAkk7HHW5F5nuPONKDHsrxs5BPHR3tbr5YcFR4z3V6FqHrXIPW8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
-          "url": "https://cine21.com/news/view/?mag_id=111222",
-          "source": "씨네21"
-        },
-        {
-          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
-          "url": "https://www.kyeonggi.com/article/20261105580023",
-          "source": "경기일보"
-        },
-        {
-          "title": "나흘 내내 故최불암 곁 지킨 김혜수 “추모해 준 모든 분께 감사”",
-          "url": "https://www.joongang.co.kr/article/25475818",
-          "source": "중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "한파",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-06T15:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq7gnPIDMhoFAoHOs8vp1IsygRpUC-2umP59ST09rleEUh_s35hRuIGRZkU0s",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "주말 서울 첫 영하권, '강풍·풍랑' 비상...휴일엔 첫눈",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611062145073803",
-          "source": "YTN"
-        },
-        {
-          "title": "입동에 '초겨울 추위'…서울 올가을 첫 영하, 체감 '-4도'",
-          "url": "https://www.yna.co.kr/view/AKR20261106160100530",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "어 도어",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE_Clc-ytn3mSL5ttl_zeNPbaYIp9h7W55VpptSoBOnMGyJlxjfLSGj4vfQ_Y",
-      "category": "연예",
-      "news": [
-        {
-          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
-          "url": "https://www.khan.co.kr/article/202611061631011",
-          "source": "경향신문"
-        },
-        {
-          "title": "뉴진스 계약서 공개되자...하이브가 내놓은 답변 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611062336285237",
-          "source": "YTN"
-        },
-        {
-          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
-          "url": "https://www.yna.co.kr/view/AKR20261106094700075",
-          "source": "연합뉴스"
-        }
-      ]
+      "keyword": "주가 대폭락",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-06T19:10:00.000Z",
+      "picture": "",
+      "category": "경제",
+      "news": []
     },
     {
       "keyword": "강남",
@@ -116,9 +46,9 @@
           "source": "대한경제"
         },
         {
-          "title": "\"최근 강남3구서 5% 이상 하락 거래 16건\"",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611062251356141",
-          "source": "YTN"
+          "title": "\"그때 팔 걸\" 매물만 쌓인다…20억 넘게 빠진 압구정 집주인들 '속앓이' - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/07/2026110612530467580",
+          "source": "머니투데이"
         },
         {
           "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
@@ -153,6 +83,31 @@
       ]
     },
     {
+      "keyword": "임형주",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T16:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGOr9gtV_edAkk7HHW5F5nuPONKDHsrxs5BPHR3tbr5YcFR4z3V6FqHrXIPW8",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
+          "url": "https://cine21.com/news/view/?mag_id=111222",
+          "source": "씨네21"
+        },
+        {
+          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
+          "url": "https://www.kyeonggi.com/article/20261105580023",
+          "source": "경기일보"
+        },
+        {
+          "title": "나흘 내내 故최불암 곁 지킨 김혜수 “추모해 준 모든 분께 감사”",
+          "url": "https://www.joongang.co.kr/article/25475818",
+          "source": "중앙일보"
+        }
+      ]
+    },
+    {
       "keyword": "이승기",
       "traffic": "500+",
       "trafficValue": 500,
@@ -182,18 +137,18 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-06T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCVvMFhTGzz97iqjHJk_fOQ0ckLWY5pqZTvgzt5KYnLdcPtWmey16UurKoMY",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo8bmYTvgmbB-U6hl-2UPFonP18SkdEapsI4R1McYJme9npdQgEUtzWpoMwTk",
       "category": "정치·사회",
       "news": [
-        {
-          "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
-          "url": "https://sports.khan.co.kr/article/202611061513013",
-          "source": "스포츠경향"
-        },
         {
           "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712",
           "source": "SBS 뉴스"
+        },
+        {
+          "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
+          "url": "https://sports.khan.co.kr/article/202611061513013",
+          "source": "스포츠경향"
         },
         {
           "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
@@ -203,18 +158,34 @@
       ]
     },
     {
-      "keyword": "t1 kc",
+      "keyword": "어 도어",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-06T15:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "startedAt": "2026-11-06T18:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE_Clc-ytn3mSL5ttl_zeNPbaYIp9h7W55VpptSoBOnMGyJlxjfLSGj4vfQ_Y",
+      "category": "연예",
+      "news": [
+        {
+          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
+          "url": "https://www.khan.co.kr/article/202611061631011",
+          "source": "경향신문"
+        },
+        {
+          "title": "NYT, 뉴진스 계약서 공개… “성형비용 멤버가 부담”",
+          "url": "https://www.donga.com/news/People/article/all/20261106/134982270/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
+          "url": "https://www.yna.co.kr/view/AKR20261106094700075",
+          "source": "연합뉴스"
+        }
+      ]
     },
     {
       "keyword": "농성",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-06T18:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9HBss584EEn6L_pMGKqSC0dFWic90L_rX8wL21wWw7Y0gNrXsUdEQLrIO-qo",
       "category": "스포츠",
@@ -238,8 +209,8 @@
     },
     {
       "keyword": "일론 머스크",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-06T15:50:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqf21qSMyw19y7kBBjznh0JUCRuDaaZ-p5QeUuImdaMfJcNbJCdpUzPfER8rA",
       "category": "기타",
@@ -260,6 +231,15 @@
           "source": "경기일보"
         }
       ]
+    },
+    {
+      "keyword": "t1 kc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T15:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
