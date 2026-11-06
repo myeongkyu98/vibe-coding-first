@@ -1,125 +1,200 @@
 {
-  "updatedAt": "2026-11-06T04:51:51.009Z",
+  "updatedAt": "2026-11-06T05:53:40.413Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "경제",
+      "category": "연예",
       "count": 3
     },
     {
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
       "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "박수홍",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-06T02:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS72NQQ4vy3KP5NTsgAfoaN5nBxzujrjEL1Qo53_yNtnx1hqjZ0wYXuRodo4k0",
-      "category": "기타",
+      "keyword": "논쟁",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-06T04:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-dcKCqZjhWzGskrmFKSha7UmU_OA_JFkUWvXG88DOICn7uQy0ccqTR_VipDA",
+      "category": "연예",
       "news": [
         {
-          "title": "박수홍 딸 재이, 창경궁 바닥에 철퍼덕..전생에 공주였나? '볼콕'",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GNSDMMRSGUYTKZTEGY3DAYTCME/",
-          "source": "Chosunbiz"
+          "title": "'닥터X', 김지원 정체 들키나…이정은·손현주 살벌 대치 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110613097225840",
+          "source": "머니투데이"
         },
         {
-          "title": "‘박수홍 딸’ 재이, 폭풍성장 근황…아빠 닮은 이목구비에 똘망똘망 눈망울",
-          "url": "https://www.sedaily.com/article/20110643",
-          "source": "서울경제"
+          "title": "'닥터X' 김지원, 동료 의사들에게 \"부탁드립니다\" 숙인 사연은…전대미문 체외 수술 도전",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833758",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "박수홍♥김다예 딸, 세금 낸다더니 패딩 가격만 '140만 원'…게시물 황급히 삭제",
-          "url": "https://www.tenasia.co.kr/article/2026110696834",
-          "source": "텐아시아"
+          "title": "[예술과 오늘]‘닥터X’와 사회파 메디컬드라마",
+          "url": "https://www.khan.co.kr/article/202611042012025",
+          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "김영익",
+      "keyword": "나나",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-06T04:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWeu58dvvjiC-DwGIWI7HUm7WTpS1l-9CvWuWmoOJ1UG4sFCv3VPnmAkAcBAM",
+      "category": "연예",
+      "news": [
+        {
+          "title": "나나 “제가 도덕적 물의 일으켰나”…악플러에 일침 무슨 일?",
+          "url": "https://www.donga.com/news/Culture/article/all/20261106/134976663/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "\"내가 무슨 잘못했나?\"…나나, '탑과 열애' 악플에 작심 발언 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605173851313",
+          "source": "머니투데이"
+        },
+        {
+          "title": "“공개 연애, 내 사생활… 미안할 일 아냐” 나나, ♥탑과 열애 비난에 정면 반박",
+          "url": "https://sports.khan.co.kr/article/202611060214003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "김구라",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-06T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiVxtoQvKUFNXx8-SQl-zWKRe0SHIH1anqUa9d_hrqPTdpN3GS218Q1jVxGi0",
+      "startedAt": "2026-11-06T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0Yy2XGPAvB8O05Hgx6zk62Rwv6GaAAUqbZr1A5-XIb2rftmQRSmC9qPlz1CQ",
       "category": "경제",
       "news": [
         {
-          "title": "석 달 전 '코스피 5000 붕괴' 경고 적중… 김영익 교수 재조명",
-          "url": "https://www.hankyung.com/article/202611060261i",
-          "source": "한국경제"
-        },
-        {
-          "title": "탄광의 카나리아가 울 때",
-          "url": "https://www.sejongyeonhap.co.kr/news/articleView.html?idxno=58730",
-          "source": "세종시민일보"
-        },
-        {
-          "title": "\"현금 쥐고 기다리세요\" 내년 상반기 기회 온다는 '2027 증시' 전망 분석",
-          "url": "https://www.nanamcom.co.kr/news/articleView.html?idxno=53296",
-          "source": "나남뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "기상",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-06T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ2F3DZPQwSzUIWcs0Xi_ROUKIIcuP7he9WadEgZOK5fTfUBNZb32y4Pieu6I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "삼척흥전 AWS 본격 관측…위험 기상 감시망 촘촘해진다",
-          "url": "https://www.yna.co.kr/view/AKR20261106045200062",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[삼척소식]도계읍 흥전초에 방재기상관측장비(AWS) 설치·본격 가동 등",
-          "url": "https://www.newsis.com/view/NISX20261106_0003857601",
-          "source": "뉴시스"
-        },
-        {
-          "title": "삼척시, 도계읍 기상 관측 공백 메웠다… 흥전초에 방재 AWS 가동",
-          "url": "https://www.ajunews.com/view/20261106104910208",
-          "source": "아주경제"
-        }
-      ]
-    },
-    {
-      "keyword": "매일경제",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T03:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoNTjj9WuxIx9ZR28AAisacXy-klKvWwwvsefsyn1zZ1fy1U_ZNpvgHkIfso",
-      "category": "경제",
-      "news": [
-        {
-          "title": "폭락장에도 꿋꿋…노무라 “코스피 목표 1만 유지…상승 동력 4가지 있어”",
-          "url": "https://www.mk.co.kr/news/stock/12200293",
+          "title": "김구라 아들 그리, 결혼한다 “군대 기다려준 여친과 준비 중”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12200239",
           "source": "매일경제"
         },
         {
-          "title": "\"그래도 만스피 간다\"…노무라가 꼽은 韓증시 상승동력 4가지는?",
-          "url": "https://www.newsis.com/view/NISX20261106_0003857779",
-          "source": "뉴시스"
+          "title": "서인영 \"주식·코인하던 지인들, 하루아침 부자 됐다 거지행\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110609304066291",
+          "source": "머니투데이"
         },
         {
-          "title": "노무라 ＂코스피 3개월 목표치 7,500∼8,000…단기 변동성 반영＂",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261106081800008",
-          "source": "한국경제TV"
+          "title": "‘김구라, 며느리 보겠네’…子 그리 “여친과 결혼 준비 중”",
+          "url": "https://sports.khan.co.kr/article/202611060907003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "엘니뇨",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T04:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG43IKFP-dioTjQKCJDDubhpLh-knEHPDkufWNsav9rUTTcG4_aGBg0hROUMA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "’역대 최강 엘니뇨’ 온다…올겨울 포근하고 눈·비 많을 듯",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106101553uEs",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "역대 최강 엘니뇨 온다…올겨울 기온·강수량↑",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374441",
+          "source": "전기신문"
+        },
+        {
+          "title": "속보 기상청 \"이번 겨울 역대 가장 강한 엘니뇨 공식 확인\"",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611061006321478",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "징역형",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T04:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaoyT4bT7MQHzQEJV1LeApvqUE9ZcOKOXeGjhFSnmfV566G-e536WXfcSYJ8",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "모르는 여중생 뺨 때린 40대 남성...1심 벌금→2심 징역형, 왜?",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611060851275372_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "식당서 여중생 뺨 때린 40대…2심 “벌금형 가볍다” 징역형에 집유",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134976304/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "처음 본 13살 여중생 때린 40대, 항소심서 징역형 선거",
+          "url": "https://www.kyeonggi.com/article/20261106580010",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "래미안원베일리",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T03:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv0LYPcjFs8-mUS0T8SlYZMcLOedjiA3rJMgIkT3B1yIaNM770QB15zz2JQCo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
+          "url": "https://www.mk.co.kr/news/economy/12200273",
+          "source": "매일경제"
+        },
+        {
+          "title": "강남 소형 아파트도 하락 거래… 가격 조정 압력 커지나",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446553",
+          "source": "천지일보"
+        },
+        {
+          "title": "강남권 조정, 외곽으로 번질까?...\"전월세난 주목해야\"",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611052305343897",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "안산소방서",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T04:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDCz3n5Tq4sGIdKYTFDmUHehkjIvHFXjHOCvHxVN4hWTGPnHQu-NzcpfAtMMA",
+      "category": "연예",
+      "news": [
+        {
+          "title": "인천소방본부, ‘우리동네 119체험관’ 운영…어린이 안전교육 강화",
+          "url": "https://www.kyeonggi.com/article/20261105580373",
+          "source": "경기일보"
+        },
+        {
+          "title": "시흥소방서, 어린이·학부모와 함께하는 ‘119안전체험 한마당’ 실시",
+          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160285684174511",
+          "source": "시민일보"
+        },
+        {
+          "title": "“불이 나면 어디로?”… 자석 붙이며 배우는 어린이 안전수칙",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741421",
+          "source": "중부일보"
         }
       ]
     },
@@ -137,139 +212,64 @@
           "source": "Covers.com"
         },
         {
-          "title": "Game Preview: Warriors vs. Miami Heat - 11/5/26",
-          "url": "https://warriors.com/news/gameday-preview-20261105",
-          "source": "NBA.com"
+          "title": "GAME THREAD: Klay Thompson returns to Golden State as Heat (3-5) face Warriors (5-3)",
+          "url": "https://hothothoops.com/2026/11/05/game-thread-klay-thompson-returns-to-golden-state-as-heat-3-5-face-warriors-5-3/",
+          "source": "Hot Hot Hoops"
         },
         {
-          "title": "Giannis' status for Heat-Warriors: Injuries, Odds, How to Watch & Starters",
-          "url": "https://www.si.com/nba/heat/onsi/giannis-status-for-heat-warriors-injuries-odds-how-to-watch-starters-01m6q3gfkyc8",
-          "source": "Sports Illustrated"
+          "title": "How to watch Heat vs Warriors: Live stream NBA Basketball, TV channel",
+          "url": "https://www.thebiglead.com/how-to-watch-heat-vs-warriors-live-stream-nba-basketball-tv-channel/",
+          "source": "The Big Lead"
         }
       ]
     },
     {
-      "keyword": "연천군",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T03:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShNSPkx6sBwoBrU5uhQKYxRCjCzl5H_jfRRMGsa44pmyQ7A7F-vC1JTbeN_Gw",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "장흥 오리농장서 조류인플루엔자 확인...24시간 이동 중지",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611061104144423",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "연천군, AI 대응 재난안전대책본부 가동…24시간 방역체계 강화",
-          "url": "https://www.kyeonggi.com/article/20261106580215",
-          "source": "경기일보"
-        },
-        {
-          "title": "[패트롤] 경기도-동두천-양주시-의정부시-포천시",
-          "url": "http://www.ekn.kr/web/view.php?key=20261106025596401",
-          "source": "에너지경제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "2026",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T02:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhrdnhVzneeuUX1PCBsPYy9YjuAgmJxRN5lgqA4fsxJncPH1CIwL4IChp-jaI",
+      "keyword": "세종의사당",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T04:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsUMJpg7PTEY-iOiHiekpb-8fzuzBLeMMzVuD2NwpTR8DM_5wRyRdrx6twcYo",
       "category": "기타",
       "news": [
         {
-          "title": "Midterms 2026 election results and latest updates: Mississippi votes still being counted in Senate nail-biter after Democrats take control of Congress",
-          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
-          "source": "Yahoo"
+          "title": "안신일 의장 “행정수도특별법·지방의회법 연내 제정해야”",
+          "url": "https://www.kcilbo.com/articles/2026110639461",
+          "source": "경충일보"
         },
         {
-          "title": "2026 Midterms Data: How Democrats Won the Largest House Majority Since 2008",
-          "url": "https://www.nytimes.com/interactive/2026/11/05/us/elections/democrats-house-majority-midterms-data.html",
-          "source": "The New York Times"
+          "title": "세종의사당 3년 지연…연내 입법 촉구",
+          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2450067",
+          "source": "충청일보"
         },
         {
-          "title": "Five reasons why Republicans lost so badly",
-          "url": "https://www.bbc.com/news/articles/cqkgjvr00zmyo",
-          "source": "BBC"
+          "title": "[사설] 행정수도 관문 첫마을IC 자꾸 늦어지면 곤란",
+          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2310725",
+          "source": "대전일보"
         }
       ]
     },
     {
-      "keyword": "래미안원베일리",
+      "keyword": "lng선",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-06T03:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNSYML0HflddFDwwz3tZJGcVGX-eEAfAqinFJZHOToYuefHH_EZ_QykPtJuYQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645",
-          "source": "대한경제"
-        },
-        {
-          "title": "반포 래미안원베일리 14억 '뚝'…집값 흔들린 단지들 특징은",
-          "url": "https://www.hankyung.com/article/2026110699296",
-          "source": "한국경제"
-        },
-        {
-          "title": "래미안 원베일리도 14.5억 낮게 거래…강남3구 하락거래 16건",
-          "url": "https://www.donga.com/news/Economy/article/all/20261106/134977628/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "교산",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T03:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHhzwbSDOB_kPyhye1h1L0qEbUWJVcfcst60TF7mmXzWVLdCyBb5r7zTM2dk0",
+      "startedAt": "2026-11-06T03:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTns0uxfIcVaLoAKyHWmW8SeRY11iQNGbNzWMvIquMfveEt8vFZFgcVsFirEJM",
       "category": "기타",
       "news": [
         {
-          "title": "위례 분담금 1256억 투입 불균형 해소…하남시, 대광위에 교통망 건의",
-          "url": "http://incheonilbo.com/news/articleView.html?idxno=1336140",
-          "source": "인천일보"
+          "title": "[단독]마스가 늦어져도 간다…한화, 美조선소 인력 7500명으로 확대 추진",
+          "url": "https://view.asiae.co.kr/article/2026110609134821645",
+          "source": "아시아경제"
         },
         {
-          "title": "하남교산 2029년 첫 입주…송파하남선은 2032년 이후 개통 예상",
-          "url": "https://m.ekn.kr/view.php?key=20261106023246280",
-          "source": "에너지경제신문"
+          "title": "韓 LNG선 최대 발주처인데…美 환경 평가 강화에 업황 악화 우려↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443438",
+          "source": "연합인포맥스"
         },
         {
-          "title": "국토부 대광위원장 \"3기 신도시 입주 맞춰 교통시설 적기 구축 총력\"",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856851",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "국제결혼",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T03:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqOqCJ1WC_Wnaw1I4EEA9Sk4xF6ZYDNuJNNAPJXucVSAJVcRM-qIdCFUF3wu0",
-      "category": "연예",
-      "news": [
-        {
-          "title": "아뜨리앙 클라르하임, `2026 고객신뢰도 1위 프리미엄 브랜드` 침구 부문 대상",
-          "url": "https://mydaily.co.kr/page/view/2026110612415592245",
-          "source": "마이데일리"
-        },
-        {
-          "title": "효기국제결혼, ‘2026 고객신뢰도 1위 프리미엄 브랜드 대상’ 수상",
-          "url": "https://www.koreadaily.com/article/20261103232548991",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "빌딩샵AI, 포브스 선정 '2026 고객신뢰도 1위 프리미엄 브랜드' 대상 수상",
-          "url": "https://www.etnews.com/20261103000378",
-          "source": "전자신문"
+          "title": "\"美 민주당 승리에 LNG선 수주 우려\"…韓 조선주 영향은",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03116006645643096",
+          "source": "마켓인"
         }
       ]
     }
