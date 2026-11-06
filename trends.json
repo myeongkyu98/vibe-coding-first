@@ -1,24 +1,20 @@
 {
-  "updatedAt": "2026-11-06T17:43:24.348Z",
+  "updatedAt": "2026-11-06T18:45:27.365Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
+      "category": "경제",
+      "count": 3
+    },
+    {
       "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 2
-    },
-    {
       "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
       "count": 1
     }
   ],
@@ -49,77 +45,27 @@
       ]
     },
     {
-      "keyword": "유튜버",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-06T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWvP0OnxB4ILJ6-sgoXwctHFDx1wi0Vv7Z_QG-WZEJYgXfwwI8gBk2gIk_vw",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
-          "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
-          "url": "https://sports.khan.co.kr/article/202611061749003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "[다시보기] 궁금한 이야기 Y 802회",
-          "url": "https://programs.sbs.co.kr/culture/cube/vod/54887/22000639439",
-          "source": "programs.sbs.co.kr"
-        }
-      ]
-    },
-    {
       "keyword": "숲",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-06T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEw-e-pCSE_teNEQrsCPGuPMdNmMiH6cMvpxPb68TUJGir_aTjvoJPK55zqf4",
-      "category": "생활·날씨",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-zK36wWAgjdmTIZjgfGYpeylyOhLL6c3Q3VR2sl3znwY3WugB3fqLohdvpvw",
+      "category": "경제",
       "news": [
         {
-          "title": "황금빛 단풍에 예술 한 스푼…서울대공원 가을축제 ‘예술로 물드는 숲’",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261106500191",
-          "source": "서울Pn"
+          "title": "김상욱 시장, 중국 밍양그룹 방문…에너지 협력 논의",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705397",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "[포토뉴스]스치듯 만지듯 만추 속으로",
-          "url": "https://www.khan.co.kr/article/202611052109035",
-          "source": "경향신문"
+          "title": "中 부유식 해상풍력 '오션X'",
+          "url": "https://www.news1.kr/photos/8201790",
+          "source": "뉴스1"
         },
         {
-          "title": "단풍 물든 서울대공원서 가을축제…전시·공연 즐긴다",
-          "url": "https://www.newsis.com/view/NISX20261106_0003857740",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "장유빈",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-06T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8wni8WjWz6s-97DdHY6KKDPfzA3uILvq3KaYA-6F4iy1Y3WJQyRLTy7o09-M",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘스코어카드 반대로 썼다’… 장유빈 KPGA 최종전 실격, 상금·대상 2관왕 무산",
-          "url": "https://www.chosun.com/national/people/2026/11/06/WUGH7AT4N5DH5IDTBW6OFLVDZE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "황재민, 초속 13ｍ 강풍에도 66타…KPGA 투어챔피언십 2R 선두",
-          "url": "https://www.yna.co.kr/view/AKR20261106162900007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "옥태훈·왕정훈, 최종전 KPGA 투어챔피언십 1R 공동 선두",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022551",
-          "source": "골프한국"
+          "title": "울산 조선업, 해상풍력에서 ‘미래 먹거리’ 찾는다",
+          "url": "https://www.donga.com/news/Society/article/all/20261105/134974363/2",
+          "source": "동아일보"
         }
       ]
     },
@@ -137,39 +83,64 @@
           "source": "The New York Times"
         },
         {
-          "title": "Judge blocks construction of Trump’s proposed Washington arch",
-          "url": "https://www.staradvertiser.com/2026/11/06/breaking-news/judge-blocks-construction-of-trumps-proposed-washington-arch/",
-          "source": "Honolulu Star-Advertiser"
+          "title": "Trump Launches Triumphal Arch Website Right As Judge Blocks Construction",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-launches-arch-website-judge-shuts-down-construction-1235653978/",
+          "source": "Rolling Stone"
         },
         {
-          "title": "Judge blocks Trump arch hours after federal panel approval",
-          "url": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "title": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642",
+          "source": "NBC News"
         }
       ]
     },
     {
-      "keyword": "t1 kc",
+      "keyword": "이승기",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-06T15:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwE33-8l4MduKUQA8oXa_yLNjWIeJDgkCQYVxuHstm14lWlWVNtnWfkNx52YY",
+      "startedAt": "2026-11-06T16:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDbi1GdgmAt_p4G4sn5BSNGty1FAZtaicRz_2eqLaBDEhpOB40vSFEq28cb2Q",
       "category": "기타",
       "news": [
         {
-          "title": "BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패",
-          "url": "https://www.yna.co.kr/view/AKR20261106093800017",
-          "source": "연합뉴스"
+          "title": "\"내 보물 둘\" 이승기·이다인, 생후 4개월 둘째 아들 첫 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605372731434",
+          "source": "머니투데이"
         },
         {
-          "title": "[롤드컵]젠지, 4강서 중국 IG와 격돌…한중 자존심 대결",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856558",
-          "source": "뉴시스"
+          "title": "이다인, 4개월 된 둘째 아들 모습 최초 공개…이승기 ‘딸바보’ 인증도 눈길",
+          "url": "https://sports.khan.co.kr/article/202611060841003",
+          "source": "스포츠경향"
         },
         {
-          "title": "[롤드컵 톡톡] \"과거 기록 의미 없어, 다음 무대 중요\"... BLG '온' 러원쥔의 4강 출사표",
-          "url": "https://www.osen.co.kr/article/G1112905616",
-          "source": "OSEN"
+          "title": "\"동생 생겼어요\" 이승기♥이다인, 붕어빵 4식구 공개..화목한 생파 [핫피플]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/MYZGIODCGVRTCZBXME3DKOLGGA/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "유튜버",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T15:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo8bmYTvgmbB-U6hl-2UPFonP18SkdEapsI4R1McYJme9npdQgEUtzWpoMwTk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
+          "url": "https://sports.khan.co.kr/article/202611061513013",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
+          "url": "https://www.munhwa.com/article/11629265",
+          "source": "문화일보"
         }
       ]
     },
@@ -247,6 +218,15 @@
           "source": "경기일보"
         }
       ]
+    },
+    {
+      "keyword": "t1 kc",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T15:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "화장실",
