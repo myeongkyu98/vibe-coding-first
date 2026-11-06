@@ -1,20 +1,28 @@
 {
-  "updatedAt": "2026-11-06T18:45:27.365Z",
+  "updatedAt": "2026-11-06T19:47:37.492Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "경제",
       "count": 3
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 2
     },
     {
-      "category": "연예",
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
@@ -45,52 +53,102 @@
       ]
     },
     {
-      "keyword": "숲",
+      "keyword": "한파",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-06T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-zK36wWAgjdmTIZjgfGYpeylyOhLL6c3Q3VR2sl3znwY3WugB3fqLohdvpvw",
-      "category": "경제",
+      "startedAt": "2026-11-06T15:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq7gnPIDMhoFAoHOs8vp1IsygRpUC-2umP59ST09rleEUh_s35hRuIGRZkU0s",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "김상욱 시장, 중국 밍양그룹 방문…에너지 협력 논의",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705397",
-          "source": "KBS 뉴스"
+          "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "中 부유식 해상풍력 '오션X'",
-          "url": "https://www.news1.kr/photos/8201790",
-          "source": "뉴스1"
+          "title": "주말 서울 첫 영하권, '강풍·풍랑' 비상...휴일엔 첫눈",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611062145073803",
+          "source": "YTN"
         },
         {
-          "title": "울산 조선업, 해상풍력에서 ‘미래 먹거리’ 찾는다",
-          "url": "https://www.donga.com/news/Society/article/all/20261105/134974363/2",
-          "source": "동아일보"
+          "title": "입동에 '초겨울 추위'…서울 올가을 첫 영하, 체감 '-4도'",
+          "url": "https://www.yna.co.kr/view/AKR20261106160100530",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "디씨",
+      "keyword": "어 도어",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-06T13:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1Pq9w_bfIh5JwGEFBLTIa-u7TCyEiM4urvD7I93YZ33xNiyy8w3PHdphBq1k",
-      "category": "기타",
+      "startedAt": "2026-11-06T18:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE_Clc-ytn3mSL5ttl_zeNPbaYIp9h7W55VpptSoBOnMGyJlxjfLSGj4vfQ_Y",
+      "category": "연예",
       "news": [
         {
-          "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
-          "source": "The New York Times"
+          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
+          "url": "https://www.khan.co.kr/article/202611061631011",
+          "source": "경향신문"
         },
         {
-          "title": "Trump Launches Triumphal Arch Website Right As Judge Blocks Construction",
-          "url": "https://www.rollingstone.com/politics/politics-news/trump-launches-arch-website-judge-shuts-down-construction-1235653978/",
-          "source": "Rolling Stone"
+          "title": "뉴진스 계약서 공개되자...하이브가 내놓은 답변 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611062336285237",
+          "source": "YTN"
         },
         {
-          "title": "Judge blocks construction on Trump’s D.C.-area arch after commission’s approval",
-          "url": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642",
-          "source": "NBC News"
+          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
+          "url": "https://www.yna.co.kr/view/AKR20261106094700075",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "강남",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T15:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNSYML0HflddFDwwz3tZJGcVGX-eEAfAqinFJZHOToYuefHH_EZ_QykPtJuYQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645",
+          "source": "대한경제"
+        },
+        {
+          "title": "\"최근 강남3구서 5% 이상 하락 거래 16건\"",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611062251356141",
+          "source": "YTN"
+        },
+        {
+          "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
+          "url": "https://www.mk.co.kr/news/realestate/12200391",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "이강철",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T17:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUW239VTT52aAI7f-cCNLV9GaU_NHpmOj7pmpaaHEOCEy3mr6S5sR6qv3CM0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘KT 악재’ 손 다친 최원준, 선발 라인업 제외…“중요할 때 대타로”",
+          "url": "https://www.donga.com/news/Sports/article/all/20261106/134981290/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110620534942569",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[사진] 이강철 감독, 시작이 좋아",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MQ2TMYTFGEZDKYRVGAZWMNRUME/",
+          "source": "Chosunbiz"
         }
       ]
     },
@@ -124,18 +182,18 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-06T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo8bmYTvgmbB-U6hl-2UPFonP18SkdEapsI4R1McYJme9npdQgEUtzWpoMwTk",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCVvMFhTGzz97iqjHJk_fOQ0ckLWY5pqZTvgzt5KYnLdcPtWmey16UurKoMY",
       "category": "정치·사회",
       "news": [
-        {
-          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712",
-          "source": "SBS 뉴스"
-        },
         {
           "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
           "url": "https://sports.khan.co.kr/article/202611061513013",
           "source": "스포츠경향"
+        },
+        {
+          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712",
+          "source": "SBS 뉴스"
         },
         {
           "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
@@ -145,52 +203,36 @@
       ]
     },
     {
-      "keyword": "노태문",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T14:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShMQaACt3dixVo-xxLxyhClDvQb1pctpirj--N1_4b233I3d_nIAy54r9STU8",
-      "category": "경제",
+      "keyword": "t1 kc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T15:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "농성",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T18:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9HBss584EEn6L_pMGKqSC0dFWic90L_rX8wL21wWw7Y0gNrXsUdEQLrIO-qo",
+      "category": "스포츠",
       "news": [
         {
-          "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6863796_36932.html",
-          "source": "MBC 뉴스"
+          "title": "한화오션 생산 직·반장들 \"하청노조 고공농성 중단하라\"",
+          "url": "https://www.yna.co.kr/view/AKR20261106056400052",
+          "source": "연합뉴스"
         },
         {
-          "title": "노태문 삼성전자 사장, 증시 급락 속 자사주 6.3억원 어치 매입 \"책임경영\"",
-          "url": "https://www.newsis.com/view/NISX20261106_0003858472",
+          "title": "한화오션, 생산 현장 직·반장 \"거제 경제·일터 수호\" 결의",
+          "url": "https://www.newsis.com/view/NISX20261106_0003857343",
           "source": "뉴시스"
         },
         {
-          "title": "'20만전자' 무너지자…삼성전자 노태문, '3000주' 6억3000만원 규모 추가 매입",
-          "url": "https://www.etnews.com/20261106000363",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성증권",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T14:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcWaNfylMhoiU9AVpgvwZ3V4m7FpMAuXfO9MrIGrMun9Z8UfDGS-hJ6LoXWl4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354049",
-          "source": "녹색경제신문"
-        },
-        {
-          "title": "한미약품·삼성증권, 유망 바이오벤처 투자 유치 지원 나선다",
-          "url": "https://www.sedaily.com/article/20111140",
-          "source": "서울경제"
-        },
-        {
-          "title": "한미약품·삼성증권, 27일 바이오벤처·투자자 교류 행사 개최",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192626",
-          "source": "주간한국"
+          "title": "한화오션-하청노조 5차 교섭도 평행선…감독자들 “농성 중단해야”",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134976846/1",
+          "source": "동아일보"
         }
       ]
     },
@@ -208,48 +250,14 @@
           "source": "경향신문"
         },
         {
-          "title": "E200 1000만원 낮춰 판매한 벤츠…BMW 제치고 2위 탈환",
-          "url": "https://www.sedaily.com/article/20110290",
-          "source": "서울경제"
+          "title": "벤츠코리아, 직판제 안착에 신차 효과…BMW 제치고 독일 3사 ‘선두’",
+          "url": "https://www.etoday.co.kr/news/view/2644121",
+          "source": "이투데이"
         },
         {
           "title": "“태극기에 테슬라 로고를 떡하니”…머스크가 올린 사진 ‘눈길’",
           "url": "https://www.kyeonggi.com/article/20261106580392",
           "source": "경기일보"
-        }
-      ]
-    },
-    {
-      "keyword": "t1 kc",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T15:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "화장실",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T13:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNPnVEztfybr6unXqJk9pCfifmR-0IhX-zcxofgg4Zn2xeMm7KA63fPJbTdso",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "부산교통공사, 노포역 화장실 전국 75곳 중 동상…16번째 수상",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721088",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "벡스코 아름다운 화장실 국무총리상 수상 - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/06/2026110613531167437",
-          "source": "머니투데이"
-        },
-        {
-          "title": "\"비싼 VIP 라운지 왜 가요? 여기가 명당인데\"…대통령상까지 받은 '전국 1위' 화장실 어디",
-          "url": "https://view.asiae.co.kr/article/2026110514373033168",
-          "source": "아시아경제"
         }
       ]
     }
