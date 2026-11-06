@@ -1,45 +1,66 @@
 {
-  "updatedAt": "2026-11-06T09:56:22.673Z",
+  "updatedAt": "2026-11-06T10:56:27.886Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 4
-    },
-    {
-      "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 5
     },
     {
       "category": "경제",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "퇴직",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-06T09:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRohH_0xe3bry0I3ZvCpab0Er5KYbZiPv2sy7CLv5_t5UzuZlmu31pGV2KkOOw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"연금계좌 보는 것도 스트레스\"…연금 개미들 눈 돌린 곳",
+          "url": "https://www.hankyung.com/article/202611060933i",
+          "source": "한국경제"
+        },
+        {
+          "title": "정부, 퇴직연금 사업자와 제도 개편 논의…기금형 연금 안착 지원",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374453",
+          "source": "전기신문"
+        },
+        {
+          "title": "연봉 7억인데 일 안하는 은행연합회장, 차라리 정치인에게?",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/06/2026110680001.html",
+          "source": "인베스트조선"
+        }
+      ]
+    },
+    {
       "keyword": "kt 대 삼성",
-      "traffic": "10000+",
-      "trafficValue": 10000,
+      "traffic": "20000+",
+      "trafficValue": 20000,
       "startedAt": "2026-11-06T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjuoLu7OSxEbt9NwtkyzNHqN12Mntr3G05glv1U6t7OnffdnYe5foM2YTsyI8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDivOsEzwcRITV9sVAzW7u7u95861qhAxXXd9wg_ACdAnWAlMSWUqcnn6zfWs",
       "category": "스포츠",
       "news": [
         {
-          "title": "[포토] 박진만 감독 '김지찬 상태 괜찮다' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110616034073909",
-          "source": "머니투데이"
+          "title": "한국시리즈 3차전 승리 팀은?...소형준 vs 후라도 선발 대결",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611061727570999",
+          "source": "YTN"
         },
         {
-          "title": "후라도-KT 빈볼 신경전? 재발은 없다...\"메시지 줬다. 본인이 안다\" 박진만 자신있게 답했다 [KS3]",
-          "url": "https://www.osen.co.kr/article/G1112905233",
-          "source": "OSEN"
+          "title": "\"우승의 기쁨, 함께 나눠요\" 국민 유격수 향한 특별한 응원…대구CC 우승수 대표의 깜짝 이벤트 [KS3]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/GQ3WKNLCGUZTEOJUGBRDCYRRMQ/",
+          "source": "조선일보"
         },
         {
           "title": "'88.9% 확률' 걸린 KS 3차전…라팍 '대포 전쟁'에 달렸다",
@@ -49,143 +70,77 @@
       ]
     },
     {
-      "keyword": "어도어",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T08:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJsxnG4GCmfsRHU4umnjjaxA2ZKE37gCYb4do9o1xhjaH4MMPEi1_VZ6uW8kg",
-      "category": "연예",
+      "keyword": "티빙",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-06T09:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1qZ6jxMtzFoBQmo-xK7HMuQEETp0LfYI1OuO5p248ARjpDS_UKhOvhhg6Ibw",
+      "category": "경제",
       "news": [
         {
-          "title": "NYT가 입수한 ‘가혹한 뉴진스 계약서’ 파장···하이브 “적법한 계약” 해명",
-          "url": "https://www.khan.co.kr/article/202611061345001",
-          "source": "경향신문"
+          "title": "티빙, 3분기 영업손실 72억원...\"확실한 손익 개선 흐름\"",
+          "url": "https://zdnet.co.kr/view/?no=20261105152651",
+          "source": "지디넷코리아"
         },
         {
-          "title": "\"뉴진스 계약 불공정\"...뉴욕타임스가 공개한 조항 보니 [이슈톺]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611061424534673",
-          "source": "YTN"
+          "title": "CJ온스타일 '탈홈쇼핑' 투자 고삐, 이선영 수익성 뒷걸음에도 미래 고객 확보 베팅",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451398",
+          "source": "비즈니스포스트"
         },
         {
-          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
-          "url": "https://www.yna.co.kr/view/AKR20261106094700075",
+          "title": "하나증권 \"CJ ENM, 간만의 TV 광고 회복세…목표가 상향\"",
+          "url": "https://www.yna.co.kr/view/AKR20261106026900008",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "005930",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T08:20:00.000Z",
+      "keyword": "야구중계",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T09:50:00.000Z",
+      "picture": "",
+      "category": "스포츠",
+      "news": []
+    },
+    {
+      "keyword": "tving",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T09:50:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "가상자산",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T08:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUCdNz1KZG9qYlZL4WLIGNjue0iOo4E3aWJAgYFiwOcORfE6Lj_yFxUuevks",
-      "category": "경제",
-      "news": [
-        {
-          "title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975124",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "가상자산 과세 또 유예‥\"투자자 눈치보기?\"",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6863714_36974.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "“코인으로 1000만원 잃었는데 세금공제 없나요”…앞으로 3년까지 손실 인정",
-          "url": "https://stock.mk.co.kr/news/view/1190777",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "스노클링",
+      "keyword": "배트맨",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-06T08:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjFrmXpxdPGEc0HhiobCLC1A44AO4VMBjq4EKYc44CNwI8eJ_xhAr09cOVrew",
+      "startedAt": "2026-11-06T09:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPI0pr78j9sGaEW_kDIpC9CNEKRvpBirC7ZWk3e5uNe7QPGapLL13KJSkWUzQ",
       "category": "기타",
       "news": [
         {
-          "title": "인니 발리 인근 섬서 스노클링하던 韓관광객, 한달째 실종",
-          "url": "https://www.yna.co.kr/view/AKR20261106098000084",
-          "source": "연합뉴스"
+          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/scarlett-johansson-on-the-batman-part-ii-role-1236748021/",
+          "source": "The Hollywood Reporter"
         },
         {
-          "title": "\"제발 유리 좀 찾아주세요\"...30대 韓 여성, 대낮 휴양지서 사라져 한달째 실종",
-          "url": "https://www.fnnews.com/news/202611060606251303",
-          "source": "파이낸셜뉴스"
+          "title": "Scarlett Johansson Says Batman Role Gave Her ‘a Lot of Existential Angst’",
+          "url": "https://www.vulture.com/article/scarlett-johansson-batman-existential-angst.html",
+          "source": "Vulture"
         },
         {
-          "title": "“바다거북 보러 갔다가 사라진 31세 한국 여성…인니서 한 달째 실종”",
-          "url": "https://www.etnews.com/20261106000121",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "구급차",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T08:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl4tqQwsHwgHjMRK8GDaDXJY2hYjXgzsMC1b-NUvCJ_qhCFNr0fVRXX8LwOF0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“아기가 나오려는데요?” 구급차에서 태어난 31주 신생아···50일 만에 집으로 갔다",
-          "url": "https://www.khan.co.kr/article/202611061118001",
-          "source": "경향신문"
-        },
-        {
-          "title": "구급차에서 태어난 31주 조산아…응급처치로 살렸다",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705843",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[D리포트] \"엄마 보러 가자! 제발 살자 아기야!!\"…바디캠에 담긴 '기적의 현장'",
-          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008834218",
-          "source": "m.news.sbs.co.kr"
-        }
-      ]
-    },
-    {
-      "keyword": "코리아오픈 배드민턴",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T08:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdn7YJGdb3hAl_R5I5SfaldTCAwcpZwLsDNyCdzy4GLPspgXW8LN9od5lnVL4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'한 번만 더 이기면 진짜로 8전 전패 안세영과 또 만난다!' 日배드민턴 요정, 이번에도 2-0 완승…진짜 예쁘다!",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/05/GAZTSNRUMRSWKZJVGU2DCMLGGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "더 빨리 끝낸 16강전‥36분만에 52연승 행진",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863524_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "‘충무공 이순신 장군의 고장’ 여수에서 일본선수한테 절대 지면 안되지! 안세영, 8강전부터 3연속 일본선수와 맞대결 예상",
-          "url": "https://www.osen.co.kr/article/G1112905046",
-          "source": "OSEN"
+          "title": "Mystery around 'The Batman: Part II' is growing. Scarlett Johansson has added to the suspense.",
+          "url": "https://www.yahoo.com/entertainment/movies/article/mystery-around-the-batman-part-ii-is-growing-scarlett-johansson-has-added-to-the-suspense-145208330.html",
+          "source": "Yahoo"
         }
       ]
     },
     {
       "keyword": "박지후",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-06T08:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRBGAebicpqq3Wm38SBGn9e8sA6D9F15J5yEUiipJdxxg68lOy5t_aCRbNAQE",
       "category": "스포츠",
@@ -196,29 +151,29 @@
           "source": "iMBC 연예"
         },
         {
-          "title": "신기성, ‘미스트롯 포유’에서 발군의 노래 실력 뽐내",
-          "url": "https://www.munhwa.com/article/11628672",
-          "source": "문화일보"
-        },
-        {
           "title": "진(眞) 저력 입증한 이소나, 변진섭 '그대 내게 다시'부터 김상배 '삼백초'까지",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743776",
           "source": "국제뉴스"
+        },
+        {
+          "title": "신기성, ‘미스트롯 포유’에서 발군의 노래 실력 뽐내",
+          "url": "https://www.munhwa.com/article/11628672",
+          "source": "문화일보"
         }
       ]
     },
     {
       "keyword": "강민호",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-06T08:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWbOxM2elS-sznlwNTJ67EHf90_f_FA8jhacKVde12HDpHyzUp0HZxgt8WMU4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7gpwyeHowAxdPNmCeC-FnfVuZY0C8aaslXJaZ-W9aB4mPJO-l_4ihPcAZ4c",
       "category": "스포츠",
       "news": [
         {
-          "title": "“번트? 저 강민호인데요” 13년 전 CF대사, 올해 강민호에겐 없다",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706059",
-          "source": "KBS 뉴스"
+          "title": "\"번트? 저 강민호인데요\" 13년 전 CF대사, 올해 강민호에겐 없다",
+          "url": "https://www.yna.co.kr/view/AKR20261106134600007",
+          "source": "연합뉴스"
         },
         {
           "title": "구자욱은 뛰지도 못하는데..득점 막는 '2개의 핸디캡' 삼성은 무슨 생각으로 '자동아웃' 포수를 라인업에 두고 있을까[KS]",
@@ -233,27 +188,52 @@
       ]
     },
     {
-      "keyword": "부산 불꽃축제",
+      "keyword": "병사",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-06T08:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbh65iVgnbKuoToU1kgTba7TXnFhpJ9xP-78bk2Ure6nfEkunCCh-oHDISQHg",
-      "category": "생활·날씨",
+      "startedAt": "2026-11-06T09:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2U4DOO_u9DuBRdRRhyZFfhVmjmVcFCMnc1TgoMb6Iq5UdCryuPrWOfIQ5Za4",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "카카오맵, ‘제21회 부산불꽃축제’ 축제 전용 지도 제공…혼잡 구역부터 일행 위치 확인까지",
-          "url": "https://www.kakaocorp.com/page/detail/12194",
-          "source": "카카오"
+          "title": "‘강제 팔굽혀펴기’ 100회로 근육 녹게 한 軍간부, 재판 넘겨져",
+          "url": "https://www.donga.com/news/Society/article/all/20261106/134978709/1",
+          "source": "동아일보"
         },
         {
-          "title": "하늘엔 불꽃 터지고 땅엔 쓰레기 넘치고… 100만 인파에 쓰레기통 6개",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026110518155177295",
-          "source": "부산일보"
+          "title": "'강제 팔굽혀펴기'로 병사 근육 녹인 군 간부 가혹행위죄 기소",
+          "url": "https://www.yna.co.kr/view/AKR20261106074000062",
+          "source": "연합뉴스"
         },
         {
-          "title": "KT, 부산불꽃축제에 임시기지국 19곳 설치…5G로 인파 안전관제 지원 - 머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/11/06/2026110608535652679",
-          "source": "머니투데이"
+          "title": "근육 녹을 때까지 팔굽혀 펴기 시킨 육군 중사, 재판행",
+          "url": "https://www.munhwa.com/article/11629450",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "한국시리즈 3차전",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T09:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFERH4_cPLJz6-L41aaHhAWafQN9AFEjIZ3E9emjPM_RPKsjcfkivk7i6a3ik",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "한국시리즈 3차전, 전설과 무대가 만난다..... 이승엽 시구·김소현 애국가…야구팬 기대감 고조",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=846362",
+          "source": "제민일보"
+        },
+        {
+          "title": "[사진]선취 타점 힐리어드, 시작하자마자 KT가 앞서간다",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/ME3TCMDCMEZDMY3EGM4DMMBZGU/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "'영원한 36번' 삼성 레전드 국민타자 명품 시구, \"삼성-KT, 야구 팬들에게 감동 주시길...향후 행보? 조금 더 기다릴 것\" [KS3]",
+          "url": "https://www.osen.co.kr/article/G1112905317",
+          "source": "OSEN"
         }
       ]
     }
