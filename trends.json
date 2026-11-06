@@ -1,263 +1,259 @@
 {
-  "updatedAt": "2026-11-06T08:16:00.041Z",
+  "updatedAt": "2026-11-06T09:56:22.673Z",
   "summary": [
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 4
     },
     {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "category": "기타",
+      "count": 3
     },
     {
       "category": "연예",
       "count": 1
     },
     {
-      "category": "기타",
+      "category": "경제",
       "count": 1
     },
     {
-      "category": "스포츠",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "죽음",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-06T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOT8w8jSF8_SdamhkNCGmAUr_0TBL3whsynSNoKFu61sc0tD4ReUfRmpLwHuc",
-      "category": "정치·사회",
+      "keyword": "kt 대 삼성",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-06T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjuoLu7OSxEbt9NwtkyzNHqN12Mntr3G05glv1U6t7OnffdnYe5foM2YTsyI8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[단독]잇단 정신질환자 흉기 난동…정부, '비자의 입원' 제도 손질",
-          "url": "https://tv.edaily.co.kr/News/NewsRead?NewsId=01912246645643096&Kind=257",
-          "source": "이데일리TV"
-        },
-        {
-          "title": "우울증 약값 낮추고 위기 환자 이송까지…정신건강 안전망 손본다",
-          "url": "https://www.news1.kr/bio/welfare-medical/6343251",
-          "source": "뉴스1"
-        },
-        {
-          "title": "하루 38.8명 죽음이 던진 과제",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=753812&menu=index",
-          "source": "프라임경제"
-        }
-      ]
-    },
-    {
-      "keyword": "이용철",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-06T06:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1QQ8tNp0HXfzY0dUQsrR0qWTZM8KMzvZN6MMuySOchohC-Wjbf7Bk2QaCT8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[속보] 법무장관에 ‘대장동 특혜 의혹’ 이용철 방사청장 지명",
-          "url": "https://www.chosun.com/politics/politics_general/2026/11/06/GWOKLSMYBRGR3EAZXCNXDJCYFU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[속보] 靑 신임 정무수석에 최인호 전 더불어민주당 의원",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6863726_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[속보] 법무부 장관 후보자에 이용철 방위사업청장 지명",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1286136.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "래미안 원베일리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T06:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNSYML0HflddFDwwz3tZJGcVGX-eEAfAqinFJZHOToYuefHH_EZ_QykPtJuYQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645",
-          "source": "대한경제"
-        },
-        {
-          "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
-          "url": "https://www.mk.co.kr/news/realestate/12200391",
-          "source": "매일경제"
-        },
-        {
-          "title": "강남권 조정, 외곽으로 번질까?...\"전월세난 주목해야\"",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611052305343897",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "골드만삭스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T06:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRanHQp0dMHD6Z-7NoxeTgA0bRaqQt0Hh9kn5XFJhfBbmgoLVAi4RjAtjYwUOc",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "골드만삭스, 호주 금광주 3종목 분석 발표",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2163460",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "“전화가 폭주한다”…골드만삭스가 분석한 월가의 역사적 폭락",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2162894",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "AI주 폭락에 불나는 전화통…공포에 문의 폭증 [지금이뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0545_202611061220021270",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "짜장면",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T06:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8czRjkdOzoJlWbK21H7OAxmCvjm4WEHAKyCDwTQxYcaLxvbjkm1of5DLIzk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "경북북부제1교도소, 수용자 특식(짜장면) 제공",
-          "url": "https://www.lawissue.co.kr/view.php?ud=2026110610194868719a8c8bf58f_12",
-          "source": "로이슈"
-        },
-        {
-          "title": "\"짜장면 1,100그릇 쏟아졌다\"…교도소 수용자들에 특별한 점심 선물",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744219",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "“배달기사가 음식 몰래 빼먹어” vs 배달앱 “파손 음식 폐기 오해”",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134975922/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "과태료",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T07:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0ago6dAU7qINWZTE_hDdsl5u1JZf_lXh6V9SnpPSBrymKO54ngiVe4n4n6g",
-      "category": "연예",
-      "news": [
-        {
-          "title": "공정위, '깜깜이 스드메' 17곳 처음 과태료 1,560만 원 부과",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611051604066128",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "\"사진 몇 장 추가했더니 수백만원\"…결혼 앞둔 예비부부들, 웨딩업계 비용 불만 여전",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354073",
-          "source": "녹색경제신문"
-        },
-        {
-          "title": "스드메·예식장업체 절반만 가격정보 공개…47%는 아직도 깜깜이",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8704890",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "남대문시장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRswCHg_GfhvmUDyeIClJ_LZ9-gdHvo_zBIBckWbGMVEVoqvc33tIfbyADLX4s",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "남대문 스카프 아저씨 \"경찰까지 출동\"…영업 재개 하루 만에 또 휴업 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/05/2026110514064120180",
+          "title": "[포토] 박진만 감독 '김지찬 상태 괜찮다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110616034073909",
           "source": "머니투데이"
         },
         {
-          "title": "말 없는 출근길 영상인데‥조회 수 300만",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863584_37012.html",
-          "source": "MBC 뉴스"
+          "title": "후라도-KT 빈볼 신경전? 재발은 없다...\"메시지 줬다. 본인이 안다\" 박진만 자신있게 답했다 [KS3]",
+          "url": "https://www.osen.co.kr/article/G1112905233",
+          "source": "OSEN"
         },
         {
-          "title": "[르포] 스카프 아저씨에 외국인까지… 남대문 상가 임대료는 올랐다",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/05/JY7PUGBGINGDHHRQNZRRALSWEQ/",
-          "source": "Chosunbiz"
+          "title": "'88.9% 확률' 걸린 KS 3차전…라팍 '대포 전쟁'에 달렸다",
+          "url": "https://www.yna.co.kr/view/AKR20261105109300007",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "동티모르",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T06:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuXU_c8EWORcK1KKRzwuQoSinSnYAkZiOEwCeB_uDdA4UA1zLJW9RzF2cCnKg",
-      "category": "정치·사회",
+      "keyword": "어도어",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T08:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJsxnG4GCmfsRHU4umnjjaxA2ZKE37gCYb4do9o1xhjaH4MMPEi1_VZ6uW8kg",
+      "category": "연예",
       "news": [
         {
-          "title": "이 대통령 \"한·동티모르 협력 확대…미래 위한 동행으로 발전\"",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975198",
-          "source": "대한민국 정책브리핑"
+          "title": "NYT가 입수한 ‘가혹한 뉴진스 계약서’ 파장···하이브 “적법한 계약” 해명",
+          "url": "https://www.khan.co.kr/article/202611061345001",
+          "source": "경향신문"
         },
         {
-          "title": "노벨평화상 수상자 오르타 \"韓 빛의 혁명, 노벨상 후보로 적극 추천\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443502",
-          "source": "연합인포맥스"
+          "title": "\"뉴진스 계약 불공정\"...뉴욕타임스가 공개한 조항 보니 [이슈톺]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611061424534673",
+          "source": "YTN"
         },
         {
-          "title": "치안협력을 위한 기술약정 체결식 참석한 김종철 경찰청장 직무대행",
-          "url": "https://www.newsis.com/view/NISI20261106_0021521796",
-          "source": "뉴시스"
+          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
+          "url": "https://www.yna.co.kr/view/AKR20261106094700075",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "경국대",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T06:20:00.000Z",
+      "keyword": "005930",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T08:20:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "농구",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T06:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJvwsDnKML-gEP_FVWuimi4IWIXWyqxuouD1NWAsIzOFnG_4I-OQmhpDCMu88",
-      "category": "스포츠",
+      "keyword": "가상자산",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T08:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUCdNz1KZG9qYlZL4WLIGNjue0iOo4E3aWJAgYFiwOcORfE6Lj_yFxUuevks",
+      "category": "경제",
       "news": [
         {
-          "title": "아시안게임 금메달 이정현 등 농구 월드컵 아시아 예선 출전",
-          "url": "https://www.yna.co.kr/view/AKR20261106082900007",
+          "title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975124",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "가상자산 과세 또 유예‥\"투자자 눈치보기?\"",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6863714_36974.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "“코인으로 1000만원 잃었는데 세금공제 없나요”…앞으로 3년까지 손실 인정",
+          "url": "https://stock.mk.co.kr/news/view/1190777",
+          "source": "매일경제 마켓"
+        }
+      ]
+    },
+    {
+      "keyword": "스노클링",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T08:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjFrmXpxdPGEc0HhiobCLC1A44AO4VMBjq4EKYc44CNwI8eJ_xhAr09cOVrew",
+      "category": "기타",
+      "news": [
+        {
+          "title": "인니 발리 인근 섬서 스노클링하던 韓관광객, 한달째 실종",
+          "url": "https://www.yna.co.kr/view/AKR20261106098000084",
           "source": "연합뉴스"
         },
         {
-          "title": "금메달 주역 8명에 허훈·안영준까지 합류! 마줄스호 월드컵 예선 최종 12인 발표... 카타르 원정 2연전 나선다 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110614350616921",
-          "source": "머니투데이"
+          "title": "\"제발 유리 좀 찾아주세요\"...30대 韓 여성, 대낮 휴양지서 사라져 한달째 실종",
+          "url": "https://www.fnnews.com/news/202611060606251303",
+          "source": "파이낸셜뉴스"
         },
         {
-          "title": "‘AG 금메달’ 남자 농구, 월드컵 출전 명단 12인 확정…이현중은 제외",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705919",
+          "title": "“바다거북 보러 갔다가 사라진 31세 한국 여성…인니서 한 달째 실종”",
+          "url": "https://www.etnews.com/20261106000121",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "구급차",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T08:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl4tqQwsHwgHjMRK8GDaDXJY2hYjXgzsMC1b-NUvCJ_qhCFNr0fVRXX8LwOF0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“아기가 나오려는데요?” 구급차에서 태어난 31주 신생아···50일 만에 집으로 갔다",
+          "url": "https://www.khan.co.kr/article/202611061118001",
+          "source": "경향신문"
+        },
+        {
+          "title": "구급차에서 태어난 31주 조산아…응급처치로 살렸다",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705843",
           "source": "KBS 뉴스"
+        },
+        {
+          "title": "[D리포트] \"엄마 보러 가자! 제발 살자 아기야!!\"…바디캠에 담긴 '기적의 현장'",
+          "url": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008834218",
+          "source": "m.news.sbs.co.kr"
+        }
+      ]
+    },
+    {
+      "keyword": "코리아오픈 배드민턴",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T08:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdn7YJGdb3hAl_R5I5SfaldTCAwcpZwLsDNyCdzy4GLPspgXW8LN9od5lnVL4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'한 번만 더 이기면 진짜로 8전 전패 안세영과 또 만난다!' 日배드민턴 요정, 이번에도 2-0 완승…진짜 예쁘다!",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/05/GAZTSNRUMRSWKZJVGU2DCMLGGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "더 빨리 끝낸 16강전‥36분만에 52연승 행진",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863524_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "‘충무공 이순신 장군의 고장’ 여수에서 일본선수한테 절대 지면 안되지! 안세영, 8강전부터 3연속 일본선수와 맞대결 예상",
+          "url": "https://www.osen.co.kr/article/G1112905046",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "박지후",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T08:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRBGAebicpqq3Wm38SBGn9e8sA6D9F15J5yEUiipJdxxg68lOy5t_aCRbNAQE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘미스트롯 포유’ 김동현, 이소나와 우승 정조준 “밥그릇 줄어들까 봐 걱정돼”",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523752",
+          "source": "iMBC 연예"
+        },
+        {
+          "title": "신기성, ‘미스트롯 포유’에서 발군의 노래 실력 뽐내",
+          "url": "https://www.munhwa.com/article/11628672",
+          "source": "문화일보"
+        },
+        {
+          "title": "진(眞) 저력 입증한 이소나, 변진섭 '그대 내게 다시'부터 김상배 '삼백초'까지",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743776",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "강민호",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T08:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWbOxM2elS-sznlwNTJ67EHf90_f_FA8jhacKVde12HDpHyzUp0HZxgt8WMU4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“번트? 저 강민호인데요” 13년 전 CF대사, 올해 강민호에겐 없다",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706059",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "구자욱은 뛰지도 못하는데..득점 막는 '2개의 핸디캡' 삼성은 무슨 생각으로 '자동아웃' 포수를 라인업에 두고 있을까[KS]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/HFTGMY3GGJRDSNZYMEYDCMTBGY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"내 몸이 중요한 게 아냐\" 투혼의 가을인데, '지명 포수' 됐다…'우승 성불'이 이렇게 힘들어야 할까 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611061046779299O",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "부산 불꽃축제",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T08:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbh65iVgnbKuoToU1kgTba7TXnFhpJ9xP-78bk2Ure6nfEkunCCh-oHDISQHg",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "카카오맵, ‘제21회 부산불꽃축제’ 축제 전용 지도 제공…혼잡 구역부터 일행 위치 확인까지",
+          "url": "https://www.kakaocorp.com/page/detail/12194",
+          "source": "카카오"
+        },
+        {
+          "title": "하늘엔 불꽃 터지고 땅엔 쓰레기 넘치고… 100만 인파에 쓰레기통 6개",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026110518155177295",
+          "source": "부산일보"
+        },
+        {
+          "title": "KT, 부산불꽃축제에 임시기지국 19곳 설치…5G로 인파 안전관제 지원 - 머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/11/06/2026110608535652679",
+          "source": "머니투데이"
         }
       ]
     }
