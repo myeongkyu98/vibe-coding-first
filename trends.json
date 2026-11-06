@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-11-06T20:41:32.528Z",
+  "updatedAt": "2026-11-06T21:35:33.301Z",
   "summary": [
+    {
+      "category": "스포츠",
+      "count": 4
+    },
     {
       "category": "기타",
       "count": 3
@@ -10,182 +14,115 @@
       "count": 2
     },
     {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "주가 대폭락",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-06T19:10:00.000Z",
-      "picture": "",
-      "category": "경제",
-      "news": []
-    },
-    {
-      "keyword": "강남",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-06T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNSYML0HflddFDwwz3tZJGcVGX-eEAfAqinFJZHOToYuefHH_EZ_QykPtJuYQ",
-      "category": "경제",
+      "keyword": "시콜 스키 s 92",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-06T17:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn9GGe8W0-af1UwM6EGN8YUAwSs7SZKYKt8kqP8mCxUratHazHfevd0EpRy_o",
+      "category": "기타",
       "news": [
         {
-          "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645",
-          "source": "대한경제"
+          "title": "South Korea selects Sikorsky S-92A+ for new presidential transport helicopter",
+          "url": "https://www.flightglobal.com/defence/2026/11/south-korea-selects-sikorsky-s-92a-for-new-presidential-transport-helicopter/",
+          "source": "FlightGlobal"
         },
         {
-          "title": "\"그때 팔 걸\" 매물만 쌓인다…20억 넘게 빠진 압구정 집주인들 '속앓이' - 머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/11/07/2026110612530467580",
-          "source": "머니투데이"
+          "title": "South Korea orders four S-92A+ helicopters to replace presidential fleet",
+          "url": "https://www.airdatanews.com/south-korea-orders-four-s-92-a-helicopters-to-replace-presidential-fleet/",
+          "source": "Air Data News"
         },
         {
-          "title": "“20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’",
-          "url": "https://www.mk.co.kr/news/realestate/12200391",
+          "title": "The military has finally selected Lockheed Martin's \"S-92A+\" as a presidential helicopter model to b..",
+          "url": "https://www.mk.co.kr/en/politics/12200557",
           "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "이강철",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T17:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUW239VTT52aAI7f-cCNLV9GaU_NHpmOj7pmpaaHEOCEy3mr6S5sR6qv3CM0",
+      "keyword": "황인범",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T19:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_AVyznWLqy3ToWSYaAQklSpBHDD8RaCRPjSv9CQPTFw1UIjN91pI7V0QkFYk",
       "category": "스포츠",
       "news": [
         {
-          "title": "‘KT 악재’ 손 다친 최원준, 선발 라인업 제외…“중요할 때 대타로”",
-          "url": "https://www.donga.com/news/Sports/article/all/20261106/134981290/1",
-          "source": "동아일보"
+          "title": "투입 2분 만에 도움…황인범, 모레노 앞 매력 발산",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105233057CdZ",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110620534942569",
-          "source": "머니투데이"
-        },
-        {
-          "title": "[사진] 이강철 감독, 시작이 좋아",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MQ2TMYTFGEZDKYRVGAZWMNRUME/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "임형주",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T16:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGOr9gtV_edAkk7HHW5F5nuPONKDHsrxs5BPHR3tbr5YcFR4z3V6FqHrXIPW8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[OBITUARY] 더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
-          "url": "https://cine21.com/news/view/?mag_id=111222",
-          "source": "씨네21"
-        },
-        {
-          "title": "[지지대] 초록우산과 초록산타, 그리고 최불암",
-          "url": "https://www.kyeonggi.com/article/20261105580023",
-          "source": "경기일보"
-        },
-        {
-          "title": "나흘 내내 故최불암 곁 지킨 김혜수 “추모해 준 모든 분께 감사”",
-          "url": "https://www.joongang.co.kr/article/25475818",
-          "source": "중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "이승기",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T16:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDbi1GdgmAt_p4G4sn5BSNGty1FAZtaicRz_2eqLaBDEhpOB40vSFEq28cb2Q",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"내 보물 둘\" 이승기·이다인, 생후 4개월 둘째 아들 첫 공개 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605372731434",
-          "source": "머니투데이"
-        },
-        {
-          "title": "이다인, 4개월 된 둘째 아들 모습 최초 공개…이승기 ‘딸바보’ 인증도 눈길",
-          "url": "https://sports.khan.co.kr/article/202611060841003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "\"동생 생겼어요\" 이승기♥이다인, 붕어빵 4식구 공개..화목한 생파 [핫피플]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/MYZGIODCGVRTCZBXME3DKOLGGA/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "유튜버",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo8bmYTvgmbB-U6hl-2UPFonP18SkdEapsI4R1McYJme9npdQgEUtzWpoMwTk",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712",
+          "title": "투입 2분 만에 쐐기골 도움…3연패 끊었다!",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832927",
           "source": "SBS 뉴스"
         },
         {
-          "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
-          "url": "https://sports.khan.co.kr/article/202611061513013",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "한국인 여행 유튜버, 남미서 뺑소니 사고로 사망…향년 33세",
-          "url": "https://www.munhwa.com/article/11629265",
-          "source": "문화일보"
+          "title": "포르투 황인범, 챔피언스리그 교체투입 2분 만에 도움‥팀은 대승",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6863322_36946.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "어 도어",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE_Clc-ytn3mSL5ttl_zeNPbaYIp9h7W55VpptSoBOnMGyJlxjfLSGj4vfQ_Y",
-      "category": "연예",
+      "keyword": "젠슨 황",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T20:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9d1422SmDIZnlFfNLLEduVCx8Nys0oQewp2ZungvGCcRuuBsYqDtqm9k5tos",
+      "category": "기타",
       "news": [
         {
-          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
-          "url": "https://www.khan.co.kr/article/202611061631011",
-          "source": "경향신문"
-        },
-        {
-          "title": "NYT, 뉴진스 계약서 공개… “성형비용 멤버가 부담”",
-          "url": "https://www.donga.com/news/People/article/all/20261106/134982270/2",
+          "title": "“술자리 옆 여성과 무슨 사이냐”…젠슨 황, ‘소환장’ 받았다",
+          "url": "https://www.donga.com/news/Inter/article/all/20261106/134978932/1",
           "source": "동아일보"
         },
         {
-          "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
-          "url": "https://www.yna.co.kr/view/AKR20261106094700075",
-          "source": "연합뉴스"
+          "title": "“술자리 옆 中 여성과 무슨 사이냐”…젠슨 황, 美의회 '소환장' 받았다",
+          "url": "https://www.etnews.com/20261107000003",
+          "source": "전자신문"
+        },
+        {
+          "title": "미국 의회, 젠슨황에 “’중국 간첩 의혹’ 여성과 관계 직접 해명하라“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106114956gph",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "카를로스 알카라스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T19:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbE4VEPkhfRFNAIJHSOP7w2-rz1Dy-yMtoFTlIU763K34Npb0ExH8Tcjrc7sE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "알카라스, 베레티니 부상 기권으로 파리 마스터스 8강…프리츠와 격돌",
+          "url": "https://www.etoday.co.kr/news/view/2644971?trc=main_list_news",
+          "source": "이투데이"
+        },
+        {
+          "title": "알카라스, 미켈센 2-0 제압…파리 마스터스 16강 진출",
+          "url": "https://www.etoday.co.kr/news/view/2644533?trc=right_categori_news",
+          "source": "이투데이"
+        },
+        {
+          "title": "베레티니 기권으로 알카라스, 파리 마스터스 준준결승 진출",
+          "url": "https://mezha.net/ko/news/mezha-c4653b992567e1b66d595656_alcaraz-advances-to-paris-masters-quarter/",
+          "source": "Mezha.net"
         }
       ]
     },
     {
       "keyword": "농성",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-06T18:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9HBss584EEn6L_pMGKqSC0dFWic90L_rX8wL21wWw7Y0gNrXsUdEQLrIO-qo",
       "category": "스포츠",
@@ -208,37 +145,112 @@
       ]
     },
     {
-      "keyword": "일론 머스크",
+      "keyword": "송미령",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-06T15:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqf21qSMyw19y7kBBjznh0JUCRuDaaZ-p5QeUuImdaMfJcNbJCdpUzPfER8rA",
-      "category": "기타",
+      "startedAt": "2026-11-06T20:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYMKm-8-wV5hpHmKkratUrQhoF5QWEwBCfJSvf1sE2TwPm3uq3MjxbpjMUIP8",
+      "category": "경제",
       "news": [
         {
-          "title": "머스크, X에 ‘테슬라 태극기’ 공유…한국시장 1위 질주 ‘자축’",
-          "url": "https://www.khan.co.kr/article/202611062104001",
-          "source": "경향신문"
+          "title": "햇빛 모아 부자 될 거야! 농사도 짓고 돈도 버는 영농형 태양광의 모든 것 - 영상 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975227&pWise=sub&pWiseSub=C2",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "벤츠코리아, 직판제 안착에 신차 효과…BMW 제치고 독일 3사 ‘선두’",
-          "url": "https://www.etoday.co.kr/news/view/2644121",
-          "source": "이투데이"
+          "title": "농식품부, 규제합리화 과제 선정…농지조사 후속 특별법 추진",
+          "url": "https://www.yna.co.kr/view/AKR20261106171100030",
+          "source": "연합뉴스"
         },
         {
-          "title": "“태극기에 테슬라 로고를 떡하니”…머스크가 올린 사진 ‘눈길’",
-          "url": "https://www.kyeonggi.com/article/20261106580392",
-          "source": "경기일보"
+          "title": "농업과 에너지의 새로운 동행, '영농형태양광 상생한마당' 열려",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=455556",
+          "source": "서울Pn"
         }
       ]
     },
     {
-      "keyword": "t1 kc",
+      "keyword": "어 도어",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-06T15:10:00.000Z",
+      "startedAt": "2026-11-06T18:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjeQVhyWHg9IDaE5mStKIhytDv9KqVEH_M9ZjVp2AGTxdMz7EEbmCL6g-gDtk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘뉴진스’ 계약 불공정 논란…“가혹하다” vs “사실아냐”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706309",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
+          "url": "https://www.khan.co.kr/article/202611061631011",
+          "source": "경향신문"
+        },
+        {
+          "title": "뉴진스 계약서 공개되자...하이브가 내놓은 답변 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611062336285237",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "옥수수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T17:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwbrXXlxl8GyjorS0k8sMLcBXzkcic-gPYhLiGcQDGeI9hlPaU2EVnAOF2d8",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "\"주인님, 저 이상해요\"…병 걸리면 SOS 보내는 옥수수 정체",
+          "url": "https://www.hankyung.com/article/2026110615051",
+          "source": "한국경제"
+        },
+        {
+          "title": "AI로 작물 분석 병해충 감지시스템 개발",
+          "url": "https://www.nongmin.com/article/20261030500621",
+          "source": "농민신문"
+        },
+        {
+          "title": "병 걸리면 보라색 변하는 옥수수…미국 조기 경보 작물 개발 : 테크/과학",
+          "url": "https://news.jkn.co.kr/post/1075791",
+          "source": "재경일보"
+        }
+      ]
+    },
+    {
+      "keyword": "twitch",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T20:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMjMmuTKodxQBNI0StqJaGE7PfFfvpAskdkmRjeZOUTCwoLM4ch9FTZazjDsU",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Georgia football injury report vs. Ole Miss",
+          "url": "https://247sports.com/college/georgia/longformarticle/georgia-bulldogs-football-injury-report-update-ole-miss-rebels-292240149/",
+          "source": "247Sports"
+        },
+        {
+          "title": "Back Ole Miss to Cover Against Georgia With Trinidad Chambliss Catching the Hook at Home",
+          "url": "https://sports.yahoo.com/videos/back-ole-miss-cover-against-194033848.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Three Bold Predictions for Georgia Football vs. Ole Miss Football on Saturday Night",
+          "url": "https://www.si.com/college/georgia/three-bold-predictions-for-georgia-football-vs-ole-miss-football-on-saturday-night-01m6pvmxbjv7",
+          "source": "Sports Illustrated"
+        }
+      ]
+    },
+    {
+      "keyword": "주가 대폭락",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-06T19:10:00.000Z",
       "picture": "",
-      "category": "기타",
+      "category": "경제",
       "news": []
     }
   ]
