@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-07T17:29:01.752Z",
+  "updatedAt": "2026-11-07T18:34:32.451Z",
   "summary": [
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 5
     },
     {
-      "category": "기타",
-      "count": 3
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
     },
     {
       "category": "생활·날씨",
@@ -20,13 +24,43 @@
   ],
   "items": [
     {
+      "keyword": "노팅엄 포레스트 대 맨 시티",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-07T16:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxqkPTO5qcRyDbZuliaXKCm0YfK4DjpsPQvJBiQYcvMHICW3uRLx9rH5jEKBc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+          "source": "BBC"
+        },
+        {
+          "title": "LIVE: Nottingham Forest stuns Man City with early goals in Premier League clash",
+          "url": "https://www.usatoday.com/story/sports/soccer/epl/2026/11/07/manchester-city-nottingham-forest-premier-league/92661741007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Nottingham Forest v Manchester City: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
       "keyword": "복권",
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-07T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJB8Fpr6Zq5oOSKT0Fw2qhIPvtACVvOKQcblmCx0q1QH9xAl6kKY1qvgqBtK4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgPU1MVKUE1F9mrYIU21zXqh8aay2UjlLzuhU_o4HQ2jx8Wvkp7lk1E0LPHV4",
       "category": "기타",
       "news": [
+        {
+          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
+          "url": "https://www.khan.co.kr/article/202611072132001",
+          "source": "경향신문"
+        },
         {
           "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257",
@@ -36,61 +70,31 @@
           "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
           "url": "https://www.kyeonggi.com/article/20261107580125",
           "source": "경기일보"
-        },
-        {
-          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
-          "url": "https://www.khan.co.kr/article/202611072132001",
-          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "아스널 대 헐 시티",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-07T14:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzYa7bKqdm9fdYxbT4LINbJivtl6f1oZaUeKDV0m6qTe_zpOU6HOh8vFm3KFI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "아스널 0-0 헐 시티 (전반전): 선제골을 넣기 위한 공격에 박차를 가하고 있다.",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h2-tang-toc-tim-ban-mo-ty-so",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1064325",
-          "source": "재경일보"
-        },
-        {
-          "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
-          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo",
-          "source": "Laodong.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "풀럼 대 뉴캐슬",
+      "keyword": "하정우",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-07T14:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNYU1uJkE0eaVHx76SqFlmI2eUdVCTtKnA1sGAcGTW6O7NnuXJVcppWNeYLQ",
-      "category": "스포츠",
+      "startedAt": "2026-11-07T15:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge8dxPYYAfF8sl8J5w14tL0r4X1VzRassqY6sBudCzC5Sb4V562l3jPCB8mo",
+      "category": "연예",
       "news": [
         {
-          "title": "프리미어 리그 풀럼 대 뉴캐슬 경기 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-newcastle-tai-premier-league-1795650.ldo",
-          "source": "Laodong.vn"
+          "title": "하정우, 12월 결혼 앞두고...확 달라진 비주얼 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110716222760934",
+          "source": "머니투데이"
         },
         {
-          "title": "경기 프리뷰: 풀럼 vs 뉴캐슬, 11월 7일 22시: 정상 등극을 향한 결의.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-newcastle-22h00-ngay-7-11-quyet-chi-vuon-len",
-          "source": "Vietnam.vn"
+          "title": "'차정원♥' 하정우, 결혼 앞두고 달라진 비주얼 공개",
+          "url": "https://www.newsis.com/view/NISX20261107_0003859045",
+          "source": "뉴시스"
         },
         {
-          "title": "풀럼 vs 뉴캐슬 예측: 상위권 경쟁의 뜨거운 승부",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fulham-vs-newcastle-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
+          "title": "‘차정원♥’ 하정우, 12월 결혼 앞두고 근황…한층 날렵해진 모습",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1",
+          "source": "동아일보"
         }
       ]
     },
@@ -108,39 +112,14 @@
           "source": "BBC"
         },
         {
-          "title": "Preview: Birmingham City v Swansea City",
-          "url": "https://www.bcfc.com/pages/en/media-article/preview-birmingham-city-v-swansea-city",
-          "source": "Birmingham City Football Club"
+          "title": "Birmingham 2-1 Swansea: Jay Stansfield scores twice as Blues go top of the Championship",
+          "url": "https://www.skysports.com/football/news/13592975/birmingham-2-1-swansea-jay-stansfield-scores-twice-as-blues-go-top-of-the-championship",
+          "source": "Sky Sports"
         },
         {
-          "title": "Vitor Matos | We have to be ready for another tough challenge",
-          "url": "https://www.swanseacity.com/news/vitor-matos-we-have-be-ready-another-tough-challenge",
-          "source": "Swansea City"
-        }
-      ]
-    },
-    {
-      "keyword": "arsenal vs hull",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFqzXEUnIkeHVjjf6-9d_5ruBqX4OUkXOKAbbtrE2r6yYEN5v0iWWY2VKwwa4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Arsenal 1-0 Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
-          "url": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners",
-          "url": "https://www.bbc.com/sport/football/live/c64g1dvlpjzkt",
-          "source": "BBC"
-        },
-        {
-          "title": "Fans in stitches as Arsenal vs Hull referee 'sells fans a dummy' with VAR check at Emirates Stadium",
-          "url": "https://www.thesun.co.uk/sport/40951157/arsenal-hull-referee-var-check-emirates-stadium-havertz/",
-          "source": "The Sun"
+          "title": "Licensable picture: Birmingham City v Swansea City - Sky Bet Championship 2026/27",
+          "url": "https://www.reutersconnect.com/item/birmingham-city-v-swansea-city-sky-bet-championship-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEo2NUQxRw",
+          "source": "Reuters Connect"
         }
       ]
     },
@@ -149,18 +128,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-07T16:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSy1YQvEK9hVwXB-fH0zHPDVE--qn0joksPu4Yb5-NFDfFHkaca9hF9ImybAaM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiBarbzwZKilSQNuS_93Hk-d4XpCPPBVvgR7UQ_pi1R2YB4IRoWn2zaVMIMeE",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
-          "url": "https://www.yna.co.kr/view/AKR20261108001400530",
-          "source": "연합뉴스"
+          "title": "일본 시즈오카현 하마마쓰시 북쪽 21km 지역 규모 5.7 지진",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706831",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "일본 지바현 지바시 동남동쪽 202km 해역 규모 6.1 지진",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706275",
-          "source": "KBS 뉴스"
+          "title": "일본 지바현 지바시 동남동쪽 바다서 규모 6.1 지진 발생",
+          "url": "https://www.yna.co.kr/view/AKR20261106183200530",
+          "source": "연합뉴스"
         },
         {
           "title": "일본 지바현 앞바다서 규모 6.1 지진···쓰나미 경보 없어",
@@ -174,22 +153,22 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-07T15:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDnIx3_usgNHW-dbPLEN1S6xPp3Mqn36n8s-5lWSh_FfuDm23COUeInIaVGRw",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02MJm67xEBOLOk-k5p54hs4eyMiZ7Zn7gtp8TMI4G2cy_4lgBk-uZpijYTgQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
-          "url": "https://www.kicker.de/ausgerechnet-im-rekordspiel-neuer-verletzt-ausgewechselt-1269459/artikel",
-          "source": "Kicker"
+          "title": "Bayern schlagen Mainz und behaupten die Tabellenführung",
+          "url": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
+          "source": "sportschau.de"
         },
         {
-          "title": "FC Bayern, Noten: Harry Kane glänzt und gibt den Debatten neue Nahrung",
-          "url": "https://www.spox.com/fussball/news/harry-kane-glaenzt-und-gibt-den-debatten-dennoch-neue-nahrung-fc-bayern-muenchen-noten-und-einzelkritiken-zum-sieg-gegen-den-fsv-mainz-05/blt6547c9a95b684248",
-          "source": "SPOX.com"
+          "title": "Fußball heute: Ergebnisse & Spiele am 7.11.2026 im Überblick",
+          "url": "https://www.fussballnationalmannschaft.net/fussball-heute-am-7-11-2026-3-123326874.html",
+          "source": "News zur deutschen Nationalmannschaft"
         },
         {
-          "title": "Stimmen zum Spiel in Mainz - Joshua Kimmich: „Der Sieg war nie gefährdet“",
-          "url": "https://fcbayern.com/de/news/2026/11/die-stimmen-zum-bundesliga-spiel-beim-1.-fsv-mainz-05",
+          "title": "Video: 1. FSV Mainz 05 - FC Bayern: Die Interviews",
+          "url": "https://fcbayern.com/fcbayerntv/de/video/interview/2026/11/1.-fsv-mainz-05-fc-bayern-die-interviews",
           "source": "FC Bayern"
         }
       ]
@@ -199,23 +178,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-07T14:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIVmnS0_aHn8lx9BH1UWi5RoV2TFYLUAzM6ETgQdSX967gZoozpuI2fZsrq2c",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKJL9djnCjFMJqKfLjvabMelBmcnTbi1pKdWWskl4lBEqnptMekUS3p1qotc",
       "category": "정치·사회",
       "news": [
+        {
+          "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852",
+          "source": "YTN"
+        },
         {
           "title": "[다시보기] 그것이 알고싶다 1511회",
           "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438",
           "source": "programs.sbs.co.kr"
         },
         {
-          "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
-          "url": "https://www.yna.co.kr/view/MYH20261106018400038",
-          "source": "연합뉴스"
+          "title": "‘장모 살해·아내 납치’ 김성우 재판행…공소청 “보복으로 살해한 사실 규명”",
+          "url": "https://www.khan.co.kr/article/202611061541001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "gta6",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-07T17:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvr3MnhC7loBDcBhBXQOjgXQdBnSX1GgBl8Gp0wCtDiGaqob5Fx5ug4CQtEz4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
+          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?utm_source=blast&amp;amp%3Butm_medium=o_email&amp;amp%3Butm_campaign=e10316_global_localized_gtavi-preload_static_learn-more&amp;amp%3Butm_content=main-img",
+          "source": "Rockstar Games"
         },
         {
-          "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852",
-          "source": "YTN"
+          "title": "Grand Theft Auto VI pre-download begins November 10",
+          "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
+          "source": "PlayStation.Blog"
+        },
+        {
+          "title": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
+          "url": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
+          "source": "Charter Communications"
         }
       ]
     },
@@ -224,23 +228,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-07T15:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaoBMuCrHszeA8bBKV0zeq4pCaoqHCLCcultES79FhY_jCJvtP38grFXCL-uw",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhebnhdP2azDnCPSz4A-d26M1LfVADz9p_W8XJsdbrk4pj68qc2cgs0uUshGU",
+      "category": "기타",
       "news": [
         {
-          "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
-          "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1",
-          "source": "동아일보"
+          "title": "이천수 “은퇴 번복 창피해 10억 제안 거절”…♥심하은 “말렸어야 했다”",
+          "url": "https://www.sedaily.com/article/20110260",
+          "source": "서울경제"
         },
         {
-          "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354",
-          "source": "SPOTV NEWS"
+          "title": "심하은, 이천수♥ '1도 안 닮은' 키즈모델 딸 공개..\"매거진 나오는 날\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-07/202611070100051710005164",
+          "source": "스포츠조선"
         },
         {
-          "title": "김민재-황인범-황희찬 눈물의 은퇴 논란 '96즈'…모레노 감독 '직관'→대한민국 축구 '중심축'임은 변함없다",
-          "url": "https://www.chosun.com/sports/football/2026/11/05/GY2GENJVHBRDCNDGMQZGCZJYGI/",
-          "source": "조선일보"
+          "title": "이천수♥심하은, 쌍둥이 남매 외모에 자신감..\"DNA 괜찮아, 아빠 안 닮았다\"",
+          "url": "https://www.starnewskorea.com/star/2026/11/04/2026110419484811336",
+          "source": "스타뉴스"
         }
       ]
     },
@@ -249,14 +253,9 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-07T14:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTShaFUjA2lK1iRs9Km-lBK1zvv_uaJz0L7E6zBlK7_j-xjLrxDBpGOfP6kQ74",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkeKy8DguXVRNLL2m6dZFqpMKYu7Ud_SNvLbBq6MAOonE7nUe2VyPt3flcoew",
+      "category": "스포츠",
       "news": [
-        {
-          "title": "David Warner's Fielding Gaffe Leads to 5-Run Penalty in Nepal Premier League",
-          "url": "https://english.ratopati.com/story/86004/lumbini-was-penalized-5-runs-when-david-warner-used-a-handkerchief-on-the-ball",
-          "source": "Ratopati"
-        },
         {
           "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
           "url": "https://www.cricbuzz.com/player-match-performance/match/177730/player/1739/batting",
@@ -266,6 +265,11 @@
           "title": "Kathmandu Ghorkaj Defeats Lumbini Lions by 36 Runs in Nepal Premier League",
           "url": "https://english.ratopati.com/story/86002/undefeated-lumbinis-journey-halted-kathmandu-wins-by-36-runs",
           "source": "Ratopati"
+        },
+        {
+          "title": "Match Predictions: Nepal Premier League 2026 - 18th Match - Kathmandu Gorkhas vs Lumbini Lions - 7th November",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-18th-match-kathmandu-gorkhas-vs-lumbini-lions-7th-november/114221.htm",
+          "source": "Cricket World"
         }
       ]
     }
