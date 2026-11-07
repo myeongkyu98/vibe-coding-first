@@ -1,192 +1,138 @@
 {
-  "updatedAt": "2026-11-06T23:31:50.962Z",
+  "updatedAt": "2026-11-07T00:49:14.181Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
+      "category": "정치·사회",
+      "count": 4
     },
     {
-      "category": "IT·과학",
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "경제",
       "count": 2
     },
     {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "치지직",
+      "keyword": "아들",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-06T23:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5Rno2fdYtJjvNH5kJZVfa8QjMBNjDLFNd5jKAey1luic2NMIKk-eRai5XZzc",
+      "category": "경제",
+      "news": [
+        {
+          "title": "‘김구라, 며느리 보겠네’…子 그리 “여친과 결혼 준비 중”",
+          "url": "https://sports.khan.co.kr/article/202611060907003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "김구라, 아들 그리 결혼설에…\"살다가도 이혼하는 판\"",
+          "url": "https://www.newsis.com/view/NISX20261106_0003858616",
+          "source": "뉴시스"
+        },
+        {
+          "title": "서인영 \"주식·코인하던 지인들, 하루아침 부자 됐다 거지행\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110609304066291",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "국민연금",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-06T22:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "적금",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T22:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSHfacYhcDCA28NpkWxuO42Bqq8tifJkNN26iLBssowBPEhV8AZbziDeJddZ0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "부산은행, BNK썸농구단 우승 기원 적금 출시…최고 4.9% 금리",
-          "url": "https://stock.mk.co.kr/news/view/1192202",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "BNK부산은행, BNK썸 농구단 응원 적금 출시…최고 금리 4.90%",
-          "url": "https://www.newspim.com/news/view/20261106000906",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "경기장 직관하면 금리 오른다… BNK부산은행, '농구 응원' 적금 선봬",
-          "url": "https://view.asiae.co.kr/article/2026110610503147434",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "하지수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T22:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGBkiAJwpLCPmcV3L29_roLcmnRypNoSmosZfvtNPrvSsVjR87lMFyLoIM_7w",
-      "category": "연예",
-      "news": [
-        {
-          "title": "이찬혁, 열애설 상대 하지수와 예능 포착… 손 꼭 잡고 스윙댄스",
-          "url": "https://www.hankookilbo.com/news/article/A2026110507590005515",
-          "source": "한국일보"
-        },
-        {
-          "title": "이찬혁, 열애설 하지수와 댄스 파트너…손잡고 스윙 댄스 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/04/2026110419420737591",
-          "source": "머니투데이"
-        },
-        {
-          "title": "악뮤 이찬혁 회사, 주 4일제는 기본…직원 보증금·월세까지 지원 (전참시)",
-          "url": "https://sports.khan.co.kr/article/202611010816003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "토트넘 홋스퍼 fc",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-06T21:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tR1P8zylfWTz12VcuGxk06Mwaff0tR1mCLYGyuPYT06WCPO0BF3qMW-ylVw",
+      "startedAt": "2026-11-06T23:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhamccil_E-F7VoV7bldF52b6AqIKTyWs692TV2jvyrxSVsd07nw_6pb4riHU",
       "category": "기타",
       "news": [
         {
-          "title": "“손흥민 발롱도르 축하 메시지는?” 묻자···케인, 활짝 웃으며 답했다",
-          "url": "https://www.khan.co.kr/article/202611062132001",
-          "source": "경향신문"
-        },
-        {
-          "title": "'일주일에 7억 2천만 원' \"단 1유로도 아깝지 않다!\" 바이에른 회네스, 케인 초대형 재계약에 대만족...발롱도르 수상자 향한 무한 신뢰 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/202611062039777851O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'발롱도르' 케인, 뮌헨과 2029년까지 재계약…\"더 많은 트로피!\"",
-          "url": "https://www.yna.co.kr/view/AKR20261106024500007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "vix",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T22:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8vhF9kotCfLXmWBT4UGGu8R4sCjHSQVFmhXCOVzJDKTZYF6qDM8_k0ZJSa1o",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
-          "url": "https://www.reuters.com/business/wall-street-fear-gauge-jumps-most-since-liberation-day-ai-trade-stumbles-2026-11-05/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Investors' fears are at their peak in the U.S. stock market. This is due to the sharp drop in artifi..",
-          "url": "https://www.mk.co.kr/en/stock/12200729",
-          "source": "매일경제"
-        },
-        {
-          "title": "The VIX volatility index just spiked 70%. Here's what history suggests comes next.",
-          "url": "https://finance.yahoo.com/markets/article/the-vix-volatility-index-just-spiked-70-heres-what-history-suggests-comes-next-125333946.html",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "keyword": "스페이스x",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T22:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_Y4L6H2fozX_hfiitYkZC8MnaAR_a-xdzxdKwJjXgRyjeq9SCfTp6Ie8KVNk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "美 민주당 압승 여파에 스페이스X 부도 위험 사상 최고치 By The Guru",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2163176",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "급락장 벗어난 스페이스X, 하루 만에 8.53% 반등… AI 사업 성장 기대와 규제 부담 교차",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846380",
-          "source": "제민일보"
-        },
-        {
-          "title": "테슬라·스페이스X의 폭락...일론 머스크도 '직격탄' [굿모닝경제]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611060839595906",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "서영교",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T22:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0qBmYadlGTvY7_VcjA04nJnSgFHYzbVJxP9T39jvWpR30h_DgQe5cAxEbtU",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다",
-          "url": "https://www.chosun.com/national/court_law/2026/11/07/F3CQ5CKKLVGSNJZNGDMQKZPGTI/",
+          "title": "국민연금 한 달 49만원 받는 80세, 나이 들어 가장 큰 후회는…",
+          "url": "https://www.chosun.com/economy/startup_story/2026/11/07/MFMQSRXGTJCIFD6JADMYWW4E64/",
           "source": "조선일보"
         },
         {
-          "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
-          "url": "https://www.munhwa.com/article/11629487",
-          "source": "문화일보"
+          "title": "국민연금에도 세금을 뗀다구요?ㅣ연금 로드맵 360",
+          "url": "https://story.pay.naver.com/content/3859",
+          "source": "네이버페이 머니스토리"
         },
         {
-          "title": "‘조작기소 특검’ 파견검사 20명에 수사권… “구법 적용 위헌 소지”",
-          "url": "https://www.donga.com/news/Society/article/all/20261106/134982618/2",
-          "source": "동아일보"
+          "title": "“10년 꼬박 냈는데 기초연금보다 적다고?”…국민연금에 무슨 일이? [잇슈 머니]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8703258",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "송해",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-06T21:40:00.000Z",
+      "keyword": "공무원",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T23:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0Ie3Ad29ZCLPhP9DFcZMSP9yUrPx06VC6_e0FabAXWd1DQwWM-bO5aoGeIrg",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "\"왜 쳐다봐\" 호신용 스프레이 분사, 공무원 각막염…집유",
+          "url": "https://www.newsis.com/view/NISX20261107_0003858784",
+          "source": "뉴시스"
+        },
+        {
+          "title": "“날 쳐다봐서” 공무원 눈에 호신용 스프레이 쏜 40대",
+          "url": "https://www.kyeonggi.com/article/20261107580005",
+          "source": "경기일보"
+        },
+        {
+          "title": "“왜 쳐다봐” 공무원에 호신용 스프레이 뿌린 40대…법원 판단은",
+          "url": "https://www.khan.co.kr/article/202611070744001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "대한민국 농림축산식품부 장관",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T23:00:00.000Z",
+      "picture": "",
+      "category": "정치·사회",
+      "news": []
+    },
+    {
+      "keyword": "테슬라 사이버트럭",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-06T22:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxirskAJuURUVh0LA026MvGJeebaUnuV-3iAzv9BZaZM1UyUE3qIFlDffnRRo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "테슬라, 사이버트럭 생산 중단키로…머스크 \"한 시대의 끝\"",
+          "url": "https://www.yna.co.kr/view/AKR20261107003800075",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "테슬라, Cybertruck 생산 축소…머스크는 로보택시에 집중",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2164179",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "테슬라, 사이버트럭 내년 단종…로봇·AI에 집중",
+          "url": "https://www.fnnews.com/news/202611070448365844",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "요즘 남자 라이프 - 신랑수업",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-06T23:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLJycXLCtd9-9aGAkzukdOeJ8mAZkQBsayLNxGLbDADI_g2NDAVEMlXolTu54",
       "category": "기타",
       "news": [
@@ -208,52 +154,102 @@
       ]
     },
     {
-      "keyword": "옥스퍼드 시티 fc 대 레스터 시티",
+      "keyword": "문화일보",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-06T21:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCscm3qI1DW7GsCXRFPngt9xFbe6yKB7Q5buFRK1Ox2GIzLckC4QgW9qhDESQ",
-      "category": "기타",
+      "startedAt": "2026-11-06T23:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJEbNlsYAh2LWeO1CYTUiXPFYOuGrHUf3fqQ9-uwHX67gl45p47ZfQhh9FJOM",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "Oxford City 2-4 Leicester City: League One side advance in FA Cup",
-          "url": "https://www.bbc.com/sport/football/live/c98rz2612n2nt",
-          "source": "BBC"
+          "title": "‘파견 검사 20명’ 조작기소 특검에···검사들 “무조건 피해야”, “법왜곡죄 범할까 우려”",
+          "url": "https://www.khan.co.kr/article/202611061742001",
+          "source": "경향신문"
         },
         {
-          "title": "Josh Ashby slots in the goal for Oxford City",
-          "url": "https://www.espn.com/video/clip/_/id/50401800/josh-ashby-slots-goal-oxford-city",
-          "source": "ESPN"
+          "title": "“李대통령 정치적 고향, 성남 아니라 베네수엘라” 무슨 뜻?…국힘 정점식 발언",
+          "url": "https://www.munhwa.com/article/11629492",
+          "source": "문화일보"
         },
         {
-          "title": "Pollock 'meant' goal from corner as Hoops bow out of cup",
-          "url": "https://ca.sports.yahoo.com/news/pollock-meant-goal-corner-hoops-230031534.html",
-          "source": "Yahoo"
+          "title": "[사설]모순과 논란투성이 ‘조작 기소 특검법’… 후폭풍 감당하겠나",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261106/134982418/2",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "박민지",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-06T22:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0tg_lFwooYHjZKAb0TIxaB8Vph-WJS6UFZTB5ZOXNRBqgtrRQb9_LeO6aZE",
+      "keyword": "의약품",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T22:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPEs6WBd6xvJr1iaczVrkMvwUxhY40j1NgykqlxUWmB20X2XH662xBn8ba6Jo",
       "category": "기타",
       "news": [
         {
-          "title": "귀국일 미룬 박민지·임진영·강채연, 나란히 합격권…JLPGA 프로테스트 최종일 승부",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05854806645643096&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "[보도참고] 식약처, 의약품 허가·심사 수수료 현실화 추진",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788186",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "박민지, 'JLPGA 최종 프로테스트' 첫날 단독 2위…\"새로운 환경에서 도전 기대\"",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022539",
-          "source": "골프한국"
+          "title": "식약처, 의약품 허가 수수료 최대 6배 인상 추진… 제약사 비용 부담 전망",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000429",
+          "source": "IT조선"
         },
         {
-          "title": "\"후회하기 싫었다\"…박민지, 日서 다시 신인으로",
-          "url": "https://www.hankyung.com/article/2026110211071",
-          "source": "한국경제"
+          "title": "식약처, 의약품 허가·심사 수수료 현실화 추진",
+          "url": "https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=10063463&article.offset=0&articleLimit=15",
+          "source": "BRIC"
+        }
+      ]
+    },
+    {
+      "keyword": "노동자",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T22:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_7XuHdKVCxIxdRI2PbUrYZh3f7DggsaQP9ioNyTf67-XRGq_ajWrL8_nzwl0",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "제주 노동존중사회 의원연구포럼, 공무직 노동자 근무환경 개선 방안 모색 간담회",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601745",
+          "source": "헤드라인제주"
+        },
+        {
+          "title": "양경호 제주도의원, ‘제주 노동존중사회 의원연구포럼 간담회’ 참석…노동 현장 목소리 청취",
+          "url": "https://newsnjeju.com/news/articleView.html?idxno=303858",
+          "source": "뉴스N제주"
+        },
+        {
+          "title": "제주도의회, 공무직 노동자 근무환경 개선 나선다…노조 현장 애로사항 청취",
+          "url": "https://www.jejunews.biz/news/articleView.html?idxno=107118",
+          "source": "제주뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "기초 연구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-06T22:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlwpCPCYPGzr6nF-WkwP3TvMijEzIyHkJJhCDCbVUxrpqVlgGfIgXJasiT2E",
+      "category": "경제",
+      "news": [
+        {
+          "title": "내년 '기초연구' 2조 9102억 투자…지역·청년 연구 지원 확대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975126",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
+          "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90",
+          "source": "BRIC"
+        },
+        {
+          "title": "내년부터 기초연구 성과 평가 바뀐다… 논문·특허 건수 제출 폐지",
+          "url": "https://biz.chosun.com/science-chosun/science/2026/11/05/OWXZFHF2EVD6ZHBYK3UL7VGHFY/",
+          "source": "Chosunbiz"
         }
       ]
     }
