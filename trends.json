@@ -1,123 +1,128 @@
 {
-  "updatedAt": "2026-11-07T06:46:54.885Z",
+  "updatedAt": "2026-11-07T07:54:15.744Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 6
+      "count": 5
     },
     {
       "category": "기타",
-      "count": 2
+      "count": 4
     },
     {
       "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼전 닉스",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-07T04:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSywmZSLTzqPj40cBxto0TE_Y0hYXGA_cTuc6ap4xPS8CKd8xt48of54VjDZi0",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"삼전닉스 믿고 버텼는데\"…증권가가 내놓은 뜻밖의 조언 [종목+]",
-          "url": "https://www.hankyung.com/article/2026110610246",
-          "source": "한국경제"
-        },
-        {
-          "title": "주가폭락했는데 삼전닉스 LTA 믿어도 되나…마이크론 사례 보니",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443491",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "“韓메모리, 1~3년치 완판됐지만 중장기 설비투자 차질 우려”",
-          "url": "https://www.donga.com/news/Economy/article/all/20261106/134982628/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "디아즈",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T05:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPerghA8HLSM6oFGs3xaqsJMtVAnwrO_gauRBPwklJOaCps-djTbTnTGQ7hq8",
+      "keyword": "롯데 자이언츠",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-07T06:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIpDAfQR050KDos9NA1CFkpMLvQXBwlRbdLeQjZPM1X-v1SqVhr96aMU_i2oA",
       "category": "스포츠",
       "news": [
         {
-          "title": "KT 김현수, PS 통산 최다 출장 110경기…홍성흔 넘어 단독 1위[KS4]",
-          "url": "https://www.news1.kr/sports/baseball/6346394",
-          "source": "뉴스1"
-        },
-        {
-          "title": "‘가을의 전설’ 김현수, PS 통산 최다 110경기 출장 신기록…루타 이어 5개 부문 1위 석권",
-          "url": "https://sports.donga.com/sports/article/all/20261107/134983417/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "‘3주 쉬었는데’ 1위팀 부상 주의보 발령! 손가락→고관절→발뒤꿈치 아프다…전직 삼성맨 라팍은 밟을 수 있을까 [KS] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/202611060814774786O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "안현민",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T05:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY1lqd9vS3Tmm7agpEIwvVjECoA71PtgJ8iz0yCWd5c4J7iWqFNZND8u33F3s",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[포토] 안현민 '뛰겠습니다' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110620061228498",
-          "source": "머니투데이"
-        },
-        {
-          "title": "펜스랑 마가 끼었나? MVP급 핵심타자 2명 잇따라 충돌 → 통증 호소, 11월 강추위에 피토하는 KT [KS3 현장]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MJTGGNZSGY3GEMRUMUYTCMRRMM/",
+          "title": "\"내가 하고 싶은 야구 찾았다\" 전미르의 '이도류' 2년 종료 → 롯데에선 어떨까 [인터뷰]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/",
           "source": "조선일보"
         },
         {
-          "title": "수비 출전 부담됐나…KT 안현민, 타석 침묵에 수비도 아쉬웠다[KS3]",
-          "url": "https://www.news1.kr/sports/baseball/6346224",
+          "title": "롯데가 설렌다, 대표팀 투수보다 구위가 더 좋았다니… 찬바람에도 150㎞, 선물이 찾아오나",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018251",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "롯데 마운드에 '156km 파이어볼러'가 온다…이동욱 감독은 좋겠네, 건강해진 전미르 전역을 신고합니다!",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=131864",
+          "source": "더게이트"
+        }
+      ]
+    },
+    {
+      "keyword": "이재희",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T06:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1zEY_DX6QZIK8_JG_LJK6sH3rnVIfG5kk7JUOe9D0wLCl5pNuMN98JFstz1Q",
+      "category": "기타",
+      "news": [
+        {
+          "title": "삼성 배찬승, 첫 PS 세이브에 포효 \"좀 더 멋있게 해보겠다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261106137800007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[포토] 이재희 '이쯤 되면 특급 구원' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716383656823",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[사진]삼성 배찬승, '2연속 밀어내기 볼넷이라니'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/MQ3WMOBQMI4TOMTCMQYWKNBTGY/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "통장",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T06:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPNrWuhq5C8pPJ_GuB3dY6ddKW7RIzcvyBAID-3R2zAk-25fvy7ek8FrkG9Tg",
+      "category": "경제",
+      "news": [
+        {
+          "title": "국민은행 'KB아동수당통장' 출시…최고 연 3.1% 금리",
+          "url": "https://www.yna.co.kr/view/AKR20261106070100002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "KB국민은행, 아동수당 받으면 최고 연 3.1% 파킹통장 출시 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2163513",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "국민銀, 최고 연 3.1% ‘KB아동수당통장’ 출시 [코주부]",
+          "url": "https://www.sedaily.com/article/20111185",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "최일언",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T06:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjrvuuSxjyq102_h9m5jBqJgBqbZA_ieFT9ZwvbepBa_4_NYDrsNLhPsTROxQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[포토] 이재희 '언터쳐블 씽씽투' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716242082748",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[사진]5회 선두타자 안타 뽑아내는 KT 한승택",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/G5SGMMZWGZSDEMLDMZSGMYRXGA/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "역투하는 사토시",
+          "url": "https://www.news1.kr/photos/8202178",
           "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "배트맨",
+      "keyword": "창원 lg 대 고양 소노",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-07T04:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVFDQEIbhAe2uQjCCIIrV8aIiWsk11wuWvXmoxeia3VrfjIv4Gh4LWQi0Y2k0",
+      "startedAt": "2026-11-07T05:00:00.000Z",
+      "picture": "",
       "category": "기타",
-      "news": [
-        {
-          "title": "Absolute Batman #25 by Nick Dragotta/Jim Lee/Clay Mann Sells For $19K",
-          "url": "https://bleedingcool.com/comics/absolute-batman-25-by-nick-dragotta-jim-lee-clay-mann-sells-for-19k/",
-          "source": "Bleeding Cool News"
-        },
-        {
-          "title": "The Absolute Batman #25 Clay Mann Cover Jumps From $8 To $60 In A Day",
-          "url": "https://bleedingcool.com/comics/the-absolute-batman-25-clay-mann-cover-jumps-from-8-to-60-in-a-day/",
-          "source": "Bleeding Cool News"
-        },
-        {
-          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
-          "url": "https://www.yahoo.com/entertainment/articles/scarlett-johansson-breaks-silence-batman-230310752.html",
-          "source": "Yahoo"
-        }
-      ]
+      "news": []
     },
     {
       "keyword": "tving",
@@ -179,27 +184,27 @@
       ]
     },
     {
-      "keyword": "허미미",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T04:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHvaoejKcdPgzfdtmuRplbnm2Mts6j42W2xmLIkI7s3JgAqTKKcXNadfVM03E",
+      "keyword": "미야지",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-07T06:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsO_KTdRD_jDsN-Y7_dkXhY3sJfJdk2vE4qhgp54NWQ4zA4la3mtTHK39XFak",
       "category": "스포츠",
       "news": [
         {
-          "title": "한국시리즈 시구한 유도 간판 허미미 \"세계랭킹 회복에 전념\"",
-          "url": "https://www.yna.co.kr/view/AKR20261107034700007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[사진]장찬희-김도환, 한 템포 쉬어가자",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MUZDINLCGRRWCY3FGNRTGZJVGQ/",
+          "title": "\"이겨야 빨리 빼준다\" 박진만 감독이 공개한 '투덜이' 최형우 조기 퇴근 조건[KS]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/07/GQ4TGYLDHFRTIZLBG4YDEZJRG4/",
           "source": "조선일보"
         },
         {
-          "title": "[사진]2회 마운드 오른 KT 배제성",
-          "url": "https://www.osen.co.kr/article/G1112905860",
-          "source": "OSEN"
+          "title": "[KS4] 구자욱 살리려면 최형우가 뛰어야 한다...삼성 우승 향한 특별한 동행",
+          "url": "https://www.newspim.com/news/view/20261107000059",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "[포토S] 강민호, '흔들리는 마운드에 쉬지 못하고'",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018359",
+          "source": "SPOTV NEWS"
         }
       ]
     },
@@ -208,48 +213,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-07T05:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStcH_p-yyHYkV41iEk-GUpo22Dw__efpKjibW_BgtkecaeG_5dPe8r2VctS9s",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuEY4GEMGzK8DmDvjLyht0oxLTFBFtgvK_L60U_sTtrhVVVNCyXtXuNj02YRw",
       "category": "스포츠",
       "news": [
         {
-          "title": "Luka Doncic's remarkable scoring streak gives Lakers a new challenge",
-          "url": "https://sports.yahoo.com/articles/luka-doncics-remarkable-scoring-streak-120355790.html",
-          "source": "Yahoo Sports"
+          "title": "It was Luca Doncic's day.LA Lakers guard Doncic played in a home game against the Portland Trail Bla..",
+          "url": "https://www.mk.co.kr/en/sports/12201471",
+          "source": "매일경제"
         },
         {
           "title": "Licensable picture: NBA: Portland Trail Blazers at Los Angeles Lakers",
-          "url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-los-angeles-lakers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyOTU5NDU",
+          "url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-los-angeles-lakers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyOTU5MTQ",
           "source": "Reuters Connect"
         },
         {
-          "title": "BLAZERS POSTCAST: Lakers-Blazers Reaction",
-          "url": "https://www.centraloregondaily.com/sports/portland_trail_blazers/blazers-postcast-lakers-blazers-reaction/video_556c68cd-7745-5aa6-85bc-49da70c7dbdb.html",
-          "source": "Central Oregon Daily"
-        }
-      ]
-    },
-    {
-      "keyword": "west indies vs bangladesh",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-07T04:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVgZ9lbr8ix-ZvsIg7lWC3YB6BN9ct_m6rU3QKmRGsMPKDcNL0Xr1XWp-7TNg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "BAN vs WI 2nd Test: Mahmud scalps six to restrict West Indies",
-          "url": "https://www.thehindu.com/sport/cricket/ban-vs-wi-2nd-test-mahmud-scalps-six-to-restrict-west-indies/article71676252.ece",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Pacers give Windies edge after lift from tailenders",
-          "url": "https://guyanachronicle.com/2026/11/07/pacers-give-windies-edge-after-lift-from-tailenders/",
-          "source": "Guyana Chronicle"
-        },
-        {
-          "title": "Jangoo the real deal",
-          "url": "https://trinidadexpress.com/opinion/editorials/jangoo-the-real-deal/article_e4a37a75-8aef-4ba3-b5e2-46961631a49e.html",
-          "source": "Trinidad Express Newspapers"
+          "title": "Luka Dončić dazzles with season-high 53 points vs. Blazers",
+          "url": "https://www.nba.com/watch/video/luka-doncic-dazzles-with-53-points-vs-blazers",
+          "source": "NBA.com"
         }
       ]
     }
