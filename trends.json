@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T09:40:42.557Z",
+  "updatedAt": "2026-11-07T10:36:44.785Z",
   "summary": [
     {
       "category": "기타",
@@ -10,7 +10,7 @@
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
@@ -54,9 +54,9 @@
           "source": "중앙일보"
         },
         {
-          "title": "“젠슨 황 ‘스파이 의혹’ 중국 여성과 연인 관계”···미 정보당국 문서 파장",
-          "url": "https://weekly.khan.co.kr/article/202611071817001",
-          "source": "주간경향"
+          "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
+          "url": "https://www.khan.co.kr/article/202611071346001",
+          "source": "경향신문"
         },
         {
           "title": "美의회, 젠슨 황에 \"'中간첩 의혹' 여성과 관계 직접 해명하라\"",
@@ -66,18 +66,34 @@
       ]
     },
     {
-      "keyword": "수원fc 대 경남 fc 순위",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T08:20:00.000Z",
-      "picture": "",
+      "keyword": "전유성",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T09:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvtsD_9cqPIxaHsVIkZ_1595dn99UdinZ1qcH1W-7JlV9_lRaM5lOWXU1RfxA",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "'불후의 명곡', 故전유성 특집…애제자 김신영 스페셜 MC",
+          "url": "https://www.yna.co.kr/view/AKR20261106069500005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'불후' 이찬원, 김신영과 '행님아'로 정통 개그 도전 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110717007262146",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'불후' 신동엽, 개그맨 본업 되찾았다…故 전유성 특집서 공개 코미디 도전",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346418",
+          "source": "뉴스1"
+        }
+      ]
     },
     {
       "keyword": "하희라",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-07T08:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCwsNlLBLr_wu4F8PvIfsA4jH3SmG1GJ09hnJWx-0smgCkYxw2ei3XUvcuXAc",
       "category": "기타",
@@ -101,11 +117,11 @@
     },
     {
       "keyword": "김영철",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-07T07:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSumgPavCoHR0O2vzxDBI1Xj-VH0aNJu5uR4SRwo_RpXSEJJOVxa6rh8L4iQg",
-      "category": "기타",
+      "category": "정치·사회",
       "news": [
         {
           "title": "\"치킨 사 오겠다던 형, 그날 세상 떠나\"…김영철이 떠올린 35년 전 비극 - 머니투데이",
@@ -118,9 +134,34 @@
           "source": "OSEN"
         },
         {
-          "title": "김영철, 정선희와 20년 지기 우정 여전 \"내 인생 선배이자 멘토\" ('오리지널')",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/MEYWMMDBGIZGEY3DGIYTENRRGM/",
-          "source": "Chosunbiz"
+          "title": "김영철 친형, 치킨 사러 나갔다가 교통사고⋯\"엄마는 어떻게 버텼을까\"",
+          "url": "https://www.etoday.co.kr/news/view/2645327",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "불꽃축제 부산",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T07:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPOiiR-XYTAY4Rsvs0cxgKrcWKmyya3BUxYHoZpEuQKvIHjtYaTewd3tVQEoY",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "밤 하늘과 바다 수놓은 화려한 불꽃...'부산불꽃축제' [현장영상+]",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611071909593781",
+          "source": "YTN"
+        },
+        {
+          "title": "오늘 밤 부산 광안리서 불꽃축제… 100만 인파에 안전요원 7000명 투입",
+          "url": "https://www.chosun.com/national/regional/2026/11/07/6PYYMYSQRBGXVKG2P2WXIWLAOM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "KT, 부산불꽃축제 특별 소통 대책 가동",
+          "url": "https://www.yna.co.kr/view/PYH20261106013600013",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -132,81 +173,6 @@
       "picture": "",
       "category": "기타",
       "news": []
-    },
-    {
-      "keyword": "우규민",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T07:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_DpMUiSkY8hCiq3TYnChiM-oTVoMM2svSXbMAcnPA_nA3jTmwNg5CVuRFyc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[사진] 우규민, 볼넷허용 만루 위기",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MYZWMMRTGU3TIMRRME4GGNZQGI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "역투하는 우규민",
-          "url": "https://www.news1.kr/photos/8202260",
-          "source": "뉴스1"
-        },
-        {
-          "title": "’우승 0번’ KT 우규민, 삼성 강민호…반드시 한 명은 반지 낀다",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611052122384WX",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "맥도날드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T07:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYmAQ_ebVyK_HIbYlAWR_Wp7ME9c1zHuWvcVUU4gH0OekSF9urWKfo-ipgTRc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"존박이 랩으로 주문했더니\"…맥도날드가 진짜 만든 '이것' [김소연의 얼굴전략]",
-          "url": "https://www.hankyung.com/article/202611060608g",
-          "source": "한국경제"
-        },
-        {
-          "title": "[기자의눈] “주문하신 광고 나왔습니다”…달라진 마케팅 공식",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010001847",
-          "source": "아시아투데이"
-        },
-        {
-          "title": "[문화연예 플러스] 존박, 랩으로 '햄버거 주문'‥조회 수 900만 돌파",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863019_37012.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "주권",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T08:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT26v9GXO9EJzm8Cm6VSFFHEq6xGHm_hP9cJRx6AKjebY-Lh52D4Y98ossc-S8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[박성진의 국방 B컷](69) 집속탄 사진에 흔들리는 한국과 김정은의 ‘사진 정치’",
-          "url": "https://weekly.khan.co.kr/article/202611061326001",
-          "source": "주간경향"
-        },
-        {
-          "title": "전작권 전환 대비 독자적 역량 갖추려면…\"탄약 비축 체계 보완 시급\"",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6343392",
-          "source": "뉴스1"
-        },
-        {
-          "title": "안보1차장 \"美, 과거만큼 한반도 방위 힘쓰기 어려워\"",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/04/ZPPTEASJQVB2LJJBXPYKKXWDIE/",
-          "source": "조선일보"
-        }
-      ]
     },
     {
       "keyword": "나탈리 하프",
@@ -230,6 +196,56 @@
           "title": "Trump’s Favorite Aide Has Taken Control of His Personal Cell Phone",
           "url": "https://newrepublic.com/post/217623/donald-trump-natalie-harp-taken-control-cell-phone",
           "source": "The New Republic"
+        }
+      ]
+    },
+    {
+      "keyword": "kgma 2026",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-07T09:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpvzGS2lIuLblrMPi_kjEUCeBIQ21VvTo7R69-wd-doonoTQRNRexu_eAptrQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Korean Grand Music Awards 2026 Winners: Full List",
+          "url": "https://inmusicblog.com/k-pop/kgma-2026-winners-full-list/",
+          "source": "InMusic Blog"
+        },
+        {
+          "title": "Rookie group TUIDE takes home IS Rising Star trophy at 2026 Korea Grand Music Awards",
+          "url": "https://www.allkpop.com/article/2026/11/rookie-group-tuide-takes-home-is-rising-star-trophy-at-2026-korea-grand-music-awards",
+          "source": "allkpop"
+        },
+        {
+          "title": "Stars Shine On Red Carpet At 2026 Korea Grand Music Awards (KGMA) Day 1",
+          "url": "https://www.soompi.com/article/1884817wpp/stars-shine-on-red-carpet-at-2026-korea-grand-music-awards-kgma-day-1",
+          "source": "Soompi"
+        }
+      ]
+    },
+    {
+      "keyword": "정철원",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-07T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSe9YzqzwwT6IZHPIuMmL51uxmmwTAgFoB4tfIOyfsxTR8vLj5euRmGWVoS7CA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "정철원, ‘러브캐처’ 김지연 가정폭력·외도 주장에 “사실관계 다투는 중”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12201436",
+          "source": "매일경제"
+        },
+        {
+          "title": "미래 연봉까지 재산분할?…롯데 정철원, 전처 김지연 폭로에 입 열었다 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/06/2026110619540321491",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'외도의혹' 정철원 \"양육권 포기\"..'전처' 김지연, 아들과 \"야호~\" 셀카자랑[핫피플]",
+          "url": "https://www.osen.co.kr/article/G1112905745",
+          "source": "OSEN"
         }
       ]
     }
