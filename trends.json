@@ -1,251 +1,243 @@
 {
-  "updatedAt": "2026-11-07T10:36:44.785Z",
+  "updatedAt": "2026-11-07T11:29:55.480Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "count": 6
     },
     {
       "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "혈당",
+      "keyword": "라면",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-07T07:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_t06zlZQXTbEnsZgyGQXv128nKrKEV5OMq64CsLawgc_3GqoXrEwQ2pjvcts",
-      "category": "기타",
+      "startedAt": "2026-11-07T10:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz_ISbNmMVkIHX5VFTerd18dg84pkUElV7gzL4opYhOwdII32ww5CMNIE2sD0",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "\"혈당 재려 손 잡았는데\"...119구급대원 폭행한 60대 벌금 700만원",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611070005",
-          "source": "KBC광주방송"
+          "title": "\"하루 만에 라면 2만 그릇 팔렸다\"…매출 1억7000만원 초대박",
+          "url": "https://www.hankyung.com/article/2026110721917",
+          "source": "한국경제"
         },
         {
-          "title": "\"뭐하냐\" 소리치며 얼굴 '퍽'…구급대원 때린 60대 벌금형 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/07/2026110713433748825",
+          "title": "하루 매출만 1억 7천만 원···축제 첫날 별미라면 2만 2천 그릇 ‘싹쓸이’",
+          "url": "https://www.khan.co.kr/article/202611071734001",
+          "source": "경향신문"
+        },
+        {
+          "title": "첫날 라면 2만2000그릇 팔렸다… 구미라면축제 올해도 흥행",
+          "url": "https://www.chosun.com/national/regional/2026/11/07/W65WKD4KOBH2NB2U5IU2T55ZP4/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김천상무 대 fc 안양 순위",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-07T09:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "강남구",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T10:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1e3I8Thp3CnAQd-vlew_ZJlxuNNvOUEFghraq-ShAbME7gmptagWB31jFN8M",
+      "category": "경제",
+      "news": [
+        {
+          "title": "이 대통령이 ‘놀라울 정도로 떨어진다’는 강남3구···원베일리 71억→57억",
+          "url": "https://www.khan.co.kr/article/202611070700021",
+          "source": "경향신문"
+        },
+        {
+          "title": "\"그때 팔 걸\" 매물만 쌓인다…20억 넘게 빠진 압구정 집주인들 '속앓이' - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/07/2026110612530467580",
           "source": "머니투데이"
         },
         {
-          "title": "쓰러진 환자 혈당 확인하려다 봉변…119구급대원 때린 60대",
-          "url": "https://www.khan.co.kr/article/202611070756001",
-          "source": "경향신문"
+          "title": "서울 광진구가 이끈 상승세, 경기는 남양주·부천 주목 (11월 1주 부동산)",
+          "url": "https://story.pay.naver.com/content/3891_24_C10",
+          "source": "네이버페이 머니스토리"
         }
       ]
     },
     {
-      "keyword": "젠슨황",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-07T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwlITGBnQrzyuoE2FVt_rTwUS0RSb2AG7cyRXOYXpnMCv-xD5TZ8odk0keBR8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“젠슨 황 ‘中스파이 의혹’ 여성과 연인관계”…美정부 메모 파장",
-          "url": "https://www.joongang.co.kr/article/25476575",
-          "source": "중앙일보"
-        },
-        {
-          "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
-          "url": "https://www.khan.co.kr/article/202611071346001",
-          "source": "경향신문"
-        },
-        {
-          "title": "美의회, 젠슨 황에 \"'中간첩 의혹' 여성과 관계 직접 해명하라\"",
-          "url": "https://www.news1.kr/world/usa-canada/6345644",
-          "source": "뉴스1"
-        }
-      ]
+      "keyword": "최예나",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T09:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
-      "keyword": "전유성",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T09:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvtsD_9cqPIxaHsVIkZ_1595dn99UdinZ1qcH1W-7JlV9_lRaM5lOWXU1RfxA",
+      "keyword": "장희숙",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp9woOtPtSEIaBRE6E32GA058VVYLphqi13OOJjlbezr00P5_WuEz4iEICIm4",
       "category": "기타",
       "news": [
+        {
+          "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
+          "url": "https://sports.khan.co.kr/article/202611070054003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "닥터X : 하얀 마피아의 시대 : [10회 예고] “어른이 되게 해 줄 겁니다” 김지원, 끝까지 강행한 수술로 계약 해지 위기",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC482971815",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "'닥터X' 김지원X이정은, 사제 합동 역대 최대 규모 수술...실패 없는 성공일까 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110713267224990",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "권인하",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzo4Byo7CfFSb8NZTBl8gTXxoJWe0P4fquNHwu7Rl5dSaTsTbGmcuWzsfsTTY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘천둥 호랑이’ 권인하, 시원한 고음 뒤 잔잔한 여운…‘비 오는 날의 수채화’",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=779806",
+          "source": "싱글리스트"
+        },
         {
           "title": "'불후의 명곡', 故전유성 특집…애제자 김신영 스페셜 MC",
           "url": "https://www.yna.co.kr/view/AKR20261106069500005",
           "source": "연합뉴스"
         },
         {
-          "title": "'불후' 이찬원, 김신영과 '행님아'로 정통 개그 도전 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110717007262146",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'불후' 신동엽, 개그맨 본업 되찾았다…故 전유성 특집서 공개 코미디 도전",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6346418",
-          "source": "뉴스1"
+          "title": "故전유성 사망 한달전 사진 공개..휠체어+야윈 뒷모습 \"마지막 외출\" 뭉클[핫피플]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GQYDQMRYGQYDSODCMQYDCNZZGQ/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "하희라",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T08:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCwsNlLBLr_wu4F8PvIfsA4jH3SmG1GJ09hnJWx-0smgCkYxw2ei3XUvcuXAc",
+      "keyword": "유영우",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T09:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuuupaxCaHsSdKcsFrsNaUTI8qX2NjQsL28jjikPwn7b_QP5bnCt7OJ_e7dDg",
       "category": "기타",
       "news": [
         {
-          "title": "'살림남', 최수종은 러브레터...은지원은 변명레터 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110709347264332",
-          "source": "머니투데이"
+          "title": "90년대 스타들의 귀환 임박… '놀면 뭐하니?' 18명 정체 공개로 시청자 기대감 고조",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=846377",
+          "source": "제민일보"
         },
         {
-          "title": "최수종♥하희라도 싸운다..유일한 갈등 원인 '이것' 때문에 ('살림남')",
-          "url": "https://www.koreadaily.com/article/20261106152251067",
-          "source": "미주중앙일보"
+          "title": "‘놀뭐’ 쇼생크 탈출, 눈만 마주치면 시비…“공부 많이 한 박명수” (놀뭐)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523933",
+          "source": "iMBC 연예"
         },
         {
-          "title": "이요원 \"남편과 24시간 밀착? 정신건강에 안 좋아\"... 최수종·하희라와 극과극 (살림남)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/05/MM3DIZDEMZSDAZRSGAYWMNRRMI/",
-          "source": "조선일보"
+          "title": "‘놀면 뭐하니?’ 이소라 등장하나…유재석도 정체에 관심",
+          "url": "https://sports.donga.com/ent/article/all/20261107/134983047/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "김영철",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T07:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSumgPavCoHR0O2vzxDBI1Xj-VH0aNJu5uR4SRwo_RpXSEJJOVxa6rh8L4iQg",
+      "keyword": "동행",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T09:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDK3NXrerVu2aL2bjZ1XNZ4bEMWHqPioz4njUjWkfLOgO7I5cZoA8wlYARmbU",
       "category": "정치·사회",
       "news": [
         {
-          "title": "\"치킨 사 오겠다던 형, 그날 세상 떠나\"…김영철이 떠올린 35년 전 비극 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110710284750683",
+          "title": "[단독] 탈옥 대비해 ‘총 든 군인’…교도소 이송 작전 ‘첫 공개’",
+          "url": "https://news.jtbc.co.kr/article/NB12326874",
+          "source": "JTBC"
+        },
+        {
+          "title": "원주교도소, 47년 만에 새 보금자리로...새로운 도약 나선다",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788085",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "원주교도소, 47년 만에 신축 교도소로 이전…수용자 약 800명 이송 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/05/2026110514590890917",
           "source": "머니투데이"
-        },
-        {
-          "title": "김영철·정선희, '재혼황후' 됐다..\"2시간 8분 통화, 이봉주 마라톤 기록 쯤\"",
-          "url": "https://www.osen.co.kr/article/G1112905732",
-          "source": "OSEN"
-        },
-        {
-          "title": "김영철 친형, 치킨 사러 나갔다가 교통사고⋯\"엄마는 어떻게 버텼을까\"",
-          "url": "https://www.etoday.co.kr/news/view/2645327",
-          "source": "이투데이"
         }
       ]
     },
     {
-      "keyword": "불꽃축제 부산",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPOiiR-XYTAY4Rsvs0cxgKrcWKmyya3BUxYHoZpEuQKvIHjtYaTewd3tVQEoY",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "밤 하늘과 바다 수놓은 화려한 불꽃...'부산불꽃축제' [현장영상+]",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611071909593781",
-          "source": "YTN"
-        },
-        {
-          "title": "오늘 밤 부산 광안리서 불꽃축제… 100만 인파에 안전요원 7000명 투입",
-          "url": "https://www.chosun.com/national/regional/2026/11/07/6PYYMYSQRBGXVKG2P2WXIWLAOM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "KT, 부산불꽃축제 특별 소통 대책 가동",
-          "url": "https://www.yna.co.kr/view/PYH20261106013600013",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "수원 kt 대 대구 한국가스공사",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T07:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "나탈리 하프",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T07:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmOiWEvc_vPRwvLEVQbRftmUj-DDsiTYtaUVlzgK-0-Kw67X6tTLMmejhNeOI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Trump Hands Natalie Harp New Deeply Personal Role",
-          "url": "https://www.thedailybeast.com/trump-hands-natalie-harp-new-deeply-personal-role",
-          "source": "The Daily Beast"
-        },
-        {
-          "title": "Trump’s constant companion aide Natalie Harp seems to have taken on a more personal role",
-          "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-mobile-phone-natalie-harp-b3079434.html",
-          "source": "The Independent"
-        },
-        {
-          "title": "Trump’s Favorite Aide Has Taken Control of His Personal Cell Phone",
-          "url": "https://newrepublic.com/post/217623/donald-trump-natalie-harp-taken-control-cell-phone",
-          "source": "The New Republic"
-        }
-      ]
-    },
-    {
-      "keyword": "kgma 2026",
+      "keyword": "이재성",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-07T09:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpvzGS2lIuLblrMPi_kjEUCeBIQ21VvTo7R69-wd-doonoTQRNRexu_eAptrQ",
-      "category": "기타",
+      "startedAt": "2026-11-07T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqXnN7W0D43bqqNcnro-6giS5nekeQyGhPdjAt6upZTn8GOyBxPRUnBy56EII",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Korean Grand Music Awards 2026 Winners: Full List",
-          "url": "https://inmusicblog.com/k-pop/kgma-2026-winners-full-list/",
-          "source": "InMusic Blog"
+          "title": "‘멀티골로 뮌헨 울렸고, 직전엔 헤더골까지!’…이재성, 23경기 무패 뮌헨과 재회→김민재와 코리안 더비 성사될까",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100397",
+          "source": "포포투"
         },
         {
-          "title": "Rookie group TUIDE takes home IS Rising Star trophy at 2026 Korea Grand Music Awards",
-          "url": "https://www.allkpop.com/article/2026/11/rookie-group-tuide-takes-home-is-rising-star-trophy-at-2026-korea-grand-music-awards",
-          "source": "allkpop"
+          "title": "FSV 마인츠 05 vs 바이에른 뮌헨 프리뷰: 선두 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fsv-mainz-05-vs-bayern-munchen-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Stars Shine On Red Carpet At 2026 Korea Grand Music Awards (KGMA) Day 1",
-          "url": "https://www.soompi.com/article/1884817wpp/stars-shine-on-red-carpet-at-2026-korea-grand-music-awards-kgma-day-1",
-          "source": "Soompi"
+          "title": "[분데스리가] 창과 방패의 맞대결…이재성 vs 김민재, 코리안 더비 성사",
+          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=601636",
+          "source": "스타데일리뉴스"
         }
       ]
     },
     {
-      "keyword": "정철원",
+      "keyword": "이선민",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-07T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSe9YzqzwwT6IZHPIuMmL51uxmmwTAgFoB4tfIOyfsxTR8vLj5euRmGWVoS7CA",
+      "startedAt": "2026-11-07T10:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW77q4mclkI-ad67DGM8JvRYG13LolvxLKmlF61NaaFYEztrl1wavcGbawrqY",
       "category": "기타",
       "news": [
         {
-          "title": "정철원, ‘러브캐처’ 김지연 가정폭력·외도 주장에 “사실관계 다투는 중”",
-          "url": "https://www.mk.co.kr/news/hot-issues/12201436",
+          "title": "BTS·블랙핑크→스키즈·코르티스…‘2026 KGMA’ 사전 수상 영예",
+          "url": "https://www.mk.co.kr/news/musics/12201476",
           "source": "매일경제"
         },
         {
-          "title": "미래 연봉까지 재산분할?…롯데 정철원, 전처 김지연 폭로에 입 열었다 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/06/2026110619540321491",
-          "source": "머니투데이"
+          "title": "유영우, 시상하러 와서 리센느 ‘위드’ 열창… 웃음·감동 선사[2026 KGMA]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03673606645643424&mediaCodeNo=257",
+          "source": "이데일리"
         },
         {
-          "title": "'외도의혹' 정철원 \"양육권 포기\"..'전처' 김지연, 아들과 \"야호~\" 셀카자랑[핫피플]",
-          "url": "https://www.osen.co.kr/article/G1112905745",
-          "source": "OSEN"
+          "title": "아이브 리즈, 데뷔 첫 시상식 MC 도전…‘2026 KGMA’ 솔로 무대도",
+          "url": "https://www.viva100.com/article/20261104500819",
+          "source": "브릿지경제"
         }
       ]
     }
