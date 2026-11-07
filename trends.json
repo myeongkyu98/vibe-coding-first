@@ -1,271 +1,255 @@
 {
-  "updatedAt": "2026-11-07T22:30:13.234Z",
+  "updatedAt": "2026-11-07T23:29:45.860Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
+      "category": "기타",
+      "count": 5
     },
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 3
     },
     {
-      "category": "연예",
-      "count": 2
+      "category": "경제",
+      "count": 1
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "젠슨 황",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-07T20:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmiTev03Wi7WGah3i08_jirUC0imwtpPrHOOAzvaUaVACYwJkudyEjcbJEz0E",
+      "keyword": "치지직",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T22:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "xrp 레저",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcYhSQ1VcCJZMlhbZW8IOKzSUrVQd6pgMm1k_DVWZXutBuKU-z1gnOUC0_SXE",
       "category": "기타",
       "news": [
         {
-          "title": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"",
-          "url": "https://www.yna.co.kr/view/AKR20261107050000017",
-          "source": "연합뉴스"
+          "title": "XRP 가격이 10% 하락",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2163490",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
-          "url": "https://www.khan.co.kr/article/202611071346001",
-          "source": "경향신문"
+          "title": "리플(XRP) 1.16달러 추락…1,000만 달러 청산에 1달러선마저 무너지나?",
+          "url": "https://www.coinreaders.com/268325",
+          "source": "코인리더스"
         },
         {
-          "title": "FT “美, 젠슨 황·‘中 스파이 의혹' 여성과 연인 관계로 판단”",
-          "url": "https://www.chosun.com/international/international_general/2026/11/07/76XLX3WJCJDOLELLTYK72DO7BE/",
-          "source": "조선일보"
+          "title": "약세 모멘텀 지속과 과매도 기술적 여건 속 XRP 하락",
+          "url": "https://tradersunion.com/ko/news/cryptocurrency-news/show/4144258-xrp-drops-3-02percent-today-to/",
+          "source": "Traders Union"
         }
       ]
     },
     {
-      "keyword": "인터 마이애미 대 샬럿",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T21:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1v4uxy9wdW8aVK18DdpogMElehwMqYcd7AyP8ZnHBHbuovRlea84d-Wgi6uw",
+      "keyword": "노시환",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T22:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv2Vq3nd0KINA553mmEjBbSGO6kkXcnYO2DL3bWO0X3alFKVDthEOmWbNcHGQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "인터 마이애미 대 샬럿 경기 생중계: VAR 판독 결과 샬럿의 골이 취소되었습니다.",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-inter-miami-vs-charlotte-charlotte-bi-var-tu-choi-ban-thang",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "인터 마이애미 대 샬럿 경기 예측: 손에 땀을 쥐게 하는 접전이 예상됩니다.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-inter-miami-vs-charlotte-hua-hen-man-doi-cong",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "인터 마이애미 vs 샬럿 생중계: 선발 라인업",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-inter-miami-vs-charlotte-doi-hinh-xuat-phat",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "드라마",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T21:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyl6BH0ThVzZU09uJ3Q9UxSWmGhBiVXMviXZSU7nTg9WxtF3Dv0FqRex03fG8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "\"넷플릭스에선 대박 나는데\"…한국 드라마 업계의 비명 [김예랑의 K컬처인사이드]",
-          "url": "https://www.hankyung.com/article/202611060276H",
-          "source": "한국경제"
-        },
-        {
-          "title": "드라마 업계 12개 단체 \"제작 감소로 K드라마 생태계 붕괴 위기, 국가가 지원해야\"",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/04/4V2DMJFDBBGYXAOL73AJ5T4ZU4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[박동선의 머니&엔터] '좋은 콘텐츠'만으론 부족하다…K-콘텐츠 산업의 새 화두",
-          "url": "https://www.nc.press/news/articleView.html?idxno=630205",
-          "source": "뉴스컬처"
-        }
-      ]
-    },
-    {
-      "keyword": "잠실주공5단지 아파트",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T20:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuwD2DnTaYjm8LUKWk9oYISuHOX2J66eKMsMfIHNRLyx0iPCY9PYTIq8fAxDQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "30년 기다린 잠실주공5 재건축 올스톱 위기…사업시행인가 무용지물 가능성",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/06/2026110602056.html",
-          "source": "땅집고"
-        },
-        {
-          "title": "잠실5단지 재건축, 이번엔 ‘중학교 일조권’ 암초",
-          "url": "https://www.mk.co.kr/news/business/12195368",
-          "source": "매일경제"
-        },
-        {
-          "title": "이성배 서울시의원, “잠실주공5단지, 교육청 뒷북 평가·자치구 부실한 인가에 또 발목”",
-          "url": "http://www.newstonight.kr/1455108",
-          "source": "m.newstonight.kr"
-        }
-      ]
-    },
-    {
-      "keyword": "valencia vs real madrid",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T20:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3lc9KW-bf3HwT432QO1rUFomsLS4VdSVs6_4VDrDzIs33VNa9r5xsPfw69gE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Guler pounces on rebound to double Real Madrid's lead at Mestalla",
-          "url": "https://www.besoccer.com/new/guler-pounces-on-rebound-to-double-real-madrids-lead-at-mestalla-1439944",
-          "source": "BeSoccer Livescore"
-        },
-        {
-          "title": "Real Madrid beat Valencia to level Liga leaders Barca",
-          "url": "https://www.france24.com/en/live-news/20261107-real-madrid-beat-valencia-to-level-liga-leaders-barca",
-          "source": "France 24"
-        },
-        {
-          "title": "Trent Alexander-Arnold watches from the bench as Fede Valverde scores a stunner from right-back for Real Madrid",
-          "url": "https://www.goal.com/en/news/trent-alexander-arnold-watches-bench-fede-valverde-scores-stunner-right-back-real-madrid/bltfb88c0afe791fe3b",
-          "source": "Goal.com"
-        }
-      ]
-    },
-    {
-      "keyword": "심폐소생술",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T21:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXC9uCALHAgnNQnC4T_CDz0hxJAETIlnkv4l-1mbhBKv-Ztzimkj96c932Y1A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "동두천소방서, 여성단체협의회 심폐소생술 교육",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336165",
-          "source": "인천일보"
-        },
-        {
-          "title": "의왕시, 공무원 대상 심폐소생술 등 응급처치 교육실시",
-          "url": "https://www.viva100.com/article/20261106500631",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "서울 용산구, 서울역 쪽방촌 주민 대상 맞춤형 재난대비 교육 실시",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192247",
-          "source": "주간한국"
-        }
-      ]
-    },
-    {
-      "keyword": "습관",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T21:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5WCxGj771IYEC2g-Nouz1CBMRe98eDrcGdk5Dg2X-3Alyld51iRg2Ll8ZzRM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“아침에 ‘이 습관’ 없으면 신장에 돌 생긴다”…美 의사 경고 나왔다 [헬시타임]",
-          "url": "https://www.sedaily.com/article/20111484",
-          "source": "서울경제"
-        },
-        {
-          "title": "“콩팥에 돌 생길라”…‘이 음료’ 과다 섭취땐 신장건강 악영향",
-          "url": "https://www.nongmin.com/article/20261104500125",
-          "source": "농민신문"
-        },
-        {
-          "title": "작은 돌멩이 하나가 주는 극심한 고통: 부주의한 자에게는 값비싼 교훈이다.",
-          "url": "https://www.vietnam.vn/ko/con-dau-thau-xuong-tu-vien-soi-nho-bai-hoc-dat-gia-cho-nguoi-chu-quan",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "이창훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T21:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrzxrGkbG-Jow_zk1DXWrzfif6CvP0ad0ySZWimI6nhDvj9uJfgS_L2-yiJr8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "\"그때 난리가 났다\"...이창훈, 송혜교와 '열애설' 입 열었다 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110715595549078",
+          "title": "\"난 영원한 한화맨이야!\" 눈물로 떠났는데…뉴욕서 깜짝 재회하나, 노시환 잠재력 깨운 '타격 일타강사' 메츠행 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/202611061754778235O",
           "source": "머니투데이"
         },
         {
-          "title": "이창훈 “송혜교와 열애설? ‘원조교제’ 억지에 욕하기도”",
-          "url": "https://www.munhwa.com/article/11629502",
-          "source": "문화일보"
+          "title": "'충격 전망' 노시환 307억 포기할까...\"장타력 있지만, 한국 잔류 확률 더 높아\" 美 통계사이트 포스팅 실패 예상",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/07/GY3TEOBZG4ZDGZRTHA3WGN3CME/",
+          "source": "조선일보"
         },
         {
-          "title": "이창훈, 송혜교와 열애설 부인 \"\"원조교제' 표현에 쌍욕\"..이젠 \"알아서 생각해\" ('유정 그리고 주정')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GBTGMMZSME2WIMRTGFRDMNDCGA/",
-          "source": "조선일보"
+          "title": "모두를 놀라게 한 노시환의 MLB 도전…빅리그 입성 가능성은? [스한 위클리]",
+          "url": "https://www.hankooki.com/news/articleView.html?idxno=347993",
+          "source": "한국아이닷컴"
         }
       ]
     },
     {
-      "keyword": "엘레나 리바키나",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-07T21:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXwiBBO81GKegzhwWqYqKpsi1pkhxWACscx4jzzByZrX5DeLfIMGT9hxV8dtc",
+      "keyword": "inter miami vs charlotte",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T22:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1hU1omHOSVlSytk-X4AtQV-enQptaOTcc41jDMGL0_jQcxe4Oqt843eafYpc",
       "category": "스포츠",
       "news": [
         {
-          "title": "WTA 파이널스 D-1. 인디언웰스서 막 올린다…리바키나 2연패 vs 사발렌카 첫 정상 도전",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54254",
-          "source": "테니스코리아"
+          "title": "MATCH PREVIEW: Inter Miami CF Closes Out 2026 MLS Regular Season with Home Game Against Charlotte FC",
+          "url": "https://www.intermiamicf.com/news/match-preview-inter-miami-cf-closes-out-2026-mls-regular-season-with-home-game-against-charlotte-fc",
+          "source": "Inter Miami CF"
         },
         {
-          "title": "WTA 파이널은 안정성 테스트입니다",
-          "url": "https://ko.laodong.vn/tennis/wta-finals-la-bai-kiem-tra-su-on-dinh-1796232.ldo",
-          "source": "Laodong.vn"
+          "title": "Charlotte vs Inter Miami Prediction (Nov 7): Inter Miami 85% — Odds & Live Score",
+          "url": "https://www.accuscore.com/game/cmv01ijn4utavmn016tcvtspn",
+          "source": "AccuScore"
         },
         {
-          "title": "WTA 파이널: 리바키나는 타이틀 방어에 성공할 가능성이 높습니다.",
-          "url": "https://www.vietnam.vn/ko/wta-finals-rybakina-rong-cua-bao-ve-ngoi-hau",
+          "title": "Charlotte Inter Miami Soccer",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/charlotte-inter-miami-soccer/image_4f4f04cf-937f-58b0-a8ad-c4e4e660c184.html",
+          "source": "Corsicana Daily Sun"
+        }
+      ]
+    },
+    {
+      "keyword": "중국인민은행",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ24OBBmKRGJmLsbnrNTYenPkMGnaZgoGALQIbflwc7tAqXx7pz3ZKJs42mtg",
+      "category": "경제",
+      "news": [
+        {
+          "title": "“안전자산이라더니 35% 폭락”…은퇴 전 모아둔 금, 팔아야 할까 [퇴직금 들고 나왔습니다]",
+          "url": "https://www.mk.co.kr/news/society/12201561",
+          "source": "매일경제"
+        },
+        {
+          "title": "中인민은행, 금값 급락에도 24개월 연속 금 매입",
+          "url": "https://www.yna.co.kr/view/AKR20261107039000083",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "\"이런 기회 놓치면 후회할까\"…주식보다 주목받는 '역대급 저평가' 자산[주末머니]",
+          "url": "https://view.asiae.co.kr/article/2026110611380630619",
+          "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "토트넘 홋스퍼 fc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tR1P8zylfWTz12VcuGxk06Mwaff0tR1mCLYGyuPYT06WCPO0BF3qMW-ylVw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“손흥민 발롱도르 축하 메시지는?” 묻자···케인, 활짝 웃으며 답했다",
+          "url": "https://www.khan.co.kr/article/202611062132001",
+          "source": "경향신문"
+        },
+        {
+          "title": "'일주일에 7억 2천만 원' \"단 1유로도 아깝지 않다!\" 바이에른 회네스, 케인 초대형 재계약에 대만족...발롱도르 수상자 향한 무한 신뢰 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611062039777851O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "케인, 뮌헨과 두 시즌 연장 계약… 연봉 457억원 추정",
+          "url": "https://www.donga.com/news/Sports/article/all/20261107/134982588/2",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "숲",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1TVtF6fdulYiBghUWTxe00g90ORDwjtPJ1H3ZJgYqj0xPj1x5yHoLR21waSQ",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "스트리머 IP가 게임으로… 숲-컴투스홀딩스, 손잡고 실사 인터랙티브(FMV) 게임 사업 협력",
+          "url": "http://www.osen.co.kr/article/G1112906185",
+          "source": "OSEN"
+        },
+        {
+          "title": "컴투스홀딩스, SOOP과 FMV 게임 사업 협력···글로벌 시장 공략",
+          "url": "https://www.etnews.com/20261105000228",
+          "source": "전자신문"
+        },
+        {
+          "title": "SOOP·컴투스홀딩스가 손잡은 이유는…\"스트리머 팬덤을 게임으로\"",
+          "url": "https://www.dailian.co.kr/news/view/1709957/SOOP%EC%BB%B4%ED%88%AC%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4-%EC%86%90%EC%9E%A1-%EC%9D%B4%EC%9C%A0%EB%8A%94%EC%8A%A4%ED%8A%B8%EB%A6%AC-2026",
+          "source": "데일리안"
+        }
+      ]
+    },
+    {
+      "keyword": "순위",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T22:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9tOc9tRnc8IaXNupLKt8ljclSww-6hNTcqsB6-fyQNQgTkSs4T32NuxYFFgw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "탄화성은 전국 예산 수입 순위에서 9위를 차지하고 있습니다.",
+          "url": "https://www.vietnam.vn/ko/thanh-hoa-thu-ngan-sach-dung-thu-9-toan-quoc",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "2027년 탄화성 및 전국 각 지역의 성장 목표.",
+          "url": "https://www.vietnam.vn/ko/muc-tieu-tang-truong-nam-2027-cua-thanh-hoa-va-cac-dia-phuong-trong-ca-nuoc",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "산업 생산은 마지막 스퍼트를 위해 속도를 높인다.",
+          "url": "https://www.vietnam.vn/ko/san-xuat-cong-nghiep-but-toc-chang-nuoc-rut",
           "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "real madrid",
+      "keyword": "thứ hạng của nottingham forest gặp man city",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-07T21:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOnKQcvKqFe-SPL8mo7UOKQIlwBumMu2fohiM51z0GF1MIY90QkY70nvP8l4",
+      "startedAt": "2026-11-07T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9HsoJ4M23ottsSdec-Jc_lsVwZreLtPBI3lJb2opXibvT4q-UgWcYf2M7dN8",
       "category": "스포츠",
       "news": [
         {
-          "title": "¿A qué hora es el partido Valencia vs Real Madrid y cómo verlo en TV y streaming online?",
-          "url": "https://www.si.com/es-us/a-que-hora-es-el-partido-valencia-vs-real-madrid-y-como-verlo-en-tv-y-streaming-online-07-11-2026",
-          "source": "Sports Illustrated"
+          "title": "Video bóng đá Nottingham Forest - Man City: Bắt nạt \"ông kẹ\" (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-nottingham-forest-man-city-bat-nat-ong-ke-ngoai-hang-anh-c48a1809281.html",
+          "source": "Tin tức 24h"
         },
         {
-          "title": "Partidos de hoy de fútbol: horario y dónde ver por TV",
-          "url": "https://www.mundodeportivo.com/horarios/futbol/20261107/1004248097/partidos-hoy-futbol-horario-ver-tv.html",
-          "source": "Mundo Deportivo"
+          "title": "Nhận định bóng đá Nottingham vs Man City, 00h30 ngày 8/11: Cú hích trời Âu",
+          "url": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-nottingham-vs-man-city-00h30-ngay-8-11-cu-hich-troi-au-5282002611.html",
+          "source": "Tạp chí Bóng đá"
         },
         {
-          "title": "Liga | El Real Madrid no suelta el pie del acelerador",
-          "url": "https://www.fichajes.com/a6463607152635137137-liga-el-real-madrid-no-suelta-el-pie-del-acelerador",
-          "source": "Fichajes.com"
+          "title": "Trận cầu điên rồ đẩy MU vào nhóm xuống hạng",
+          "url": "https://znews.vn/tran-cau-dien-ro-day-mu-vao-nhom-xuong-hang-post1694906.html",
+          "source": "Znews"
+        }
+      ]
+    },
+    {
+      "keyword": "포스코",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-07T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBed3NwcpK8jU9_O1nHUZofDGWDeqeowgfBgqvNapEOKtiesO8eoZSYqn2oZQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "포스코 노조, 임금 잠정합의안 부결…51.7% 반대",
+          "url": "https://www.yna.co.kr/view/AKR20261107046300053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "포스코 임단협 잠정합의안, 노조원 투표 '부결'…반대 51.7% - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/07/2026110719110614930",
+          "source": "머니투데이"
+        },
+        {
+          "title": "포스코 노사 임금합의안 부결…다시 원점으로",
+          "url": "https://m.ekn.kr/view.php?key=20261107021536695",
+          "source": "에너지경제신문"
         }
       ]
     }
