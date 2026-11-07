@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-07T11:29:55.480Z",
+  "updatedAt": "2026-11-07T12:40:12.998Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "생활·날씨",
@@ -12,17 +16,34 @@
     {
       "category": "경제",
       "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "리즈 유나이티드 대 토트넘",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-07T11:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQmYFZYBnBZYOWKW0XWXPBq3tXVYATKb_EjfrOcXZ43jHqWzH2B-z1FSM5Ebk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"맨유전 3시간 불꽃 난상토론\" 데제르비의 토트넘, '3연승' 대반전 이유가 밝혀졌다! 최하위→9위→오늘밤 리즈 원정 승리시 '톱5' 눈앞",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/07/GRRDKNZQMM2GMODCMVSDCNDFG4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘EPL 20→9위’ 수직 상승! 616일, 손흥민과 이별 후 처음 터진 상승세! 토트넘의 반등 이유 “신뢰 회...",
+          "url": "https://sports.khan.co.kr/article/202611072029003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "‘토트넘이 3연승 했다고? 우리도 따라하자!’ 유럽은 지금 ‘합숙 열풍’...나폴리-아탈란타도 합세",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100349",
+          "source": "포포투"
+        }
+      ]
+    },
     {
       "keyword": "라면",
       "traffic": "2000+",
@@ -42,20 +63,86 @@
           "source": "경향신문"
         },
         {
-          "title": "첫날 라면 2만2000그릇 팔렸다… 구미라면축제 올해도 흥행",
-          "url": "https://www.chosun.com/national/regional/2026/11/07/W65WKD4KOBH2NB2U5IU2T55ZP4/",
-          "source": "조선일보"
+          "title": "“갓 튀긴 라면 맛보자” 1㎞ 대기행렬…구미라면축제 첫날부터 ‘후끈’",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089915",
+          "source": "경북일보"
         }
       ]
     },
     {
-      "keyword": "김천상무 대 fc 안양 순위",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-07T09:40:00.000Z",
-      "picture": "",
+      "keyword": "달리기",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T10:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTB5bOCek5pFT1UMYuVjTq7MWfrWDQQboc2TAwnvhk6atXQgRUh1rIwgkAwE5k",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "“2살 아들 업고 6개월에 100대 명산… 산 달리기보다 쉬워요”[양종구의 100세 시대 건강법]",
+          "url": "https://www.donga.com/news/It/article/all/20261106/134978366/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "“아내 위해 두살배기 업고 ‘100대 명산’ 다 올랐죠”[양종구의 100세 시대 건강법]",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261105/134975252/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "새로운 시대로 나아갈 준비가 되었습니다.",
+          "url": "https://www.vietnam.vn/ko/san-sang-cho-buoc-chay-vao-ky-nguyen-moi",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "이소라",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T10:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuuupaxCaHsSdKcsFrsNaUTI8qX2NjQsL28jjikPwn7b_QP5bnCt7OJ_e7dDg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "90년대 스타들의 귀환 임박… '놀면 뭐하니?' 18명 정체 공개로 시청자 기대감 고조",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=846377",
+          "source": "제민일보"
+        },
+        {
+          "title": "MZ 최예나, 노래 취향은 90년대 가요…\"선배님들 창법 참고\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346526",
+          "source": "뉴스1"
+        },
+        {
+          "title": "‘놀뭐’ 쇼생크 탈출, 눈만 마주치면 시비…“공부 많이 한 박명수” (놀뭐)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523933",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "장희숙",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp9woOtPtSEIaBRE6E32GA058VVYLphqi13OOJjlbezr00P5_WuEz4iEICIm4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
+          "url": "https://sports.khan.co.kr/article/202611070054003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "닥터X : 하얀 마피아의 시대 : [10회 예고] “어른이 되게 해 줄 겁니다” 김지원, 끝까지 강행한 수술로 계약 해지 위기",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC482971815",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "“병원보다 환자가 우선”… 김지원, ‘닥터X’서 의료 권력에 맞선 마지막 승부수",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=846386",
+          "source": "제민일보"
+        }
+      ]
     },
     {
       "keyword": "강남구",
@@ -83,36 +170,27 @@
       ]
     },
     {
-      "keyword": "최예나",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T09:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "장희숙",
+      "keyword": "이재성",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-07T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp9woOtPtSEIaBRE6E32GA058VVYLphqi13OOJjlbezr00P5_WuEz4iEICIm4",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF1MuCqFeHA_OggQ0lcBHS0aPngla9ETg79OsNyRRgM2wuml9ePIDiqY5kc5k",
+      "category": "스포츠",
       "news": [
         {
-          "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
-          "url": "https://sports.khan.co.kr/article/202611070054003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "닥터X : 하얀 마피아의 시대 : [10회 예고] “어른이 되게 해 줄 겁니다” 김지원, 끝까지 강행한 수술로 계약 해지 위기",
-          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC482971815",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "'닥터X' 김지원X이정은, 사제 합동 역대 최대 규모 수술...실패 없는 성공일까 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110713267224990",
+          "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/202611072058773969O",
           "source": "머니투데이"
+        },
+        {
+          "title": "‘멀티골로 뮌헨 울렸고, 직전엔 헤더골까지!’…이재성, 23경기 무패 뮌헨과 재회→김민재와 코리안 더비 성사될까",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100397",
+          "source": "포포투"
+        },
+        {
+          "title": "FSV 마인츠 05 vs 바이에른 뮌헨 프리뷰: 선두 경쟁의 뜨거운 승부",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fsv-mainz-05-vs-bayern-munchen-diem-nong-cuoc-dua-top-dau",
+          "source": "Vietnam.vn"
         }
       ]
     },
@@ -130,89 +208,39 @@
           "source": "싱글리스트"
         },
         {
-          "title": "'불후의 명곡', 故전유성 특집…애제자 김신영 스페셜 MC",
-          "url": "https://www.yna.co.kr/view/AKR20261106069500005",
-          "source": "연합뉴스"
+          "title": "‘55년 우정’ 양희은, 故 전유성에 “좀 괴팍했지만 퍼주고 생색내지 않았다”",
+          "url": "https://weekly.khan.co.kr/article/202611072030001",
+          "source": "주간경향"
         },
         {
-          "title": "故전유성 사망 한달전 사진 공개..휠체어+야윈 뒷모습 \"마지막 외출\" 뭉클[핫피플]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GQYDQMRYGQYDSODCMQYDCNZZGQ/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "유영우",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuuupaxCaHsSdKcsFrsNaUTI8qX2NjQsL28jjikPwn7b_QP5bnCt7OJ_e7dDg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "90년대 스타들의 귀환 임박… '놀면 뭐하니?' 18명 정체 공개로 시청자 기대감 고조",
-          "url": "http://www.jemin.com/news/articleView.html?idxno=846377",
-          "source": "제민일보"
-        },
-        {
-          "title": "‘놀뭐’ 쇼생크 탈출, 눈만 마주치면 시비…“공부 많이 한 박명수” (놀뭐)",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523933",
-          "source": "iMBC 연예"
-        },
-        {
-          "title": "‘놀면 뭐하니?’ 이소라 등장하나…유재석도 정체에 관심",
-          "url": "https://sports.donga.com/ent/article/all/20261107/134983047/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "동행",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T09:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDK3NXrerVu2aL2bjZ1XNZ4bEMWHqPioz4njUjWkfLOgO7I5cZoA8wlYARmbU",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[단독] 탈옥 대비해 ‘총 든 군인’…교도소 이송 작전 ‘첫 공개’",
-          "url": "https://news.jtbc.co.kr/article/NB12326874",
-          "source": "JTBC"
-        },
-        {
-          "title": "원주교도소, 47년 만에 새 보금자리로...새로운 도약 나선다",
-          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788085",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "원주교도소, 47년 만에 신축 교도소로 이전…수용자 약 800명 이송 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/05/2026110514590890917",
+          "title": "'불후' 이찬원, 김신영과 '행님아'로 정통 개그 도전 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110717007262146",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "이재성",
+      "keyword": "항공기",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-07T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqXnN7W0D43bqqNcnro-6giS5nekeQyGhPdjAt6upZTn8GOyBxPRUnBy56EII",
-      "category": "스포츠",
+      "startedAt": "2026-11-07T11:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA1Gg3atw7rUSCaUya9e6EOYz-Lrci-Q4Hqmbhsm3IJRoTyFWc9cBrC8llga8",
+      "category": "기타",
       "news": [
         {
-          "title": "‘멀티골로 뮌헨 울렸고, 직전엔 헤더골까지!’…이재성, 23경기 무패 뮌헨과 재회→김민재와 코리안 더비 성사될까",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100397",
-          "source": "포포투"
+          "title": "“비행기 오래되면 연료 더 쓰나?”…항공사들이 기단 바꾸는 이유",
+          "url": "https://www.mk.co.kr/news/business/12201405",
+          "source": "매일경제"
         },
         {
-          "title": "FSV 마인츠 05 vs 바이에른 뮌헨 프리뷰: 선두 경쟁의 뜨거운 승부",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fsv-mainz-05-vs-bayern-munchen-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
+          "title": "제주항공, B737-8 14호기 도입…\"기단 현대화로 운영 효율↑\" - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/10/29/2026102909070681045",
+          "source": "머니투데이"
         },
         {
-          "title": "[분데스리가] 창과 방패의 맞대결…이재성 vs 김민재, 코리안 더비 성사",
-          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=601636",
-          "source": "스타데일리뉴스"
+          "title": "제주항공, 신형 항공기 비중 30% 돌파…유류비 부담 완화",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419576",
+          "source": "데일리한국"
         }
       ]
     },
@@ -221,23 +249,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-07T10:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW77q4mclkI-ad67DGM8JvRYG13LolvxLKmlF61NaaFYEztrl1wavcGbawrqY",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzl3mrErOVluDSFre8eQ-hyQ9CJTLKRRDQjv5OUvTUTEL6fq3GFKrPnYFtemc",
       "category": "기타",
       "news": [
+        {
+          "title": "리센느, ‘2026 KGMA‘ 4관왕 기염 “과분한 사랑... 항상 성장하겠다” [2026 KGMA]",
+          "url": "https://isplus.com/article/view/isp202611070397",
+          "source": "일간스포츠"
+        },
+        {
+          "title": "'그랜드 송'까지 4관왕…트레저 \"뜻 깊은 상…멋진 아티스트 될 것\"[2026 KGMA]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03772006645643424&mediaCodeNo=257",
+          "source": "이데일리"
+        },
         {
           "title": "BTS·블랙핑크→스키즈·코르티스…‘2026 KGMA’ 사전 수상 영예",
           "url": "https://www.mk.co.kr/news/musics/12201476",
           "source": "매일경제"
-        },
-        {
-          "title": "유영우, 시상하러 와서 리센느 ‘위드’ 열창… 웃음·감동 선사[2026 KGMA]",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03673606645643424&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "아이브 리즈, 데뷔 첫 시상식 MC 도전…‘2026 KGMA’ 솔로 무대도",
-          "url": "https://www.viva100.com/article/20261104500819",
-          "source": "브릿지경제"
         }
       ]
     }
