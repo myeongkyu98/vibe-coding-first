@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-07T18:34:32.451Z",
+  "updatedAt": "2026-11-07T19:36:39.351Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
+      "category": "스포츠",
+      "count": 4
     },
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 2
     },
     {
@@ -20,6 +20,10 @@
     {
       "category": "정치·사회",
       "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
@@ -28,23 +32,23 @@
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-07T16:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxqkPTO5qcRyDbZuliaXKCm0YfK4DjpsPQvJBiQYcvMHICW3uRLx9rH5jEKBc",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWAxGXq6I_I-qAsEi2lvrkFFxJvuEht5dkdwVihF7HgkznNRrGizRiqIO5_ZM",
       "category": "기타",
       "news": [
         {
-          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+          "title": "Premier League LIVE: Live text, radio and reaction from across the Premier League",
           "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
           "source": "BBC"
         },
         {
-          "title": "LIVE: Nottingham Forest stuns Man City with early goals in Premier League clash",
-          "url": "https://www.usatoday.com/story/sports/soccer/epl/2026/11/07/manchester-city-nottingham-forest-premier-league/92661741007/",
-          "source": "USA Today"
+          "title": "Maresca makes three changes for Forest trip",
+          "url": "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-team-news-tactics-63929664",
+          "source": "Manchester City FC"
         },
         {
-          "title": "Nottingham Forest v Manchester City: Premier League – live",
-          "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-          "source": "The Guardian"
+          "title": "Elliot Anderson returns home with Glasner on the brink",
+          "url": "https://www.besoccer.com/new/elliot-anderson-returns-home-with-glasner-on-the-brink-1439839",
+          "source": "BeSoccer Livescore"
         }
       ]
     },
@@ -87,39 +91,39 @@
           "source": "머니투데이"
         },
         {
-          "title": "'차정원♥' 하정우, 결혼 앞두고 달라진 비주얼 공개",
-          "url": "https://www.newsis.com/view/NISX20261107_0003859045",
-          "source": "뉴시스"
-        },
-        {
           "title": "‘차정원♥’ 하정우, 12월 결혼 앞두고 근황…한층 날렵해진 모습",
           "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1",
           "source": "동아일보"
+        },
+        {
+          "title": "'예비 신랑' 하정우, 결혼 앞둔 근황… 삭발 이후 달라진 비주얼",
+          "url": "https://www.hankookilbo.com/news/article/A2026110715480002442",
+          "source": "한국일보"
         }
       ]
     },
     {
-      "keyword": "버밍엄 대 스완지 시티",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T14:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyD8LIdvhA75v6YtlHggha3xgWjrYgkQMUQH9m_jG1oNIK6ka5CXzL-iCsa50",
-      "category": "기타",
+      "keyword": "맨시티",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T18:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeWVwRfS5CQbyPNmEQidyYgRKVAeSlKnOuW6XBPgBf0B6i9j024LWnVZAT9gc",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Birmingham City v Swansea City: Championship stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cvlyd97z1k92t",
-          "source": "BBC"
+          "title": "'115건 유죄' 맨시티, 리그 2연패하며 아스널에 1위 내줬다",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190430",
+          "source": "금강일보"
         },
         {
-          "title": "Birmingham 2-1 Swansea: Jay Stansfield scores twice as Blues go top of the Championship",
-          "url": "https://www.skysports.com/football/news/13592975/birmingham-2-1-swansea-jay-stansfield-scores-twice-as-blues-go-top-of-the-championship",
-          "source": "Sky Sports"
+          "title": "맨체스터 시티는 추가 혐의를 받을 위험에 처해 있다.",
+          "url": "https://www.vietnam.vn/ko/man-city-doi-mat-nguy-co-bi-them-cac-cao-buoc",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Licensable picture: Birmingham City v Swansea City - Sky Bet Championship 2026/27",
-          "url": "https://www.reutersconnect.com/item/birmingham-city-v-swansea-city-sky-bet-championship-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMEo2NUQxRw",
-          "source": "Reuters Connect"
+          "title": "무리뉴는 이미 알고 있었다? 前 맨유 선수 “뭔가 이상한 일이 벌어지고 있다고 했는데”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697452",
+          "source": "인터풋볼"
         }
       ]
     },
@@ -153,13 +157,13 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-07T15:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT02MJm67xEBOLOk-k5p54hs4eyMiZ7Zn7gtp8TMI4G2cy_4lgBk-uZpijYTgQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_emKuSoAZxJANgGealkgGv9aYMfKek9PoCM-0-BgYhZHyG01YXpkKXOTAw8o",
       "category": "스포츠",
       "news": [
         {
-          "title": "Bayern schlagen Mainz und behaupten die Tabellenführung",
-          "url": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-          "source": "sportschau.de"
+          "title": "Spitzenduo Bayern und Dortmund weiter im Gleichschritt",
+          "url": "https://www.stol.it/artikel/sport/spitzenduo-bayern-und-dortmund-weiter-im-gleichschritt",
+          "source": "stol.it"
         },
         {
           "title": "Fußball heute: Ergebnisse & Spiele am 7.11.2026 im Überblick",
@@ -167,9 +171,9 @@
           "source": "News zur deutschen Nationalmannschaft"
         },
         {
-          "title": "Video: 1. FSV Mainz 05 - FC Bayern: Die Interviews",
-          "url": "https://fcbayern.com/fcbayerntv/de/video/interview/2026/11/1.-fsv-mainz-05-fc-bayern-die-interviews",
-          "source": "FC Bayern"
+          "title": "\"Die Regel ist Wahnsinn\": Mainz schimpft nach aberkanntem Tor gegen Bayern",
+          "url": "https://www.eurosport.de/fussball/bundesliga/2026-2027/mainz-05-hadert-mit-aberkanntem-tor-gegen-den-fc-bayern-amiri-schimpft-diese-regel-ist-wahnsinn_sto23353206/story.shtml",
+          "source": "Eurosport"
         }
       ]
     },
@@ -203,23 +207,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-07T17:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvr3MnhC7loBDcBhBXQOjgXQdBnSX1GgBl8Gp0wCtDiGaqob5Fx5ug4CQtEz4",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu6xoWhkLWZcGeFF80-eey_X7uGe16pvJiOQHOPerHM9RTLMrJ-6NYDO99Dec",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
-          "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?utm_source=blast&amp;amp%3Butm_medium=o_email&amp;amp%3Butm_campaign=e10316_global_localized_gtavi-preload_static_learn-more&amp;amp%3Butm_content=main-img",
-          "source": "Rockstar Games"
+          "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI",
+          "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
+          "source": "Forbes"
         },
         {
-          "title": "Grand Theft Auto VI pre-download begins November 10",
-          "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
-          "source": "PlayStation.Blog"
+          "title": "Could potential AI clones of GTA VI force a quicker official port?",
+          "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+          "source": "Ars Technica"
         },
         {
-          "title": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
-          "url": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
-          "source": "Charter Communications"
+          "title": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted",
+          "url": "https://wccftech.com/gta-6-tens-of-thousands-dollars-tokens-unofficial-pc-port/",
+          "source": "Wccftech"
         }
       ]
     },
@@ -228,23 +232,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-07T15:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhebnhdP2azDnCPSz4A-d26M1LfVADz9p_W8XJsdbrk4pj68qc2cgs0uUshGU",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaoBMuCrHszeA8bBKV0zeq4pCaoqHCLCcultES79FhY_jCJvtP38grFXCL-uw",
+      "category": "스포츠",
       "news": [
         {
-          "title": "이천수 “은퇴 번복 창피해 10억 제안 거절”…♥심하은 “말렸어야 했다”",
-          "url": "https://www.sedaily.com/article/20110260",
-          "source": "서울경제"
+          "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
+          "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1",
+          "source": "동아일보"
         },
         {
-          "title": "심하은, 이천수♥ '1도 안 닮은' 키즈모델 딸 공개..\"매거진 나오는 날\"",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-07/202611070100051710005164",
-          "source": "스포츠조선"
+          "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "이천수♥심하은, 쌍둥이 남매 외모에 자신감..\"DNA 괜찮아, 아빠 안 닮았다\"",
-          "url": "https://www.starnewskorea.com/star/2026/11/04/2026110419484811336",
-          "source": "스타뉴스"
+          "title": "김민재-황인범-황희찬 눈물의 은퇴 논란 '96즈'…모레노 감독 '직관'→대한민국 축구 '중심축'임은 변함없다",
+          "url": "https://www.chosun.com/sports/football/2026/11/05/GY2GENJVHBRDCNDGMQZGCZJYGI/",
+          "source": "조선일보"
         }
       ]
     },
@@ -253,23 +257,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-07T14:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkeKy8DguXVRNLL2m6dZFqpMKYu7Ud_SNvLbBq6MAOonE7nUe2VyPt3flcoew",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqGdZLrq8JpaQCESme6AZO_7y6CD1zZAhyY942KID0aOG8WEFycSCxnuZUHJg",
       "category": "스포츠",
       "news": [
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/177730/player/1739/batting",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Kathmandu Ghorkaj Defeats Lumbini Lions by 36 Runs in Nepal Premier League",
-          "url": "https://english.ratopati.com/story/86002/undefeated-lumbinis-journey-halted-kathmandu-wins-by-36-runs",
-          "source": "Ratopati"
-        },
         {
           "title": "Match Predictions: Nepal Premier League 2026 - 18th Match - Kathmandu Gorkhas vs Lumbini Lions - 7th November",
           "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-18th-match-kathmandu-gorkhas-vs-lumbini-lions-7th-november/114221.htm",
           "source": "Cricket World"
+        },
+        {
+          "title": "Kathmandu Gurkhas Batting Well Against Lumbini, David Warner Scores Half-Century",
+          "url": "https://english.ratopati.com/story/85985/warner-completes-half-century-against-lumbini",
+          "source": "Ratopati"
+        },
+        {
+          "title": "Kathmandu’s Challenge to Top-ranked Lumbini",
+          "url": "https://ekantipur.com/sports/2026/11/07/en/kathmandu-challenges-top-ranked-lumbini-41-38.html",
+          "source": "Ekantipur"
         }
       ]
     }
