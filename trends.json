@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-07T16:31:55.906Z",
+  "updatedAt": "2026-11-07T17:29:01.752Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 7
+      "count": 5
     },
     {
       "category": "기타",
-      "count": 2
+      "count": 3
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     },
     {
       "category": "정치·사회",
@@ -16,34 +20,9 @@
   ],
   "items": [
     {
-      "keyword": "아스널 대 헐 시티",
+      "keyword": "복권",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-07T14:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT706MWhIBzWAD0LaK9gCUjvYhUt9QRfLnME94M22wjLk1-7A2SnwnrP6oCtNQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "아스널 0-0 헐 시티 (전반전) 생중계: 경기가 시작됩니다",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h1-tran-dau-bat-dau",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1064325",
-          "source": "재경일보"
-        },
-        {
-          "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
-          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo",
-          "source": "Laodong.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "복권",
-      "traffic": "2000+",
-      "trafficValue": 2000,
       "startedAt": "2026-11-07T15:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJB8Fpr6Zq5oOSKT0Fw2qhIPvtACVvOKQcblmCx0q1QH9xAl6kKY1qvgqBtK4",
       "category": "기타",
@@ -62,6 +41,31 @@
           "title": "1249회 로또 1등 14명…1인당 20억3천만원",
           "url": "https://www.khan.co.kr/article/202611072132001",
           "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "아스널 대 헐 시티",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-07T14:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzYa7bKqdm9fdYxbT4LINbJivtl6f1oZaUeKDV0m6qTe_zpOU6HOh8vFm3KFI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "아스널 0-0 헐 시티 (전반전): 선제골을 넣기 위한 공격에 박차를 가하고 있다.",
+          "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h2-tang-toc-tim-ban-mo-ty-so",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1064325",
+          "source": "재경일보"
+        },
+        {
+          "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
+          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo",
+          "source": "Laodong.vn"
         }
       ]
     },
@@ -120,73 +124,73 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-07T14:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxVj2YwxhGzCrDEOfMX5OdS_Elu1rxKWiy8KXGXZjTB-pyXWc8YhL6578aqaA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFqzXEUnIkeHVjjf6-9d_5ruBqX4OUkXOKAbbtrE2r6yYEN5v0iWWY2VKwwa4",
       "category": "스포츠",
       "news": [
         {
-          "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
-          "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+          "title": "Arsenal 1-0 Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/07/arsenal-v-hull-city-fulham-v-newcastle-united-fa-cup-and-more-football-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Arsenal 1-0 Hull City: Martin Odegaard scores winner for Gunners",
+          "url": "https://www.bbc.com/sport/football/live/c64g1dvlpjzkt",
           "source": "BBC"
         },
         {
-          "title": "Arteta's update on Saka, Saliba and Konsa",
-          "url": "https://www.arsenal.com/news/artetas-update-on-saka-saliba-and-konsa-aopoW1X0hn87",
-          "source": "Arsenal.com"
-        },
-        {
-          "title": "Arsenal vs. Hull City match thread: back at home",
-          "url": "https://sports.yahoo.com/articles/arsenal-vs-hull-city-match-141009349.html",
-          "source": "Yahoo Sports"
+          "title": "Fans in stitches as Arsenal vs Hull referee 'sells fans a dummy' with VAR check at Emirates Stadium",
+          "url": "https://www.thesun.co.uk/sport/40951157/arsenal-hull-referee-var-check-emirates-stadium-havertz/",
+          "source": "The Sun"
         }
       ]
     },
     {
-      "keyword": "도르트문트 대 엘버스베르크",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T14:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-      "category": "스포츠",
+      "keyword": "일본 지진",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T16:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSy1YQvEK9hVwXB-fH0zHPDVE--qn0joksPu4Yb5-NFDfFHkaca9hF9ImybAaM",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "Borussia Dortmund vs Elversberg: German Bundesliga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cwvgdj931ez7t",
-          "source": "BBC"
+          "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
+          "url": "https://www.yna.co.kr/view/AKR20261108001400530",
+          "source": "연합뉴스"
         },
         {
-          "title": "Confirmed lineups: Borussia Dortmund vs. SV Elversberg",
-          "url": "https://sports.yahoo.com/articles/confirmed-lineups-borussia-dortmund-vs-132600612.html",
-          "source": "Yahoo Sports"
+          "title": "일본 지바현 지바시 동남동쪽 202km 해역 규모 6.1 지진",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706275",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Match Preview: BVB Host SV Elversberg",
-          "url": "https://www.fearthewall.com/general/25389/match-preview-bvb-host-sv-elversberg",
-          "source": "Fear The Wall"
+          "title": "일본 지바현 앞바다서 규모 6.1 지진···쓰나미 경보 없어",
+          "url": "https://www.khan.co.kr/article/202611062024001",
+          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "라이프치히 대 아우크스부르크",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-07T14:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "keyword": "mainz vs bayern",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T15:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDnIx3_usgNHW-dbPLEN1S6xPp3Mqn36n8s-5lWSh_FfuDm23COUeInIaVGRw",
       "category": "스포츠",
       "news": [
         {
-          "title": "RB Leipzig vs Augsburg: German Bundesliga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c6qxn7zrq0yet",
-          "source": "BBC"
+          "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
+          "url": "https://www.kicker.de/ausgerechnet-im-rekordspiel-neuer-verletzt-ausgewechselt-1269459/artikel",
+          "source": "Kicker"
         },
         {
-          "title": "Confirmed Lineups: RB Leipzig vs. FC Augsburg",
-          "url": "https://sports.yahoo.com/articles/confirmed-lineups-rb-leipzig-vs-132500786.html",
-          "source": "Yahoo Sports"
+          "title": "FC Bayern, Noten: Harry Kane glänzt und gibt den Debatten neue Nahrung",
+          "url": "https://www.spox.com/fussball/news/harry-kane-glaenzt-und-gibt-den-debatten-dennoch-neue-nahrung-fc-bayern-muenchen-noten-und-einzelkritiken-zum-sieg-gegen-den-fsv-mainz-05/blt6547c9a95b684248",
+          "source": "SPOX.com"
         },
         {
-          "title": "Micho ahead of RBLFCA: \"We need to switch our focus back to the Bundesliga\"",
-          "url": "https://onefootball.com/en/news/micho-ahead-of-rblfca-we-need-to-switch-our-focus-back-to-the-bundesliga-43737109",
-          "source": "OneFootball"
+          "title": "Stimmen zum Spiel in Mainz - Joshua Kimmich: „Der Sieg war nie gefährdet“",
+          "url": "https://fcbayern.com/de/news/2026/11/die-stimmen-zum-bundesliga-spiel-beim-1.-fsv-mainz-05",
+          "source": "FC Bayern"
         }
       ]
     },
@@ -195,18 +199,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-07T14:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfsT7aCEqmN0ond_8M2dElyoqgwJEQhUrR_uT91-p2YQUXY1RZC6Z98_7MqE4",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIVmnS0_aHn8lx9BH1UWi5RoV2TFYLUAzM6ETgQdSX967gZoozpuI2fZsrq2c",
       "category": "정치·사회",
       "news": [
-        {
-          "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
-          "url": "https://www.yna.co.kr/view/MYH20261106018400038",
-          "source": "연합뉴스"
-        },
         {
           "title": "[다시보기] 그것이 알고싶다 1511회",
           "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438",
           "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
+          "url": "https://www.yna.co.kr/view/MYH20261106018400038",
+          "source": "연합뉴스"
         },
         {
           "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
@@ -216,27 +220,27 @@
       ]
     },
     {
-      "keyword": "mainz vs bayern",
+      "keyword": "이천수",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-07T15:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOUWep6YfPheCOSh3eV-GN1VP5WKC_8wNs8eakRYYyjyONHUoEDysZ5Xh13qI",
+      "startedAt": "2026-11-07T15:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaoBMuCrHszeA8bBKV0zeq4pCaoqHCLCcultES79FhY_jCJvtP38grFXCL-uw",
       "category": "스포츠",
       "news": [
         {
-          "title": "FSV Mainz 05: Gegen den FC Bayern München droht ein Debakel",
-          "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-gegen-den-fc-bayern-muenchen-droht-ein-debakel-accg-201659357.html",
-          "source": "FAZ"
+          "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
+          "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1",
+          "source": "동아일보"
         },
         {
-          "title": "Bundesliga: Wer zeigt / überträgt Mainz 05 vs. FC Bayern im TV und LIVE-STREAM?",
-          "url": "https://www.dazn.com/de-DE/news/fussball/bundesliga-wer-zeigt-uebertraegt-mainz-05-vs-fc-bayern-im-tv-und-live-stream/1cumq1imznl6c14skzqshjj7gr",
-          "source": "DAZN"
+          "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "Verteidigen die Bayern gegen Mainz mit Urs Fischer ihren Leaderthorn?",
-          "url": "https://www.bluewin.ch/de/sport/fussball/bundesliga/verteidigen-die-bayern-gegen-mainz-mit-urs-fischer-ihren-leaderthorn-li.3664998",
-          "source": "blue News"
+          "title": "김민재-황인범-황희찬 눈물의 은퇴 논란 '96즈'…모레노 감독 '직관'→대한민국 축구 '중심축'임은 변함없다",
+          "url": "https://www.chosun.com/sports/football/2026/11/05/GY2GENJVHBRDCNDGMQZGCZJYGI/",
+          "source": "조선일보"
         }
       ]
     },
@@ -246,7 +250,7 @@
       "trafficValue": 100,
       "startedAt": "2026-11-07T14:50:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTShaFUjA2lK1iRs9Km-lBK1zvv_uaJz0L7E6zBlK7_j-xjLrxDBpGOfP6kQ74",
-      "category": "스포츠",
+      "category": "기타",
       "news": [
         {
           "title": "David Warner's Fielding Gaffe Leads to 5-Run Penalty in Nepal Premier League",
@@ -254,14 +258,14 @@
           "source": "Ratopati"
         },
         {
-          "title": "Kathmandu Gorkhas vs Lumbini Lions Preview & Prediction | 2026 Nepal Premier League | League Stage",
-          "url": "https://www.thestatszone.com/kathmandu-gorkhas-vs-lumbini-lions-preview-prediction-2026-nepal-premier-league-league-stage-236841",
-          "source": "The Stats Zone"
-        },
-        {
           "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
           "url": "https://www.cricbuzz.com/player-match-performance/match/177730/player/1739/batting",
           "source": "Cricbuzz"
+        },
+        {
+          "title": "Kathmandu Ghorkaj Defeats Lumbini Lions by 36 Runs in Nepal Premier League",
+          "url": "https://english.ratopati.com/story/86002/undefeated-lumbinis-journey-halted-kathmandu-wins-by-36-runs",
+          "source": "Ratopati"
         }
       ]
     }
