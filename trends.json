@@ -1,32 +1,28 @@
 {
-  "updatedAt": "2026-11-07T05:41:56.571Z",
+  "updatedAt": "2026-11-07T06:46:54.885Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 6
+    },
+    {
+      "category": "기타",
+      "count": 2
     },
     {
       "category": "경제",
       "count": 1
     },
     {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "삼전 닉스",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-07T04:10:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSywmZSLTzqPj40cBxto0TE_Y0hYXGA_cTuc6ap4xPS8CKd8xt48of54VjDZi0",
       "category": "경제",
@@ -49,195 +45,211 @@
       ]
     },
     {
-      "keyword": "조작 기소 의혹 특검법 통과에 따른 핵심 쟁점과 최신 뉴스 알려줘",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZsW7f0HUuutthfBFVqz6-cVBhM3capEgYZQMZelKdyExNma8N-7dw4tWghZU",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "국힘, 서울 도심서 '조작기소 특검법' 규탄 대규모 집회",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6863888_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "민주당, 국힘 ‘조작기소 특검’ 장외투쟁에 “본질 외면한 채 국민 호도”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706665",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
-          "url": "https://www.munhwa.com/article/11629487",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "아이뉴스24",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-07T03:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW-AN3hNGPbLoCOTg2z9bSXt6I747teTZGtD_cza7bmdtxhypXEwMaXOk_hIQ",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "그라비티 게임 테크, 7일 방콕서 ‘라그나로크 페스타 2026’ 개최",
-          "url": "https://zdnet.co.kr/view/?no=20261106135203",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "그라비티 게임 테크(GGT), 라그나로크 IP 글로벌 게임 페스티벌 ‘RAGNAROK FESTA 2026’ 개최!",
-          "url": "https://kbench.com/?q=node/283122",
-          "source": "케이벤치"
-        },
-        {
-          "title": "그라비티 게임 테크, 방콕서 '라그나로크 페스타 2026' 개최",
-          "url": "https://news.mtn.co.kr/article/2026110616470389282",
-          "source": "MTN 머니투데이방송"
-        }
-      ]
-    },
-    {
-      "keyword": "한국대학신문",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T04:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "환자",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T04:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-4LzasRwCUlVIScQHiYIONXVquik_Nwgt_baMKiKpr5ES9y5blPK2mOYsRM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975199&pWise=sub&pWiseSub=R6",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "초등학교 곳곳서 ‘콜록콜록’…독감 다시 확산세",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "독감 2주 연속 증가세…소아·청소년 비중 높아",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124824JMX",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "미스 글로브",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T03:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREJZ6zlE2ioDw5r3xFkCTOTh41zR100l-B4820gqKmF58X75liiabOJW7er7I",
+      "keyword": "디아즈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T05:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPerghA8HLSM6oFGs3xaqsJMtVAnwrO_gauRBPwklJOaCps-djTbTnTGQ7hq8",
       "category": "스포츠",
       "news": [
         {
-          "title": "Nguyen Thu Thao가 2026년 미스 글로브로 선정되었습니다.",
-          "url": "https://www.vietnam.vn/ko/nguyen-thu-thao-dang-quang-hoa-hau-hoan-cau-the-miss-globe-2026",
-          "source": "Vietnam.vn"
+          "title": "KT 김현수, PS 통산 최다 출장 110경기…홍성흔 넘어 단독 1위[KS4]",
+          "url": "https://www.news1.kr/sports/baseball/6346394",
+          "source": "뉴스1"
         },
         {
-          "title": "키 171cm의 준우승자는 2026년 미스 글로브 인터내셔널에서 베트남 대표로 출전할 예정이다.",
-          "url": "https://www.vietnam.vn/ko/a-hau-cao-1-71m-dai-dien-viet-nam-thi-hoa-hau-hoan-cau-quoc-te-2026",
-          "source": "Vietnam.vn"
+          "title": "‘가을의 전설’ 김현수, PS 통산 최다 110경기 출장 신기록…루타 이어 5개 부문 1위 석권",
+          "url": "https://sports.donga.com/sports/article/all/20261107/134983417/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "응우옌 투 타오는 2026 미스 글로브 민족 의상 부문에서 톱 6에 진출했습니다.",
-          "url": "https://www.vietnam.vn/ko/nguyen-thu-thao-vao-top-6-trang-phuc-dan-toc-tai-the-miss-globe-2026",
-          "source": "Vietnam.vn"
+          "title": "‘3주 쉬었는데’ 1위팀 부상 주의보 발령! 손가락→고관절→발뒤꿈치 아프다…전직 삼성맨 라팍은 밟을 수 있을까 [KS] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/202611060814774786O",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "기만",
+      "keyword": "안현민",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T05:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY1lqd9vS3Tmm7agpEIwvVjECoA71PtgJ8iz0yCWd5c4J7iWqFNZND8u33F3s",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[포토] 안현민 '뛰겠습니다' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110620061228498",
+          "source": "머니투데이"
+        },
+        {
+          "title": "펜스랑 마가 끼었나? MVP급 핵심타자 2명 잇따라 충돌 → 통증 호소, 11월 강추위에 피토하는 KT [KS3 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/06/MJTGGNZSGY3GEMRUMUYTCMRRMM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "수비 출전 부담됐나…KT 안현민, 타석 침묵에 수비도 아쉬웠다[KS3]",
+          "url": "https://www.news1.kr/sports/baseball/6346224",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "배트맨",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T04:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVFDQEIbhAe2uQjCCIIrV8aIiWsk11wuWvXmoxeia3VrfjIv4Gh4LWQi0Y2k0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Absolute Batman #25 by Nick Dragotta/Jim Lee/Clay Mann Sells For $19K",
+          "url": "https://bleedingcool.com/comics/absolute-batman-25-by-nick-dragotta-jim-lee-clay-mann-sells-for-19k/",
+          "source": "Bleeding Cool News"
+        },
+        {
+          "title": "The Absolute Batman #25 Clay Mann Cover Jumps From $8 To $60 In A Day",
+          "url": "https://bleedingcool.com/comics/the-absolute-batman-25-clay-mann-cover-jumps-from-8-to-60-in-a-day/",
+          "source": "Bleeding Cool News"
+        },
+        {
+          "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
+          "url": "https://www.yahoo.com/entertainment/articles/scarlett-johansson-breaks-silence-batman-230310752.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "tving",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-07T03:50:00.000Z",
+      "startedAt": "2026-11-07T05:20:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "백종원",
+      "keyword": "장진혁",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-07T03:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUOhvhadoNAV0O9CQV2SzbeSVLm29wnkbpbSnnqUDpMsFbS9OFkuCeMhqyEy0",
-      "category": "기타",
+      "startedAt": "2026-11-07T05:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7KxEUMydH3fnAVKU3w1LXDp6cEB73bvZB1Cma0oyddYaAOFU3wdCk6e83yTw",
+      "category": "스포츠",
       "news": [
         {
-          "title": "피자 배달 알바 나선 백종원…아내 소유진도 댓글",
-          "url": "https://www.munhwa.com/article/11629480",
-          "source": "문화일보"
-        },
-        {
-          "title": "백종원 뭐하고 사나 봤더니…“오토바이 타고 피자 배달”",
-          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/06/20261106500185",
-          "source": "www.twig24.com"
-        },
-        {
-          "title": "백종원 더본코리아 대표, '빽보이피자' 하루 배달 기사로 나서",
-          "url": "https://www.yna.co.kr/view/AKR20261106041700030",
+          "title": "kt 장진혁, 첫 KS 선발 타석서 선제포…이강철 기대에 화답",
+          "url": "https://www.yna.co.kr/view/AKR20261107033200007",
           "source": "연합뉴스"
+        },
+        {
+          "title": "[사진]김도환 번트 병살 만드는 김현수의 3루 송구",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/GQZTGOBQG4YGIOLBGFRDEOJSMM/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "[KS4] '2타수 2안타' 장진혁, 삼성 장찬희 상대 선제 솔로 홈런 폭발",
+          "url": "https://www.newspim.com/news/view/20261107000071",
+          "source": "뉴스핌"
         }
       ]
     },
     {
-      "keyword": "멧 갈라",
+      "keyword": "kt vs samsung",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-07T03:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTurZ-ERSybnZLiTVW0tA1pbGKd85m6LZeGZMRdYVY0Kv5AbY5UwUnkoVdPTfY",
-      "category": "기타",
+      "startedAt": "2026-11-07T04:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQp9wby5p8mwYQNJun_swEVkpEvsGQSFG-qBIJ3vI7xNcpTGYj1kZQBKXThiE",
+      "category": "스포츠",
       "news": [
         {
-          "title": "2027년, 메트로폴리탄 미술관은 ‘평범한 옷’에 주목합니다",
-          "url": "https://www.vogue.co.kr/2026/11/06/2027%EB%85%84-%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%8F%B4%EB%A6%AC%ED%83%84-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%9D%80-%ED%8F%89%EB%B2%94%ED%95%9C-%EC%98%B7%EC%97%90-%EC%A3%BC%EB%AA%A9%ED%95%A9%EB%8B%88/",
-          "source": "Vogue korea"
+          "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/",
+          "source": "조선일보"
         },
         {
-          "title": "쿠튀르에서 블루 진까지: 메트로폴리탄 미술관, 2027년 봄을 맞아 일상의 패션에 주목하다",
-          "url": "https://hypebeast.kr/2026/11/the-met-gala-2027-pivots-theme-exhibition-extraordinary-fashion-and-the-poetics-of-the-everyday",
-          "source": "Hypebeast.KR"
+          "title": "KT Wiz Beat Samsung 8-7 in Korean Series Opener",
+          "url": "https://en.sedaily.com/sports/2026/11/04/kt-wiz-beat-samsung-8-7-in-korean-series-opener",
+          "source": "Seoul Economic Daily"
         },
         {
-          "title": "평범한 티셔츠도 예술이 된다. 2027 멧 갈라가 주목하는 일상의 패션 – 마리끌레르 코리아",
-          "url": "https://www.marieclairekorea.com/fashion/2026/11/met/",
-          "source": "마리끌레르 코리아"
+          "title": "Wiz starter Daniel impresses in KBO postseason debut",
+          "url": "https://en.yna.co.kr/view/AEN20261103012700315",
+          "source": "Yonhap News Agency"
         }
       ]
     },
     {
-      "keyword": "mcr",
+      "keyword": "허미미",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-07T04:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHvaoejKcdPgzfdtmuRplbnm2Mts6j42W2xmLIkI7s3JgAqTKKcXNadfVM03E",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "한국시리즈 시구한 유도 간판 허미미 \"세계랭킹 회복에 전념\"",
+          "url": "https://www.yna.co.kr/view/AKR20261107034700007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[사진]장찬희-김도환, 한 템포 쉬어가자",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MUZDINLCGRRWCY3FGNRTGZJVGQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[사진]2회 마운드 오른 KT 배제성",
+          "url": "https://www.osen.co.kr/article/G1112905860",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "lakers vs trail blazers",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-07T03:20:00.000Z",
-      "picture": "",
-      "category": "기타",
+      "startedAt": "2026-11-07T05:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStcH_p-yyHYkV41iEk-GUpo22Dw__efpKjibW_BgtkecaeG_5dPe8r2VctS9s",
+      "category": "스포츠",
       "news": [
         {
-          "title": "My Chemical Romance goes to No. 1 on the Billboard albums chart",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6027352/my-chemical-romance-goes-to-no-1-on-the-billboard-albums-chart",
-          "source": "NPR"
+          "title": "Luka Doncic's remarkable scoring streak gives Lakers a new challenge",
+          "url": "https://sports.yahoo.com/articles/luka-doncics-remarkable-scoring-streak-120355790.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "How Big a Deal Is My Chemical Romance Scoring Its First No. 1 Album With a 20-Year-Old LP?",
-          "url": "https://www.billboard.com/music/chart-beat/my-chemical-romance-black-parade-billboard-200-number-one-1236374049/",
-          "source": "Billboard"
+          "title": "Licensable picture: NBA: Portland Trail Blazers at Los Angeles Lakers",
+          "url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-los-angeles-lakers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyOTU5NDU",
+          "source": "Reuters Connect"
         },
         {
-          "title": "My Chemical Romance Top the ‘Billboard’ 200 With 20-Year-Old Album",
-          "url": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
-          "source": "Rolling Stone"
+          "title": "BLAZERS POSTCAST: Lakers-Blazers Reaction",
+          "url": "https://www.centraloregondaily.com/sports/portland_trail_blazers/blazers-postcast-lakers-blazers-reaction/video_556c68cd-7745-5aa6-85bc-49da70c7dbdb.html",
+          "source": "Central Oregon Daily"
+        }
+      ]
+    },
+    {
+      "keyword": "west indies vs bangladesh",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-07T04:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVgZ9lbr8ix-ZvsIg7lWC3YB6BN9ct_m6rU3QKmRGsMPKDcNL0Xr1XWp-7TNg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "BAN vs WI 2nd Test: Mahmud scalps six to restrict West Indies",
+          "url": "https://www.thehindu.com/sport/cricket/ban-vs-wi-2nd-test-mahmud-scalps-six-to-restrict-west-indies/article71676252.ece",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Pacers give Windies edge after lift from tailenders",
+          "url": "https://guyanachronicle.com/2026/11/07/pacers-give-windies-edge-after-lift-from-tailenders/",
+          "source": "Guyana Chronicle"
+        },
+        {
+          "title": "Jangoo the real deal",
+          "url": "https://trinidadexpress.com/opinion/editorials/jangoo-the-real-deal/article_e4a37a75-8aef-4ba3-b5e2-46961631a49e.html",
+          "source": "Trinidad Express Newspapers"
         }
       ]
     }
