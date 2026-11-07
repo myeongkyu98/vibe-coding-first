@@ -1,24 +1,16 @@
 {
-  "updatedAt": "2026-11-07T19:36:39.351Z",
+  "updatedAt": "2026-11-07T20:29:59.956Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 4
+      "count": 5
     },
     {
       "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 3
     },
     {
       "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
       "count": 1
     },
     {
@@ -33,7 +25,7 @@
       "trafficValue": 5000,
       "startedAt": "2026-11-07T16:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWAxGXq6I_I-qAsEi2lvrkFFxJvuEht5dkdwVihF7HgkznNRrGizRiqIO5_ZM",
-      "category": "기타",
+      "category": "스포츠",
       "news": [
         {
           "title": "Premier League LIVE: Live text, radio and reaction from across the Premier League",
@@ -41,14 +33,14 @@
           "source": "BBC"
         },
         {
-          "title": "Maresca makes three changes for Forest trip",
-          "url": "https://www.mancity.com/news/mens/nottingham-forest-manchester-city-team-news-tactics-63929664",
-          "source": "Manchester City FC"
+          "title": "Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Man City, Man Utd vs Aston Villa and more!",
+          "url": "https://www.skysports.com/football/news/13607998/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+          "source": "Sky Sports"
         },
         {
-          "title": "Elliot Anderson returns home with Glasner on the brink",
-          "url": "https://www.besoccer.com/new/elliot-anderson-returns-home-with-glasner-on-the-brink-1439839",
-          "source": "BeSoccer Livescore"
+          "title": "Licensable picture: Premier League - Nottingham Forest v Manchester City",
+          "url": "https://www.reutersconnect.com/item/premier-league-nottingham-forest-v-manchester-city/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQjcxRExQU0M",
+          "source": "Reuters Connect"
         }
       ]
     },
@@ -57,14 +49,9 @@
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-07T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgPU1MVKUE1F9mrYIU21zXqh8aay2UjlLzuhU_o4HQ2jx8Wvkp7lk1E0LPHV4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJB8Fpr6Zq5oOSKT0Fw2qhIPvtACVvOKQcblmCx0q1QH9xAl6kKY1qvgqBtK4",
       "category": "기타",
       "news": [
-        {
-          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
-          "url": "https://www.khan.co.kr/article/202611072132001",
-          "source": "경향신문"
-        },
         {
           "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257",
@@ -74,31 +61,111 @@
           "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
           "url": "https://www.kyeonggi.com/article/20261107580125",
           "source": "경기일보"
+        },
+        {
+          "title": "1249회 로또 1등 14명…1인당 20억3천만원",
+          "url": "https://www.khan.co.kr/article/202611072132001",
+          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "하정우",
+      "keyword": "엔비디아",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-07T15:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQge8dxPYYAfF8sl8J5w14tL0r4X1VzRassqY6sBudCzC5Sb4V562l3jPCB8mo",
-      "category": "연예",
+      "startedAt": "2026-11-07T19:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPb4W2e-yqtSGxrxU1t8Hm1dqVJ3aob7eHC0vF__WCcHtxsqcs4aQMNrATXs0",
+      "category": "기타",
       "news": [
         {
-          "title": "하정우, 12월 결혼 앞두고...확 달라진 비주얼 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110716222760934",
+          "title": "FT \"美, 젠슨 황 '中스파이 의혹' 여성과 연인 관계였다고 판단\"",
+          "url": "https://www.yna.co.kr/view/AKR20261107031200009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
+          "url": "https://www.khan.co.kr/article/202611071346001",
+          "source": "경향신문"
+        },
+        {
+          "title": "Nvidia Corp CEO 황젠슨, 중국 스파이 의혹 인물과 연루 정보 메모",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2164982",
+          "source": "Investing.com 한국어"
+        }
+      ]
+    },
+    {
+      "keyword": "발렌시아 대 레알 마드리드",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-07T19:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTCtC1vtq7DgcQQENIQizGHR21caZStXgGAwBvahLKOwl3jNGwzmRrh7-lYo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "라리가 발렌시아 대 레알 마드리드 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-valencia-vs-real-madrid-tai-la-liga-1795640.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "조세 무리뉴 감독은 아틀레티코 마드리드와 바르셀로나의 경기에 대한 발언으로 논란을 일으켰다.",
+          "url": "https://www.vietnam.vn/ko/jose-mourinho-gay-sot-khi-noi-ve-tran-atletico-dau-barca",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "라리가: ‘아기레 체제 첫 승’ 발렌시아 vs ‘리그 4연승’ 마드리드… 승자는 누구",
+          "url": "https://sbotopkr.tistory.com/2663",
+          "source": "티스토리"
+        }
+      ]
+    },
+    {
+      "keyword": "박수홍",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T19:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDBywHD17ZSlWgm29Sw6QuppuGqQS4SgDy_8iFbHIKBPUXh6ckpXmQgqJE8m0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "박수홍 아내, '딸 돈자랑' 맛들였나..'800만원 신발' 이어 '명품 패딩' 인증 뭇매[Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/MQYWKYJUGMYDIOJQGU2TCY3CHA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘박수홍♥’ 김다예, ‘140만 원 명품 패딩’ 딸 사진 올렸다 삭제… 잇따른 ‘돈자랑 논란’ 왜?",
+          "url": "https://sports.khan.co.kr/article/202611071658003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "‘박수홍 딸’ 재이, 폭풍성장 근황…아빠 닮은 이목구비에 똘망똘망 눈망울",
+          "url": "https://www.sedaily.com/article/20110643",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "배드민턴",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-07T19:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2drDIvS_lJBtVDjPOK2ApieEfGZpLV2sWPMIvibYdu1gbaeqIX-CI6kJ8ijU",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "안세영, 54연승으로 코리아오픈 결승행‥시즌 11번째 우승 도전",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6863904_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "日 언론도 '여왕'이라 불렀다 \"상승세 아케치도 안세영 앞에선...\" 결승서 야마구치와 격돌 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110804390943011",
           "source": "머니투데이"
         },
         {
-          "title": "‘차정원♥’ 하정우, 12월 결혼 앞두고 근황…한층 날렵해진 모습",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "'예비 신랑' 하정우, 결혼 앞둔 근황… 삭발 이후 달라진 비주얼",
-          "url": "https://www.hankookilbo.com/news/article/A2026110715480002442",
-          "source": "한국일보"
+          "title": "‘배드민턴을 얼굴로 치나?’ 일본이 자랑하는 배드민턴 아이돌, 코리아오픈 결승전 전멸...일본 3개 종목 우승 도전",
+          "url": "https://www.osen.co.kr/article/G1112906193",
+          "source": "OSEN"
         }
       ]
     },
@@ -107,23 +174,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-07T18:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeWVwRfS5CQbyPNmEQidyYgRKVAeSlKnOuW6XBPgBf0B6i9j024LWnVZAT9gc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKFvbFvRd1WSqYhN6wvhHZdf6sUGKNrOFaYP-4R7xRjTq7tUawAEk85HzhsFY",
       "category": "스포츠",
       "news": [
         {
-          "title": "'115건 유죄' 맨시티, 리그 2연패하며 아스널에 1위 내줬다",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190430",
-          "source": "금강일보"
+          "title": "[속보] ‘충격’ 현실···맨유 결국 ‘PL 18위 강등권’ 추락, 맨시티의 예상 못한 패배의 나비 효과, 빌라...",
+          "url": "https://sports.khan.co.kr/article/202611080508003",
+          "source": "스포츠경향"
         },
         {
-          "title": "맨체스터 시티는 추가 혐의를 받을 위험에 처해 있다.",
-          "url": "https://www.vietnam.vn/ko/man-city-doi-mat-nguy-co-bi-them-cac-cao-buoc",
+          "title": "노팅엄 포레스트 vs 맨체스터 시티 예측: 선두 자리를 노릴 기회",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-manchester-city-co-hoi-bam-duoi-ngoi-dau",
           "source": "Vietnam.vn"
         },
         {
-          "title": "무리뉴는 이미 알고 있었다? 前 맨유 선수 “뭔가 이상한 일이 벌어지고 있다고 했는데”",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697452",
-          "source": "인터풋볼"
+          "title": "리암 델랍은 환상적인 두 골을 터뜨리며 맨체스터 시티에게 큰 실망감을 안겨주었다.",
+          "url": "https://www.vietnam.vn/ko/liam-delap-lap-cu-dup-tuyet-dinh-khien-man-city-om-han",
+          "source": "Vietnam.vn"
         }
       ]
     },
@@ -153,84 +220,9 @@
       ]
     },
     {
-      "keyword": "mainz vs bayern",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T15:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_emKuSoAZxJANgGealkgGv9aYMfKek9PoCM-0-BgYhZHyG01YXpkKXOTAw8o",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Spitzenduo Bayern und Dortmund weiter im Gleichschritt",
-          "url": "https://www.stol.it/artikel/sport/spitzenduo-bayern-und-dortmund-weiter-im-gleichschritt",
-          "source": "stol.it"
-        },
-        {
-          "title": "Fußball heute: Ergebnisse & Spiele am 7.11.2026 im Überblick",
-          "url": "https://www.fussballnationalmannschaft.net/fussball-heute-am-7-11-2026-3-123326874.html",
-          "source": "News zur deutschen Nationalmannschaft"
-        },
-        {
-          "title": "\"Die Regel ist Wahnsinn\": Mainz schimpft nach aberkanntem Tor gegen Bayern",
-          "url": "https://www.eurosport.de/fussball/bundesliga/2026-2027/mainz-05-hadert-mit-aberkanntem-tor-gegen-den-fc-bayern-amiri-schimpft-diese-regel-ist-wahnsinn_sto23353206/story.shtml",
-          "source": "Eurosport"
-        }
-      ]
-    },
-    {
-      "keyword": "김성우",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-07T14:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKJL9djnCjFMJqKfLjvabMelBmcnTbi1pKdWWskl4lBEqnptMekUS3p1qotc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852",
-          "source": "YTN"
-        },
-        {
-          "title": "[다시보기] 그것이 알고싶다 1511회",
-          "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "‘장모 살해·아내 납치’ 김성우 재판행…공소청 “보복으로 살해한 사실 규명”",
-          "url": "https://www.khan.co.kr/article/202611061541001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "gta6",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-07T17:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu6xoWhkLWZcGeFF80-eey_X7uGe16pvJiOQHOPerHM9RTLMrJ-6NYDO99Dec",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI",
-          "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
-          "source": "Forbes"
-        },
-        {
-          "title": "Could potential AI clones of GTA VI force a quicker official port?",
-          "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted",
-          "url": "https://wccftech.com/gta-6-tens-of-thousands-dollars-tokens-unofficial-pc-port/",
-          "source": "Wccftech"
-        }
-      ]
-    },
-    {
       "keyword": "이천수",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-07T15:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaoBMuCrHszeA8bBKV0zeq4pCaoqHCLCcultES79FhY_jCJvtP38grFXCL-uw",
       "category": "스포츠",
@@ -253,27 +245,27 @@
       ]
     },
     {
-      "keyword": "nepal premier league",
+      "keyword": "gta6",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-07T14:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqGdZLrq8JpaQCESme6AZO_7y6CD1zZAhyY942KID0aOG8WEFycSCxnuZUHJg",
-      "category": "스포츠",
+      "startedAt": "2026-11-07T17:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu6xoWhkLWZcGeFF80-eey_X7uGe16pvJiOQHOPerHM9RTLMrJ-6NYDO99Dec",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "Match Predictions: Nepal Premier League 2026 - 18th Match - Kathmandu Gorkhas vs Lumbini Lions - 7th November",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-18th-match-kathmandu-gorkhas-vs-lumbini-lions-7th-november/114221.htm",
-          "source": "Cricket World"
+          "title": "An Update On A Possible ‘GTA 6’ PC Release Date Plans, Due To AI",
+          "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
+          "source": "Forbes"
         },
         {
-          "title": "Kathmandu Gurkhas Batting Well Against Lumbini, David Warner Scores Half-Century",
-          "url": "https://english.ratopati.com/story/85985/warner-completes-half-century-against-lumbini",
-          "source": "Ratopati"
+          "title": "Could potential AI clones of GTA VI force a quicker official port?",
+          "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+          "source": "Ars Technica"
         },
         {
-          "title": "Kathmandu’s Challenge to Top-ranked Lumbini",
-          "url": "https://ekantipur.com/sports/2026/11/07/en/kathmandu-challenges-top-ranked-lumbini-41-38.html",
-          "source": "Ekantipur"
+          "title": "Former Staff Says Rockstar Should Worry About AI GTA 6 Clones",
+          "url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
+          "source": "Kotaku"
         }
       ]
     }
