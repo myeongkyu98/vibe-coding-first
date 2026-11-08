@@ -1,124 +1,53 @@
 {
-  "updatedAt": "2026-11-08T19:38:53.906Z",
+  "updatedAt": "2026-11-08T20:29:50.242Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 5
-    },
-    {
-      "category": "기타",
       "count": 4
     },
     {
+      "category": "기타",
+      "count": 3
+    },
+    {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "맨유 대 애스턴 빌라",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-08T15:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbecCANlTbzPbI42NkWtmhWIVBT69CyHqM5j1a5nkpBcpruU5PSRCOPwabAqU",
+      "keyword": "아틀레티코 대 바르셀로나",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-08T19:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZqBPpQFZwFV4zPwbW47QmFdscEJHLk1iwG9t-3OExUJwk9lPsDWs6wey67s",
       "category": "스포츠",
       "news": [
         {
-          "title": "“최악 성적 기록한 맨유… 캐릭 감독의 전술 실패가 주원인”",
-          "url": "https://weekly.donga.com/sports/article/all/11/6438610/1",
-          "source": "주간동아"
+          "title": "[엠빅뉴스] ‘이강인 질문’에 발끈한 시메오네 감독? 기자가 안절부절못하자..",
+          "url": "https://imnews.imbc.com/original/mbig/6864035_29041.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "'스승님, 왜 13년째 우승하지 못할까요' 알렉스 퍼거슨 맨유 감독 부임 40주년 자축, 반데사르-비디치-캐릭 레전드 OT에 모였다",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/08/GVRTQNZUMFQWKOLBMI4DEYLGME/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'해버지' 박지성은 불참! '퍼거슨 40주년' 맨유 레전드 총출동!...비디치·반 페르시·캐릭까지 한자리에 모였다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018686",
-          "source": "SPOTV NEWS"
-        }
-      ]
-    },
-    {
-      "keyword": "man utd vs aston villa",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T15:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROMqanXJ9nDTFg2JKjq0AUWrURLXg4o8lPKeKvPxKKtsS-0TiKQxcZfTa4VDI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-          "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-          "url": "https://www.bbc.com/sport/football/articles/cwj34k7k54veo",
-          "source": "BBC"
-        },
-        {
-          "title": "Michael Carrick reaction: How did Manchester United boss explain wild draw with Aston Villa?",
-          "url": "https://www.nbcsports.com/soccer/news/michael-carrick-reaction-how-did-manchester-united-boss-explain-wild-draw-with-aston-villa",
-          "source": "NBC Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "premier league",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T16:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzgEm3HB3RzbhfTfAogzK0v8oF5yYoZKvePjiS7NlZ20CqcXPQSScFgIvENo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-          "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
-          "source": "BBC"
-        },
-        {
-          "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
-          "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Sunday football open thread",
-          "url": "https://sports.yahoo.com/articles/sunday-football-open-thread-130000009.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "프리미어리그 순위",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T18:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcPV18ODc9ruLQuSq9ZQc9EVpnakFVE0qabdhKrFcJx6YpivOEeKvVIIqBYmA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락...개막 7연승→3연패, 마레스카의 꿈이 악몽으로 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/202611080850773835O",
+          "title": "\"야말 나와!\" 이강인, 알바레스와 최전방 투톱 출격... '바르셀로나 사냥' 선봉장 출격 \"리그 1위 탈환한다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/09/2026110904422345453",
           "source": "머니투데이"
         },
         {
-          "title": "도쿠, “포레스트 원정에서 스스로 어렵게 만들었다”",
-          "url": "https://kr.mancity.com/news/mens/doku-post-forest-reaction-pl-7-nov-63929682",
-          "source": "Manchester City FC"
-        },
-        {
-          "title": "'대충격, 7연승→3연패' 홀란 골침묵 맨체스터 시티, 또 수비 와르르 무너졌다, 노팅엄 원정 1-3 참패..선두 아스널과 승점 6점차 벌어졌다",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/08/MJTDSNDFGE2DGM3EGMZTCZBTGE/",
-          "source": "조선일보"
+          "title": "[라리가] 이강인, 9일 바르샤전 알바레스와 투톱 선발 예고",
+          "url": "https://www.newspim.com/news/view/20261108000003",
+          "source": "뉴스핌"
         }
       ]
     },
     {
       "keyword": "베식타시 대 겐칠레르빌리이",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-08T17:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
       "category": "스포츠",
@@ -141,52 +70,102 @@
       ]
     },
     {
-      "keyword": "전력",
+      "keyword": "압구정동",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-08T16:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwiPX9g75qSrG1d0U_V9aH1SEdUmJvVoOXynMU9pWsdsfrQt8xLArUL-BoyY4",
+      "startedAt": "2026-11-08T18:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFYKkOfGRFS1wUAvy2dz1URwGOyl4jJxCZEfhDwnapsT71aVsmjsGvBJ8X60",
       "category": "경제",
       "news": [
         {
-          "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들",
-          "url": "https://zdnet.co.kr/view/?no=20261108030741",
-          "source": "지디넷코리아"
+          "title": "좀만 참을 걸…김동현 100억에 산 압구정현대, 80억대로",
+          "url": "https://www.munhwa.com/article/11628648",
+          "source": "문화일보"
         },
         {
-          "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
-          "url": "https://www.hankyung.com/article/2026110832841",
+          "title": "UFC파이터 김동현도 ‘주인 근저당’ … 100억 압구정아파트 절반 집주인 돈 빌려",
+          "url": "https://www.mk.co.kr/news/realestate/12196333",
+          "source": "매일경제"
+        },
+        {
+          "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
+          "url": "https://www.hankyung.com/article/2026103070927",
           "source": "한국경제"
-        },
-        {
-          "title": "51조 투자한 텍사스까지…삼전닉스 ‘블루 웨이브’ 불똥 튀나",
-          "url": "https://news.jtbc.co.kr/article/NB12327059",
-          "source": "JTBC"
         }
       ]
     },
     {
-      "keyword": "올리브영",
+      "keyword": "프리미어리그 순위",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-08T15:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wYo9eRauFuFLGv3UAbnsQc0zSZtTdHNJT3o2w6aWFCaj4egUg9s-3l4MvhY",
+      "startedAt": "2026-11-08T18:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoviL7Xf5hZxAJeKwcN_CroQ_jrbnvbWyir9glycuXb7SUqX5mdm_g7ftwBLg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'7연승→3연패' 맨시티의 믿기 힘든 몰락...홈에서 골도 못 넣던 19위 노팅엄에 3실점 굴욕",
+          "url": "https://www.osen.co.kr/article/G1112906227",
+          "source": "OSEN"
+        },
+        {
+          "title": "도쿠, “포레스트 원정에서 스스로 어렵게 만들었다”",
+          "url": "https://kr.mancity.com/news/mens/doku-post-forest-reaction-pl-7-nov-63929682",
+          "source": "Manchester City FC"
+        },
+        {
+          "title": "[속보] ‘충격’ 현실···맨유 결국 ‘PL 18위 강등권’ 추락, 맨시티의 예상 못한 패배와 나비 효과, 빌라...",
+          "url": "https://sports.khan.co.kr/article/202611080508003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "사랑이 온다",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T19:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj25Fy83TCpu4HZx00V8HKYjBkVQ7hRkiPBNIEolO1cbGN6U_t3i2xX2Q9gA",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[솔직 엔딩] ＂우리 그냥 의절하면 안 돼?＂안희연 앞에서 속마음을 토로하는 배윤규 [사랑이 온다] | KBS 261108 방송",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026191031-01-000_MFSC13&program_code=T2026-0039&program_id=PS-2026191031-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798",
+          "source": "대한민국 대표 공영미디어 KBS"
+        },
+        {
+          "title": "‘사랑이 온다’ 배윤규, 혼인신고 직전 날벼락",
+          "url": "https://sports.khan.co.kr/article/202611081646003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "안희연, 배윤규 제비 과거 알게 되 충격...류승수, \"차라리 모르는게 나아\"",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=779951",
+          "source": "싱글리스트"
+        }
+      ]
+    },
+    {
+      "keyword": "f1",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T18:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLQ6YVvP6tht6q5sCVdSP9y3uD6VuNNs897tMpmKc6VXgx6G6WlJhQ7JQYfvc",
       "category": "기타",
       "news": [
         {
-          "title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
-          "url": "https://www.hankyung.com/article/202611082799i",
-          "source": "한국경제"
+          "title": "F1 LIVE: Sao Paulo Grand Prix 2026 reaction & result as Norris wins in Interlagos",
+          "url": "https://www.bbc.com/sport/formula1/live/ckge0zygre7t",
+          "source": "BBC"
         },
         {
-          "title": "네이버, 올영 제휴·소상공인 상생 등 ‘플랫폼 동반 성장’ 가속화",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3446479",
-          "source": "천지일보"
+          "title": "2026 Brazilian Grand Prix race result and championship points",
+          "url": "https://www.racefans.net/2026/11/08/2026-brazilian-grand-prix-race-result-and-championship-points/",
+          "source": "RaceFans"
         },
         {
-          "title": "네이버플러스 멤버십, 생애 최초 가입자에 올영 1만원 쿠폰 지급",
-          "url": "https://zdnet.co.kr/view/?no=20261106095111",
-          "source": "지디넷코리아"
+          "title": "Proud and overwhelmed: Toto Wolff celebrates 9th Constructors’ title with Mercedes",
+          "url": "https://www.speedweek.com/en/a/formula-1/toto-wolff-celebrates-mercedes-ninth-constructors-title",
+          "source": "SPEEDWEEK.com"
         }
       ]
     },
@@ -216,27 +195,27 @@
       ]
     },
     {
-      "keyword": "man utd đấu với aston villa",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T16:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6m4xCh2FObONzxUpSXCK4nsYbekJpwLat-0vuutCfbDvtJgqaMiGVTF0z6Ww",
+      "keyword": "닥터x 10화",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T18:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStVz9-CvaFjIHn1lPdFRdt0lIHIgxs7OTWmbXW-iBbvioi-kKPtW6kt4Pwjpg",
       "category": "기타",
       "news": [
         {
-          "title": "Kết quả bóng đá MU - Aston Villa: 8 bàn rượt đuổi điên rồ (Ngoại hạng Anh)",
-          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-mu-aston-villa-6-ban-ruot-duoi-hap-dan-ngoai-hang-anh-c48a1809466.html",
-          "source": "Tin tức 24h"
+          "title": "[다시보기] 닥터X : 하얀 마피아의 시대 10회",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000639451",
+          "source": "programs.sbs.co.kr"
         },
         {
-          "title": "曼联对阵阿斯顿维拉直播：半场结束，2-2 战平",
-          "url": "https://www.vietnam.vn/zh-cn/truc-tieptruc-tiep-manchester-united-vs-aston-villa-het-hiep-1-hoa-2-2",
-          "source": "Vietnam.vn"
+          "title": "‘닥터X’ 김지원, 기적의 수술 성공...20.2% 찍었다",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12201597",
+          "source": "매일경제"
         },
         {
-          "title": "Sức trẻ có thể là điểm khác biệt của Man United",
-          "url": "https://laodong.vn/bong-da-quoc-te/suc-tre-co-the-la-diem-khac-biet-cua-man-united-1796843.ldo",
-          "source": "Laodong.vn"
+          "title": "'닥터X' 김영민, \"무능하니까\" 반전 진심...알고 보니 '참 좋은 도교수' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110810057282585",
+          "source": "머니투데이"
         }
       ]
     },
@@ -254,14 +233,39 @@
           "source": "BBC"
         },
         {
-          "title": "Bundesliga Player Ratings | Freiburg 2 -0 Union Berlin",
-          "url": "https://www.getfootballnewsgermany.com/2026/bundesliga-md9-freiburg-union-ratings/",
-          "source": "Get German Football News"
+          "title": "Freiburg third after beating Union, Leverkusen beat Cologne in derby",
+          "url": "https://uk.sports.yahoo.com/news/garcia-schick-leverkusen-derby-win-163836266.html",
+          "source": "Yahoo"
         },
         {
           "title": "Freiburg vs Union Berlin Predictions & Bet Builder Tips: Schuster’s men win at home again",
           "url": "https://www.goal.com/en-gb/betting/tips/freiburg-vs-union-berlin-predictions-08-11-2026/A%3Ablt6dd1965831492720",
           "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "keyword": "빗썸",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T17:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJLyFQGqUjMEDOs37QDoDTJxGc28O0LFCbn7mgxdUvB94GQWXBcUuHtw67uz8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "24시간 거래되는 가상자산 맞춰 연중무휴 상담",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/IZUSQSGMHJAWJLL7GYJRXC5PZE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "빗썸, '24시간 상담·AI 서비스' 강화…고객만족도·브랜드 평가 호평",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422212",
+          "source": "데일리한국"
+        },
+        {
+          "title": "가상자산업계 잇단 해킹에…금융당국, 보안 책임자 소집",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706906",
+          "source": "KBS 뉴스"
         }
       ]
     }
