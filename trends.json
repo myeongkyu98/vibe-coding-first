@@ -1,16 +1,20 @@
 {
-  "updatedAt": "2026-11-08T05:43:05.857Z",
+  "updatedAt": "2026-11-08T06:48:53.032Z",
   "summary": [
     {
       "category": "기타",
       "count": 5
     },
     {
-      "category": "정치·사회",
-      "count": 3
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     },
     {
@@ -20,236 +24,220 @@
   ],
   "items": [
     {
-      "keyword": "fc 서울 대 울산",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T04:10:00.000Z",
-      "picture": "",
+      "keyword": "이민정",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-08T05:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBdEXV30tooEQUzsUrCJXQIqiR8LvsV3jCxMBwZwGoDIHrA9JYO_BvCbWRbs",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "이민정, ♥이병헌과 가을밤 데이트 공개…늘씬한 각선미 '눈길' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110808475794585",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'이병헌♥︎' 이민정, 각선미 이렇게 좋았나..오붓한 단풍 데이트+거셀",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/MMZTGM3BGBSTOYZVGVRDMM3CHA/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "이민정, ♥이병헌과 데이트 뒷모습? 딱 붙는 부츠 신고 각선미에 미모 폭발",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346533",
+          "source": "뉴스1"
+        }
+      ]
     },
     {
-      "keyword": "시즈오카현",
+      "keyword": "서세원",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-08T05:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3-Dwfq_rUZh4IPZxTYeY2oqeRYOfGUbzoMPMz2ZhUnW8g9DMtlycVkRwupAA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "서세원 딸 서동주 \"연달아 장례 3번… 세상에서 사라지고 싶었다\"",
+          "url": "https://www.chosun.com/entertainments/2026/11/08/XRP76SU3EBBQNJOVHDWXLQ2X6I/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'故서세원 딸' 서동주, 장례 연속 3번 치르고 무너졌다..\"나도 사라지면 좋겠다고 생각\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-08/202611080100052350005203",
+          "source": "스포츠조선"
+        },
+        {
+          "title": "‘故서세원 딸’ 서동주 “장례 연달아 3번…나도 사라지면 좋겠다고 생각”",
+          "url": "https://www.heraldk.com/article/2026110717004484485",
+          "source": "헤럴드경제 미주판"
+        }
+      ]
+    },
+    {
+      "keyword": "추위",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-08T04:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3WnMFt41ZvjYLywRuLId5wuDlV3QQ4DrWKs9DmzWr1IJ4ZxmZ2ZyRIxbGyY",
+      "startedAt": "2026-11-08T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ49HsAFLcD6hhjwlXR7o8iKfH_H3EgmY0bNkDajjrRoUjpUdrdybrjgDJjYc",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "[속보]日시즈오카현 규모 5.7 강진…놀란 20대 외국인 2층서 뛰어내려 부상",
-          "url": "https://www.munhwa.com/article/11629589",
-          "source": "문화일보"
-        },
-        {
-          "title": "\"日 여행 가도 괜찮을까\"…규모 5.7 지진에 '추가 지진' 경고도",
-          "url": "https://www.kyeonggi.com/article/20261108580042",
-          "source": "경기일보"
-        },
-        {
-          "title": "일본 시즈오카현 하마마쓰시 북쪽 21km 지역 규모 5.7 지진",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706831",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "경호원",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T04:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREWrtkMi2809HjNfB_1D26_PwYI4DQIHJ6VPK2KyKhALK42gyjKgZzwV3x7uQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "몰려드는 인파 '통제불가'…남대문 스카프 아저씨, 경호원까지 고용 [지금이뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0545_202611061650015146",
-          "source": "YTN"
-        },
-        {
-          "title": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치]",
-          "url": "https://www.hankyung.com/article/202611069848i",
-          "source": "한국경제"
-        },
-        {
-          "title": "“호떡 먹고 스카프 사고”… 외국인 몰리는 남대문시장, 서울시 아케이드 효과 ‘톡톡’",
-          "url": "https://www.munhwa.com/article/11629209",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "과태료",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T04:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR497H8O1Bc8jsP3k13rF1vgojWbewJk3O-Za5mOnl7zZaLVxNPEERjNbYEIVA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "그린벨트 농지, 논밭 정비도 신고…미신고 땐 과태료",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040193",
-          "source": "기호일보"
-        },
-        {
-          "title": "[특별기고] \"그린벨트 농지, 현실에 맞는 대책 필요\"",
-          "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=455012",
-          "source": "굿모닝충청"
-        },
-        {
-          "title": "건설현장 수시 위험성평가, 작업 전 실시 의무화",
-          "url": "https://m.dnews.co.kr/m_home/view.jsp?idxno=202611042149477910697",
-          "source": "대한경제"
-        }
-      ]
-    },
-    {
-      "keyword": "인천광역시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T04:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPiYhajvkhdXu1uz_aIVRTREjXqbk-ocikQMG8qudvWIpQV3Rg5V6LC8niHyc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "인천시, 바르셀로나 공간 활용 경험 접목해 원도심 활성화 구상",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336204",
-          "source": "인천일보"
-        },
-        {
-          "title": "제물포·문학산도 바뀔까…인천시, 바르셀로나서 공간 활용법 찾는다",
-          "url": "https://www.news1.kr/local/incheon/6346659",
-          "source": "뉴스1"
-        },
-        {
-          "title": "스마트 시티 엑스포, 도시 해법의 실질적 효과 보여주며 폐막",
-          "url": "https://www.newsis.com/view/ALSX20261107_0000008135",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "초등학교",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T04:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSARikg4waaJ1IRmILSkf0_LcGy5vNUx3ubm7sQzPaTLhYSaYDM6GpolGAz_c0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "저출산 '쇼크' 현실화",
-          "url": "https://magazine.hankyung.com/business/article/202611082731b",
-          "source": "한경매거진"
-        },
-        {
-          "title": "저출생 충격 현실화… 내년 초등 입학생 ‘30만명’ 안 된다",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3446891",
-          "source": "천지일보"
-        },
-        {
-          "title": "“엄마, 학교 갔는데 교실이 텅 비었어”…내년 초등 입학 30만명대 붕괴",
-          "url": "https://www.mk.co.kr/news/society/12201578",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "김재원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnqgMBJtmGj04Vl8Rp01M6qbXksiks15ivxTlsXDQMHbHLKzqzqoBSobMB7f4",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[현장1열] 공직선거법 위반 2심도 기각. 397억 어게인?",
-          "url": "https://newstapa.org/article/qFyob",
-          "source": "뉴스타파"
-        },
-        {
-          "title": "윤석열, 끝까지 '남 탓'만 하더니 지지자에 \"고맙다\" 김용현은 '손하트'",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863813_37004.html",
+          "title": "서울 '첫 눈' 관측‥겨울 문턱 쌀쌀",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6864007_36967.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "[사건현장] 尹, 오늘 '내란 2심' 최후진술…선고 영향은?",
-          "url": "https://www.yna.co.kr/view/MYH20261105013600038",
+          "title": "아니 벌써? 서울에 ‘첫눈’ 내렸다···작년보다 26일 빨라",
+          "url": "https://www.khan.co.kr/article/202611081323001",
+          "source": "경향신문"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
+          "url": "https://www.yna.co.kr/view/AKR20261108028500011",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "tesla",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T04:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhN1tDJoP5fuxaoXt4pxcezB08kEX_Xd1B0kjCsDqRNqvgD1PFCGThH5_8Lqc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Tesla to Discontinue Production of Electric Pickup Cybertruck",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835448",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "Tesla Phases Out Cybertruck Production for Cybercab Expansion",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/08/RK5VZHVKB5FCPADCTHTZMC6UAQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"Will It Now Become a Car You Can't Buy Even With Money?\"... The Fate of 'That Car' G-Dragon Used to Drive",
-          "url": "https://www.asiae.co.kr/en/article/2026110710065024986",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "kt vs samsung",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T04:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb7T5Dku6n1b2QREdkASdu3ILwjWrMdmyuYOuQK0TIfXdNtRbLAQTTXlGY058",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[Photo] Díaz smiles, clinches championship",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/08/N3CLKN2R4FGARKRTDVTBMC2Y5U/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "Samsung activates strongest lineup to clinch Korean Series title",
-          "url": "https://biz.chosun.com/en/en-sports/2026/11/08/3RWLBHPK7VEG7HSPNWLWB46F6Q/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "(LEAD) Lions beat Wiz to reach brink of Korean Series title",
-          "url": "https://en.yna.co.kr/view/AEN20261107002051315",
-          "source": "Yonhap News Agency"
-        }
-      ]
-    },
-    {
-      "keyword": "의정부시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T04:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7fgwfg0wfFlCVdtU-raYGXRDBRareXlqIVdhi6paGe0xzCtrVoGE45RmVSQ",
+      "keyword": "바이낸스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiMF2uMqR6uHS2xa5YiHMv3zjWzKIiD9zsQx-c-SOCUqNmpR3PVV3T6_XpRoQ",
       "category": "정치·사회",
       "news": [
         {
-          "title": "의정부시, 시민과 공직자 함께한 시정 공유의 날 개최",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744644",
-          "source": "국제뉴스"
+          "title": "가상자산업계 잇단 해킹에…금융당국, 보안 책임자 소집",
+          "url": "https://www.yna.co.kr/view/AKR20261107044200002",
+          "source": "연합뉴스"
         },
         {
-          "title": "[인터뷰] 김원기 의정부시장 \"시민 뜻 행정에 담아 체감하는 변화 만들 것\"",
-          "url": "https://news.tf.co.kr/read/national/2383707.htm",
-          "source": "더팩트"
+          "title": "\"AI 날개 단 북한 해커들 기가 막히네\"…1조8700억 털어간 소름 돋는 수법[시사쇼]",
+          "url": "https://view.asiae.co.kr/article/2026110808092315966",
+          "source": "아시아경제"
         },
         {
-          "title": "의정부시, 시정 공유의 날 개최… 적극행정.지역사회 공헌 격려",
-          "url": "https://www.metroseoul.co.kr/article/20261107500010",
-          "source": "메트로신문"
+          "title": "닉 칼슨 “북한, ‘가상화폐 절도’ 주요 외화 수입…미한 정부 대응 필요”",
+          "url": "https://www.voakorea.com/a/8219838.html",
+          "source": "VOA 한국어 홈페이지"
+        }
+      ]
+    },
+    {
+      "keyword": "김현수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr-Wiz58uEP1lOJ6Ei84RH-6jysm0NnGu7wAusCF-6-lhQXmDZItswhuvNdso",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[포토]'찬스였는데...아쉽구나' 김현수 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110814552797507",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[사진]1회 무실점으로 출발하는 KT 선발 대니엘",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/08/MEYGIMDEGE2TSNDFHFSGEMDBMI/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "한화서 온 보상선수, KS 지배 실화냐…솔로포→선제 희생플라이 쾅, ‘벼랑 끝’ 1위팀 5차전 선취점 뽑다 [KS5]",
+          "url": "https://www.osen.co.kr/article/G1112906416",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "서울 sk 대 원주 db",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T05:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "울산 현대모비스 대 안양 정관장",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T05:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "전지적 집착 시점",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T05:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW14s956kfnNFWeB4NZW6-ePSNkAOd87ScOA5XqugkQ36uq52s7UC2BbV6OhA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "아파트 10층 높이서 맨몸으로…국내 최초 '하이다이버' 조명",
+          "url": "https://m.nocutnews.co.kr/news/amp/6603548",
+          "source": "노컷뉴스"
+        },
+        {
+          "title": "전현무, 12층 높이 절벽 다이빙에 충격…“진짜잖아” (전착시)",
+          "url": "https://sports.donga.com/ent/article/all/20261108/134985575/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "최병화 \"아파트 10층 높이에서 맨몸으로 뛰어내린다..안전장치無\" ('전참시')",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GU2DANBRHBTGEYLFHFRTGZBSMY/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "sk그룹",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T05:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDPKojwNyCGFxbTWJdWUfbA28JStsygLFp2lJRdBbNbJEHee3MZjBGd0Xsghk",
+      "category": "경제",
+      "news": [
+        {
+          "title": "중복상장 규제에 대기업 자회사 IPO 잇단 제동…기업가치 개선은 지켜봐야",
+          "url": "https://www.viva100.com/article/20261106500235",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "지주사 품에 안긴 SK에코플랜트…새 '배당 수익원' 거듭나나",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443619",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "IPO 전략 바꾸는 SK…반도체·AI 중심축은 유지 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224469151077&redirect=Dlog",
+          "source": "Naver Blog"
+        }
+      ]
+    },
+    {
+      "keyword": "mbc",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQEZojFrJ8ofxTdyO0A6_psuKBdIKDgtQEMc_O1HFvB3xlKlr3MMKbmsofdnM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "محمد عبد المتعال مدير MBC مصر يحصد جائزة الإعلامي القيادي للعام في دبي",
+          "url": "https://www.youlyou.com/87931",
+          "source": "https://www.youlyou.com/"
+        },
+        {
+          "title": "رئيس اتحاد إذاعات الدول العربية يهنئ محمد عبد المتعال بفوزه بجائزة«القيادي الإعلامي2026»",
+          "url": "https://www.safha1.com/16745",
+          "source": "موقع الصفحة الأولى"
+        },
+        {
+          "title": "عبد المتعال يحصد جائزة «القيادي الإعلامي للعام».. واتحاد إذاعات الدول العربية يهنئه رسميًا",
+          "url": "https://www.rosaelyoussef.com/1449023",
+          "source": "بوابة روز اليوسف"
         }
       ]
     }
