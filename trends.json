@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-08T15:28:44.198Z",
+  "updatedAt": "2026-11-08T16:32:15.191Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 6
+      "category": "기타",
+      "count": 4
     },
     {
-      "category": "기타",
-      "count": 3
+      "category": "스포츠",
+      "count": 4
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     },
     {
       "category": "정치·사회",
@@ -29,14 +33,39 @@
           "source": "news.sbs.co.kr"
         },
         {
+          "title": "Jung Jae-hyun Claims First KPGA Tour Title at Season Finale",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/09/F4IZRCHNPFA6JMUZU3OP4AIRRM/",
+          "source": "조선일보"
+        },
+        {
           "title": "21-Year-Old Jung Jae-hyun Secures First Regular Tour Win at KPGA 2026 Season Finale",
           "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836085",
           "source": "news.sbs.co.kr"
+        }
+      ]
+    },
+    {
+      "keyword": "브라이턴 대 브렌트퍼드",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-08T13:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-MvtQMEMUrzv_oVS0H5EHebC1LixoCO7SErkwBIbVxWhdrExuzrUvLKlfxE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Brighton 2-0 Brentford: Diego Gomez stunners fires Seagulls up to second with win over 10-man Brentford",
+          "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
+          "source": "BBC"
         },
         {
-          "title": "Jeong Jae-hyun Seeks Redemption in Season Finale",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/07/ZNOSM4JQTZBA5AR7HZLT54322Q/",
-          "source": "조선일보"
+          "title": "Brighton 2-0 Brentford: Diego Gomez scores thunderbolt as Seagulls enter November international break in second",
+          "url": "https://www.skysports.com/football/news/13593207/brighton-x-x-brentford",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Brighton 2-0 Brentford (Nov 8, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401879244",
+          "source": "ESPN"
         }
       ]
     },
@@ -54,71 +83,46 @@
           "source": "이데일리"
         },
         {
-          "title": "‘필승 원더독스’ 시즌2 첫 직관 경기서 짜릿한 역전승 거둘 수 있을까 (신인감독 김연경2)",
-          "url": "https://sports.khan.co.kr/article/202611080738003",
-          "source": "스포츠경향"
-        },
-        {
           "title": "'신인감독 김연경2', 하효림vs이나연 '자존심 맞대결'→신흥 콤비 '옌쿠시' 등장 - 머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110818357287811",
           "source": "머니투데이"
+        },
+        {
+          "title": "'신인감독2' 원더독스 VS 전 주장 표승주…승자는?!",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523982",
+          "source": "iMBC 연예"
         }
       ]
     },
     {
-      "keyword": "브라이턴 대 브렌트퍼드",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T13:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjo0m5wyeMbDOriR2deT7nJk_Te3hS4Qoz6d-57M8neMCWWLIUWXklPwT7ZqE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Brighton & Hove Albion vs Brentford: Premier League preview, team news, stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
-          "source": "BBC"
-        },
-        {
-          "title": "Brighton vs Brentford LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-          "url": "https://www.skysports.com/football/live-blog/13592882/brighton-vs-brentford-live-premier-league-score-updates-news-prediction-line-ups-and-how-to-watch-or-stream",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Brentford predicted XI vs Brighton: Bees eye back-to-back wins to gatecrash top four race",
-          "url": "https://sports.yahoo.com/articles/brentford-predicted-xi-vs-brighton-000000348.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "sunderland vs chelsea",
+      "keyword": "올리브영",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-08T13:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdVVhKhRNbpiBP3xwXAIajbty7U0mUIWHIOjBJZayIabIdm5AF2DxtF5iFrNU",
-      "category": "스포츠",
+      "startedAt": "2026-11-08T15:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wYo9eRauFuFLGv3UAbnsQc0zSZtTdHNJT3o2w6aWFCaj4egUg9s-3l4MvhY",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "Sunderland vs Chelsea: Premier League preview, team news, stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
-          "source": "BBC"
+          "title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
+          "url": "https://www.hankyung.com/article/202611082799i",
+          "source": "한국경제"
         },
         {
-          "title": "Starting XI: Will Le Bris Stick Or Twist For Crunch Clash With Chelsea?",
-          "url": "https://rokerreport.sbnation.com/haway-the-podcast/158804/starting-xi-will-le-bris-stick-or-twist-for-crunch-clash-with-chelsea",
-          "source": "Roker Report"
+          "title": "네이버, 올영 제휴·소상공인 상생 등 ‘플랫폼 동반 성장’ 가속화",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446479",
+          "source": "천지일보"
         },
         {
-          "title": "(WAY) TO WATCH Ipswich vs Bournemouth LIVE Streams Reddit ON TV CHANNEL",
-          "url": "https://www.goldderby.com/topic/way-to-watch-ipswich-vs-bournemouth-live-streams-reddit-on-tv-channel/",
-          "source": "Gold Derby"
+          "title": "이달 네이버 멤버십 첫 가입하면 올리브영 1만원 할인",
+          "url": "https://www.newsis.com/view/NISX20261106_0003857403",
+          "source": "뉴시스"
         }
       ]
     },
     {
       "keyword": "palace vs liverpool",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-08T14:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUb5VYLX7aI9pmcoxvKGgONZxymkqFkvImYxK1A6FfBIXnYzPGFc_GIruINto",
       "category": "스포츠",
@@ -129,14 +133,39 @@
           "source": "BBC"
         },
         {
-          "title": "Andoni Iraola feels Liverpool ‘too honest’ so miss out with refereeing decisions",
-          "url": "https://www.birmingham-now.co.uk/sport/national/26708284.andoni-iraola-feels-liverpool-too-honest-miss-refereeing-decisions/",
-          "source": "https://www.birmingham-now.co.uk/"
+          "title": "Crystal Palace v Liverpool: Team news",
+          "url": "https://www.liverpoolfc.com/news/crystal-palace-liverpool-team-news-premier-league",
+          "source": "Liverpool FC"
         },
         {
           "title": "🚨 Crystal Palace-Liverpool: Iraola backs Wirtz and Barcola at Selhurst Park",
           "url": "https://onefootball.com/en/news/crystal-palace-liverpool-iraola-backs-wirtz-and-barcola-at-selhurst-park-43746211",
           "source": "OneFootball"
+        }
+      ]
+    },
+    {
+      "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T14:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4X9iz2ui9wngpzM27bOYDxdhAfl_53qJV0TxW2KUxr34DZ6VHABrMDvuZbuQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "เปิดสถิติพบกัน 5 ครั้งหลังสุด คริสตัล พาเลซ VS ลิเวอร์พูล ก่อนดวลเดือดคืนนี้",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2971240",
+          "source": "www.thairath.co.th"
+        },
+        {
+          "title": "เวียร์ตซ์ ปลดล็อกประตู ลิเวอร์พูล บุกปราบ พาเลซ 3-1 คว้าสามแต้ม ก่อนเข้าบอลทีมชาติ",
+          "url": "https://mainstand.co.th/index.php/th/news/1/article/27504",
+          "source": "Mainstand"
+        },
+        {
+          "title": "ผลบอลพรีเมียร์ลีก: หงส์แดง ทำได้ดีกว่า บุกถลุง ปราสาทเรือนแก้ว ถึงถิ่น 3-1",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-crystal-palace-vs-liverpool-premier-league-2026-27/9087c06752901be74a637051",
+          "source": "Sporting News"
         }
       ]
     },
@@ -162,31 +191,6 @@
           "title": "호주 군용기, 인도네시아 산불 진화 지원",
           "url": "https://www.idnfinancials.com/kr/news/71390/%ED%98%B8%EC%A3%BC-%EA%B5%B0%EC%9A%A9%EA%B8%B0-%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84-%EC%82%B0%EB%B6%88-%EC%A7%84%ED%99%94-%EC%A7%80%EC%9B%90",
           "source": "IDNFinancials"
-        }
-      ]
-    },
-    {
-      "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T14:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDUAjtB9HWp68suxIKZshaY3F9hiQlmMQi98Byg2-eCYLde6qOZNOtgiggyBU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "LIVE ดูบอลสด คริสตัล พาเลซ พบ ลิเวอร์พูล บอลวันนี้ (8 พ.ย. 69) 21.00 น. พรีเมียร์ลีก 2026-27",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2969258",
-          "source": "www.thairath.co.th"
-        },
-        {
-          "title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
-          "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-10-cuoc-san-diem-so-cua-liverpool-man-united-va-chelsea",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "\"เต้ยเป๋าตุง\" ฟันธง (8 พ.ย.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
-          "url": "https://siamrath.co.th/sports/334041",
-          "source": "สยามรัฐ"
         }
       ]
     },
