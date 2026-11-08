@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-08T10:37:01.803Z",
+  "updatedAt": "2026-11-08T11:30:15.201Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 6
     },
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "생활·날씨",
       "count": 2
     },
     {
       "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     }
   ],
@@ -63,29 +63,29 @@
           "source": "매일경제"
         },
         {
-          "title": "서울대 학생들과 기념촬영하는 최태원 SK그룹 회장",
-          "url": "https://www.yna.co.kr/view/PYH20261105180000013",
-          "source": "연합뉴스"
+          "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
+          "url": "https://www.sedaily.com/article/20110913",
+          "source": "서울경제"
         }
       ]
     },
     {
       "keyword": "생계",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-08T09:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkdv5Reicu3ycl0r3euJ2p6eitkx0Rr1v1XRJBKLXhmrqTCupXuDUXuXn2cqo",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF89krKgOJv5Xse0uq6k6W38-b9jse5ZxrWI7BDmSw4A4TXlvJR88w66KCv80",
       "category": "기타",
       "news": [
         {
-          "title": "기초연금 올려봤자 생계급여 삭감…빈곤노인 78만명 '제자리'",
-          "url": "https://www.yna.co.kr/view/AKR20261106131200530",
-          "source": "연합뉴스"
+          "title": "“연금 오르면 뭐하나”…생계급여 삭감에 빈곤노인 78만명은 답보 상태",
+          "url": "https://www.segye.com/newsView/20261108504769",
+          "source": "세계일보"
         },
         {
-          "title": "기초연금 늘지만 생계급여 줄어…빈곤노인 78만명은 '제자리'",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859409",
-          "source": "뉴시스"
+          "title": "기초연금 3만원 더 받는 저소득층, 생계급여 삭감…인상 효과 미미",
+          "url": "https://www.donga.com/news/Society/article/all/20261108/134985262/1",
+          "source": "동아일보"
         },
         {
           "title": "“기초연금 인상분만큼 생계급여 삭감”…연금 개편에도 빈곤노인 소득은 그대로",
@@ -120,31 +120,6 @@
       ]
     },
     {
-      "keyword": "수원 삼성 블루윙즈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwSi2PxtWsGQ6wKyx_E6GRLlWQA51mWIAph_jpltaCPTdyZUhVxYampU3Ock8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "결과로 보여줬다 ‘이정효 매직’···수원삼성, 3년 만에 K리그1 복귀",
-          "url": "https://www.khan.co.kr/article/202611081712001",
-          "source": "경향신문"
-        },
-        {
-          "title": "야구는 12년 만에 우승, 축구는 3년 만에 승격…삼성 스포츠 겹경사 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110818093684452",
-          "source": "머니투데이"
-        },
-        {
-          "title": "수원 승격 지휘한 이정효 \"명문 구단 다시 2부로 떨어지지 않게\"",
-          "url": "https://www.yna.co.kr/view/AKR20261108040300007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "천안 시티 fc 대 부산 아이파크 순위",
       "traffic": "500+",
       "trafficValue": 500,
@@ -170,6 +145,56 @@
       ]
     },
     {
+      "keyword": "최해천",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T10:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT-sYjiFTabd6jE8Md26AayLFkMeeaA8Yt-wR0awsQwX2k2Cbuq-cQkJZKCJc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "차기 서울대 총장에 최해천 기계공학부 교수",
+          "url": "https://www.chosun.com/national/national_general/2026/11/08/3R5JJK6GPJBH5OQCKJELN67FDQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
+          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "서울대 총장 최종후보자에 최해천 기계공학부 석좌교수",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864059_36918.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김세레나",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T10:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ25LSrNaYDrQ2GzcDeJ_yA04LtHJFKUKWOYk7YctbtxDDciVmG1VnGXURaBBo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
+          "url": "https://www.segye.com/newsView/20261106501275",
+          "source": "세계일보"
+        },
+        {
+          "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"예쁜 얼굴 다 망가졌다\" 김세레나, 파라핀 성형 부작용 고백 [헬스톡]",
+          "url": "https://www.fnnews.com/news/202611061948054807",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
       "keyword": "광안리해수욕장",
       "traffic": "200+",
       "trafficValue": 200,
@@ -188,9 +213,9 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "“불꽃축제 명당이 13만원?”…부산불꽃축제서 불법 거래 8명 적발",
-          "url": "https://www.kyeonggi.com/article/20261108580187",
-          "source": "경기일보"
+          "title": "1시간에 불꽃 8만발 터진 광안리해수욕장···부산시 예상 넘어 120만 명 몰렸다",
+          "url": "https://www.khan.co.kr/article/202611081000011",
+          "source": "경향신문"
         }
       ]
     },
@@ -208,8 +233,8 @@
           "source": "충청매일"
         },
         {
-          "title": "\"파주 팬들에게 기쁨을 선사하겠다\" 제라드 누스의 남은 시즌 목표는? [케터뷰]",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216619",
+          "title": "‘헤더 동점골’ 파주 유재준, “이승우·포든 보며 배워” 축구는 신장이 아닌 심장으로 [케터뷰]",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216629",
           "source": "풋볼리스트"
         },
         {
@@ -220,38 +245,29 @@
       ]
     },
     {
-      "keyword": "스포츠",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T08:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6QwVkEcD_RdopMWzFkT93ljFOgULQn0zvJVAyBHtTtb_T2QMbh8v0QKbNaEA",
-      "category": "생활·날씨",
+      "keyword": "wec",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T10:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM3ZCWGbZz8eKdPqTa6iF9J3MQMdck4xkPXuJmuTXcw9SnGgtUByc2rElgMN4",
+      "category": "기타",
       "news": [
         {
-          "title": "[포토] 아디다스코리아, 구일역 체육시설 재단장 '야간 스포츠 축제 개최'",
-          "url": "https://www.etnews.com/20261108000047",
-          "source": "전자신문"
+          "title": "Fuoco puts Ferrari on pole at Monza",
+          "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
+          "source": "WEC"
         },
         {
-          "title": "아디다스, 서울시와 함께 구일역 체육시설 새 단장",
-          "url": "https://www.newsis.com/view/NISI20261108_0021524522",
-          "source": "뉴시스"
+          "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
+          "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/",
+          "source": "Grande Prêmio"
         },
         {
-          "title": "아디다스-서울시, '서울아 운동하자' 점등식 [포토]",
-          "url": "https://news.tf.co.kr/read/photomovie/2386139.htm",
-          "source": "더팩트"
+          "title": "The Headlines from FP3 at Monza",
+          "url": "https://www.fiawec.com/en/news/the-headlines-from-fp3-at-monza/13926",
+          "source": "WEC"
         }
       ]
-    },
-    {
-      "keyword": "서울교통공사 채용",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T08:20:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
     }
   ]
 }
