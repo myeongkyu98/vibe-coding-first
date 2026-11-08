@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-08T17:29:08.964Z",
+  "updatedAt": "2026-11-08T18:34:49.425Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 6
-    },
-    {
       "category": "기타",
-      "count": 3
+      "count": 5
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
+      "count": 4
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
@@ -45,48 +45,23 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-08T15:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP2VkxQ7cNwqSJTAtpsMkqvm0SQ3Ptj50_ZJw9rnWKuctiu9c3sY7kARWsyWg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuRIqZTxd3a1tZh92Qpo5YxUEhoPWWssatWvet2HQcbxoKC-YUNrvpXmyY_Ww",
       "category": "스포츠",
       "news": [
         {
-          "title": "Premier League: Villa lead at second-bottom Man Utd inside two minutes",
+          "title": "Premier League: Villa 4-2 up as Man Utd look set to stay second bottom",
           "url": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
           "source": "BBC"
         },
         {
-          "title": "Carrick selects side to face Aston Villa",
-          "url": "https://www.manutd.com/en/news/michael-carrick-selects-man-united-side-to-face-aston-villa",
-          "source": "Manchester United"
+          "title": "Video: fan protests and three goals in a quarter of an hour: a fiery start to the United and Aston Villa clash",
+          "url": "https://www.goal.com/en-in/news/video-fan-protests-and-three-goals-in-a-quarter-of-an-hour-a-fiery-start-to-the-united-and-aston-villa-clash/blt50c080fd34055d49",
+          "source": "Goal.com"
         },
         {
-          "title": "Chris Sutton backs Aston Villa to win at Old Trafford as Manchester United's doubts refuse to go away — Aston Villa Vs Man United",
-          "url": "https://twaslnews1.twaslnews.com/7312834/",
-          "source": "شبكة تواصل الإخبارية"
-        }
-      ]
-    },
-    {
-      "keyword": "원더독스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2B39TiOZH6vSC1-bNDL30YIEIxAHdb5BE4IbCYCBoJaDSyMTzmCa_gl9CeY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'신인감독 김연경2', 역전할 수 있을까…황연주 체력 빨간불",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02282886645643424&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "'신인감독 김연경2', 하효림vs이나연 '자존심 맞대결'→신흥 콤비 '옌쿠시' 등장 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110818357287811",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'신인감독2' 원더독스 VS 전 주장 표승주…승자는?!",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523982",
-          "source": "iMBC 연예"
+          "title": "Man Utd equalise vs Aston Villa; Liverpool win; Chelsea stunned",
+          "url": "https://onefootball.com/en/news/man-utd-equalise-vs-aston-villa-liverpool-win-chelsea-stunned-43746058",
+          "source": "OneFootball"
         }
       ]
     },
@@ -116,27 +91,102 @@
       ]
     },
     {
-      "keyword": "palace vs liverpool",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzgEm3HB3RzbhfTfAogzK0v8oF5yYoZKvePjiS7NlZ20CqcXPQSScFgIvENo",
+      "keyword": "베식타시 대 겐칠레르빌리이",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T17:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqtR6nx9whApUKyPVI_vOe9kvGxAUwOqhagHV-T0F8CQbRn0YY0b98MPffzc",
       "category": "스포츠",
       "news": [
         {
-          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-          "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
-          "source": "BBC"
+          "title": "Licensable picture: Ahead of Genclerbirligi v Besiktas - Turkish Super Lig",
+          "url": "https://www.reutersconnect.com/item/ahead-of-genclerbirligi-v-besiktas-turkish-super-lig/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwRFJWNjZK",
+          "source": "Reuters Connect"
         },
         {
-          "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
-          "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
-          "source": "The Guardian"
+          "title": "Beşiktaş vs Gençlerbirliği live: TV coverage, live stream and kick-off time",
+          "url": "https://www.goal.com/en/news/watch-besiktas-vs-genclerbirligi-live-today-who-is-showing-or-streaming-the-match-on-tv-and-online/blt78b790689d0be683",
+          "source": "Goal.com"
         },
         {
-          "title": "PL: Pierre Sage at risk, Chelsea slip again, Brighton living the dream!",
-          "url": "https://sports.yahoo.com/articles/pl-pierre-sage-risk-chelsea-160200412.html",
-          "source": "Yahoo Sports"
+          "title": "Preview: Besiktas vs Genclerbirligi - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/besiktas/preview/besiktas-vs-genclerbirligi-prediction-team-news-lineups_608630.html",
+          "source": "Sports Mole"
+        }
+      ]
+    },
+    {
+      "keyword": "แมนยู พบ แอสตันวิลลา",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T16:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZYPSsyyxk0cPiGJcRBBTKHo7zRdUewiuAILuVF_Q69C9bZBBBog9I3Nc8Xwo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "LIVE ดูบอลสด แมนยู พบ แอสตัน วิลล่า บอลวันนี้ (8 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2969259",
+          "source": "www.thairath.co.th"
+        },
+        {
+          "title": "แมนเชสเตอร์ ยูไนเต็ด อยู่ในโซนตกชั้นก่อนเริ่มการแข่งขัน",
+          "url": "https://www.vietnam.vn/th/man-united-vao-nhom-xuong-hang-truoc-gio-bong-lan",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "จากใจคู่อริ!! \"เจอร์ราร์ด\" ชี้ปัญหาที่แท้จริงของ \"ผีแดง\" คือนักเตะไม่ใช่โค้ช",
+          "url": "https://www.dailynews.co.th/news/6341732/",
+          "source": "เดลินิวส์"
+        }
+      ]
+    },
+    {
+      "keyword": "man utd đấu với aston villa",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T16:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeHNz4eauZeFxsEUEGclYJbRJI7UBMVUFe4AS9lciReL3kyVgQUdMvuGj3-hI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
+          "url": "https://yeuthethao.net.vn/man-united-0-0-aston-villa-bruno-fernandes-va-matheus-cunha-da-chinh-d901731.html",
+          "source": "yeuthethao.net.vn"
+        },
+        {
+          "title": "曼联对阵阿斯顿维拉直播：半场结束，2-2 战平",
+          "url": "https://www.vietnam.vn/zh-cn/truc-tieptruc-tiep-manchester-united-vs-aston-villa-het-hiep-1-hoa-2-2",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Sức trẻ có thể là điểm khác biệt của Man United",
+          "url": "https://laodong.vn/bong-da-quoc-te/suc-tre-co-the-la-diem-khac-biet-cua-man-united-1796843.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T16:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwiPX9g75qSrG1d0U_V9aH1SEdUmJvVoOXynMU9pWsdsfrQt8xLArUL-BoyY4",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들",
+          "url": "https://zdnet.co.kr/view/?no=20261108030741",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
+          "url": "https://www.hankyung.com/article/2026110832841",
+          "source": "한국경제"
+        },
+        {
+          "title": "美민주 주지사에 손내민 IT업계…코어위브 \"데이터센터 협력을\"",
+          "url": "https://www.yna.co.kr/view/AKR20261108006900072",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -145,48 +195,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-08T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWQakm3XHJzPstiBsLkD9yP4hC1XJK2hcmiOSVXIlweMOOM3WLOHXYBPIkvNs",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jR5tkmJkMq248RO5AubzKGRWxzRHevGV60CfWV5rxTgiwzYaItYWYRn8k0o",
       "category": "기타",
       "news": [
         {
-          "title": "เวียร์ตซ์ ปลดล็อกประตู ลิเวอร์พูล บุกปราบ พาเลซ 3-1 คว้าสามแต้ม ก่อนเข้าบอลทีมชาติ",
-          "url": "https://mainstand.co.th/th/news/1/article/27504",
-          "source": "Mainstand"
+          "title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
+          "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-10-cuoc-san-diem-so-cua-liverpool-man-united-va-chelsea",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "เปิดสถิติพบกัน 5 ครั้งหลังสุด คริสตัล พาเลซ VS ลิเวอร์พูล ก่อนดวลเดือดคืนนี้",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2971240",
-          "source": "www.thairath.co.th"
+          "title": "ดูบอลสด คริสตัลพาเลซ พบ ลิเวอร์พูล ฟุตบอลพรีเมียร์ลีก อังกฤษ คืนนี้ เวลา 21.00 น.",
+          "url": "https://www.sanook.com/sport/1673888/",
+          "source": "Sanook"
         },
         {
-          "title": "ผลบอลพรีเมียร์ลีก: หงส์แดง ทำได้ดีกว่า บุกถลุง ปราสาทเรือนแก้ว ถึงถิ่น 3-1",
-          "url": "https://www.sportingnews.com/th/football/news/live-watch-crystal-palace-vs-liverpool-premier-league-2026-27/9087c06752901be74a637051",
-          "source": "Sporting News"
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (8 พ.ย.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/sports/334041",
+          "source": "สยามรัฐ"
         }
       ]
     },
     {
-      "keyword": "인도네시아",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T13:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKdO1UidGpI4QBZD0l2NItEYMdruAc7eOgV0zE069zKNSyEPce0bjRaTePGw",
-      "category": "정치·사회",
+      "keyword": "premier league",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T16:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJngPi7-gRaPdJUmTafoVWiZ2UYXr5hAnjUR1fXEeTuSAOpNzmxysvYRlqi0Y",
+      "category": "스포츠",
       "news": [
         {
-          "title": "인도네시아에서 소방 헬리콥터가 추락해 1명이 실종됐다.",
-          "url": "https://www.vietnam.vn/ko/truc-thang-chua-chay-rung-gap-nan-tai-indonesia-mot-nguoi-mat-tich",
-          "source": "Vietnam.vn"
+          "title": "Sunderland vs Chelsea: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
+          "source": "BBC"
         },
         {
-          "title": "KSAD, 중부 칼리만탄에서 헬리콥터 추돌 사고로 사망한 TNI 요원의 장례식을 주도하다",
-          "url": "https://voi.id/kr/berita/601640",
-          "source": "VOI.ID"
+          "title": "Sunderland vs Chelsea LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+          "url": "https://www.skysports.com/football/live-blog/13592893/sunderland-vs-chelsea-live-premier-league-score-updates-news-prediction-line-ups-and-how-to-watch-or-stream",
+          "source": "Sky Sports"
         },
         {
-          "title": "호주 군용기, 인도네시아 산불 진화 지원",
-          "url": "https://www.idnfinancials.com/kr/news/71390/%ED%98%B8%EC%A3%BC-%EA%B5%B0%EC%9A%A9%EA%B8%B0-%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84-%EC%82%B0%EB%B6%88-%EC%A7%84%ED%99%94-%EC%A7%80%EC%9B%90",
-          "source": "IDNFinancials"
+          "title": "Licensable picture: UK: Premier League: Sunderland v Chelsea",
+          "url": "https://www.reutersconnect.com/item/uk-premier-league-sunderland-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBOSUhFSjc",
+          "source": "Reuters Connect"
         }
       ]
     },
@@ -212,56 +262,6 @@
           "title": "Seoul Sees First Snow 26 Days Early as Heavy Snow Warning Issued in Gangwon",
           "url": "https://www.chosun.com/english/national-en/2026/11/08/NJBV6BDA35F4HBA2XST7AED77U/",
           "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "elche vs betis",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T13:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb2GR_r5Z7BKm_aXjd-RqQOPf1RbR_O8sUnmPPF13DlNKfs9xPj93Y_MiowSs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Elche vs Real Betis: Lineups, Prediction, Odds & Bet Builder Tip",
-          "url": "https://www.whoscored.com/articles/8QuZRsskSEGTgxuE7av-9g/show/cng111-20261108-elche-vs-real-betis-prediction-1794114324",
-          "source": "WhoScored.com"
-        },
-        {
-          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-          "url": "https://www.firstpost.com/football-news/live-score/stats/sun-vs-che-190598/",
-          "source": "Firstpost"
-        },
-        {
-          "title": "Elche strengthens evacuation procedures at Martínez Valero stadium ahead of Real Betis match",
-          "url": "https://www.elbotola.com/en/article/2026-11-07-09-50-128.html",
-          "source": "Elbotola"
-        }
-      ]
-    },
-    {
-      "keyword": "와이스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR11qvWsN2Y2ufN4DhhznrXwHu6dW24okJ-ZnDEhXZyLNIulacOdpFiLER6VU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=131892",
-          "source": "더게이트"
-        },
-        {
-          "title": "자유계약 풀린 와이스는 어디로? 시카고 컵스, 신시내티행 예측도...한화 복귀 가능성은?",
-          "url": "https://news.jtbc.co.kr/video/NB12326053",
-          "source": "JTBC"
-        },
-        {
-          "title": "[오피셜] 휴스턴 67억 옵션 거부→대전예수 공식 '자유의 몸'…한화로 돌아올까? \"와이스 美 남으면 마이너 계약\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017115",
-          "source": "SPOTV NEWS"
         }
       ]
     }
