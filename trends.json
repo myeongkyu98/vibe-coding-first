@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T08:45:37.929Z",
+  "updatedAt": "2026-11-08T09:40:52.158Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 5
     },
     {
       "category": "스포츠",
@@ -12,81 +12,85 @@
     {
       "category": "IT·과학",
       "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "fc 서울 대 울산 hd fc 순위",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-08T07:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj9DGCnIbjnryiQ1wS9eXChrVh220sBbElmgAhrbmOOo97UqFMxJ9E_dRwsCM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'야고 17호골' 울산, K리그1 챔피언 서울 2-1 제압…2위 수성",
-          "url": "https://www.yna.co.kr/view/AKR20261108035800007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "프로축구 울산, 챔피언 서울 잡고 2위 지켜…대전도 3위 유지",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR2026110816344561I",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "[현장인터뷰]김기동 감독 \"클리말라→로스→손정범 부상\" vs 김현석 감독 \"야고 득점왕을 만드는 데 신경\"",
-          "url": "https://www.chosun.com/sports/football/2026/11/08/MM4DGMZRGUZTCYJQHFSGCMJZMI/",
-          "source": "조선일보"
-        }
-      ]
-    },
     {
       "keyword": "권동진",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-08T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXZlIDhaVho10FngzWkQ5GD6iGM3qKDohAwVoIHhqXm1itLAQNK7Lcpcg5-2A",
-      "category": "기타",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCpqJ6K_v7IC2JF1tous_ZaoMmYu7gFLKmtZM3cCad8DEVFhdGIQviVw6DjE8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[Photo] Hur Kyoung-min cleans up foul pop",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/08/CXE76JYXVZDNBMQKBBBKFICTQQ/",
-          "source": "Chosunbiz"
+          "title": "2021 목발 투혼 어디 갔나…자만한 kt, 신기루처럼 사라진 2026",
+          "url": "https://www.yna.co.kr/view/AKR20261108022600007",
+          "source": "연합뉴스"
         },
         {
-          "title": "[Photo] Daniel starts do-or-die Game 5 for KT Korean Series",
-          "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/08/JH6E4NJUW5HE5CEO5ECCK5GAAA/",
-          "source": "Chosunbiz"
+          "title": "[포토] 고영표 '핵잠투로 잠재우리' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110815415245634",
+          "source": "머니투데이"
         },
         {
-          "title": "Davis Daniel (KT Wiz) couldn't laugh.Danyel took the mound as KT's starting pitcher in Game 5 of the..",
-          "url": "https://www.mk.co.kr/en/sports/12201700",
-          "source": "매일경제"
+          "title": "'통합우승 실패' KT 이강철 감독 \"2차전서 승리 놓친 게 시리즈 패인\"[KS]",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859479",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "기사",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T07:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSMbIe9YVrjSzkQtOAj8K9mBnQJ5gQMWuhCAyXdtaaNF5sZeXVIJ_L7jqt5w",
+      "keyword": "김재서",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T08:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiU05eo1SQLJKZt2JgSQVQqUVnJGUKwlQO0LhE3rCAyNaAFqX0BLa5h4SIEBI",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "김민경, 게임 개발자 일상에 반했다? “좋은 신랑감” (전착시)",
+          "url": "https://sports.donga.com/ent/article/all/20261108/134984561/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'모솔연애2' 김재서, '게임 괴인'으로 돌아온다…메이크오버 소용없던 '회사생활 24시'('전착시')",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018488",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "MBC 전지적 집착 시점, 배틀그라운드 개발자 김재서의 ‘회사 숙식’ 게임 일상 공개",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271026",
+          "source": "톱스타뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김우석",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T07:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIq_ArGZGXP82PT00Mm8EgyqCX5LdKvZoQRl-HFcTiM7BZUrLNZN0cfySv2TM",
       "category": "기타",
       "news": [
         {
-          "title": "\"배달 기사가 먹고 있더라\" 공개한 사진, 알고보니",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02414086645643096&mediaCodeNo=257",
+          "title": "‘닥터X’ 김우석, 전국환 살해 시도… ‘햇살 인턴’ 섬뜩한 반전",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01331686645643752&mediaCodeNo=257",
           "source": "이데일리"
         },
         {
-          "title": "’라이더가 음식 먹었다’ 논란에…배민 “사실 아냐“",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106180401ayC",
-          "source": "연합뉴스TV"
+          "title": "닥터X : 하얀 마피아의 시대 : [11회 예고] “실패해 주시면 안 될까요?” 김우석, 김지원에게 간절한 부탁",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056440",
+          "source": "programs.sbs.co.kr"
         },
         {
-          "title": "“배달 기사가 몰래 탕수육 빼먹는다?”…“파손 처리 과정서 오해”",
-          "url": "https://www.kyeonggi.com/article/20261106580003",
-          "source": "경기일보"
+          "title": "'닥터X' 김우석, 전국환 살해 시도 '충격'…17.7% [N시청률]",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6346660",
+          "source": "뉴스1"
         }
       ]
     },
@@ -120,132 +124,132 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-08T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLVLUs4KgSGbbDB1g9e4qMvyWbIIJRZnKH5t9JzhLHpYyeJAeLkwwFpM1mst4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdHi-2a90GHzb9RRicIzcSo0AV2ZTFcy9lQPQ5rgE6AcN-EKuz5pqEbN6qPA",
       "category": "기타",
       "news": [
+        {
+          "title": "‘국민체육진흥공단 이어 코레일도’… 충주상고, 공기업 합격 ‘대박’",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109601",
+          "source": "충청매일"
+        },
+        {
+          "title": "충주상고 박시은, 코레일 최종 합격",
+          "url": "https://www.inews365.com/news/article.html?no=942507",
+          "source": "충북일보"
+        },
         {
           "title": "김성덕 제3대 양주도시공사 사장 취임…2029년 11월까지 3년 임기",
           "url": "https://www.viva100.com/article/20261108500132",
           "source": "브릿지경제"
-        },
-        {
-          "title": "김성덕 신임 양주도시공사 사장 “시민 신뢰받는 공기업 만들 것”",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741787",
-          "source": "중부일보"
-        },
-        {
-          "title": "김성덕 제3대 양주도시공사 사장 취임식…미래 대응형 경영혁신 다짐",
-          "url": "https://www.kyeonggi.com/article/20261106580263",
-          "source": "경기일보"
         }
       ]
     },
     {
-      "keyword": "창원 lg 대 부산 kcc",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T07:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm7jaDzcJhLEH5ac8UnWM__5uhgOFqN4VXhd9SAuj73MQmAPfXwbZ62qteeNk",
-      "category": "IT·과학",
+      "keyword": "천안 시티 fc 대 부산 아이파크 순위",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQECU1_YlqqQ_tilv7FLdxDuULXjFKt8l825JuFsUbpHHOy7Xum9pjdY7neSZg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "허웅+롱+킹 91점 폭발한 프로농구 KCC, 안방에서 EASL 2연승",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705274",
-          "source": "KBS 뉴스"
+          "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859426",
+          "source": "뉴시스"
         },
         {
-          "title": "[EASL] 72-66으로 쫓겼던 KCC? 게임을 터뜨린 루이스 킹!",
-          "url": "https://m.basketkorea.com/news/newsview.php?ncode=1065614072983284",
-          "source": "바스켓코리아"
+          "title": "천안시티 박진섭 감독 \"잘 버텨준 선수들에게 감사\"",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859443",
+          "source": "뉴시스"
         },
         {
-          "title": "\"KBL 챔피언 자존심 지켰다!\" 킹·롱·웅 ‘91점 합작’ KCC, 호우촌 완파하고 EASL 2연승…B조 단독 선두 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/05/202611052148775589O",
-          "source": "머니투데이"
+          "title": "부산아이파크, 천안에 0-1패",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026110816483170775",
+          "source": "부산일보"
         }
       ]
     },
     {
-      "keyword": "부천 대 포항",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T07:00:00.000Z",
+      "keyword": "스포츠",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSS__mqWv_yRokZeGCy6f4nrIq_ELjQUHT6mQkyJVW-E1Kel06RrGP6X7vjA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "충주시 스포츠 교류단, 日 유가와라정과 핑퐁 외교",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109629",
+          "source": "충청매일"
+        },
+        {
+          "title": "충주시, 日 유가와라정 탁구 스포츠 교류단 출국",
+          "url": "https://www.newsis.com/view/NISX20261106_0003857492",
+          "source": "뉴시스"
+        },
+        {
+          "title": "충주시, 일본 유가와라정서 친선탁구대회 참가…스포츠 교류 강화",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743627",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "서울교통공사 채용",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T08:20:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
-    },
-    {
-      "keyword": "대학 입학",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T07:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmeaMeKaUXxeguhfu77zRfcwSA-uxlu6tei-pBaCGVFnjOLffTuP-Wm2ZJ5vU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'인서울 신입생' 서울 고교 출신 29.9%…최근 6년새 최저치",
-          "url": "https://www.yna.co.kr/view/AKR20261108020800530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "서울 산다고 대학도 '인서울'?…신입생 10명 중 7명은 타 지역 출신",
-          "url": "https://view.asiae.co.kr/article/2026110815141452391",
-          "source": "아시아경제"
-        },
-        {
-          "title": "서울 살아도 인서울 못 간다…서울 신입생 비율, 6년 내 '최저' - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/08/2026110809432991880",
-          "source": "머니투데이"
-        }
-      ]
     },
     {
       "keyword": "주권",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-08T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTn8OtfxsvIDPDVCQe3OwsQ7WJRxDvc3MVeA8XdoUICIg0Dfz2TJThxdh_3kd8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzKFSRZ7romgP_pUX5ffXYOEOzZk39cL0nzGBXZzFIGyxpCzlNF_etaiJJ020",
       "category": "기타",
       "news": [
         {
-          "title": "'12·3 국민주권의 날' 이달 지정…관련 기록물 1천625건 등록",
-          "url": "https://www.yna.co.kr/view/AKR20261107033000530",
-          "source": "연합뉴스"
+          "title": "’12·3 국민주권의 날’ 이번 달 기념일 지정…기록물 1,625건 등록",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611081759505QP",
+          "source": "연합뉴스TV"
         },
         {
           "title": "12·3 '빛의 혁명' 기념일 이달 지정…기록물 1625점 등록",
-          "url": "https://www.sankyungilbo.com/news/articleView.html?idxno=538585",
-          "source": "산경일보"
+          "url": "https://www.newsis.com/view/NISX20261108_0003859320",
+          "source": "뉴시스"
         },
         {
-          "title": "‘12·3 국민주권의 날’ 이달 지정…기록물 1625건 등록",
-          "url": "https://www.kbmaeil.com/article/20261108500371",
-          "source": "경북매일"
+          "title": "12월 3일 ‘국민주권의 날’ 지정 추진...이달 말 확정 전망",
+          "url": "https://www.m-economynews.com/news/article.html?no=72741",
+          "source": "M이코노미뉴스"
         }
       ]
     },
     {
-      "keyword": "대한축구협회",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T07:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVmYOpJyxKZ4QYDx2ptC3cuuuihuSTjObemylILhcSz2heqcUxTb0xS3MqBVI",
-      "category": "스포츠",
+      "keyword": "이승엽",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T08:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLMHOfnvEiwYBL4-4Sfl7TB_Q6b6TNec7zNXvbSUWLw2vCa50Mmtc_FXtPeaM",
+      "category": "기타",
       "news": [
         {
-          "title": "대한축구협회 ‘연내 회장 선거’ 무산…FIFA, 개혁안에 우려 표명",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706920",
+          "title": "‘라이언킹’ 삼성 전설 이승엽 시구에 캡틴 구자욱이 답했다",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706380",
           "source": "KBS 뉴스"
         },
         {
-          "title": "대한축구협회 ’연내 회장 선거’ 무산…FIFA, 선거 개혁안에 제동",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108145500s1d",
-          "source": "연합뉴스TV"
+          "title": "'와' 국민타자 생생 증언, \"김도영 모르는 사람 없어\"…'어나더 클래스' 슈퍼스타, 도쿄돔 3번째 쇼케이스 준비 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/07/202611070221776603O",
+          "source": "머니투데이"
         },
         {
-          "title": "K혁신위 ‘권고’ 대한축구협회장 선거 규정, FIFA·AFC 3대 규정에 위배",
-          "url": "https://sports.khan.co.kr/article/202611081541003",
-          "source": "스포츠경향"
+          "title": "'국민타자' 눈에도 '슈퍼스타'는 특별했다…\"한국 레벨이 아니야\"",
+          "url": "https://www.news1.kr/sports/baseball/6346315",
+          "source": "뉴스1"
         }
       ]
     }
