@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-08T18:34:49.425Z",
+  "updatedAt": "2026-11-08T19:38:53.906Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 5
     },
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 4
     },
     {
-      "category": "IT·과학",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "맨유 대 애스턴 빌라",
-      "traffic": "10000+",
-      "trafficValue": 10000,
+      "traffic": "20000+",
+      "trafficValue": 20000,
       "startedAt": "2026-11-08T15:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbecCANlTbzPbI42NkWtmhWIVBT69CyHqM5j1a5nkpBcpruU5PSRCOPwabAqU",
       "category": "스포츠",
@@ -42,26 +42,126 @@
     },
     {
       "keyword": "man utd vs aston villa",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-08T15:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuRIqZTxd3a1tZh92Qpo5YxUEhoPWWssatWvet2HQcbxoKC-YUNrvpXmyY_Ww",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROMqanXJ9nDTFg2JKjq0AUWrURLXg4o8lPKeKvPxKKtsS-0TiKQxcZfTa4VDI",
       "category": "스포츠",
       "news": [
         {
-          "title": "Premier League: Villa 4-2 up as Man Utd look set to stay second bottom",
-          "url": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
+          "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
+          "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
+          "url": "https://www.bbc.com/sport/football/articles/cwj34k7k54veo",
           "source": "BBC"
         },
         {
-          "title": "Video: fan protests and three goals in a quarter of an hour: a fiery start to the United and Aston Villa clash",
-          "url": "https://www.goal.com/en-in/news/video-fan-protests-and-three-goals-in-a-quarter-of-an-hour-a-fiery-start-to-the-united-and-aston-villa-clash/blt50c080fd34055d49",
-          "source": "Goal.com"
+          "title": "Michael Carrick reaction: How did Manchester United boss explain wild draw with Aston Villa?",
+          "url": "https://www.nbcsports.com/soccer/news/michael-carrick-reaction-how-did-manchester-united-boss-explain-wild-draw-with-aston-villa",
+          "source": "NBC Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "premier league",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T16:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzgEm3HB3RzbhfTfAogzK0v8oF5yYoZKvePjiS7NlZ20CqcXPQSScFgIvENo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+          "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
+          "source": "BBC"
         },
         {
-          "title": "Man Utd equalise vs Aston Villa; Liverpool win; Chelsea stunned",
-          "url": "https://onefootball.com/en/news/man-utd-equalise-vs-aston-villa-liverpool-win-chelsea-stunned-43746058",
-          "source": "OneFootball"
+          "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Sunday football open thread",
+          "url": "https://sports.yahoo.com/articles/sunday-football-open-thread-130000009.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "프리미어리그 순위",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T18:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcPV18ODc9ruLQuSq9ZQc9EVpnakFVE0qabdhKrFcJx6YpivOEeKvVIIqBYmA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락...개막 7연승→3연패, 마레스카의 꿈이 악몽으로 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/202611080850773835O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "도쿠, “포레스트 원정에서 스스로 어렵게 만들었다”",
+          "url": "https://kr.mancity.com/news/mens/doku-post-forest-reaction-pl-7-nov-63929682",
+          "source": "Manchester City FC"
+        },
+        {
+          "title": "'대충격, 7연승→3연패' 홀란 골침묵 맨체스터 시티, 또 수비 와르르 무너졌다, 노팅엄 원정 1-3 참패..선두 아스널과 승점 6점차 벌어졌다",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/08/MJTDSNDFGE2DGM3EGMZTCZBTGE/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "베식타시 대 겐칠레르빌리이",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T17:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Beşiktaş vs Gençlerbirliği: Turkish Süper Lig stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c674pkj0n28wt",
+          "source": "BBC"
+        },
+        {
+          "title": "Licensable picture: Ahead of Genclerbirligi v Besiktas - Turkish Super Lig",
+          "url": "https://www.reutersconnect.com/item/ahead-of-genclerbirligi-v-besiktas-turkish-super-lig/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwRFJWNjZK",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Beşiktaş vs Gençlerbirliği live: TV coverage, live stream and kick-off time",
+          "url": "https://www.goal.com/en/news/watch-besiktas-vs-genclerbirligi-live-today-who-is-showing-or-streaming-the-match-on-tv-and-online/blt78b790689d0be683",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "keyword": "전력",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T16:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwiPX9g75qSrG1d0U_V9aH1SEdUmJvVoOXynMU9pWsdsfrQt8xLArUL-BoyY4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들",
+          "url": "https://zdnet.co.kr/view/?no=20261108030741",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
+          "url": "https://www.hankyung.com/article/2026110832841",
+          "source": "한국경제"
+        },
+        {
+          "title": "51조 투자한 텍사스까지…삼전닉스 ‘블루 웨이브’ 불똥 튀나",
+          "url": "https://news.jtbc.co.kr/article/NB12327059",
+          "source": "JTBC"
         }
       ]
     },
@@ -91,47 +191,22 @@
       ]
     },
     {
-      "keyword": "베식타시 대 겐칠레르빌리이",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T17:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqtR6nx9whApUKyPVI_vOe9kvGxAUwOqhagHV-T0F8CQbRn0YY0b98MPffzc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Licensable picture: Ahead of Genclerbirligi v Besiktas - Turkish Super Lig",
-          "url": "https://www.reutersconnect.com/item/ahead-of-genclerbirligi-v-besiktas-turkish-super-lig/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwRFJWNjZK",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Beşiktaş vs Gençlerbirliği live: TV coverage, live stream and kick-off time",
-          "url": "https://www.goal.com/en/news/watch-besiktas-vs-genclerbirligi-live-today-who-is-showing-or-streaming-the-match-on-tv-and-online/blt78b790689d0be683",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Preview: Besiktas vs Genclerbirligi - prediction, team news, lineups",
-          "url": "https://www.sportsmole.co.uk/football/besiktas/preview/besiktas-vs-genclerbirligi-prediction-team-news-lineups_608630.html",
-          "source": "Sports Mole"
-        }
-      ]
-    },
-    {
       "keyword": "แมนยู พบ แอสตันวิลลา",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-08T16:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZYPSsyyxk0cPiGJcRBBTKHo7zRdUewiuAILuVF_Q69C9bZBBBog9I3Nc8Xwo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFTrwThhv_8a9RLT7wTvsRcKJ750BKVYJr6y9oCpnTHw5GwvC33ocq67B9vbU",
       "category": "기타",
       "news": [
-        {
-          "title": "LIVE ดูบอลสด แมนยู พบ แอสตัน วิลล่า บอลวันนี้ (8 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
-          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2969259",
-          "source": "www.thairath.co.th"
-        },
         {
           "title": "แมนเชสเตอร์ ยูไนเต็ด อยู่ในโซนตกชั้นก่อนเริ่มการแข่งขัน",
           "url": "https://www.vietnam.vn/th/man-united-vao-nhom-xuong-hang-truoc-gio-bong-lan",
           "source": "Vietnam.vn"
+        },
+        {
+          "title": "ฟื้นจากความพ่ายแพ้ แมนยู ไล่เจ๊า แอสตัน วิลลา สุดมัน - ขยับขึ้นมาอยู่อันดับ 18 พรีเมียร์ลีก",
+          "url": "https://www.khaosod.co.th/sports/news_10465323",
+          "source": "ข่าวสด"
         },
         {
           "title": "จากใจคู่อริ!! \"เจอร์ราร์ด\" ชี้ปัญหาที่แท้จริงของ \"ผีแดง\" คือนักเตะไม่ใช่โค้ช",
@@ -145,13 +220,13 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-08T16:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeHNz4eauZeFxsEUEGclYJbRJI7UBMVUFe4AS9lciReL3kyVgQUdMvuGj3-hI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6m4xCh2FObONzxUpSXCK4nsYbekJpwLat-0vuutCfbDvtJgqaMiGVTF0z6Ww",
       "category": "기타",
       "news": [
         {
-          "title": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
-          "url": "https://yeuthethao.net.vn/man-united-0-0-aston-villa-bruno-fernandes-va-matheus-cunha-da-chinh-d901731.html",
-          "source": "yeuthethao.net.vn"
+          "title": "Kết quả bóng đá MU - Aston Villa: 8 bàn rượt đuổi điên rồ (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-mu-aston-villa-6-ban-ruot-duoi-hap-dan-ngoai-hang-anh-c48a1809466.html",
+          "source": "Tin tức 24h"
         },
         {
           "title": "曼联对阵阿斯顿维拉直播：半场结束，2-2 战平",
@@ -166,102 +241,27 @@
       ]
     },
     {
-      "keyword": "전력",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T16:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwiPX9g75qSrG1d0U_V9aH1SEdUmJvVoOXynMU9pWsdsfrQt8xLArUL-BoyY4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들",
-          "url": "https://zdnet.co.kr/view/?no=20261108030741",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
-          "url": "https://www.hankyung.com/article/2026110832841",
-          "source": "한국경제"
-        },
-        {
-          "title": "美민주 주지사에 손내민 IT업계…코어위브 \"데이터센터 협력을\"",
-          "url": "https://www.yna.co.kr/view/AKR20261108006900072",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T14:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jR5tkmJkMq248RO5AubzKGRWxzRHevGV60CfWV5rxTgiwzYaItYWYRn8k0o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
-          "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-10-cuoc-san-diem-so-cua-liverpool-man-united-va-chelsea",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "ดูบอลสด คริสตัลพาเลซ พบ ลิเวอร์พูล ฟุตบอลพรีเมียร์ลีก อังกฤษ คืนนี้ เวลา 21.00 น.",
-          "url": "https://www.sanook.com/sport/1673888/",
-          "source": "Sanook"
-        },
-        {
-          "title": "\"เต้ยเป๋าตุง\" ฟันธง (8 พ.ย.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
-          "url": "https://siamrath.co.th/sports/334041",
-          "source": "สยามรัฐ"
-        }
-      ]
-    },
-    {
-      "keyword": "premier league",
+      "keyword": "sc 프라이부르크 대 우니온 베를린",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-08T16:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJngPi7-gRaPdJUmTafoVWiZ2UYXr5hAnjUR1fXEeTuSAOpNzmxysvYRlqi0Y",
+      "startedAt": "2026-11-08T17:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
       "category": "스포츠",
       "news": [
         {
-          "title": "Sunderland vs Chelsea: Premier League preview, team news, stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
+          "title": "Freiburg vs Union Berlin: German Bundesliga stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cwdd8v7renyqt",
           "source": "BBC"
         },
         {
-          "title": "Sunderland vs Chelsea LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
-          "url": "https://www.skysports.com/football/live-blog/13592893/sunderland-vs-chelsea-live-premier-league-score-updates-news-prediction-line-ups-and-how-to-watch-or-stream",
-          "source": "Sky Sports"
+          "title": "Bundesliga Player Ratings | Freiburg 2 -0 Union Berlin",
+          "url": "https://www.getfootballnewsgermany.com/2026/bundesliga-md9-freiburg-union-ratings/",
+          "source": "Get German Football News"
         },
         {
-          "title": "Licensable picture: UK: Premier League: Sunderland v Chelsea",
-          "url": "https://www.reutersconnect.com/item/uk-premier-league-sunderland-v-chelsea/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBOSUhFSjc",
-          "source": "Reuters Connect"
-        }
-      ]
-    },
-    {
-      "keyword": "snow",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T14:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-3RsA_cxzI7344v0WdnH7WUyvzfIfVb6XgGR73Gzpk9Pe0guzP08m8NfYF0o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Seoul Sees First Snow 12 Days Earlier Than Average Amid Early Cold Snap",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836268",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "[Tomorrow's Weather] Cloudy and Rainy Nationwide Monday... Early-Winter Chill to Continue for Now",
-          "url": "https://www.asiae.co.kr/en/article/2026110820021658120",
-          "source": "아시아경제"
-        },
-        {
-          "title": "Seoul Sees First Snow 26 Days Early as Heavy Snow Warning Issued in Gangwon",
-          "url": "https://www.chosun.com/english/national-en/2026/11/08/NJBV6BDA35F4HBA2XST7AED77U/",
-          "source": "조선일보"
+          "title": "Freiburg vs Union Berlin Predictions & Bet Builder Tips: Schuster’s men win at home again",
+          "url": "https://www.goal.com/en-gb/betting/tips/freiburg-vs-union-berlin-predictions-08-11-2026/A%3Ablt6dd1965831492720",
+          "source": "Goal.com"
         }
       ]
     }
