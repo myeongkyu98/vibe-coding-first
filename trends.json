@@ -1,9 +1,17 @@
 {
-  "updatedAt": "2026-11-08T12:39:29.769Z",
+  "updatedAt": "2026-11-08T13:43:45.689Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
     },
     {
       "category": "경제",
@@ -12,63 +20,9 @@
     {
       "category": "생활·날씨",
       "count": 1
-    },
-    {
-      "category": "스포츠",
-      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "기아",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-08T08:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtiweGZmGKA35-R9h10oOSHX0wTshxmFeSRD1rP8PdqoNneEpBcgqH290DSLw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최",
-          "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/",
-          "source": "Genesis Newsroom"
-        },
-        {
-          "title": "‘제네시스 신화 어떻게 탄생했나’⋯ 현대차·기아, 동커볼케 ‘비밀 노트’ 공개",
-          "url": "https://www.viva100.com/article/20261108500210",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시",
-          "url": "https://www.yna.co.kr/view/AKR20261108014400003",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "최태원",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-08T09:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuC97_oWhwP2_OaKKxAr8fmAGxVCgzuWl0RhJST57NBeyBxtdTe0kSdahH9Y",
-      "category": "경제",
-      "news": [
-        {
-          "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998",
-          "source": "아시아투데이"
-        },
-        {
-          "title": "최태원 “돈이 너무 많이 풀려...롤러코스피 이어질 것”",
-          "url": "https://www.mk.co.kr/news/business/12200335",
-          "source": "매일경제"
-        },
-        {
-          "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
-          "url": "https://www.sedaily.com/article/20110913",
-          "source": "서울경제"
-        }
-      ]
-    },
     {
       "keyword": "생계",
       "traffic": "2000+",
@@ -95,27 +49,47 @@
       ]
     },
     {
-      "keyword": "수능",
+      "keyword": "국민 총소득",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-08T09:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN2k6SNHyyoH5oVzFx4DXjlJnobgaTmHWKwRLU3uO3923Vk-pYtaq1PvWIU8Q",
-      "category": "기타",
+      "startedAt": "2026-11-08T11:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwz5UynVdAhM8HlEJYiaK1HpLrzGkvTmpMsBbVde9tGKdRNcD6wx4Psn7J9Sk",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561",
-          "source": "YTN"
+          "title": "4인가구 소득 2억이라고?…'부자 한국' 속 서민의 한숨",
+          "url": "https://www.hankyung.com/article/2026110832811",
+          "source": "한국경제"
         },
         {
-          "title": "수험생 가족의 촛불 공양",
-          "url": "https://www.news1.kr/photos/8203052",
-          "source": "뉴스1"
+          "title": "“한 산업에 의존한 성장, 지속 어려워… ‘제2 반도체’ 육성 힘 모아야”",
+          "url": "https://www.donga.com/news/Economy/article/all/20261106/134975484/2",
+          "source": "동아일보"
         },
         {
-          "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846466",
-          "source": "제민일보"
+          "title": "[최형철 칼럼] 경제 성적표가 너무 좋은 이재명 정부의 ‘희비극’",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880974",
+          "source": "한스경제"
+        }
+      ]
+    },
+    {
+      "keyword": "malut united vs persib bandung",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T11:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mxlVa7XHFIZcM1JdGGl1edaHdvklnejHuYtZ-4RNde7d2zWS0DOWo-gcais",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Java United vs Persib Bandung Today: Live Score, Statistics, and Latest Match Updates",
+          "url": "https://aktualita.co/en/sports/java-united-vs-persib-bandung-today-live-score-statistics-and-latest-match-updates",
+          "source": "Aktualita.co"
+        },
+        {
+          "title": "Java United vs Persib Bandung Today: Live Schedule, Predicted Lineups, and Head-to-Head",
+          "url": "https://aktualita.co/en/sports/java-united-vs-persib-bandung-today-live-schedule-predicted-lineups-and-head-to-head",
+          "source": "Aktualita.co"
         }
       ]
     },
@@ -124,48 +98,73 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-08T11:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBYcwsi-qnrxbYizNfuxKEOocAEvKufCFarXRfD4PPY0DvVOd_lk0_StYovk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEkg1a8ncIyS30ZUcDkwBkazD7g4hadZB7sqAEZl8shUUnhYiUFvEueFpllAs",
       "category": "기타",
       "news": [
-        {
-          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
-          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
-          "source": "동아일보"
-        },
         {
           "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
           "url": "https://www.khan.co.kr/article/202611081813001",
           "source": "경향신문"
         },
         {
-          "title": "서울대 이사회, 29대 총장 최종후보 최해천 석좌교수 선출",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706950",
-          "source": "KBS 뉴스"
+          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
+          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "서울대총장 최종후보 최해천 석좌교수…공과대 출신 20년만",
+          "url": "https://www.yna.co.kr/view/AKR20261108044500004",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "천안 시티 fc 대 부산 아이파크 순위",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQECU1_YlqqQ_tilv7FLdxDuULXjFKt8l825JuFsUbpHHOy7Xum9pjdY7neSZg",
+      "keyword": "철도망",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T12:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxTYPEOaXEbQuN47_hzRq-qu_RqdOAE1xnqS_jqxZ5z0ONG6gIbeIKdyH4Coo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "10년 철도투자 청사진 ‘제5차 철도망’ 윤곽…노선 경쟁 막 오른다",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081342521000099",
+          "source": "대한경제"
+        },
+        {
+          "title": "국토부, ‘제5차 국가철도망 구축계획’ 국민 의견 듣는다",
+          "url": "https://www.kyeonggi.com/article/20261108580061",
+          "source": "경기일보"
+        },
+        {
+          "title": "부울경, “동남권 광역 철도망 확충은 30분 생활권 완성에 꼭 필요”",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261108.99099002153",
+          "source": "국제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "제주항공",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T12:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuJOSXkT8FVD7vXjn8Vs_ubbdXfX-Cfh4AlwNehxCmkOgQNoruDcuGlQ4R8l0",
       "category": "기타",
       "news": [
         {
-          "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859426",
-          "source": "뉴시스"
+          "title": "[단독] 진에어, 새 부사장에 대한항공 출신 이진호 선임…통합 LCC 출범 앞두고 조직 정비",
+          "url": "https://www.etoday.co.kr/news/view/2645248",
+          "source": "이투데이"
         },
         {
-          "title": "부산아이파크, 천안에 0-1패",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026110816483170775",
-          "source": "부산일보"
+          "title": "[리포트 브리핑]진에어, '통합 이후 경쟁력 강화 기대' 목표가 7,500원 - 유안타증권",
+          "url": "https://www.newspim.com/news/view/20261106001022",
+          "source": "뉴스핌"
         },
         {
-          "title": "천안 이화병원, 8일 천안시티FC와 ‘브랜드데이’ 개최 > 뉴스",
-          "url": "https://www.icj.kr/news/57908",
-          "source": "천안신문"
+          "title": "[통합 진에어 카운트다운]④ 출범 넉달 앞 '선장' 잃은 진에어",
+          "url": "https://v.daum.net/v/9wnys6nQNx",
+          "source": "Daum"
         }
       ]
     },
@@ -222,34 +221,34 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "1시간에 불꽃 8만발 터진 광안리해수욕장···부산시 예상 넘어 120만 명 몰렸다",
-          "url": "https://www.khan.co.kr/article/202611081000011",
-          "source": "경향신문"
+          "title": "\"암표 20만원에 범칙금 고작\"…여전한 불법 상행위에 시민들 '분통'",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859370",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "파주 대 충남 아산 fc",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T08:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpb7WE_p9Jrab6YAO68Cyz57MVqeIShEidelmu_WpWsxTKZ7JDtAoVo8DnAKQ",
-      "category": "스포츠",
+      "keyword": "박한이",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T10:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAj-3hKNJqODrt63rQwCOswL-T8_XxMqiYn_8lQCZVIbpFml2V-luVyjgGhQ",
+      "category": "기타",
       "news": [
         {
-          "title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709",
-          "source": "충청매일"
+          "title": "[포토] 디아즈, 어쩌다 타격감 상 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110817500911158",
+          "source": "머니투데이"
         },
         {
-          "title": "‘헤더 동점골’ 파주 유재준, “이승우·포든 보며 배워” 축구는 신장이 아닌 심장으로 [케터뷰]",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216629",
-          "source": "풋볼리스트"
+          "title": "[사진]부상으로 실려나가는 권동진",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/08/MEYDONZSMJQTIOLDMIZDIZJTGY/",
+          "source": "조선일보"
         },
         {
-          "title": "'시즌 첫 선발' 김포 윤재운 \"6위 화성의 패배+공격수로 선발? 동기부여가 생기네요\"",
-          "url": "http://www.sports-g.com/news/articleView.html?idxno=217082",
-          "source": "스포츠니어스"
+          "title": "'좌타 라인 무섭네' 삼성, 3회 2사 후 구자욱-디아즈-최형우-김영웅 4연속 안타 폭발...3-1 역전 [KS5]",
+          "url": "https://www.osen.co.kr/article/G1112906427",
+          "source": "OSEN"
         }
       ]
     }
