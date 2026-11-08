@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:29:50.242Z",
+  "updatedAt": "2026-11-08T21:30:00.598Z",
   "summary": [
     {
       "category": "스포츠",
@@ -7,22 +7,22 @@
     },
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 2
+      "count": 4
     },
     {
       "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "아틀레티코 대 바르셀로나",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-08T19:10:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZqBPpQFZwFV4zPwbW47QmFdscEJHLk1iwG9t-3OExUJwk9lPsDWs6wey67s",
       "category": "스포츠",
@@ -38,234 +38,234 @@
           "source": "머니투데이"
         },
         {
-          "title": "[라리가] 이강인, 9일 바르샤전 알바레스와 투톱 선발 예고",
-          "url": "https://www.newspim.com/news/view/20261108000003",
-          "source": "뉴스핌"
+          "title": "이강인vs야말 맞대결 성사! 아틀레티코, 바르셀로나전 이강인·알바레스 투톱 출격",
+          "url": "https://www.mk.co.kr/news/sports/12201976",
+          "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "베식타시 대 겐칠레르빌리이",
+      "keyword": "액화천연가스",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-08T20:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbeA2klSpOn3nvrwkjwtS-FNwZB4T-F3RXwoFiYEBFGiTQOgwjZyOHf_dfc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월",
+          "url": "https://www.yna.co.kr/view/AKR20261107049200003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "3300억 한국 '효자 제품' 어쩌나…中 추월에 '공포 확산'",
+          "url": "https://www.hankyung.com/article/2026110832581",
+          "source": "한국경제"
+        },
+        {
+          "title": "美 규제 멈칫하자 … 中, 선박수주 77% 독식",
+          "url": "https://www.mk.co.kr/news/business/12201904",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "김도영",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-08T17:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "startedAt": "2026-11-08T20:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTih2-5ey7VErtPOysWj-IsAAl3EopHuEKHhvLCQFcuLyuuI--7MQ1e6jT-l7E",
       "category": "스포츠",
       "news": [
         {
-          "title": "Beşiktaş vs Gençlerbirliği: Turkish Süper Lig stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c674pkj0n28wt",
-          "source": "BBC"
+          "title": "“김도영 파워, MLB에서도 통한다” MLB가 이렇게 낙관한 타자 있었나… 美에서도 커져가는 신드롬",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018468",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "Licensable picture: Ahead of Genclerbirligi v Besiktas - Turkish Super Lig",
-          "url": "https://www.reutersconnect.com/item/ahead-of-genclerbirligi-v-besiktas-turkish-super-lig/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwRFJWNjZK",
-          "source": "Reuters Connect"
+          "title": "'벌써' KIA 슈퍼스타 최소 1400억 꽃길 예고…美 \"곧 대형 계약 가능, 파워 ML도 통한다\"",
+          "url": "https://www.sportschosun.com/baseball/2026-11-08/202611080100053240005256",
+          "source": "스포츠조선"
         },
         {
-          "title": "Beşiktaş vs Gençlerbirliği live: TV coverage, live stream and kick-off time",
-          "url": "https://www.goal.com/en/news/watch-besiktas-vs-genclerbirligi-live-today-who-is-showing-or-streaming-the-match-on-tv-and-online/blt78b790689d0be683",
-          "source": "Goal.com"
+          "title": "“김도영 충분한 파워와 스피드, 그러나…” 美낙관과 우려, 유격수 45홈런이면 ML 몸값 폭등? 1억달러 깔고 간다",
+          "url": "https://mydaily.co.kr/page/view/2026110817362808032",
+          "source": "마이데일리"
         }
       ]
     },
     {
-      "keyword": "압구정동",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T18:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFYKkOfGRFS1wUAvy2dz1URwGOyl4jJxCZEfhDwnapsT71aVsmjsGvBJ8X60",
-      "category": "경제",
+      "keyword": "잠수함",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T19:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw",
+      "category": "기타",
       "news": [
         {
-          "title": "좀만 참을 걸…김동현 100억에 산 압구정현대, 80억대로",
-          "url": "https://www.munhwa.com/article/11628648",
-          "source": "문화일보"
+          "title": "속도 내는 핵잠 사업…연료 확보 ‘한·미 원자력협정’은 제자리",
+          "url": "https://www.khan.co.kr/article/202611082115005",
+          "source": "경향신문"
         },
         {
-          "title": "UFC파이터 김동현도 ‘주인 근저당’ … 100억 압구정아파트 절반 집주인 돈 빌려",
-          "url": "https://www.mk.co.kr/news/realestate/12196333",
-          "source": "매일경제"
+          "title": "[뉴스분석] 높아진 '핵잠수함, 농축·재처리 허들' 어떻게 넘어야 하나",
+          "url": "https://www.newspim.com/news/view/20261109000008",
+          "source": "뉴스핌"
         },
         {
-          "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미-핫!부동산]",
-          "url": "https://www.hankyung.com/article/2026103070927",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "프리미어리그 순위",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T18:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoviL7Xf5hZxAJeKwcN_CroQ_jrbnvbWyir9glycuXb7SUqX5mdm_g7ftwBLg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'7연승→3연패' 맨시티의 믿기 힘든 몰락...홈에서 골도 못 넣던 19위 노팅엄에 3실점 굴욕",
-          "url": "https://www.osen.co.kr/article/G1112906227",
-          "source": "OSEN"
-        },
-        {
-          "title": "도쿠, “포레스트 원정에서 스스로 어렵게 만들었다”",
-          "url": "https://kr.mancity.com/news/mens/doku-post-forest-reaction-pl-7-nov-63929682",
-          "source": "Manchester City FC"
-        },
-        {
-          "title": "[속보] ‘충격’ 현실···맨유 결국 ‘PL 18위 강등권’ 추락, 맨시티의 예상 못한 패배와 나비 효과, 빌라...",
-          "url": "https://sports.khan.co.kr/article/202611080508003",
-          "source": "스포츠경향"
+          "title": "협상의 벽 더 높아질 수도...트럼프 '참패' 후폭풍 우려 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611071934418657",
+          "source": "YTN"
         }
       ]
     },
     {
       "keyword": "사랑이 온다",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-08T19:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj25Fy83TCpu4HZx00V8HKYjBkVQ7hRkiPBNIEolO1cbGN6U_t3i2xX2Q9gA",
-      "category": "연예",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnEDTF2p6Fh3MatdtKT0cos7rUtRg0mEqIWOpMll-VY-TFT_daIOVA9FOY9-w",
+      "category": "기타",
       "news": [
         {
-          "title": "[솔직 엔딩] ＂우리 그냥 의절하면 안 돼?＂안희연 앞에서 속마음을 토로하는 배윤규 [사랑이 온다] | KBS 261108 방송",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026191031-01-000_MFSC13&program_code=T2026-0039&program_id=PS-2026191031-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798",
-          "source": "대한민국 대표 공영미디어 KBS"
-        },
-        {
-          "title": "‘사랑이 온다’ 배윤규, 혼인신고 직전 날벼락",
-          "url": "https://sports.khan.co.kr/article/202611081646003",
+          "title": "‘사랑이 온다’ 진경, 하석진 향한 광기 폭발… 류승수 위로에 결국 ‘눈물’ 쏟았다",
+          "url": "https://sports.khan.co.kr/article/202611072149003",
           "source": "스포츠경향"
         },
         {
-          "title": "안희연, 배윤규 제비 과거 알게 되 충격...류승수, \"차라리 모르는게 나아\"",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=779951",
-          "source": "싱글리스트"
+          "title": "[사랑이 온다] 하석진, 회피 루트 타려는 배윤규에 현실 조언 “네가 갔던 길에 대한 대가는 치러야지”",
+          "url": "https://kstar.kbs.co.kr/list_view.html?idx=414228",
+          "source": "KBS연예"
+        },
+        {
+          "title": "'사랑이 온다' 시청률 14.7% 동시간대 1위 수성",
+          "url": "https://enter.etoday.co.kr/news/view/304914",
+          "source": "비즈엔터"
         }
       ]
     },
     {
-      "keyword": "f1",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T18:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLQ6YVvP6tht6q5sCVdSP9y3uD6VuNNs897tMpmKc6VXgx6G6WlJhQ7JQYfvc",
-      "category": "기타",
+      "keyword": "뉴진스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T20:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgC0O_js4mnXrcELlVZWK3FCBvi4rW1JzcMnT-rOG-wEX8t9-0mf66YqOmobw",
+      "category": "연예",
       "news": [
         {
-          "title": "F1 LIVE: Sao Paulo Grand Prix 2026 reaction & result as Norris wins in Interlagos",
-          "url": "https://www.bbc.com/sport/formula1/live/ckge0zygre7t",
-          "source": "BBC"
+          "title": "330억 소송에도 각별한 뉴진스…하니·다니엘 얼굴 맞댔다",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859383",
+          "source": "뉴시스"
         },
         {
-          "title": "2026 Brazilian Grand Prix race result and championship points",
-          "url": "https://www.racefans.net/2026/11/08/2026-brazilian-grand-prix-race-result-and-championship-points/",
-          "source": "RaceFans"
-        },
-        {
-          "title": "Proud and overwhelmed: Toto Wolff celebrates 9th Constructors’ title with Mercedes",
-          "url": "https://www.speedweek.com/en/a/formula-1/toto-wolff-celebrates-mercedes-ninth-constructors-title",
-          "source": "SPEEDWEEK.com"
-        }
-      ]
-    },
-    {
-      "keyword": "แมนยู พบ แอสตันวิลลา",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T16:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFTrwThhv_8a9RLT7wTvsRcKJ750BKVYJr6y9oCpnTHw5GwvC33ocq67B9vbU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "แมนเชสเตอร์ ยูไนเต็ด อยู่ในโซนตกชั้นก่อนเริ่มการแข่งขัน",
-          "url": "https://www.vietnam.vn/th/man-united-vao-nhom-xuong-hang-truoc-gio-bong-lan",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "ฟื้นจากความพ่ายแพ้ แมนยู ไล่เจ๊า แอสตัน วิลลา สุดมัน - ขยับขึ้นมาอยู่อันดับ 18 พรีเมียร์ลีก",
-          "url": "https://www.khaosod.co.th/sports/news_10465323",
-          "source": "ข่าวสด"
-        },
-        {
-          "title": "จากใจคู่อริ!! \"เจอร์ราร์ด\" ชี้ปัญหาที่แท้จริงของ \"ผีแดง\" คือนักเตะไม่ใช่โค้ช",
-          "url": "https://www.dailynews.co.th/news/6341732/",
-          "source": "เดลินิวส์"
-        }
-      ]
-    },
-    {
-      "keyword": "닥터x 10화",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T18:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStVz9-CvaFjIHn1lPdFRdt0lIHIgxs7OTWmbXW-iBbvioi-kKPtW6kt4Pwjpg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[다시보기] 닥터X : 하얀 마피아의 시대 10회",
-          "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000639451",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "‘닥터X’ 김지원, 기적의 수술 성공...20.2% 찍었다",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12201597",
+          "title": "‘뉴진스 퇴출’ 다니엘, 하니와 마라톤 행사서 포착",
+          "url": "https://www.mk.co.kr/news/hot-issues/12201681",
           "source": "매일경제"
         },
         {
-          "title": "'닥터X' 김영민, \"무능하니까\" 반전 진심...알고 보니 '참 좋은 도교수' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110810057282585",
-          "source": "머니투데이"
+          "title": "뉴진스 하니·다니엘, 국내서 다시 뭉쳤다…어도어 분쟁 속 선행 꾸준",
+          "url": "https://sports.khan.co.kr/article/202611080857003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "sc 프라이부르크 대 우니온 베를린",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T17:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "keyword": "atlético vs barcelona",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T20:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgH1W_6MsC8LnZXRW7TuSrQWysSiZXj1xwbs1fcA9MSgQWdp0_q_p7UGlZGJo",
       "category": "스포츠",
       "news": [
         {
-          "title": "Freiburg vs Union Berlin: German Bundesliga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cwdd8v7renyqt",
-          "source": "BBC"
+          "title": "Atlético de Madrid - Barcelona en directo, La Liga en vivo | Fermín empata el partido antes del descanso",
+          "url": "https://elpais.com/deportes/futbol/2026-11-08/atletico-de-madrid-barcelona-en-directo-la-liga-en-vivo.html",
+          "source": "EL PAÍS"
         },
         {
-          "title": "Freiburg third after beating Union, Leverkusen beat Cologne in derby",
-          "url": "https://uk.sports.yahoo.com/news/garcia-schick-leverkusen-derby-win-163836266.html",
+          "title": "«Imitó su baile»: Griezmann reacciona con entusiasmo al gol de Giuliano Simeone en la portería del Barcelona",
+          "url": "https://es-us.noticias.yahoo.com/deportes/imit%C3%B3-baile-griezmann-reacciona-entusiasmo-205907165.html",
           "source": "Yahoo"
         },
         {
-          "title": "Freiburg vs Union Berlin Predictions & Bet Builder Tips: Schuster’s men win at home again",
-          "url": "https://www.goal.com/en-gb/betting/tips/freiburg-vs-union-berlin-predictions-08-11-2026/A%3Ablt6dd1965831492720",
-          "source": "Goal.com"
+          "title": "XI Oficial: Kang-in Lee acompaña a Julián en la punta de ataque",
+          "url": "https://onefootball.com/es/noticias/xi-oficial-kang-in-lee-acompana-a-julian-en-la-punta-de-ataque-43747996",
+          "source": "OneFootball"
         }
       ]
     },
     {
-      "keyword": "빗썸",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T17:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJLyFQGqUjMEDOs37QDoDTJxGc28O0LFCbn7mgxdUvB94GQWXBcUuHtw67uz8",
-      "category": "경제",
+      "keyword": "thứ hạng của man utd gặp aston villa",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T20:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyYQ4ZOEL2hAC4at0xY03IDriufSHRpYl0JlJI0WrL65VhpV29mT48a_PJXA8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "24시간 거래되는 가상자산 맞춰 연중무휴 상담",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/IZUSQSGMHJAWJLL7GYJRXC5PZE/",
+          "title": "'Lại là nhục nhã cho Man Utd' Kỳ tích hòa 4-4 nhưng vẫn ở vị trí xuống hạng 18... 'Mất 2 bàn trong 3 phút 42 giây' Kỷ lục buồn nhất lịch sử EPL của câu lạc bộ",
+          "url": "https://www.starnewskorea.com/vi/sports/2026/11/09/2026110904123635758",
+          "source": "스타뉴스"
+        },
+        {
+          "title": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
+          "url": "https://yeuthethao.net.vn/man-united-0-0-aston-villa-bruno-fernandes-va-matheus-cunha-da-chinh-d901731.html",
+          "source": "yeuthethao.net.vn"
+        },
+        {
+          "title": "Man Utd thoát hiểm khó tin ở Ngoại hạng Anh",
+          "url": "https://vnexpress.net/man-utd-thoat-hiem-kho-tin-o-ngoai-hang-anh-5142238.html",
+          "source": "VnExpress"
+        }
+      ]
+    },
+    {
+      "keyword": "사관학교",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T20:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkrSmAYGvfimWSmqs3MP_bgUzUVQXY3hys27gFn2iRApfjQaoAqMdY33xtr4o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "해사 이전 반대…“통합 철회·사업비 공개해야”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706270",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[단독] 전면 통합 대신… 사관학교 분리·통합 병행 검토",
+          "url": "https://m.go.seoul.co.kr/news/politics/2026/11/09/20261109001002",
+          "source": "서울Pn"
+        },
+        {
+          "title": "진해시민 \"80년 역사 해군사관학교 지켜내자\"",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598186",
+          "source": "경남매일"
+        }
+      ]
+    },
+    {
+      "keyword": "현금",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T19:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_plWvQTKPL6oPVzjjlqHeYAiG5AKBeT-0jWZeYnOYFlJ0sDDsjfXjG8IhP7c",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "삼성전자 현금 보유액 200조원 돌파... 하루 2700억원씩 늘어",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/08/P6W2K5K3DNEO3MEA4O5EJ7PX3U/",
           "source": "조선일보"
         },
         {
-          "title": "빗썸, '24시간 상담·AI 서비스' 강화…고객만족도·브랜드 평가 호평",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422212",
-          "source": "데일리한국"
+          "title": "“삼성전자에 돈이 이렇게 많았나”...주주에게 풀 돈도 ‘역대급’",
+          "url": "https://m.ekn.kr/view.php?key=20261108020146772",
+          "source": "에너지경제신문"
         },
         {
-          "title": "가상자산업계 잇단 해킹에…금융당국, 보안 책임자 소집",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706906",
-          "source": "KBS 뉴스"
+          "title": "‘200조’ 역대급 현금 쌓은 삼성… 반도체 증설로 시장지배력 ‘업’",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003001",
+          "source": "아시아투데이"
         }
       ]
     }
