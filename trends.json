@@ -1,13 +1,9 @@
 {
-  "updatedAt": "2026-11-08T11:30:15.201Z",
+  "updatedAt": "2026-11-08T12:39:29.769Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "count": 7
     },
     {
       "category": "경제",
@@ -15,6 +11,10 @@
     },
     {
       "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
@@ -74,9 +74,14 @@
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-08T09:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF89krKgOJv5Xse0uq6k6W38-b9jse5ZxrWI7BDmSw4A4TXlvJR88w66KCv80",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YvVzH4HoK5O-mA_LEZt8SX3Rb8l_5WlmDIV8MYjFmb10ScWjCNy5dFEE55M",
       "category": "기타",
       "news": [
+        {
+          "title": "내년에 25조 쏟아붓는 기초연금…생계급여 깎여 노인빈곤 개선 '헛바퀴'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01908966645643752&mediaCodeNo=257",
+          "source": "이데일리"
+        },
         {
           "title": "“연금 오르면 뭐하나”…생계급여 삭감에 빈곤노인 78만명은 답보 상태",
           "url": "https://www.segye.com/newsView/20261108504769",
@@ -86,11 +91,6 @@
           "title": "기초연금 3만원 더 받는 저소득층, 생계급여 삭감…인상 효과 미미",
           "url": "https://www.donga.com/news/Society/article/all/20261108/134985262/1",
           "source": "동아일보"
-        },
-        {
-          "title": "“기초연금 인상분만큼 생계급여 삭감”…연금 개편에도 빈곤노인 소득은 그대로",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002778",
-          "source": "아시아투데이"
         }
       ]
     },
@@ -99,23 +99,48 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-08T09:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThEa0t79w-ks7IRfnB8jeuGVbp5Akmpuq9yoYr98eow3QBraqY3-yJXBOSsYI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTN2k6SNHyyoH5oVzFx4DXjlJnobgaTmHWKwRLU3uO3923Vk-pYtaq1PvWIU8Q",
       "category": "기타",
       "news": [
-        {
-          "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=846466",
-          "source": "제민일보"
-        },
         {
           "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
           "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561",
           "source": "YTN"
         },
         {
-          "title": "\"시간표 맞춰 실전감각 유지…EBS 연계교재· 취약 영역 개념 정리\"",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6346041",
+          "title": "수험생 가족의 촛불 공양",
+          "url": "https://www.news1.kr/photos/8203052",
           "source": "뉴스1"
+        },
+        {
+          "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=846466",
+          "source": "제민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "최해천 교수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T11:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDBYcwsi-qnrxbYizNfuxKEOocAEvKufCFarXRfD4PPY0DvVOd_lk0_StYovk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
+          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "[속보]서울대 총장 최종후보자 최해천 공과대학 교수",
+          "url": "https://www.khan.co.kr/article/202611081813001",
+          "source": "경향신문"
+        },
+        {
+          "title": "서울대 이사회, 29대 총장 최종후보 최해천 석좌교수 선출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706950",
+          "source": "KBS 뉴스"
         }
       ]
     },
@@ -125,7 +150,7 @@
       "trafficValue": 500,
       "startedAt": "2026-11-08T08:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQECU1_YlqqQ_tilv7FLdxDuULXjFKt8l825JuFsUbpHHOy7Xum9pjdY7neSZg",
-      "category": "스포츠",
+      "category": "기타",
       "news": [
         {
           "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
@@ -133,39 +158,14 @@
           "source": "뉴시스"
         },
         {
-          "title": "천안시티 박진섭 감독 \"잘 버텨준 선수들에게 감사\"",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859443",
-          "source": "뉴시스"
-        },
-        {
           "title": "부산아이파크, 천안에 0-1패",
           "url": "https://www.busan.com/view/busan/view.php?code=2026110816483170775",
           "source": "부산일보"
-        }
-      ]
-    },
-    {
-      "keyword": "최해천",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T10:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT-sYjiFTabd6jE8Md26AayLFkMeeaA8Yt-wR0awsQwX2k2Cbuq-cQkJZKCJc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "차기 서울대 총장에 최해천 기계공학부 교수",
-          "url": "https://www.chosun.com/national/national_general/2026/11/08/3R5JJK6GPJBH5OQCKJELN67FDQ/",
-          "source": "조선일보"
         },
         {
-          "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
-          "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "서울대 총장 최종후보자에 최해천 기계공학부 석좌교수",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864059_36918.html",
-          "source": "MBC 뉴스"
+          "title": "천안 이화병원, 8일 천안시티FC와 ‘브랜드데이’ 개최 > 뉴스",
+          "url": "https://www.icj.kr/news/57908",
+          "source": "천안신문"
         }
       ]
     },
@@ -174,23 +174,32 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-08T10:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ25LSrNaYDrQ2GzcDeJ_yA04LtHJFKUKWOYk7YctbtxDDciVmG1VnGXURaBBo",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "wec",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T10:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM3ZCWGbZz8eKdPqTa6iF9J3MQMdck4xkPXuJmuTXcw9SnGgtUByc2rElgMN4",
       "category": "기타",
       "news": [
         {
-          "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
-          "url": "https://www.segye.com/newsView/20261106501275",
-          "source": "세계일보"
+          "title": "Fuoco puts Ferrari on pole at Monza",
+          "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
+          "source": "WEC"
         },
         {
-          "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
-          "source": "머니투데이"
+          "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
+          "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/",
+          "source": "Grande Prêmio"
         },
         {
-          "title": "\"예쁜 얼굴 다 망가졌다\" 김세레나, 파라핀 성형 부작용 고백 [헬스톡]",
-          "url": "https://www.fnnews.com/news/202611061948054807",
-          "source": "파이낸셜뉴스"
+          "title": "The Headlines from FP3 at Monza",
+          "url": "https://www.fiawec.com/en/news/the-headlines-from-fp3-at-monza/13926",
+          "source": "WEC"
         }
       ]
     },
@@ -241,31 +250,6 @@
           "title": "'시즌 첫 선발' 김포 윤재운 \"6위 화성의 패배+공격수로 선발? 동기부여가 생기네요\"",
           "url": "http://www.sports-g.com/news/articleView.html?idxno=217082",
           "source": "스포츠니어스"
-        }
-      ]
-    },
-    {
-      "keyword": "wec",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T10:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM3ZCWGbZz8eKdPqTa6iF9J3MQMdck4xkPXuJmuTXcw9SnGgtUByc2rElgMN4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Fuoco puts Ferrari on pole at Monza",
-          "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
-          "source": "WEC"
-        },
-        {
-          "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
-          "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/",
-          "source": "Grande Prêmio"
-        },
-        {
-          "title": "The Headlines from FP3 at Monza",
-          "url": "https://www.fiawec.com/en/news/the-headlines-from-fp3-at-monza/13926",
-          "source": "WEC"
         }
       ]
     }
