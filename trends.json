@@ -1,16 +1,20 @@
 {
-  "updatedAt": "2026-11-08T02:44:43.030Z",
+  "updatedAt": "2026-11-08T03:46:28.258Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 2
     },
     {
       "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
@@ -20,107 +24,173 @@
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-08T01:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiMF2uMqR6uHS2xa5YiHMv3zjWzKIiD9zsQx-c-SOCUqNmpR3PVV3T6_XpRoQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "가상자산업계 잇단 해킹에…금융당국, 보안 책임자 소집",
-          "url": "https://www.yna.co.kr/view/AKR20261107044200002",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "\"AI 날개 단 북한 해커들 기가 막히네\"…1조8700억 털어간 소름 돋는 수법[시사쇼]",
-          "url": "https://view.asiae.co.kr/article/2026110808092315966",
-          "source": "아시아경제"
-        },
-        {
-          "title": "닉 칼슨 “북한, ‘가상화폐 절도’ 주요 외화 수입…미한 정부 대응 필요”",
-          "url": "https://www.voakorea.com/a/8219838.html",
-          "source": "VOA 한국어 홈페이지"
-        }
-      ]
-    },
-    {
-      "keyword": "인구감소지역",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T00:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGuQOzK1HQgmNiUS-7VTlEMc96P9H14S5ugRZ0mSBOw6mYigVypHTEGsCw3p0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "경남 인구감소지역 11곳, 등록 인구↓·체류 인구↑",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706757",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "공주에 무슨 일?… 생활인구 14만명 늘며 전국 2위 도약",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856782",
-          "source": "뉴시스"
-        },
-        {
-          "title": "사람은 많이 오는데 “여기서 살 생각은 없어요”…인구감소 ‘경남의 역설’",
-          "url": "https://www.mk.co.kr/news/society/12201563",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "이자",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T00:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKqHU8Q-9hRPvo8HmGxx1KvQksf4Lph7iRT-QC1hM1HwZxD-T96LqZXExhiA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm8AOR3o7dMkE0PtkHeRk9xMnkJw3FHOzGMW067W2FNVle0Tn7liRZwPOw2os",
       "category": "경제",
       "news": [
         {
-          "title": "금융위, 햇살론 2천500억원 등 '포용금융' 예산 증액 추진",
-          "url": "https://www.yna.co.kr/view/AKR20261107040900002",
+          "title": "디지털자산법 이달 발표…대주주 지분규제 이행기간 부여 가닥",
+          "url": "https://www.yna.co.kr/view/AKR20261107033100002",
           "source": "연합뉴스"
         },
         {
-          "title": "금융위, 햇살론 예산 2455억원 증액 추진…취약계층 이자 부담 낮춘다",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/11/08/HE3GGMZUGU3TGNJQMVSTSYLBMQ/",
-          "source": "Chosunbiz"
+          "title": "“스테이블코인법에 AI 담아야”…靑 수석이 남긴 화두",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01531766645643752",
+          "source": "마켓인"
         },
         {
-          "title": "“빚 갚으면 이자 환급” 금융위 파격 카드",
-          "url": "https://magazine.hankyung.com/business/article/202611082787b",
-          "source": "한경매거진"
+          "title": "이달 중 디지털자산기본법 공개… 대주주 지분 규제·스테이블 코인 발행 등 논의",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446848",
+          "source": "천지일보"
+        }
+      ]
+    },
+    {
+      "keyword": "미스 베트남",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T01:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSacK2gmBlcB08eyAootYqHQtI8RGYgYh1nCVFechErgvrAQY84Wl9CG3AL1dI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "2026년 미스 베트남에 하노이 소녀 Nguyen Yen Trang이 선정되었습니다.",
+          "url": "https://www.vietnam.vn/ko/co-gai-ha-noi-nguyen-yen-trang-dang-quang-hoa-hau-viet-nam-2026",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "새로운 미스 베트남 응우옌 짱(Nguyen Yen Trang)의 첫 걸음.",
+          "url": "https://www.vietnam.vn/ko/nhung-buoc-chan-dau-tien-cua-tan-hoa-hau-nguyen-yen-trang",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "응우옌 옌 짱,,,베트남 미인대회 2026 우승",
+          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84464",
+          "source": "굿모닝베트남미디어"
         }
       ]
     },
     {
       "keyword": "이다현",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-08T01:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk2yWy52bnfAz4woFd07qm--KpahuyrFhGDDNuLLGlQ74cwlDUfVd9UrIIfa4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약",
+          "url": "https://www.chosun.com/sports/volleyball/2026/11/08/MVSGKNBYMFRTGNRTHFQTIMJQGY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "이다현 '매치 포인트' 만든 블로킹 포함 10점 제몫…히로타 26점 NEC, 아란마레와 주말 2연전 첫날 승리",
+          "url": "https://mydaily.co.kr/page/view/2026110717402841925",
+          "source": "마이데일리"
+        },
+        {
+          "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/202611080103778569O",
+          "source": "머니투데이"
+        }
+      ]
     },
     {
-      "keyword": "blg t1",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T01:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC5CqgIcHbVn1g1xxlS9UsZGLQLer-LHzeUL9Cjx3yjzDP-ph1BcSqa811MLI",
+      "keyword": "장재인",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T01:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5GkEjKb-WzfmvWcuOqSzRG09beNMnzJAsUp5Movn5RFbSndW3P8Mb46Cvj6s",
       "category": "기타",
       "news": [
         {
-          "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
-          "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview",
-          "source": "Hotspawn"
+          "title": "장재인, 22세에 반신마비 진단…\"하루 2시간 자며 행사 뛰어\"",
+          "url": "https://www.newsis.com/view/NISX20261107_0003858922",
+          "source": "뉴시스"
         },
         {
-          "title": "Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-          "url": "https://sports.yahoo.com/articles/aews-claudio-castagnoli-calls-league-012456063.html",
-          "source": "Yahoo Sports"
+          "title": "\"기타 치는 게 두려웠어\" 장재인, '반신마비' 투병 당시 심경 전해",
+          "url": "https://www.nocutnews.co.kr/news/6603572",
+          "source": "노컷뉴스"
         },
         {
-          "title": "T1 Eliminate Karmine Corp, Face BLG in Worlds 2026 Semifinal",
-          "url": "https://rg.org/news/esports/t1-beat-karmine-corp-worlds-2026-quarterfinal-blg-semifinal",
-          "source": "RG.org"
+          "title": "‘슈스케’ 장재인, 22살에 반신마비 진단…“몸보다 정신이 문제였다”",
+          "url": "https://www.mk.co.kr/news/society/12201491",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "첫눈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T01:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNzJN5kyOKdBxg9scCEcercmnxkPBS9cbEfFhC-fAwNLgrc3kEXyr7vbX0bIU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[속보] 서울 올가을 첫눈 관측...지난해보다 26일 빨라",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611081107296640_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "서울에 첫 눈, 작년보다 26일 빨라",
+          "url": "https://www.chosun.com/national/transport-environment/2026/11/08/LXSOZ4JY5JFAHGC7L7ROZHNHAQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "밝은 표정으로 비오는 돌담길 걷는 외국인 관광객들",
+          "url": "https://www.news1.kr/photos/8202650",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "코리안투어",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T02:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8IvnynW78F9GPPLHo8ObBk-Igt10mQKoDUcmPihOtABX237TvYdXYc2BZk3I",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Hwang Jae-min Maintains Lead on Day Two of KPGA Tour Championship, Pursuing First Win at Age 40",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835433",
+          "source": "news.sbs.co.kr"
+        },
+        {
+          "title": "Scorecard Error Disqualifies Jang Yu-bin, Ends Prize Money Lead",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/06/TKN5DK6MHVFVNHJ7C6UVC7VDV4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "“Genesis Award Four-Way Race, and Park Sang-hyun’s Breakthrough of 6 Billion Won”: Who Will Be the King of Jeju to Close Out 2026? [KPGA]",
+          "url": "https://www.starnewskorea.com/en/sports/2026/11/03/2026110312104253923",
+          "source": "스타뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "루이바오",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T01:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT12v8pnnlEL7Rv30orN85r6n8fm7yyarHoR01ReCGnryBmxXsTHRvAckQTy8A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
+          "url": "https://www.kyeonggi.com/article/20261106580394",
+          "source": "경기일보"
+        },
+        {
+          "title": "쌍둥이 판다, 중국행 앞두고 용인 명예시민증 받아",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706067",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "용인특례시의회, 루이·후이바오에 ‘시민행복 감사장’ 전달",
+          "url": "https://www.metroseoul.co.kr/article/20261107500047",
+          "source": "메트로신문"
         }
       ]
     },
@@ -150,102 +220,52 @@
       ]
     },
     {
-      "keyword": "장재인",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T01:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5GkEjKb-WzfmvWcuOqSzRG09beNMnzJAsUp5Movn5RFbSndW3P8Mb46Cvj6s",
-      "category": "기타",
-      "news": [
-        {
-          "title": "장재인, 22세에 반신마비 진단…\"하루 2시간 자며 행사 뛰어\"",
-          "url": "https://www.newsis.com/view/NISX20261107_0003858922",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"기타 치는 게 두려웠어\" 장재인, '반신마비' 투병 당시 심경 전해",
-          "url": "https://www.nocutnews.co.kr/news/6603572",
-          "source": "노컷뉴스"
-        },
-        {
-          "title": "‘슈스케’ 장재인, 22살에 반신마비 진단…“몸보다 정신이 문제였다”",
-          "url": "https://www.mk.co.kr/news/society/12201491",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "첫눈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T01:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFP8QKlLw6rxf0mkTmsaCtYdsb36ZslYuomZ_1muHp6cdEcOOCls32aenHEbs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "오늘 서울 첫눈 관측…작년보다 26일 빨라",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859258",
-          "source": "뉴시스"
-        },
-        {
-          "title": "입동 이튿날, 서울에 첫눈…지난해보다 26일 빨라",
-          "url": "https://www.news1.kr/society/environment/6346682",
-          "source": "뉴스1"
-        },
-        {
-          "title": "오늘 서울 첫눈 관측…지난해보다 26일 일러",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108112456ttW",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
       "keyword": "미디어오늘",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-08T01:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTc1xTgWLgR6TrpN4JM049spXC9kxcG9Jo6fbm-9tfLWHSIc8UDC20d8B9Kgv0",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSp2QIlMMaRGB4A9XqXnwbYE_6cz2HPLvqy7uk9sVfnooQWT5ZO-zu6qgTymp4",
       "category": "정치·사회",
       "news": [
+        {
+          "title": "언론노조 위원장, “방미통위는 윤석열의 YTN장악 바로잡을 의지 있는가”",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338284",
+          "source": "미디어오늘"
+        },
         {
           "title": "언론노조, 국회서 'YTN 청문 지연' 방미통위 규탄 \"무책임\"",
           "url": "https://imnews.imbc.com/news/2026/politics/article/6863653_36911.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "유진 청문연기 “방미통위와 무관” 유체이탈에 쏟아진 비판",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338244",
-          "source": "미디어오늘"
-        },
-        {
-          "title": "전국언론노조, 방미통위 규탄…\"YTN 청문 절차 즉각 재개해야\"",
-          "url": "https://www.news1.kr/politics/assembly/6345687",
-          "source": "뉴스1"
+          "title": "유진ENT 2차 청문 내달 22일…방미통위 “독립된 주재자가 정한 것”",
+          "url": "https://news.jtbc.co.kr/article/NB12326587",
+          "source": "JTBC"
         }
       ]
     },
     {
-      "keyword": "루이바오",
+      "keyword": "blg t1",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-08T01:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT12v8pnnlEL7Rv30orN85r6n8fm7yyarHoR01ReCGnryBmxXsTHRvAckQTy8A",
+      "startedAt": "2026-11-08T01:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC5CqgIcHbVn1g1xxlS9UsZGLQLer-LHzeUL9Cjx3yjzDP-ph1BcSqa811MLI",
       "category": "기타",
       "news": [
         {
-          "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
-          "url": "https://www.kyeonggi.com/article/20261106580394",
-          "source": "경기일보"
+          "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
+          "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview",
+          "source": "Hotspawn"
         },
         {
-          "title": "쌍둥이 판다, 중국행 앞두고 용인 명예시민증 받아",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706067",
-          "source": "KBS 뉴스"
+          "title": "Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
+          "url": "https://sports.yahoo.com/articles/aews-claudio-castagnoli-calls-league-012456063.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "용인특례시의회, 루이·후이바오에 ‘시민행복 감사장’ 전달",
-          "url": "https://www.metroseoul.co.kr/article/20261107500047",
-          "source": "메트로신문"
+          "title": "T1 Eliminate Karmine Corp, Face BLG in Worlds 2026 Semifinal",
+          "url": "https://rg.org/news/esports/t1-beat-karmine-corp-worlds-2026-quarterfinal-blg-semifinal",
+          "source": "RG.org"
         }
       ]
     }
