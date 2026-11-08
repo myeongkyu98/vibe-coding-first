@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T03:46:28.258Z",
+  "updatedAt": "2026-11-08T04:46:17.375Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
     },
     {
-      "category": "스포츠",
+      "category": "정치·사회",
       "count": 2
     },
     {
@@ -14,191 +14,116 @@
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "자산",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-08T01:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm8AOR3o7dMkE0PtkHeRk9xMnkJw3FHOzGMW067W2FNVle0Tn7liRZwPOw2os",
-      "category": "경제",
+      "keyword": "상속세",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-08T03:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSmyXqtbpkV3g5yEJwP83lKG49cnk2JAMb_slzBZWMp4Uv_oTjuTP2Z-qahBU",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "디지털자산법 이달 발표…대주주 지분규제 이행기간 부여 가닥",
-          "url": "https://www.yna.co.kr/view/AKR20261107033100002",
-          "source": "연합뉴스"
+          "title": "상속세 0원이라던 국세청, 또 세무조사해 “12억 내라”…법원 판결은[세금GO]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01128326645643752&mediaCodeNo=257",
+          "source": "이데일리"
         },
         {
-          "title": "“스테이블코인법에 AI 담아야”…靑 수석이 남긴 화두",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01531766645643752",
-          "source": "마켓인"
+          "title": "산은이 한진칼 지분 '경쟁입찰'로 일개 건설사를 도와줄 이유가 있나",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/05/2026110580030.html",
+          "source": "인베스트조선"
         },
         {
-          "title": "이달 중 디지털자산기본법 공개… 대주주 지분 규제·스테이블 코인 발행 등 논의",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3446848",
-          "source": "천지일보"
+          "title": "‘한진칼 최대 주주’ 호반…실제 인수는 불가능한 이유",
+          "url": "https://www.ekn.kr/web/view.php?key=20261108029126753",
+          "source": "에너지경제신문"
         }
       ]
     },
     {
-      "keyword": "미스 베트남",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T01:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSacK2gmBlcB08eyAootYqHQtI8RGYgYh1nCVFechErgvrAQY84Wl9CG3AL1dI",
-      "category": "스포츠",
+      "keyword": "지수",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-08T03:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9phuUb3PAvLI4t3SZLhsgRJLVR1JEIOwWj_YMwNZRfJM7HmA_bspkolt_9PQ",
+      "category": "기타",
       "news": [
         {
-          "title": "2026년 미스 베트남에 하노이 소녀 Nguyen Yen Trang이 선정되었습니다.",
-          "url": "https://www.vietnam.vn/ko/co-gai-ha-noi-nguyen-yen-trang-dang-quang-hoa-hau-viet-nam-2026",
-          "source": "Vietnam.vn"
+          "title": "블핑 지수, 맵부심 어느 정도길래..셰프들 시식 포기 \"가장 매운 단계 떡볶이·돈가스 먹어\"(냉부해)",
+          "url": "https://www.osen.co.kr/article/G1112906244",
+          "source": "OSEN"
         },
         {
-          "title": "새로운 미스 베트남 응우옌 짱(Nguyen Yen Trang)의 첫 걸음.",
-          "url": "https://www.vietnam.vn/ko/nhung-buoc-chan-dau-tien-cua-tan-hoa-hau-nguyen-yen-trang",
-          "source": "Vietnam.vn"
+          "title": "블랙핑크 지수, 냉장고 최초 공개…“비상, 비상” (냉부)",
+          "url": "https://sports.donga.com/ent/article/all/20261108/134984298/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "응우옌 옌 짱,,,베트남 미인대회 2026 우승",
-          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84464",
-          "source": "굿모닝베트남미디어"
+          "title": "블랙핑크 지수+에이티즈 산X우영, 첫 만남 공개 (냉부)",
+          "url": "https://sports.khan.co.kr/article/202611080932023",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "이다현",
+      "keyword": "임창정",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-08T01:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk2yWy52bnfAz4woFd07qm--KpahuyrFhGDDNuLLGlQ74cwlDUfVd9UrIIfa4",
-      "category": "스포츠",
+      "startedAt": "2026-11-08T03:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBIspBSeel_U7P9eZn7rPH080i9jZm5Uwd88v-AWpOAGoHOmPtZefQGt7QUw",
+      "category": "기타",
       "news": [
         {
-          "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약",
-          "url": "https://www.chosun.com/sports/volleyball/2026/11/08/MVSGKNBYMFRTGNRTHFQTIMJQGY/",
+          "title": "'서하얀♥' 임창정, 4년 만에 큰 결단..'전국노래자랑' 등판",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/06/HBQWMYZVGQ3WGMDFGI2GGMZTMI/",
           "source": "조선일보"
         },
         {
-          "title": "이다현 '매치 포인트' 만든 블로킹 포함 10점 제몫…히로타 26점 NEC, 아란마레와 주말 2연전 첫날 승리",
-          "url": "https://mydaily.co.kr/page/view/2026110717402841925",
-          "source": "마이데일리"
+          "title": "'전국노래자랑' 김용빈·임창정·김용임·김유라·손희주, 축하 무대",
+          "url": "https://enter.etoday.co.kr/news/view/304911",
+          "source": "비즈엔터"
         },
         {
-          "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/202611080103778569O",
+          "title": "\"4년 만에 전국노래자랑 등판\"… 임창정 '소주 한 잔'·'탓탓탓' 열창",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3745439",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "이종석",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T03:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD5flKHLaGInDHvKo_YWklU25KKhb8qdIEUtPe6pHpLAkBTY3W5yb4MtF7jhU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "이종석, 43억에 산 한남동 빌라 10년새 200억…'630억 자산가'의 남다른 부동산 재테크",
+          "url": "https://www.newsis.com/view/NISX20261107_0003859046",
+          "source": "뉴시스"
+        },
+        {
+          "title": "43억에 샀는데 지금은 200억…이종석만 웃은 게 아니다",
+          "url": "https://www.ajunews.com/view/20261108125103394",
+          "source": "아주경제"
+        },
+        {
+          "title": "이종석, 부동산 자산만 600억대…43억에 산 빌라 지금 200억 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/08/2026110810294110272",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "장재인",
+      "keyword": "lng선",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-08T01:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5GkEjKb-WzfmvWcuOqSzRG09beNMnzJAsUp5Movn5RFbSndW3P8Mb46Cvj6s",
-      "category": "기타",
-      "news": [
-        {
-          "title": "장재인, 22세에 반신마비 진단…\"하루 2시간 자며 행사 뛰어\"",
-          "url": "https://www.newsis.com/view/NISX20261107_0003858922",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"기타 치는 게 두려웠어\" 장재인, '반신마비' 투병 당시 심경 전해",
-          "url": "https://www.nocutnews.co.kr/news/6603572",
-          "source": "노컷뉴스"
-        },
-        {
-          "title": "‘슈스케’ 장재인, 22살에 반신마비 진단…“몸보다 정신이 문제였다”",
-          "url": "https://www.mk.co.kr/news/society/12201491",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "첫눈",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T01:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNzJN5kyOKdBxg9scCEcercmnxkPBS9cbEfFhC-fAwNLgrc3kEXyr7vbX0bIU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[속보] 서울 올가을 첫눈 관측...지난해보다 26일 빨라",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611081107296640_005.html",
-          "source": "YTN"
-        },
-        {
-          "title": "서울에 첫 눈, 작년보다 26일 빨라",
-          "url": "https://www.chosun.com/national/transport-environment/2026/11/08/LXSOZ4JY5JFAHGC7L7ROZHNHAQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "밝은 표정으로 비오는 돌담길 걷는 외국인 관광객들",
-          "url": "https://www.news1.kr/photos/8202650",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "코리안투어",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T02:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8IvnynW78F9GPPLHo8ObBk-Igt10mQKoDUcmPihOtABX237TvYdXYc2BZk3I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Hwang Jae-min Maintains Lead on Day Two of KPGA Tour Championship, Pursuing First Win at Age 40",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835433",
-          "source": "news.sbs.co.kr"
-        },
-        {
-          "title": "Scorecard Error Disqualifies Jang Yu-bin, Ends Prize Money Lead",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/06/TKN5DK6MHVFVNHJ7C6UVC7VDV4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "“Genesis Award Four-Way Race, and Park Sang-hyun’s Breakthrough of 6 Billion Won”: Who Will Be the King of Jeju to Close Out 2026? [KPGA]",
-          "url": "https://www.starnewskorea.com/en/sports/2026/11/03/2026110312104253923",
-          "source": "스타뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "루이바오",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T01:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT12v8pnnlEL7Rv30orN85r6n8fm7yyarHoR01ReCGnryBmxXsTHRvAckQTy8A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
-          "url": "https://www.kyeonggi.com/article/20261106580394",
-          "source": "경기일보"
-        },
-        {
-          "title": "쌍둥이 판다, 중국행 앞두고 용인 명예시민증 받아",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706067",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "용인특례시의회, 루이·후이바오에 ‘시민행복 감사장’ 전달",
-          "url": "https://www.metroseoul.co.kr/article/20261107500047",
-          "source": "메트로신문"
-        }
-      ]
-    },
-    {
-      "keyword": "액화천연가스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T01:10:00.000Z",
+      "startedAt": "2026-11-08T03:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbeA2klSpOn3nvrwkjwtS-FNwZB4T-F3RXwoFiYEBFGiTQOgwjZyOHf_dfc",
       "category": "기타",
       "news": [
@@ -220,52 +145,127 @@
       ]
     },
     {
-      "keyword": "미디어오늘",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T01:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSp2QIlMMaRGB4A9XqXnwbYE_6cz2HPLvqy7uk9sVfnooQWT5ZO-zu6qgTymp4",
+      "keyword": "earthquake",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-08T03:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVG-TlBjzYCUurvseJ9zn5sGhwWFv-oGGyPwlR1vrRwQXz_WCS0d6VuZGAtIQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Magnitude 5.7 Earthquake Hits Western Shizuoka Prefecture, Japan... \"Caution Urged for Strong Aftershocks\"",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835890",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "Strong earthquake with preliminary magnitude of 5.7 strikes Japan",
+          "url": "https://www.koreatimes.co.kr/world/20261108/strong-earthquake-with-preliminary-magnitude-of-57-strikes-japan",
+          "source": "The Korea Times"
+        },
+        {
+          "title": "Magnitude 5.7 Earthquake Strikes West of Shizuoka, Japan... \"Stay Alert for 2-3 Days\"",
+          "url": "https://www.asiae.co.kr/en/article/world-general/2026110809505870867",
+          "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "총기 난사",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T03:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjygMGSibyKqgg5Lv7_gF8M6YKc_7GfOU3AhI31PDDjH1auoxUe_jlBP3Obi4",
       "category": "정치·사회",
       "news": [
         {
-          "title": "언론노조 위원장, “방미통위는 윤석열의 YTN장악 바로잡을 의지 있는가”",
-          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338284",
-          "source": "미디어오늘"
-        },
-        {
-          "title": "언론노조, 국회서 'YTN 청문 지연' 방미통위 규탄 \"무책임\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6863653_36911.html",
+          "title": "폴란드 총격범 집에서 가족 추정 시신 3구 추가 발견",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6863985_36925.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "유진ENT 2차 청문 내달 22일…방미통위 “독립된 주재자가 정한 것”",
-          "url": "https://news.jtbc.co.kr/article/NB12326587",
+          "title": "폴란드 총기 난사로 22명 사상...\"군복 입은 20대 극우 추정\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611080729540713",
+          "source": "YTN"
+        },
+        {
+          "title": "폴란드 ‘무차별 총격 테러’ 범인 집서 시신 3구 추가 발견…가족 추정",
+          "url": "https://news.jtbc.co.kr/article/NB12327011",
           "source": "JTBC"
         }
       ]
     },
     {
-      "keyword": "blg t1",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T01:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC5CqgIcHbVn1g1xxlS9UsZGLQLer-LHzeUL9Cjx3yjzDP-ph1BcSqa811MLI",
+      "keyword": "양산시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T03:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvnWFUXHwd04zItDEkpdsSdmZXJ-8e6_i0YeRUl39ryVLbzFX5Hzl7ISts10Q",
       "category": "기타",
       "news": [
         {
-          "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
-          "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview",
-          "source": "Hotspawn"
+          "title": "양산시 3년간 수의계약 1만4천건·특정업체 136건…\"쏠림 심각\"",
+          "url": "https://www.yna.co.kr/view/AKR20261106108500052",
+          "source": "연합뉴스"
         },
         {
-          "title": "Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-          "url": "https://sports.yahoo.com/articles/aews-claudio-castagnoli-calls-league-012456063.html",
-          "source": "Yahoo Sports"
+          "title": "창원시, ‘수의계약 몰아주기’ 차단…기준 제한",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706762",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "T1 Eliminate Karmine Corp, Face BLG in Worlds 2026 Semifinal",
-          "url": "https://rg.org/news/esports/t1-beat-karmine-corp-worlds-2026-quarterfinal-blg-semifinal",
-          "source": "RG.org"
+          "title": "평택시, 공공계약 운영계획 시행…업체별 수의계약 연 5회 제한",
+          "url": "https://stock.mk.co.kr/news/view/1192357",
+          "source": "매일경제 마켓"
+        }
+      ]
+    },
+    {
+      "keyword": "warriors vs magic",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T03:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCgF-gNNK6lD64gWnvKjYcahioYKOa_0hcE9ZwBkxKSGy62TMxgwE50RNyAE8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[Free] *Orlando Magic vs Golden State Warriors Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON NBA Free Tv Game",
+          "url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2166413",
+          "source": "Powell River Peak"
+        },
+        {
+          "title": "Warriors' Draymond Green: Available to play",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/warriors-draymond-green-available-to-play-538044/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Warriors-Magic Injury Report Features Dray, GPII, Santos, Banchero, Suggs",
+          "url": "https://www.si.com/nba/warriors/onsi/warriors-magic-injury-report-features-dray-gpii-santos-banchero-suggs-01m6vgxzqhkk",
+          "source": "Sports Illustrated"
+        }
+      ]
+    },
+    {
+      "keyword": "옆자리 프란체스카",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T03:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5UtyFK2qdNa-Syo0U3ksu9XdwJTg9jftjLl2C6kJqSO3ItYbIbB8A4I_EnH8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"자극 대신 일상 웃음\"…안방극장 돌아온 '시트콤의 진화'",
+          "url": "https://www.yna.co.kr/view/AKR20261107023500005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "심혜진·박슬기, 20년 만에 '프란체스카' 귀환…\"그때로 돌아간 듯\"",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611051454504040",
+          "source": "YTN"
+        },
+        {
+          "title": "'안성댁' 박희진, 하나도 안 늙었다..20년만에 \"이 무슨 시추에이션?\"",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GUZGIZTCMM4TINLBMJRTGNTBMI/",
+          "source": "Chosunbiz"
         }
       ]
     }
