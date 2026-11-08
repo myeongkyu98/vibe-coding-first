@@ -1,17 +1,13 @@
 {
-  "updatedAt": "2026-11-08T14:34:04.405Z",
+  "updatedAt": "2026-11-08T15:28:44.198Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 5
+      "count": 6
     },
     {
       "category": "기타",
       "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 1
     },
     {
       "category": "정치·사회",
@@ -20,84 +16,9 @@
   ],
   "items": [
     {
-      "keyword": "크리스털 팰리스 대 리버풀",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T13:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYaqD2g6bDfM_hr6gCMWH17zrNgzUTJzbAfYGNXq1sLlRuxW_v3_Gjx-dGQ_U",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "프리미어 리그 크리스탈 팰리스 대 리버풀 점수 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-crystal-palace-vs-liverpool-tai-premier-league-1796643.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "\"90%는 윙어로 쓸 겁니다!\"…리버풀 이라올라 감독이 직접 밝힌 속내→2연패에 공격수 부상까지, 바르콜라 최전방 기용한 이유",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100487",
-          "source": "포포투"
-        },
-        {
-          "title": "크리스탈 팰리스 vs 리버풀 (8/11): 이삭이 리버풀이 어려움을 극복하는 데 도움을 줄 수 있을까?",
-          "url": "https://www.vietnam.vn/ko/crystal-palace-vs-liverpool-8-11-isak-giup-the-kop-vuot-kho",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "선덜랜드 대 첼시",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T13:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvT02vJBMBDAzvnCzFdDQN30u_Jv_kS4mChISTiSXvz5D8JdRCcq-zcc0sMJU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "첼시에서 사비 알론소의 정체성은 아직 형성되지 않았습니다",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/ban-sac-cua-xabi-alonso-tai-chelsea-van-chua-duoc-dinh-hinh-1796628.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "선덜랜드 vs 첼시 경기 예측 (8/11): 첼시가 설욕에 성공할 수 있을까?",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-sunderland-vs-chelsea-8-11-the-blues-co-doi-duoc-mon-no-cu",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "‘죽겠다 선덜랜드’ 위기 봉착, 리그 꼴찌·유로파 패배 후 팬들 야유",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216582",
-          "source": "풋볼리스트"
-        }
-      ]
-    },
-    {
-      "keyword": "브라이턴 대 브렌트퍼드",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T13:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjo0m5wyeMbDOriR2deT7nJk_Te3hS4Qoz6d-57M8neMCWWLIUWXklPwT7ZqE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Brighton & Hove Albion vs Brentford: Premier League preview, team news, stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
-          "source": "BBC"
-        },
-        {
-          "title": "Brentford predicted XI vs Brighton: Bees eye back-to-back wins to gatecrash top four race",
-          "url": "https://sports.yahoo.com/articles/brentford-predicted-xi-vs-brighton-000000348.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Brighton aims to close gap on top two against Brentford",
-          "url": "https://www.cbssports.com/soccer/news/brighton-aims-to-close-gap-on-top-two-against-brentford/",
-          "source": "CBS Sports"
-        }
-      ]
-    },
-    {
       "keyword": "sbs",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-08T13:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBkaQEQAfz32vFCyXB4iz5-A8xWi3MKSt1FqouPIilan3b3HNcVrAwCpFotM",
       "category": "기타",
@@ -120,13 +41,68 @@
       ]
     },
     {
+      "keyword": "원더독스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T14:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2B39TiOZH6vSC1-bNDL30YIEIxAHdb5BE4IbCYCBoJaDSyMTzmCa_gl9CeY",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'신인감독 김연경2', 역전할 수 있을까…황연주 체력 빨간불",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02282886645643424&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "‘필승 원더독스’ 시즌2 첫 직관 경기서 짜릿한 역전승 거둘 수 있을까 (신인감독 김연경2)",
+          "url": "https://sports.khan.co.kr/article/202611080738003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "'신인감독 김연경2', 하효림vs이나연 '자존심 맞대결'→신흥 콤비 '옌쿠시' 등장 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110818357287811",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "브라이턴 대 브렌트퍼드",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T13:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjo0m5wyeMbDOriR2deT7nJk_Te3hS4Qoz6d-57M8neMCWWLIUWXklPwT7ZqE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Brighton & Hove Albion vs Brentford: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
+          "source": "BBC"
+        },
+        {
+          "title": "Brighton vs Brentford LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+          "url": "https://www.skysports.com/football/live-blog/13592882/brighton-vs-brentford-live-premier-league-score-updates-news-prediction-line-ups-and-how-to-watch-or-stream",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Brentford predicted XI vs Brighton: Bees eye back-to-back wins to gatecrash top four race",
+          "url": "https://sports.yahoo.com/articles/brentford-predicted-xi-vs-brighton-000000348.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
       "keyword": "sunderland vs chelsea",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-08T13:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEljMA7c9Sa6fxd3fZFjWMvKHbSic8OIHYLf-8Z0LCvW4LHmFS73o-CUS1xc0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdVVhKhRNbpiBP3xwXAIajbty7U0mUIWHIOjBJZayIabIdm5AF2DxtF5iFrNU",
       "category": "스포츠",
       "news": [
+        {
+          "title": "Sunderland vs Chelsea: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
+          "source": "BBC"
+        },
         {
           "title": "Starting XI: Will Le Bris Stick Or Twist For Crunch Clash With Chelsea?",
           "url": "https://rokerreport.sbnation.com/haway-the-podcast/158804/starting-xi-will-le-bris-stick-or-twist-for-crunch-clash-with-chelsea",
@@ -136,68 +112,38 @@
           "title": "(WAY) TO WATCH Ipswich vs Bournemouth LIVE Streams Reddit ON TV CHANNEL",
           "url": "https://www.goldderby.com/topic/way-to-watch-ipswich-vs-bournemouth-live-streams-reddit-on-tv-channel/",
           "source": "Gold Derby"
-        },
-        {
-          "title": "Opposition scout – Sunderland | News | Official Site",
-          "url": "https://www.chelseafc.com/en/news/article/opposition-scout-sunderland-november-2026",
-          "source": "Chelsea Football Club"
         }
       ]
     },
     {
-      "keyword": "철도망",
+      "keyword": "palace vs liverpool",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-08T12:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxTYPEOaXEbQuN47_hzRq-qu_RqdOAE1xnqS_jqxZ5z0ONG6gIbeIKdyH4Coo",
-      "category": "경제",
+      "startedAt": "2026-11-08T14:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUb5VYLX7aI9pmcoxvKGgONZxymkqFkvImYxK1A6FfBIXnYzPGFc_GIruINto",
+      "category": "스포츠",
       "news": [
         {
-          "title": "10년 철도투자 청사진 ‘제5차 철도망’ 윤곽…노선 경쟁 막 오른다",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611081342521000099",
-          "source": "대한경제"
+          "title": "Crystal Palace vs Liverpool: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
+          "source": "BBC"
         },
         {
-          "title": "국토부, ‘제5차 국가철도망 구축계획’ 국민 의견 듣는다",
-          "url": "https://www.kyeonggi.com/article/20261108580061",
-          "source": "경기일보"
+          "title": "Andoni Iraola feels Liverpool ‘too honest’ so miss out with refereeing decisions",
+          "url": "https://www.birmingham-now.co.uk/sport/national/26708284.andoni-iraola-feels-liverpool-too-honest-miss-refereeing-decisions/",
+          "source": "https://www.birmingham-now.co.uk/"
         },
         {
-          "title": "부울경, “동남권 광역 철도망 확충은 30분 생활권 완성에 꼭 필요”",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261108.99099002153",
-          "source": "국제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "제주항공",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T12:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuJOSXkT8FVD7vXjn8Vs_ubbdXfX-Cfh4AlwNehxCmkOgQNoruDcuGlQ4R8l0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[단독] 진에어, 새 부사장에 대한항공 출신 이진호 선임…통합 LCC 출범 앞두고 조직 정비",
-          "url": "https://www.etoday.co.kr/news/view/2645248",
-          "source": "이투데이"
-        },
-        {
-          "title": "[리포트 브리핑]진에어, '통합 이후 경쟁력 강화 기대' 목표가 7,500원 - 유안타증권",
-          "url": "https://www.newspim.com/news/view/20261106001022",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "[통합 진에어 카운트다운]④ 출범 넉달 앞 '선장' 잃은 진에어",
-          "url": "https://v.daum.net/v/9wnys6nQNx",
-          "source": "Daum"
+          "title": "🚨 Crystal Palace-Liverpool: Iraola backs Wirtz and Barcola at Selhurst Park",
+          "url": "https://onefootball.com/en/news/crystal-palace-liverpool-iraola-backs-wirtz-and-barcola-at-selhurst-park-43746211",
+          "source": "OneFootball"
         }
       ]
     },
     {
       "keyword": "인도네시아",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-08T13:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKdO1UidGpI4QBZD0l2NItEYMdruAc7eOgV0zE069zKNSyEPce0bjRaTePGw",
       "category": "정치·사회",
@@ -216,6 +162,81 @@
           "title": "호주 군용기, 인도네시아 산불 진화 지원",
           "url": "https://www.idnfinancials.com/kr/news/71390/%ED%98%B8%EC%A3%BC-%EA%B5%B0%EC%9A%A9%EA%B8%B0-%EC%9D%B8%EB%8F%84%EB%84%A4%EC%8B%9C%EC%95%84-%EC%82%B0%EB%B6%88-%EC%A7%84%ED%99%94-%EC%A7%80%EC%9B%90",
           "source": "IDNFinancials"
+        }
+      ]
+    },
+    {
+      "keyword": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T14:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDUAjtB9HWp68suxIKZshaY3F9hiQlmMQi98Byg2-eCYLde6qOZNOtgiggyBU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "LIVE ดูบอลสด คริสตัล พาเลซ พบ ลิเวอร์พูล บอลวันนี้ (8 พ.ย. 69) 21.00 น. พรีเมียร์ลีก 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2969258",
+          "source": "www.thairath.co.th"
+        },
+        {
+          "title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
+          "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-10-cuoc-san-diem-so-cua-liverpool-man-united-va-chelsea",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (8 พ.ย.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/sports/334041",
+          "source": "สยามรัฐ"
+        }
+      ]
+    },
+    {
+      "keyword": "snow",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T14:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-3RsA_cxzI7344v0WdnH7WUyvzfIfVb6XgGR73Gzpk9Pe0guzP08m8NfYF0o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Seoul Sees First Snow 12 Days Earlier Than Average Amid Early Cold Snap",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836268",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "[Tomorrow's Weather] Cloudy and Rainy Nationwide Monday... Early-Winter Chill to Continue for Now",
+          "url": "https://www.asiae.co.kr/en/article/2026110820021658120",
+          "source": "아시아경제"
+        },
+        {
+          "title": "Seoul Sees First Snow 26 Days Early as Heavy Snow Warning Issued in Gangwon",
+          "url": "https://www.chosun.com/english/national-en/2026/11/08/NJBV6BDA35F4HBA2XST7AED77U/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "elche vs betis",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-08T13:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb2GR_r5Z7BKm_aXjd-RqQOPf1RbR_O8sUnmPPF13DlNKfs9xPj93Y_MiowSs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Elche vs Real Betis: Lineups, Prediction, Odds & Bet Builder Tip",
+          "url": "https://www.whoscored.com/articles/8QuZRsskSEGTgxuE7av-9g/show/cng111-20261108-elche-vs-real-betis-prediction-1794114324",
+          "source": "WhoScored.com"
+        },
+        {
+          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
+          "url": "https://www.firstpost.com/football-news/live-score/stats/sun-vs-che-190598/",
+          "source": "Firstpost"
+        },
+        {
+          "title": "Elche strengthens evacuation procedures at Martínez Valero stadium ahead of Real Betis match",
+          "url": "https://www.elbotola.com/en/article/2026-11-07-09-50-128.html",
+          "source": "Elbotola"
         }
       ]
     },
@@ -241,31 +262,6 @@
           "title": "[오피셜] 휴스턴 67억 옵션 거부→대전예수 공식 '자유의 몸'…한화로 돌아올까? \"와이스 美 남으면 마이너 계약\"",
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017115",
           "source": "SPOTV NEWS"
-        }
-      ]
-    },
-    {
-      "keyword": "tvn",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T12:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDIhNA1uzRY50p8A8Qf5ddqh2AsfSOybGxBpY3yr6Swz_GLd_BscDW7UBUy3o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "TVP zmienia ramówkę na czas żałoby narodowej. Zobaczymy „Rolnika”?",
-          "url": "https://telemagazyn.pl/tvp-zmienia-ramowke-na-czas-zaloby-narodowej-zobaczymy-rolnik-szuka-zony-zmiany-w-programie-tv/ar/c13p2-29509413",
-          "source": "Telemagazyn"
-        },
-        {
-          "title": "Odwołane spektakle i koncerty po zamachu w Krakowie",
-          "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zamach-w-centrum-krakowa-instytucje-kultury-odwoluja-spektakle-i-koncerty-st9329022",
-          "source": "TVN24"
-        },
-        {
-          "title": "Flagi przed instytucjami UE opuszczone do połowy masztu na znak solidarności z Polską",
-          "url": "https://www.pap.pl/aktualnosci/flagi-przed-instytucjami-ue-opuszczone-do-polowy-masztu-na-znak-solidarnosci-z-polska",
-          "source": "Polska Agencja Prasowa SA"
         }
       ]
     }
