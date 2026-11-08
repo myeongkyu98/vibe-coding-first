@@ -1,17 +1,13 @@
 {
-  "updatedAt": "2026-11-08T16:32:15.191Z",
+  "updatedAt": "2026-11-08T17:29:08.964Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
-    },
-    {
       "category": "스포츠",
-      "count": 4
+      "count": 6
     },
     {
-      "category": "생활·날씨",
-      "count": 1
+      "category": "기타",
+      "count": 3
     },
     {
       "category": "정치·사회",
@@ -20,52 +16,52 @@
   ],
   "items": [
     {
-      "keyword": "sbs",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T13:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBkaQEQAfz32vFCyXB4iz5-A8xWi3MKSt1FqouPIilan3b3HNcVrAwCpFotM",
-      "category": "기타",
+      "keyword": "맨유 대 애스턴 빌라",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-08T15:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbecCANlTbzPbI42NkWtmhWIVBT69CyHqM5j1a5nkpBcpruU5PSRCOPwabAqU",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Today's SBS 8 News Preview (November 8)",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836221",
-          "source": "news.sbs.co.kr"
+          "title": "“최악 성적 기록한 맨유… 캐릭 감독의 전술 실패가 주원인”",
+          "url": "https://weekly.donga.com/sports/article/all/11/6438610/1",
+          "source": "주간동아"
         },
         {
-          "title": "Jung Jae-hyun Claims First KPGA Tour Title at Season Finale",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/09/F4IZRCHNPFA6JMUZU3OP4AIRRM/",
+          "title": "'스승님, 왜 13년째 우승하지 못할까요' 알렉스 퍼거슨 맨유 감독 부임 40주년 자축, 반데사르-비디치-캐릭 레전드 OT에 모였다",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/08/GVRTQNZUMFQWKOLBMI4DEYLGME/",
           "source": "조선일보"
         },
         {
-          "title": "21-Year-Old Jung Jae-hyun Secures First Regular Tour Win at KPGA 2026 Season Finale",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836085",
-          "source": "news.sbs.co.kr"
+          "title": "'해버지' 박지성은 불참! '퍼거슨 40주년' 맨유 레전드 총출동!...비디치·반 페르시·캐릭까지 한자리에 모였다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018686",
+          "source": "SPOTV NEWS"
         }
       ]
     },
     {
-      "keyword": "브라이턴 대 브렌트퍼드",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T13:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-MvtQMEMUrzv_oVS0H5EHebC1LixoCO7SErkwBIbVxWhdrExuzrUvLKlfxE",
-      "category": "기타",
+      "keyword": "man utd vs aston villa",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T15:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP2VkxQ7cNwqSJTAtpsMkqvm0SQ3Ptj50_ZJw9rnWKuctiu9c3sY7kARWsyWg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Brighton 2-0 Brentford: Diego Gomez stunners fires Seagulls up to second with win over 10-man Brentford",
-          "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
+          "title": "Premier League: Villa lead at second-bottom Man Utd inside two minutes",
+          "url": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
           "source": "BBC"
         },
         {
-          "title": "Brighton 2-0 Brentford: Diego Gomez scores thunderbolt as Seagulls enter November international break in second",
-          "url": "https://www.skysports.com/football/news/13593207/brighton-x-x-brentford",
-          "source": "Sky Sports"
+          "title": "Carrick selects side to face Aston Villa",
+          "url": "https://www.manutd.com/en/news/michael-carrick-selects-man-united-side-to-face-aston-villa",
+          "source": "Manchester United"
         },
         {
-          "title": "Brighton 2-0 Brentford (Nov 8, 2026) Game Analysis",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401879244",
-          "source": "ESPN"
+          "title": "Chris Sutton backs Aston Villa to win at Old Trafford as Manchester United's doubts refuse to go away — Aston Villa Vs Man United",
+          "url": "https://twaslnews1.twaslnews.com/7312834/",
+          "source": "شبكة تواصل الإخبارية"
         }
       ]
     },
@@ -100,7 +96,7 @@
       "trafficValue": 500,
       "startedAt": "2026-11-08T15:10:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7wYo9eRauFuFLGv3UAbnsQc0zSZtTdHNJT3o2w6aWFCaj4egUg9s-3l4MvhY",
-      "category": "생활·날씨",
+      "category": "기타",
       "news": [
         {
           "title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
@@ -113,9 +109,9 @@
           "source": "천지일보"
         },
         {
-          "title": "이달 네이버 멤버십 첫 가입하면 올리브영 1만원 할인",
-          "url": "https://www.newsis.com/view/NISX20261106_0003857403",
-          "source": "뉴시스"
+          "title": "네이버플러스 멤버십, 생애 최초 가입자에 올영 1만원 쿠폰 지급",
+          "url": "https://zdnet.co.kr/view/?no=20261106095111",
+          "source": "지디넷코리아"
         }
       ]
     },
@@ -124,23 +120,23 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-08T14:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUb5VYLX7aI9pmcoxvKGgONZxymkqFkvImYxK1A6FfBIXnYzPGFc_GIruINto",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzgEm3HB3RzbhfTfAogzK0v8oF5yYoZKvePjiS7NlZ20CqcXPQSScFgIvENo",
       "category": "스포츠",
       "news": [
         {
-          "title": "Crystal Palace vs Liverpool: Premier League preview, team news, stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
+          "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+          "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
           "source": "BBC"
         },
         {
-          "title": "Crystal Palace v Liverpool: Team news",
-          "url": "https://www.liverpoolfc.com/news/crystal-palace-liverpool-team-news-premier-league",
-          "source": "Liverpool FC"
+          "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+          "source": "The Guardian"
         },
         {
-          "title": "🚨 Crystal Palace-Liverpool: Iraola backs Wirtz and Barcola at Selhurst Park",
-          "url": "https://onefootball.com/en/news/crystal-palace-liverpool-iraola-backs-wirtz-and-barcola-at-selhurst-park-43746211",
-          "source": "OneFootball"
+          "title": "PL: Pierre Sage at risk, Chelsea slip again, Brighton living the dream!",
+          "url": "https://sports.yahoo.com/articles/pl-pierre-sage-risk-chelsea-160200412.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
@@ -149,18 +145,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-08T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4X9iz2ui9wngpzM27bOYDxdhAfl_53qJV0TxW2KUxr34DZ6VHABrMDvuZbuQ",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWQakm3XHJzPstiBsLkD9yP4hC1XJK2hcmiOSVXIlweMOOM3WLOHXYBPIkvNs",
       "category": "기타",
       "news": [
+        {
+          "title": "เวียร์ตซ์ ปลดล็อกประตู ลิเวอร์พูล บุกปราบ พาเลซ 3-1 คว้าสามแต้ม ก่อนเข้าบอลทีมชาติ",
+          "url": "https://mainstand.co.th/th/news/1/article/27504",
+          "source": "Mainstand"
+        },
         {
           "title": "เปิดสถิติพบกัน 5 ครั้งหลังสุด คริสตัล พาเลซ VS ลิเวอร์พูล ก่อนดวลเดือดคืนนี้",
           "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2971240",
           "source": "www.thairath.co.th"
-        },
-        {
-          "title": "เวียร์ตซ์ ปลดล็อกประตู ลิเวอร์พูล บุกปราบ พาเลซ 3-1 คว้าสามแต้ม ก่อนเข้าบอลทีมชาติ",
-          "url": "https://mainstand.co.th/index.php/th/news/1/article/27504",
-          "source": "Mainstand"
         },
         {
           "title": "ผลบอลพรีเมียร์ลีก: หงส์แดง ทำได้ดีกว่า บุกถลุง ปราสาทเรือนแก้ว ถึงถิ่น 3-1",
