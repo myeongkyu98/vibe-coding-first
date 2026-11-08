@@ -1,145 +1,137 @@
 {
-  "updatedAt": "2026-11-08T06:48:53.032Z",
+  "updatedAt": "2026-11-08T07:54:51.871Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
+      "category": "스포츠",
+      "count": 6
     },
     {
-      "category": "경제",
+      "category": "연예",
       "count": 2
     },
     {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
-      "count": 1
+      "category": "기타",
+      "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "이민정",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-08T05:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSBdEXV30tooEQUzsUrCJXQIqiR8LvsV3jCxMBwZwGoDIHrA9JYO_BvCbWRbs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "이민정, ♥이병헌과 가을밤 데이트 공개…늘씬한 각선미 '눈길' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110808475794585",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'이병헌♥︎' 이민정, 각선미 이렇게 좋았나..오붓한 단풍 데이트+거셀",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/MMZTGM3BGBSTOYZVGVRDMM3CHA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "이민정, ♥이병헌과 데이트 뒷모습? 딱 붙는 부츠 신고 각선미에 미모 폭발",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6346533",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "서세원",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-08T05:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3-Dwfq_rUZh4IPZxTYeY2oqeRYOfGUbzoMPMz2ZhUnW8g9DMtlycVkRwupAA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "서세원 딸 서동주 \"연달아 장례 3번… 세상에서 사라지고 싶었다\"",
-          "url": "https://www.chosun.com/entertainments/2026/11/08/XRP76SU3EBBQNJOVHDWXLQ2X6I/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'故서세원 딸' 서동주, 장례 연속 3번 치르고 무너졌다..\"나도 사라지면 좋겠다고 생각\"",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-08/202611080100052350005203",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "‘故서세원 딸’ 서동주 “장례 연달아 3번…나도 사라지면 좋겠다고 생각”",
-          "url": "https://www.heraldk.com/article/2026110717004484485",
-          "source": "헤럴드경제 미주판"
-        }
-      ]
-    },
-    {
-      "keyword": "추위",
+      "keyword": "강원 대 전북",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-08T05:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ49HsAFLcD6hhjwlXR7o8iKfH_H3EgmY0bNkDajjrRoUjpUdrdybrjgDJjYc",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "서울 '첫 눈' 관측‥겨울 문턱 쌀쌀",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6864007_36967.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "아니 벌써? 서울에 ‘첫눈’ 내렸다···작년보다 26일 빨라",
-          "url": "https://www.khan.co.kr/article/202611081323001",
-          "source": "경향신문"
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-          "url": "https://www.yna.co.kr/view/AKR20261108028500011",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "바이낸스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-08T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiMF2uMqR6uHS2xa5YiHMv3zjWzKIiD9zsQx-c-SOCUqNmpR3PVV3T6_XpRoQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "가상자산업계 잇단 해킹에…금융당국, 보안 책임자 소집",
-          "url": "https://www.yna.co.kr/view/AKR20261107044200002",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "\"AI 날개 단 북한 해커들 기가 막히네\"…1조8700억 털어간 소름 돋는 수법[시사쇼]",
-          "url": "https://view.asiae.co.kr/article/2026110808092315966",
-          "source": "아시아경제"
-        },
-        {
-          "title": "닉 칼슨 “북한, ‘가상화폐 절도’ 주요 외화 수입…미한 정부 대응 필요”",
-          "url": "https://www.voakorea.com/a/8219838.html",
-          "source": "VOA 한국어 홈페이지"
-        }
-      ]
-    },
-    {
-      "keyword": "김현수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr-Wiz58uEP1lOJ6Ei84RH-6jysm0NnGu7wAusCF-6-lhQXmDZItswhuvNdso",
+      "startedAt": "2026-11-08T06:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyOb-FTWnV2X2g5f19B4MWCFZ0cBc6DEYjb0NhvEXGpjzVvfzVxEvc5RM_pIw",
       "category": "스포츠",
       "news": [
         {
-          "title": "[포토]'찬스였는데...아쉽구나' 김현수 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110814552797507",
+          "title": "전북도 강원도 물러설 곳 없다...승점 단 1점 차, 3위 도약이냐 6위 추락이냐 '강릉 혈투' 예고 [오!쎈 프리뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/202611071940777032O",
           "source": "머니투데이"
         },
         {
-          "title": "[사진]1회 무실점으로 출발하는 KT 선발 대니엘",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/08/MEYGIMDEGE2TSNDFHFSGEMDBMI/",
+          "title": "[현장인터뷰] 물러설 수 없는 '5위' 전북과 '6위' 강원...정경호 \"터닝 포인트될 경기\"vs정정용 \"자신감 갖고 득점해주길\"",
+          "url": "https://www.sportschosun.com/football/2026-11-08/202611080100056770005525",
+          "source": "스포츠조선"
+        },
+        {
+          "title": "[2026 K리그1 35라운드] 자존심을 구긴 전통의 명가들, 전북과 포항은 분위기 반전을 할 수 있을까?",
+          "url": "https://www.daily25news.com/news/articleView.html?idxno=8564",
+          "source": "데일리25"
+        }
+      ]
+    },
+    {
+      "keyword": "삼성라이온즈",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-08T06:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOsl6XsWOzOGL7pzTtZjwGVZnb3226ztInmWT7XePnNQrQGphNn1aG3MHkZI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[포토]'사자들이여 환호하라!' 구자욱 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110815541882583",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[사진]타격장인 최형우, '왼무릎 바닥에 닿으며 만들어내는 적시타'",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/08/MUYDKOJRGFSWGYZQMM4WEOBXGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "기뻐하는 구자욱-박진만 감독",
+          "url": "https://www.newsis.com/view/NISI20261108_0021524531",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "강민호",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T06:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqEzHCZyOewvwxUu0PhGoDHHJTf2iUBYXLawILDxRzQJY49moKL0gVSUghY-k",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "강민호 '자욱아 형도 해냈다'",
+          "url": "https://www.newsis.com/view/NISI20261108_0021524627",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[사진]삼성 원태인-강민호, '12년 만의 한국시리즈 우승이 보인다'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/08/GA3TIY3DMRQWEYRTMM3DENLDMQ/",
           "source": "Chosunbiz"
+        },
+        {
+          "title": "\"번트? 저 강민호인데요\" 13년 전 CF대사, 올해 강민호에겐 없다",
+          "url": "https://www.yna.co.kr/view/AKR20261106134600007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "kbo",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T06:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhCTRDkvVU4b8gIkWvBzgxM8p4s_AlyXidzxwk5TDE6paRv2p8PPJrjSG6Unc",
+      "category": "연예",
+      "news": [
+        {
+          "title": "Samsung Lions Take a Commanding 3-1 Series Lead Over the KT Wiz",
+          "url": "https://worldbaseball.com/news/samsung-lions-take-a-commanding-3-1-series-lead-over-the-kt-wiz-mw6u3mcg",
+          "source": "World Baseball Network"
+        },
+        {
+          "title": "\"I'm more greedy to win than the series MVP.\"Park Seung-gyu (Samsung Lions), who gave precious victo..",
+          "url": "https://www.mk.co.kr/en/sports/12201500",
+          "source": "매일경제"
+        },
+        {
+          "title": "Manager Park Jin-man repeatedly emphasizes one name, \"Thanks to Jurado\"... Park: \"I am even more grateful now. He delivered a valuable victory to Samsung.\"",
+          "url": "https://news.jkn.co.kr/editions/english/post/1075942",
+          "source": "재경일보"
+        }
+      ]
+    },
+    {
+      "keyword": "고영표",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-08T06:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS00h8CXlpvIfRuHfVYkOdSX3tlnPbn5pOJfSmp2Ip6q4R1eFWOuh50lZ3_dpk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[포토] 고영표 '핵잠투로 잠재우리' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110815415245634",
+          "source": "머니투데이"
+        },
+        {
+          "title": "KT의 구세주 되지 못한 대니엘…'긴급 투입' 고영표도 수비 실책에 '와르르'(종합)[KS]",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859414",
+          "source": "뉴시스"
         },
         {
           "title": "한화서 온 보상선수, KS 지배 실화냐…솔로포→선제 희생플라이 쾅, ‘벼랑 끝’ 1위팀 5차전 선취점 뽑다 [KS5]",
@@ -149,95 +141,111 @@
       ]
     },
     {
-      "keyword": "서울 sk 대 원주 db",
+      "keyword": "원태인",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-08T05:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "울산 현대모비스 대 안양 정관장",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-08T05:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "전지적 집착 시점",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-08T05:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRW14s956kfnNFWeB4NZW6-ePSNkAOd87ScOA5XqugkQ36uq52s7UC2BbV6OhA",
-      "category": "경제",
+      "startedAt": "2026-11-08T06:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_VpeAmirsoNCDZXhGKERBRVY8g4GJ6g51wugvresGcRUQ9pdu6BGbJ0G39lA",
+      "category": "스포츠",
       "news": [
         {
-          "title": "아파트 10층 높이서 맨몸으로…국내 최초 '하이다이버' 조명",
-          "url": "https://m.nocutnews.co.kr/news/amp/6603548",
-          "source": "노컷뉴스"
+          "title": "‘우승 눈앞’ 삼성, 홈에서 대업 이룰까…5차전 원태인 vs 대니엘 격돌",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706830",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "전현무, 12층 높이 절벽 다이빙에 충격…“진짜잖아” (전착시)",
-          "url": "https://sports.donga.com/ent/article/all/20261108/134985575/1",
-          "source": "스포츠동아"
+          "title": "[포토] 구자욱 '민호 형만 믿었어요' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/08/2026110815542436505",
+          "source": "머니투데이"
         },
         {
-          "title": "최병화 \"아파트 10층 높이에서 맨몸으로 뛰어내린다..안전장치無\" ('전참시')",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GU2DANBRHBTGEYLFHFRTGZBSMY/",
+          "title": "4일 쉰 kt 대니엘 vs 선발로 돌아온 삼성 원태인…KS 5차전 격돌",
+          "url": "https://www.yna.co.kr/view/AKR20261107037500007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "수원삼성",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T06:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSam2REVGu6mmxsZ4UGOIjsrYthjgXYp2xTQOj6TWE72B0LFtugZCs4L4yJqkQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'명가' 수원의 3년 굴욕 걷어낸 '이정효 마법'…다시 K리그1로",
+          "url": "https://www.yna.co.kr/view/AKR20261108034200007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘3년 수모 끝!’ 수원, 1부 복귀 확정…K리그2 우승도 눈앞",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706922",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[사진]최윤겸 감독,'승리한다'",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/08/MVRGCMBRMVQWEZTDGU4TGN3FGI/",
           "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "sk그룹",
+      "keyword": "다시보기",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-08T05:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDPKojwNyCGFxbTWJdWUfbA28JStsygLFp2lJRdBbNbJEHee3MZjBGd0Xsghk",
-      "category": "경제",
+      "startedAt": "2026-11-08T06:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "송하예",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-08T06:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ306YRunoGOwdDJbl79E8kVqIdD5ioQNA9FCo4AkJvHy-U0E-N8CkKZwI-zeE",
+      "category": "연예",
       "news": [
         {
-          "title": "중복상장 규제에 대기업 자회사 IPO 잇단 제동…기업가치 개선은 지켜봐야",
-          "url": "https://www.viva100.com/article/20261106500235",
-          "source": "브릿지경제"
+          "title": "가수♥유튜버 부부 탄생…송하예·조매력, 연애 9개월 만 오늘 결혼 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110809530683491",
+          "source": "머니투데이"
         },
         {
-          "title": "지주사 품에 안긴 SK에코플랜트…새 '배당 수익원' 거듭나나",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443619",
-          "source": "연합인포맥스"
+          "title": "가수 송하예·조매력 오늘 결혼한다 \"많은 분 도움 덕분에\"",
+          "url": "https://www.newsis.com/view/NISX20261108_0003859121",
+          "source": "뉴시스"
         },
         {
-          "title": "IPO 전략 바꾸는 SK…반도체·AI 중심축은 유지 : 네이버 블로그",
-          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224469151077&redirect=Dlog",
-          "source": "Naver Blog"
+          "title": "송하예, 8일 유튜버 조매력과 결혼…음악으로 이어진 부부의 연",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261108/134984775/1",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "mbc",
+      "keyword": "티비",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-08T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQEZojFrJ8ofxTdyO0A6_psuKBdIKDgtQEMc_O1HFvB3xlKlr3MMKbmsofdnM",
+      "startedAt": "2026-11-08T06:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Ma8Y6fkB-3dqG4L2QjjqsrNMN9guBICXFXmJIvP7ftXwMXni2qUc5VphHw4",
       "category": "기타",
       "news": [
         {
-          "title": "محمد عبد المتعال مدير MBC مصر يحصد جائزة الإعلامي القيادي للعام في دبي",
-          "url": "https://www.youlyou.com/87931",
-          "source": "https://www.youlyou.com/"
+          "title": "New wave of bomb threats hit European airlines",
+          "url": "https://www.bbc.com/news/articles/cq62yy064vjpo",
+          "source": "BBC"
         },
         {
-          "title": "رئيس اتحاد إذاعات الدول العربية يهنئ محمد عبد المتعال بفوزه بجائزة«القيادي الإعلامي2026»",
-          "url": "https://www.safha1.com/16745",
-          "source": "موقع الصفحة الأولى"
+          "title": "Wave of Hoax Bomb Threats to Flights in Europe Leaves Travelers Frustrated",
+          "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-planes-flights-europe-travel.html",
+          "source": "The New York Times"
         },
         {
-          "title": "عبد المتعال يحصد جائزة «القيادي الإعلامي للعام».. واتحاد إذاعات الدول العربية يهنئه رسميًا",
-          "url": "https://www.rosaelyoussef.com/1449023",
-          "source": "بوابة روز اليوسف"
+          "title": "What Is Male State -- The Group Reportedly Linked To Airline Bomb Threats?",
+          "url": "https://www.rferl.org/a/what-is-male-state-group-airline-bomb-threats-russia-europe/33892328.html",
+          "source": "Radio Free Europe/Radio Liberty"
         }
       ]
     }
