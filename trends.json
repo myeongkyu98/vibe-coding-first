@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-09T07:16:07.856Z",
+  "updatedAt": "2026-11-09T09:00:40.475Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 3
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 3
     },
     {
-      "category": "연예",
+      "category": "스포츠",
       "count": 2
     },
     {
@@ -25,8 +25,8 @@
   "items": [
     {
       "keyword": "정지선",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-09T05:50:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGHun2zWY8NXWaPKDXwbZN2C8P3bqlx5kCmVWrxEMtJNAEtlpclPG9AVK9YXk",
       "category": "IT·과학",
@@ -49,159 +49,93 @@
       ]
     },
     {
-      "keyword": "논문",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T05:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqdf9SE4cnUKRIqTOGAqqBqkr_WR_a1d4YGfQlNKdA5dG-sAEdJg0X4B3qOs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
-          "url": "https://www.khan.co.kr/article/202611091126001",
-          "source": "경향신문"
-        },
-        {
-          "title": "한국 떠난 황우석, UAE 국적 취득...만수르와 무슨 관계? [이슈톺]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611091544286047",
-          "source": "YTN"
-        },
-        {
-          "title": "‘줄기세포 논문조작’ 황우석, UAE 국적 취득…韓국적 상실",
-          "url": "https://www.donga.com/news/Society/article/all/20261109/134990701/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "윤여정",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T05:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTJB3aH9Nh2pouzrWXAEjh2v9_Hf8LwKh-xDcLXOe8SXR6ZH_bUjjaDcgwLeo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "80세 윤여정, 연예계 최고령 공항패션…백발에 화이트코트 ‘우아 그 자체’[Oh!쎈 이슈]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/ME4DMYLFHAZTEYJRMMYWMZBZGA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "[사진]윤여정, '런던으로 떠나요'",
-          "url": "https://www.osen.co.kr/article/G1112907063",
-          "source": "OSEN"
-        },
-        {
-          "title": "[영상] 윤여정, 깔끔하고 고급진 할꾸 '멋쟁이 할머니 코어'",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524068",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T06:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlofdhTB_0wgQzuM-HSkQ9rxLjIodYW1mNiKdOmca9koi29rUjIi9alNhLz0A",
-      "category": "경제",
-      "news": [
-        {
-          "title": "삼성운용, 'KODEX 미국나스닥100미국채혼합50' ETF 내일 상장",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860477",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'KODEX 미국나스닥100미국채혼합50' ETF, 10일 상장 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/09/2026110913434282250",
-          "source": "머니투데이"
-        },
-        {
-          "title": "삼성운용, 美 단기국채·나스닥100 50대50 투자 ETF 10일 상장",
-          "url": "https://www.yna.co.kr/view/AKR20261109027600008",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "이규한",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T05:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ni95xsSVRakec3giVB8EdU5MiLbZADaRHxNmb7A-iECnJcFduvLtl5j7Hu4",
-      "category": "연예",
-      "news": [
-        {
-          "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
-          "url": "https://www.segye.com/newsView/20261109502020",
-          "source": "세계일보"
-        },
-        {
-          "title": "솔비와 결혼 티낸 이규한 \"짧은머리 이상형…결혼 압박 없어\"",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859533",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"솔비에 분리수거도 안 시킬 것\"…이규한 사랑꾼 면모 '눈길' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110909101718149",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "lg전자",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T05:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTITMHQSCNVi50hE3Qp1GSpaQs89mxcpQ2HOVx1QWYRzdy_faCYsOcztU-alIU",
+      "keyword": "구속",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-09T07:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpTbLjWz8RC4h5S0IfQ0yINFXWKy-dWkkV8uI4e_JBCXYH-HysqqrTkGNPm68",
       "category": "정치·사회",
       "news": [
         {
-          "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410",
-          "source": "YTN"
+          "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "LG전자, 차량 통신모듈 안전성 최고 등급 획득…제네시스 GV90 탑재",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02191046645644080",
-          "source": "마켓인"
+          "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
+          "url": "https://www.kyeonggi.com/article/20261109580406",
+          "source": "경기일보"
         },
         {
-          "title": "LG전자 차량 통신제어 모듈, 업계 최초로 자동차 기능안전 국제표준 최고 등급 획득",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451457",
-          "source": "비즈니스포스트"
+          "title": "심야 지하철서 잠든 여성에 성폭력…60대 구속 송치",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707577",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "catl",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T05:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDn73H7FCbmmVLuPuLu-smBCj4u6tkiindw2oOYEFoZx3sLqd_XesovYnauQ",
+      "keyword": "한국 민속촌",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-09T07:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_VOvOk1MG4rlWauIpGXeZl-EpxSaqfpBWyv7u6KZ7X2Ek7JU9Yjj3qjtvbHo",
       "category": "기타",
       "news": [
         {
-          "title": "CATL is exploring an air-breathing battery. Could it give EVs 2,000 km of range?",
-          "url": "https://carnewschina.com/2026/11/07/catl-is-exploring-an-air-breathing-battery-could-it-give-evs-2000-km-of-range/",
-          "source": "CarNewsChina.com"
+          "title": "[자막뉴스] \"말 잘 들을거야?\" 귀신 훈육 놀이에…터져버린 '아동학대' 논란",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "1,200-mile EV range: Chinese firm’s new lithium air EV battery offers 5x energy density",
-          "url": "https://interestingengineering.com/energy/1200-miles-chinese-firms-new-ev-battery",
-          "source": "Interesting Engineering"
+          "title": "“아이 훈육을 귀신에게?”…한국민속촌 ‘귀신 훈육’ 아동학대 논란",
+          "url": "https://www.kyeonggi.com/article/20261109580335",
+          "source": "경기일보"
         },
         {
-          "title": "World’s Biggest EV Battery Maker Explores Theoretical 1,243-Mile Range",
-          "url": "https://www.autoblog.com/news/worlds-biggest-ev-battery-maker-explores-theoretical-1243-mile-range",
-          "source": "Autoblog"
+          "title": "\"귀신이 잡아간다\"...'민속촌 참교육'에 엇갈린 반응 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611091434572751",
+          "source": "YTN"
         }
       ]
     },
     {
+      "keyword": "류지현",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T07:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZZJK2RAdjWfejiWUpVhHZHVIdJUC5M6NVXZ-x81BduucQUSg0vXG-3Uqsxc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘류지현호’ 첫발 뗀 한화…내년 전력 구상 과제는?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706798",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "정우주 선발? 불펜? 그보다 중요한 이야기가 있었다…2년 차 영건과 깊은 대화, 신임 감독은 무슨 메시지 전했나 [오!쎈 미야자키] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/09/202611090808777879O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'LG 원클럽맨 새출발' 그런데 투수코치가 포수 미트를?…손가락 인대 다쳤던 열정, 한화에도 시작됐다 [미야자키 현장]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/09/GY4DEMLBMNSTIY3GMNSGGZRVGM/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "근로장려금",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T06:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
       "keyword": "실업",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-09T06:10:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8x63y4FrRA03jayO4iUEpq4vPzCnmaM_5cAwhBACw3givE80ziHeXGrzQhuk",
       "category": "기타",
@@ -224,52 +158,102 @@
       ]
     },
     {
-      "keyword": "박진혁",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqAlGpDfAUdsJqqAGf6Vm0MztlNw5LLdmP-6cq-R1wgTd2L5aS_-QqOYdSdcM",
-      "category": "연예",
+      "keyword": "상장지수 펀드",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T06:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI19mwsEqM1ngkchnBUDPcpg66wYOfMgoQg6cH-AQnn0X3aYKr59RXiOETqtc",
+      "category": "경제",
       "news": [
         {
-          "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
-          "url": "https://www.munhwa.com/article/11629685",
-          "source": "문화일보"
+          "title": "\"레버리지도 아닌데\"…일제히 '10%대 급등' ETF 뭐길래",
+          "url": "https://www.hankyung.com/article/202611094906i",
+          "source": "한국경제"
         },
         {
-          "title": "바이낸스 창업자, 8조원대 해킹 피해에도 \"업계 더 견고하고 안전해질 것\"",
-          "url": "https://www.asiae.co.kr/article/2026110914462973329",
-          "source": "아시아경제"
+          "title": "[ETF 시황] 우주항공·양자 ETF 날았다…2차전지 레버리지는 12% 급락",
+          "url": "https://www.newspim.com/news/view/20261109001123",
+          "source": "뉴스핌"
         },
         {
-          "title": "“얼굴 공개되자 화제”…FBI가 8년째 쫓는 북한 해커 박진혁, 바이낸스 해킹 배후 지목",
-          "url": "https://www.kyeonggi.com/article/20261108580384",
-          "source": "경기일보"
+          "title": "한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/09/2026110814501193864",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "금융감독원",
+      "keyword": "에너지",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-09T05:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTslQ7ktxrUBrZVy8KqLD_FdLyAnPzeNXxF9cALoTYL6_L6qBuPxaN6GnPU0vI",
+      "startedAt": "2026-11-09T07:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQliFZpKmCJUTjn1aRK0GmK7PRFVd7qHSiObKfNvmywGKL9wmaYbdPISmG8x-Q",
       "category": "경제",
       "news": [
         {
-          "title": "보이스피싱 심리적 피해도 심각…금감원, 금융권과 피해자 지원",
-          "url": "https://www.yna.co.kr/view/AKR20261109104600002",
+          "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
+          "url": "https://stock.mk.co.kr/news/view/1193673",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860845",
+          "source": "뉴시스"
+        },
+        {
+          "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
+          "url": "https://www.hankyung.com/article/202611095227i",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "천무 다연장로켓",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T06:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0MSRCfBjh3hsQdPpCDyUwOwjIZyrNOMD4pGMZOnXSJ4XfioFt0woue2G795Y",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한화에어로, 천무 해상 사격 시험… 무인수상정 탑재 추진",
+          "url": "https://biz.chosun.com/industry/company/2026/11/09/MFAUDA76S5FGBCLNWX6SX4DZJA/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "한화오션 미국 해군 중형상륙함 수주는 '미미' 평가, 블룸버그 \"한국 조선업체 투자 유인할 추가 발주 필요\"",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451483",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "美 차기 ‘호위함’ 후보 오른 충남급...‘韓·日·튀르키예’ 삼파전",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002950",
+          "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "볼더링",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-09T07:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4mJbY1ewe2E0e3BWrFT9eaonorQ7ikcMiWugPj8fy1c1WpCDLjy5Blvdw3Hg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
+          "url": "https://www.yna.co.kr/view/AKR20261109124800007",
           "source": "연합뉴스"
         },
         {
-          "title": "보이스피싱 피해자에 생계비·심리상담 지원…“다시 일상으로”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707569",
-          "source": "KBS 뉴스"
+          "title": "파라클라이밍 윤태인, 파라시리즈 한국 선수 역대 ’첫 메달’ 쾌거",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109132703FV8",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "금융권, 보이스피싱 피해자 생계비·심리상담 지원 By EBN",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2165437",
-          "source": "Investing.com 한국어"
+          "title": "클라이밍 대표팀, 후쿠오카 그랜드 파이널서 은메달 2개",
+          "url": "https://www.newspim.com/news/view/20261109001192",
+          "source": "뉴스핌"
         }
       ]
     }
