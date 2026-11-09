@@ -1,49 +1,28 @@
 {
-  "updatedAt": "2026-11-09T04:57:15.710Z",
+  "updatedAt": "2026-11-09T05:57:36.156Z",
   "summary": [
-    {
-      "category": "기타",
-      "count": 4
-    },
     {
       "category": "경제",
       "count": 3
+    },
+    {
+      "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "삼전닉스",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-09T03:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUL7DbRr8IaS1gRLAk4IIVO1NeZOgdcnt0A808YumIQYFUzw0GWnNSxSis0gs",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"개미들 공포에 떠는데\"…월가 큰손들 반도체 다시 보는 까닭 [빈난새의 빈틈없이마켓]",
-          "url": "https://www.hankyung.com/article/202611094448i",
-          "source": "한국경제"
-        },
-        {
-          "title": "외국인 7일째 '팔자'에도…ETF 담는 개미들, 삼전닉스 들어 올렸다 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/09/2026110911301182528",
-          "source": "머니투데이"
-        },
-        {
-          "title": "하락 출발 코스피 장중 5000선 ‘사수전’...상승 하락 오락가락",
-          "url": "https://www.chosun.com/economy/money/2026/11/09/NIHDMEXVGVAS3LRU7CZXDBJ3AU/",
-          "source": "조선일보"
-        }
-      ]
-    },
     {
       "keyword": "최태원",
       "traffic": "10000+",
@@ -58,108 +37,174 @@
           "source": "아시아경제"
         },
         {
-          "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998",
-          "source": "아시아투데이"
-        },
-        {
           "title": "\"가만히 갖고 있으라더니\"…40% 고꾸라진 주가에 하닉 개미들 속앓이",
           "url": "https://news.tf.co.kr/read/economy/2386242.htm",
           "source": "더팩트"
+        },
+        {
+          "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998",
+          "source": "아시아투데이"
         }
       ]
     },
     {
-      "keyword": "한남더힐 아파트",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-09T02:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSh9K0DIjsdS1ECWkd1ruQf78klL6ZjiAmnM7XniZL5yWyTY7J90iOCKfZKGM",
+      "keyword": "아나운서",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-09T04:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOSwADKQ5S5f7nSCCHwUYmSjKStXGyovcKm0AqWdPbZzzAyd3W7i0QydtOI28",
+      "category": "연예",
+      "news": [
+        {
+          "title": "쌩얼에 안경쓰고 ‘지진 속보’ 전한 공영방송 아나운서…일본서 화제",
+          "url": "https://www.munhwa.com/article/11629830",
+          "source": "문화일보"
+        },
+        {
+          "title": "'파란 스웨터·안경·민낯' 日 새벽 1시 지진 속보 전한 아나운서 모습에 누리꾼 '엄지척'",
+          "url": "https://www.asiae.co.kr/article/2026110914204581600",
+          "source": "아시아경제"
+        },
+        {
+          "title": "일본 5.7 지진에 20여 명 부상...\"2~3일 강한 여진 주의\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611090840181300",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "반계리 은행나무",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-09T04:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXau7cS7VeBlOt4JPRiTg71RaXtRWahxO5IE8934acUvltOp_RzoYMNWPbfzw",
       "category": "경제",
       "news": [
         {
-          "title": "옥주현 한남더힐 경매 사태…\"50억으로 400억 당겼다가 청산된 것\"",
-          "url": "https://www.news1.kr/realestate/general/6346754",
-          "source": "뉴스1"
+          "title": "[포토] 노랗게 물든 장수동 은행나무",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336217",
+          "source": "인천일보"
         },
         {
-          "title": "‘190억이 경매로’…옥주현 사는 한남동 최고가 아파트는[누구집]",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645643752&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "[포토] 사랑을 남기고 떠나는 가을",
+          "url": "https://www.viva100.com/article/20261109500540",
+          "source": "브릿지경제"
         },
         {
-          "title": "“옥주현, 180억 대부업체 대출 추정…연이자만 20억 이상” 변호사 분석 [이슈픽]",
-          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/05/20261105500315",
-          "source": "TWIG"
+          "title": "[로컬 탐방] 천년 은행나무의 유산",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3446941",
+          "source": "천지일보"
         }
       ]
     },
     {
-      "keyword": "김연아",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-09T03:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO4rpdS96CsKxWV670nkFWEnzWXZD_432PayWxd5xEjthK1NWRCRvs87wAg3I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'임신설 부인' 김연아, 볼살 통통하게 오른 모습 공개…여전한 미모 [N샷]",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6347161",
-          "source": "뉴스1"
-        },
-        {
-          "title": "'고우림♥' 김연아, 배 가렸더니 통통해진 볼살..뭐만 했다하면 임신설",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/MFRWMNZYGQ4TMNBRGU4DSMRYME/",
-          "source": "조선일보"
-        },
-        {
-          "title": "“혹시 베이비?” ‘고우림♥’ 김연아, 임신설 아니라는데 곰인형 이어 볼살 통통",
-          "url": "https://www.mk.co.kr/news/entertain/12201993",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "신인감독 김연경",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-09T02:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN1gL8fkrc9yo363hxZUr3yiBzLDZwRrAc2QfxHdEsNhGqedH_cZ40_z_wEJ0",
+      "keyword": "pakistan vs sri lanka",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-09T04:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTwb2okG_ugdgvd86LgZ5H8ONTB-JdzU8ZFT0orXU1MCMLSA7deZbWK2x7MkA",
       "category": "스포츠",
       "news": [
         {
-          "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
-          "source": "머니투데이"
+          "title": "Babar: 'Selection not in my hands, I simply give my inputs'",
+          "url": "https://www.cricinfo.com/story/pak-vs-sl-2026-babar-azam-selection-not-in-my-hands-i-simply-give-my-inputs-1561918",
+          "source": "Cricinfo"
         },
         {
-          "title": "'신인감독 김연경2', 역전할 수 있을까…황연주 체력 빨간불",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02282886645643424&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "Pakistan update WTC27 series squad against Sri Lanka",
+          "url": "https://www.icc-cricket.com/news/pakistan-update-wtc27-series-squad-against-sri-lanka",
+          "source": "ICC"
         },
         {
-          "title": "'신인감독2' 원더독스 VS 전 주장 표승주…승자는?!",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523982",
-          "source": "iMBC 연예"
+          "title": "ARY Digital secures UK broadcast rights for Pakistan-Sri Lanka Test series",
+          "url": "https://www.bizasialive.com/ary-digital-secures-uk-broadcast-rights-for-pakistan-sri-lanka-test-series/",
+          "source": "BizAsiaLive"
         }
       ]
     },
     {
-      "keyword": "연차",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T03:20:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "keyword": "중국",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T04:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5l2lOuEQLsmorDSFtSZ1mFJatJW8Kf3pxAaVuhUFW1dWvURgfdgpTN8z25rU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "중국 산시성 상업용 건물서 화재…5명 사망·33명 부상",
+          "url": "https://www.yna.co.kr/view/AKR20261109029900083",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "中 산시성 주상복합 건물서 화재…5명 사망·33명 부상",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860006",
+          "source": "뉴시스"
+        },
+        {
+          "title": "중국 산시성 건물서 불…5명 사망·33명 부상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707249",
+          "source": "KBS 뉴스"
+        }
+      ]
     },
     {
-      "keyword": "용산공원",
+      "keyword": "생일",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-09T03:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsx3si9xbINnDorI10G3Faxl5dV_auU9-SBRS3r6W9bI9TPAFdn7TfZHFgpnU",
+      "category": "연예",
+      "news": [
+        {
+          "title": "린, 생일 맞아 포스터 공개…단독 콘서트 앞두고 근황",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271464",
+          "source": "톱스타뉴스"
+        },
+        {
+          "title": "린, 붉은 드레스와 미소로 전한 생일 근황…팬심 사로잡다",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080815",
+          "source": "진일보 | 전남일보"
+        },
+        {
+          "title": "가수 린, 고궁 야경 아래 드레스 자태…10월 끝에 전한 노래 한 곡",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264699",
+          "source": "톱스타뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "로켓",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T04:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXMIrlXVIgrVln4QGfRuEDRBZUyczm3lSIuZf-dL_5KSzYYSkgKcERPxjeLe8",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "이노스페이스, 준궤도 로켓 '세빛' 재도전…29일 발사 목표",
+          "url": "https://www.yna.co.kr/view/AKR20261109030000017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘와신상담’ 국내 민간로켓 세빛, 이번엔 발사 성공할까…오는 29일 우주행 재도전",
+          "url": "https://www.khan.co.kr/article/202611091159001",
+          "source": "경향신문"
+        },
+        {
+          "title": "'실패' '실패' '⋯' 이번엔 성공할까 [지금은 우주]",
+          "url": "http://www.inews24.com/view/2024011",
+          "source": "아이뉴스24"
+        }
+      ]
+    },
+    {
+      "keyword": "용산공원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T03:50:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXsFDijOEjzJFhaJ6ydGTAvKOSr3RCew7kgMAP4gIk7YQoay8YjrduvLElEvg",
-      "category": "정치·사회",
+      "category": "경제",
       "news": [
         {
           "title": "용산국제업무지구 주택물량 8000가구 놓고 말 다른 서울시와 국토부",
@@ -167,89 +212,64 @@
           "source": "경향신문"
         },
         {
-          "title": "국토부는 \"더 짓자\" 서울시는 \"8000가구까지\"…용산 공급 '평행선'",
-          "url": "https://www.news1.kr/realestate/general/6347553",
-          "source": "뉴스1"
+          "title": "서울 용산구, '용산공원 특별법' 개정 추진에 \"분명한 반대\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837227",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "정부 “용산공원 주택공급, 장교숙소 등 우선 검토”",
-          "url": "https://www.donga.com/news/Economy/article/all/20261109/134988236/2",
-          "source": "동아일보"
+          "title": "[단독] \"제발 용산에 청년 아파트 그만\"…행정감사 서울시의원 발언 논란",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108174544Z2c",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "jtbc",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T03:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYflFO1ASR2mOBpsWYDEM3l4wn-A_I4kTzEkHswLJDXAZJFpZgZIsF9zBQ_I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "JTBC launches sale, to pick preferred buyer in January",
-          "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "Troubled broadcaster JTBC to select preferred bidder in Jan.",
-          "url": "https://en.yna.co.kr/view/AEN20261109001900315",
-          "source": "Yonhap News Agency"
-        },
-        {
-          "title": "In the M&A market next week, KDB Life Insurance, which is nearing the end of the preferred bidde..",
-          "url": "https://www.mk.co.kr/en/stock/12201625",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "소방",
+      "keyword": "의과대학",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-09T03:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO3p71W6vGENK4IQJFzK_paRmE4g2DqK9aXRLScK63BJEPFd6ssO3tvddI1oE",
+      "startedAt": "2026-11-09T04:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj3UnKCjon2F9GGlzpVnYdfCdgAUPKiGyU5ethcQskVfISqlSwp6xR3cGAk6Y",
       "category": "정치·사회",
       "news": [
         {
-          "title": "이 대통령 \"정부가 소방의 119 될 것\"‥처우 개선·재원 확보 약속",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6864224_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "국힘, 국회서 영화 '소방관' 상영회…\"소방예산 확 바꾸겠다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261109077300001",
+          "title": "'의대 탈락' 목포지역에 전남대병원 분원 설립 검토",
+          "url": "https://www.yna.co.kr/view/AKR20261109052200054",
           "source": "연합뉴스"
         },
         {
-          "title": "인사말하는 장동혁 국민의힘 대표",
-          "url": "https://www.newsis.com/view/NISI20261109_0021525947",
-          "source": "뉴시스"
+          "title": "김형동 국회의원, 국립경국대 의대 설립으로 경북 북부권 의료 혁신 기대",
+          "url": "https://www.viva100.com/article/20261109500635",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "[패트롤]안동시-영주시",
+          "url": "https://m.ekn.kr/view.php?key=20261108023246778",
+          "source": "에너지경제신문"
         }
       ]
     },
     {
-      "keyword": "김희영",
+      "keyword": "트로이 왓슨",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-09T03:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQImkZTK5UI1dzikoZg71P2rIuOdFGBtWxHP3Y4tezbLuyc_zjHhj6J1dtKU3k",
-      "category": "기타",
+      "startedAt": "2026-11-09T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmTjzHg3obhGs7rUzvH78mPthHAImiVgR06C5RTJ0BMvrn4mWWQGCxPF-BKFI",
+      "category": "스포츠",
       "news": [
         {
-          "title": "산이 좋아 머문 자리 ‘K-마운틴’ 희망을 품다 [화제인물 파타고니아 영남알프스점 김희영 대표]",
-          "url": "http://san.chosun.com/news/articleView.html?idxno=26280",
-          "source": "월간산"
+          "title": "1년 새 팔꿈치 수술만 두 번 했는데 한국행? '최고 157km/h' 트로이 왓슨, KBO 구단과 계약 임박",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=131902",
+          "source": "더게이트"
         },
         {
-          "title": "“최태원 동거인은 중국간첩” 주장한 ‘배터리 아저씨’ 2심도 벌금 700만원",
-          "url": "https://www.dt.co.kr/article/12093593",
-          "source": "www.dt.co.kr"
+          "title": "'트로이 '목마' 왓슨 FA 됐다' LG와 한화, 또 격한 영입 경쟁할까?...NPB 진출 가능성도",
+          "url": "https://www.maniareport.com/view.php?ud=20261106060801229691b55a0d56_19",
+          "source": "마니아타임즈"
         },
         {
-          "title": "‘최태원 동거인 간첩설’ 배터리 아저씨, 항소심도 벌금형",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/06/Y66KXM4JOZA5RBAAVDX3FYHUTM/",
-          "source": "Chosunbiz"
+          "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=131892",
+          "source": "더게이트"
         }
       ]
     }
