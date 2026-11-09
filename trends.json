@@ -1,57 +1,53 @@
 {
-  "updatedAt": "2026-11-09T09:00:40.475Z",
+  "updatedAt": "2026-11-09T09:54:51.568Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
+      "count": 6
     },
     {
       "category": "경제",
-      "count": 3
-    },
-    {
-      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "정지선",
+      "keyword": "김장훈",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-09T05:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGHun2zWY8NXWaPKDXwbZN2C8P3bqlx5kCmVWrxEMtJNAEtlpclPG9AVK9YXk",
-      "category": "IT·과학",
+      "startedAt": "2026-11-09T08:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKGyqQEDCikHGWOUr_9Kv45VrrEFHLbu-LGNx6HBhm-_qSFHl4hAtrIlpGFJY",
+      "category": "기타",
       "news": [
         {
-          "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
-          "url": "https://www.segye.com/newsView/20261109502858",
+          "title": "김장훈, 국민연금 예상액 듣고 깜짝…“그렇게 많이 주냐”",
+          "url": "https://www.segye.com/newsView/20261109502306",
           "source": "세계일보"
         },
         {
-          "title": "정지선 \"140평 대만 식당 한 달 반 만에 10명 퇴사해\"",
-          "url": "https://www.newsis.com/view/NISX20261108_0003859545",
-          "source": "뉴시스"
+          "title": "\"이렇게 많이 줘?\" 63세 김장훈, 국민연금 수령액 깜짝...또 기부? - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917220064923",
+          "source": "머니투데이"
         },
         {
-          "title": "“아이라인 그려주세요” 정지선, 대만 ‘국민셰프’된 비결? MZ 취향 저격 ‘AI 광고’",
-          "url": "https://sports.khan.co.kr/article/202611081818003",
-          "source": "스포츠경향"
+          "title": "김장훈·이소라, 과거 스캔들 직접 언급…\"손잡고 대학로 갔다\" [RE:TV]",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6347014",
+          "source": "뉴스1"
         }
       ]
     },
     {
       "keyword": "구속",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-09T07:50:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpTbLjWz8RC4h5S0IfQ0yINFXWKy-dWkkV8uI4e_JBCXYH-HysqqrTkGNPm68",
       "category": "정치·사회",
@@ -92,9 +88,59 @@
           "source": "경기일보"
         },
         {
-          "title": "\"귀신이 잡아간다\"...'민속촌 참교육'에 엇갈린 반응 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611091434572751",
+          "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611091416020041_005.html",
           "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "실업",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-09T06:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8x63y4FrRA03jayO4iUEpq4vPzCnmaM_5cAwhBACw3givE80ziHeXGrzQhuk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859821",
+          "source": "뉴시스"
+        },
+        {
+          "title": "내 발로 퇴사해도 실업급여… “도덕적 해이 우려 크지 않아”",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447169",
+          "source": "천지일보"
+        },
+        {
+          "title": "\"퇴사 반복하면 어쩌나 했더니\"…月 100만원 지급안에 '반전'",
+          "url": "https://www.hankyung.com/article/2026110946277",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "스타틴",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T08:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyRZ40re7gy4jc_f4pyPkzVcZwmLNpJXu4T0X8ld3ZPJqbc9iZBYU2TYCLyd4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과",
+          "url": "https://www.khan.co.kr/article/202611091453001",
+          "source": "경향신문"
+        },
+        {
+          "title": "심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860308",
+          "source": "뉴시스"
+        },
+        {
+          "title": "동맥경화성 심혈관질환, 치료 초기 '스타틴·에제티미브' 병용 효과 입증",
+          "url": "https://www.healthmedia.co.kr/news/articleView.html?idxno=107290",
+          "source": "헬스미디어뉴스"
         }
       ]
     },
@@ -133,52 +179,27 @@
       "news": []
     },
     {
-      "keyword": "실업",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T06:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8x63y4FrRA03jayO4iUEpq4vPzCnmaM_5cAwhBACw3givE80ziHeXGrzQhuk",
+      "keyword": "볼더링",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZ5IspbM7Bw11nIyNeMV4qEQCW7CswC8Lkn9qNKkctwNngydG1u5Hx50qNhY",
       "category": "기타",
       "news": [
         {
-          "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
-          "url": "https://www.newsis.com/view/NISX20261109_0003859821",
-          "source": "뉴시스"
+          "title": "“어딘지 어색하더라니…” 고난도 볼더링 짜깁기 논란",
+          "url": "http://san.chosun.com/news/articleView.html?idxno=26234",
+          "source": "월간산"
         },
         {
-          "title": "내 발로 퇴사해도 실업급여… “도덕적 해이 우려 크지 않아”",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447169",
-          "source": "천지일보"
+          "title": "고난도 볼더링 영상 짜깁기 논란…증거 요구 확산 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1080793",
+          "source": "재경일보"
         },
         {
-          "title": "\"퇴사 반복하면 어쩌나 했더니\"…月 100만원 지급안에 '반전'",
-          "url": "https://www.hankyung.com/article/2026110946277",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T06:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI19mwsEqM1ngkchnBUDPcpg66wYOfMgoQg6cH-AQnn0X3aYKr59RXiOETqtc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"레버리지도 아닌데\"…일제히 '10%대 급등' ETF 뭐길래",
-          "url": "https://www.hankyung.com/article/202611094906i",
-          "source": "한국경제"
-        },
-        {
-          "title": "[ETF 시황] 우주항공·양자 ETF 날았다…2차전지 레버리지는 12% 급락",
-          "url": "https://www.newspim.com/news/view/20261109001123",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/09/2026110814501193864",
-          "source": "머니투데이"
+          "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
+          "url": "https://www.yna.co.kr/view/AKR20261109124800007",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -201,9 +222,9 @@
           "source": "뉴시스"
         },
         {
-          "title": "한전, 에너지캐시백 가입 200만호 돌파…제주 가정 1년치 전력 절약",
-          "url": "https://www.hankyung.com/article/202611095227i",
-          "source": "한국경제"
+          "title": "한전 \"주택용 에너지캐시백 200만호 돌파…도입 6년 만\"",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261109.99099002562",
+          "source": "국제신문"
         }
       ]
     },
@@ -216,9 +237,9 @@
       "category": "경제",
       "news": [
         {
-          "title": "한화에어로, 천무 해상 사격 시험… 무인수상정 탑재 추진",
-          "url": "https://biz.chosun.com/industry/company/2026/11/09/MFAUDA76S5FGBCLNWX6SX4DZJA/",
-          "source": "Chosunbiz"
+          "title": "한화에어로스페이스, 육상용 ‘천무’ 바다에서 쏜다…美 무인함정 시장 공략",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/7MFLUFVJQRHAHGO6FKCDX5LWEU/",
+          "source": "조선일보"
         },
         {
           "title": "한화오션 미국 해군 중형상륙함 수주는 '미미' 평가, 블룸버그 \"한국 조선업체 투자 유인할 추가 발주 필요\"",
@@ -229,31 +250,6 @@
           "title": "美 차기 ‘호위함’ 후보 오른 충남급...‘韓·日·튀르키예’ 삼파전",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002950",
           "source": "아시아투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "볼더링",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-09T07:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4mJbY1ewe2E0e3BWrFT9eaonorQ7ikcMiWugPj8fy1c1WpCDLjy5Blvdw3Hg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
-          "url": "https://www.yna.co.kr/view/AKR20261109124800007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "파라클라이밍 윤태인, 파라시리즈 한국 선수 역대 ’첫 메달’ 쾌거",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109132703FV8",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "클라이밍 대표팀, 후쿠오카 그랜드 파이널서 은메달 2개",
-          "url": "https://www.newspim.com/news/view/20261109001192",
-          "source": "뉴스핌"
         }
       ]
     }
