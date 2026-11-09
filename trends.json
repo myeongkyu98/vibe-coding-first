@@ -1,28 +1,20 @@
 {
-  "updatedAt": "2026-11-09T02:50:28.191Z",
+  "updatedAt": "2026-11-09T03:50:27.694Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "count": 4
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     },
     {
@@ -32,252 +24,252 @@
   ],
   "items": [
     {
-      "keyword": "젠슨 황 부인",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-09T01:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREQV921IybevlQ1AIhL5qLbsxo0nvoAK2X5Y9cGbhL0siCMaCVFneOPUFRvz4",
+      "keyword": "중앙일보",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-09T01:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidohrJ6BpDFPATcYcO4Mx0YesDdj96Ro7dW_wySH3sST4cTns52mI165n03w",
       "category": "기타",
       "news": [
         {
-          "title": "“아내에 불충실했다”…젠슨황, 첩자 의혹女와 불륜 인정",
-          "url": "https://www.munhwa.com/article/11629698",
-          "source": "문화일보"
+          "title": "[부고] 김병수 씨(중앙일보 마케팅솔루션국 리더) 부친상",
+          "url": "https://www.news1.kr/life-culture/press/6347157",
+          "source": "뉴스1"
         },
         {
-          "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'",
-          "url": "https://zdnet.co.kr/view/?no=20261109112712",
-          "source": "지디넷코리아"
+          "title": "[부고] 김종현씨",
+          "url": "http://www.ksw-news.com/news/articleView.html?idxno=3058376",
+          "source": "한국사회복지저널"
         },
         {
-          "title": "젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261109005251091",
-          "source": "연합뉴스"
+          "title": "[부고] 김병수씨(중앙일보 마케팅솔루션국 리더) 부친상",
+          "url": "https://www.public25.com/news/articleView.html?idxno=58146",
+          "source": "퍼블릭타임스"
         }
       ]
     },
     {
-      "keyword": "이찬혁",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-09T00:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmjA2W9Fox5AFBTHfMfvutty9oia6RDciREoeY0ukfdT_iIwgchqCRAdHsg9M",
-      "category": "연예",
-      "news": [
-        {
-          "title": "\"17만원 냈는데 앞사람 머리만 봤다\" 악뮤 콘서트 '혹평'…왜? - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110814103286435",
-          "source": "머니투데이"
-        },
-        {
-          "title": "악뮤 강릉 콘서트 시야 제한 논란…“17만 원 VIP석도 안 보여”",
-          "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "공연 도중 관객 이탈까지... 호평받던 악뮤 콘서트, 쏟아진 혹평",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GUZGIYRXMM4DKODCMFSDGYJVG4/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "매일경제신문",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-08T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo-KMHWfE87RjNmRCWLm5Q4-s21YHcgQzOre1JjOUNjRyUapMFQS6zFToQTrA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“고점서 60% 빠졌는데 당연히 사야죠”...삼전닉스 지금 매수하라는 노익장",
-          "url": "https://www.mk.co.kr/news/stock/12201921",
-          "source": "매일경제"
-        },
-        {
-          "title": "급락한 반도체 주식 중 제가 고른 3개",
-          "url": "https://contents.premium.naver.com/finfarmer00/finfarmer/contents/261108115751427dp",
-          "source": "네이버 프리미엄콘텐츠"
-        },
-        {
-          "title": "한국 증시, 지금의 조정은 위기인가 새로운 기회인가?",
-          "url": "https://www.hankyung.com/article/202611044856i",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "젠지",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T01:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuzcQuY3EZK3iWAVaV-W1Kbun62k9WCTLOFEtCUCB645rg65s3AYpSWVxNRps",
+      "keyword": "홍창기",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-09T02:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFn_qy457FK48TS8TM7X50_1kwsjgKOLslGT_8coKwNzGpLm1swd6MkfSFWe8",
       "category": "스포츠",
       "news": [
         {
-          "title": "젠지, 2026 LoL 월드 챔피언십 결승 진출…IG에 3-0 완승",
-          "url": "https://www.yna.co.kr/view/AKR20261108016600017",
-          "source": "연합뉴스"
+          "title": "롯데서 은퇴선언, FA 영입 1순위로 이 선수 지목했다…\"올해는 시행착오, 내년부터 괜찮아질 것\" 기대",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018505",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "'쵸비' 정지훈 \"부담감 버리고 찾은 즐거움, 누가 올라오든 직접 꺾고 우승할 것\"",
-          "url": "https://www.osen.co.kr/article/G1112906954",
+          "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까”",
+          "url": "https://www.osen.co.kr/article/G1112903112",
           "source": "OSEN"
         },
         {
-          "title": "쵸비·기인, 커리어 첫 월즈 결승…성불까지 단 '한 걸음' [이주현의 로그인 e스포츠]",
-          "url": "https://www.hankyung.com/article/202611083066i",
-          "source": "한국경제"
+          "title": "\"이주헌 키웠는데도 못 보내?\" LG 박동원, FA 앞두고 몸값이 고민되는 이유",
+          "url": "https://v.daum.net/v/3HNTpTd8BQ",
+          "source": "Daum"
         }
       ]
     },
     {
-      "keyword": "공장",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T00:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpklzI4l8QzRBzp9TA96xemX3ffbB-vb6yZg8dLYpnrvduQwuGIdNwr1XduYc",
+      "keyword": "한남더힐 아파트",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-09T02:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSh9K0DIjsdS1ECWkd1ruQf78klL6ZjiAmnM7XniZL5yWyTY7J90iOCKfZKGM",
+      "category": "경제",
+      "news": [
+        {
+          "title": "옥주현 한남더힐 경매 사태…\"50억으로 400억 당겼다가 청산된 것\"",
+          "url": "https://www.news1.kr/realestate/general/6346754",
+          "source": "뉴스1"
+        },
+        {
+          "title": "‘190억이 경매로’…옥주현 사는 한남동 최고가 아파트는[누구집]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645643752&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "“옥주현, 180억 대부업체 대출 추정…연이자만 20억 이상” 변호사 분석 [이슈픽]",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/05/20261105500315",
+          "source": "TWIG"
+        }
+      ]
+    },
+    {
+      "keyword": "노점상",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-09T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPSF-JvogIoS5S1ogAaQOrP2gqrccYma9rAwAj-IYMgaleiOTSehiI4qRX8HY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"하루 3만원 버는데…\" 붕어빵 노점상 울린 판사의 한마디 [사장님 고충백서]",
+          "url": "https://www.hankyung.com/article/202611083087i",
+          "source": "한국경제"
+        },
+        {
+          "title": "\"하루 3만원 버는 보통 사람들\"…무허가 붕어빵 노점상 울린 한마디",
+          "url": "https://news.jtbc.co.kr/article/NB12327118",
+          "source": "JTBC"
+        },
+        {
+          "title": "랑코 해변의 불법 노점들을 철거하고 해변 공간을 복원하기로 합의했다.",
+          "url": "https://www.vietnam.vn/ko/dong-thuan-thao-do-hang-quan-lan-chiem-tra-lai-khong-gian-bai-bien-lang-co",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "연구",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T02:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsTH5S5mIHBfXGo6p6CYUizyUNmViHlOzIdFAXbaWRqORtXeAEWFvVgzw2LL4",
       "category": "IT·과학",
       "news": [
         {
-          "title": "세아베스틸, 철강공장 특화 AI 안전 솔루션 개발",
-          "url": "https://www.yna.co.kr/view/AKR20261109043900003",
-          "source": "연합뉴스"
+          "title": "국방 AI 선도연구기관에 카이스트·ETRI·LG AI연구원 지정",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707263",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "세아베스틸, AI 안전 설루션 개발… 안전 경영 ‘강화’",
-          "url": "https://biz.chosun.com/industry/company/2026/11/09/UTPPKOPSB5BDPMVH5GEBXRMEQ4/",
+          "title": "방사청, AI 분야 선도연구기관 ‘KAIST·ETRI·LG AI연구원’ 3곳 지정",
+          "url": "https://www.munhwa.com/article/11629799",
+          "source": "문화일보"
+        },
+        {
+          "title": "방산 AIDC 구축과 기술보호로 K-방산의 미래를 열다",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147071",
+          "source": "보안뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "파주시",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShoWvzrxsZUyDFeGETQ4UCisIXmlTjyAJsTf53WDmtgjV9M4mjiZxbZUuJku8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "고성군, ‘2026년 하반기 불법자동차 일제단속’ 실시",
+          "url": "https://www.viva100.com/article/20261107500098",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "파주시, 관계기관 합동 불법자동차 집중 합동 단속",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3215844&type=&mobile=",
+          "source": "아시아뉴스통신"
+        },
+        {
+          "title": "[경남은 오늘] 경상남도·창원시·김해시",
+          "url": "http://www.iminju.net/news/articleView.html?idxno=171966",
+          "source": "민주신문"
+        }
+      ]
+    },
+    {
+      "keyword": "알 테오 젠",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T02:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyFZJwA7od2Rz84uMjRmZeLLyACJnGpfbey5opb0jv-kiqYebNOlUJypaAK0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/09/UZES6NYL4JFW5FOP6QH3QOSVWQ/",
           "source": "Chosunbiz"
         },
         {
-          "title": "\"크레인 이동 예측까지\"…세아베스틸, AI 안전망 구축",
-          "url": "https://www.news1.kr/industry/general-industry/6347278",
-          "source": "뉴스1"
+          "title": "알테오젠 키트루다SC, 유럽 위탁제조사도 특허소송 대상",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=85795",
+          "source": "PRESS9"
+        },
+        {
+          "title": "[특징주] 알테오젠, 키트루다SC 특허분쟁 확대에 17%대 급락",
+          "url": "https://www.viva100.com/article/20261109500332",
+          "source": "브릿지경제"
         }
       ]
     },
     {
-      "keyword": "마산가고파국화축제",
+      "keyword": "항공 승무원",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-09T01:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnn-Igvfy0_nadjIgqbsR49pQsy6pKfaQl-WWwELW8KlzKBmdAAKwrNJVigk",
-      "category": "생활·날씨",
+      "startedAt": "2026-11-09T01:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8k01VAUHyjsEwPAciAypsammshTiD4rsEkYp4lcGoaLBWQWuxrgBD3RxLnIA",
+      "category": "스포츠",
       "news": [
         {
-          "title": "창원시, 오늘부터 창동 라면 축제…‘이색 라면’ 공개",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8705704",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "확대운영 마산가고파국화축제, 9일간 일정 성황리 폐막",
-          "url": "https://www.newsis.com/view/NISX20261109_0003859690",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[마산가고파국화축제 결산] 1억5000만 송이 국화, 100만 눈길 사로잡았다",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554591",
-          "source": "경남신문"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성전자 주식",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T00:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpz31pODfjSFaeXAKG4VzZ8OqWr_WMisVIkG9LWdJ0eRA3lvvUbnTsaBQygw",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
-          "url": "https://www.mk.co.kr/news/business/12200736",
-          "source": "매일경제"
-        },
-        {
-          "title": "노태문, 삼성전자 자사주 3000주 장내 매입…주당 가격은",
-          "url": "https://view.asiae.co.kr/article/2026110714573867999",
-          "source": "아시아경제"
-        },
-        {
-          "title": "삼성전자 20만원 무너지자…노태문 사장, 자사주 6억 더 샀다",
-          "url": "https://www.sedaily.com/article/20111340",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "이용철",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T00:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE2EnYrUjPX-5-VEXQId0xR5EYFMYaek40_gqZ30Y-BQ2w-nmBQUmfnQEWLaM",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[단독] 유동규 \"이용철과 포커 최소 세 번\"…\"도박 안 했다\" 李 주장에 반박",
-          "url": "https://www.chosun.com/national/court_law/2026/11/09/OTPHRKRSQJBC5MIVHXZEHM7WTM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "이용철 엄호 나선 與 \"현장 역량 쌓은 실력자…흠집내기 멈춰야\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109113910lCM",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "[속보]이용철 “대통령과의 친분, 장관 결격 사유 안돼”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261109/134989477/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "카카오모빌리티",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T00:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5SIEv5_H34CU5zgv_pSCB_I-mgR3qGlZyCEhDTRTIUlKyEyNH06GrsYiRFRU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "카카오모빌리티·엔비디아 ‘레벨4’ 자율주행 개발…기아 차량에 적용 추진",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707302",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "\"강남에 엔비디아 자율주행 푼다\"…카카오모빌리티, 엔비디아와 맞손 - 머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/11/09/2026110908512517533",
+          "title": "\"빈자리 왜 못 옮겨?\" vs \"돈 더 내야\"…항공기 좌석 이동 논란 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/09/2026110909193257655",
           "source": "머니투데이"
         },
         {
-          "title": "카카오모빌리티, 엔비디아와 레벨4 자율주행 기술협력 MOU",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443728",
-          "source": "연합인포맥스"
+          "title": "좌석 절반 비었는데 옮기면 안 된다?…미국 항공사 규정 갑론을박",
+          "url": "https://view.asiae.co.kr/article/2026110818283606331",
+          "source": "아시아경제"
+        },
+        {
+          "title": "좌석 절반 빈 美 여객기…자리 이동 요청에 돌아온 답변은?",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108092035TFP",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "르브론 제임스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-08T23:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpT5w1lCpkdAzTFaShe0DzJKhxFq_mSFiBsKvjk72cTnmVD7EgBmM045k5sho",
-      "category": "기타",
+      "keyword": "광교 자연앤 센트레빌",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T01:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaXJSmxnSzWTwaOrZoSbErc8yaFL1EvFG8TCpOcz0jGP_Lib_YHrDh2yk4wr0",
+      "category": "경제",
       "news": [
         {
-          "title": "‘클리블랜드 악몽 씻었다’ 르브론, 22점 폭발···필라델피아 ‘주전 3총사 78점 합작’ 불스 꺾고 반등",
-          "url": "https://sports.khan.co.kr/article/202611090850003",
-          "source": "스포츠경향"
+          "title": "집값의 30%로 내 집 마련, '이익공유형Ⅱ' 공공분양 도입 추진 - 전체 | 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975273",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "NBA 필라델피아, 클리블랜드에 24점 차 완패…르브론 '8점' 부진",
-          "url": "https://www.news1.kr/sports/basketball/6346369",
+          "title": "전국 최초 광교 지분적립형 아파트 '특공 청약'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837125",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "LH·GH 잇따라 '지분적립형'…\"집값 25%로 입주\" 실수요자 관심",
+          "url": "https://www.news1.kr/realestate/general/6346701",
           "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "빈",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-09T02:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjh6gqbQR18f3lb5Y4bzk6BP0UW7aZdIywAm_VCmBIlh0C4vJU1-zR5Y4Ktg",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "청와대 몰려간 국민의힘 \"죄수에게 탈옥 열쇠 쥐어준 꼴\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6864201_36911.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "'르브론 효과는 명확하다' 필라델피아 초반 러시. 미 ESPN의 분석 \"에이스는 맥시. 맥시 업그레이드, 르브론 영향 미쳐\"",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/08/MY3WMZTEHFSGGNJSG5STGMDEMQ/",
-          "source": "조선일보"
+          "title": "장동혁 \"대통령 탄핵해야\"...민주 \"세계에서 존경받는 대통령\" [시사정각]",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611091217262261",
+          "source": "YTN"
+        },
+        {
+          "title": "특정인 위해 특검수사로 재판 뒤집기 논란… 법조 “헌법과 법치 무너진다”",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229007",
+          "source": "법률신문"
         }
       ]
     }
