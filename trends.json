@@ -1,49 +1,20 @@
 {
-  "updatedAt": "2026-11-09T17:52:07.014Z",
+  "updatedAt": "2026-11-09T18:48:53.076Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "count": 6
     },
     {
       "category": "연예",
-      "count": 1
+      "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 2
     }
   ],
   "items": [
-    {
-      "keyword": "빅테크",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-09T11:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvCJynWtL5EIq7hPucNDBf9hx2z8Z4RKMa_PJrVou1VS5yKOhKdJKb_SFK4PY",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA - NVIDIA Blog Korea",
-          "url": "https://blogs.nvidia.co.kr/blog/korea-secure-agentic-ai/",
-          "source": "NVIDIA"
-        },
-        {
-          "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\"",
-          "url": "https://zdnet.co.kr/view/?no=20261109161556",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "국산 AI반도체, 엔비디아 생태계 편입",
-          "url": "https://www.khan.co.kr/article/202611092056015",
-          "source": "경향신문"
-        }
-      ]
-    },
     {
       "keyword": "kf-21 보라매",
       "traffic": "2000+",
@@ -54,34 +25,9 @@
       "news": []
     },
     {
-      "keyword": "아시아나항공",
+      "keyword": "신애",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-09T11:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQKHVIT0N-GukZmmX30n7mnDvB5pdZmDdMuMzNWv6BlryH2DoLhBSumDH98OA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "아시아나항공 주가 170원 하락 후 장마감",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile=",
-          "source": "아시아뉴스통신"
-        },
-        {
-          "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
-          "url": "https://www.newspim.com/news/view/20261103000361",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "아시아나항공 주가 하락중",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3215676&type=&mobile=",
-          "source": "아시아뉴스통신"
-        }
-      ]
-    },
-    {
-      "keyword": "신애",
-      "traffic": "200+",
-      "trafficValue": 200,
       "startedAt": "2026-11-09T16:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEOJclzQobbbGD8xa7aKgsRzJQVZgo6riMR_Oy2salVtdrdNO59ZXqM2efFI",
       "category": "연예",
@@ -105,26 +51,51 @@
     },
     {
       "keyword": "gta6",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-09T15:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2n2LFo6yqaNMqUeaDpMWuYKi-GkG-wYZmYwBHdDg6qZuk_l4BujbPNm2JOMY",
       "category": "기타",
       "news": [
         {
-          "title": "GTA6 Release Triggers 1.5M U.S. Absences",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/10/SGZQM3ZS6NBEPE7EBXVFVCBDTE/",
+          "title": "GTA6 Release Sparks $1B Economic Fears",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/09/ME7KYHBGNNCIXB3PPQW2ULLC4Q/",
           "source": "조선일보"
         },
         {
-          "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
-          "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/",
-          "source": "The Sun"
+          "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
+          "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
+          "source": "IGN"
         },
         {
           "title": "Australia Reminds GTA 6 Players Their Boss Can Ask for Sick Leave Evidence",
           "url": "https://www.gtaboom.com/fair-work-ombudsman-follows-up-igta-6-leave-advice-with-a-sickie-warning-8cdb",
           "source": "GTA BOOM"
+        }
+      ]
+    },
+    {
+      "keyword": "골드만삭스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T17:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmOieRjlZBjnp0uz6IF63Lh8wuMQ5UPInWnVbLLi_sSG2y9IQC81LxishhIlU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "골드만삭스, 2030년 글로벌 데이터센터 용량 전망 273GW로 상향",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2164829",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "골드만삭스 CEO \"미국 데이터센터·컴퓨팅 인프라 투자 지속될 것\"",
+          "url": "https://bloomingbit.io/feed/news/124012",
+          "source": "블루밍비트"
+        },
+        {
+          "title": "Morgan Stanley Calls Tesla the “Very Obvious Player” as Data Centers Outbuy the Grid on Batteries",
+          "url": "https://www.tikr.com/ko/blog/morgan-stanley-calls-tesla-the-very-obvious-player-as-data-centers-outbuy-the-grid-on-batteries",
+          "source": "TIKR.com"
         }
       ]
     },
@@ -183,52 +154,77 @@
       "news": []
     },
     {
-      "keyword": "티머니",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T13:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN9NojEEk22lswrSyt6i4tSifegQNeWGMDBxSd0odTftnKmDtETJDH-CmmX2g",
-      "category": "기타",
+      "keyword": "1인당 국민소득",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-09T17:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRN52fkS2zidndkxOeeNMZM3YSu2D3n76Lye4ws7qyPs9tiXOx8MWwCKumzh-Q",
+      "category": "경제",
       "news": [
         {
-          "title": "티머니, '모두의카드' 편의점 판매 시작",
-          "url": "https://www.etnews.com/20261109000258",
-          "source": "전자신문"
+          "title": "\"1인당 5700만원 번다고?\"…현실은 딴판인 이유 있었다",
+          "url": "https://www.hankyung.com/article/2026110956791",
+          "source": "한국경제"
         },
         {
-          "title": "모두의카드, CU·GS25 등 편의점서 판매…전국 환급혜택 제공",
-          "url": "https://biz.sbs.co.kr/article/20000345065",
-          "source": "SBS Biz"
+          "title": "민생 현장에 안 퍼지는 ‘반도체 온기’… 자영업자 돌아섰다",
+          "url": "https://www.seoul.co.kr/news/politics/2026/11/09/20261109008004",
+          "source": "서울신문"
         },
         {
-          "title": "티머니, ‘모두의카드’ 편의점 판매 시작… 4000원에 구매",
-          "url": "https://www.munhwa.com/article/11629758",
-          "source": "문화일보"
+          "title": "[PPSS 경제진단] 수출 9300억 달러의 역설…나라 경제는 뛰는데 서민 지갑은 닫혔다",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=319774",
+          "source": "https://www.ppss.kr/"
         }
       ]
     },
     {
-      "keyword": "캐시워크 정답",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T12:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOD3N3fxpAJmsjWQLJxvKXekIMb8FyMZGceL5q_a889L703lkcQPjfX6Dhag8",
+      "keyword": "사이비 종교",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-09T17:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2ggqwegNpNbq1ZmNuNY0UtOCSIrHQyOoWR-klxr6dFjdZdddsnh_KS6pP224",
+      "category": "연예",
+      "news": [
+        {
+          "title": "15화 사이비 종교 신도 2,000명이 방송국으로 몰려간 밤",
+          "url": "https://brunch.co.kr/@poet/68",
+          "source": "브런치"
+        },
+        {
+          "title": "\"목사들이 위험하다고\"...박진영 종교 '사이비 논란'에 입 열었다 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/09/2026110905275910960",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"한 번만 들어보면 알 텐데\"…박진영, 사이비 논란에도 소신 행보",
+          "url": "https://news.jtbc.co.kr/article/NB12327150",
+          "source": "JTBC"
+        }
+      ]
+    },
+    {
+      "keyword": "대한민국 해군",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-09T16:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqr2uFFsNUVZK6EXjqi3r9x7ZMptw9e6jvv-ryebFVbwoQ-6X_lu_Pcg8RI1c",
       "category": "기타",
       "news": [
         {
-          "title": "국민건강보험 건강보험료 캐시워크 돈 버는 퀴즈, 정답은?",
-          "url": "https://www.ajunews.com/view/20261109155345023",
-          "source": "아주경제"
+          "title": "부울병무청, 9일 '해군병 입영문화제' 개최",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3746333",
+          "source": "국제뉴스"
         },
         {
-          "title": "[단독] 캐시워크 돈버는퀴즈 정답 11월 9일",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202611090065",
-          "source": "BNT뉴스"
+          "title": "해군교육사령부 기초군사교육단, “부모님, 건강하게 다녀오겠습니다”…해군병 730기 가족 배웅 속 입영",
+          "url": "https://sisaissue.com/View.aspx?No=4304650",
+          "source": "시사의창"
         },
         {
-          "title": "소휘 노슈가위크…캐시워크 돈버는퀴즈 정답 공개",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112891",
-          "source": "게임톡"
+          "title": "해군병 730기 320여 명, 진해 해군교육사 입영… 정예 해군 향한 첫걸음",
+          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=107560",
+          "source": "코리아이글뉴스"
         }
       ]
     }
