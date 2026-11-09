@@ -1,21 +1,17 @@
 {
-  "updatedAt": "2026-11-09T21:43:51.179Z",
+  "updatedAt": "2026-11-09T22:40:18.350Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 3
     },
     {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "스포츠",
@@ -24,252 +20,252 @@
   ],
   "items": [
     {
-      "keyword": "아들",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T20:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBZgo4Pfl2yNHpKd9OoLYdaE8N9wKoq-rCAzFwmtzAO6ugf0enSDXNp5DQJtg",
+      "keyword": "송중기",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-09T21:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSkp_AL56WymEWatEXWDK9SBdrZMbMNCkt2bgNhQUO8xinkerh3vQTyPoe_PU",
       "category": "기타",
       "news": [
         {
-          "title": "“예쁘던데…아들 여자친구야?” 반전의 진실[아하동남아]",
-          "url": "https://www.munhwa.com/article/11629557",
-          "source": "문화일보"
-        },
-        {
-          "title": "\"여자 친구인 줄 알았는데\"…18세 아들 둔 45세 엄마, 놀라운 동안 미모",
-          "url": "https://www.news1.kr/world/global-topic/6347621",
-          "source": "뉴스1"
-        },
-        {
-          "title": "\"18살 아들 여친인 줄\"…SNS 난리 난 45세 여성의 정체",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/05/2026110590188.html",
-          "source": "TV조선뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "드라마",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T20:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-A_H3yWQzKin8CGnBjzxNPYT9X3g-90mrTQOUmU37Ns2tiyP3x59Cy4cT7ic",
-      "category": "연예",
-      "news": [
-        {
-          "title": "5.18 다룬 뒤 '에잇'하고 시청자가 떠났다? '닥터 X' 때린 조선일보",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283151",
-          "source": "OhmyNews"
-        },
-        {
-          "title": "\"닥터X, 의사 집단 매도하는 막장 드라마\" 홍준표의 직격",
-          "url": "https://www.fnnews.com/news/202611090614421952",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "'암살자들'·'닥터X' 역사왜곡 논란 계기…野김승수·김장겸, 11일 국회 토론회",
-          "url": "https://www.dailian.co.kr/news/view/1712669/%EC%95%94%EC%82%B4%EC%9E%90%EB%93%A4%EB%8B%A5%ED%84%B0X-%EC%97%AD%EC%82%AC%EC%99%9C%EA%B3%A1-%EB%85%BC%EB%9E%80-%EA%B3%84%EA%B8%B0%E9%87%8E%EA%B9%80-2026",
-          "source": "데일리안"
-        }
-      ]
-    },
-    {
-      "keyword": "박수홍",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-09T20:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pn-SAEWhco7t7JKa4a8ZF94f3KsSSFK_C_bG4mm8GrKv3rY2SjxS4F--i0s",
-      "category": "기타",
-      "news": [
-        {
-          "title": "박수홍 아내, 딸 고가 패딩 '돈자랑' 논란에 남긴 말 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110808321587107",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘박수홍♥’ 김다예, 딸 명품 패딩 논란에 심경 토로…“지치고 슬퍼”",
-          "url": "https://sports.khan.co.kr/article/202611081036003",
+          "title": "‘케이티♥’ 송중기, 아이 끌어안고 함박웃음…운동 중에도 자녀와 ‘영통’ 삼매경",
+          "url": "https://sports.khan.co.kr/article/202611081515003",
           "source": "스포츠경향"
         },
         {
-          "title": "[센터엔터] 박수홍 아내, 자녀 명품 의류 자랑 논란에 \"지친다\" 外",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109130619fmy",
-          "source": "연합뉴스TV"
+          "title": "송중기, 트레이너 자녀 품에 안고 함박웃음…두 아이 아빠의 다정함",
+          "url": "https://www.segye.com/newsView/20261109502166",
+          "source": "세계일보"
+        },
+        {
+          "title": "두 아이 아빠 송중기...\"운동 중에도 다정하게 영상통화\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110819512864087",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "삼성전기",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T19:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxv1Ea7OZ5ErL1dArv-OufKtOaWVhsG7sPTe5ojXDV8RX2BIFQ5k52IVd1SLE",
-      "category": "IT·과학",
+      "keyword": "김구라",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-09T21:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNfewpW9TZzfp7MYwekFkW0MYa8Ilf2oOqH0JXrY2bcSby1P3G7SLzA932jLg",
+      "category": "경제",
       "news": [
         {
-          "title": "삼성전기 'MLCC' 품귀… 가격 올려도 장기계약 몰린다",
-          "url": "https://www.fnnews.com/news/202611081825175377",
-          "source": "파이낸셜뉴스"
+          "title": "김구라 \"올해 번 돈 다 까먹었다\"…주식 폭락에 한숨 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111005403695983",
+          "source": "머니투데이"
         },
         {
-          "title": "\"없어서 못 파는 AI 부품\"…증설 나선 삼성전기, LG이노텍은 왜 기다리나",
-          "url": "https://news.mtn.co.kr/article/2026110720174965684",
-          "source": "MTN 머니투데이방송"
+          "title": "\"5억 넣었다가 4억5000만원 날렸다\"…체중 10㎏ 빠진 직장인의 사연",
+          "url": "https://view.asiae.co.kr/article/2026110815444438059",
+          "source": "아시아경제"
         },
         {
-          "title": "삼성전기를 다시 보는 이유",
-          "url": "http://www.leadersfact.co.kr/news/articleView.html?idxno=23720",
-          "source": "리더스팩트"
+          "title": "\"주식 열공하는데 왜 나만 잃을까\"…SK하이닉스 250층 물린 8년 차 개미의 '눈물'",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860729",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "홈플러스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-09T19:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8mpq1rHIhwA1uT36Gy0rwAAI6J9QpXynsPM_cBx2ROLy2XrC3EDJknPXVS18",
+      "keyword": "알테오젠",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-09T21:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyFZJwA7od2Rz84uMjRmZeLLyACJnGpfbey5opb0jv-kiqYebNOlUJypaAK0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/09/UZES6NYL4JFW5FOP6QH3QOSVWQ/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "알테오젠 키트루다SC, 유럽 위탁제조사도 특허소송 대상",
+          "url": "https://www.press9.kr/news/articleView.html?idxno=85795",
+          "source": "PRESS9"
+        },
+        {
+          "title": "Alteogen 주가, 오늘 15.9% 급락한 이유는?",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2165386",
+          "source": "Investing.com 한국어"
+        }
+      ]
+    },
+    {
+      "keyword": "커피",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-09T21:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwYLbjh7XWZ1lpDqVfAWHDAUWoEm4FJ4Nk9jE5nRJtmGUgak7HqaSM5xWhZOo",
       "category": "기타",
       "news": [
         {
-          "title": "월급 밀리고 매대는 ‘텅텅’ 또다시 휘청이는 홈플러스···“기업회생 진짜 물건너 가나”",
-          "url": "https://www.khan.co.kr/article/202611081518001",
-          "source": "경향신문"
+          "title": "아침 커피, 건강에 좋다는데…빈속에 마셔도 괜찮을까? [건강팩트체크]",
+          "url": "https://www.donga.com/news/It/article/all/20261109/134990230/2",
+          "source": "동아일보"
         },
         {
-          "title": "2000억 수혈에도 급여 절반 미지급…홈플러스, 희망퇴직 400명도 철회",
-          "url": "https://www.news1.kr/industry/distribution/6346778",
-          "source": "뉴스1"
-        },
-        {
-          "title": "홈플러스, 월급도 납품 대금도 밀려… 매각 지연에 회생 불투명",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3446904",
-          "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "xrp 레저",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T20:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ45nvfuw_S1J0fQ-tB696rPtygoQneK3KQ6QUo3rhddtlmVMAEcLVA7fG-olY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "XRP 레저가 구닥다리?...리플 \"2027년 판 뒤집을 계획 있다\"",
-          "url": "https://www.coinreaders.com/268670",
-          "source": "코인리더스"
-        },
-        {
-          "title": "XRP는 리플의 북극성: CEO, ‘XRP에 유익한 일’을 전략의 핵심으로 삼아",
-          "url": "https://news.bitcoin.com/ko/featured/xrp-neun-rip-peul-ui-bukgeukseong-ceo-xrp-e-yuikhan-il-eul-jeonryag-ui-haegsim-euro-sama/",
-          "source": "Bitcoin News"
-        },
-        {
-          "title": "[자정 뉴스브리핑] RLUSD 거래의 92%가 XRP와 체결됐다 外",
-          "url": "https://www.tokenpost.kr/news/briefing/434799",
-          "source": "토큰포스트"
-        }
-      ]
-    },
-    {
-      "keyword": "1기 신도시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-09T19:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx36gzakLIMvsfsrAk1z3JemDZh2dhPwE4KW7AHHePRY9Kw9QSkwE0sq2mh9c",
-      "category": "경제",
-      "news": [
-        {
-          "title": "산본·중동 거래 늘고, 분당·평촌 집값 뛰고",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336359",
-          "source": "인천일보"
-        },
-        {
-          "title": "군포 산본 아파트 거래량 108% 급증…1기 신도시 증가율 1위",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040258",
-          "source": "기호일보"
-        },
-        {
-          "title": "'토허제'가 갈랐다…산본 거래량 2배 늘때 분당 '반토막'",
-          "url": "https://www.hankyung.com/article/2026110957091",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "브래드 갈링하우스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-09T20:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQC4OfW0wGcPTHwTQY-eASedgP33vR7UwOjV4xiL2gchcILr1gUwrKg8QaWDHg",
-      "category": "경제",
-      "news": [
-        {
-          "title": "리플 1.16달러 흔들…비트코인 ETF 4억달러 유출 직격",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611090339561840e7e8286d56_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "미국 CPI·PPI·연준 발언에 리플 운명 갈린다…XRP 1달러 지지선 시험대",
-          "url": "https://www.coinreaders.com/268601",
-          "source": "코인리더스"
-        },
-        {
-          "title": "리플, OCC 최종 승인에 기업 금융 전략 확대",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309887",
-          "source": "경향게임스"
-        }
-      ]
-    },
-    {
-      "keyword": "로스앤젤레스 다저스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-09T19:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhUOlmPUOq5CnFtuN0LQp8HOU3jKwrGOk7sVwWwkVeIxT0ApYqz2oWsSyeYQU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Cubs plan to sit out Tarik Skubal bidding war, but pitching needs are clear",
-          "url": "https://www.nytimes.com/athletic/7764521/2026/11/09/cubs-tarik-skubal-pitching-needs-offseason/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "MLB rumors: Why the Dodgers could be Tarik Skubal or bust; Red Sox looking for pitching depth",
-          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-dodgers-tarik-skubal-contract-red-sox-pitching-depth/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "MLB offseason buzz: Intel on Skubal, free agency, trade rumors",
-          "url": "https://www.espn.com/mlb/story/_/id/50328890/mlb-early-free-agency-buzz-intel-skubal-trade-rumors",
-          "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "신한은행",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-09T19:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUJfQZb2xuTpYsAO5WgHU8W0QmGT5xiroJ7-lt6hZ0Ozqgt3AqCAslHSMjRJ0",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[게시판] 신한은행, 최고 연 4% 정기예금 2차 특판",
-          "url": "https://www.yna.co.kr/view/AKR20261109038200002",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "신한은행, 연 4% 예금 '슈퍼SOL 웰컴 정기예금' 2차 특판",
-          "url": "https://www.newsis.com/view/NISX20261109_0003859953",
+          "title": "\"아침 공복에 커피·토스트는 독…착즙 주스로 '이것' 채워야\"",
+          "url": "https://www.newsis.com/view/NISX20261029_0003846211",
           "source": "뉴시스"
         },
         {
-          "title": "신한은행, 최고 연 4% 정기예금 다시 내놨다…5000억원 한도",
-          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748074",
-          "source": "폴리뉴스 Polinews"
+          "title": "아침에 무심코 마신 공복 커피, 지금 당신의 몸속에서 벌어지고 있는 일",
+          "url": "https://www.segye.com/newsView/20261030506940",
+          "source": "세계일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김치",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T21:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKaAeGLLb0xLNiyUUeCV9dnl2fUI5cFAirAX1iuQ8ul98OVrCetKdtHRl6JXo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "광주시 경안동 5개 단체, 취약계층·경로당에 김장김치 2천610㎏ 전달",
+          "url": "https://www.kyeonggi.com/article/20261109580389",
+          "source": "경기일보"
+        },
+        {
+          "title": "울릉 농협·농주모, 온기 담은 ‘사랑의 밑반찬’ 나눔",
+          "url": "https://www.kbmaeil.com/article/20261109500451",
+          "source": "경북매일"
+        },
+        {
+          "title": "[생생갤러리] 깊어가는 가을...2026 파주 새마을회 사랑의 김장",
+          "url": "https://www.yna.co.kr/view/MYH20261107005900038",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "황성빈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T21:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAtpaSB5IPbnqhrQMRSsw0tK8ylU-p3PGpLdOV0EcN3FC4aIoSKEg6AbzhJzc",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "'日 요미우리 유학' 떠났던 롯데 도루왕, 부상으로 귀국했었다…재검진 문제 없으면 마캠 합류 예정",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018896",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "‘류지현호’ 첫발 뗀 한화…내년 전력 구상 과제는?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8706798",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "정우주 선발? 불펜? 그보다 중요한 이야기가 있었다…2년 차 영건과 깊은 대화, 신임 감독은 무슨 메시지 전했나 [오!쎈 미야자키] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/09/202611090808777879O",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "그랜드 테프트 오토 vi",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-09T21:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2n2LFo6yqaNMqUeaDpMWuYKi-GkG-wYZmYwBHdDg6qZuk_l4BujbPNm2JOMY",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "출시 임박 GTA6가 뭐기에 전 세계가 들썩...\"美직장인 150만 결근, 10억달러 경제손실\"",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/09/UBHTMQFOQNAXJAD5H4ZJIMF3X4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "GTA 6 출시 열흘 앞둔 테이크투인터랙티브 소프트웨어, 실적 시험대",
+          "url": "https://kr.investing.com/news/earnings/article-93CH-2166589",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "\"일요일에 하지 왜\" 회사 당혹시킨 게임 출시…美 150만명 결근 예고",
+          "url": "https://www.news1.kr/world/usa-canada/6348111",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "fable 5.2",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T21:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHIzmoE_gCH8q7WlE32tzDfPm7UP6UL_xjwqCaa72fGEMtRdnpyMHtM9K1Ww",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "Anthropic Unveils New AI Models Commanding 1,000 Agents",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/10/JZUGSKIAJNDF5BSQTA5BH3NIMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "Anthropic's New AI Can Design Hardware, Find Cybersecurity Flaws And Solve Physics Problems",
+          "url": "https://www.benzinga.com/markets/private-markets/26/11/63066268/anthropics-new-ai-can-design-hardware-find-cybersecurity-flaws-and-solve-physics-problems",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Anthropic's Claude Fable 5.2 scores S-plus on coding but is \"not at the frontier\" for writing, reviewer says",
+          "url": "https://finance.biggo.com/news/838cc0139ecae2b0",
+          "source": "BigGo Finance"
+        }
+      ]
+    },
+    {
+      "keyword": "김예건",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-09T21:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUrFTeHP0GhRLfarHHQ_XL5hd-LIssfd96_CZug5qTeIPJiR3IrycW9JCJB0Q",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'유럽 입성 얼마 안 됐는데' 한국 축구의 미래, 경사 났다! \"분데스리가가 원한다\" 어린 나이에 빅리그 가능성 제기",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018928",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "‘한국 축구 초신성’ 김예건, 벌써 빅리그에서 관심 보인다! 설영우 뛰는 아우크스부르크-김진수 뛰었던 호펜하임 레이더망에 포착",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100530",
+          "source": "포포투"
+        },
+        {
+          "title": "'韓 축구' 초대형 호재...'18세 초신성' 김예건 즈베즈다 입단 3개월 만에 빅리그 러브콜! 분데스리가 2개 구단 관심, 미트윌란도 영입 경쟁",
+          "url": "https://mydaily.co.kr/page/view/2026110917325489062",
+          "source": "마이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "미스터트롯3",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-09T21:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeG2r6Aa5Wjqj51M5nW4_4laTUT2CbtvEPahtZG2b2wQGTzPMd0YDdZWhPXHg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "1년 만에 대구 돌아온 '미스터트롯3' 톱7, 뜨거웠던 180분",
+          "url": "https://www.nocutnews.co.kr/news/6604316",
+          "source": "노컷뉴스"
+        },
+        {
+          "title": "신곡 떼창까지…'미스터트롯3' 톱7, 대구서 팬들과 뜨거운 재회",
+          "url": "https://www.hankyung.com/article/202611095931H",
+          "source": "한국경제"
+        },
+        {
+          "title": "‘미스터트롯3’ TOP7, 1년 만에 대구 재방문…신곡 ‘살아보니’ 떼창까지",
+          "url": "https://www.mk.co.kr/news/entertain/12202795",
+          "source": "매일경제"
         }
       ]
     }
