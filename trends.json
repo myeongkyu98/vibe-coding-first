@@ -1,17 +1,9 @@
 {
-  "updatedAt": "2026-11-10T22:36:04.882Z",
+  "updatedAt": "2026-11-10T23:29:37.778Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 2
-    },
-    {
       "category": "스포츠",
-      "count": 2
+      "count": 4
     },
     {
       "category": "IT·과학",
@@ -20,163 +12,125 @@
     {
       "category": "경제",
       "count": 1
+    },
+    {
+      "category": "기타",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "아들",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-10T21:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtuxB9LvGS7LlOVb3jD1P5CEw8ZT6IBK-bds9EKmit133JbuIbQami8VD2-eI",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘배우 부부’ 차경은×이유진, 긴장감 가득한 2세 여름이 성별 공개!",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092556",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "이효정 아들 이유진 \"배우 장동윤이 동서…평소 좋아했다\"",
-          "url": "https://www.newsis.com/view/NISX20261111_0003862937",
-          "source": "뉴시스"
-        },
-        {
-          "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
-          "url": "https://www.osen.co.kr/article/G1112908014",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "이소라",
+      "keyword": "메이플스토리",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-10T21:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM8xLzJaCaGc7-yZsaHoo-47Qg5uU1D5MB3XryfLe_2uqWGE4O_VQ1-2_JMaM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "이소라, 바람이 분다 등 45곡 압류 신청…상대는 전 소속사 대표",
-          "url": "https://www.segye.com/newsView/20261110504836",
-          "source": "세계일보"
-        },
-        {
-          "title": "가수 이소라, 전 소속사와 분쟁…‘바람이 분다’ 등 45곡 저작인접권 압류",
-          "url": "https://www.khan.co.kr/article/202611102102001",
-          "source": "경향신문"
-        },
-        {
-          "title": "이소라, 전 소속사 대표와 갈등 시작엔 ‘횡령 의혹’..“최소 수십억원” [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MUYTQNLFMEYGMY3EMZRWMYRRG4/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김구라",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-10T21:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWY8ZTEvoRHoEnZkLZ4Mvmtjk-FM7toZBotrj42ZnF4-Lf9WsIYnR7BS_DdKA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“올해 번 돈 다 까먹어” 김구라 경제연구소서 나온 말",
-          "url": "https://www.munhwa.com/article/11630076",
-          "source": "문화일보"
-        },
-        {
-          "title": "김구라 \"올해 번 돈 다 까먹었다\"…주식 폭락에 한숨 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111005403695983",
-          "source": "머니투데이"
-        },
-        {
-          "title": "김구라, 주식 급락에 한숨 \"올해 번 돈 다 반납했다… 이제 마이너스\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/GNTDEOLCHE3GGOLFGVSTCMTGMU/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "빅토르 안",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T21:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzNiHqrdNbGeLAiz6R3hawmFlq3Q7ZKkcP4hD8pmbzqHPTo_zUFmtrTT1IJM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'러시아 귀화' 빅토르 안, '스피드퀸' 출연…7년만 국내 예능",
-          "url": "https://www.yna.co.kr/view/AKR20261110148200005",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'러시아 귀화' 빅토르 안, 국내 예능 출연…쇼트트랙 코치로 합류 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111014380579096",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘올림픽 6관왕’ 빅토르 안, ‘스피드퀸’ 히든 코치 합류…전이경이 직접 제안",
-          "url": "https://sports.donga.com/ent/article/all/20261110/134999243/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "송지효",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T21:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpwlbRne46jDEMclDJejKVDhK7zE6m-5Q5yT648n1tXirtiHv6RTb0NJJjz00",
-      "category": "기타",
-      "news": [
-        {
-          "title": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110920491280966",
-          "source": "머니투데이"
-        },
-        {
-          "title": "송지효, 제주도에서 해녀복 입었다 \"명예 해녀로 일하는 중\"…미모 여전 [N샷]",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6349393",
-          "source": "뉴스1"
-        },
-        {
-          "title": "“사업 계속 적자”……송지효, ‘런닝맨’서 한 달 지출 내역 공개",
-          "url": "https://www.segye.com/newsView/20261109504653",
-          "source": "세계일보"
-        }
-      ]
-    },
-    {
-      "keyword": "게임",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T21:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEcL5mbLokV1QZR2zIm1cUyQPfrrlpuiqWfkoFWuus41XgYmGjdOZvhCAyE2w",
+      "startedAt": "2026-11-10T22:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYb7VC_LijYWntApQReMNUoZ9Dj6S3HXR8eRz7oWpqIuwrxo4JNT_--O6UsQ",
       "category": "IT·과학",
       "news": [
         {
-          "title": "엠게임 '귀혼키우기', 11월 24일 출시... 사전예약 100만명 돌파",
-          "url": "https://www.etnews.com/20261110000227",
-          "source": "전자신문"
+          "title": "넥슨 3분기 영업익 3천718억…메이플·FC 성과에 전망치 상회",
+          "url": "https://www.yna.co.kr/view/AKR20261110137000017",
+          "source": "연합뉴스"
         },
         {
-          "title": "21년 된 '귀혼' 방치형으로 부활…엠게임 '귀혼키우기' 24일 출시",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862298",
-          "source": "뉴시스"
+          "title": "[단독] \"창립 이래 최대 위기\"…'게임 1위' 넥슨에 무슨 일이",
+          "url": "https://www.hankyung.com/article/2026111084471",
+          "source": "한국경제"
         },
         {
-          "title": "엠게임, 방치형 RPG ‘귀혼키우기’ 24일 출시",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/10/QSEGYCXSVNC4BJN2I2PFQMV47A/",
-          "source": "Chosunbiz"
+          "title": "[속보]크래프톤, 3분기 영업이익 2250억원…전년比 35.5%↓ - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/tech/2026/11/10/2026111015505174081",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "농구",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-10T21:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQggpGxWG4NzeJxGfNkgMTponvSpWLZOXYs5vAXKzGOcKtoyxSMqVUK4CrCK3c",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "프로농구 소노, 꼴찌 현대모비스 잡고 5연패 탈출…이정현 26점",
+          "url": "https://www.yna.co.kr/view/AKR20261110175800007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "\"기다리면 기회 온다고 믿었다\" 지난 시즌 1군 평균 47초→프로 7년 차 첫 방송 인터뷰... 소노 5연패 탈출 '숨은 히어로' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111103592870997",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[오늘의 영상] 돕고 넣고…3점슛 합작",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709235",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "vix",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-10T22:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6F2iLSB8zidiqlhreM0sfd9kUVC6HOiHItOxvk7hfDuxmVzOgxUO1j-MKfAQ",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an '",
+          "url": "https://www.benzinga.com/markets/tech/26/11/62904872/dan-ives-warns-chip-stocks-arent-done-falling-sees-another-12-drop-but-tom-lee-calls-ai-selloff-an-overreaction-predicts-20-tech-rally",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Video: Macro Minute: More evidence bottom is in: stocks rally on bad news. And also, VIX term structure uninverted",
+          "url": "https://fundstratdirect.com/macro-strategy/macro-minute/2026/11/09/video-macro-minute-more-evidence-bottom-is-in-stocks-rally-on-bad-news-and/",
+          "source": "Fundstrat Direct"
+        },
+        {
+          "title": "Fundstrat's Tom Lee: Markets are a lot safer than people think",
+          "url": "https://www.cnbc.com/video/2026/11/09/fundstrats-tom-lee-markets-are-a-lot-safer-than-people-think.html",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "keyword": "메이저 리그 사커",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-10T21:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPmCvEeIeWXOyTF3jT1iWtHfg7HqJtNmiWNaEu3aIbCbkVAR7GDW7JHzqg7b8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'충격 살인 태클에 폐까지 손상' 손흥민 동료 위험천만...근데 겨우 옐로카드? MLS서 나온 살인 태클 논란…갈비뼈 다발성 골절",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019124",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "이럴 수가! '7골 12도움' 손흥민이 없다…英매체 'MLS 올해의 팀' 제외→세컨드팀+서드팀에도 빠졌다",
+          "url": "https://m.news.nate.com/view/20261111n00168",
+          "source": "네이트"
+        },
+        {
+          "title": "[오피셜] `지난 시즌 수상` 손흥민 제외됐다…`메시-레반도프스키 포함` MLS 올해의 골 후보 발표",
+          "url": "https://mydaily.co.kr/page/view/2026111017352529902",
+          "source": "마이데일리"
         }
       ]
     },
     {
       "keyword": "엄정욱",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-10T21:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8E6NGfiVmMx6vP1jGxK9nzDusVIKPT3xRQu0wxgGHFdcHxw-FhlYOAETwbY",
       "category": "스포츠",
@@ -199,77 +153,127 @@
       ]
     },
     {
-      "keyword": "gs칼텍스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-10T21:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJMFlt6ZiZsiw0KXwPaXjdohyhtBPiFQLRGEtdvIEUdq_bkej0Xniq-uAwgx0",
-      "category": "IT·과학",
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T22:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv__Z2eOQhcb3Uvcz0dxxD3kE9-tkI_wv5Ivi-h9l7lh7W23jcMdeBCWGDCl8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "정유공장의 새로운 엔진 AI…허세홍號 GS칼텍스, 디지털 전환 '시너지'",
-          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285901",
-          "source": "파이낸셜포스트"
+          "title": "‘리그 10경기 1승, 18위’ 최악의 맨유, 캐릭 감독 경질 가닥",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708520",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "[Who Is ?] 허세홍 GS칼텍스 대표이사 부회장",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450340",
-          "source": "비즈니스포스트"
+          "title": "[속보] '비피셜' 英 BBC 떴다! \"사퇴 안 할 건데?\" 캐릭, 하루 만에 경질 유력...'손흥민 스승' 포체티노 美 감독, 차기 사령탑 급부상",
+          "url": "https://www.osen.co.kr/article/G1112907519",
+          "source": "OSEN"
         },
         {
-          "title": "(보도설명) 12차 석유 최고가격은 결정된 바 없습니다.",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975425",
-          "source": "대한민국 정책브리핑"
+          "title": "\"흥민아 나 맨유 간다!\" 맨유, 캐릭 경질하고 포체티노 검토…문제는 134억 원 위약금",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/10/GA2TSNJUMVRWMZRYGUZDSZLCHE/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "의료",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-10T21:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzn3hsYfvLUyHsOvLLBZTac0qqKXkws9dCNEDa_jgrTh1r1FqdDABOtPH1MAQ",
-      "category": "기타",
+      "keyword": "코어위브 주가",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T22:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS69-bexE9E0NQMLGxPWLFGzMNIr7ie-h6u0qOoHXEWa3C3MrA9twoWY1oe4SM",
+      "category": "경제",
       "news": [
         {
-          "title": "지자체 요청 시 ‘의료취약지’ 즉시 지정… 법 개정 추진",
-          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=46425",
-          "source": "간호사신문"
+          "title": "코어위브, 매출·손실 모두 급증세…실적 전망 상향에 주가 약 2% 상승 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/11/2026111106370882172",
+          "source": "머니투데이"
         },
         {
-          "title": "병원 문 닫아 필수의료 공백 우려 땐…시·도지사가 취약지 지정 요청",
-          "url": "https://www.newsthevoice.com/news/articleView.html?idxno=48008",
-          "source": "뉴스더보이스헬스케어"
+          "title": "CoreWeave, 2026년 매출 전망 상향…AI 인프라 수요 급증",
+          "url": "https://kr.investing.com/news/earnings/article-2169373",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "탈북 남성 사망위험, 한국인보다 68% 높다",
-          "url": "https://www.etnews.com/20261110000428",
-          "source": "전자신문"
+          "title": "美특징주]코어위브, 실적 발표 앞두고 자금조달 우려에 주가 3% 하락",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01279206645644736",
+          "source": "마켓인"
         }
       ]
     },
     {
-      "keyword": "김장",
+      "keyword": "난민",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-10T21:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpX_n89F0kmMnJUU6gckh4VMKxCnJkJwh-zhL0Fs-NKwMraTddw0dA4u1C3Ug",
+      "startedAt": "2026-11-10T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuCJx1awc2QEFHRR23I7MvYcv4PxmzqySxft03BEqLQJI-_mnBl_kO7ca1H8",
       "category": "기타",
       "news": [
         {
-          "title": "“누가 갈아엎고 싶겠습니까”… 배추·쪽파값 폭락에 밭 갈아엎는 농가",
-          "url": "https://www.segye.com/newsView/20261108509121",
-          "source": "세계일보"
+          "title": "난민신청 해놓고 강제추행 등 벌금만 3번 냈는데…“출국명령은 부당”",
+          "url": "https://www.munhwa.com/article/11630036",
+          "source": "문화일보"
         },
         {
-          "title": "농경연 \"김장비용 4% 안팎 줄어…상품 김치 구매 비중은 증가\"",
-          "url": "https://www.yna.co.kr/view/AKR20261109136900030",
+          "title": "여성 추행하고 무면허 운전까지 한 난민, 그대로 한국에 살게 된 '이유'",
+          "url": "https://www.wikitree.co.kr/articles/1173206",
+          "source": "위키트리"
+        },
+        {
+          "title": "‘반복 범죄’ 예멘 난민 신청자, 출국명령 취소소송 승소…“돌아가면 생명 위험”",
+          "url": "https://www.dt.co.kr/article/12094005",
+          "source": "www.dt.co.kr"
+        }
+      ]
+    },
+    {
+      "keyword": "조인성",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-10T21:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSthRRnyzGAq2656XrGHkEXUsOfNokxUjprAxfOfaCMU-KhkfYJoCnqeUHJQBs",
+      "category": "연예",
+      "news": [
+        {
+          "title": "조인성 \"부족함 모르는 자본가, 저한테서 찾아 꺼내 연기했죠\"",
+          "url": "https://www.yna.co.kr/view/AKR20261110157800005",
           "source": "연합뉴스"
         },
         {
-          "title": "흙쪽파 한 단 1,100원! 김장철 부담 덜어주는 '농산물 착한가격 프로젝트'",
-          "url": "https://mediahub.seoul.go.kr/archives/2019954",
-          "source": "내 손안에 서울"
+          "title": "‘가능한 사랑’ 설경구 “내가 아닌 다른 배우가 출연한다 상상하니까 끔찍’”[인터뷰]",
+          "url": "https://sports.donga.com/ent/article/all/20261110/134999674/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "[집중 인터뷰]이창동이 달아 놓은 '가능한 사랑'에 관한 주석들",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862887",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "예산",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-10T21:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlwZ6mykXy8wwPaUl8m6wb-mnFecTyOgyqdmxMfsst7bkymHG5Qzd8zOmsJEo",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "대화 나누는 보건복지위원장과 여당 간사",
+          "url": "https://www.yna.co.kr/view/PYH20261110078100013",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[포토] 예산 제안설명하는 정은경 복지부 장관",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447529",
+          "source": "천지일보"
+        },
+        {
+          "title": "직원과 대화 나누는 오유경 식약처장",
+          "url": "https://www.news1.kr/photos/8206539",
+          "source": "뉴스1"
         }
       ]
     }
