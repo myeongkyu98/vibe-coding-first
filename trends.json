@@ -1,75 +1,79 @@
 {
-  "updatedAt": "2026-11-10T17:42:37.352Z",
+  "updatedAt": "2026-11-10T18:42:36.016Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 5
     },
     {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 2
+      "category": "스포츠",
+      "count": 1
     },
     {
       "category": "생활·날씨",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "뉴데일리",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-10T11:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfjl-bSxEu2oQb-Ga8rVk9nQiM9f8pqEYUekleqgxWsLXdmodzJpxvLJAJNGQ",
-      "category": "경제",
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-10T16:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NFjq95LsH2PuUc1ikjbgroaSU29TAFrVFFUumnpU6Jka15AxsOwvIawUqfM",
+      "category": "기타",
       "news": [
         {
-          "title": "베일에 싸인 '젠슨 황 연인'...트럼프 \"첩자인 줄 몰랐단다\"",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611101333393890",
-          "source": "YTN"
+          "title": "Dodgers Claim Christian Cairo",
+          "url": "https://www.mlbtraderumors.com/2026/11/dodgers-claim-christian-cairo.html",
+          "source": "MLB Trade Rumors"
         },
         {
-          "title": "美안보 악몽된 젠슨황 스캔들…AI칩 대중수출 허용 의혹 소환",
-          "url": "https://www.yna.co.kr/view/AKR20261111001600071",
-          "source": "연합뉴스"
+          "title": "Dodgers claim versatile infielder from Mets in first offseason acquisition",
+          "url": "https://nypost.com/2026/11/09/sports/dodgers-claim-christian-cairo-mets-first-offseason-addition/",
+          "source": "New York Post"
         },
         {
-          "title": "‘중국이 노린 건 칩이 아니다’…첩보 알고도 트럼프는 왜",
-          "url": "https://news.jtbc.co.kr/article/NB12327399",
-          "source": "JTBC"
+          "title": "2026 Transactions: Dodgers Claim Cairo, Guardians Sign Kelly",
+          "url": "https://newbaseballmedia.com/2026-transactions-dodgers-claim-cairo-guardians-sign-kelly/",
+          "source": "New Baseball Media"
         }
       ]
     },
     {
-      "keyword": "jtbc",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-10T11:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYflFO1ASR2mOBpsWYDEM3l4wn-A_I4kTzEkHswLJDXAZJFpZgZIsF9zBQ_I",
-      "category": "기타",
+      "keyword": "임준우",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-10T14:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXihJ3VDOZ0YR1FpjdtlIHWy1mB8D5v1IYCW86Os0uf0GAmvCrsfzU_QN8hv8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "JTBC launches sale, to pick preferred buyer in January",
-          "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/",
-          "source": "Chosunbiz"
+          "title": "[단독] “아빠 저만 믿으세요”···임창정 아들, 4년 만에 ‘KPGA 프로’ 됐다",
+          "url": "https://sports.khan.co.kr/article/202611101805013",
+          "source": "스포츠경향"
         },
         {
-          "title": "“Open competitive bidding”: Who will be JTBC’s new owner? ... Preferred bidder to be selected next January",
-          "url": "https://www.mk.co.kr/en/business/12202035",
-          "source": "매일경제"
+          "title": "임창정 아들, 4년 전 골프 선수 꿈 이뤘다…KPGA 프로 입회",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862839",
+          "source": "뉴시스"
         },
         {
-          "title": "JTBC Seeks About 500 Billion Won in Sale as Hoban, Taekwang Eye Bid",
-          "url": "https://en.sedaily.com/signal/article/jtbc-seeks-about-500-billion-won-in-sale-as-hoban-taekwang",
-          "source": "Seoul Economic Daily"
+          "title": "임창정 자식농사 대박…20살子, KPGA 프로 입회 '동반 골프예능 4년만'[이슈S]",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019096",
+          "source": "SPOTV NEWS"
         }
       ]
     },
@@ -78,13 +82,13 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-10T15:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ7ZcwKSej-ioaOuoOJFY9xZUl6MM4XwUp1t5dxeMq56XLcvKaanT9mTR0-fE",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgVx_f5FtxQL5taNSU6zRF0nYrZUV0JoapUBoeWqVp4jA88JbYavF5EYztHbU",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "밤사이 짙은 안개·도로 살얼음 주의…일교차 커",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709344",
-          "source": "KBS 뉴스"
+          "title": "수요일 아침 영하권 추위·낮엔 포근…일교차 15도 안팎",
+          "url": "https://www.yna.co.kr/view/AKR20261110156300530",
+          "source": "연합뉴스"
         },
         {
           "title": "[날씨] 큰 일교차 유의…오전까지 짙은 안개",
@@ -92,9 +96,9 @@
           "source": "SBS 뉴스"
         },
         {
-          "title": "찬 바람에 영하권 뚝…내일 때이른 추위 물러나",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261110093348Mwp",
-          "source": "연합뉴스TV"
+          "title": "[날씨] 쾌청한 늦가을 날씨...낮 기온 '쑥', 큰 일교차",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611101306083818",
+          "source": "YTN"
         }
       ]
     },
@@ -149,27 +153,27 @@
       ]
     },
     {
-      "keyword": "금융보안원",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T11:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTcK0h_9Fg0QJuVtQH0q1Yz6o5waTPBi0OH4ln1hFgIONBIhqjuPzy55jvoAI",
-      "category": "경제",
+      "keyword": "gta",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T17:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZll1tApV9Ds71HmTdujHYiNfoBn3zrlJCvS7S-pg_vQYPoW8x18hTe8WUCZg",
+      "category": "기타",
       "news": [
         {
-          "title": "금융보안원마저 뚫렸다…상시평가 지원시스템 해킹",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709128",
-          "source": "KBS 뉴스"
+          "title": "Pre-Load Grand Theft Auto VI Now",
+          "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+          "source": "Rockstar Games"
         },
         {
-          "title": "금융보안원도 해킹에 털렸다...금융사 보안정보 유출",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611110028275778",
-          "source": "YTN"
+          "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+          "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+          "source": "The Verge"
         },
         {
-          "title": "증권사 해킹 도미노…전문가 \"AI로 공격 빨라져, 2차 피해 우려\"",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354278",
-          "source": "녹색경제신문"
+          "title": "Will Grand Theft Auto 6 break the internet?",
+          "url": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+          "source": "GamesIndustry.biz"
         }
       ]
     },
@@ -203,12 +207,12 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-10T14:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP5s4r6gNuOb1jnKGotPQiVgsUKiFS8IneBWbU7-9r5yR850vWD5GhKMJU6i4",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbFrUb9035NW409TrpKH5BSZoFtAvGIpsXD20TLI4nI7uipgFW71DXGrRK_ZQ",
       "category": "연예",
       "news": [
         {
-          "title": "“햇살 같은 아이라서” 이유진, 첫 만남에 생각한 ‘아내’ 차경은의 첫인상♥",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483091950",
+          "title": "동상이몽2_너는 내 운명 : 이유진, 직접 웨딩 영상 만들어 업체들과 협업하고 결혼 비용 절감",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092209",
           "source": "programs.sbs.co.kr"
         },
         {
@@ -224,52 +228,52 @@
       ]
     },
     {
-      "keyword": "고발",
+      "keyword": "코어위브",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-10T13:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUFmYL-cnJn7T8iVzGGZxmTInY4a3XIpiY4ZU9Uaxryogiy39iFLkTBpwVIk",
-      "category": "정치·사회",
+      "startedAt": "2026-11-10T14:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuKxZcPGk-BazKIw_SNTZi_iI73OyixTXq5zpOmxtA_fhVBBJ5V2fKtLiiob8",
+      "category": "경제",
       "news": [
         {
-          "title": "\"낑낑\" 묶인 채 봉투 속에‥'이거 심상치 않다' 주변 뒤졌더니‥",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864656_37004.html",
-          "source": "MBC 뉴스"
+          "title": "CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결",
+          "url": "https://kr.investing.com/news/company-news/article-93CH-2166112",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "입 묶여 비닐봉지에 버려진 강아지…경찰 고발장 접수",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110150918ckC",
-          "source": "연합뉴스TV"
+          "title": "코어위브, 개장 전 1% 하락: 3분기 실적 발표 앞두고 영국 자율주행 기업 웨이브와 다년간의 AI 클라우드 파트너십 체결",
+          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262298789-coreweave-premarket-down-wayve-ai-cloud-partnership-q3-earnings-tradingkey",
+          "source": "TradingKey"
         },
         {
-          "title": "테이프로 입 묶여 끙끙...검은 봉지 속 버려진 강아지들 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/10/2026111022042477465",
-          "source": "머니투데이"
+          "title": "웨이브, 코어위브 클라우드로 자율주행 AI 학습",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=402815",
+          "source": "비건뉴스"
         }
       ]
     },
     {
-      "keyword": "정승제",
+      "keyword": "고발",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-10T12:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU6XaM_M9kCUvMYWhLU8I21lmZKDZ15WCLqsl_6uHrLKAy9pBZPxTxuce0gGk",
-      "category": "연예",
+      "startedAt": "2026-11-10T13:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm-1IMElxTlUVWLll8uMli9ObfCnJj5fWFXFSFQNMlXtLIpGN5GlTGAI44Xm8",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "정승제 \"피부과 2주에 한 번씩\"…주우재도 놀란 관리",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6349705",
-          "source": "뉴스1"
+          "title": "김병기 수사 종결 또 지연 … 경찰, 한동훈 추가 고발·김승원 청탁 의혹 수사",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/09/2026110900127.html",
+          "source": "뉴데일리"
         },
         {
-          "title": "정승제 \"아이돌처럼 대학 때부터 키운다\"…스타 강사도 '연습생' 시대",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862893",
-          "source": "뉴시스"
+          "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”···‘대리 제작 의혹’ 이모 진씨 명의 앱 등록",
+          "url": "https://www.khan.co.kr/article/202611030600041",
+          "source": "경향신문"
         },
         {
-          "title": "김종국, '연봉 100억설' 정승제 자존심 건드렸다?…수학 교육관보니",
-          "url": "https://www.osen.co.kr/article/G1112908008",
-          "source": "OSEN"
+          "title": "[금주의 이슈인] 강득구·이억원·정명근·최민정·차예련",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363741644",
+          "source": "중부일보"
         }
       ]
     }
