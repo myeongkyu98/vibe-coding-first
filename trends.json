@@ -1,275 +1,259 @@
 {
-  "updatedAt": "2026-11-10T03:44:50.316Z",
+  "updatedAt": "2026-11-10T04:46:17.719Z",
   "summary": [
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 4
     },
     {
-      "category": "연예",
-      "count": 3
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     },
     {
-      "category": "기타",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "박진만",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-10T01:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8nzBBDixN25xbyexPs-xXTyaKCKLmjc0Ow_GZOqyuIFad7YS7aR8D5MmrdNU",
+      "keyword": "배추",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-10T03:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5VjoNctzELxLQRNbYfgFM_uu0Qu1UTTWOUZ0RdK9C_7lP3oFQadiJqqWRfeE",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "우상호 강원지사, 평창고랭지김장축제 방문…\"배추 한 포기 더, 이웃과 나눔 강조\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747285",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "고랭지 농가 이중고 시름.. 김장축제로 소비 촉진 > 뉴스데스크",
+          "url": "https://www.mbceg.co.kr/post/141738",
+          "source": "MBC 강원영동"
+        },
+        {
+          "title": "[특별기고] 축제에 담긴 평창의 미래",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2083420",
+          "source": "강원도민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "자녀",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-10T03:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcKIVOJtXEso7K9B4WlQHXgRRMpU4LoEDITDa1noVzjsVK4RUcuZpVgEG1QjM",
       "category": "스포츠",
       "news": [
         {
-          "title": "\"우승 신문 구해요\"…삼성라이온즈 한국시리즈 우승에 신문 불티",
-          "url": "https://www.yna.co.kr/view/AKR20261109132200053",
-          "source": "연합뉴스"
+          "title": "“내 아이 귀족 스포츠 시켰더니”…골프 치는 자녀 10명 중 8명은 ‘다 큰 어른’ [권준영의 머니볼]",
+          "url": "https://www.segye.com/newsView/20261110500663",
+          "source": "세계일보"
         },
         {
-          "title": "“신문 구해요”…삼성 우승 소식 ‘굿즈’ 찾아 편의점 67곳 돈 팬심",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1286570.html",
-          "source": "한겨레"
+          "title": "인천장애인종합복지관, 한솔교육희망재단과 장애인 부모 자녀 지원",
+          "url": "https://www.imedialife.co.kr/news/articleView.html?idxno=70784",
+          "source": "미디어생활"
         },
         {
-          "title": "12년 만의 한국시리즈 우승...모든 선수가 MVP [자막뉴스]",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202611100913549408&s_mcd=0134",
-          "source": "YTN"
+          "title": "인천 장애인 가정 자녀 한글교육 확대...강사가 찾아간다",
+          "url": "https://www.facton.co.kr/news/articleView.html?idxno=2491",
+          "source": "www.facton.co.kr"
         }
       ]
     },
     {
-      "keyword": "부부",
+      "keyword": "테슬라 모델 y",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-10T02:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtcaQMVx3J55o5uAp4521CiPkKX88fkQaB8jXSxFYw6NJMhangZWRGeXSJtjU",
-      "category": "연예",
+      "startedAt": "2026-11-10T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4h1d_7dH3n9rA6RIGeOT7x5OPIFBEaQW8jh81IUeUC3y_q2bF9fAqLtBDo54",
+      "category": "기타",
       "news": [
         {
-          "title": "인천시, 2027년부터 혼인지원금 100만 원 지급",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721377",
-          "source": "뉴스타운"
+          "title": "11월에도 자체 보조금… 테슬라 “모델 Y만 215만원”…BYD “4종 모두 제공”",
+          "url": "https://www.etnews.com/20261106000223",
+          "source": "전자신문"
         },
         {
-          "title": "결혼하면 100만원…인천시, 내년 7월부터 신혼부부 지원금 지급",
-          "url": "https://www.fnnews.com/news/202611101009060805",
-          "source": "파이낸셜뉴스"
+          "title": "아이오닉5 프리미엄은 모던보다 535만원 비싸… 보조금은 절반만 나온다",
+          "url": "https://www.radiancereport.kr/news/articleView.html?idxno=16382",
+          "source": "래디언스리포트"
         },
         {
-          "title": "인천시, 내년부터 신혼부부에 '혼인지원금 100만 원' 지급",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20261110010003394",
-          "source": "중도일보"
+          "title": "테슬라 모델Y 가격표 제원 전비, 1700만원 더 내면 105km만 늘어날까",
+          "url": "https://view.nate.com/auto/view/421407/",
+          "source": "네이트뷰"
         }
       ]
     },
     {
-      "keyword": "개",
+      "keyword": "회사",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-10T02:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf-Xc_7EWvtXYSCJao1tlMFs84_OhAq0ccTahUbfee9qHW8ZOiavtpigBKboI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "한국콜마, CES 2027서 2년 연속 '뷰티테크 최고혁신상' 받아",
-          "url": "https://stock.mk.co.kr/news/view/1194664",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "세라젬, 'CES 2027'서 혁신상 9개 수상…누적 수상 30개 달성",
-          "url": "https://www.yna.co.kr/view/AKR20261110052900030",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "세라젬, ‘AI 웰니스 홈’ 등 CES 2027서 9개 혁신상 수상",
-          "url": "https://biz.chosun.com/industry/business-venture/2026/11/10/WFTCW7IBMZCHZHDSU2AJYV5LTA/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "골프",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-10T02:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScZluJVEeD2PSgKUPVszmWi7vFE1I7QvixwiOKyCNQQY4UsQ0eR6OkuheYE3g",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "디딤돌재단·이도, 대보하우스디 챔피언십서 꿈나무 후원금 1억원 모았다",
-          "url": "https://www.chosun.com/national/people/2026/11/09/WY6UBS5DKZBIJOYYCNXREMTY3I/",
-          "source": "조선일보"
-        },
-        {
-          "title": "KLPGA, 올포유·레노마 자선골프대회서 3천만원 모금",
-          "url": "https://www.yna.co.kr/view/AKR20261110046300007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "이도-디딤돌재단, 골프 인재 육성 기부금 1억원 모금 - 머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/11/09/2026110913065949072",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "가수",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-10T02:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtOUpYHxmv5NwaZ2skGSI2TMCVJptusYXVPIxW4THxxgkS0U6Lh7iYfYdNIE",
-      "category": "연예",
-      "news": [
-        {
-          "title": "“밥 안먹어도 이건 꼭 먹는다”…96세 할머니 가수 마법가루",
-          "url": "https://www.joongang.co.kr/article/25477169",
-          "source": "중앙일보"
-        },
-        {
-          "title": "임영웅, 293주째 변함없는 정상… 장기 집권 이어가는 팬덤 파워",
-          "url": "http://www.jemin.com/news/articleView.html?idxno=846679",
-          "source": "제민일보"
-        },
-        {
-          "title": "임영웅, 'K-브랜드지수' 1위...성리·박지현·김용빈·이찬원 TOP5",
-          "url": "https://www.nc.press/news/articleView.html?idxno=630614",
-          "source": "뉴스컬처"
-        }
-      ]
-    },
-    {
-      "keyword": "통장",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdvwF48QxpvMlLAqaEmOgLLxyoHZuXkiUYtyNJxcJAce353qnuWtZKMu_b08o",
+      "startedAt": "2026-11-10T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xGJAgQWcOSN2ECqA7AzZpyKYQNTRey3Cz15qusJ1CU1bKOPRSXw7EtEANCM",
       "category": "경제",
       "news": [
         {
-          "title": "\"서울 아파트 당첨되면 뭐하나\"…청약통장의 '씁쓸한 현실' [시장톡]",
-          "url": "https://www.hankyung.com/article/2026110943826",
+          "title": "개미들 절규 속 나홀로 상승…코스피 폭락 버틴 뜻밖의 회사 [종목+]",
+          "url": "https://www.hankyung.com/article/2026110955146",
           "source": "한국경제"
         },
         {
-          "title": "청약통장 4년 새 282만명 깼다… 고분양가·대출 규제에 ‘청약 포기’",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/08/JGGRJPUVUNAD3HEGCHST75SEEI/",
-          "source": "Chosunbiz"
+          "title": "엔비디아, 신주 인수금액 1조3400억 납입…네이버 ‘3대 주주’로",
+          "url": "https://www.segye.com/newsView/20261107505195",
+          "source": "세계일보"
         },
         {
-          "title": "전국 청약통장 4년 새 282만좌 감소…수도권 위주 이탈 : 부동산",
-          "url": "https://news.jkn.co.kr/post/1082879",
-          "source": "재경일보"
-        }
-      ]
-    },
-    {
-      "keyword": "연비",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T02:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZSGNI98gRLKMLvTOG72sEbYB_Gza6szoTfs4mOVNr6QxvKbBkqPh32RtPGqc",
-      "category": "연예",
-      "news": [
-        {
-          "title": "“국민 차 맞아?”… 현대차 신형 아반떼, 배기량 올려 ‘세금 폭탄’",
-          "url": "https://www.kgnews.co.kr/news/article.html?no=918800",
-          "source": "경기신문"
-        },
-        {
-          "title": "[황지향의 Car톡] 몸값 오른 아반떼…하이브리드로 출근길 달려보니 - 경제 | 기사",
-          "url": "https://news.tf.co.kr/read/economy/2386428.htm",
-          "source": "더팩트"
-        },
-        {
-          "title": "[시승기] ‘가솔린 2.0 샀으면 후회할 뻔’⋯ 직접 타본 신형 아반떼 하이브리드, 승차감부터 달랐다",
-          "url": "https://www.viva100.com/article/20261108500434",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "원태인",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T01:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiQZGpifJMGgTckIO0D8QR3QGdu-j7mqArkXyh8rC1O_8wMpxV8-sXLnq4KR0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'푸른 새 시대' 열려면 붙잡아야 한다…삼성의 고민, 구자욱·원태인과 샐러리캡",
-          "url": "https://isplus.com/article/view/isp202611100050",
-          "source": "일간스포츠"
-        },
-        {
-          "title": "축제의 시간은 끝…다시 우승 위해 칼 가는 야구계. 시작은 FA 영입전",
-          "url": "https://www.seoul.co.kr/news/sport/2026/11/10/20261110500157",
-          "source": "서울신문"
-        },
-        {
-          "title": "데일리 MVP 원태인",
-          "url": "https://www.newsis.com/view/NISI20261108_0021525167",
+          "title": "젠슨 황 스캔들 하루 전 네이버 1.3조 지분 투자 마무리…'AI 팩토리' 동맹 괜찮나",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860688",
           "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "nz vs ind",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS3smOcNhzHAniQa0DLbcYSPMbpDmYeR12f35OebZeBdr7mx-5E8FYOhzcsuk",
-      "category": "스포츠",
+      "keyword": "엔비디아",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-10T03:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6gmQlZJUHaLnCrLwQeuvH4fMxeC9qh1zXuAgd0FQ-NukG5KFF0S0J637TMvA",
+      "category": "경제",
       "news": [
         {
-          "title": "India vs New Zealand 3rd ODI, Preview: Gloomy Hamilton presents another batting grind",
-          "url": "https://www.cricbuzz.com/cricket-news/140841/india-vs-new-zealand-3rd-odi-preview-gloomy-hamilton-presents-another-batting-grind-cricbuzzcom",
-          "source": "Cricbuzz"
+          "title": "\"'젠슨 황 스캔들' 여성, 중국 투자자들에 '엔비디아 GPU 확보' 과시\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6864496_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "India’s pace assault puts NZ on the brink as visitors eye series triumph",
-          "url": "https://www.dailyexcelsior.com/indias-pace-assault-puts-nz-on-the-brink-as-visitors-eye-series-triumph/",
-          "source": "Daily Excelsior"
+          "title": "[오늘의 그래픽] 엔비디아 흔든 '젠슨 황 스캔들'…불륜 넘어 안보 논란",
+          "url": "https://www.news1.kr/photos/8206598",
+          "source": "뉴스1"
         },
         {
-          "title": "Rain delays the toss in the 3rd cricket ODI between New Zealand and India",
-          "url": "https://www.stardem.com/ap/nation/sports/rain-delays-the-toss-in-the-3rd-cricket-odi-between-new-zealand-and-india/article_a55b26df-7ce7-5f2c-8a12-f60d5e6f23f0.html",
-          "source": "The Star Democrat"
+          "title": "\"젠슨 황, 앨리스 황과 지나치게 밀접\"…미 공매도 투자사, 6개월 전 ‘경고’",
+          "url": "https://news.jtbc.co.kr/article/NB12327328",
+          "source": "JTBC"
         }
       ]
     },
     {
-      "keyword": "법관",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-10T02:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNFlp6tPpGx0wMzcaCpB9G4cncrz2ZyWBnTHPlhAjdzUi-cDWf8p6FD5myTBY",
+      "keyword": "이재영",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-10T03:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUKSlysAwlBva4OnbpySUtXDoBnhiSw18Oh2gHUJ6PBGvKfcgoR3-wg4fHdj0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"사랑해요!\" 이재영·이다영, 쌍둥이 깜짝 근황…日 국적 동료와 댄스로 각별한 우정 과시→소속팀은 사상 첫 챔스 본선 진출 유력",
+          "url": "https://m.news.nate.com/view/20261110n01642",
+          "source": "네이트"
+        },
+        {
+          "title": "이재영·다영 소속팀 투란, CEV 챔스 본선행 위해 '순항중'…예선 3라운드 불가리아 원정 첫 경기 승리",
+          "url": "https://mydaily.co.kr/page/view/2026110615140663862",
+          "source": "마이데일리"
+        },
+        {
+          "title": "\"사랑해요\" 한국어 남기며 하트 춤...유럽서 승승장구하는 이재영·이다영 근황",
+          "url": "https://www.insight.co.kr/news/581302",
+          "source": "인사이트"
+        }
+      ]
+    },
+    {
+      "keyword": "공공기관",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-10T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmrjKwSc90GqiNdRl8vZcnavK0UFMydESXJTfNvEdcz0NUTFTE9hryRstXa2o",
       "category": "기타",
       "news": [
         {
-          "title": "현직 부장판사 \"사법부 독립 위해 뼈아픈 자기 성찰부터\"",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864493_36918.html",
-          "source": "MBC 뉴스"
+          "title": "공공기관 기록관리 개선됐지만…교육지원청 6곳중 1곳 '최하위'",
+          "url": "https://www.yna.co.kr/view/AKR20261014015800530",
+          "source": "연합뉴스"
         },
         {
-          "title": "조국혁신당 \"민주, 조희대 탄핵 결단할 때…행동으로 답해야\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110112139piX",
-          "source": "연합뉴스TV"
+          "title": "공공기관 기록관리 수준 향상…최하위 등급 대폭 감소",
+          "url": "https://www.asiae.co.kr/article/2026111007481906978",
+          "source": "아시아경제"
         },
         {
-          "title": "전국법관대표회의 조기 개최하면 '적극적인' 목소리 낼까 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110914110419368",
-          "source": "머니투데이"
+          "title": "공공기관 230곳 기록관리 '향상'…교육지원청 29곳은 '최하위'",
+          "url": "https://www.newsis.com/view/NISX20261110_0003861478",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "전영현",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T03:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpyq8Nh_8N-ER_gQ-se_KQPeCqyRQhdGwjxaMO3YaY6lhKgMksyyTnuXq5apc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘회장님 차’ 제네시스 G90만 수십 대 줄줄이…그들이 향한 곳은?",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/09/UPCGNJ6NH5D2DJ2LYCNAVRZ5OM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "삼성·현대차 손잡은 미래산업, 정부가 걸림돌 돼선 안 돼[사설]",
+          "url": "https://www.munhwa.com/article/11630205",
+          "source": "문화일보"
+        },
+        {
+          "title": "삼성·현대차, 배터리로 더 가까워질까…삼성SDI 공급 확대 주목",
+          "url": "https://www.yna.co.kr/view/AKR20261109149600003",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "전주시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T03:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "채령",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-10T03:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmPC-HEYVowH_ps_mqdkPR_-7jKz-vFAPNV_C9pKpSQkfb3Q8_AFHxerVL3s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[Y현장] 채령 \"ITZY 때 참았던 '쪼', 솔로로 마음껏\"…7년 만에 꺼낸 진짜 매력",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611091512339031",
+          "source": "YTN"
+        },
+        {
+          "title": "[사진]빌리 시윤, 윙크 볼콕",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/HBSTENLCMQZWIMBTGJRTCNZVGI/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "[현장포토] \"띵똥!\"…조혜진, 누르고픈 비주얼",
+          "url": "https://www.dispatch.co.kr/2350500",
+          "source": "디스패치"
         }
       ]
     }
