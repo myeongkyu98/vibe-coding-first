@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-10T06:56:22.360Z",
+  "updatedAt": "2026-11-10T08:08:41.495Z",
   "summary": [
     {
       "category": "스포츠",
       "count": 3
     },
     {
-      "category": "기타",
-      "count": 3
+      "category": "연예",
+      "count": 2
     },
     {
-      "category": "연예",
+      "category": "기타",
       "count": 2
     },
     {
@@ -20,13 +20,17 @@
     {
       "category": "IT·과학",
       "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
     }
   ],
   "items": [
     {
       "keyword": "신랑",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-10T05:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnoWMu5jjbH_dTIGmMCzixDgVTbrjtboRTA2yUk6XY_xv47aemkrlsjpx1CF0",
       "category": "연예",
@@ -49,27 +53,52 @@
       ]
     },
     {
-      "keyword": "안영명",
+      "keyword": "kbo 리그",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-10T05:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZzB9fzMJaF0ExJT2iDvW3FKZqTuXW61Y31h_3bVcwMSI5T4VhV9-ggZ78ewM",
+      "startedAt": "2026-11-10T05:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD0cR-Q9QeMV7f4ANsQPnZjfPYt7BkUppWW3QFMZcidFenl071xB6LNFHpZ2Q",
       "category": "스포츠",
       "news": [
         {
-          "title": "프로야구 한화, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
-          "url": "https://www.yna.co.kr/view/AKR20261110104000007",
-          "source": "연합뉴스"
+          "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "한화이글스, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
-          "url": "https://www.ytn.co.kr/_ln/0107_202611101427225762",
-          "source": "YTN"
+          "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
+          "url": "https://isplus.com/article/view/isp202611020108",
+          "source": "일간스포츠"
         },
         {
-          "title": "류지현호, 3·4호 코치 영입은 'KT산'... '한화 출신' 김강 타격코치-안영명 퍼포먼스 코치 영입 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/10/2026111013323974240",
-          "source": "머니투데이"
+          "title": "'와 537억 초대박' 일본야구 역사 바꿨다, 도대체 누구인가…\"일본서도 큰돈 벌 수 있다는 걸 보여줘, ML이었으면 상상도 어려워\"",
+          "url": "https://mydaily.co.kr/page/view/2026110309353419441",
+          "source": "마이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "공포탄",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-10T05:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNBNeLAagUaUsgnHbk9Q77074OZ2e_fr226LlsYaG_D__rGfbiYlwkvh_UehE",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
+          "url": "https://news.jtbc.co.kr/article/NB12327297",
+          "source": "JTBC"
+        },
+        {
+          "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
+          "url": "https://www.donga.com/news/Politics/article/all/20261110/134996843/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "육군 대대장과 중대장이 서로 공포탄 사격…대대장 군사재판 회부",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707967",
+          "source": "KBS 뉴스"
         }
       ]
     },
@@ -95,56 +124,6 @@
           "title": "이혼하려니 아이들 세뱃돈까지 달라는 남편…양육비도 깎자해",
           "url": "https://www.newsis.com/view/NISX20261109_0003859818",
           "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "kbo 리그",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-10T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD0cR-Q9QeMV7f4ANsQPnZjfPYt7BkUppWW3QFMZcidFenl071xB6LNFHpZ2Q",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
-          "url": "https://isplus.com/article/view/isp202611020108",
-          "source": "일간스포츠"
-        },
-        {
-          "title": "'와 537억 초대박' 일본야구 역사 바꿨다, 도대체 누구인가…\"일본서도 큰돈 벌 수 있다는 걸 보여줘, ML이었으면 상상도 어려워\"",
-          "url": "https://mydaily.co.kr/page/view/2026110309353419441",
-          "source": "마이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "공포탄",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-10T05:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNBNeLAagUaUsgnHbk9Q77074OZ2e_fr226LlsYaG_D__rGfbiYlwkvh_UehE",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
-          "url": "https://news.jtbc.co.kr/article/NB12327297",
-          "source": "JTBC"
-        },
-        {
-          "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
-          "url": "https://www.donga.com/news/Politics/article/all/20261110/134996843/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "육군 대대장과 중대장이 서로 공포탄 사격…대대장 군사재판 회부",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707967",
-          "source": "KBS 뉴스"
         }
       ]
     },
@@ -183,59 +162,34 @@
       "news": []
     },
     {
-      "keyword": "전차",
+      "keyword": "안영명",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-10T05:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1yV65kFQHFaWXT4k_p4t42j76zkjhu4CVvkkxhkkLX6R23Ub0ySLgK8ksEc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "모로코가 전차 수송차 50대를 사들인 까닭…현대로템 K2 향한 시선 쏠리는 배경은?",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100943588335fbbec65dfb_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "모로코, 현대로템 광역급행철도 등 대규모 철도 인프라 예산안 확정",
-          "url": "https://www.theguru.co.kr/news/article.html?no=109321",
-          "source": "더구루"
-        },
-        {
-          "title": "벵게리르에 철도 공장 세우는 모로코… 현대로템 광역급행 110량 생산 축 맡는다",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611060702319622fbbec65dfb_1",
-          "source": "글로벌이코노믹"
-        }
-      ]
-    },
-    {
-      "keyword": "이세계아이돌",
-      "traffic": "200+",
-      "trafficValue": 200,
       "startedAt": "2026-11-10T05:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjLv-Ay83WHA68e3aTIUolt2PZn2s0mm563L1_LOTmthP2hGfHzcHI-rcIPGs",
-      "category": "연예",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZzB9fzMJaF0ExJT2iDvW3FKZqTuXW61Y31h_3bVcwMSI5T4VhV9-ggZ78ewM",
+      "category": "스포츠",
       "news": [
         {
-          "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447190",
-          "source": "천지일보"
+          "title": "프로야구 한화, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+          "url": "https://www.yna.co.kr/view/AKR20261110104000007",
+          "source": "연합뉴스"
         },
         {
-          "title": "SOOP, AGF 2026에 버추얼 스트리머 28명 참가…이세계아이돌 총출동",
-          "url": "http://www.inews24.com/view/2024412",
-          "source": "아이뉴스24"
+          "title": "류지현호, 3·4호 코치 영입은 'KT산'... '한화 출신' 김강 타격코치-안영명 퍼포먼스 코치 영입 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/10/2026111013323974240",
+          "source": "머니투데이"
         },
         {
-          "title": "SOOP, 'AGF'에 버추얼 스트리머 28명 출격…이세계아이돌 총출동",
-          "url": "https://www.fnnews.com/news/202611101012503438",
-          "source": "파이낸셜뉴스"
+          "title": "한화이글스, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611101427225762",
+          "source": "YTN"
         }
       ]
     },
     {
       "keyword": "뷰익",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-10T05:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNpKl9EIA0f2fOS7nN8Nc6rwWdZouFjzrAR9adgVLfSe70l0MYKO-7zm0kYl4",
       "category": "IT·과학",
@@ -254,6 +208,56 @@
           "title": "전동화 향해 가는 완성차 업계⋯ ‘길’이 다양해졌다",
           "url": "https://www.kmib.co.kr/article/20261108501406",
           "source": "국민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "담보 대출",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T06:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpWf7D0Aax7U33ZpBunUMN0fElgNnK_stmCIPWCUp4w_BUfuODjDi35dkmbzo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "광주은행, 기업여신 잠재·기존 부실 동반 확대...건전성 관리 '시험대'",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354176",
+          "source": "녹색경제신문"
+        },
+        {
+          "title": "JB금융 건전성 발목 잡는 광주은행…연체액 1위 불명예 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224471393111&redirect=Dlog",
+          "source": "Naver Blog"
+        },
+        {
+          "title": "[은행 3Q NPL]⑤ 전북·광주, 커버리지 80% 초반…회복 시나리오",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=678179",
+          "source": "블로터"
+        }
+      ]
+    },
+    {
+      "keyword": "이세계아이돌",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T05:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjLv-Ay83WHA68e3aTIUolt2PZn2s0mm563L1_LOTmthP2hGfHzcHI-rcIPGs",
+      "category": "연예",
+      "news": [
+        {
+          "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447190",
+          "source": "천지일보"
+        },
+        {
+          "title": "SOOP, AGF 2026에 버추얼 스트리머 28명 선보인다",
+          "url": "https://www.news1.kr/it-science/internet-platform/6348726",
+          "source": "뉴스1"
+        },
+        {
+          "title": "SOOP, 'AGF'에 버추얼 스트리머 28명 출격…이세계아이돌 총출동",
+          "url": "https://www.fnnews.com/news/202611101012503438",
+          "source": "파이낸셜뉴스"
         }
       ]
     }
