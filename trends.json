@@ -1,275 +1,259 @@
 {
-  "updatedAt": "2026-11-10T05:48:12.579Z",
+  "updatedAt": "2026-11-10T06:56:22.360Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 4
+      "count": 3
     },
     {
       "category": "기타",
-      "count": 2
+      "count": 3
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
     },
     {
       "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "분당 신도시",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-10T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSKr5sb7tkymEuV3SQ2bwILwj7B6L814CsTrJPEB1KV2rGRCsBudZLp44lf1k",
-      "category": "경제",
+      "keyword": "신랑",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-10T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnoWMu5jjbH_dTIGmMCzixDgVTbrjtboRTA2yUk6XY_xv47aemkrlsjpx1CF0",
+      "category": "연예",
       "news": [
         {
-          "title": "1기 신도시 거래 11.4% 늘었지만…분당·평촌 줄고 집값은 더 뛰었다",
-          "url": "https://www.segye.com/newsView/20261109513181",
-          "source": "세계일보"
-        },
-        {
-          "title": "산본·중동 거래 늘고, 분당·평촌 집값 뛰고",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336359",
-          "source": "인천일보"
-        },
-        {
-          "title": "군포 산본 아파트 거래량 108% 급증…1기 신도시 증가율 1위",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040258",
-          "source": "기호일보"
-        }
-      ]
-    },
-    {
-      "keyword": "정웅인",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T03:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7yUfFEdSHoo6wxaLrHbBbxygG5MU209FWgEXMEzaMwL8Ym72_Y-MucQUK3cg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "정웅인 “통장 잔고 생각에 자다가 벌떡”…세 딸 바라보며 결국 눈물",
-          "url": "https://www.donga.com/news/Culture/article/all/20261110/134997213/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "'세 딸 아빠' 정웅인, 통장잔고 걱정 \"자다가 벌떡벌떡 일어나\" 울컥",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6348967",
+          "title": "신부 가슴에 얼굴 파묻고 흔들흔들…신랑 돌발 행동에 하객들 당혹",
+          "url": "https://www.news1.kr/world/global-topic/6347972",
           "source": "뉴스1"
         },
         {
-          "title": "정웅인, 세 딸 향한 책임감에 눈물 \"통장 잔고 걱정으로 잠 못 이뤄\"",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272775",
-          "source": "톱스타뉴스"
+          "title": "결혼식 중 신부 가슴에 얼굴 파묻은 신랑…“애들도 보는데” 논란 [월드픽]",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/11/05/20261105500253",
+          "source": "www.twig24.com"
+        },
+        {
+          "title": "배우 지안, ‘158km 강속구 투수’ 엄정욱과 결혼…“웃음 끊이지 않게 살 것”",
+          "url": "https://sports.khan.co.kr/article/202611091718003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "유해란",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-10T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbkAGA7_nPhRKO5BB1F0Y_USkxzn6B4rvJpyNET8ltxFB5APZ9UQGR8mcCOoc",
+      "keyword": "안영명",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-10T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZzB9fzMJaF0ExJT2iDvW3FKZqTuXW61Y31h_3bVcwMSI5T4VhV9-ggZ78ewM",
       "category": "스포츠",
       "news": [
         {
-          "title": "돌아온 코르다, LPGA 투어 디 안니카에서 단일 대회 4승 도전",
-          "url": "https://www.yna.co.kr/view/AKR20261110021500007",
+          "title": "프로야구 한화, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+          "url": "https://www.yna.co.kr/view/AKR20261110104000007",
           "source": "연합뉴스"
         },
         {
-          "title": "손가락 부상 털어낸 유해란, 시즌 3승 도전…‘돌아온 최강자’ 넬리 코다 넘어설까",
-          "url": "https://sports.donga.com/sports/article/all/20261110/134998175/1",
-          "source": "스포츠동아"
+          "title": "한화이글스, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611101427225762",
+          "source": "YTN"
         },
         {
-          "title": "[골프] 넬리 코다, 대회 4승·명예의 전당 도전… LPGA 투어 디 안니카 12일 개막",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447418",
-          "source": "천지일보"
+          "title": "류지현호, 3·4호 코치 영입은 'KT산'... '한화 출신' 김강 타격코치-안영명 퍼포먼스 코치 영입 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/10/2026111013323974240",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "군대",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T04:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOODnBQSTmcn1yh2p4y6rm-CEW19lXnB4ylIPyCuSzWilqtXMVyWZYOZvxW2Y",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "군번줄 V자 홈, 전사자 이빨에 끼우는 용도?…수십 년 이어진 군대 낭설",
-          "url": "https://weekly.khan.co.kr/article/202611081448001",
-          "source": "주간경향"
-        },
-        {
-          "title": "제4군구는 각 군인의 의식과 용기에서 \"숫자 방패\"를 구축합니다",
-          "url": "https://ko.laodong.vn/cd-quoc-phong/quan-khu-4-xay-dung-la-chan-so-tu-y-thuc-ban-linh-cua-moi-quan-nhan-1797460.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "제4군관구 군대 내에 강력한 \"디지털 방패\"를 구축한다.",
-          "url": "https://www.vietnam.vn/ko/xay-dung-la-chan-so-vung-chac-trong-luc-luong-vu-trang-quan-khu-4",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "new zealand national cricket team vs india national cricket team match scorecard",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHvYK9kqzR7KHqspFIzGTyiTIiZackFEOIatYKYyoxcflleIIzUWpLVAf48T0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Gurnoor Brar stakes claim for ODI World Cup with New Zealand show | Cricket",
-          "url": "https://www.hindustantimes.com/cricket/gurnoor-brar-stakes-claim-for-odi-world-cup-with-new-zealand-show-101794149170492.html",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "India avoid a ‘stinker’ as short-ball ploy strikes both sides",
-          "url": "https://www.cricbuzz.com/cricket-news/140823/india-avoid-a-stinker-as-short-ball-ploy-strikes-both-sides-cricbuzzcom",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Mitchell calls Wellington surface a ‘trampoline’",
-          "url": "https://theshillongtimes.com/2026/11/08/mitchell-calls-wellington-surface-a-trampoline/",
-          "source": "The Shillong Times"
-        }
-      ]
-    },
-    {
-      "keyword": "송금",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK6eMl74Lte9v1PGF-9MhehszyQgUhFM4YmteQyznpoBusCWyuxgm_yRFh2_o",
+      "keyword": "시어머니",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-10T05:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu0Q0H2ilQNuTqqSJdNJfdKrfoJlgXTM4uWfalPoYIN-7nutmQ-M5zU80kkZg",
       "category": "기타",
       "news": [
         {
-          "title": "[정동칼럼]송금 영수증에 남지 않은 것들",
-          "url": "https://www.khan.co.kr/article/202611092001005",
-          "source": "경향신문"
+          "title": "“이혼 앞두고 애들 준 세뱃돈 돌려달라는 시어머니”-YTN상담소",
+          "url": "https://www.munhwa.com/article/11629996",
+          "source": "문화일보"
         },
         {
-          "title": "[단독]외국인 노동자 98%, 월급받아 해외로 보낸다…연간 최소 4.6조 송금",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01394006645644080&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "\"양육비는 좀 줄여도 되는 거 아냐?\"…아이들 세뱃돈 통장 들먹인 남편",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611090148472120",
+          "source": "YTN"
         },
         {
-          "title": "[원옥금의 한국에 산다는 것] 이주민의 삶은 숫자가 아니다",
-          "url": "https://www.koreadaily.com/article/20261108071231189",
-          "source": "미주중앙일보"
+          "title": "이혼하려니 아이들 세뱃돈까지 달라는 남편…양육비도 깎자해",
+          "url": "https://www.newsis.com/view/NISX20261109_0003859818",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "테니스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T03:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNgzOnxkTHKydLPQOrvRtI0CI_Z-gTATDWedIHFaE3a1lvN3NmMALYKRWjgYs",
+      "keyword": "kbo 리그",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-10T05:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD0cR-Q9QeMV7f4ANsQPnZjfPYt7BkUppWW3QFMZcidFenl071xB6LNFHpZ2Q",
       "category": "스포츠",
       "news": [
         {
-          "title": "한국 선수의 첫 국제대회 우승을 기념하여 열린 일정(一庭)배 전국시니어테니스대회",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54277",
-          "source": "테니스코리아"
+          "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "세종시청 이은지, 한국테니스선수권대회 준우승",
-          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/09/2026110900168.html",
-          "source": "뉴데일리 충청세종"
+          "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
+          "url": "https://isplus.com/article/view/isp202611020108",
+          "source": "일간스포츠"
         },
         {
-          "title": "이경서, 정의수 꺾고 한국테니스선수권 여자단식 첫 우승",
-          "url": "https://www.yna.co.kr/view/AKR20261108032400007",
-          "source": "연합뉴스"
+          "title": "'와 537억 초대박' 일본야구 역사 바꿨다, 도대체 누구인가…\"일본서도 큰돈 벌 수 있다는 걸 보여줘, ML이었으면 상상도 어려워\"",
+          "url": "https://mydaily.co.kr/page/view/2026110309353419441",
+          "source": "마이데일리"
         }
       ]
     },
     {
-      "keyword": "kt",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgGoBs23p49_ksz_0-vqrMYw5joiLIdmUD30A0TkUozfK9K5Sc4OxQu7dkhz8",
-      "category": "IT·과학",
+      "keyword": "공포탄",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-10T05:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNBNeLAagUaUsgnHbk9Q77074OZ2e_fr226LlsYaG_D__rGfbiYlwkvh_UehE",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "(LEAD) KT Q3 operating profit down amid data breach fallout, AI expenditures",
-          "url": "https://en.yna.co.kr/view/AEN20261110002651320",
-          "source": "Yonhap News Agency"
+          "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
+          "url": "https://news.jtbc.co.kr/article/NB12327297",
+          "source": "JTBC"
         },
         {
-          "title": "KT Confirms AX Business Gains Amid Telecom Recovery as Q3 Operating Profit Falls 6.1% (Comprehensive)",
-          "url": "https://www.asiae.co.kr/en/article/2026111010120330421",
-          "source": "아시아경제"
+          "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
+          "url": "https://www.donga.com/news/Politics/article/all/20261110/134996843/2",
+          "source": "동아일보"
         },
         {
-          "title": "KT's Q3 Operating Profit Falls 6.1%",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/10/I3CJ2E2M7RDJLDUYW5VH75MUT4/",
-          "source": "조선일보"
+          "title": "육군 대대장과 중대장이 서로 공포탄 사격…대대장 군사재판 회부",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707967",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "전영현",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T03:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBYbrmbc1xdz7hVL_uhL-IDqR7HrmEEncQzxziX3Ar6zBFtmjI5n3gsLcWUlw",
-      "category": "IT·과학",
+      "keyword": "대만 해협",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-10T05:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoe1dVUwLglJs1o45X6s2amXGM8DW0y5vSUK0val4nkCR4wGyX6PPsLCnVqpc",
+      "category": "기타",
       "news": [
         {
-          "title": "삼성전자 ‘투톱’ 유임 무게…겸직 해소 주목",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000559",
-          "source": "IT조선"
+          "title": "30~40대 남성 절반 비만...성인 비만율 10년 새 26%↑",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611091632358497&s_hcd=",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "삼성전자 사장단 인사 임박…반도체는 승진 기대, DX는 안갯속",
-          "url": "http://www.inews24.com/view/2023829",
+          "title": "대만해협 흔든 서희함의 심장…한화오션 국산 리튬전지가 비대칭 잠항 열었다",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100637117444fbbec65dfb_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "김정은 보란듯 北겨냥 ‘바닷속 미사일 기지’…발사관 10개 서희함 떴다 [권윤희의 軍토피아]",
+          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/07/20261107500029",
+          "source": "서울신문"
+        }
+      ]
+    },
+    {
+      "keyword": "골프존카운티",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-10T05:40:00.000Z",
+      "picture": "",
+      "category": "스포츠",
+      "news": []
+    },
+    {
+      "keyword": "전차",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-10T05:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1yV65kFQHFaWXT4k_p4t42j76zkjhu4CVvkkxhkkLX6R23Ub0ySLgK8ksEc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "모로코가 전차 수송차 50대를 사들인 까닭…현대로템 K2 향한 시선 쏠리는 배경은?",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100943588335fbbec65dfb_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "모로코, 현대로템 광역급행철도 등 대규모 철도 인프라 예산안 확정",
+          "url": "https://www.theguru.co.kr/news/article.html?no=109321",
+          "source": "더구루"
+        },
+        {
+          "title": "벵게리르에 철도 공장 세우는 모로코… 현대로템 광역급행 110량 생산 축 맡는다",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611060702319622fbbec65dfb_1",
+          "source": "글로벌이코노믹"
+        }
+      ]
+    },
+    {
+      "keyword": "이세계아이돌",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T05:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjLv-Ay83WHA68e3aTIUolt2PZn2s0mm563L1_LOTmthP2hGfHzcHI-rcIPGs",
+      "category": "연예",
+      "news": [
+        {
+          "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447190",
+          "source": "천지일보"
+        },
+        {
+          "title": "SOOP, AGF 2026에 버추얼 스트리머 28명 참가…이세계아이돌 총출동",
+          "url": "http://www.inews24.com/view/2024412",
           "source": "아이뉴스24"
         },
         {
-          "title": "\"AI 반도체 전쟁터는 미국\"…삼성 美 중심 인사 재편하나",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01928646645643752",
-          "source": "마켓인"
+          "title": "SOOP, 'AGF'에 버추얼 스트리머 28명 출격…이세계아이돌 총출동",
+          "url": "https://www.fnnews.com/news/202611101012503438",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
     {
-      "keyword": "이동경",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-10T04:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyFCcZYxYTy_6s8fqcOs6iZTg5xIec8bs2i7vng6ygeBr6KJaLU5xCe8Iq78",
-      "category": "스포츠",
+      "keyword": "뷰익",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T05:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNpKl9EIA0f2fOS7nN8Nc6rwWdZouFjzrAR9adgVLfSe70l0MYKO-7zm0kYl4",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "'야고 17호골' 울산, K리그1 챔피언 서울 2-1 제압…2위 수성(종합2보)",
-          "url": "https://www.yna.co.kr/view/AKR20261108035852007",
-          "source": "연합뉴스"
+          "title": "\"BYD에 맞불\"…뷰익, 5m급 PHEV 세단 '일렉트라 GS' 공개",
+          "url": "https://v.daum.net/v/VVu9ggrNsS",
+          "source": "Daum"
         },
         {
-          "title": "우승 트로피 없어도 개인상 전선 ‘이상 無’…이동경·야고, K리그1 MVP·득점왕·도움왕 개인 타이틀을 향해",
-          "url": "https://sports.donga.com/sports/article/all/20261109/134993233/1",
-          "source": "스포츠동아"
+          "title": "KGM·체리 공동개발 'SE10', 렉스턴 이름으로 인증⋯내년 초 출시 가시화",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601877",
+          "source": "엠투데이"
         },
         {
-          "title": "[현장인터뷰]'서울전 3승1패' 김현석 감독 \"3연승 모두 스리백…그것이 우리의 승리 전술\"",
-          "url": "https://www.chosun.com/sports/football/2026/11/08/GQ3GIZJQGRQTQM3CMIZGCYJYMQ/",
-          "source": "조선일보"
+          "title": "전동화 향해 가는 완성차 업계⋯ ‘길’이 다양해졌다",
+          "url": "https://www.kmib.co.kr/article/20261108501406",
+          "source": "국민일보"
         }
       ]
     }
