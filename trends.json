@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T15:41:22.430Z",
+  "updatedAt": "2026-11-10T16:45:02.828Z",
   "summary": [
-    {
-      "category": "정치·사회",
-      "count": 3
-    },
     {
       "category": "기타",
       "count": 3
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
     },
     {
       "category": "경제",
@@ -16,34 +16,13 @@
     {
       "category": "연예",
       "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "뉴데일리",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-10T11:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKumczpvnIgzeOOpIH08X9GXDsHGnq_UMQwq6g8B1BrfzEHChxr73Y339TT-w",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[속보]‘돌아선 50대’ 대통령 부정 61.7%·긍정 37.8%-리서치뷰",
-          "url": "https://www.munhwa.com/article/11630145",
-          "source": "문화일보"
-        },
-        {
-          "title": "'30대 민심' 국힘으로 쏠렸다, 왜?... 한 달 새 국힘 13%p 상승, 민주 15%p 하락",
-          "url": "https://www.hankookilbo.com/news/article/A2026110915210005288",
-          "source": "한국일보"
-        },
-        {
-          "title": "지지율 '33.8%', 총선 심판을 기다리는 '침묵의 국민들'",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/10/2026111000315.html",
-          "source": "뉴데일리"
-        }
-      ]
-    },
     {
       "keyword": "jtbc",
       "traffic": "2000+",
@@ -124,23 +103,48 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-10T11:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUStoodkhbvgWiWISKPxDR8HVSg1KQCWZMRiOTgAc_SHqpCJYi02250E4ZWDY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-W47JlNdI8rR-MP_q1nfCiVH59r0jxRmfM61K8FrDSas80HRfwPbrnaRQd6E",
       "category": "경제",
       "news": [
         {
-          "title": "'금융보안 문지기' 금융보안원마저 해킹으로 정보유출‥긴급 차단조치",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864653_37004.html",
+          "title": "[2보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
+          "url": "https://www.yna.co.kr/view/AKR20261110173800002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "금융보안원도 해킹에 털렸다...금융사 보안정보 유출",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611110028275778",
+          "source": "YTN"
+        },
+        {
+          "title": "증권사 해킹 도미노…전문가 \"AI로 공격 빨라져, 2차 피해 우려\"",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354278",
+          "source": "녹색경제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "추위",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T15:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgVx_f5FtxQL5taNSU6zRF0nYrZUV0JoapUBoeWqVp4jA88JbYavF5EYztHbU",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "수요일 아침 영하권 추위·낮엔 포근…일교차 15도 안팎",
+          "url": "https://www.yna.co.kr/view/AKR20261110156300530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[날씨] 오전 곳곳 안개, 서리·살얼음도‥일교차 15도 안팎",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864681_36918.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "‘보안문지기’ 금융보안원까지 해킹당했다",
-          "url": "https://www.seoul.co.kr/news/economy/finance/2026/11/11/20261111029006",
-          "source": "서울신문"
-        },
-        {
-          "title": "금융보안원도 해킹에 뚫려…금융사 직원 개인정보 300여건 유출(종합2보)",
-          "url": "https://www.yna.co.kr/view/AKR20261110174751002",
-          "source": "연합뉴스"
+          "title": "[날씨] 쾌청한 늦가을 날씨...낮 기온 '쑥', 큰 일교차",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611101306083818",
+          "source": "YTN"
         }
       ]
     },
@@ -149,23 +153,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-10T14:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoWuT1RnJn4XmhDQhYu4bA9Qt3fAylj5BPNDe0KCxkPT5oqUA4tsltdis7r5Q",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRP5s4r6gNuOb1jnKGotPQiVgsUKiFS8IneBWbU7-9r5yR850vWD5GhKMJU6i4",
       "category": "연예",
       "news": [
         {
-          "title": "[다시보기] 동상이몽2_너는 내 운명 461회",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/vod/52006/22000639574",
+          "title": "“햇살 같은 아이라서” 이유진, 첫 만남에 생각한 ‘아내’ 차경은의 첫인상♥",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483091950",
           "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "'예비부부' 이유진♥차경은, 2세 생겼다…'투머치 태교'",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6349708",
-          "source": "뉴스1"
         },
         {
           "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HAZDEMJZGUYDKOJTMU4GENJRHE/",
           "source": "Chosunbiz"
+        },
+        {
+          "title": "'동상이몽2' 이효정, 며느리 차경은 자랑 위해 출격 \"아들이 처음으로 효도\"",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524345",
+          "source": "iMBC 연예"
         }
       ]
     },
@@ -233,14 +237,14 @@
           "source": "엑스포츠뉴스"
         },
         {
+          "title": "한수아 카리나와 절친한 사이 공개, 바쁜 스케줄 끝나면 집으로…잠옷 입고 등산까지 한 우정 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224472333613&redirect=Dlog",
+          "source": "Naver Blog"
+        },
+        {
           "title": "“여보” 카리나, 한수아와 관계 이 정도…”스케줄 끝나면 우리 집으로” [RE:뷰]",
           "url": "https://tvreport.co.kr/breaking/article/1089836/",
           "source": "TV리포트"
-        },
-        {
-          "title": "광주신세계, '포도코어'·'신백코어' 신유행 선봬",
-          "url": "https://www.yna.co.kr/view/AKR20261104068900054",
-          "source": "연합뉴스"
         }
       ]
     },
