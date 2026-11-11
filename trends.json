@@ -1,85 +1,56 @@
 {
-  "updatedAt": "2026-11-11T19:53:01.988Z",
+  "updatedAt": "2026-11-11T21:27:50.651Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
       "category": "정치·사회",
+      "count": 3
+    },
+    {
+      "category": "IT·과학",
       "count": 2
     },
     {
       "category": "스포츠",
       "count": 1
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "수사",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-11T18:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjGcIojLlZZI1yBM9iEYfaLKjoZ35UC6_Jjy36MmeD1VKLCxr6I8HhuFILyVc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "10대 살해한 50대…'아들 성범죄'에 '조건만남 절도'까지 복잡(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261111146451004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "아들의 성폭행 피해자 여중생 살해한 부친",
-          "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "성폭력 피해 10대 여성 피살…성평등장관 “공적체계서 지키지 못해”",
-          "url": "https://www.hani.co.kr/arti/society/rights/1286901.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "restaurants near me",
+      "keyword": "메이저 리그 사커",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-11T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXlCs38FbMbLzMNIJpvRMPuwFbg_nZ8si5FdNY84hLXzXhF0eEey8COH-nHr8",
-      "category": "기타",
+      "startedAt": "2026-11-11T20:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsvkQkt5PsqaimH4wLWVV7ugf1FZNGySAMhChZnCiHy5wx57MXqX_opyPGAJc",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Applebee’s® Honors Veterans & Active Duty Military with Free Meals on Veterans Day",
-          "url": "https://www.applebees.com/en/news/2026/veterans-day",
-          "source": "Applebee's"
+          "title": "‘축구의 신’ 메시, MLS 최초 2년 연속 득점왕 등극",
+          "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/",
+          "source": "조선일보"
         },
         {
-          "title": "Here are the businesses offering free food and discounts for veterans",
-          "url": "https://www.eastidahonews.com/2026/11/here-are-the-businesses-offering-free-food-and-discounts-for-veterans/",
-          "source": "East Idaho News"
+          "title": "`메시, MLS에서 역사 썼다`…리그 최초 2시즌 연속 득점왕, 31경기 26골 17AS 폭발",
+          "url": "https://mydaily.co.kr/page/view/2026110918472925665",
+          "source": "마이데일리"
         },
         {
-          "title": "Veterans Day 2026 Free Meals, Freebies and Deals",
-          "url": "https://www.legion.org/information-center/news/veterans-day/2026/november/veterans-day-deals-and-discounts",
-          "source": "The American Legion"
+          "title": "메시 결승골…인터 마이애미, 뉴잉글랜드에 2-1 역전승 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1065087",
+          "source": "재경일보"
         }
       ]
     },
     {
       "keyword": "구자욱",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-11T17:00:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3sjIhoHuiaDLlB6VDtel_xjhRkxA_k5e4qADExdqKcTsiiLGlo_OlBVCgxco",
-      "category": "스포츠",
+      "category": "IT·과학",
       "news": [
         {
           "title": "삼성 우승에 대구 상권 ‘들썩’… 소상공인 할인 잔치, 계열사는 언제?",
@@ -92,41 +63,41 @@
           "source": "경향신문"
         },
         {
-          "title": "'흑역사' 지운 스포츠 삼성家 …야구·축구 등에서 '겹경사'",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862721",
-          "source": "뉴시스"
+          "title": "삼성 라이온즈 12년 만의 KS 우승⋯ 삼성전자 등 계열사 ‘통 큰 할인’ 쏘나",
+          "url": "https://www.viva100.com/article/20261111500756",
+          "source": "브릿지경제"
         }
       ]
     },
     {
-      "keyword": "크러쉬 조이",
+      "keyword": "수사",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-11T15:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvwfhyikRnLDSeaIsUzr8Vrdv9lBZmcgyZHh5NtUMvOCpeD34HKG7nApOmBd0",
-      "category": "연예",
+      "startedAt": "2026-11-11T18:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU12vgZbaxMIcJHusgS3N2x7Mm7NWxFMNMHxZqcO4dRiVLeHBP4dYoqq69vI",
+      "category": "기타",
       "news": [
         {
-          "title": "아이유는 이용당했네..'6년 열애' 크러쉬♥조이, 보란듯이 '커플 듀엣' 라이브 공개[핫피플]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/MYYDMYTCGBTDCYRXMY2WIMTDGY/",
-          "source": "Chosunbiz"
+          "title": "아들의 성폭행 피해자 여중생 살해한 부친",
+          "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2",
+          "source": "동아일보"
         },
         {
-          "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
-          "url": "https://sports.khan.co.kr/article/202611112204003",
-          "source": "스포츠경향"
+          "title": "아들은 성폭력, 아버지는 살해‥50대 남성 체포, '보복살인'?",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864939_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "크러쉬, ♥조이에 허락받았나.. \"사랑노래, 아이유에 직접 듀엣 제안\"",
-          "url": "https://www.osen.co.kr/article/G1112907470",
-          "source": "OSEN"
+          "title": "아들 ‘성범죄 사건’ 10대 피해자 살해한 50대 남성 체포…보복 범행 가능성 수사",
+          "url": "https://www.khan.co.kr/article/202611111924001",
+          "source": "경향신문"
         }
       ]
     },
     {
       "keyword": "양홍원",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-11T18:00:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpa96cpNOYfO7DIxADW0ZMM-wKvJhmvJsBW1Dt6Xcp1oTYZ2wi9NGHoyM4vh8",
       "category": "기타",
@@ -137,39 +108,89 @@
           "source": "머니투데이"
         },
         {
-          "title": "양홍원 딸 육아돕던 PD도 팔로우 끊었다…아내만 남아",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863771",
-          "source": "뉴시스"
-        },
-        {
           "title": "양홍원, 불륜 의혹 속 신보 ‘오보’ 발표…의미심장 가사",
           "url": "https://www.donga.com/news/Entertainment/article/all/20261111/135007845/1",
           "source": "동아일보"
+        },
+        {
+          "title": "양홍원 딸 육아돕던 PD도 팔로우 끊었다…아내만 남아",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863771",
+          "source": "뉴시스"
         }
       ]
     },
     {
       "keyword": "테일러 프리츠",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-11T17:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn8J6xZFAFryRNIy4rvsodZFnKvmg5_vzrrOBPle1gbjjMm7tG9sDDA-ACVoU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9OrGkNFya6eYVEr_qb-jmdBI7SW-0eDU8YCojSMU2sRYq2ut8-r4uUzlr8U",
       "category": "기타",
       "news": [
         {
-          "title": "Exclusive: Taylor Fritz clarifies Six Kings Slam fee reports as Casper Ruud defends Masters 1000 in Saudi A...",
-          "url": "https://bolavip.com/en/tennis/exclusive-taylor-fritz-clarifies-six-kings-slam-fee-reports-as-casper-ruud-defends-masters-1000-in-saudi-arabia",
-          "source": "Bolavip US"
-        },
-        {
-          "title": "Norrie serves up storm in Stockholm, sets Fritz showdown",
-          "url": "https://www.atptour.com/en/news/norrie-duckworth-stockholm-2026-monday",
+          "title": "Fritz saves 2 set points, downs Norrie to reach Stockholm QFs",
+          "url": "https://www.atptour.com/en/news/stockholm-2026-wednesday-report",
           "source": "ATP Tour"
         },
         {
           "title": "Sports News, Transfers, Scores | Watch Live Sport",
           "url": "https://www.skysports.com/tennis/watch/5412594896626087112/bybit-stockholm-open-2026",
           "source": "Sky Sports"
+        },
+        {
+          "title": "Cameron Norrie dumped out of Stockholm Open by world No.10",
+          "url": "https://uk.sports.yahoo.com/news/cameron-norrie-dumped-stockholm-open-171400886.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "편의점",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T19:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BUXhpXKyFNtFomFoI0PEDIM1mrd0KVJ8IJJHYiLH5GC5xoEFzC4dykvT1nA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "신호 기다리다 음주 차량에 '쾅'...면허 취소 수치",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611120011001955",
+          "source": "YTN"
+        },
+        {
+          "title": "추돌사고 당한 승용차가 편의점 덮쳐…8명 부상",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111073932L6J",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "음주 차량에 추돌당한 경차가 편의점 파손…8명 다쳐",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709632",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "무인 항공기",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T19:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjG09Q95qsj60TKi5liVO8y_VZsOxz7O_JwVYU2m4g0fHySlI6IkbcZ3Ek99M",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "육군 “김포서 훈련 중 소형무인기 추락…북한 관련 없는 지역”",
+          "url": "https://www.khan.co.kr/article/202611101125001",
+          "source": "경향신문"
+        },
+        {
+          "title": "김포 주택가 공원에 무인기 추락…군 “교육훈련 중 추락”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708502",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "軍 무인기, 훈련 중 김포 공원에 추락…사고 원인 조사",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261110144436xGB",
+          "source": "연합뉴스TV"
         }
       ]
     },
@@ -245,31 +266,6 @@
           "title": "‘피의 게임2’ 최후의 5인 서출구, ‘데블스 플랜3’ 생존 경쟁…“감옥서 살아 돌아왔다”",
           "url": "https://www.sportsseoul.com/news/read/1649003",
           "source": "스포츠서울"
-        }
-      ]
-    },
-    {
-      "keyword": "이수혁",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T14:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-KELgMQjTELYLaN9QbbYXGoXXo63Qf_vt8qlFI1SWu5FjiYXDTO4zW2TnyNI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[포토] 100일의 김유정",
-          "url": "https://m.imbc.com/enews/view/524341",
-          "source": "MBC"
-        },
-        {
-          "title": "[ET포토] 배윤영, '시원하게 드러낸 어깨라인'",
-          "url": "https://www.etnews.com/20261111000247",
-          "source": "전자신문"
-        },
-        {
-          "title": "[사진]수주 '세계가 사랑하는 모델'",
-          "url": "https://www.osen.co.kr/article/G1112907962",
-          "source": "OSEN"
         }
       ]
     }
