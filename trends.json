@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T06:59:39.456Z",
+  "updatedAt": "2026-11-11T08:14:56.647Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 3
     },
     {
       "category": "연예",
@@ -11,43 +11,22 @@
     },
     {
       "category": "IT·과학",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "담배",
+      "keyword": "남편",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-11T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEVrE19OjJ5pGlVAT_ZyRcr85RjKnQtYJVb7coWQ56mWajxBQ7y-vIW8OHiE0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"장기간 전자담배 젊은 성인, 1년 뒤 폐 기능 감소\"",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611111103464537",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "[건강포커스] \"전자담배 오래 사용한 젊은 성인, 1년 뒤 폐 기능 감소\"",
-          "url": "https://www.yna.co.kr/view/AKR20261110094000017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "“젊음도 막지 못했다”…2030 젊은 폐를 갉아먹는 전자담배의 ‘진실’ [헬스픽]",
-          "url": "https://www.seoul.co.kr/news/life/health-news/2026/11/11/20261111500105",
-          "source": "서울신문"
-        }
-      ]
-    },
-    {
-      "keyword": "남편",
-      "traffic": "2000+",
-      "trafficValue": 2000,
       "startedAt": "2026-11-11T05:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6vSdNEbJgu2asfjJE_2tVIzntvjjBo1rKdGMnt__Qovc3HCUYi8iO81y-vI",
       "category": "연예",
@@ -63,188 +42,218 @@
           "source": "OSEN"
         },
         {
-          "title": "“나 시집 가겠는데?”…장나라, ♥6살 연하 남편과 결혼 결심한 순간",
-          "url": "https://sports.donga.com/ent/article/all/20261111/135006703/1",
-          "source": "스포츠동아"
+          "title": "장나라, 6살 연하 남편과의 결혼 결심 “과자를 먹다가 갑자기” (살롱드립)",
+          "url": "https://sports.khan.co.kr/article/202611111444003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "중국",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-11T04:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTusfeYdhmRqE3sQsFY88CkOKg-CdOD3Jz2ga15WRKjEP7L673UQ3FvSmNYsAg",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "구미시, 로봇·농식품 해외시장 개척 앞장",
-          "url": "https://www.newsis.com/view/NISX20261111_0003864060",
-          "source": "뉴시스"
-        },
-        {
-          "title": "천안시, ‘중국 실리콘밸리’ 선전서 AI·로봇 생태계 시찰",
-          "url": "https://www.dtnews24.com/news/articleView.html?idxno=817095",
-          "source": "디트NEWS24"
-        },
-        {
-          "title": "첨단산업 투자로 구미 주택시장 '회복세'…'미분양' 1년 새 73.5%↓",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6350238",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "포틀랜드 대 오클라호마시티",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-11T04:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFxRNY87yrTBqD1DuSL3HQu1qZNbgr9Gj_dW2iAavTjAHp1Z_2wDVWFqVkHfc",
+      "keyword": "담배",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-11T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDC8he2_Sr_GDN3KjDeHT-FJbr0zoUVhQIl27stf3bPPOjn0jJZpEa4xeMmww",
       "category": "기타",
       "news": [
         {
-          "title": "[오클라호마시티 포틀랜드] 드리블 하는 길저스-알렉산더",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748914",
-          "source": "국제뉴스"
+          "title": "\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?",
+          "url": "https://view.asiae.co.kr/article/2026111109323627428",
+          "source": "아시아경제"
         },
         {
-          "title": "[오클라호마시티 포틀랜드] 파울 당하는 길저스-알렉산더",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748917",
-          "source": "국제뉴스"
+          "title": "담배 속 유해성분 검사 대상 확대",
+          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12503000000&section_id=NCCD_POLICY&news_id=0f33944c-a1a4-4d51-a935-9af421afb8ae",
+          "source": "K-공감"
+        },
+        {
+          "title": "\"담뱃값 4500원→8500원으로\"…흡연자 긴장할 주장 나왔다",
+          "url": "https://news.nate.com/view/20261110n22272",
+          "source": "네이트"
         }
       ]
     },
     {
-      "keyword": "스마일게이트",
+      "keyword": "ai 안경",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-11T04:00:00.000Z",
+      "startedAt": "2026-11-11T07:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrmlcIV7bLiYnvP9QqFX99-2xUzULYSAJQd1Sm_wXaO99htam25JH60SmTNe8",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "\"AI 안경 쓰고 '신개념 컨닝'\"…수능 앞두고 '비상' 걸렸다 [정지은의 테크킥]",
+          "url": "https://www.hankyung.com/article/202611118708i",
+          "source": "한국경제"
+        },
+        {
+          "title": "[참성단] 스마트 커닝과 70년 무감독 시험",
+          "url": "https://www.kyeongin.com/article/1774515",
+          "source": "경인일보"
+        },
+        {
+          "title": "[단독] 대학 중간고사까지 침투한 '스마트안경'...\"제도개선 시급\"",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611101101526896",
+          "source": "YTN 사이언스"
+        }
+      ]
+    },
+    {
+      "keyword": "지진",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-11T06:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf8LwyDR5l0bR5k4hok5rbHwsVlAqMUX6Do8EoIWgg2xtLA_yIO39xde0CVME",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "지진 발생 10분 만에 출근...일본 아나운서 '민낯 속보' 화제 [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611101829186378",
+          "source": "YTN"
+        },
+        {
+          "title": "지진 10분 만에 맨얼굴에 안경 쓰고 속보…日 아나운서 화제",
+          "url": "https://www.koreadaily.com/article/20261108190038698",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "[와글와글] 화장할 겨를도 없이 지진 속보",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864428_37012.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "흡연",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-11T06:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc5xjuSIhqctnzyGi_K9zJxxPs0QTrOsE25egD7v7fCDx7lv0FBA4PomWgTn0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[한 컷으로 보는 AI만평] 흡연은 부스에서, 연기는 시민에게",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003768",
+          "source": "중도일보"
+        },
+        {
+          "title": "[르포] 육교 아래 흡연부스…담배 연기 퍼지는 신탄진역 광장",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261109010002971",
+          "source": "중도일보"
+        },
+        {
+          "title": "32기 영수, 흡연 고백에 뽀뽀 제안까지…가상 아내 \"안 될 것 같다\"",
+          "url": "https://www.newsis.com/view/NISX20261110_0003861719",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "오유진",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T06:00:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "총파업",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T04:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJPatPTudUocdh2tEgpz5uHLATtUrwF0-LI69cux1c-A4DbcUhNXiZCpOPcqE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "철도노조, 12월 10일 오전 9시 무기한 총파업 예고",
-          "url": "https://www.mk.co.kr/news/society/12205318",
-          "source": "매일경제"
-        },
-        {
-          "title": "공항철도 노조, 13일 경고파업…일반열차 28.7% 감축 운행",
-          "url": "https://www.khan.co.kr/article/202611111408001",
-          "source": "경향신문"
-        },
-        {
-          "title": "[포토] 구호 외치는 철도 노동자들",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447831",
-          "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "사슴",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T04:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLqhXiXBbbAnvugOACOCVnaK_PVFOnelqY2xQRruTmCklE_RMiR3AhmjBW6kQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"사슴 주둥이에 웬 호박이\"…미국서 열흘간 추격 끝 구조",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110171404jdp",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "핼러윈 호박통에 입 끼어 열흘간 물도 못 마신 어린 사슴…강물 네 번 건너 구조 나서",
-          "url": "https://view.asiae.co.kr/article/2026111109000568590",
-          "source": "아시아경제"
-        },
-        {
-          "title": "호박 장식 주둥이에 껴 물도 못마신 사슴…10일 추격 끝 구조",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611111006445491",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "굴착기",
+      "keyword": "김종국",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T04:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi39_HaHqaN1T4awEwZp84WR5FMgRfouMhBpaYe-XcVwsu9WON5jreuZ8ACPI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709444",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "中남성, 관공서에 굴착기 몰고 가 난동…철거 보상 불만 추정",
-          "url": "https://www.yna.co.kr/view/AKR20261110119700083",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "당국 미지급 보상금에 앙심… 中 40대 굴착기 몰고 정부 청사 돌진",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447802",
-          "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김정난",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T04:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeXoMkJ5cpSdEUusy9h41nLr8uHgEEN0hU1Mgt81OXrgf4Lck3SxbNSU9Idc",
+      "startedAt": "2026-11-11T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR3kjdZS3pJYlUKg4vTaN1Fl0x77CPubv31h7gZ4BJ2KN_n8wCWCYVhNAIo-k",
       "category": "연예",
       "news": [
         {
-          "title": "김정난, 미모 믿고 데뷔했는데... \"고소영, 김혜수 만나 절망\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GMYWCZDDMUZGIMJQMEZTMZJRMU/",
-          "source": "조선일보"
+          "title": "\"물도 못 마시고 이틀간 고통\"…김종국 투병 '전정신경염' 뭐길래 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111111204119040",
+          "source": "머니투데이"
         },
         {
-          "title": "\"고소영·채시라·김혜수에 절망\"…김정난, '미모로 승부 포기' 고백('김정난')",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019035",
-          "source": "SPOTV NEWS"
+          "title": "김종국, 극비리 결혼 1년 막 지났는데..건강이상설 \"심한 어지럼증\" [핫피플]",
+          "url": "https://www.koreadaily.com/article/20261110161829887",
+          "source": "미주중앙일보"
         },
         {
-          "title": "김정난, 배우 데뷔 후 외모에 좌절…“고소영 보고 절망했다”",
-          "url": "https://sports.donga.com/ent/article/all/20261110/134997403/1",
+          "title": "안재현 기절 직전…추성훈도 눈물 ‘생굼벵이 먹방’ (상남자의 여행법)",
+          "url": "https://sports.donga.com/ent/article/all/20261111/135004757/1",
           "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "폴 조지",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSpvcZBJeoTjkhX2ehH4zwzKKhly7nswBZydVEK7pqfRNgj7f-Rdpj9sW7Wbg",
-      "category": "기타",
+      "keyword": "조원태",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwUe9zCKZxaq0muWe1tKeqdGukLuLB2ZVPosVkA3RPD96pTtgvORy7EHly90o",
+      "category": "경제",
       "news": [
         {
-          "title": "브라운, '전 동료' 테이텀에 여전한 앙금…필라델피아는 보스턴에 완패",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841236",
-          "source": "SBS 뉴스"
+          "title": "최대주주는 호반, 경영권은 조원태…한진칼 지분전쟁 '장기전' 국면으로",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080054.html",
+          "source": "인베스트조선"
         },
         {
-          "title": "브라운과 테이텀의 ‘어색한 재회’···주인공은 폴 조지, 친정팀 상대 ‘36점 맹폭’ 승리 주역",
-          "url": "https://sports.khan.co.kr/article/202611111456003",
+          "title": "연일 상한가…한진칼 등 '지분경쟁·경영권 이슈' 우선주 급등",
+          "url": "https://www.yna.co.kr/view/AKR20261111067900008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "드라마 ‘눈물의 여왕’처럼...호반, 야금야금 주식 사 모아 ‘한진칼’ 최대 주주 됐어요",
+          "url": "https://www.chosun.com/kid/kid_economy/kid_honeybee/2026/11/10/CAK3JM35DRFPZDRSKVUOFQZCOY/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "로제",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T06:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQj02tNJEyAWBXj3rE4FoLY3DUDE78e1pxBEfg6Sa5fw0K8d2Tkd9ad-ZWVos",
+      "category": "경제",
+      "news": [
+        {
+          "title": "로제 ‘아파트’ 라이브에 “중학교 장기자랑” 혹평···해외반응 ‘시끌’",
+          "url": "https://sports.khan.co.kr/article/202611111009003",
           "source": "스포츠경향"
         },
         {
-          "title": "‘제일런 브라운, 이제는 보스턴의 적으로’… 필라델피아-보스턴전 대상 프로토 승부식 133회차 발매",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05290646645644408&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "로제 'APT.' 무대 어땠길래…해외선 혹평, 국내선 옹호",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863734",
+          "source": "뉴시스"
+        },
+        {
+          "title": "요즘 로제는 머리를 묶다 맙니다",
+          "url": "https://www.wkorea.com/2026/11/09/%EC%9A%94%EC%A6%98-%EB%A1%9C%EC%A0%9C%EB%8A%94-%EB%A8%B8%EB%A6%AC%EB%A5%BC-%EB%AC%B6%EB%8B%A4-%EB%A7%99%EB%8B%88%EB%8B%A4/",
+          "source": "W Korea"
+        }
+      ]
+    },
+    {
+      "keyword": "석유",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T06:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRn-AVC9-KUbkuPuvuxGSA4WyGn5qxoFfsi3sVn-sLXtieMcDyzDKxkps3YR0Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "석유관리원, 제19회 한·중·일 석유기술회 개최",
+          "url": "https://www.dailian.co.kr/news/view/1713806/%EC%84%9D%EC%9C%A0%EA%B4%80%EB%A6%AC%EC%9B%90-%EC%A0%9C19%ED%9A%8C-%ED%95%9C%EC%A4%91%EC%9D%BC-%EC%84%9D%EC%9C%A0%EA%B8%B0%EC%88%A0%ED%9A%8C-2026",
+          "source": "데일리안"
+        },
+        {
+          "title": "석유관리원, 한중일 석유기술회 개최…친환경 연료 협력 논의",
+          "url": "https://www.fnnews.com/news/202611111556094195",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "한·중·일 석유기술회 제주 개막… 친환경·저탄소 연료 기술 공조 모색",
+          "url": "https://www.energykorea.co.kr/news/articleView.html?idxno=66926",
+          "source": "에너지코리아뉴스"
         }
       ]
     }
