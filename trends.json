@@ -1,17 +1,13 @@
 {
-  "updatedAt": "2026-11-11T14:10:26.659Z",
+  "updatedAt": "2026-11-11T16:49:49.297Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 7
     },
     {
-      "category": "스포츠",
+      "category": "연예",
       "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
     },
     {
       "category": "정치·사회",
@@ -20,34 +16,9 @@
   ],
   "items": [
     {
-      "keyword": "일진전기",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-11T10:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ711GNLgnoeA7h9wqyvSDPCwPBcS7Fq_OUIBmICVoFA99iSuKCa0LvDmGoCY",
-      "category": "경제",
-      "news": [
-        {
-          "title": "어제는 9% 오늘은 14% 급등…그래도 \"가장 저평가\"",
-          "url": "https://www.hankyung.com/article/202611110559i",
-          "source": "한국경제"
-        },
-        {
-          "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
-          "source": "전기신문"
-        },
-        {
-          "title": "일진전기, 3분기 영업익 전년비 98% 증가…수주잔고 3조원 - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/11/2026111115334857081",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
       "keyword": "이종석",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-11T11:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgyX0aek-PAGabF1SbwgxtrhUm9MNNK2xlimM5fuJRsnBMl8mgHTqenB9GAJs",
       "category": "기타",
@@ -70,34 +41,34 @@
       ]
     },
     {
-      "keyword": "고잔동",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T11:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjFWNQ2M6jPgBm_coAm0hnu_UnGmo-npUvrvQVuwsVGMi58CYEYR8kyeHjKCw",
+      "keyword": "restaurants near me",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-11T14:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkDBaf6YniBbO5vzCEFCYZIw98_KGCbrKUys00VAYo_T8TSOH4lMh0aOVwgKM",
       "category": "기타",
       "news": [
         {
-          "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
-          "source": "KBS 뉴스"
+          "title": "SE Wisconsin Veterans Day events: Free meals, deals and ceremonies",
+          "url": "https://www.fox6now.com/news/se-wisconsin-veterans-day-2026-memorial-unveiling-meals-deals",
+          "source": "FOX6 News Milwaukee"
         },
         {
-          "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
-          "source": "인천일보"
+          "title": "Milwaukee Restaurants Salute Service With Veterans Day Discounts",
+          "url": "https://urbanmilwaukee.com/2026/11/10/milwaukee-restaurants-salute-service-with-veterans-day-discounts/",
+          "source": "Urban Milwaukee"
         },
         {
-          "title": "인천 남동구서 가스누출 의심 신고···1명 병원 이송",
-          "url": "https://www.khan.co.kr/article/202611112124001",
-          "source": "경향신문"
+          "title": "How the Baraboo area is celebrating veterans this week",
+          "url": "https://wiscnews.com/news/local/article_c2940020-6187-4252-8a9d-76c4a515f3c5.html",
+          "source": "Wiscnews.com"
         }
       ]
     },
     {
       "keyword": "외교관",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-11T11:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk8Ij9zpxKgcsi2f540d1AGBFHmMp7XIHIhFj-4rgxmKZi26KPSAqZCCi4fQ",
       "category": "정치·사회",
@@ -108,14 +79,39 @@
           "source": "주간조선"
         },
         {
+          "title": "\"스스로 공주라 여긴 김여정, 말도 안 섞더라\"…탈북 외교관의 폭로",
+          "url": "https://www.fnnews.com/news/202611100000461558",
+          "source": "파이낸셜뉴스"
+        },
+        {
           "title": "“김여정, 자신이 공주라 생각…외교관과 말도 안 섞어” 탈북 외교관의 증언",
           "url": "https://www.munhwa.com/article/11630069",
           "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "고잔동",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T11:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjFWNQ2M6jPgBm_coAm0hnu_UnGmo-npUvrvQVuwsVGMi58CYEYR8kyeHjKCw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "인천 고잔동 도금 공장서 가스 누출 신고…5명 연기 흡입",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "탈북 외교관 \"김여정은 스스로 공주라 생각, 나와 말 안 섞어…나도 땡큐\"",
-          "url": "https://www.news1.kr/society/general-society/6348613",
-          "source": "뉴스1"
+          "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
+          "source": "인천일보"
+        },
+        {
+          "title": "[천지만평] 2026년 11월 12일자",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447924",
+          "source": "천지일보"
         }
       ]
     },
@@ -124,18 +120,18 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-11T11:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P9LfpnOA5uBkHg026G8Qn0wFBRpQq56RKulvAa9eJOXusdA34MbvBha49sQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO8QThM2cEYzZtCjetC8e4mDBsPH12G5qIhPnaMgVqZ9EASvEhTET8gsyda5Q",
       "category": "기타",
       "news": [
-        {
-          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
-          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
-          "source": "homeup.vn"
-        },
         {
           "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
           "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
           "source": "Laodong.vn"
+        },
+        {
+          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+          "source": "homeup.vn"
         },
         {
           "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
@@ -145,77 +141,27 @@
       ]
     },
     {
-      "keyword": "주차장",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T10:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvm8hqgXX382o1rYKQjixadQGQkQhJCwGEj_xSJbxP00YsuYdA63-RVQcqKvk",
-      "category": "기타",
+      "keyword": "조이 크러쉬",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHSJOyx99YYHGVBiD1hyIP_iaMq7opvM6bROm8naB-xX6Ie9qaJ_rBzukkh8U",
+      "category": "연예",
       "news": [
         {
-          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863717",
-          "source": "뉴시스"
+          "title": "아이유는 이용당했네..'6년 열애' 크러쉬♥조이, 보란듯이 '커플 듀엣' 라이브 공개[핫피플]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MU3DEOLGHE2DKMRVGY3WGY3GGY/",
+          "source": "조선일보"
         },
         {
-          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
-          "url": "https://www.newspim.com/news/view/20261111001289",
-          "source": "뉴스핌"
+          "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
+          "url": "https://sports.khan.co.kr/article/202611112204003",
+          "source": "스포츠경향"
         },
         {
-          "title": "파주시, ‘공영주차장 24시간 콜센터’ 본격 운영",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003663",
-          "source": "중도일보"
-        }
-      ]
-    },
-    {
-      "keyword": "임신",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T10:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxkVQvojGGqxegSBTlmL8-wXnlfhQB21EKBMFrc9MmVsfaWCsTrK6QmGO-80A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
-          "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
-          "url": "https://www.news1.kr/world/usa-canada/6347861",
-          "source": "뉴스1"
-        },
-        {
-          "title": "병원 35곳서 ‘수용 불가’…청주서 서울로 120km 이송된 임신부",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710316",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "연합뉴스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnLFWeX8Jj2CoCXQVeXxF6K3_W2o70sWq9N_rtaxLKkiqKx8tCj2Do_sbjsyM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
-          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922",
-          "source": "한국NGO신문"
-        },
-        {
-          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
-          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
-          "source": "프리진뉴스"
-        },
-        {
-          "title": "감비아 대통령, 야권 분열 속 3선 도전",
-          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1438089",
-          "source": "연합뉴스 한민족센터"
+          "title": "‘장기 커플’ 크러쉬♥조이, 제대로 사고쳤다…반려견 품에 안고 달콤한 세레나데",
+          "url": "https://www.sportsseoul.com/news/read/1649166",
+          "source": "스포츠서울"
         }
       ]
     },
@@ -245,27 +191,77 @@
       ]
     },
     {
-      "keyword": "인터뷰",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfH0itS-zuFC80-X0QOuAYCpCU44Wjr8IT76RorifPEHQ7GrORu0KW6zXyKSo",
-      "category": "스포츠",
+      "keyword": "오현민",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T15:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMBFskQl6UmIXIHTFxHB8PM7LpZMRrepZ4FCkkN7IsaMC1c1OXh-9nOx7UF8E",
+      "category": "기타",
       "news": [
         {
-          "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
-          "source": "YTN"
+          "title": "장동민, ‘데블스 플랜3’ 첫방 앞두고 각오..“서바이벌은 준비된 자와 자만한 자로 나뉘어”",
+          "url": "https://www.osen.co.kr/article/G1112907691",
+          "source": "OSEN"
         },
         {
-          "title": "[비평] 그래서 사랑이 가능합니까, 오진우 평론가의",
-          "url": "https://cine21.com/news/view/?mag_id=111205",
-          "source": "씨네21"
+          "title": "[이번 주 뭐 볼까] ‘두뇌 서바이벌’ 최강자 중의 최강자를 가려라",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/10/7PTW24N2JVH4DEX5VHNTF47MH4/",
+          "source": "조선일보"
         },
         {
-          "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384",
-          "source": "SBS 뉴스"
+          "title": "데블스플랜3 장동민 “33개월 아들, 서바이벌 준비”…오현민 “32년 된 아들도”",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004024",
+          "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "채령",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T14:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-SJsh42poeb9dut0H8p68235h_VjYp8QhuiOmsLMnjwaIrUX6yWse4qzZflQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "있지 채령, '여기가 내 무대'",
+          "url": "https://www.newspim.com/news/view/20261110000899",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "[사진]아워벌스데이 신혜원, 순백의 여신 느낌",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/GBSDCZRRHFQTQMZXGVRDIZDCGE/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "홀로서기 나선 ITZY 채령, 첫 미니 ‘Lovesick’ 9일 발매",
+          "url": "https://www.munhwa.com/article/11630307",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "라라랜드",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T14:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNuFFSOr2UuXyuZ7doqR2nVXUzV072DUHxCyPdlEeRZ1GVZc1bBA5vb4eiZ0",
+      "category": "연예",
+      "news": [
+        {
+          "title": "스크린으로 다시 만나는 ‘라라랜드’ ‘더 랍스터’ ‘원스’",
+          "url": "https://www.kmib.co.kr/article/20261111501973",
+          "source": "국민일보"
+        },
+        {
+          "title": "‘재개봉·공연실황·실험작’… 극장가, 비수기를 飛수기로!",
+          "url": "https://www.munhwa.com/article/11630108",
+          "source": "문화일보"
+        },
+        {
+          "title": "빼빼로데이, 어떤 영화 볼까? ‘듄’·‘라라랜드’ 재개봉작 예매 강세",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756741",
+          "source": "ER 이코노믹리뷰"
         }
       ]
     }
