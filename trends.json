@@ -1,24 +1,49 @@
 {
-  "updatedAt": "2026-11-11T12:55:58.830Z",
+  "updatedAt": "2026-11-11T14:10:26.659Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 6
     },
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "정치·사회",
       "count": 2
     },
     {
       "category": "경제",
       "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "일진전기",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-11T10:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ711GNLgnoeA7h9wqyvSDPCwPBcS7Fq_OUIBmICVoFA99iSuKCa0LvDmGoCY",
+      "category": "경제",
+      "news": [
+        {
+          "title": "어제는 9% 오늘은 14% 급등…그래도 \"가장 저평가\"",
+          "url": "https://www.hankyung.com/article/202611110559i",
+          "source": "한국경제"
+        },
+        {
+          "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
+          "source": "전기신문"
+        },
+        {
+          "title": "일진전기, 3분기 영업익 전년비 98% 증가…수주잔고 3조원 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/11/2026111115334857081",
+          "source": "머니투데이"
+        }
+      ]
+    },
     {
       "keyword": "이종석",
       "traffic": "2000+",
@@ -45,134 +70,34 @@
       ]
     },
     {
-      "keyword": "창원 lg 대 서울 sk",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-11T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpWy8sALmvwTc4Cj7JTzal2pdgKAcUdMIApBd9DQYbOSBR3eRZnugIkQRUI1o",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'1쿼터 32-8' 프로농구 LG, SK 완파하고 공동 5위…굿윈 26점",
-          "url": "https://www.yna.co.kr/view/AKR20261111178600007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[사진] 마레이와 유기상, 승리의 기운 가득",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/11/G4YWENDFGZTDKNBXGYYGINJVMI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'1쿼터 32-8' LG, SK에 29점차 대승…마레이·굿윈 51점 합작",
-          "url": "https://www.newsis.com/view/NISX20261111_0003864502",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
       "keyword": "고잔동",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-11T11:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTqtnVYwnBfAS__qRm11m-HAzy9t8tZrHDJF1es6tK6kRfK_Deh4iHyaqDQpo",
-      "category": "정치·사회",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjFWNQ2M6jPgBm_coAm0hnu_UnGmo-npUvrvQVuwsVGMi58CYEYR8kyeHjKCw",
+      "category": "기타",
       "news": [
-        {
-          "title": "[속보] 인천 남동공단 유독가스 유출···\"주민 대피\"",
-          "url": "https://www.incheontoday.com/news/articleView.html?idxno=326251",
-          "source": "인천투데이"
-        },
         {
           "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
           "source": "KBS 뉴스"
         },
         {
-          "title": "[속보] 인천 남동구 고잔동에서 유독가스 유출 사고 발생",
-          "url": "https://news.skbroadband.com/news/articleView.html?idxno=243024",
-          "source": "SK브로드밴드 회사소개"
-        }
-      ]
-    },
-    {
-      "keyword": "xsmb",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T11:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P9LfpnOA5uBkHg026G8Qn0wFBRpQq56RKulvAa9eJOXusdA34MbvBha49sQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
-          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
-          "source": "homeup.vn"
+          "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
+          "source": "인천일보"
         },
         {
-          "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
-          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Kết quả xổ số Tây Ninh hôm nay 12/11/2026. XSTN 12/11. Xổ số Tây Ninh hôm nay",
-          "url": "https://bnews.vn/ket-qua-xo-so-tay-ninh-hom-nay-12-11-2026-xstn-12-11-xo-so-tay-ninh-hom-nay/442783.html",
-          "source": "Bnews.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "임신",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T10:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxkVQvojGGqxegSBTlmL8-wXnlfhQB21EKBMFrc9MmVsfaWCsTrK6QmGO-80A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
-          "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
-          "url": "https://www.news1.kr/world/usa-canada/6347861",
-          "source": "뉴스1"
-        },
-        {
-          "title": "‘출혈·복통’ 24주차 임신부, 34개 병원 거부 끝에 청주서 서울까지",
-          "url": "https://news.jtbc.co.kr/article/NB12327564",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "연합뉴스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnLFWeX8Jj2CoCXQVeXxF6K3_W2o70sWq9N_rtaxLKkiqKx8tCj2Do_sbjsyM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
-          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922",
-          "source": "한국NGO신문"
-        },
-        {
-          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
-          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
-          "source": "프리진뉴스"
-        },
-        {
-          "title": "내일부터 ‘스시자로’ 국내 반입 가능, 3개월분까지 허용",
-          "url": "https://www.chosun.com/national/welfare-medical/2026/11/11/QSS7DIPZZNEETBTJBNCT2K3J6M/",
-          "source": "조선일보"
+          "title": "인천 남동구서 가스누출 의심 신고···1명 병원 이송",
+          "url": "https://www.khan.co.kr/article/202611112124001",
+          "source": "경향신문"
         }
       ]
     },
     {
       "keyword": "외교관",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-11T11:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk8Ij9zpxKgcsi2f540d1AGBFHmMp7XIHIhFj-4rgxmKZi26KPSAqZCCi4fQ",
       "category": "정치·사회",
@@ -195,27 +120,127 @@
       ]
     },
     {
-      "keyword": "주차장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T10:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXyKGZ1xMuq9rVi2qgtMAe_8KVdtTB21RQFrZqVT89LgL03q-aDJi8JKKbtw",
-      "category": "경제",
+      "keyword": "xsmb",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T11:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P9LfpnOA5uBkHg026G8Qn0wFBRpQq56RKulvAa9eJOXusdA34MbvBha49sQ",
+      "category": "기타",
       "news": [
         {
-          "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374592",
-          "source": "전기신문"
+          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+          "source": "homeup.vn"
         },
         {
-          "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
-          "url": "https://edata.ekn.kr/article/view/ekn202611110007",
-          "source": "기후에너지데이터뱅크"
+          "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
+          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "충북 음성군, 공영주차장에 공공주도형 태양광 발전설비 설치 추진",
-          "url": "https://www.khan.co.kr/article/202611111053011",
-          "source": "경향신문"
+          "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
+          "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
+          "source": "CafeF"
+        }
+      ]
+    },
+    {
+      "keyword": "주차장",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T10:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvm8hqgXX382o1rYKQjixadQGQkQhJCwGEj_xSJbxP00YsuYdA63-RVQcqKvk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863717",
+          "source": "뉴시스"
+        },
+        {
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "url": "https://www.newspim.com/news/view/20261111001289",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "파주시, ‘공영주차장 24시간 콜센터’ 본격 운영",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003663",
+          "source": "중도일보"
+        }
+      ]
+    },
+    {
+      "keyword": "임신",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T10:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxkVQvojGGqxegSBTlmL8-wXnlfhQB21EKBMFrc9MmVsfaWCsTrK6QmGO-80A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+          "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
+          "url": "https://www.news1.kr/world/usa-canada/6347861",
+          "source": "뉴스1"
+        },
+        {
+          "title": "병원 35곳서 ‘수용 불가’…청주서 서울로 120km 이송된 임신부",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710316",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "연합뉴스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T10:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnLFWeX8Jj2CoCXQVeXxF6K3_W2o70sWq9N_rtaxLKkiqKx8tCj2Do_sbjsyM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922",
+          "source": "한국NGO신문"
+        },
+        {
+          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
+          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
+          "source": "프리진뉴스"
+        },
+        {
+          "title": "감비아 대통령, 야권 분열 속 3선 도전",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1438089",
+          "source": "연합뉴스 한민족센터"
+        }
+      ]
+    },
+    {
+      "keyword": "더 스카이 184",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T11:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7JsYw0lTRBn7HdgrdGru9QNjI3iG_VWnaHKwt6U1b_tJ_0dsvOytPF9zYFyU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "볼거리 더한 청라하늘대교, 이용료 부담 덜고 손님맞이",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336467",
+          "source": "인천일보"
+        },
+        {
+          "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
+          "source": "뉴스타운"
+        },
+        {
+          "title": "청라하늘대교 ‘더 스카이184’, 연말 가족 명소로 단장",
+          "url": "https://www.sedaily.com/article/20112472",
+          "source": "서울경제"
         }
       ]
     },
@@ -241,31 +266,6 @@
           "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384",
           "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "더 스카이 184",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T11:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7JsYw0lTRBn7HdgrdGru9QNjI3iG_VWnaHKwt6U1b_tJ_0dsvOytPF9zYFyU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "볼거리 더한 청라하늘대교, 이용료 부담 덜고 손님맞이",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336467",
-          "source": "인천일보"
-        },
-        {
-          "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "청라하늘대교 ‘더 스카이184’, 연말 가족 명소로 단장",
-          "url": "https://www.sedaily.com/article/20112472",
-          "source": "서울경제"
         }
       ]
     }
