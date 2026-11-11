@@ -1,42 +1,50 @@
 {
-  "updatedAt": "2026-11-11T16:49:49.297Z",
+  "updatedAt": "2026-11-11T17:50:53.140Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     },
     {
       "category": "연예",
-      "count": 2
+      "count": 1
     },
     {
       "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "이종석",
+      "keyword": "빵",
       "traffic": "10000+",
       "trafficValue": 10000,
-      "startedAt": "2026-11-11T11:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgyX0aek-PAGabF1SbwgxtrhUm9MNNK2xlimM5fuJRsnBMl8mgHTqenB9GAJs",
-      "category": "기타",
+      "startedAt": "2026-11-11T14:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxJjFaRimTSjqpb8PQzyP1Exw_j6KAyiEe-U6MKpk3lYoBy-I-fMb9TGYXC0I",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "‘황후’ 신민아·새로 변신하는 이종석이 낯설다고요? 세계 여성들은 왜 이 장르에 푹 빠졌을까 [이윤정 기자의 소소월드]",
-          "url": "https://www.khan.co.kr/article/202611111049001",
-          "source": "경향신문"
+          "title": "“어차피 버릴 빵, 떨이로 좀 팔지”…사장님들 기를 쓰고 할인 안하는 이유는",
+          "url": "https://www.mk.co.kr/news/economy/12205568",
+          "source": "매일경제"
         },
         {
-          "title": "이세영 목걸이, 2000원짜리 테무템?…'재혼 황후' 의상 논란 해명 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111015592940705",
-          "source": "머니투데이"
+          "title": "“어차피 안 팔린 빵, 왜 기를 쓰고 버려요?”…사장님들이 ‘떨이’ 안 하는 이유는",
+          "url": "https://www.mk.co.kr/news/economy/12205384",
+          "source": "매일경제"
         },
         {
-          "title": "황제의 배신에 재혼으로 맞불…‘재혼 황후’의 인기 비결",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261110010003713",
-          "source": "아시아투데이"
+          "title": "\"맛있게 먹고 건강도 챙기고\" 신세계푸드, 샐러드·건강빵 인기",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863091",
+          "source": "뉴시스"
         }
       ]
     },
@@ -66,92 +74,17 @@
       ]
     },
     {
-      "keyword": "외교관",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-11T11:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKk8Ij9zpxKgcsi2f540d1AGBFHmMp7XIHIhFj-4rgxmKZi26KPSAqZCCi4fQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
-          "source": "주간조선"
-        },
-        {
-          "title": "\"스스로 공주라 여긴 김여정, 말도 안 섞더라\"…탈북 외교관의 폭로",
-          "url": "https://www.fnnews.com/news/202611100000461558",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "“김여정, 자신이 공주라 생각…외교관과 말도 안 섞어” 탈북 외교관의 증언",
-          "url": "https://www.munhwa.com/article/11630069",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "고잔동",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T11:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjFWNQ2M6jPgBm_coAm0hnu_UnGmo-npUvrvQVuwsVGMi58CYEYR8kyeHjKCw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "인천 고잔동 도금 공장서 가스 누출 신고…5명 연기 흡입",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
-          "source": "인천일보"
-        },
-        {
-          "title": "[천지만평] 2026년 11월 12일자",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447924",
-          "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "xsmb",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T11:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO8QThM2cEYzZtCjetC8e4mDBsPH12G5qIhPnaMgVqZ9EASvEhTET8gsyda5Q",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
-          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
-          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
-          "source": "homeup.vn"
-        },
-        {
-          "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
-          "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
-          "source": "CafeF"
-        }
-      ]
-    },
-    {
-      "keyword": "조이 크러쉬",
+      "keyword": "크러쉬 조이",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHSJOyx99YYHGVBiD1hyIP_iaMq7opvM6bROm8naB-xX6Ie9qaJ_rBzukkh8U",
+      "startedAt": "2026-11-11T15:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvwfhyikRnLDSeaIsUzr8Vrdv9lBZmcgyZHh5NtUMvOCpeD34HKG7nApOmBd0",
       "category": "연예",
       "news": [
         {
           "title": "아이유는 이용당했네..'6년 열애' 크러쉬♥조이, 보란듯이 '커플 듀엣' 라이브 공개[핫피플]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MU3DEOLGHE2DKMRVGY3WGY3GGY/",
-          "source": "조선일보"
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/MYYDMYTCGBTDCYRXMY2WIMTDGY/",
+          "source": "Chosunbiz"
         },
         {
           "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
@@ -159,9 +92,9 @@
           "source": "스포츠경향"
         },
         {
-          "title": "‘장기 커플’ 크러쉬♥조이, 제대로 사고쳤다…반려견 품에 안고 달콤한 세레나데",
-          "url": "https://www.sportsseoul.com/news/read/1649166",
-          "source": "스포츠서울"
+          "title": "크러쉬, ♥조이에 허락받았나.. \"사랑노래, 아이유에 직접 듀엣 제안\"",
+          "url": "https://www.osen.co.kr/article/G1112907470",
+          "source": "OSEN"
         }
       ]
     },
@@ -191,6 +124,31 @@
       ]
     },
     {
+      "keyword": "노무현",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T15:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQljLOKxR42fEAiGijDpSDA6BZZnqIdPEzzshx0gxQ1AkoyCgB1_HElm77OnA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "“제대로 받쳐드려” 친명 방위대 결집…그 뒤 ‘노무현 데자뷔’",
+          "url": "https://www.joongang.co.kr/article/25477178",
+          "source": "중앙일보"
+        },
+        {
+          "title": "“조작기소 특검 힘 모아야”",
+          "url": "https://www.segye.com/newsView/20261108509347",
+          "source": "세계일보"
+        },
+        {
+          "title": "‘친명계’ 혁신회의 “대통령 흔들었던 사람들, 반개혁 반성해야”",
+          "url": "https://weekly.khan.co.kr/article/202611081627001",
+          "source": "주간경향"
+        }
+      ]
+    },
+    {
       "keyword": "오현민",
       "traffic": "100+",
       "trafficValue": 100,
@@ -212,6 +170,31 @@
           "title": "데블스플랜3 장동민 “33개월 아들, 서바이벌 준비”…오현민 “32년 된 아들도”",
           "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004024",
           "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "이수혁",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T14:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1NHpxSa5G--ettlIL0mPZqbiKwhgZ_FleCc_TCSEGo8fu5dwC2z4hCcRZcs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[ET포토] 배윤영, '시원하게 드러낸 어깨라인'",
+          "url": "https://www.etnews.com/20261111000247",
+          "source": "전자신문"
+        },
+        {
+          "title": "28살 김유정, 가슴라인 드러낸 반전매력…눈 둘 곳 없는 파격 노출[Oh!쎈 이슈]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MNSTAM3EMRSTINJXMM3DCMDBMI/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "[사진]수주 '세계가 사랑하는 모델'",
+          "url": "https://www.osen.co.kr/article/G1112907962",
+          "source": "OSEN"
         }
       ]
     },
@@ -246,7 +229,7 @@
       "trafficValue": 100,
       "startedAt": "2026-11-11T14:00:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNuFFSOr2UuXyuZ7doqR2nVXUzV072DUHxCyPdlEeRZ1GVZc1bBA5vb4eiZ0",
-      "category": "연예",
+      "category": "기타",
       "news": [
         {
           "title": "스크린으로 다시 만나는 ‘라라랜드’ ‘더 랍스터’ ‘원스’",
@@ -259,9 +242,34 @@
           "source": "문화일보"
         },
         {
-          "title": "빼빼로데이, 어떤 영화 볼까? ‘듄’·‘라라랜드’ 재개봉작 예매 강세",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=756741",
+          "title": "여전히 꿈꾸는 당신을 위한 ‘라라랜드’, 박스오피스 3위…좌석 8%로 관객 11.3% 모았다",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=756917",
           "source": "ER 이코노믹리뷰"
+        }
+      ]
+    },
+    {
+      "keyword": "블레이즈벨",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T12:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDbZooWkNx4gcBN51h61uckkLXzUhqQPkZeXu61MjrXAgVp0hSmzryeDLq_Jo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "스마일게이트, '카오스 제로 나이트메어' 시즌5 2차 업데이트",
+          "url": "https://www.newspim.com/news/view/20261111001228",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "'카제나' 시즌5 두 번째 이야기, 블레이즈벨 구출전 열린다",
+          "url": "https://www.thisisgame.com/articles/432553?newsId=225",
+          "source": "디스이즈게임"
+        },
+        {
+          "title": "역대 최고 매출… 1주년 ‘카제나’ 화려한 반등",
+          "url": "https://m.seoul.co.kr/news/economy/2026/11/10/20261110023001?cp=seoul",
+          "source": "서울신문"
         }
       ]
     }
