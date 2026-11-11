@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-11-11T10:53:40.494Z",
+  "updatedAt": "2026-11-11T11:50:17.052Z",
   "summary": [
     {
       "category": "기타",
       "count": 5
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 3
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
@@ -29,39 +33,14 @@
           "source": "조선일보"
         },
         {
-          "title": "[속보]국내 가격의 7분의 1…비만약 ‘스시자로’ 허용된다",
+          "title": "한국의 1/4 가격 '스시자로', 내일부터 반입 가능",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864942_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보]국내 가격의 5분의 1…비만약 ‘스시자로’ 허용된다",
           "url": "https://www.munhwa.com/article/11630646",
           "source": "문화일보"
-        },
-        {
-          "title": "해외 처방 '위고비·마운자로', 3개월분까지 국내 반입 허용",
-          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6350950",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "포체티노",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-11T08:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv__Z2eOQhcb3Uvcz0dxxD3kE9-tkI_wv5Ivi-h9l7lh7W23jcMdeBCWGDCl8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘리그 10경기 1승, 18위’ 최악의 맨유, 캐릭 감독 경질 가닥",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708520",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "\"손흥민 스승끼리 밥그릇 싸움?\" 콘테, 거물 에이전트 동원해 포체티오 맨유행 '가로채기' 나선다 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111116054575858",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘英 단독’ 일본 대표팀 GK ‘공개 비판’→“너무 불안해, 이적료 그정도면 승점 10은 책임질 실력 필요”",
-          "url": "https://sports.khan.co.kr/article/202611110606003",
-          "source": "스포츠경향"
         }
       ]
     },
@@ -70,30 +49,30 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-11T09:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJSf30X4bwkn7CKhAjw2StE9Cn6WNYrVZAsCK8XLOnHxo7cmv_mrxRZb2twWg",
       "category": "스포츠",
       "news": [
         {
-          "title": "◇오늘의 경기(11일)",
-          "url": "https://www.yna.co.kr/view/AKR20261109042251007",
-          "source": "연합뉴스"
+          "title": "‘리그 최고 화력이 멈췄다’ DB, 시즌 첫 60점대+최다 턴오버 20개",
+          "url": "https://m.basketkorea.com/news/newsview.php?ncode=1065552963787794",
+          "source": "바스켓코리아"
         },
         {
-          "title": "[핌in창원] LG 상대 연승 도전, SK 전희철 감독 \"LG 3점포 봉쇄 관건\"",
-          "url": "https://www.newspim.com/news/view/20261111001524",
-          "source": "뉴스핌"
+          "title": "“우린 저점이 높은 팀” 전희철 감독이 말하는 SK의 힘",
+          "url": "https://sports.khan.co.kr/article/202611091143003",
+          "source": "스포츠경향"
         },
         {
-          "title": "[JB프리뷰] 외곽포 또 터질까? LG, 홈에서 SK에 1R 패배 설욕 노린다",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065578871679113",
-          "source": "점프볼"
+          "title": "“낙현이가 3방만…” 사령탑의 바람에 응답한 김낙현, 전반에만 3PT 3방 펑펑펑… 팀 승리 견인",
+          "url": "http://www.rookie.co.kr/news/articleView.html?idxno=129955",
+          "source": "루키"
         }
       ]
     },
     {
       "keyword": "김태희",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-11T08:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9quZ_DZsiZa7FukVBrbKHh3Q6csbZJPooNAkS-CSdREU1vubTkEem9gb2bjs",
       "category": "기타",
@@ -104,121 +83,96 @@
           "source": "OSEN"
         },
         {
-          "title": "김태희, ♥비도 감탄할 등근육…한때 액션 구미호 뒤태 [DA★]",
-          "url": "https://sports.donga.com/ent/article/all/20261111/135006478/1",
-          "source": "스포츠동아"
-        },
-        {
           "title": "김태희, \"살쪘다\" 지적 의식?…레깅스 입고 \"매일 운동\" - 머니투데이",
           "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111113393715820",
           "source": "머니투데이"
+        },
+        {
+          "title": "김태희, ♥비도 감탄할 등근육…한때 액션 구미호 뒤태 [DA★]",
+          "url": "https://sports.donga.com/ent/article/all/20261111/135006478/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "토마토",
+      "keyword": "임신",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-11T08:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfUFBDS56axXhS6ZuIRPTYpt4wL-Z6NJM5cNJKPptisown00rzKIRjDROIEUE",
+      "startedAt": "2026-11-11T10:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxkVQvojGGqxegSBTlmL8-wXnlfhQB21EKBMFrc9MmVsfaWCsTrK6QmGO-80A",
       "category": "기타",
       "news": [
         {
-          "title": "토마토에 치명적인 바이러스 발생…“접촉 자제”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707342",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "철원군, '토마토갈색주름과실바이러스' 농가 확산 방지 총력",
-          "url": "https://stock.mk.co.kr/news/view/1196169",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "농진청, 토마토갈색주름과실바이러스 확진 농가 공적 방제",
-          "url": "https://www.yna.co.kr/view/AKR20261110158900055",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "세무사 수석",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T08:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnSsBeU3h2GvrA3jngpbPdvY3SmyOPazcyiYMog37aJD2kw0_M-rTQp2goAzQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "대기업 10년차·벼랑끝 자영업 거쳐 세무사시험 수석 합격한 한원석씨",
-          "url": "https://www.taxtimes.co.kr/news/article.html?no=277678",
-          "source": "한국세정신문"
-        },
-        {
-          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
-          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
-          "source": "Daily NTN"
-        },
-        {
-          "title": "세무사고시회, 신입회원 환영회 개최…선배들의 경험과 노하우 전달로 도움 줘",
-          "url": "https://joseplus.com/article/1065598875749453",
-          "source": "조세플러스"
-        }
-      ]
-    },
-    {
-      "keyword": "마운자로",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T08:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDzWxFzIKVcVjllQ3lVbtlEvEgDthma-lMzVWz6LOD73h-zTPFCf7BInQi0l8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "살 빼려다 시력 잃을 수도 있다···‘비만 치료제’ 위고비·마운자로, 시신경 손상 위험 ‘비상’",
-          "url": "https://www.khan.co.kr/article/202611111354001",
-          "source": "경향신문"
-        },
-        {
-          "title": "FDA \"위고비·마운자로 '실명 위험' 경고 추가해야\"‥국내도 검토 착수",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864647_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "\"GLP-1 의약품, 시력 질환 가능성\"...식약처 서한 배포",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611111104057382",
-          "source": "YTN 사이언스"
-        }
-      ]
-    },
-    {
-      "keyword": "김현지",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T09:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbMyaAczS0fv_UoAZGiM7XhG0-nEVFLbMEqDz9RljpJOH9RZ3XhAiD-MvOfgY",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[단독]이용철, ‘일가족 살해 후 사체 소각’ 흉악범 변호···변론 전략은 “검찰 강압수사”",
-          "url": "https://www.khan.co.kr/article/202611111041001",
-          "source": "경향신문"
-        },
-        {
-          "title": "이용철 몸담았던 로펌 ‘새길’, 김현지 명예훼손 사건 변호 이력…후보자 “관여 안 해”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261111/135009136/1",
+          "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+          "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
           "source": "동아일보"
         },
         {
-          "title": "[단독] 이용철, 변호사 시절 ‘양평 일가족 살해사건’ 범죄자 변호 이력...대법서 사형 확정",
-          "url": "https://news.jtbc.co.kr/article/NB12327518",
+          "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
+          "url": "https://www.news1.kr/world/usa-canada/6347861",
+          "source": "뉴스1"
+        },
+        {
+          "title": "‘출혈·복통’ 24주차 임신부, 34개 병원 거부 끝에 청주서 서울까지",
+          "url": "https://news.jtbc.co.kr/article/NB12327564",
           "source": "JTBC"
         }
       ]
     },
     {
+      "keyword": "연합뉴스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T10:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnLFWeX8Jj2CoCXQVeXxF6K3_W2o70sWq9N_rtaxLKkiqKx8tCj2Do_sbjsyM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922",
+          "source": "한국NGO신문"
+        },
+        {
+          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
+          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
+          "source": "프리진뉴스"
+        },
+        {
+          "title": "집값의 30%로 내 집 마련, '이익공유형Ⅱ' 공공분양 도입 추진 - 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975273",
+          "source": "대한민국 정책브리핑"
+        }
+      ]
+    },
+    {
+      "keyword": "인터뷰",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfH0itS-zuFC80-X0QOuAYCpCU44Wjr8IT76RorifPEHQ7GrORu0KW6zXyKSo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
+          "source": "YTN"
+        },
+        {
+          "title": "[비평] 그래서 사랑이 가능합니까, 오진우 평론가의",
+          "url": "https://cine21.com/news/view/?mag_id=111205",
+          "source": "씨네21"
+        },
+        {
+          "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
       "keyword": "비전",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-11T09:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlh5RR5vqLpawECyN0kSgCJZ_3GCbCojUSlLO1d_EIHwoN5O5i_bVmmsVyGg",
       "category": "기타",
@@ -237,6 +191,56 @@
           "title": "[시군정담] 용인을 변화하게 만드는 ‘적극행정’",
           "url": "https://www.joongboo.com/news/articleView.html?idxno=363742124",
           "source": "중부일보"
+        }
+      ]
+    },
+    {
+      "keyword": "주차장",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T10:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXyKGZ1xMuq9rVi2qgtMAe_8KVdtTB21RQFrZqVT89LgL03q-aDJi8JKKbtw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374592",
+          "source": "전기신문"
+        },
+        {
+          "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
+          "url": "https://edata.ekn.kr/article/view/ekn202611110007",
+          "source": "기후에너지데이터뱅크"
+        },
+        {
+          "title": "충북 음성군, 공영주차장에 공공주도형 태양광 발전설비 설치 추진",
+          "url": "https://www.khan.co.kr/article/202611111053011",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "김현지",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T09:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbMyaAczS0fv_UoAZGiM7XhG0-nEVFLbMEqDz9RljpJOH9RZ3XhAiD-MvOfgY",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[단독]이용철, ‘일가족 살해 후 사체 소각’ 흉악범 변호···변론 전략은 “검찰 강압수사”",
+          "url": "https://www.khan.co.kr/article/202611111041001",
+          "source": "경향신문"
+        },
+        {
+          "title": "[단독] 이용철, 변호사 시절 ‘양평 일가족 살해사건’ 범죄자 변호 이력...대법서 사형 확정",
+          "url": "https://news.jtbc.co.kr/article/NB12327518",
+          "source": "JTBC"
+        },
+        {
+          "title": "이용철 법무장관 후보자, 과거 일가족 살해 사건 변호인단 포함",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864847_36918.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
