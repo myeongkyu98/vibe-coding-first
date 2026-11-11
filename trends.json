@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-11T05:53:03.543Z",
+  "updatedAt": "2026-11-11T06:59:39.456Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
     },
     {
       "category": "연예",
       "count": 2
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     },
     {
       "category": "정치·사회",
@@ -16,77 +20,97 @@
   ],
   "items": [
     {
-      "keyword": "총파업",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-11T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqpn18s4YruTnb4GlUt5ySyU_u4Z1ngol1YeGO6xjOeymGAI-hYg-Ne545X6Y",
+      "keyword": "담배",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-11T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEVrE19OjJ5pGlVAT_ZyRcr85RjKnQtYJVb7coWQ56mWajxBQ7y-vIW8OHiE0",
       "category": "기타",
       "news": [
         {
-          "title": "[속보] 코레일 노조 \"12월 10일 오전 9시부터 무기한 총파업\"",
-          "url": "https://www.chosun.com/national/labor/2026/11/11/CLIGBGE3C5BOZBLVTVH4FLFFEI/",
-          "source": "조선일보"
+          "title": "\"장기간 전자담배 젊은 성인, 1년 뒤 폐 기능 감소\"",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611111103464537",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "철도노조, 12월 10일 무기한 총파업 예고…코레일 \"열차 75.2% 운행 예상\"",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354387",
-          "source": "녹색경제신문"
+          "title": "[건강포커스] \"전자담배 오래 사용한 젊은 성인, 1년 뒤 폐 기능 감소\"",
+          "url": "https://www.yna.co.kr/view/AKR20261110094000017",
+          "source": "연합뉴스"
         },
         {
-          "title": "공항철도 노조, 13일 경고파업…일반열차 28.7% 감축 운행",
-          "url": "https://www.khan.co.kr/article/202611111408001",
-          "source": "경향신문"
+          "title": "“젊음도 막지 못했다”…2030 젊은 폐를 갉아먹는 전자담배의 ‘진실’ [헬스픽]",
+          "url": "https://www.seoul.co.kr/news/life/health-news/2026/11/11/20261111500105",
+          "source": "서울신문"
         }
       ]
     },
     {
-      "keyword": "공무원",
+      "keyword": "남편",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-11T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB2x1Pceg-WD-z8UeU3pMt03cydyBSg-QyOi2D5zKrAAn6I7Mtt6xdeRlV2kA",
-      "category": "기타",
+      "startedAt": "2026-11-11T05:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6vSdNEbJgu2asfjJE_2tVIzntvjjBo1rKdGMnt__Qovc3HCUYi8iO81y-vI",
+      "category": "연예",
       "news": [
         {
-          "title": "보은군 공무원노조, 비방글 반복 게시한 민원인 고발",
-          "url": "https://www.yna.co.kr/view/AKR20261111081400064",
-          "source": "연합뉴스"
+          "title": "“밑져야 본전”..장나라, ♥6살 연하 남편에 대시 후 결혼 직감 “나 시집 가겠는데” (‘살롱드립’)",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HFQTINJSGAZWCMTFGFQWGMZXGM/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "보은군 공무원노조, 담당 공무원 비방 게시물 관련 민원인 고발",
-          "url": "https://www.newspim.com/news/view/20261111000317",
-          "source": "뉴스핌"
+          "title": "김혜윤, ‘스캐’ 예서가 로스쿨 갔다는 댓글에 “어떤 직업이든 잘됐네요” (‘살롱드립’)",
+          "url": "https://www.osen.co.kr/article/G1112908065",
+          "source": "OSEN"
         },
         {
-          "title": "전공노 보은군지부, 80여 차례 비방글 게시한 민원인 고발",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6350329",
-          "source": "뉴스1"
+          "title": "“나 시집 가겠는데?”…장나라, ♥6살 연하 남편과 결혼 결심한 순간",
+          "url": "https://sports.donga.com/ent/article/all/20261111/135006703/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
       "keyword": "중국",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-11T04:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTusfeYdhmRqE3sQsFY88CkOKg-CdOD3Jz2ga15WRKjEP7L673UQ3FvSmNYsAg",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "구미시, 로봇·농식품 해외시장 개척 앞장",
+          "url": "https://www.newsis.com/view/NISX20261111_0003864060",
+          "source": "뉴시스"
+        },
+        {
+          "title": "천안시, ‘중국 실리콘밸리’ 선전서 AI·로봇 생태계 시찰",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=817095",
+          "source": "디트NEWS24"
+        },
+        {
+          "title": "첨단산업 투자로 구미 주택시장 '회복세'…'미분양' 1년 새 73.5%↓",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6350238",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "포틀랜드 대 오클라호마시티",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-11T04:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfyp52z0kLBnE9h60RCoP2FBQcQNtZIqbfSQenrkNs0kFnL197cReDUjCr64",
+      "startedAt": "2026-11-11T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFxRNY87yrTBqD1DuSL3HQu1qZNbgr9Gj_dW2iAavTjAHp1Z_2wDVWFqVkHfc",
       "category": "기타",
       "news": [
         {
-          "title": "인천항-중국 산둥성 르자오항 신규 컨테이너 항로 취항",
-          "url": "https://www.yna.co.kr/view/AKR20261111065900065",
-          "source": "연합뉴스"
+          "title": "[오클라호마시티 포틀랜드] 드리블 하는 길저스-알렉산더",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748914",
+          "source": "국제뉴스"
         },
         {
-          "title": "인천항, 중국 르자오항과 새 바닷길 열었다",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040615",
-          "source": "기호일보"
-        },
-        {
-          "title": "KMI, 중국과 국제해운회의 개최… 글로벌 해운시장 대응 협력",
-          "url": "https://view.asiae.co.kr/article/2026111108532372585",
-          "source": "아시아경제"
+          "title": "[오클라호마시티 포틀랜드] 파울 당하는 길저스-알렉산더",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748917",
+          "source": "국제뉴스"
         }
       ]
     },
@@ -95,39 +119,39 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-11T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKjEdavAgs4lGGPeNKEp_Jrz6FaBC5ehejlZ_gGCcxasskHVvtsm14U3pRKk4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Smilegate to Showcase 'MIRESI' at Japan's Comic Market in December",
-          "url": "https://www.invenglobal.com/articles/28345/smilegate-to-showcase-miresi-at-japans-comic-market-in-december",
-          "source": "Inven Global"
-        },
-        {
-          "title": "MIRESI: Invisible Future Previews Continue to Impress",
-          "url": "https://www.denofgeek.com/games/miresi-invisible-future-previews-continue-to-impress/",
-          "source": "Den of Geek"
-        },
-        {
-          "title": "MIRESI: Invisible Future to Appear at Comiket 109",
-          "url": "https://finalweapon.net/2026/11/09/miresi-invisible-future-to-appear-at-comiket-109/",
-          "source": "Final Weapon"
-        }
-      ]
-    },
-    {
-      "keyword": "양산시",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T03:20:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
+      "keyword": "총파업",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJPatPTudUocdh2tEgpz5uHLATtUrwF0-LI69cux1c-A4DbcUhNXiZCpOPcqE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "철도노조, 12월 10일 오전 9시 무기한 총파업 예고",
+          "url": "https://www.mk.co.kr/news/society/12205318",
+          "source": "매일경제"
+        },
+        {
+          "title": "공항철도 노조, 13일 경고파업…일반열차 28.7% 감축 운행",
+          "url": "https://www.khan.co.kr/article/202611111408001",
+          "source": "경향신문"
+        },
+        {
+          "title": "[포토] 구호 외치는 철도 노동자들",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447831",
+          "source": "천지일보"
+        }
+      ]
+    },
+    {
       "keyword": "사슴",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-11T04:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLqhXiXBbbAnvugOACOCVnaK_PVFOnelqY2xQRruTmCklE_RMiR3AhmjBW6kQ",
       "category": "기타",
@@ -150,34 +174,9 @@
       ]
     },
     {
-      "keyword": "이세계아이돌",
+      "keyword": "굴착기",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T03:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkOyv00TWR9I7DK1HnX9FXKduitJVJjBFWVwEU87xWfq8WXQTod-J9eGiobtM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
-          "url": "https://www.etnews.com/20261110000265",
-          "source": "전자신문"
-        },
-        {
-          "title": "지스타 비우고 AGF로…일산에 눈 돌린 게임사",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192526",
-          "source": "주간한국"
-        }
-      ]
-    },
-    {
-      "keyword": "굴착기",
-      "traffic": "100+",
-      "trafficValue": 100,
       "startedAt": "2026-11-11T04:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi39_HaHqaN1T4awEwZp84WR5FMgRfouMhBpaYe-XcVwsu9WON5jreuZ8ACPI",
       "category": "정치·사회",
@@ -200,52 +199,52 @@
       ]
     },
     {
-      "keyword": "폴 조지",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "keyword": "김정난",
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-11T04:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO8Mq_QSKZhfIfQZ8hyvN40Rpl5ji5JLIiCAdZ86I-KSPFyTXVEjcWfhSQWQs",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeXoMkJ5cpSdEUusy9h41nLr8uHgEEN0hU1Mgt81OXrgf4Lck3SxbNSU9Idc",
+      "category": "연예",
       "news": [
         {
-          "title": "[토토 투데이] 브라운-조지, 이적 후 첫 친정팀 맞대결…필라델피아-보스턴 동부 선두 경쟁에 프로토 승부식 발매",
-          "url": "https://www.osen.co.kr/article/G1112907576",
-          "source": "OSEN"
+          "title": "김정난, 미모 믿고 데뷔했는데... \"고소영, 김혜수 만나 절망\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GMYWCZDDMUZGIMJQMEZTMZJRMU/",
+          "source": "조선일보"
         },
         {
-          "title": "보스턴 만나는 제일런 브라운…필라델피아-보스턴전, 프로토 승부식 133회차 발매",
-          "url": "https://sports.donga.com/sports/article/all/20261110/134998391/1",
+          "title": "\"고소영·채시라·김혜수에 절망\"…김정난, '미모로 승부 포기' 고백('김정난')",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019035",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "김정난, 배우 데뷔 후 외모에 좌절…“고소영 보고 절망했다”",
+          "url": "https://sports.donga.com/ent/article/all/20261110/134997403/1",
           "source": "스포츠동아"
-        },
-        {
-          "title": "적이 되어 다시 만난 두 사람, 테이텀이 웃었다...보스턴, 필라델피아에 승리",
-          "url": "https://www.mk.co.kr/news/sports/12205274",
-          "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "이선빈",
+      "keyword": "폴 조지",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-11T03:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBgTW0YRbqBC5dgpN73KiJLyi0KwSzFFBqBN-dxfDtReB6R90onosLnvYSRKI",
-      "category": "연예",
+      "startedAt": "2026-11-11T04:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSpvcZBJeoTjkhX2ehH4zwzKKhly7nswBZydVEK7pqfRNgj7f-Rdpj9sW7Wbg",
+      "category": "기타",
       "news": [
         {
-          "title": "\"27㎝ 키 차이 설렌다\"…이광수♥이선빈, 9년 차 커플 데이트 포착 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105361098673",
-          "source": "머니투데이"
+          "title": "브라운, '전 동료' 테이텀에 여전한 앙금…필라델피아는 보스턴에 완패",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841236",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "9년 만난 이광수♥이선빈, 손 꼭 잡고 쇼핑 데이트",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863078",
-          "source": "뉴시스"
+          "title": "브라운과 테이텀의 ‘어색한 재회’···주인공은 폴 조지, 친정팀 상대 ‘36점 맹폭’ 승리 주역",
+          "url": "https://sports.khan.co.kr/article/202611111456003",
+          "source": "스포츠경향"
         },
         {
-          "title": "'공개 열애 9년째' 이광수♥이선빈, 또 데이트 목격담…설레는 27㎝ 키 차이",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6349787",
-          "source": "뉴스1"
+          "title": "‘제일런 브라운, 이제는 보스턴의 적으로’… 필라델피아-보스턴전 대상 프로토 승부식 133회차 발매",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05290646645644408&mediaCodeNo=257",
+          "source": "이데일리"
         }
       ]
     }
