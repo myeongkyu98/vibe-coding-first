@@ -1,16 +1,24 @@
 {
-  "updatedAt": "2026-11-11T03:48:30.914Z",
+  "updatedAt": "2026-11-11T04:52:22.543Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 2
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 2
     },
     {
       "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     },
     {
@@ -18,40 +26,15 @@
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "트로이 왓슨",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-11T02:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPULut5V_oWVV9T6fnkMeWes3K8tjALDzfMAMRp07G_h2gSsLxKt31Mw35JEg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "프로야구 한화, 새 외국인 투수 왓슨 100만 달러에 영입",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6864822_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "'와이스 복귀 물음표' 한화, '157㎞ 강속구' 왓슨 영입…\"최고 팬덤 한화, 승리 모습 보이겠다\" [공식발표]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/11/GFRDGNBYGM2DGM3GGIZDANJUHE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "한화, 새 외국인 투수 왓슨과 100만 달러에 계약",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840875",
-          "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "신동빈",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-11T02:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQQmHIazkfebAJkk7aJngepgcyUw50c5m6XT1lEohbd_4JVAotUfxrV02bDDE",
       "category": "경제",
@@ -74,134 +57,43 @@
       ]
     },
     {
+      "keyword": "양산시",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T03:20:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
       "keyword": "포수",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-11T02:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyTuT_Vv3q1XTkI0ueuKfrr2uY9rMxiDqXpdRJswyRymwxkrfCmjgIuOXkkVc",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWmCyGiGz_qCXdKj1iimm_m6N_1hRJeFVtXkO3Ot_HPVwv3H2vL84tgZ57GY",
       "category": "스포츠",
       "news": [
         {
           "title": "메이저리그 3대 올스타 배출한 '명문 가문' 아버지 밥 분 별세",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840627",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "[MLB] 'PHI 첫 우승 기여·NYY 감독 부친' 밥 분 세상 떠나…향년 78세",
-          "url": "https://www.newspim.com/news/view/20261111000511",
-          "source": "뉴스핌"
+          "url": "https://www.yna.co.kr/view/AKR20261111061600007",
+          "source": "연합뉴스"
         },
         {
           "title": "[공식발표] '아들이 9년째 양키스 감독' ML 최초 3대 메이저리거 가문 일군 GG 7회 레전드 밥 분 별세, 향년 78세 - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/11/11/2026111100450829501",
           "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "분당 사고",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T02:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniZlEhUVqK26yN0WLelpRpMs43akRFt8gWiaOeFV_kNGx3SF9IM6NQJLfrJw",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "경기 성남시 분당서 출근길 버스 등 32대 연쇄 추돌...\"중상자 9명\"",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611111028493144_005.html",
-          "source": "YTN"
         },
         {
-          "title": "출근길 아수라장…버스가 차량 32대 들이받아, 48명 부상",
-          "url": "https://news.jtbc.co.kr/article/NB12327530",
-          "source": "JTBC"
-        },
-        {
-          "title": "성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864775_36918.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "셀트리온",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T02:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRolfeSiitAvTT4B5IfRjnjU673-t3aO46SkFwBdzX_UoDVW3Omi5oTat1OzQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "셀트리온, MSCI ESG 평가 최고등급 ’AAA’ 획득...글로벌 ESG 경쟁력 입증",
-          "url": "https://www.etoday.co.kr/news/view/2646722",
-          "source": "이투데이"
-        },
-        {
-          "title": "셀트리온 \"MSCI ESG 평가서 최고등급 첫 획득\"",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863425",
-          "source": "뉴시스"
-        },
-        {
-          "title": "셀트리온, MSCI ESG 평가 최고등급 'AAA' 첫 획득…\"지속가능경영 역량 입증\" - 머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/11/2026111110284436903",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "수원fc",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T01:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0eM1ioN0iEKTfM-RExl3wdmpsX3In3ra_icwwtvMdQRM3b4ZyZ4V_pcFmDs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "화천KSPO vs 경주한수원…여자축구 WK리그 PO 12일 단판 승부",
-          "url": "https://www.yna.co.kr/view/AKR20261109077400007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "2026 WK리그 왕좌를 향한 마지막 승부, 12일 WK리그 플레이오프 킥오프!",
-          "url": "https://m.news.nate.com/view/20261110n04239?mid=s02&list=recent&cpcd=",
-          "source": "네이트"
-        },
-        {
-          "title": "수원FC 위민 WK리그 1위…15일 챔프전 격돌 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1085557",
-          "source": "재경일보"
-        }
-      ]
-    },
-    {
-      "keyword": "롯데월드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T01:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPNdyMgjpPcYloIhiVi26_Rt2tczApBuxwbM9a1IbH7hHaNMcQHh5wIZMFxSU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'수험생 여러분, 수고 많았어요' 여수 유월드, 수능 맞이 특별 무료 프로모션 진행",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072092",
-          "source": "경상일보"
-        },
-        {
-          "title": "에버랜드, 수능 수험생 입장권 2만원…동반 3명도 3만원 우대",
-          "url": "https://www.etnews.com/20261111000238",
-          "source": "전자신문"
-        },
-        {
-          "title": "\"수능 수험표 챙기세요\"…롯데월드 2만원대·서울스카이 1만원대",
-          "url": "https://www.news1.kr/industry/hotel-tourism/6349896",
-          "source": "뉴스1"
+          "title": "‘3代 4명 올스타’ 야구 명문가의 전설…MLB 명포수 밥 분, 79세로 별세",
+          "url": "https://www.munhwa.com/article/11630409",
+          "source": "문화일보"
         }
       ]
     },
     {
       "keyword": "미국 항공 우주국",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-11T02:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXRc7jgbnOzTUfYcvzV8ByEf6lxH0ZVv6J2Nzs9P73MP1TDzYYlprWObSX5nU",
       "category": "IT·과학",
@@ -224,52 +116,152 @@
       ]
     },
     {
-      "keyword": "공중 급유",
+      "keyword": "이세계아이돌",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T02:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC94qoVxATnaNGj-_5wyTrob0jWpObR1r8Aw3l4WvL5e3rXgxTanyk5nIQHVo",
-      "category": "기타",
+      "startedAt": "2026-11-11T03:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkOyv00TWR9I7DK1HnX9FXKduitJVJjBFWVwEU87xWfq8WXQTod-J9eGiobtM",
+      "category": "연예",
       "news": [
         {
-          "title": "美 군용기 10여대, 이란 위협 속 영국 기지서 재배치",
-          "url": "https://www.yna.co.kr/view/AKR20261111048500009",
-          "source": "연합뉴스"
+          "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
+          "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "영국 기지에 있던 미 군용기 10여 대, 다른 기지로 재배치",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840672",
-          "source": "SBS 뉴스"
+          "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
+          "url": "https://www.etnews.com/20261110000265",
+          "source": "전자신문"
         },
         {
-          "title": "미국, 이란 위협에 영국 기지 내 공중 급유기 타 지역으로 이동",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708740",
-          "source": "KBS 뉴스"
+          "title": "`이세계아이돌` 6인 전원, AGF 2026 뜬다…SOOP, 버추얼 28명 집결",
+          "url": "https://m.ddaily.co.kr/page/view/2026111010452385680",
+          "source": "디지털데일리"
         }
       ]
     },
     {
-      "keyword": "민방위",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T01:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT606k0841KJPZK5QTm6pi0qbc2x6nCvRv66IU9RRY_DBn3bVztOpGp2CYIy08",
+      "keyword": "전고체 전지",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T03:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8mxQUTPk-tnD2EZ7SHRGWeb8HZEw85gNwrC9Myd8mjiz8rL0vrXxDgheCKF4",
       "category": "기타",
       "news": [
         {
-          "title": "계룡시, 2026년 마지막 민방위 집합교육 보충 2차 교육 실시",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802206",
-          "source": "일간투데이"
+          "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
+          "url": "https://www.yna.co.kr/view/AKR20261110163700003",
+          "source": "연합뉴스"
         },
         {
-          "title": "[오산소식]중앙동, 저소득 어르신 '따뜻한 한 끼 나눔' 등",
-          "url": "https://www.newsis.com/view/NISX20261102_0003850919",
+          "title": "‘삼성·현대차그룹 동맹’ 배터리 공급 넘어 설계까지 확장",
+          "url": "https://www.munhwa.com/article/11630522",
+          "source": "문화일보"
+        },
+        {
+          "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
+          "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry",
+          "source": "Hyundai Motor Group"
+        }
+      ]
+    },
+    {
+      "keyword": "경기도지사",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T03:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt11e_FMh5KSwLLDnSnv7k5rDvJ_pAa8qI_b6wU6ljkg1mn7dZulNvA9TYgxI",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "경기도, 내년 예산안 법정 제출기한 넘겨 13일쯤 제출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709868",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "(경기도 대변인 서면 브리핑)민주당 경기도당과 함께 경기도민의 삶을 지키겠습니다",
+          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71960",
+          "source": "경기도뉴스포털"
+        },
+        {
+          "title": "추미애, 국회의원·도당과 예산협력…“경기도 재정난 함께 풀기로”",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336499",
+          "source": "인천일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김범",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T03:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpP7VTxR4-bX4EH-aF7pQR_RgArnWVqAmn2V-eKB-YeHgUUnkd51y_M3D_R-0",
+      "category": "연예",
+      "news": [
+        {
+          "title": "김범, 해외서 의문의 여성과 포착…턱에 손대자 '깜짝'",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862006",
           "source": "뉴시스"
         },
         {
-          "title": "오산시, ‘찾아가는 민방위대장과정’ 운영으로 현장 대응 역량 강화",
-          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487124",
-          "source": "이뉴스투데이"
+          "title": "“여자 손이 쓱” 김범, 日여행 갔다가 깜짝 열애설..알고보니 지인 ‘해프닝’ [Oh!쎈 이슈]",
+          "url": "https://www.osen.co.kr/article/G1112908082",
+          "source": "OSEN"
+        },
+        {
+          "title": "김범, 초밥 먹다가 볼 만지는 '의문의 여성' 손 포착...日데이트? 술렁",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/10/GI2GKNRZG4ZDSNRRMJSWKNJTME/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이현중",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T02:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf7dv0fJSeZ4vRYEU5zFLngYarQ7eENXYuLF-Ou3xxROpedGPmVPEqGBpfVAs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "이현중, G리그 개막전 선발로 코트 밟았다…립시티 첫 경기 승리 견인",
+          "url": "http://www.jemin.com/news/articleView.html?idxno=846882",
+          "source": "제민일보"
+        },
+        {
+          "title": "‘NBA 도전’ 이현중, G리그 개막전 출격…3득점 6리바운드",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709638",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "‘NBA 재도전 시작’ 이현중, G리그 복귀전 선발 출격…24분 뛰고 3점 6리바운드",
+          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065556563342870",
+          "source": "점프볼"
+        }
+      ]
+    },
+    {
+      "keyword": "이선빈",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T03:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBgTW0YRbqBC5dgpN73KiJLyi0KwSzFFBqBN-dxfDtReB6R90onosLnvYSRKI",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "\"27㎝ 키 차이 설렌다\"…이광수♥이선빈, 9년 차 커플 데이트 포착 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105361098673",
+          "source": "머니투데이"
+        },
+        {
+          "title": "9년 만난 이광수♥이선빈, 손 꼭 잡고 쇼핑 데이트",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863078",
+          "source": "뉴시스"
+        },
+        {
+          "title": "데이트 또 포착..이광수♥이선빈, 9년 차 커플의 '부부 바이브' [핫피플]",
+          "url": "https://www.koreadaily.com/article/20261110082002723",
+          "source": "미주중앙일보"
         }
       ]
     }
