@@ -1,12 +1,16 @@
 {
-  "updatedAt": "2026-11-11T00:49:32.686Z",
+  "updatedAt": "2026-11-11T01:55:29.485Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 6
+      "category": "스포츠",
+      "count": 3
     },
     {
-      "category": "스포츠",
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
       "count": 2
     },
     {
@@ -16,81 +20,185 @@
     {
       "category": "정치·사회",
       "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "이효정",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-10T23:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVNlyVGu6gyVnqOUxMk9WJxJ5M5u-SZYw2VVW1JJOhUNVvrf1AO0VS1sLJrrw",
-      "category": "연예",
-      "news": [
-        {
-          "title": "\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105460011738",
-          "source": "머니투데이"
-        },
-        {
-          "title": "동상이몽2_너는 내 운명 : 이유진, ‘아버지’ 이효정과 함께 가게 홍보용 릴스 촬영",
-          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092133",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
-          "url": "https://www.osen.co.kr/article/G1112908014",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "광주시",
+      "keyword": "필라데피아 대 보스턴",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-10T23:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPz6eVbD_2gyuWsaSPoxf-cv3haR2WUpJDgSOcC5lWa0qTc1iNaUztRqQENU",
+      "startedAt": "2026-11-11T00:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2hedkiNpD_LpTWYmvtbvgE-IMhWWiN0LVxfY1zs6ZKE_Uq369flaZFO9Mzyw",
       "category": "기타",
       "news": [
         {
-          "title": "\"경기도교육감 개표 결과 달라져\"...특검, 압수수색",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611102211380963",
-          "source": "YTN"
+          "title": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/",
+          "source": "The New York Times"
         },
         {
-          "title": "\"경기도교육감 개표 상황표 위조\"‥압수수색",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864763_37012.html",
-          "source": "MBC 뉴스"
+          "title": "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
+          "url": "https://www.espn.com/video/clip/_/id/50447394/shams-shares-insights-history-jayson-tatum-jaylen-brown-relationship",
+          "source": "ESPN"
         },
         {
-          "title": "특검, 경기도·광주시 선관위 강제수사…임태희 전 교육감, 진상규명 촉구",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040495",
-          "source": "기호일보"
+          "title": "Drama takes center stage in Celtics-Sixers, but bigger story is what comes next",
+          "url": "https://www.nbcsportsboston.com/nba/boston-celtics/celtics-sixers-jayson-tatum-jaylen-brown-trade/812752/",
+          "source": "NBC Sports Boston"
         }
       ]
     },
     {
-      "keyword": "훈련",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-10T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYcCdRTzgqmWinBy3-k-J9lQIQbxQqabpqebO7ac8eH8KFUpe6clk_hy6UcEw",
+      "keyword": "솔비",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T00:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_imkKZeEDz94SYJaOP0wUBsDycBNrwDnfb6i85t7AfNCz4eM-QAtfPT5RdQ",
+      "category": "연예",
+      "news": [
+        {
+          "title": "‘이규한♥’ 솔비, 내년 결혼 앞두고 열일…갤러리 개관전 초청",
+          "url": "https://sports.donga.com/ent/article/all/20261110/135002266/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "솔비, 이규한과 내년 4월 결혼 앞두고 '겹경사'..작가로 승승장구",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MM2DAOLCMYZGKMRVGAZGKM3BGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'이규한과 내년 결혼' 솔비, 갤러리초이 개관전 참여…미술 작가 존재감",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6349218",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "수원 fc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T00:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmsR3zJGAeMG1Bu_PvoBSjVWxZnFSIvF7Y2sw9Z-nXCRqIvCOZ7uJDAuTIiu8",
       "category": "스포츠",
       "news": [
         {
-          "title": "'이제는 끈끈한 원팀!'…모레노호, 도하서 첫 완전체 훈련",
-          "url": "https://www.yna.co.kr/view/IPT20261111000001365?section=gallery/index",
+          "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424",
+          "source": "기호일보"
+        },
+        {
+          "title": "32라운드 나란히 승리로 순위는 그대로+다득점도 한 골 차…수원FC·서울 E·대구, 2위 다이렉트 승격 경쟁은 진행형",
+          "url": "https://www.sportsseoul.com/news/read/1648062",
+          "source": "스포츠서울"
+        },
+        {
+          "title": "'여전히 안갯속' 2위 다이렉트 승격, 수원FC-대구FC-서울E 나란히 30라운드 승리",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A2%E1%86%BA%E1%84%89%E1%85%A9%E1%86%A8-2%E1%84%8B%E1%85%B1-%E1%84%83%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3-%E1%84%89%E1%85%B3%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8-%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AF%E1%86%ABfc-%E1%84%83%E1%85%A2%E1%84%80%E1%85%AEfc-%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AFe-%E1%84%82%E1%85%A1%E1%84%85%E1%85%A1%E1%86%AB%E1%84%92%E1%85%B5-30%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%B3-%E1%84%89%E1%85%B3%E1%86%BC%E1%84%85%E1%85%B5/bltdb96ff8f3a51300c",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "keyword": "트립닷컴 메가세일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T23:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqqFqLLrDejUhGvWzIgAVMZXvjhq1HuBJDMCwTG8ImTe17YvFSRQHQSa5-WKg",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "제주 왕복 1100원부터…트립닷컴, 11일 오전 11시 특가전",
+          "url": "https://www.news1.kr/industry/hotel-tourism/6347319",
+          "source": "뉴스1"
+        },
+        {
+          "title": "[유통레이더] 트립닷컴, 롯데월드, 놀유니버스, 번개장터, 삼양라운드스퀘어, 달바 外",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423013",
+          "source": "데일리한국"
+        },
+        {
+          "title": "트립닷컴, 연중 최대 ‘11.11 세일’ 진행… 항공·호텔 최대 80% 선착순 할인",
+          "url": "http://www.cdnews.co.kr/news/articleView.html?idxno=201364",
+          "source": "통신일보"
+        }
+      ]
+    },
+    {
+      "keyword": "시내버스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T23:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1RZs0mBPJf8WwRsHSNzfGy3uTxnB60q3QIDKSzzKvKJaFBVHMEIG6glYQrNo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "경기 성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864775_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[포토] 분당서 버스가 차량 30여대 연쇄 추돌",
+          "url": "https://www.viva100.com/article/20261111500460",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "속보 소방 \"성남 연쇄 추돌 사고로 중상 9명·경상 48명\"",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611110952377598",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "박신영 아나운서",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T23:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd1TfS3MQgMcRk2W4JHycoPNf1zQEUlC1hwVddgOr9hyhsMy0zM2bxvGVN6wc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘교통사고 사망 사건’ 후 근황 박신영, 쏟아지는 악플에 “허위사실 법적대응” 입장",
+          "url": "https://sports.khan.co.kr/article/202611110912003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "\"사망 사고 내고 차 안에 숨었다고?\"…박신영, 5년 만에 입 열었다",
+          "url": "https://www.news1.kr/society/general-society/6350123",
+          "source": "뉴스1"
+        },
+        {
+          "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862283",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "빼난지원금",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-10T23:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdhbCqB952K_xt2Y9xzumefAg9mURKYfgCtT8WzSFv1Gb_g2Wpt25FW6JvbB8",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "'아 오늘이 빼빼로데이였지'…카톡 선물하기 이벤트에 접속 폭주",
+          "url": "https://www.yna.co.kr/view/AKR20261111065000017",
           "source": "연합뉴스"
         },
         {
-          "title": "주장 손흥민의 주문…\"다시 하나가 되자\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840131",
-          "source": "SBS 뉴스"
+          "title": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "아시안컵 연기에 퇴색된 중동 평가전? “경기력으로 증명해야”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709227",
-          "source": "KBS 뉴스"
+          "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/",
+          "source": "Chosunbiz"
         }
       ]
     },
@@ -120,152 +228,52 @@
       ]
     },
     {
-      "keyword": "ssg 랜더스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T23:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSvTtjFjdmO5xCmfGKH8CfK9eSSHw-Ns43Ph82jqUXYR0EQoCaHStf6hpF3qw",
+      "keyword": "미라 안드레예바",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T00:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqVBnQiY779DZQZrUlNTRzF3gb67wBK7FgiqTETBw00r_rcm5mtW1O0jPKQSI",
       "category": "스포츠",
       "news": [
         {
-          "title": "[김노천의 베쓰볼] 약속을 지킨 SSG, 가을야구보다 빛났던 '최광야구'의 감동",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336448",
-          "source": "인천일보"
+          "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
+          "url": "https://www.yna.co.kr/view/AKR20261110138000007",
+          "source": "연합뉴스"
         },
         {
-          "title": "[IS 포커스] 최정·김광현에 해커·루친스키까지? 비시즌의 ‘이벤트 매치’…잡아라 팬심",
-          "url": "https://isplus.com/article/view/isp202611050060",
-          "source": "일간스포츠"
+          "title": "왕중왕전 첫 우승 도전 사발렌카, 무호바 꺾고 1승",
+          "url": "https://www.newsis.com/view/NISI20261110_0002288185",
+          "source": "뉴시스"
         },
         {
-          "title": "대표팀 핵심으로 성장하나…성인 첫 태극마크 단 10명의 유망주",
-          "url": "https://sports.donga.com/sports/article/all/20261111/135000412/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "불",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyrpJy9npE8Ig_hDyaCuD4wBgD--SqNMDWbUjsgoZmKFIKlNoVkmqGbTLvJPw",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "새벽 구룡마을 또 화재…소방 진화 작업 중",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611110707133b3",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "서울 강남 구룡마을서 또 화재…인명 피해는 없어",
-          "url": "https://www.donga.com/news/Society/article/all/20261111/135003375/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "구룡마을 잇따른 화재…2시간 만에 완진",
-          "url": "https://www.news1.kr/photos/8207797",
+          "title": "리바키나도 최종전 기권…선수협회 \"선수들 몸이 버티지 못한다\"",
+          "url": "https://www.news1.kr/sports/general-sport/6349598",
           "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "신안산선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T22:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1lmiI3DA3k2NcPqUzl0aHo8NSiYdM1EmOPS_yfybnRi9cygOeKMYqXkA8nVg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "평택 안중~여의도 70분 시대 열리나…신안산선 연장 타당성 검증한다",
-          "url": "https://www.munhwa.com/article/11630300",
-          "source": "문화일보"
-        },
-        {
-          "title": "평택시 ‘신안산선 안중 연장사업’ 타당성 검증 용역 착수",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040515",
-          "source": "기호일보"
-        },
-        {
-          "title": "신안산선 평택 안중 연장 타당성 검증 용역 착수",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709231",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "수능날",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T22:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9MXzTg7V3Xa2bCpZ9yWVzXLgYT_l2YB6FDOhLmVBVQV9AXwuBlHrsqiji_co",
-      "category": "기타",
-      "news": [
-        {
-          "title": "코레일, 수능 앞두고 수도권 철도 전력설비 점검",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374609",
-          "source": "전기신문"
-        },
-        {
-          "title": "수능 날 KTX·전철 단전 없도록…코레일 사장, 구로변전소 직접 점검",
-          "url": "https://view.asiae.co.kr/article/2026111018231935878",
-          "source": "아시아경제"
-        },
-        {
-          "title": "김태승 코레일 사장, 수능 앞두고 철도 전력설비 점검",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05651446645644408",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "빼난지원금",
+      "keyword": "피클 ai",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-10T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY1hTxHzCmD210bvAGNzFFs6eom0_FOhciQ1W5IK3BtMQ7VVe2thjONpwDT54",
-      "category": "기타",
+      "startedAt": "2026-11-11T00:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk96im5P5vzSYXvZd_Z20YMjM6EC04AqyvBTxinvZaUWenpD1q485_WJIub8k",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/",
-          "source": "Chosunbiz"
+          "title": "‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
+          "url": "https://www.koreadaily.com/article/20261110014040989",
+          "source": "미주중앙일보"
         },
         {
-          "title": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
-          "source": "연합뉴스TV"
+          "title": "[백상논단] 경제의 판 바꾸는 AI 비서",
+          "url": "https://www.sedaily.com/article/20111524",
+          "source": "서울경제"
         },
         {
-          "title": "\"빼빼로 못 받았다면 신청하세요\"…어른들은 모르는 '빼난지원금' - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/10/2026111007574324321",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "노이 바이 국제 공항",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-10T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4xe8SeZxaYCphj7kN4lAz-mdDes8-n4GN9nf-XbMSY3F8udEl_Fv_x0HGeSc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "베트남, 하노이 노이바이공항 ‘국제선 전노선’ 자빈공항 이전 추진…2029~2030년",
-          "url": "https://www.insidevina.com/news/articleView.html?idxno=44466",
-          "source": "인사이드비나"
-        },
-        {
-          "title": "지아빈 공항과 하노이 중심부를 연결하는 도시철도 건설 자금 지원에 우선순위를 두어야 합니다.",
-          "url": "https://www.vietnam.vn/ko/uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-trung-tam-ha-noi",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "이 제안은 자람 기차역을 자빈 공항과 연결되는 주요 허브로 활용할 것을 제안합니다.",
-          "url": "https://www.vietnam.vn/ko/de-xuat-lay-ga-gia-lam-lam-dau-moi-ket-noi-san-bay-gia-binh",
-          "source": "Vietnam.vn"
+          "title": "쿠팡서 쇼핑하고 KTX 예매까지… 한국판 뮤즈 '피클' 써보니",
+          "url": "https://www.mk.co.kr/news/it/12201908",
+          "source": "매일경제"
         }
       ]
     }
