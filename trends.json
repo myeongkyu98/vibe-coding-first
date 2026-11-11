@@ -1,24 +1,20 @@
 {
-  "updatedAt": "2026-11-11T02:44:07.584Z",
+  "updatedAt": "2026-11-11T03:48:30.914Z",
   "summary": [
+    {
+      "category": "기타",
+      "count": 4
+    },
     {
       "category": "스포츠",
       "count": 3
     },
     {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "정치·사회",
       "count": 1
     },
     {
@@ -28,52 +24,127 @@
   ],
   "items": [
     {
-      "keyword": "기사",
+      "keyword": "트로이 왓슨",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-11T01:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4-5IFsfFzeu7-iRw_-leyZBiORMTsC1DKA4x3YOzVNuqeqVndnwUr8e6pR04",
-      "category": "정치·사회",
+      "startedAt": "2026-11-11T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPULut5V_oWVV9T6fnkMeWes3K8tjALDzfMAMRp07G_h2gSsLxKt31Mw35JEg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "담양군, 금성중 학생 아동권리교육 실시",
-          "url": "http://www.dnnews.co.kr/news/articleView.html?idxno=26166",
-          "source": "담양뉴스"
+          "title": "프로야구 한화, 새 외국인 투수 왓슨 100만 달러에 영입",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6864822_36946.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "인천 부평구, 간부공무원 대상 아동권리 교육 실시",
-          "url": "https://www.incheonnews.com/news/articleView.html?idxno=442934",
-          "source": "인천뉴스"
+          "title": "'와이스 복귀 물음표' 한화, '157㎞ 강속구' 왓슨 영입…\"최고 팬덤 한화, 승리 모습 보이겠다\" [공식발표]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/11/GFRDGNBYGM2DGM3GGIZDANJUHE/",
+          "source": "조선일보"
         },
         {
-          "title": "담양군, 군의원 9명 대상 아동권리교육 실시",
-          "url": "http://www.newsggam.com/news/articleView.html?idxno=156160",
-          "source": "뉴스깜"
+          "title": "한화, 새 외국인 투수 왓슨과 100만 달러에 계약",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840875",
+          "source": "SBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "필라데피아 대 보스턴",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-11T00:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7V7LGrLsaZ5wMJ0AwfUhT1xzEDFJj4kc7spfx8xXzbw99300_eYX4neUntAE",
+      "keyword": "신동빈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T02:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQQmHIazkfebAJkk7aJngepgcyUw50c5m6XT1lEohbd_4JVAotUfxrV02bDDE",
+      "category": "경제",
+      "news": [
+        {
+          "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
+          "source": "인베스트조선"
+        },
+        {
+          "title": "롯데 유통 수장 3인방, 첫 성적표 '합격점'…신동빈 재신임 받을까",
+          "url": "https://www.newspim.com/news/view/20261109000602",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "‘쇄신 인사 1년’ 정현석·차우철·추대식, 롯데쇼핑 재건 특명…누가 제 몫 했나",
+          "url": "https://www.fntimes.com/html/view.php?ud=202611101406302092b5b890e35c_18",
+          "source": "금융신문"
+        }
+      ]
+    },
+    {
+      "keyword": "포수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T02:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyTuT_Vv3q1XTkI0ueuKfrr2uY9rMxiDqXpdRJswyRymwxkrfCmjgIuOXkkVc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "메이저리그 3대 올스타 배출한 '명문 가문' 아버지 밥 분 별세",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840627",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "[MLB] 'PHI 첫 우승 기여·NYY 감독 부친' 밥 분 세상 떠나…향년 78세",
+          "url": "https://www.newspim.com/news/view/20261111000511",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "[공식발표] '아들이 9년째 양키스 감독' ML 최초 3대 메이저리거 가문 일군 GG 7회 레전드 밥 분 별세, 향년 78세 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111100450829501",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "분당 사고",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T02:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniZlEhUVqK26yN0WLelpRpMs43akRFt8gWiaOeFV_kNGx3SF9IM6NQJLfrJw",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "경기 성남시 분당서 출근길 버스 등 32대 연쇄 추돌...\"중상자 9명\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611111028493144_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "출근길 아수라장…버스가 차량 32대 들이받아, 48명 부상",
+          "url": "https://news.jtbc.co.kr/article/NB12327530",
+          "source": "JTBC"
+        },
+        {
+          "title": "성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864775_36918.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "셀트리온",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T02:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRolfeSiitAvTT4B5IfRjnjU673-t3aO46SkFwBdzX_UoDVW3Omi5oTat1OzQ",
       "category": "기타",
       "news": [
         {
-          "title": "76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup",
-          "url": "https://www.espn.com/nba/story/_/id/50447991/76ers-jaylen-brown-gives-jayson-tatum-frosty-reception-early-1st-post-trade-matchup",
-          "source": "ESPN"
+          "title": "셀트리온, MSCI ESG 평가 최고등급 ’AAA’ 획득...글로벌 ESG 경쟁력 입증",
+          "url": "https://www.etoday.co.kr/news/view/2646722",
+          "source": "이투데이"
         },
         {
-          "title": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled - The Athletic",
-          "url": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/",
-          "source": "The New York Times"
+          "title": "셀트리온 \"MSCI ESG 평가서 최고등급 첫 획득\"",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863425",
+          "source": "뉴시스"
         },
         {
-          "title": "Drama takes center stage in Celtics-Sixers, but bigger story is what comes next",
-          "url": "https://www.nbcsportsboston.com/nba/boston-celtics/celtics-sixers-jayson-tatum-jaylen-brown-trade/812752/",
-          "source": "NBC Sports Boston"
+          "title": "셀트리온, MSCI ESG 평가 최고등급 'AAA' 첫 획득…\"지속가능경영 역량 입증\" - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/11/2026111110284436903",
+          "source": "머니투데이"
         }
       ]
     },
@@ -82,23 +153,23 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-11T01:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmsR3zJGAeMG1Bu_PvoBSjVWxZnFSIvF7Y2sw9Z-nXCRqIvCOZ7uJDAuTIiu8",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0eM1ioN0iEKTfM-RExl3wdmpsX3In3ra_icwwtvMdQRM3b4ZyZ4V_pcFmDs",
       "category": "스포츠",
       "news": [
         {
-          "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424",
-          "source": "기호일보"
+          "title": "화천KSPO vs 경주한수원…여자축구 WK리그 PO 12일 단판 승부",
+          "url": "https://www.yna.co.kr/view/AKR20261109077400007",
+          "source": "연합뉴스"
         },
         {
-          "title": "32라운드 나란히 승리로 순위는 그대로+다득점도 한 골 차…수원FC·서울 E·대구, 2위 다이렉트 승격 경쟁은 진행형",
-          "url": "https://www.sportsseoul.com/news/read/1648062",
-          "source": "스포츠서울"
+          "title": "2026 WK리그 왕좌를 향한 마지막 승부, 12일 WK리그 플레이오프 킥오프!",
+          "url": "https://m.news.nate.com/view/20261110n04239?mid=s02&list=recent&cpcd=",
+          "source": "네이트"
         },
         {
-          "title": "\"휴가에도 훈련합니다\" 경남 배성재 감독이 분석한 '팀 내 최다 득점' 김현오의 상승세",
-          "url": "http://www.sports-g.com/news/articleView.html?idxno=217166",
-          "source": "스포츠니어스"
+          "title": "수원FC 위민 WK리그 1위…15일 챔프전 격돌 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1085557",
+          "source": "재경일보"
         }
       ]
     },
@@ -108,7 +179,7 @@
       "trafficValue": 500,
       "startedAt": "2026-11-11T01:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPNdyMgjpPcYloIhiVi26_Rt2tczApBuxwbM9a1IbH7hHaNMcQHh5wIZMFxSU",
-      "category": "생활·날씨",
+      "category": "기타",
       "news": [
         {
           "title": "'수험생 여러분, 수고 많았어요' 여수 유월드, 수능 맞이 특별 무료 프로모션 진행",
@@ -116,164 +187,89 @@
           "source": "경상일보"
         },
         {
+          "title": "에버랜드, 수능 수험생 입장권 2만원…동반 3명도 3만원 우대",
+          "url": "https://www.etnews.com/20261111000238",
+          "source": "전자신문"
+        },
+        {
           "title": "\"수능 수험표 챙기세요\"…롯데월드 2만원대·서울스카이 1만원대",
           "url": "https://www.news1.kr/industry/hotel-tourism/6349896",
           "source": "뉴스1"
-        },
-        {
-          "title": "대전오월드 수능·졸업 시즌 자유이용권 특별 할인",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192308",
-          "source": "금강일보"
         }
       ]
     },
     {
-      "keyword": "이형범",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T01:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0OuAEmcgyG-rpAKKl3TEmsA4JZy8SjtqjvO9rH1oTK1IgBlFCCIzHmRnRyyQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"팬들에게 떳떳해지고 싶다\" KIA→한화 트레이드 이적생의 확신, 대전에서의 가을 꿈꾼다 [오!쎈 미야자키] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/202611102317770507O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "한화가 원클럽맨 하주석까지 주고 데려왔는데…'충격' ERA 8점대라니, KIA서 온 투수 이 악물다 \"내년은 올해와 반대로 잘하겠다\"",
-          "url": "https://mydaily.co.kr/page/view/2026110800495953940",
-          "source": "마이데일리"
-        },
-        {
-          "title": "한화 이형범 “팬들에게 떳떳해지고 싶다”…가을야구 정조준 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1085625",
-          "source": "재경일보"
-        }
-      ]
-    },
-    {
-      "keyword": "육군특수전사령부",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T01:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRs3YDTQChSz8mFA17gY5P96s-u0ol0w7VAa1MDTRj6udAinqGjufpjQ3f9ErU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "육군특수전사령부, 고공침투 자격과정 확대 운영…軍 ‘독자적 임무수행 능력’ 확보",
-          "url": "https://www.munhwa.com/article/11630351",
-          "source": "문화일보"
-        },
-        {
-          "title": "軍, 특전사 침투물자 구매물량 16배 확대…\"전작권 전환 대비\"",
-          "url": "https://www.yna.co.kr/view/AKR20261109143300504",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "군, 특전사 침투물자 예산 13배 증액… “전작권 전환 대비”",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3447456",
-          "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "솔비",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T00:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_imkKZeEDz94SYJaOP0wUBsDycBNrwDnfb6i85t7AfNCz4eM-QAtfPT5RdQ",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘이규한♥’ 솔비, 내년 결혼 앞두고 열일…갤러리 개관전 초청",
-          "url": "https://sports.donga.com/ent/article/all/20261110/135002266/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "솔비, 이규한과 내년 4월 결혼 앞두고 '겹경사'..작가로 승승장구",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MM2DAOLCMYZGKMRVGAZGKM3BGM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'이규한과 내년 결혼' 솔비, 갤러리초이 개관전 참여…미술 작가 존재감",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6349218",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "엽떡 11 월 11 일",
+      "keyword": "미국 항공 우주국",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T01:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZNaMmeyhVKNZuVdqBlh6v_f60BcOEoGxMAJp9Cl85COqCIYzUqmhYccist_I",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376",
-          "source": "금강일보"
-        },
-        {
-          "title": "11월 11일은 ‘엽떡데이’…동대문엽기떡볶이, 올해도 브랜드데이 할인 행사",
-          "url": "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500204",
-          "source": "서울신문"
-        },
-        {
-          "title": "동대문엽기떡볶이, 11월 11일 브랜드데이 ‘엽떡데이’ 진행",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03578486645641784&mediaCodeNo=257",
-          "source": "이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "미라 안드레예바",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T00:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqVBnQiY779DZQZrUlNTRzF3gb67wBK7FgiqTETBw00r_rcm5mtW1O0jPKQSI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
-          "url": "https://www.yna.co.kr/view/AKR20261110138000007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
-          "url": "https://www.newsis.com/view/NISI20261110_0002288184",
-          "source": "뉴시스"
-        },
-        {
-          "title": "리바키나도 최종전 기권…선수협회 \"선수들 몸이 버티지 못한다\"",
-          "url": "https://www.news1.kr/sports/general-sport/6349598",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "피클 ai",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk96im5P5vzSYXvZd_Z20YMjM6EC04AqyvBTxinvZaUWenpD1q485_WJIub8k",
+      "startedAt": "2026-11-11T02:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXRc7jgbnOzTUfYcvzV8ByEf6lxH0ZVv6J2Nzs9P73MP1TDzYYlprWObSX5nU",
       "category": "IT·과학",
       "news": [
         {
-          "title": "‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
-          "url": "https://www.koreadaily.com/article/20261110014040989",
-          "source": "미주중앙일보"
+          "title": "“달에서 일 할 사람 찾아요”…연봉 2억2000만원",
+          "url": "https://www.donga.com/news/Inter/article/all/20261111/135003343/1",
+          "source": "동아일보"
         },
         {
-          "title": "[백상논단] 경제의 판 바꾸는 AI 비서",
-          "url": "https://www.sedaily.com/article/20111524",
-          "source": "서울경제"
+          "title": "\"달에서 살 사람 찾습니다\"…NASA, '연봉 2억' 우주비행사 모집 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/10/2026111021063876192",
+          "source": "머니투데이"
         },
         {
-          "title": "쿠팡서 쇼핑하고 KTX 예매까지… 한국판 뮤즈 '피클' 써보니",
-          "url": "https://www.mk.co.kr/news/it/12201908",
-          "source": "매일경제"
+          "title": "[자막뉴스] NASA 우주비행사 채용 \"연봉 2억·달에서 거주\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839462",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "공중 급유",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T02:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC94qoVxATnaNGj-_5wyTrob0jWpObR1r8Aw3l4WvL5e3rXgxTanyk5nIQHVo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "美 군용기 10여대, 이란 위협 속 영국 기지서 재배치",
+          "url": "https://www.yna.co.kr/view/AKR20261111048500009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "영국 기지에 있던 미 군용기 10여 대, 다른 기지로 재배치",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840672",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "미국, 이란 위협에 영국 기지 내 공중 급유기 타 지역으로 이동",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708740",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "민방위",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T01:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT606k0841KJPZK5QTm6pi0qbc2x6nCvRv66IU9RRY_DBn3bVztOpGp2CYIy08",
+      "category": "기타",
+      "news": [
+        {
+          "title": "계룡시, 2026년 마지막 민방위 집합교육 보충 2차 교육 실시",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802206",
+          "source": "일간투데이"
+        },
+        {
+          "title": "[오산소식]중앙동, 저소득 어르신 '따뜻한 한 끼 나눔' 등",
+          "url": "https://www.newsis.com/view/NISX20261102_0003850919",
+          "source": "뉴시스"
+        },
+        {
+          "title": "오산시, ‘찾아가는 민방위대장과정’ 운영으로 현장 대응 역량 강화",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487124",
+          "source": "이뉴스투데이"
         }
       ]
     }
