@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:55:29.485Z",
+  "updatedAt": "2026-11-11T02:44:07.584Z",
   "summary": [
     {
       "category": "스포츠",
@@ -14,11 +14,11 @@
       "count": 2
     },
     {
-      "category": "연예",
+      "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 1
     },
     {
@@ -28,27 +28,152 @@
   ],
   "items": [
     {
+      "keyword": "기사",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-11T01:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4-5IFsfFzeu7-iRw_-leyZBiORMTsC1DKA4x3YOzVNuqeqVndnwUr8e6pR04",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "담양군, 금성중 학생 아동권리교육 실시",
+          "url": "http://www.dnnews.co.kr/news/articleView.html?idxno=26166",
+          "source": "담양뉴스"
+        },
+        {
+          "title": "인천 부평구, 간부공무원 대상 아동권리 교육 실시",
+          "url": "https://www.incheonnews.com/news/articleView.html?idxno=442934",
+          "source": "인천뉴스"
+        },
+        {
+          "title": "담양군, 군의원 9명 대상 아동권리교육 실시",
+          "url": "http://www.newsggam.com/news/articleView.html?idxno=156160",
+          "source": "뉴스깜"
+        }
+      ]
+    },
+    {
       "keyword": "필라데피아 대 보스턴",
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-11T00:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2hedkiNpD_LpTWYmvtbvgE-IMhWWiN0LVxfY1zs6ZKE_Uq369flaZFO9Mzyw",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7V7LGrLsaZ5wMJ0AwfUhT1xzEDFJj4kc7spfx8xXzbw99300_eYX4neUntAE",
       "category": "기타",
       "news": [
+        {
+          "title": "76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup",
+          "url": "https://www.espn.com/nba/story/_/id/50447991/76ers-jaylen-brown-gives-jayson-tatum-frosty-reception-early-1st-post-trade-matchup",
+          "source": "ESPN"
+        },
         {
           "title": "How Jaylen Brown and Jayson Tatum’s Celtics partnership quietly unraveled - The Athletic",
           "url": "https://www.nytimes.com/athletic/7761461/2026/11/09/jaylen-brown-jayson-tatum-celtics-partnership-unraveling/",
           "source": "The New York Times"
         },
         {
-          "title": "Shams shares his insights into history of Jayson Tatum and Jaylen Brown's relationship",
-          "url": "https://www.espn.com/video/clip/_/id/50447394/shams-shares-insights-history-jayson-tatum-jaylen-brown-relationship",
-          "source": "ESPN"
-        },
-        {
           "title": "Drama takes center stage in Celtics-Sixers, but bigger story is what comes next",
           "url": "https://www.nbcsportsboston.com/nba/boston-celtics/celtics-sixers-jayson-tatum-jaylen-brown-trade/812752/",
           "source": "NBC Sports Boston"
+        }
+      ]
+    },
+    {
+      "keyword": "수원fc",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T01:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmsR3zJGAeMG1Bu_PvoBSjVWxZnFSIvF7Y2sw9Z-nXCRqIvCOZ7uJDAuTIiu8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424",
+          "source": "기호일보"
+        },
+        {
+          "title": "32라운드 나란히 승리로 순위는 그대로+다득점도 한 골 차…수원FC·서울 E·대구, 2위 다이렉트 승격 경쟁은 진행형",
+          "url": "https://www.sportsseoul.com/news/read/1648062",
+          "source": "스포츠서울"
+        },
+        {
+          "title": "\"휴가에도 훈련합니다\" 경남 배성재 감독이 분석한 '팀 내 최다 득점' 김현오의 상승세",
+          "url": "http://www.sports-g.com/news/articleView.html?idxno=217166",
+          "source": "스포츠니어스"
+        }
+      ]
+    },
+    {
+      "keyword": "롯데월드",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T01:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPNdyMgjpPcYloIhiVi26_Rt2tczApBuxwbM9a1IbH7hHaNMcQHh5wIZMFxSU",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "'수험생 여러분, 수고 많았어요' 여수 유월드, 수능 맞이 특별 무료 프로모션 진행",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072092",
+          "source": "경상일보"
+        },
+        {
+          "title": "\"수능 수험표 챙기세요\"…롯데월드 2만원대·서울스카이 1만원대",
+          "url": "https://www.news1.kr/industry/hotel-tourism/6349896",
+          "source": "뉴스1"
+        },
+        {
+          "title": "대전오월드 수능·졸업 시즌 자유이용권 특별 할인",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192308",
+          "source": "금강일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이형범",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T01:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0OuAEmcgyG-rpAKKl3TEmsA4JZy8SjtqjvO9rH1oTK1IgBlFCCIzHmRnRyyQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"팬들에게 떳떳해지고 싶다\" KIA→한화 트레이드 이적생의 확신, 대전에서의 가을 꿈꾼다 [오!쎈 미야자키] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/11/202611102317770507O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "한화가 원클럽맨 하주석까지 주고 데려왔는데…'충격' ERA 8점대라니, KIA서 온 투수 이 악물다 \"내년은 올해와 반대로 잘하겠다\"",
+          "url": "https://mydaily.co.kr/page/view/2026110800495953940",
+          "source": "마이데일리"
+        },
+        {
+          "title": "한화 이형범 “팬들에게 떳떳해지고 싶다”…가을야구 정조준 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1085625",
+          "source": "재경일보"
+        }
+      ]
+    },
+    {
+      "keyword": "육군특수전사령부",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T01:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRs3YDTQChSz8mFA17gY5P96s-u0ol0w7VAa1MDTRj6udAinqGjufpjQ3f9ErU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "육군특수전사령부, 고공침투 자격과정 확대 운영…軍 ‘독자적 임무수행 능력’ 확보",
+          "url": "https://www.munhwa.com/article/11630351",
+          "source": "문화일보"
+        },
+        {
+          "title": "軍, 특전사 침투물자 구매물량 16배 확대…\"전작권 전환 대비\"",
+          "url": "https://www.yna.co.kr/view/AKR20261109143300504",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "군, 특전사 침투물자 예산 13배 증액… “전작권 전환 대비”",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447456",
+          "source": "천지일보"
         }
       ]
     },
@@ -78,152 +203,27 @@
       ]
     },
     {
-      "keyword": "수원 fc",
+      "keyword": "엽떡 11 월 11 일",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T00:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmsR3zJGAeMG1Bu_PvoBSjVWxZnFSIvF7Y2sw9Z-nXCRqIvCOZ7uJDAuTIiu8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424",
-          "source": "기호일보"
-        },
-        {
-          "title": "32라운드 나란히 승리로 순위는 그대로+다득점도 한 골 차…수원FC·서울 E·대구, 2위 다이렉트 승격 경쟁은 진행형",
-          "url": "https://www.sportsseoul.com/news/read/1648062",
-          "source": "스포츠서울"
-        },
-        {
-          "title": "'여전히 안갯속' 2위 다이렉트 승격, 수원FC-대구FC-서울E 나란히 30라운드 승리",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8B%E1%85%A7%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A2%E1%86%BA%E1%84%89%E1%85%A9%E1%86%A8-2%E1%84%8B%E1%85%B1-%E1%84%83%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3-%E1%84%89%E1%85%B3%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8-%E1%84%89%E1%85%AE%E1%84%8B%E1%85%AF%E1%86%ABfc-%E1%84%83%E1%85%A2%E1%84%80%E1%85%AEfc-%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AE%E1%86%AFe-%E1%84%82%E1%85%A1%E1%84%85%E1%85%A1%E1%86%AB%E1%84%92%E1%85%B5-30%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%B3-%E1%84%89%E1%85%B3%E1%86%BC%E1%84%85%E1%85%B5/bltdb96ff8f3a51300c",
-          "source": "Goal.com"
-        }
-      ]
-    },
-    {
-      "keyword": "트립닷컴 메가세일",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqqFqLLrDejUhGvWzIgAVMZXvjhq1HuBJDMCwTG8ImTe17YvFSRQHQSa5-WKg",
+      "startedAt": "2026-11-11T01:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZNaMmeyhVKNZuVdqBlh6v_f60BcOEoGxMAJp9Cl85COqCIYzUqmhYccist_I",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "제주 왕복 1100원부터…트립닷컴, 11일 오전 11시 특가전",
-          "url": "https://www.news1.kr/industry/hotel-tourism/6347319",
-          "source": "뉴스1"
+          "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376",
+          "source": "금강일보"
         },
         {
-          "title": "[유통레이더] 트립닷컴, 롯데월드, 놀유니버스, 번개장터, 삼양라운드스퀘어, 달바 外",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423013",
-          "source": "데일리한국"
+          "title": "11월 11일은 ‘엽떡데이’…동대문엽기떡볶이, 올해도 브랜드데이 할인 행사",
+          "url": "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500204",
+          "source": "서울신문"
         },
         {
-          "title": "트립닷컴, 연중 최대 ‘11.11 세일’ 진행… 항공·호텔 최대 80% 선착순 할인",
-          "url": "http://www.cdnews.co.kr/news/articleView.html?idxno=201364",
-          "source": "통신일보"
-        }
-      ]
-    },
-    {
-      "keyword": "시내버스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1RZs0mBPJf8WwRsHSNzfGy3uTxnB60q3QIDKSzzKvKJaFBVHMEIG6glYQrNo",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "경기 성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864775_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[포토] 분당서 버스가 차량 30여대 연쇄 추돌",
-          "url": "https://www.viva100.com/article/20261111500460",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "속보 소방 \"성남 연쇄 추돌 사고로 중상 9명·경상 48명\"",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611110952377598",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "박신영 아나운서",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd1TfS3MQgMcRk2W4JHycoPNf1zQEUlC1hwVddgOr9hyhsMy0zM2bxvGVN6wc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘교통사고 사망 사건’ 후 근황 박신영, 쏟아지는 악플에 “허위사실 법적대응” 입장",
-          "url": "https://sports.khan.co.kr/article/202611110912003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "\"사망 사고 내고 차 안에 숨었다고?\"…박신영, 5년 만에 입 열었다",
-          "url": "https://www.news1.kr/society/general-society/6350123",
-          "source": "뉴스1"
-        },
-        {
-          "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862283",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "빼난지원금",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdhbCqB952K_xt2Y9xzumefAg9mURKYfgCtT8WzSFv1Gb_g2Wpt25FW6JvbB8",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "'아 오늘이 빼빼로데이였지'…카톡 선물하기 이벤트에 접속 폭주",
-          "url": "https://www.yna.co.kr/view/AKR20261111065000017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "대구교도소",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-10T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFx562VAvgDQ7k5XRLc1aGucoyjy13P345AJZLdZY5VUaP5QLGmWDia6wx8ug",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'3년 방치' 옛 교도소, 문화예술 공간으로 변신",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611110331000220",
-          "source": "YTN"
-        },
-        {
-          "title": "‘7년 표류’ 옛 대구교도소 터 개발 본격화",
-          "url": "https://www.segye.com/newsView/20261109514586",
-          "source": "세계일보"
-        },
-        {
-          "title": "옛 대구교도소 떠난 자리에 3500억 투입…달성군 문화명소 만든다",
-          "url": "https://www.koreadaily.com/article/20261109071558241",
-          "source": "미주중앙일보"
+          "title": "동대문엽기떡볶이, 11월 11일 브랜드데이 ‘엽떡데이’ 진행",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03578486645641784&mediaCodeNo=257",
+          "source": "이데일리"
         }
       ]
     },
@@ -241,8 +241,8 @@
           "source": "연합뉴스"
         },
         {
-          "title": "왕중왕전 첫 우승 도전 사발렌카, 무호바 꺾고 1승",
-          "url": "https://www.newsis.com/view/NISI20261110_0002288185",
+          "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
+          "url": "https://www.newsis.com/view/NISI20261110_0002288184",
           "source": "뉴시스"
         },
         {
