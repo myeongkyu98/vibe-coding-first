@@ -1,58 +1,117 @@
 {
-  "updatedAt": "2026-11-11T04:52:22.543Z",
+  "updatedAt": "2026-11-11T05:53:03.543Z",
   "summary": [
     {
       "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "count": 7
     },
     {
       "category": "연예",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
       "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "신동빈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-11T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQQmHIazkfebAJkk7aJngepgcyUw50c5m6XT1lEohbd_4JVAotUfxrV02bDDE",
-      "category": "경제",
+      "keyword": "총파업",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-11T04:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqpn18s4YruTnb4GlUt5ySyU_u4Z1ngol1YeGO6xjOeymGAI-hYg-Ne545X6Y",
+      "category": "기타",
       "news": [
         {
-          "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
-          "source": "인베스트조선"
+          "title": "[속보] 코레일 노조 \"12월 10일 오전 9시부터 무기한 총파업\"",
+          "url": "https://www.chosun.com/national/labor/2026/11/11/CLIGBGE3C5BOZBLVTVH4FLFFEI/",
+          "source": "조선일보"
         },
         {
-          "title": "롯데 유통 수장 3인방, 첫 성적표 '합격점'…신동빈 재신임 받을까",
-          "url": "https://www.newspim.com/news/view/20261109000602",
+          "title": "철도노조, 12월 10일 무기한 총파업 예고…코레일 \"열차 75.2% 운행 예상\"",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354387",
+          "source": "녹색경제신문"
+        },
+        {
+          "title": "공항철도 노조, 13일 경고파업…일반열차 28.7% 감축 운행",
+          "url": "https://www.khan.co.kr/article/202611111408001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "공무원",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-11T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB2x1Pceg-WD-z8UeU3pMt03cydyBSg-QyOi2D5zKrAAn6I7Mtt6xdeRlV2kA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "보은군 공무원노조, 비방글 반복 게시한 민원인 고발",
+          "url": "https://www.yna.co.kr/view/AKR20261111081400064",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "보은군 공무원노조, 담당 공무원 비방 게시물 관련 민원인 고발",
+          "url": "https://www.newspim.com/news/view/20261111000317",
           "source": "뉴스핌"
         },
         {
-          "title": "‘쇄신 인사 1년’ 정현석·차우철·추대식, 롯데쇼핑 재건 특명…누가 제 몫 했나",
-          "url": "https://www.fntimes.com/html/view.php?ud=202611101406302092b5b890e35c_18",
-          "source": "금융신문"
+          "title": "전공노 보은군지부, 80여 차례 비방글 게시한 민원인 고발",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6350329",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "중국",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-11T04:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfyp52z0kLBnE9h60RCoP2FBQcQNtZIqbfSQenrkNs0kFnL197cReDUjCr64",
+      "category": "기타",
+      "news": [
+        {
+          "title": "인천항-중국 산둥성 르자오항 신규 컨테이너 항로 취항",
+          "url": "https://www.yna.co.kr/view/AKR20261111065900065",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "인천항, 중국 르자오항과 새 바닷길 열었다",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040615",
+          "source": "기호일보"
+        },
+        {
+          "title": "KMI, 중국과 국제해운회의 개최… 글로벌 해운시장 대응 협력",
+          "url": "https://view.asiae.co.kr/article/2026111108532372585",
+          "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "스마일게이트",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-11T04:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKjEdavAgs4lGGPeNKEp_Jrz6FaBC5ehejlZ_gGCcxasskHVvtsm14U3pRKk4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Smilegate to Showcase 'MIRESI' at Japan's Comic Market in December",
+          "url": "https://www.invenglobal.com/articles/28345/smilegate-to-showcase-miresi-at-japans-comic-market-in-december",
+          "source": "Inven Global"
+        },
+        {
+          "title": "MIRESI: Invisible Future Previews Continue to Impress",
+          "url": "https://www.denofgeek.com/games/miresi-invisible-future-previews-continue-to-impress/",
+          "source": "Den of Geek"
+        },
+        {
+          "title": "MIRESI: Invisible Future to Appear at Comiket 109",
+          "url": "https://finalweapon.net/2026/11/09/miresi-invisible-future-to-appear-at-comiket-109/",
+          "source": "Final Weapon"
         }
       ]
     },
@@ -66,52 +125,27 @@
       "news": []
     },
     {
-      "keyword": "포수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWmCyGiGz_qCXdKj1iimm_m6N_1hRJeFVtXkO3Ot_HPVwv3H2vL84tgZ57GY",
-      "category": "스포츠",
+      "keyword": "사슴",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T04:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLqhXiXBbbAnvugOACOCVnaK_PVFOnelqY2xQRruTmCklE_RMiR3AhmjBW6kQ",
+      "category": "기타",
       "news": [
         {
-          "title": "메이저리그 3대 올스타 배출한 '명문 가문' 아버지 밥 분 별세",
-          "url": "https://www.yna.co.kr/view/AKR20261111061600007",
-          "source": "연합뉴스"
+          "title": "\"사슴 주둥이에 웬 호박이\"…미국서 열흘간 추격 끝 구조",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110171404jdp",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "[공식발표] '아들이 9년째 양키스 감독' ML 최초 3대 메이저리거 가문 일군 GG 7회 레전드 밥 분 별세, 향년 78세 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111100450829501",
-          "source": "머니투데이"
+          "title": "핼러윈 호박통에 입 끼어 열흘간 물도 못 마신 어린 사슴…강물 네 번 건너 구조 나서",
+          "url": "https://view.asiae.co.kr/article/2026111109000568590",
+          "source": "아시아경제"
         },
         {
-          "title": "‘3代 4명 올스타’ 야구 명문가의 전설…MLB 명포수 밥 분, 79세로 별세",
-          "url": "https://www.munhwa.com/article/11630409",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "미국 항공 우주국",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T02:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXRc7jgbnOzTUfYcvzV8ByEf6lxH0ZVv6J2Nzs9P73MP1TDzYYlprWObSX5nU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "“달에서 일 할 사람 찾아요”…연봉 2억2000만원",
-          "url": "https://www.donga.com/news/Inter/article/all/20261111/135003343/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "\"달에서 살 사람 찾습니다\"…NASA, '연봉 2억' 우주비행사 모집 - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/10/2026111021063876192",
-          "source": "머니투데이"
-        },
-        {
-          "title": "[자막뉴스] NASA 우주비행사 채용 \"연봉 2억·달에서 거주\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839462",
-          "source": "SBS 뉴스"
+          "title": "호박 장식 주둥이에 껴 물도 못마신 사슴…10일 추격 끝 구조",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611111006445491",
+          "source": "YTN"
         }
       ]
     },
@@ -134,109 +168,59 @@
           "source": "전자신문"
         },
         {
-          "title": "`이세계아이돌` 6인 전원, AGF 2026 뜬다…SOOP, 버추얼 28명 집결",
-          "url": "https://m.ddaily.co.kr/page/view/2026111010452385680",
-          "source": "디지털데일리"
+          "title": "지스타 비우고 AGF로…일산에 눈 돌린 게임사",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7192526",
+          "source": "주간한국"
         }
       ]
     },
     {
-      "keyword": "전고체 전지",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T03:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8mxQUTPk-tnD2EZ7SHRGWeb8HZEw85gNwrC9Myd8mjiz8rL0vrXxDgheCKF4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
-          "url": "https://www.yna.co.kr/view/AKR20261110163700003",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘삼성·현대차그룹 동맹’ 배터리 공급 넘어 설계까지 확장",
-          "url": "https://www.munhwa.com/article/11630522",
-          "source": "문화일보"
-        },
-        {
-          "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
-          "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry",
-          "source": "Hyundai Motor Group"
-        }
-      ]
-    },
-    {
-      "keyword": "경기도지사",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T03:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt11e_FMh5KSwLLDnSnv7k5rDvJ_pAa8qI_b6wU6ljkg1mn7dZulNvA9TYgxI",
+      "keyword": "굴착기",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T04:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi39_HaHqaN1T4awEwZp84WR5FMgRfouMhBpaYe-XcVwsu9WON5jreuZ8ACPI",
       "category": "정치·사회",
       "news": [
         {
-          "title": "경기도, 내년 예산안 법정 제출기한 넘겨 13일쯤 제출",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709868",
+          "title": "“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709444",
           "source": "KBS 뉴스"
         },
         {
-          "title": "(경기도 대변인 서면 브리핑)민주당 경기도당과 함께 경기도민의 삶을 지키겠습니다",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71960",
-          "source": "경기도뉴스포털"
+          "title": "中남성, 관공서에 굴착기 몰고 가 난동…철거 보상 불만 추정",
+          "url": "https://www.yna.co.kr/view/AKR20261110119700083",
+          "source": "연합뉴스"
         },
         {
-          "title": "추미애, 국회의원·도당과 예산협력…“경기도 재정난 함께 풀기로”",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336499",
-          "source": "인천일보"
+          "title": "당국 미지급 보상금에 앙심… 中 40대 굴착기 몰고 정부 청사 돌진",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447802",
+          "source": "천지일보"
         }
       ]
     },
     {
-      "keyword": "김범",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T03:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpP7VTxR4-bX4EH-aF7pQR_RgArnWVqAmn2V-eKB-YeHgUUnkd51y_M3D_R-0",
-      "category": "연예",
+      "keyword": "폴 조지",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTO8Mq_QSKZhfIfQZ8hyvN40Rpl5ji5JLIiCAdZ86I-KSPFyTXVEjcWfhSQWQs",
+      "category": "기타",
       "news": [
         {
-          "title": "김범, 해외서 의문의 여성과 포착…턱에 손대자 '깜짝'",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862006",
-          "source": "뉴시스"
-        },
-        {
-          "title": "“여자 손이 쓱” 김범, 日여행 갔다가 깜짝 열애설..알고보니 지인 ‘해프닝’ [Oh!쎈 이슈]",
-          "url": "https://www.osen.co.kr/article/G1112908082",
+          "title": "[토토 투데이] 브라운-조지, 이적 후 첫 친정팀 맞대결…필라델피아-보스턴 동부 선두 경쟁에 프로토 승부식 발매",
+          "url": "https://www.osen.co.kr/article/G1112907576",
           "source": "OSEN"
         },
         {
-          "title": "김범, 초밥 먹다가 볼 만지는 '의문의 여성' 손 포착...日데이트? 술렁",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/10/GI2GKNRZG4ZDSNRRMJSWKNJTME/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "이현중",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf7dv0fJSeZ4vRYEU5zFLngYarQ7eENXYuLF-Ou3xxROpedGPmVPEqGBpfVAs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "이현중, G리그 개막전 선발로 코트 밟았다…립시티 첫 경기 승리 견인",
-          "url": "http://www.jemin.com/news/articleView.html?idxno=846882",
-          "source": "제민일보"
+          "title": "보스턴 만나는 제일런 브라운…필라델피아-보스턴전, 프로토 승부식 133회차 발매",
+          "url": "https://sports.donga.com/sports/article/all/20261110/134998391/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "‘NBA 도전’ 이현중, G리그 개막전 출격…3득점 6리바운드",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709638",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "‘NBA 재도전 시작’ 이현중, G리그 복귀전 선발 출격…24분 뛰고 3점 6리바운드",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065556563342870",
-          "source": "점프볼"
+          "title": "적이 되어 다시 만난 두 사람, 테이텀이 웃었다...보스턴, 필라델피아에 승리",
+          "url": "https://www.mk.co.kr/news/sports/12205274",
+          "source": "매일경제"
         }
       ]
     },
@@ -246,7 +230,7 @@
       "trafficValue": 100,
       "startedAt": "2026-11-11T03:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBgTW0YRbqBC5dgpN73KiJLyi0KwSzFFBqBN-dxfDtReB6R90onosLnvYSRKI",
-      "category": "생활·날씨",
+      "category": "연예",
       "news": [
         {
           "title": "\"27㎝ 키 차이 설렌다\"…이광수♥이선빈, 9년 차 커플 데이트 포착 - 머니투데이",
@@ -259,9 +243,9 @@
           "source": "뉴시스"
         },
         {
-          "title": "데이트 또 포착..이광수♥이선빈, 9년 차 커플의 '부부 바이브' [핫피플]",
-          "url": "https://www.koreadaily.com/article/20261110082002723",
-          "source": "미주중앙일보"
+          "title": "'공개 열애 9년째' 이광수♥이선빈, 또 데이트 목격담…설레는 27㎝ 키 차이",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6349787",
+          "source": "뉴스1"
         }
       ]
     }
