@@ -1,271 +1,271 @@
 {
-  "updatedAt": "2026-11-11T21:27:50.651Z",
+  "updatedAt": "2026-11-11T22:45:02.259Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 3
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "메이저 리그 사커",
+      "keyword": "3루수",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-11T20:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsvkQkt5PsqaimH4wLWVV7ugf1FZNGySAMhChZnCiHy5wx57MXqX_opyPGAJc",
+      "startedAt": "2026-11-11T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1RzwymR6TTgO1PpCeaLBoWZK0bF_uyZSlAL7TZxNiESzxC6rTVyA1KNouHE",
       "category": "스포츠",
       "news": [
         {
-          "title": "‘축구의 신’ 메시, MLS 최초 2년 연속 득점왕 등극",
-          "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/",
-          "source": "조선일보"
+          "title": "노시환과 메츠 워싱턴 코치의 한화 시절 인연, 미국 현지서 화제",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709600",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "`메시, MLS에서 역사 썼다`…리그 최초 2시즌 연속 득점왕, 31경기 26골 17AS 폭발",
-          "url": "https://mydaily.co.kr/page/view/2026110918472925665",
-          "source": "마이데일리"
+          "title": "‘MLB 도전’ 노시환, 뉴욕 메츠 새 타격코치와의 인연도 ‘눈길’",
+          "url": "https://www.donga.com/news/Sports/article/all/20261111/135005364/1",
+          "source": "동아일보"
         },
         {
-          "title": "메시 결승골…인터 마이애미, 뉴잉글랜드에 2-1 역전승 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1065087",
-          "source": "재경일보"
+          "title": "'노시환, 홈런왕 롤리와 한솥밥 먹나' 시애틀 3루수 보강 후보로 등장…美 현지 매체 주목 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/10/202611100941775695O",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "구자욱",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-11T17:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3sjIhoHuiaDLlB6VDtel_xjhRkxA_k5e4qADExdqKcTsiiLGlo_OlBVCgxco",
+      "keyword": "반도체",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-11T21:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1VeLBf3wGdOzIjOcKlIUPpay3zfDeJAzuUYtJWNfxjlvif2fxWdjMFovD30U",
       "category": "IT·과학",
       "news": [
         {
-          "title": "삼성 우승에 대구 상권 ‘들썩’… 소상공인 할인 잔치, 계열사는 언제?",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261110021569973",
-          "source": "영남일보"
+          "title": "엔비다이 주가 또 5.47% 급락...젠슨 황 거취는? [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611112031361073",
+          "source": "YTN"
         },
         {
-          "title": "“우승만 하면 된다면서요”…다년 계약 불발 구자욱·원태인, FA로 붙잡으려면 얼마?",
-          "url": "https://www.khan.co.kr/article/202611101656001",
-          "source": "경향신문"
+          "title": "[뉴욕증시] 코어위브·앤트로픽이 기술주 쌍끌이…나스닥 1.6%↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444281",
+          "source": "연합인포맥스"
         },
         {
-          "title": "삼성 라이온즈 12년 만의 KS 우승⋯ 삼성전자 등 계열사 ‘통 큰 할인’ 쏘나",
-          "url": "https://www.viva100.com/article/20261111500756",
-          "source": "브릿지경제"
+          "title": "Nvidia 주가, CEO 혼외관계 새 의혹에 시간외 거래서 하락",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2171446",
+          "source": "Investing.com 한국어"
         }
       ]
     },
     {
-      "keyword": "수사",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-11T18:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU12vgZbaxMIcJHusgS3N2x7Mm7NWxFMNMHxZqcO4dRiVLeHBP4dYoqq69vI",
-      "category": "기타",
+      "keyword": "버스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-11T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniZlEhUVqK26yN0WLelpRpMs43akRFt8gWiaOeFV_kNGx3SF9IM6NQJLfrJw",
+      "category": "스포츠",
       "news": [
         {
-          "title": "아들의 성폭행 피해자 여중생 살해한 부친",
-          "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2",
-          "source": "동아일보"
+          "title": "경기 성남시 분당서 출근길 버스 등 32대 연쇄 추돌...\"중상자 9명\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611111028493144_005.html",
+          "source": "YTN"
         },
         {
-          "title": "아들은 성폭력, 아버지는 살해‥50대 남성 체포, '보복살인'?",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864939_37004.html",
+          "title": "버스기사 \"브레이크 고장\"‥\"점검, 이상없음\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865010_37012.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "아들 ‘성범죄 사건’ 10대 피해자 살해한 50대 남성 체포…보복 범행 가능성 수사",
-          "url": "https://www.khan.co.kr/article/202611111924001",
-          "source": "경향신문"
+          "title": "‘버스 돌진’ 목격자들 \"브레이크 아닌 가속페달 같았다\"",
+          "url": "https://news.jtbc.co.kr/article/NB12327636",
+          "source": "JTBC"
         }
       ]
     },
     {
-      "keyword": "양홍원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T18:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpa96cpNOYfO7DIxADW0ZMM-wKvJhmvJsBW1Dt6Xcp1oTYZ2wi9NGHoyM4vh8",
-      "category": "기타",
+      "keyword": "교통 사고",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T21:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd1TfS3MQgMcRk2W4JHycoPNf1zQEUlC1hwVddgOr9hyhsMy0zM2bxvGVN6wc",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "\"너가 모르는 여자가 옆에\"…양홍원, 불륜설 속 신곡 제목은 '오보' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111110193659323",
-          "source": "머니투데이"
+          "title": "‘교통사고 사망 사건’ 후 근황 박신영, 쏟아지는 악플에 “허위사실 법적대응” 입장",
+          "url": "https://sports.khan.co.kr/article/202611110912003",
+          "source": "스포츠경향"
         },
         {
-          "title": "양홍원, 불륜 의혹 속 신보 ‘오보’ 발표…의미심장 가사",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261111/135007845/1",
-          "source": "동아일보"
+          "title": "‘배달원 사망사고’ 박신영 전 아나 “버틴게 억울해서라도…”",
+          "url": "https://www.joongang.co.kr/article/25477299",
+          "source": "중앙일보"
         },
         {
-          "title": "양홍원 딸 육아돕던 PD도 팔로우 끊었다…아내만 남아",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863771",
+          "title": "박신영 \"사고 후 차에 숨어있었다? 사실 아냐\"…루머·악플 법적 대응",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863146",
           "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "테일러 프리츠",
+      "keyword": "한국노동조합총연맹",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T21:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRal7TWW2yI0-x1bkLraRSFIPkk8chi60gjgcxnKUxCUpwoFLsdvGhpQbP_x70",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "한국노총 \"65세 정년연장, 연내 입법 로드맵 마련해야\"",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862779",
+          "source": "뉴시스"
+        },
+        {
+          "title": "여당 “정년연장 연내 입법”, 청와대 ‘브레이크’ 풀릴까",
+          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237668",
+          "source": "매일노동뉴스"
+        },
+        {
+          "title": "한국노총, 노동부에 정년연장 입법 촉구…국회에만 의존 말라",
+          "url": "https://biz.sbs.co.kr/article/20000345512",
+          "source": "SBS Biz"
+        }
+      ]
+    },
+    {
+      "keyword": "xrp 레저",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-11T21:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSu2OXA79ZKv7xbtdDwWTMQZz0r7aMPZGuf6VggfTpIJmUVkAN8SMop-91carw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "XRP 레저, 초딩 1,500건으론 부족?...재단 관계자 \"확장은 과정\"",
+          "url": "https://www.coinreaders.com/268818",
+          "source": "코인리더스"
+        },
+        {
+          "title": "“양자 컴퓨터 위협 원천 차단”…리플, 2028년까지 보안 체계 전면 전환 추진",
+          "url": "https://www.blockmedia.co.kr/archives/1163702",
+          "source": "블록미디어"
+        },
+        {
+          "title": "리플, 1.06달러 지지 시험…XRPL '2027 로드맵'으로 디파이 영토 확장",
+          "url": "https://blockchaintoday.co.kr/news/articleView.html?idxno=66700",
+          "source": "블록체인투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "테니스",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T17:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW9OrGkNFya6eYVEr_qb-jmdBI7SW-0eDU8YCojSMU2sRYq2ut8-r4uUzlr8U",
-      "category": "기타",
+      "startedAt": "2026-11-11T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi-vqc-_nCDXyhiLMDpBzz7J1WxUBET2-fvlQa7MOqtRC6INvQAclVPFTSPm0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Fritz saves 2 set points, downs Norrie to reach Stockholm QFs",
-          "url": "https://www.atptour.com/en/news/stockholm-2026-wednesday-report",
-          "source": "ATP Tour"
+          "title": "데이비스컵 8강전과 일정 겹치는 호주오픈 와일드카드 결정전",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19834",
+          "source": "테니스피플"
         },
         {
-          "title": "Sports News, Transfers, Scores | Watch Live Sport",
-          "url": "https://www.skysports.com/tennis/watch/5412594896626087112/bybit-stockholm-open-2026",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Cameron Norrie dumped out of Stockholm Open by world No.10",
-          "url": "https://uk.sports.yahoo.com/news/cameron-norrie-dumped-stockholm-open-171400886.html",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "keyword": "편의점",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T19:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4BUXhpXKyFNtFomFoI0PEDIM1mrd0KVJ8IJJHYiLH5GC5xoEFzC4dykvT1nA",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "신호 기다리다 음주 차량에 '쾅'...면허 취소 수치",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611120011001955",
-          "source": "YTN"
-        },
-        {
-          "title": "추돌사고 당한 승용차가 편의점 덮쳐…8명 부상",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111073932L6J",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "음주 차량에 추돌당한 경차가 편의점 파손…8명 다쳐",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709632",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "무인 항공기",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T19:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjG09Q95qsj60TKi5liVO8y_VZsOxz7O_JwVYU2m4g0fHySlI6IkbcZ3Ek99M",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "육군 “김포서 훈련 중 소형무인기 추락…북한 관련 없는 지역”",
-          "url": "https://www.khan.co.kr/article/202611101125001",
-          "source": "경향신문"
-        },
-        {
-          "title": "김포 주택가 공원에 무인기 추락…군 “교육훈련 중 추락”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708502",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "軍 무인기, 훈련 중 김포 공원에 추락…사고 원인 조사",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261110144436xGB",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "수능날",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T17:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KvZU5QRAloaq1acREk2ekD9tjMyCxXyja99koZrud_O70u15FKFj7DsSrvE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "광주신세계 \"수험생 위한 보온도시락·텀블러·디저트 준비하세요\"",
-          "url": "https://www.news1.kr/local/gwangju-jeonnam/6350261",
-          "source": "뉴스1"
-        },
-        {
-          "title": "“수능날 ‘따뜻한 집밥’을 선물하세요”…써모스, 보온도시락 최대 52%",
-          "url": "https://www.mk.co.kr/news/pick/12205218",
-          "source": "매일경제"
-        },
-        {
-          "title": "광주신세계, 수능 앞두고 보온도시락·텀블러 등 응원 상품 선봬",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423955",
-          "source": "데일리한국"
-        }
-      ]
-    },
-    {
-      "keyword": "노무현",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T15:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQljLOKxR42fEAiGijDpSDA6BZZnqIdPEzzshx0gxQ1AkoyCgB1_HElm77OnA",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“제대로 받쳐드려” 친명 방위대 결집…그 뒤 ‘노무현 데자뷔’",
-          "url": "https://www.joongang.co.kr/article/25477178",
-          "source": "중앙일보"
-        },
-        {
-          "title": "“조작기소 특검 힘 모아야”",
-          "url": "https://www.segye.com/newsView/20261108509347",
-          "source": "세계일보"
-        },
-        {
-          "title": "‘친명계’ 혁신회의 “대통령 흔들었던 사람들, 반개혁 반성해야”",
-          "url": "https://weekly.khan.co.kr/article/202611081627001",
-          "source": "주간경향"
-        }
-      ]
-    },
-    {
-      "keyword": "오현민",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T15:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EveDtLbZZrfLDaHjEjJh5mdML2t4wYuhq-JZ3HfCsWxhLvfrvROinIaXnq0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "데블스플랜3 장동민 “33개월 아들, 서바이벌 준비”…오현민 “32년 된 아들도”",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004024",
-          "source": "아시아투데이"
-        },
-        {
-          "title": "[이번 주 뭐 볼까] ‘두뇌 서바이벌’ 최강자 중의 최강자를 가려라",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/10/7PTW24N2JVH4DEX5VHNTF47MH4/",
+          "title": "'이동국 딸' 재아, '테니스 아시아 랭킹 1위'인데 은퇴→골프 전향... \"지속적인 부상·수술\"(내새연2)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GMYTSMZWMZQWCMRYGU2TMOJXGA/",
           "source": "조선일보"
         },
         {
-          "title": "‘피의 게임2’ 최후의 5인 서출구, ‘데블스 플랜3’ 생존 경쟁…“감옥서 살아 돌아왔다”",
-          "url": "https://www.sportsseoul.com/news/read/1649003",
-          "source": "스포츠서울"
+          "title": "이동국 딸 재아 \"테니스 선수에서 골프 선수로 전향\"",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864608",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "황보라",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T21:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4KaN_zzBuQh2yqEtupWU504pO-qYWeOsxHtND0GCvgHlZaQmUnrgXQnqN2r0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "정이랑, 2억 들인 안면도 세컨드 하우스 공개…황보라 \"예술이다\"",
+          "url": "https://www.newsis.com/view/NISX20261110_0003862846",
+          "source": "뉴시스"
+        },
+        {
+          "title": "정이랑, 2억 들인 안면도 별장 공개 [소셜in]",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524371",
+          "source": "iMBC 연예"
+        },
+        {
+          "title": "황보라, 정이랑 ‘바다뷰 2억 펜션’에 입 떡 벌어졌다 “예술이야..너무 좋아”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/10/G42TAYZVMJQWIZTCMU4GEOLGGI/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "พยากรณ์อากาศ",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNzRCEnM8mG8Z5wDmzUO2xBMKkEom2alqE4Yf1PKXzdcZtVtESPEf3PYBSXlo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
+          "url": "https://www.dailynews.co.th/news/6352136/",
+          "source": "เดลินิวส์"
+        },
+        {
+          "title": "ประจำวันที่ 11 พฤศจิกายน 2569 17.00 น.",
+          "url": "https://www.tmd.go.th/forecast/daily/111120261800",
+          "source": "กรมอุตุนิยมวิทยา"
+        },
+        {
+          "title": "อธิบดี ปภ. ลงพื้นที่หาดใหญ่ กำชับ 5 มาตรการรับมือฝนภาคใต้",
+          "url": "https://www.tnnthailand.com/social/252108/",
+          "source": "TNN Thailand"
+        }
+      ]
+    },
+    {
+      "keyword": "일론 머스크",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T21:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxvWK2AaNrhvjy45SFPB8mblc4QqobluJCm7hJ8Tx_-5HUGuGY0E2CJTfVn3s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "테슬라 팔고 스페이스X로…서학개미, 머스크 제국 내 ‘머니무브’",
+          "url": "https://www.sedaily.com/article/20113162",
+          "source": "서울경제"
+        },
+        {
+          "title": "테슬라와 스페이스X 합병 추진, 머스크의 두 제국이 하나로?",
+          "url": "https://story.pay.naver.com/content/3782",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "테슬라·스페이스X 합병 땐 '팔지 않아도 세금' … 국세청은 \"법대로 과세\"",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/10/2026111000084.html",
+          "source": "뉴데일리"
         }
       ]
     }
