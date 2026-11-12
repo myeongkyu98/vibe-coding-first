@@ -1,21 +1,17 @@
 {
-  "updatedAt": "2026-11-12T11:52:49.968Z",
+  "updatedAt": "2026-11-12T12:58:03.971Z",
   "summary": [
     {
       "category": "스포츠",
       "count": 4
     },
     {
+      "category": "기타",
+      "count": 3
+    },
+    {
       "category": "경제",
       "count": 2
-    },
-    {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
     },
     {
       "category": "정치·사회",
@@ -28,34 +24,125 @@
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-12T10:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHW7NvYUQ07rDD-tki-Pkseu24kkFrdlhbMwc9v68GsiLZ3dCi9mC5bw0cwc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCOstT7HJs0NZyhI65FoNbojy5UeIC1xHpakeaDXdP8bQ2lw6Ck0vvPXY9IYM",
       "category": "경제",
       "news": [
-        {
-          "title": "[단독] 이 대통령, 당대표 경험 공유하며 김민석 격려",
-          "url": "https://www.khan.co.kr/article/202611121657011",
-          "source": "경향신문"
-        },
         {
           "title": "여당, 종부세 유지 가닥…전월세 등 부동산 민심 악화에 고심",
           "url": "https://www.hani.co.kr/arti/politics/politics_general/1287090.html",
           "source": "한겨레"
         },
         {
-          "title": "한병도 \"당청, 더 나은 민생 위해 긴밀 협력…엇박자는 없다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261112057600001",
+          "title": "당청 ’한목소리’에도 종부세 이견…金·鄭 ’대화중재’도 파열음",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112205932itn",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "78일 만에 여당 지도부 만찬…이 대통령 ‘당정 한마음’ 강조",
+          "url": "https://news.jtbc.co.kr/article/NB12327675",
+          "source": "JTBC"
+        }
+      ]
+    },
+    {
+      "keyword": "공항철도 파업",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-12T11:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnaVywoJS02AukH7iOkV04kUJ3CeP2KjxjT4fZ_hlsLgGIJx8UDwDpri6jI3w",
+      "category": "기타",
+      "news": [
+        {
+          "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
+          "url": "https://www.kmib.co.kr/article/20261112501567",
+          "source": "국민일보"
+        },
+        {
+          "title": "철도노조 “12월 10일부터 총파업”…인력 충원 등 요구",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709898",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+          "url": "https://www.yna.co.kr/view/AKR20261111111400011",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "대구 한국가스공사 대 고양 소노",
+      "keyword": "천위페이",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-12T10:00:00.000Z",
-      "picture": "",
+      "startedAt": "2026-11-12T11:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpvNxOhbRPmSVTavcoFI0JHnEeOmDFPxlUpLVDT8mxwPtWjH4eaXMtF7lagWc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
+          "url": "https://www.xportsnews.com/article/2218686",
+          "source": "엑스포츠뉴스"
+        },
+        {
+          "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'내가 안세영 이겨봤어!' 그런데 16강부터 휘청휘청…'세계 3위' 中 왕즈이 일본 마스터즈 8강 진출→25위 덴마크 2-0 제압",
+          "url": "https://www.xportsnews.com/article/2218855",
+          "source": "www.xportsnews.com"
+        }
+      ]
+    },
+    {
+      "keyword": "조희대",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-12T11:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRll4q-N7O5SidvN3HC6uzCnYCuuqZedFF5Cil_gPC24mqGEewOkVkm84rF5Gw",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
+          "url": "https://news.jtbc.co.kr/article/NB12327837",
+          "source": "JTBC"
+        },
+        {
+          "title": "법원행정처장, '한덕수 석방시 조희대 탄핵' 주장에 \"부적절\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865234_36911.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "우원식, 한덕수 석방 관측에 “풀려난다면 국민들이 조희대 대법원의 책임 물을 것”",
+          "url": "https://www.khan.co.kr/article/202611120930001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "nol",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3cwp3sKC-pcZKtrV1Bm1R0kDpEtNmOIv93rkWe1B7QX5bm7cuJM_8P74fMs",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
+          "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment",
+          "source": "Khaleej Times"
+        },
+        {
+          "title": "RTA, Al Etihad Payments sign strategic agreement to launch next generation of nol–Jaywan cards",
+          "url": "https://www.wam.ae/en/article/c3347i1-rta-etihad-payments-sign-strategic-agreement",
+          "source": "www.wam.ae"
+        },
+        {
+          "title": "Dubai's new nol–Jaywan card: Where you can use it, discounts and launch date",
+          "url": "https://gulfnews.com/living-in-uae/transport/dubais-new-noljaywan-card-where-you-can-use-it-discounts-and-launch-date-1.500738705",
+          "source": "Gulf News"
+        }
+      ]
     },
     {
       "keyword": "페드로 아빌라",
@@ -83,177 +170,102 @@
       ]
     },
     {
-      "keyword": "nepal premier league",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-12T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8W2DH5atjQ7NQLsKWQOjgcfVnrfp9z3N32aAqfro-Y3yZ3XIWoaD1pq76bM",
+      "keyword": "신안산선",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T11:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGlGPR2z81cLSFKy5ltIacPxG2eqwiH5DhSHbmLiAneqQmQnVIxfQBulcoxBE",
       "category": "스포츠",
       "news": [
         {
-          "title": "Sandeep Lamichhane bags six wickets; Pokhara Avengers fold for 132",
-          "url": "https://english.nepalnews.com/s/sports/sandeep-lamichhane-bags-six-wickets-pokhara-avengers-fold-for-132/",
-          "source": "Nepalnews.com"
+          "title": "안양시, 위례과천선·서부선 연장 국가철도망 반영 추진",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711123",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Nepal Premier League Cricket: Two Crucial Matches Today",
-          "url": "https://english.ratopati.com/story/86296/biratnagar-and-karnali-want-to-return-to-winning-ways-pokhara-has-a-chance-to-maintain-the-momentum",
-          "source": "Ratopati"
-        },
-        {
-          "title": "Nepal Premier League 2026 match predictions: Kings vs Avengers and Yaks vs Lions",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-biratnagar-kings-vs-pokhara-avengers-karnali-yaks-vs-lumbini-lions-12th-november/114296.htm",
-          "source": "Cricket World"
-        }
-      ]
-    },
-    {
-      "keyword": "박충권",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-12T09:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDK7e7lYlCMJnzb9_RtemKCozeqS6q_3vTykpljc4FwI878A_P_SOmvI6YUwY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "박충권, 정동영 향해 \"북동영\" 부르자 與 \"탈충권\" 맞불",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865148_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "탈북단체 \"통일부 '북향민' 호칭, 탈북민 정체성 부정\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261112058551504",
+          "title": "태백시, 철도망 국가계획 반영 총력…시민 설문 참여 요청",
+          "url": "https://www.yna.co.kr/view/AKR20261112171600062",
           "source": "연합뉴스"
         },
         {
-          "title": "외통위, ‘북향민’ 용어 놓고 여야 정면충돌 \"北동영\" \"脫충권\"",
-          "url": "https://m.segye.com/view/20261112509985",
-          "source": "세계일보"
+          "title": "이재준 수원시장 \"경기남부광역철도·신분당선 연장, 시민 참여 절실\" - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/policy/2026/11/12/2026111217132566374",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "한강 벨트",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-12T08:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7eZ0TebIjkPpYXWnBHUKVNTpCtOqvfXveHX7Jh7FoojSpNz0DFFqlN_Ufr9Q",
+      "keyword": "항공사",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T11:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOHFaGMzTL2OOU6VnRW-kPec6VUvC2mhxqyBEvd-GUpjHvRHrU5rkSQ_qECEg",
       "category": "경제",
       "news": [
         {
-          "title": "\"이 돈이면 마포 말고 강남\"… 한강벨트 대장단지 매물 '우르르'",
-          "url": "https://www.mk.co.kr/news/realestate/12206696",
-          "source": "매일경제"
+          "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112180246PVF",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "강남 약세 한강벨트까지…수도권 외곽은 계속 '상승'",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843677",
-          "source": "SBS 뉴스"
+          "title": "아시아나항공, 3Q 환율 효과에 순이익 흑자 전환…고유가로 적자 지속",
+          "url": "https://m.ekn.kr/view.php?key=20261112027349018",
+          "source": "에너지경제신문"
         },
         {
-          "title": "서울 성동·강동 아파트, 7개월만 ‘하락 전환’",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711180",
-          "source": "KBS 뉴스"
+          "title": "아시아나 3분기 여객 매출 10% 증가…'통합 대한항공' 출범 채비",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04503446645645064",
+          "source": "마켓인"
         }
       ]
     },
     {
-      "keyword": "성시경 콘서트",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-12T08:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGDeLe-BbeDGEO4qgRvSdVmjRXCWOO3KDoh562xrhYn9e9zSfc-qxhtGSUd8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[단독] 성시경 막걸리, 세븐일레븐에 입점한다",
-          "url": "https://v.daum.net/v/8EZ9MejJcc",
-          "source": "Daum"
-        },
-        {
-          "title": "이번에도 '피켓팅'?! 성시경, 두근두근 연말 콘서트",
-          "url": "https://www.etnews.com/20261112000044",
-          "source": "전자신문"
-        },
-        {
-          "title": "한 해의 마지막 밤과 새해 첫 주말을 성시경과…연말 단독 콘서트 개최",
-          "url": "https://sports.donga.com/ent/article/all/20261112/135011760/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "캐릭",
+      "keyword": "원자력 잠수함",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-12T10:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXEQ7g14IHgNlbCjgkjcR5yPtk0vYssc6R_22-_h_Z6QWWQMhm003kQqppU5k",
-      "category": "스포츠",
+      "startedAt": "2026-11-12T11:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHPmfFx19NukMUSbEM-Wc_tsq1QXkdEYHSpR_xOhH8c4C5P-q4phXRNM9AlvA",
+      "category": "기타",
       "news": [
         {
-          "title": "맨유 새 감독에 포체티노 유력",
-          "url": "https://www.khan.co.kr/article/202611122023005",
+          "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261111130751073",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "일 ‘핵반입 금지 예외’ 검토에 피폭자들 반발…“비핵 원칙 훼손 말라”",
+          "url": "https://www.khan.co.kr/article/202611121556011",
           "source": "경향신문"
         },
         {
-          "title": "'오히려 좋아!' 포체티노 맨유행 임박...미국대표팀, 세계최고 명장 펩 과르디올라 노린다",
-          "url": "https://www.koreadaily.com/article/20261111183001886",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "맨유, 포체티노 감독과 '구두 합의'…캐릭 경질 초읽기",
-          "url": "https://www.yna.co.kr/view/AKR20261112012700007",
-          "source": "연합뉴스"
+          "title": "\"日, 안보3문서에 '집단성 강인성' 명기…우호국과 경제안보력 강화\"",
+          "url": "https://www.newsis.com/view/NISX20261112_0003865210",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "나경원",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYm-EZ8II00Gx4GNR0po0Oiy3bQxYooAxN8gGBgnsnB6Y4idTpQWZokWrJdY4",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "나경원 \"당나라 군대냐\" 지적에 강신철 \"말씀 취소하라\" 반발",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865059_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "나경원 \"당나라 군대냐\"…국방부 장관 \"취소해달라\" 발끈 [소셜픽]",
-          "url": "https://news.jtbc.co.kr/article/NB12327681",
-          "source": "JTBC"
-        },
-        {
-          "title": "\"당나라\" \"북동영\" \"탈충권\"...곳곳 '고성 충돌'",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611121805055497",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "김민식",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROCQncPkybFckPOrpxsgMm10sySLAFbuEYzJZof3guTCOzENTLw88xINsQJCc",
+      "keyword": "백승호",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T10:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc5QKldcefQGCM6Ac7ka4O316ZKN_stdfdnEdnnetOtct30NGEVfIgfTK2gKc",
       "category": "스포츠",
       "news": [
         {
-          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823",
-          "source": "KBS 뉴스"
+          "title": "'韓 초대박 경사' 터질까, 한국인 16호 프리미어리거는 백승호? '1위 질주' 버밍엄 \"꿈의 무대 EPL 복귀 예상\"",
+          "url": "https://www.sportschosun.com/football/2026-11-11/202611110100078270007276",
+          "source": "스포츠조선"
         },
         {
-          "title": "프로야구 SSG랜더스, 선수 및 코칭스태프 추가 재정비…재계약 불가 통보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040763",
-          "source": "기호일보"
+          "title": "모레노호 '호재'… 드디어 긴 부상 털고 복귀한 한국 선수",
+          "url": "https://www.wikitree.co.kr/articles/1172444",
+          "source": "위키트리"
         },
         {
-          "title": "\"트레이드 카드 수차례 맞췄는데…\" 반지만 2개 우승 포수, 왜 방출 통보 받았나",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/12/GJQWEZLGGY2TAMBXMM3GKNJTGM/",
-          "source": "조선일보"
+          "title": "'韓 축구 희소식' 부상에서 돌아온 미드필더 백승호, 성공적인 복귀전...엄지성과 맞대결은 불발",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%92%E1%85%B4%E1%84%89%E1%85%A9%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%87%E1%85%AE%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%83%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%A9%E1%86%AB-%E1%84%86%E1%85%B5%E1%84%83%E1%85%B3%E1%84%91%E1%85%B5%E1%86%AF%E1%84%83%E1%85%A5-%E1%84%87%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A9-%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%87%E1%85%A9%E1%86%A8%E1%84%80%E1%85%B1%E1%84%8C%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B5%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%AA-%E1%84%86%E1%85%A1%E1%86%BD%E1%84%83%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%87%E1%85%A1%E1%86%AF/blt30919edc8c447f31",
+          "source": "Goal.com"
         }
       ]
     }
