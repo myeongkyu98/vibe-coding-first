@@ -1,183 +1,29 @@
 {
-  "updatedAt": "2026-11-12T19:48:31.795Z",
+  "updatedAt": "2026-11-12T20:43:27.752Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "기타",
+      "count": 3
     },
     {
-      "category": "경제",
+      "category": "연예",
       "count": 2
     },
     {
       "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "국제 a매치",
+      "keyword": "잉글랜드 대 크로아티아",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-12T17:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsaNHRF-4XWGKxDLprx-WlUP_eh5UX4GQ110ka2EgNoRc8tWF6Vt2H3KTEjMA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-          "url": "https://www.khan.co.kr/article/202611112246001",
-          "source": "경향신문"
-        },
-        {
-          "title": "‘흥행 보증수표’의 몰락…외면 받는 한국 축구 A매치",
-          "url": "https://www.sportsworldi.com/newsView/20261112514439",
-          "source": "스포츠월드"
-        },
-        {
-          "title": "악화된 여론에 돌아선 광고주…방송사도 외면하는 축구 국가대표팀",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863106",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "손준호",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T18:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-RH7mWh4LsJ3UyDEpHrYIxDjNW8Be7tJwHIhLOw9BYqf8PX6ysMOPq6ACGs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“손준호가 두 명?”…♥김소현 14살 子, 아빠 붕어빵 비주얼 [DA★]",
-          "url": "https://sports.donga.com/ent/article/all/20261112/135016925/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "김소현♥손준호 아들 주안이 벌써 14세…몰라보게 폭풍성장 [N샷]",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6352117",
-          "source": "뉴스1"
-        },
-        {
-          "title": "“누가 손준호야?” 김소현♥손준호 子 주안, 아빠 쏙 빼닮은 ‘폭풍 성장’ 근황",
-          "url": "https://sports.khan.co.kr/article/202611121717003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "공장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T18:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgIh-_UJ-2NdkftE9L4zpo_hHCHSBrqgIyPSggGGf7OrjzheJLNRYbxiDm4oI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "재난문자",
-          "url": "https://d.kbs.co.kr/info/messageView?seq=206635&areaCd=10714",
-          "source": "KBS 재난포털"
-        },
-        {
-          "title": "경북 경산 골판지 제조업체 불‥대응 1단계 발령",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865277_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "경산 진량읍 공장서 화재…소방당국 대응 1단계 발령",
-          "url": "https://www.newsis.com/view/NISX20261112_0003866287",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "이자",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T17:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXpXamQzSzHj_AZFWyaHA5A71jkwYsHfhrhctoud4vFIQxbQJpi22KDMwDeuY",
-      "category": "경제",
-      "news": [
-        {
-          "title": "우리은행, 삼성금융과 '모니모 전용' 입출금·적금·예금 상품",
-          "url": "https://www.yna.co.kr/view/AKR20261112064200002",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "우리은행, 최대 4% '모니모 매일이자' 통장 출시",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865131",
-          "source": "뉴시스"
-        },
-        {
-          "title": "통장에 하루만 맡겨도 이자가 꼬박꼬박...'매일 이자' 상품 눈길",
-          "url": "https://www.hankyung.com/article/202611122099i",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "김승원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T16:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Ns35BnEVqQ3FK1NgQC58MdpG1lRNKUMOaklfNO4bbNiL_LlkE2mEwp2792Q",
-      "category": "기타",
-      "news": [
-        {
-          "title": "공소청, 김승원 ‘신약 청탁 의혹’ 브로커에 징역 4년 구형",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711265",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "‘김승원 청탁의혹’ 브로커 양 모 씨 징역 4년 구형",
-          "url": "https://news.jtbc.co.kr/article/NB12327827",
-          "source": "JTBC"
-        },
-        {
-          "title": "공소청, '김승원 청탁의혹' 브로커에 징역 4년·제넨셀 설립자는 징역 6개월 구형",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865225_36918.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "정선희",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T16:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdaLpxwyXlOQw34q8vvRBMsAy915SyqH1LU9UsFpKEw53sDfWLTeqqAF65hGQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "자기연민 고백한 정선희, 몰라보게 야윈 근황…김영철 '깜짝' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111215551129077",
-          "source": "머니투데이"
-        },
-        {
-          "title": "정선희 \"강호동, 녹화하면 48시간…괴수였다\"",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865201",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"괴수였다\"…정선희, 전성기 시절 강호동 회상 [소셜in]",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524590",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "네이션스리그",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T16:10:00.000Z",
+      "startedAt": "2026-11-12T19:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZV1oq_c59PfCfC4xwI4xlg7dltHOgQtevSj7auOUHAEzGkk1A53KU3wh1n-Y",
       "category": "스포츠",
       "news": [
@@ -199,77 +45,227 @@
       ]
     },
     {
-      "keyword": "안성현",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T15:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpyUxQd-N7elGwmMw6spjtvkr8ogTOeqbrbf7YVLT4gPe0R82VoEBUcZSxQLk",
-      "category": "경제",
+      "keyword": "전현무",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-12T19:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1HhiIu50nab3ycqoUWwPAekRVAtE23eM9IzFTf-wAdN9v78OnNueVeDSZSDM",
+      "category": "연예",
       "news": [
         {
-          "title": "‘코인 상장 청탁’ 프로골퍼 안성현, 대법서 무죄 확정",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710942",
-          "source": "KBS 뉴스"
+          "title": "조작 방송 전현무, 대국민 사과 “당분간 DM 안 보겠다”",
+          "url": "https://www.donga.com/news/Culture/article/all/20261112/135011588/1",
+          "source": "동아일보"
         },
         {
-          "title": "'코인 상장 뒷돈' 전 빗썸 대표 징역형 집행유예 확정",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865117_36918.html",
-          "source": "MBC 뉴스"
+          "title": "[MBN] 삼각지·을지로 골목에 숨은 노포 맛집들",
+          "url": "https://www.mk.co.kr/news/culture/12206570",
+          "source": "매일경제"
         },
         {
-          "title": "남편 안성현 '코인상장 뒷돈' 무죄…성유리 \"진실 밝혀지길\" 재조명 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111215255844992",
-          "source": "머니투데이"
+          "title": "곽튜브 \"미혼 전현무, 결혼기념일에 대해 뭘 아냐\"",
+          "url": "https://www.newsis.com/view/NISX20261112_0003865349",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "13일의 금요일",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WsxH7TVduBHNzHFhJtSjmcIXodIR9o7tQiprJVBygnJUxsKUeSdMmEwN644",
-      "category": "IT·과학",
+      "keyword": "이탈리아 대 프랑스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-12T19:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGvCKiwQFVAYCn4OEfN6A690fhN70aA8RrG2fBUBW69UsiXhoWFqw7ZHJ4_eA",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[지지대] 13일의 금요일, 인류 멸망의 날",
-          "url": "https://www.kyeonggi.com/article/20261112580217",
-          "source": "경기일보"
+          "title": "UEFA 네이션스리그: 몸값을 높이는 뛰어난 선수들",
+          "url": "https://sbotopkr.tistory.com/2670",
+          "source": "티스토리"
         },
         {
-          "title": "빗나간 66년 전 ‘인구종말론’…AI 종말론은 다를까?",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1286931.html",
-          "source": "한겨레"
+          "title": "지단의 프랑스냐⋯ 만치니 이태리냐",
+          "url": "https://www.kmib.co.kr/article/20261111502064",
+          "source": "국민일보"
         },
         {
-          "title": "세계가 11월 13일에 종말을 맞이할 것이라는 소문이 사실인가요?",
-          "url": "https://www.vietnam.vn/ko/thuc-hu-tin-don-the-gioi-sap-buoc-sang-ngay-tan-the-13-11",
+          "title": "이탈리아 대 프랑스 경기 예측, 11월 13일 오전 2시 45분: 산 시로 요새를 무너뜨릴 것이다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-italia-vs-phap-02h45-ngay-13-11-keo-sap-phao-dai-san-siro",
           "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "outlook",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHWRq4MglG9UtQRxq5Fyvj00bEtsM2Ll7W7Z6CVL0kEitlBdyKsVZvrkSGieU",
+      "keyword": "체코 대 스페인",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-12T19:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpdykjNIazBKIAN7ztXpvzr5z2HJv7IwpM6tTLWeEr3nqyk3qEorbu1Appd9U",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "스페인 감독, 야말 특혜 논란에 발끈…\"거짓말과 날조 참을 수 없어\"",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6351283",
+          "source": "뉴스1"
+        },
+        {
+          "title": "네이션스 리그 체코 대 스페인 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-cong-hoa-czech-vs-tay-ban-nha-tai-nations-league-1799199.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "야말·오야르사발, 네이션스리그 체코전 결장…무릎 통증·독감 여파",
+          "url": "https://www.etoday.co.kr/news/view/2646193",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "시청률",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T19:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfSkblPRK65T0_HpQGn2499QzZIgagAOjuZH66rijtzSd7EnCjNF2E6gd1Lgg",
+      "category": "연예",
+      "news": [
+        {
+          "title": "\"40시간 밤샘 촬영에 주먹다짐?\"…김윤석, 나홍진 감독과 불화설 해명 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111206010266536",
+          "source": "머니투데이"
+        },
+        {
+          "title": "김윤석, 데뷔 38년 만에 첫 예능 출연…유재석 만난다",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863708",
+          "source": "뉴시스"
+        },
+        {
+          "title": "김윤석 파워 이 정도였어? ‘유퀴즈’ 시청률 대폭 상승 ‘동시간대 1위’[美친시청률]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HA2DCODCGRSGMMLGGMYWCNTCGA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김하성",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T19:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPbdxEYayaDDnou4l6UZwGWRscTHzcjSLBUeNNxOhJVmZP-2nh4aZF00oDPeo",
       "category": "기타",
       "news": [
         {
-          "title": "Is Microsoft Outlook down? Thousands report issues with platform",
-          "url": "https://www.abc10.com/article/news/nation-world/is-microsoft-outlook-down-issues-reported-thursday/507-c4b3db9a-24e9-4c76-a414-28aa084c18f8",
-          "source": "ABC10"
+          "title": "“필라델피아, FA 김하성 영입 검토…단기 계약 내야수 찾는다”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708449",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Outlook Outage: Microsoft’s Email Service Goes Down Nationwide",
-          "url": "https://variety.com/2026/digital/news/outlook-outage-microsoft-email-down-1236946411/",
-          "source": "Variety"
+          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/13/MM4GIOBYGVRDMNBSGY2DAYZYGQ/",
+          "source": "조선일보"
         },
         {
-          "title": "Microsoft Outlook Down for Thousands of Users, Downdetector Shows",
-          "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-          "source": "GV Wire"
+          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
+          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "전기",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T19:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD_ga7R_Ho5981zdZQupk2ph3skckJ2My2xTdAT5VuM8qN3cUAppPFl8UW70o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "한전, 3분기 영업익 1조6441억원…연료·전력구입비 늘어 전년比 71%↓",
+          "url": "https://edata.ekn.kr/article/view/ekn202611120009",
+          "source": "기후에너지데이터뱅크"
+        },
+        {
+          "title": "‘전쟁 쇼크’ 한전, 영업이익 70% 급감",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/13/T5PU3WX5GVD5LNGNVL64AG4J3Y/",
+          "source": "조선일보"
+        },
+        {
+          "title": "한전 13분기 연속 흑자에도…중동발 연료비 폭탄에 영업익 43% 급감",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04529686645645064",
+          "source": "마켓인"
+        }
+      ]
+    },
+    {
+      "keyword": "디에고 시메오네",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T19:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTStIeaoOSvOxsgWUSjS-RlAuagT5nS9uJDoEqgm9XGmHFfTEXX5YsllD-nGvU",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'이강인 포함 18명 이탈' ATM 또 대형악재! '훈련 정상진행 불가' 긴급 수혈…시메오네 한숨 깊어진다",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/10/GM2WIMBUMFRGCZTEGBTDGNDFHA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'이강인 대표팀 다녀오더니 이상하다' 아틀레티코 현지서 집중 분석…'8경기 풀타임 0회·공격P 0개' 의문 폭발",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100687",
+          "source": "포포투"
+        },
+        {
+          "title": "이강인 초대형 호재, 최고의 오피셜 뜬다...'명장' 시메오네 아틀레티코와 2년 재계약 유력 \"수 개월 내 공식발표\"",
+          "url": "https://www.sportschosun.com/football/2026-11-10/202611100100069410006470",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "정웅인",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T19:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5QqyEnFxlRUXzRxx4AEXWdRM7qzcYWqh_izii2S1juCPDJVpoH5GeJHCN_4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘김춘추’ 김강우 “이 땅의 영웅호걸 만났죠”…KBS 대하사극 ‘문무’ [이런뉴스]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711232",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[사진]당나라 최초 여제 측천무후 최에빈",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/12/GRSTKOLGGRSTMNJSMZRDCNBQMM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "300억 대하사극 KBS '문무'…\"삼국통일 과정, 갈등의 시대 시사점\"",
+          "url": "https://www.yna.co.kr/view/AKR20261112155400005",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "약국",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T19:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "인근 약국 없는 군부대·공항에서 안전상비의약품 취급 등 의약품 접근성 개선",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456379",
+          "source": "서울Pn"
+        },
+        {
+          "title": "“공항·격오지 부대서 약 찾기 쉬워진다”… 복지부, 약사법 개정 추진",
+          "url": "https://www.kyeonggi.com/article/20261112580147",
+          "source": "경기일보"
+        },
+        {
+          "title": "약국 없는 군부대·공항서 상비약 취급 허용…군무원도 군의관 직접 조제 - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/12/2026111210273372085",
+          "source": "머니투데이"
         }
       ]
     }
