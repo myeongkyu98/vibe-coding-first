@@ -1,271 +1,271 @@
 {
-  "updatedAt": "2026-11-12T21:40:36.737Z",
+  "updatedAt": "2026-11-12T22:40:27.196Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 5
+      "category": "정치·사회",
+      "count": 4
     },
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 3
     },
     {
-      "category": "정치·사회",
-      "count": 1
+      "category": "기타",
+      "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "장례",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-12T20:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyO2DUpdfVzWcYmRGDkK5DGYctjfCZeHS4f0Ip-ziSoPnrmJpcoQ8K-BO3U7U",
+      "keyword": "สภาพอากาศ",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-12T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlwtf0kRExCB3xUvw9sQ_nlMUIt2-hHRs7CrBjnLKldP-enLYN8tjyRVKZBPw",
       "category": "기타",
       "news": [
         {
-          "title": "유재철 명장 “조문객보다 고인 중심 장례문화로 바뀌어야”",
-          "url": "https://www.sjnews.co.kr/news/articleView.html?idxno=75870",
-          "source": "상조장례뉴스"
+          "title": "เปิดรายชื่อ 16 จว. \"ภาคใต้\" เจอฝนกระหนํ่า \"เหนือ-อีสาน\" อากาศเย็นในตอนเช้า",
+          "url": "https://www.dailynews.co.th/news/6355366/",
+          "source": "เดลินิวส์"
         },
         {
-          "title": "가스공사, 대구파티마병원과 장례식장 다회용기 사용 본격 추진",
-          "url": "https://www.yna.co.kr/view/RPR20261112004100353",
-          "source": "연합뉴스"
+          "title": "สภาพอากาศวันที่ 14 -18 พ.ย.ใต้ฝนลด ไทยตอนบนอุณหภูมิสูงขึ้น ฝนฟ้าคะนอง",
+          "url": "https://www.thansettakij.com/general-news/673579",
+          "source": "Thansettakij"
         },
         {
-          "title": "인천시, 캠핑장·전통시장·장례식장까지 다회용기 보급 확대",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336396",
-          "source": "인천일보"
+          "title": "ประจำวันที่ 12 พฤศจิกายน 2569 23.00 น.",
+          "url": "https://www.tmd.go.th/forecast/daily/131120260000",
+          "source": "กรมอุตุนิยมวิทยา"
         }
       ]
     },
     {
-      "keyword": "삼성 우승 할인",
+      "keyword": "관광객",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-12T20:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG05idnXgiCLv6p5JdsVVEBZDUXUCNy4xtymsSIS1E0opfIRD1QlISiAZk-Bs",
-      "category": "스포츠",
+      "startedAt": "2026-11-12T21:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLjaT_BkzeGgiZ9mVVok2Cj1o9FgJT2DdBWlw37xmEDdzFTulRV97gEVGETS4",
+      "category": "기타",
       "news": [
         {
-          "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
-          "url": "https://www.news1.kr/industry/general-industry/6352149",
-          "source": "뉴스1"
+          "title": "방한 관광객 2000만 돌파… 대체불가 관광대국으로",
+          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12605000000&section_id=NCCD_CULTURE_TOTAL&content=&code_cd=&nPage=1&b_list=9&news_id=3a05e0c4-a8d7-4ee8-90a6-914c6a861c90",
+          "source": "K-공감"
         },
         {
-          "title": "에버랜드, 삼성라이온즈 우승 기념 팬 초청 행사…2000명과 'V9 데이트'",
-          "url": "https://www.etnews.com/20261112000325",
-          "source": "전자신문"
+          "title": "K-관광 새 역사…외국인 관광객 첫 2천만명 돌파",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611130542340bJ",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "'강민호 우승 공약 지킵니다' 팬 2000명과 함께 한국시리즈 우승 축하 파티",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/12/GYYDEZBZGYYDANTBMEYDMYJSGI/",
-          "source": "조선일보"
+          "title": "관광객 2천만 돌파...'K-문화' 업고 14년 만 두 배로",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611122023158039_005.html",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "시청률",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T19:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfSkblPRK65T0_HpQGn2499QzZIgagAOjuZH66rijtzSd7EnCjNF2E6gd1Lgg",
+      "keyword": "czechia vs spain",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T21:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0ONgZZNrcIwsMl7gWVKTgcxink9UPNMoizWYgJF_2lTP4ubIyv7uKaQbZFVM",
       "category": "스포츠",
       "news": [
         {
-          "title": "\"40시간 밤샘 촬영에 주먹다짐?\"…김윤석, 나홍진 감독과 불화설 해명 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111206010266536",
-          "source": "머니투데이"
+          "title": "Licensable picture: UEFA Nations League - Group A3 - Czech Republic v Spain",
+          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a3-czech-republic-v-spain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkMxSzIwM1M",
+          "source": "Reuters Connect"
         },
         {
-          "title": "김윤석 파워 이 정도였어? ‘유퀴즈’ 시청률 대폭 상승 ‘동시간대 1위’[美친시청률]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HA2DCODCGRSGMMLGGMYWCNTCGA/",
-          "source": "조선일보"
+          "title": "Confirmed: Barcelona duo start for Spain against Czechia",
+          "url": "https://sports.yahoo.com/articles/confirmed-barcelona-duo-start-spain-184900657.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "‘추격자’ 4885 비화…김윤석, 꽝 없는 예능 복귄 (유퀴즈)",
-          "url": "https://sports.donga.com/ent/article/all/20261112/135016531/1",
+          "title": "On video: Umbrose gifts Spain a bizarre penalty, and Pana shows no mercy",
+          "url": "https://www.goal.com/en/news/on-video-umbros-gifts-spain-a-bizarre-penalty-and-pina-shows-no-mercy/bltd65802f20692987b",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "keyword": "여자 복식",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T20:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxDY6Y_0x15ZKbtywNKJeAAlKMithkDHITt-a5os9vArier2hYSN5CMr2fie4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "세계랭킹 141위 김혜정-이연우, 세계 3위 일본 에이스조에 '깜짝승'",
+          "url": "https://www.newspim.com/news/view/20261112001474",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "“한국 선수들은 참고 또 참는다” 日 세계 3위, 안방서 충격패!…141위 김혜정-이연우에 0-2 완패→“김혜정, 한 번 잡으면 놓치질 않는다\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019559",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "김혜정-이연우, 덴트-라이 꺾고 구마모토 마스터스 女 복식 16강 진출…男 단식 유태빈, 전혁진도 본선 32강행 성공!",
+          "url": "https://sports.donga.com/sports/article/all/20261110/135000343/1",
           "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "italy vs france",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T20:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBAfXCJtV7MnPfMoahOV0FedRJnDeGupRiU6CV-LWC33c3C3MwHYpC4rbe1Ic",
-      "category": "스포츠",
+      "keyword": "단풍",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T20:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRot-kO-pqZP5YpPGHKDhoUyrtVp2D6CKof9eEgxjje4aetAxpzWp0lJjy6cS0",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "Italy vs France Confirmed Lineups",
-          "url": "https://www.whoscored.com/news/ujjWtd1BVUKVOheS9fiMig/show/cng112-20261112-italy-vs-france-confirmed-lineup-1794509176",
-          "source": "WhoScored.com"
+          "title": "“나이 먹고 뭐하는 짓” 단풍 맛집 갔다가 경악…결국 “더는 못 참아” [포착]",
+          "url": "https://seoul.co.kr/news/world/2026/11/12/20261112500074",
+          "source": "서울신문"
         },
         {
-          "title": "![ROJA-DIRECTA]!Italia - Francia In Diretta Streaming Gratis",
-          "url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz4KICAgIDxpbmNsdWRlIHVybD0iaHR0cHM6Ly9waXhpcmVlbC5jb20vZm94L3NwLnhtbCIvPgo8L2tycGFubz4=&id=video-italy-vs-france-lie-en-cuerg7e24",
-          "source": "日本取引所グループ"
-        },
-        {
-          "title": "LIVE BLOG: Italy vs France | UEFA Nations League",
-          "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/live-blog-italy-vs-france-uefa-nations-league-2026-11-12",
-          "source": "beIN SPORTS"
-        }
-      ]
-    },
-    {
-      "keyword": "이재영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T20:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoroNGy1xFKp0Cjwp2IrsczMc8EteCvrumKo0G8k1i0IEokqf_2a8nfMduE5E",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "이재영·이다영 소속팀 투란, 챔피언스리그 조별리그 첫 상대는 스칸디치",
-          "url": "https://mydaily.co.kr/page/view/2026111210385263939",
-          "source": "마이데일리"
-        },
-        {
-          "title": "이다영-이재영 선발 맹활약 미쳤다! 챔스리그 본선행 확정…투란 3-0 완승→이다영은 라인업 포스터 모델까지 [오피셜]",
-          "url": "https://m.news.nate.com/view/20261111n00732",
-          "source": "네이트"
-        },
-        {
-          "title": "\"사랑해요\" 이재영·이다영 '쌍둥이 자매' 유럽서 전한 근황",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747296",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "서승재",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T20:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRculAWD3eFhD8StKpCfcTtu1roCXbpv0PnSUdedtpWUc7dGWfyrS11b6GMiY0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "배드민턴 '세계 1위' 서승재-김원호, 116위 한국 신생 조에 덜미",
-          "url": "https://www.yna.co.kr/view/AKR20261112173600007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "배드민턴 남자 복식 세계 1위 서승재-김원호, 116위 진용-조송현 신생 복식조에 덜미",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113061907Tw2",
+          "title": "자작나무에 하트 새기며 훼손…화담숲 \"퇴장·법적 조치\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112100911nbK",
           "source": "연합뉴스TV"
         },
         {
-          "title": "'세계 1위가 116위에 무너졌다' 韓 남복 충격 이변...서승재-김원호, '신생 조' 진용-조송현에 덜미→\"덜 알려진 동료에게 패했다\"",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/13/MJRTAMJVMUYGCZBYGYYWCYZWGM/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "진양곤",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T20:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgO-dyUF2Rpi1my7aobDPE6cjqT9u76_2YAqBwTwFtfOF5Z7m9h2NJ2LlflnI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "진양곤 HLB 의장 \"두 번째 항암신약 허가 확신… 향남공장 글로벌 생산기지 육성\" - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/12/2026111210273886562",
+          "title": "\"천년의 사랑 하겠다고\"…화담숲 자작나무에 돌로 이름 새긴 커플 '눈살' - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/society/2026/11/12/2026111207475387334",
           "source": "머니투데이"
-        },
-        {
-          "title": "HLB제약, 550억 들여 신공장 짓는다…매출 1조원 도전",
-          "url": "https://stock.mk.co.kr/news/view/1196758",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "HLB제약, 550억 투입해 화성 新공장 짓는다…생산능력 3배",
-          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/12/HDZG6R6EURDU5CFRP43C5WBHAQ/",
-          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "돔 경기장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T20:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHF8l71NYvB0zhUlLEsqNFUZ88SWsIH1sFjTmXKvBtFmAqbdKGJsnQ8Xn_i78",
+      "keyword": "england vs croatia",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T21:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStItgo8QZsymFNASEgzq7coEKSnc4wNV9Iju3pE57qMb2a6DFJTq1o5hBqsdI",
       "category": "스포츠",
       "news": [
         {
-          "title": "정명근, 화성 미래 담을 5만석 ‘K-MARS’ 돔 유치 승부수",
-          "url": "https://www.donga.com/news/Society/article/all/20261112/135016534/1",
-          "source": "동아일보"
+          "title": "England 2-1 Croatia commentary",
+          "url": "https://www.skysports.com/football/live-blog/13611565/england-vs-croatia-live-nations-league-group-a3-commentary-updates-score-line-ups",
+          "source": "Sky Sports"
         },
         {
-          "title": "박병권 부천시의회 의장, 돔구장 유치로 부천 새 도약 강조",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721747",
-          "source": "뉴스타운"
+          "title": "England edge Croatia at Wembley as Modrić earns 207th cap",
+          "url": "https://www.croatiaweek.com/england-croatia-wembley-nations-league-modric/",
+          "source": "Croatia Week"
         },
         {
-          "title": "화성시 9천억 돔구장 추진… 수요·사업비 검증 과제",
-          "url": "https://www.kyeongin.com/article/1774631",
-          "source": "경인일보"
+          "title": "Jude Bellingham and Trent Alexander-Arnold feature in England’s win vs Croatia",
+          "url": "https://www.managingmadrid.com/real-madrid-cf-players/115373/jude-bellingham-and-trent-alexander-arnold-feature-in-englands-win-vs-croatia",
+          "source": "Managing Madrid"
         }
       ]
     },
     {
-      "keyword": "조선민주주의인민공화국",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T20:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0BmVYl8X8Eowp6bJhFT0gk_NBSFUlijImc6LX7WLQgTh6kb4VLxtctPRRlk0",
+      "keyword": "양도소득세",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T20:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS3yEVzrMQldACW42P1EwbLCt25FkRh-7KFtc6cQ1ZOnyY1MSPxYDfS_96L5Q",
       "category": "정치·사회",
       "news": [
         {
-          "title": "北 “핵보유국 지위, 서방 논의 대상 될수없어”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261113/135017602/2",
-          "source": "동아일보"
+          "title": "양도세 9억 추징, 단서는 교통카드 [이의신청]",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=579358",
+          "source": "조세일보"
         },
         {
-          "title": "G7, 北 러시아 군사지원 규탄‥\"파병 병력 철수하라\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865077_36925.html",
-          "source": "MBC 뉴스"
+          "title": "1세대 1주택 장기보유특별공제 개편안",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20356",
+          "source": "이투데이"
         },
         {
-          "title": "북한 최선희, G7 비핵화 촉구에 반발…“핵보유, 정당 주권행사”",
-          "url": "https://www.khan.co.kr/article/202611121946001",
-          "source": "경향신문"
+          "title": "[단독] 주담대 공제 ‘세대원 전원 실거주’에 국회 “과도”…정부 세제개편 곳곳서 제동 가능성",
+          "url": "https://www.sedaily.com/article/20112861",
+          "source": "서울경제"
         }
       ]
     },
     {
-      "keyword": "물류",
+      "keyword": "신진서",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-12T19:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHTfQ4W4fzJOQoW5QdsqovqGvZ31YSvbILgp2aB0RjxvbhVgTfvAYq8PmvaM4",
-      "category": "IT·과학",
+      "startedAt": "2026-11-12T21:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqjmIWJkWiD7wDCc0rA5tEri-uIWGgBe3seYaASEHG5p8Kn00FK0dpPRw00Q",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "국토부, 물류·기술기업 '협업의 장' 연다…1대1 매칭도",
-          "url": "https://www.yna.co.kr/view/AKR20261112156400003",
+          "title": "‘일본 킬러’ 신진서, 46전 전승 행진…삼성화재배 16강 진출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710110",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "신진서, 양딩신 꺾고 삼성화재배 월드바둑 8강 진출",
+          "url": "https://www.yna.co.kr/view/AKR20261111172151007",
           "source": "연합뉴스"
         },
         {
-          "title": "물류 현장에 로봇·AI 접목…국토부, 기술기업과 협업 연결",
-          "url": "https://www.newspim.com/news/view/20261112000991",
-          "source": "뉴스핌"
+          "title": "신진서 8강 진출…박정환·목진석은 '멈춤'",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532943&agree=2",
+          "source": "사이버오로"
+        }
+      ]
+    },
+    {
+      "keyword": "사고",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn8jcIlQeTocZU4PP6cT18PLPbv8WGEtpndRT49zIQZvK_ZmdWw2YNJj0hypU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "뉴욕 3층 건물 붕괴 8명 사망...워싱턴 DC 총격 6명 사상",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611130536479479_005.html",
+          "source": "YTN"
         },
         {
-          "title": "물류-기술 기업 매칭의 장 열린다…13일 밋업 개최",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864804",
-          "source": "뉴시스"
+          "title": "뉴욕서 대낮에 건물 붕괴…사망자 8명으로 늘어",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843991",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "‘뉴욕 브루클린 건물 붕괴’ 사망 8명으로 늘어…어린이 2명 포함",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711721",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "검사",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T21:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-47gz0luUwJWrfRIa0hOEecHIGOJOrkLA3oRjmSezDPRAsRsnwP-6bkHxuc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[단독]‘삼례 나라슈퍼 살인 누명’ 검사, 국가에 3억원 지급해야…법원 “진범 자백도 배척해 잘못”",
+          "url": "https://www.khan.co.kr/article/202611121633011",
+          "source": "경향신문"
+        },
+        {
+          "title": "27년 전 '삼례 3인조' 부실수사 검사 '국가에 구상금 지급' 판결",
+          "url": "https://www.yna.co.kr/view/AKR20261112180400004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘삼례 나라슈퍼 살인’ 진범 뭉갠 검사, 국가에 3억원 배상 판결",
+          "url": "https://www.donga.com/news/Society/article/all/20261112/135017436/1",
+          "source": "동아일보"
         }
       ]
     }
