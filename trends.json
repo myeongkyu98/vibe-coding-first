@@ -1,6 +1,10 @@
 {
-  "updatedAt": "2026-11-12T09:53:20.736Z",
+  "updatedAt": "2026-11-12T10:55:12.807Z",
   "summary": [
+    {
+      "category": "스포츠",
+      "count": 3
+    },
     {
       "category": "기타",
       "count": 3
@@ -10,77 +14,44 @@
       "count": 2
     },
     {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
       "category": "경제",
       "count": 1
     },
     {
       "category": "IT·과학",
       "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "남대문 스카프 아저씨!",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "keyword": "김승우",
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-12T07:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLA-C_lmj-cpGTWMZp_uRX847-G8ofXdIwx0ecUrOr9E1olFrQ5P3HfmviKnw",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5_myfMy1KpHoXgdATezUDM-Q6Eb04jX6kXOI_5CRhu1EbMeZT7lamgO5UMyQ",
       "category": "연예",
       "news": [
         {
-          "title": "경찰 출동에 경호원까지…‘남대문 임영웅’ 뭐길래, 유명 여배우도 찾아갔다",
-          "url": "https://www.mk.co.kr/news/hot-issues/12204120",
-          "source": "매일경제"
+          "title": "배우 김승우, 2200만 원 절도 혐의 피소…김승우 측 “장난이었고 이미 반환” 반박",
+          "url": "https://sports.khan.co.kr/article/202611121538003",
+          "source": "스포츠경향"
         },
         {
-          "title": "남대문 스카프 아저씨, 또 일냈다…온라인몰에 16만 명 몰리고 품절",
-          "url": "https://www.donga.com/news/Society/article/all/20261112/135014534/2",
-          "source": "동아일보"
+          "title": "김승우 측, 2200만 원 절도 혐의에 \"술자리 장난..수사기관에 소명\" (전문)[공식]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MNTGCMRZMIZDKNRQHA4GMMJSHE/",
+          "source": "조선일보"
         },
         {
-          "title": "\"그지 같은 스카프 언제 들어와유\"…남대문 스카프 아저씨 온라인몰 품절 대란",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865931",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "방화",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T07:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTPcVVIfoXWSVCRt5uSuygxhkOK1CtTlkAUBuD9QY-82fsl4ltv5ZRJ9G2DsI",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“위층 주민들 대피시키다…” 6층서 불났는데 13층 계단서 쓰러져 발견된 경비원",
-          "url": "https://www.khan.co.kr/article/202611121414001",
-          "source": "경향신문"
-        },
-        {
-          "title": "'경비원 중태·13명 부상' 아파트 방화범 \"죽고 싶어서\"",
-          "url": "https://www.yna.co.kr/view/AKR20261112162900054",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "\"아들이 불을 질렀다\"...70대 경비원 심정지·14명 병원 이송",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611110071",
-          "source": "KBC광주방송"
+          "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 ‘절도 혐의’ 피소",
+          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513574",
+          "source": "일요신문"
         }
       ]
     },
     {
       "keyword": "국제 a 매치",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-12T08:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsaNHRF-4XWGKxDLprx-WlUP_eh5UX4GQ110ka2EgNoRc8tWF6Vt2H3KTEjMA",
       "category": "스포츠",
@@ -116,39 +87,39 @@
           "source": "Chosunbiz"
         },
         {
-          "title": "이대 명예박사 된 디올 CEO…재계 인사 총출동",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112183333HxM",
-          "source": "연합뉴스TV"
-        },
-        {
           "title": "루이뷔통 회장 딸 학위식에 정의선, 신동빈, 지수…이부진은 ‘손하트’",
           "url": "https://www.donga.com/news/Economy/article/all/20261112/135014460/1",
           "source": "동아일보"
+        },
+        {
+          "title": "[포토] 디올 CEO 학위수여식 참석한 재계 인사들",
+          "url": "https://www.etnews.com/20261112000428",
+          "source": "전자신문"
         }
       ]
     },
     {
-      "keyword": "김승우",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-12T07:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTenfN94tPbiUlcbYon2_zB4oD3jJKl43Pgrxk4ZZXbgmGBP-IsDGytHay7f1Q",
-      "category": "연예",
+      "keyword": "박충권",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T09:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqMVOQOmBVqVRLR8saV4rWuroKPf_KqMReLItequW2Liab_PVJFuwna_u62ps",
+      "category": "기타",
       "news": [
         {
-          "title": "배우 김승우, 2200만원 절도 혐의 피소…“술자리 장난이었다”",
-          "url": "https://www.donga.com/news/Society/article/all/20261112/135016521/2",
-          "source": "동아일보"
+          "title": "정동영에 “북동영” 했다가…“탈충권” 역공 당한 박충권 [이런뉴스]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711136",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "배우 김승우 2200만원 절도 혐의로 고소당해...경찰 수사 중",
-          "url": "https://www.chosun.com/national/national_general/2026/11/12/J4R4ZLVOVFGRLLGUVLXBLJIHFA/",
-          "source": "조선일보"
+          "title": "탈북단체 \"통일부 '북향민' 호칭, 탈북민 정체성 부정\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261112058551504",
+          "source": "연합뉴스"
         },
         {
-          "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 ‘절도 혐의’ 피소",
-          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513574",
-          "source": "일요신문"
+          "title": "외통위, ‘북향민’ 용어 놓고 여야 정면충돌 \"北동영\" \"脫충권\"",
+          "url": "https://m.segye.com/view/20261112509985",
+          "source": "세계일보"
         }
       ]
     },
@@ -157,23 +128,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-12T08:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBHUozHyrVNuEVb7BmMT4e617C28sQM7hdHGPvNOXTg6CGeTq_9fhg14CAvAo",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAxhcwbUCQqfeJpsipKGZQkxanj8qIbFx3nGGSxligwMLNzm_UTvk5asSA3gU",
+      "category": "경제",
       "news": [
+        {
+          "title": "서울 아파트값 92주 연속 상승… 성동·강동구 하락 전환",
+          "url": "https://www.donga.com/news/Economy/article/all/20261112/135013768/1",
+          "source": "동아일보"
+        },
         {
           "title": "\"강남만 떨어지는 줄 알았는데\"…'이 동네'마저 집값 꺾였다",
           "url": "https://www.hankyung.com/article/202611122916i",
           "source": "한국경제"
         },
         {
-          "title": "강남발 집값 약세 한강벨트로…성동·강동 하락 전환",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112183935Q4k",
-          "source": "연합뉴스TV"
-        },
-        {
           "title": "“옥수동 래미안 한 달도 안 돼 4.8억 낮게 팔렸다”…기흥·영통은 급등",
           "url": "https://www.edaily.co.kr/News/Read?newsId=03526006645645064&mediaCodeNo=257",
           "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "성시경 콘서트",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T08:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGDeLe-BbeDGEO4qgRvSdVmjRXCWOO3KDoh562xrhYn9e9zSfc-qxhtGSUd8",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[단독] 성시경 막걸리, 세븐일레븐에 입점한다",
+          "url": "https://v.daum.net/v/8EZ9MejJcc",
+          "source": "Daum"
+        },
+        {
+          "title": "이번에도 '피켓팅'?! 성시경, 두근두근 연말 콘서트",
+          "url": "https://www.etnews.com/20261112000044",
+          "source": "전자신문"
+        },
+        {
+          "title": "한 해의 마지막 밤과 새해 첫 주말을 성시경과…연말 단독 콘서트 개최",
+          "url": "https://sports.donga.com/ent/article/all/20261112/135011760/1",
+          "source": "스포츠동아"
         }
       ]
     },
@@ -203,51 +199,11 @@
       ]
     },
     {
-      "keyword": "아르헨티나",
+      "keyword": "pakistan vs sri lanka",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-12T07:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMRK1SGWIG6OBrKV6A7eEnDVOKaJFkOp9Hwb3ENyKBEeIW0Qxi4KxZiypYn-s",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "두 개의 아르헨티나: 유전 대박과 실직한 가장들[딥다이브]",
-          "url": "https://www.donga.com/news/Economy/article/all/20261111/135005560/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "모르간스탠리, 아르헨티나 국채 매도세는 과도하다… 2027년 대선 이후 전망의 명암 : 남미동아뉴스 ; Paraguay Times",
-          "url": "https://newsk.net/py/?idx=175597117&bmode=view",
-          "source": "뉴스케이"
-        },
-        {
-          "title": "“성범죄자 56명 형기 줄이겠습니다”…우파 대통령, 역풍 제대로 맞았다",
-          "url": "https://www.mk.co.kr/news/world/12203274",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "인벤",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFClsYG38HZMOPvWY0Vha0UMgOMZUKq3GXuQH2Zlubpq6vKFaz1HGlRAspXE8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Lost Ark celebrates 8th anniversary with spooky event island",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1782950",
-          "source": "게임메카"
-        }
-      ]
-    },
-    {
-      "keyword": "pakistan vs sri lanka",
-      "traffic": "100+",
-      "trafficValue": 100,
       "startedAt": "2026-11-12T08:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4s4BZOkTNXN3YIPa9D2mGE41CMQSYHPibv39-9pCCL84ruNU6IK4Wzep74lk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnRw3_MsNi3h37UNPQPJPzijCOZK0W-dC4-gT5NTxRXeSfjRSlouIyrH0zV18",
       "category": "스포츠",
       "news": [
         {
@@ -264,6 +220,46 @@
           "title": "Ex-captain de Silva leads Sri Lanka to 221-4 on Day 3 of the 1st test against Pakistan",
           "url": "https://www.washingtonpost.com/sports/2026/11/11/cricket-pakistan-srilanka-wtc/507f698a-dda2-11f1-912c-4fbb80d73f7f_story.html",
           "source": "The Washington Post"
+        }
+      ]
+    },
+    {
+      "keyword": "김민식",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T09:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROCQncPkybFckPOrpxsgMm10sySLAFbuEYzJZof3guTCOzENTLw88xINsQJCc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "프로야구 SSG랜더스, 선수 및 코칭스태프 추가 재정비…재계약 불가 통보",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040763",
+          "source": "기호일보"
+        },
+        {
+          "title": "\"트레이드 카드 수차례 맞췄는데…\" 반지만 2개 우승 포수, 왜 방출 통보 받았나",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/12/GJQWEZLGGY2TAMBXMM3GKNJTGM/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "인벤",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFClsYG38HZMOPvWY0Vha0UMgOMZUKq3GXuQH2Zlubpq6vKFaz1HGlRAspXE8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Lost Ark celebrates 8th anniversary with spooky event island",
+          "url": "https://www.gamemeca.com/en/view.php?gid=1782950",
+          "source": "게임메카"
         }
       ]
     }
