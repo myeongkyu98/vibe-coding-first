@@ -1,131 +1,81 @@
 {
-  "updatedAt": "2026-11-12T20:43:27.752Z",
+  "updatedAt": "2026-11-12T21:40:36.737Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 4
+      "count": 5
     },
     {
       "category": "기타",
       "count": 3
     },
     {
-      "category": "연예",
-      "count": 2
+      "category": "정치·사회",
+      "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "잉글랜드 대 크로아티아",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T19:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZV1oq_c59PfCfC4xwI4xlg7dltHOgQtevSj7auOUHAEzGkk1A53KU3wh1n-Y",
-      "category": "스포츠",
+      "keyword": "장례",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-12T20:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyO2DUpdfVzWcYmRGDkK5DGYctjfCZeHS4f0Ip-ziSoPnrmJpcoQ8K-BO3U7U",
+      "category": "기타",
       "news": [
         {
-          "title": "잉글랜드 대 크로아티아 경기 예측, 11월 13일 오전 2시 45분: 잉글랜드, 8강 진출 확정",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-anh-vs-croatia-02h45-ngay-13-11-ve-tu-ket-cho-tam-su",
-          "source": "Vietnam.vn"
+          "title": "유재철 명장 “조문객보다 고인 중심 장례문화로 바뀌어야”",
+          "url": "https://www.sjnews.co.kr/news/articleView.html?idxno=75870",
+          "source": "상조장례뉴스"
         },
         {
-          "title": "네이션스 리그 잉글랜드 대 크로아티아 생중계 링크",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-anh-vs-croatia-tai-nations-league-1799266.ldo",
-          "source": "Laodong.vn"
+          "title": "가스공사, 대구파티마병원과 장례식장 다회용기 사용 본격 추진",
+          "url": "https://www.yna.co.kr/view/RPR20261112004100353",
+          "source": "연합뉴스"
         },
         {
-          "title": "7골 먹힌 것도 서러운데 또 만나야 한다!…월드컵 준우승국 크로아티아의 '0-7 대참사', 감독은 \"영원한 수치\"",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100676",
-          "source": "포포투"
+          "title": "인천시, 캠핑장·전통시장·장례식장까지 다회용기 보급 확대",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336396",
+          "source": "인천일보"
         }
       ]
     },
     {
-      "keyword": "전현무",
+      "keyword": "삼성 우승 할인",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-12T19:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1HhiIu50nab3ycqoUWwPAekRVAtE23eM9IzFTf-wAdN9v78OnNueVeDSZSDM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "조작 방송 전현무, 대국민 사과 “당분간 DM 안 보겠다”",
-          "url": "https://www.donga.com/news/Culture/article/all/20261112/135011588/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[MBN] 삼각지·을지로 골목에 숨은 노포 맛집들",
-          "url": "https://www.mk.co.kr/news/culture/12206570",
-          "source": "매일경제"
-        },
-        {
-          "title": "곽튜브 \"미혼 전현무, 결혼기념일에 대해 뭘 아냐\"",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865349",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "이탈리아 대 프랑스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T19:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGvCKiwQFVAYCn4OEfN6A690fhN70aA8RrG2fBUBW69UsiXhoWFqw7ZHJ4_eA",
+      "startedAt": "2026-11-12T20:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG05idnXgiCLv6p5JdsVVEBZDUXUCNy4xtymsSIS1E0opfIRD1QlISiAZk-Bs",
       "category": "스포츠",
       "news": [
         {
-          "title": "UEFA 네이션스리그: 몸값을 높이는 뛰어난 선수들",
-          "url": "https://sbotopkr.tistory.com/2670",
-          "source": "티스토리"
-        },
-        {
-          "title": "지단의 프랑스냐⋯ 만치니 이태리냐",
-          "url": "https://www.kmib.co.kr/article/20261111502064",
-          "source": "국민일보"
-        },
-        {
-          "title": "이탈리아 대 프랑스 경기 예측, 11월 13일 오전 2시 45분: 산 시로 요새를 무너뜨릴 것이다.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-italia-vs-phap-02h45-ngay-13-11-keo-sap-phao-dai-san-siro",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "체코 대 스페인",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T19:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpdykjNIazBKIAN7ztXpvzr5z2HJv7IwpM6tTLWeEr3nqyk3qEorbu1Appd9U",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "스페인 감독, 야말 특혜 논란에 발끈…\"거짓말과 날조 참을 수 없어\"",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6351283",
+          "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
+          "url": "https://www.news1.kr/industry/general-industry/6352149",
           "source": "뉴스1"
         },
         {
-          "title": "네이션스 리그 체코 대 스페인 축구 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-cong-hoa-czech-vs-tay-ban-nha-tai-nations-league-1799199.ldo",
-          "source": "Laodong.vn"
+          "title": "에버랜드, 삼성라이온즈 우승 기념 팬 초청 행사…2000명과 'V9 데이트'",
+          "url": "https://www.etnews.com/20261112000325",
+          "source": "전자신문"
         },
         {
-          "title": "야말·오야르사발, 네이션스리그 체코전 결장…무릎 통증·독감 여파",
-          "url": "https://www.etoday.co.kr/news/view/2646193",
-          "source": "이투데이"
+          "title": "'강민호 우승 공약 지킵니다' 팬 2000명과 함께 한국시리즈 우승 축하 파티",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/12/GYYDEZBZGYYDANTBMEYDMYJSGI/",
+          "source": "조선일보"
         }
       ]
     },
     {
       "keyword": "시청률",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-12T19:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfSkblPRK65T0_HpQGn2499QzZIgagAOjuZH66rijtzSd7EnCjNF2E6gd1Lgg",
-      "category": "연예",
+      "category": "스포츠",
       "news": [
         {
           "title": "\"40시간 밤샘 촬영에 주먹다짐?\"…김윤석, 나홍진 감독과 불화설 해명 - 머니투데이",
@@ -133,139 +83,189 @@
           "source": "머니투데이"
         },
         {
-          "title": "김윤석, 데뷔 38년 만에 첫 예능 출연…유재석 만난다",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863708",
-          "source": "뉴시스"
-        },
-        {
           "title": "김윤석 파워 이 정도였어? ‘유퀴즈’ 시청률 대폭 상승 ‘동시간대 1위’[美친시청률]",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HA2DCODCGRSGMMLGGMYWCNTCGA/",
           "source": "조선일보"
+        },
+        {
+          "title": "‘추격자’ 4885 비화…김윤석, 꽝 없는 예능 복귄 (유퀴즈)",
+          "url": "https://sports.donga.com/ent/article/all/20261112/135016531/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "김하성",
+      "keyword": "italy vs france",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-12T19:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPbdxEYayaDDnou4l6UZwGWRscTHzcjSLBUeNNxOhJVmZP-2nh4aZF00oDPeo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“필라델피아, FA 김하성 영입 검토…단기 계약 내야수 찾는다”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8708449",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "한국 돌아갈 일 없다! 타율 .116 최악의 해였는데…김하성 FA 인기 폭발 \"예상보다 높은 관심, 1년 계약 모색\"",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/13/MM4GIOBYGVRDMNBSGY2DAYZYGQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'김하성 시애틀 링크' 초대박! 가성비 선택지 3인 거론→3루수 활용 가능성까지…부상 없이 타격 생산성 회복 기대",
-          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100087870008295",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "전기",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T19:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD_ga7R_Ho5981zdZQupk2ph3skckJ2My2xTdAT5VuM8qN3cUAppPFl8UW70o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "한전, 3분기 영업익 1조6441억원…연료·전력구입비 늘어 전년比 71%↓",
-          "url": "https://edata.ekn.kr/article/view/ekn202611120009",
-          "source": "기후에너지데이터뱅크"
-        },
-        {
-          "title": "‘전쟁 쇼크’ 한전, 영업이익 70% 급감",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/13/T5PU3WX5GVD5LNGNVL64AG4J3Y/",
-          "source": "조선일보"
-        },
-        {
-          "title": "한전 13분기 연속 흑자에도…중동발 연료비 폭탄에 영업익 43% 급감",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04529686645645064",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "디에고 시메오네",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T19:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTStIeaoOSvOxsgWUSjS-RlAuagT5nS9uJDoEqgm9XGmHFfTEXX5YsllD-nGvU",
+      "startedAt": "2026-11-12T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBAfXCJtV7MnPfMoahOV0FedRJnDeGupRiU6CV-LWC33c3C3MwHYpC4rbe1Ic",
       "category": "스포츠",
       "news": [
         {
-          "title": "'이강인 포함 18명 이탈' ATM 또 대형악재! '훈련 정상진행 불가' 긴급 수혈…시메오네 한숨 깊어진다",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/10/GM2WIMBUMFRGCZTEGBTDGNDFHA/",
-          "source": "조선일보"
+          "title": "Italy vs France Confirmed Lineups",
+          "url": "https://www.whoscored.com/news/ujjWtd1BVUKVOheS9fiMig/show/cng112-20261112-italy-vs-france-confirmed-lineup-1794509176",
+          "source": "WhoScored.com"
         },
         {
-          "title": "'이강인 대표팀 다녀오더니 이상하다' 아틀레티코 현지서 집중 분석…'8경기 풀타임 0회·공격P 0개' 의문 폭발",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100687",
-          "source": "포포투"
+          "title": "![ROJA-DIRECTA]!Italia - Francia In Diretta Streaming Gratis",
+          "url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz4KICAgIDxpbmNsdWRlIHVybD0iaHR0cHM6Ly9waXhpcmVlbC5jb20vZm94L3NwLnhtbCIvPgo8L2tycGFubz4=&id=video-italy-vs-france-lie-en-cuerg7e24",
+          "source": "日本取引所グループ"
         },
         {
-          "title": "이강인 초대형 호재, 최고의 오피셜 뜬다...'명장' 시메오네 아틀레티코와 2년 재계약 유력 \"수 개월 내 공식발표\"",
-          "url": "https://www.sportschosun.com/football/2026-11-10/202611100100069410006470",
-          "source": "스포츠조선"
+          "title": "LIVE BLOG: Italy vs France | UEFA Nations League",
+          "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/live-blog-italy-vs-france-uefa-nations-league-2026-11-12",
+          "source": "beIN SPORTS"
         }
       ]
     },
     {
-      "keyword": "정웅인",
+      "keyword": "이재영",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T20:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoroNGy1xFKp0Cjwp2IrsczMc8EteCvrumKo0G8k1i0IEokqf_2a8nfMduE5E",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "이재영·이다영 소속팀 투란, 챔피언스리그 조별리그 첫 상대는 스칸디치",
+          "url": "https://mydaily.co.kr/page/view/2026111210385263939",
+          "source": "마이데일리"
+        },
+        {
+          "title": "이다영-이재영 선발 맹활약 미쳤다! 챔스리그 본선행 확정…투란 3-0 완승→이다영은 라인업 포스터 모델까지 [오피셜]",
+          "url": "https://m.news.nate.com/view/20261111n00732",
+          "source": "네이트"
+        },
+        {
+          "title": "\"사랑해요\" 이재영·이다영 '쌍둥이 자매' 유럽서 전한 근황",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747296",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "서승재",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-12T19:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5QqyEnFxlRUXzRxx4AEXWdRM7qzcYWqh_izii2S1juCPDJVpoH5GeJHCN_4",
+      "startedAt": "2026-11-12T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRculAWD3eFhD8StKpCfcTtu1roCXbpv0PnSUdedtpWUc7dGWfyrS11b6GMiY0",
       "category": "기타",
       "news": [
         {
-          "title": "‘김춘추’ 김강우 “이 땅의 영웅호걸 만났죠”…KBS 대하사극 ‘문무’ [이런뉴스]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711232",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[사진]당나라 최초 여제 측천무후 최에빈",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/12/GRSTKOLGGRSTMNJSMZRDCNBQMM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "300억 대하사극 KBS '문무'…\"삼국통일 과정, 갈등의 시대 시사점\"",
-          "url": "https://www.yna.co.kr/view/AKR20261112155400005",
+          "title": "배드민턴 '세계 1위' 서승재-김원호, 116위 한국 신생 조에 덜미",
+          "url": "https://www.yna.co.kr/view/AKR20261112173600007",
           "source": "연합뉴스"
+        },
+        {
+          "title": "배드민턴 남자 복식 세계 1위 서승재-김원호, 116위 진용-조송현 신생 복식조에 덜미",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113061907Tw2",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "'세계 1위가 116위에 무너졌다' 韓 남복 충격 이변...서승재-김원호, '신생 조' 진용-조송현에 덜미→\"덜 알려진 동료에게 패했다\"",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/13/MJRTAMJVMUYGCZBYGYYWCYZWGM/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "약국",
+      "keyword": "진양곤",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-12T19:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
+      "startedAt": "2026-11-12T20:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgO-dyUF2Rpi1my7aobDPE6cjqT9u76_2YAqBwTwFtfOF5Z7m9h2NJ2LlflnI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "진양곤 HLB 의장 \"두 번째 항암신약 허가 확신… 향남공장 글로벌 생산기지 육성\" - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/12/2026111210273886562",
+          "source": "머니투데이"
+        },
+        {
+          "title": "HLB제약, 550억 들여 신공장 짓는다…매출 1조원 도전",
+          "url": "https://stock.mk.co.kr/news/view/1196758",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "HLB제약, 550억 투입해 화성 新공장 짓는다…생산능력 3배",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/12/HDZG6R6EURDU5CFRP43C5WBHAQ/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "돔 경기장",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T20:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHF8l71NYvB0zhUlLEsqNFUZ88SWsIH1sFjTmXKvBtFmAqbdKGJsnQ8Xn_i78",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "정명근, 화성 미래 담을 5만석 ‘K-MARS’ 돔 유치 승부수",
+          "url": "https://www.donga.com/news/Society/article/all/20261112/135016534/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "박병권 부천시의회 의장, 돔구장 유치로 부천 새 도약 강조",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721747",
+          "source": "뉴스타운"
+        },
+        {
+          "title": "화성시 9천억 돔구장 추진… 수요·사업비 검증 과제",
+          "url": "https://www.kyeongin.com/article/1774631",
+          "source": "경인일보"
+        }
+      ]
+    },
+    {
+      "keyword": "조선민주주의인민공화국",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T20:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0BmVYl8X8Eowp6bJhFT0gk_NBSFUlijImc6LX7WLQgTh6kb4VLxtctPRRlk0",
       "category": "정치·사회",
       "news": [
         {
-          "title": "인근 약국 없는 군부대·공항에서 안전상비의약품 취급 등 의약품 접근성 개선",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456379",
-          "source": "서울Pn"
+          "title": "北 “핵보유국 지위, 서방 논의 대상 될수없어”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261113/135017602/2",
+          "source": "동아일보"
         },
         {
-          "title": "“공항·격오지 부대서 약 찾기 쉬워진다”… 복지부, 약사법 개정 추진",
-          "url": "https://www.kyeonggi.com/article/20261112580147",
-          "source": "경기일보"
+          "title": "G7, 北 러시아 군사지원 규탄‥\"파병 병력 철수하라\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865077_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "약국 없는 군부대·공항서 상비약 취급 허용…군무원도 군의관 직접 조제 - 머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/12/2026111210273372085",
-          "source": "머니투데이"
+          "title": "북한 최선희, G7 비핵화 촉구에 반발…“핵보유, 정당 주권행사”",
+          "url": "https://www.khan.co.kr/article/202611121946001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "물류",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T19:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHTfQ4W4fzJOQoW5QdsqovqGvZ31YSvbILgp2aB0RjxvbhVgTfvAYq8PmvaM4",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "국토부, 물류·기술기업 '협업의 장' 연다…1대1 매칭도",
+          "url": "https://www.yna.co.kr/view/AKR20261112156400003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "물류 현장에 로봇·AI 접목…국토부, 기술기업과 협업 연결",
+          "url": "https://www.newspim.com/news/view/20261112000991",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "물류-기술 기업 매칭의 장 열린다…13일 밋업 개최",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864804",
+          "source": "뉴시스"
         }
       ]
     }
