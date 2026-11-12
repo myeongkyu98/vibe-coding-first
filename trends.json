@@ -1,271 +1,279 @@
 {
-  "updatedAt": "2026-11-12T22:40:27.196Z",
+  "updatedAt": "2026-11-12T23:37:35.954Z",
   "summary": [
-    {
-      "category": "정치·사회",
-      "count": 4
-    },
     {
       "category": "스포츠",
       "count": 3
     },
     {
       "category": "기타",
-      "count": 2
+      "count": 3
     },
     {
-      "category": "생활·날씨",
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "สภาพอากาศ",
+      "keyword": "italy national football team vs france national football team standings",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-12T21:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlwtf0kRExCB3xUvw9sQ_nlMUIt2-hHRs7CrBjnLKldP-enLYN8tjyRVKZBPw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "เปิดรายชื่อ 16 จว. \"ภาคใต้\" เจอฝนกระหนํ่า \"เหนือ-อีสาน\" อากาศเย็นในตอนเช้า",
-          "url": "https://www.dailynews.co.th/news/6355366/",
-          "source": "เดลินิวส์"
-        },
-        {
-          "title": "สภาพอากาศวันที่ 14 -18 พ.ย.ใต้ฝนลด ไทยตอนบนอุณหภูมิสูงขึ้น ฝนฟ้าคะนอง",
-          "url": "https://www.thansettakij.com/general-news/673579",
-          "source": "Thansettakij"
-        },
-        {
-          "title": "ประจำวันที่ 12 พฤศจิกายน 2569 23.00 น.",
-          "url": "https://www.tmd.go.th/forecast/daily/131120260000",
-          "source": "กรมอุตุนิยมวิทยา"
-        }
-      ]
-    },
-    {
-      "keyword": "관광객",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T21:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLjaT_BkzeGgiZ9mVVok2Cj1o9FgJT2DdBWlw37xmEDdzFTulRV97gEVGETS4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "방한 관광객 2000만 돌파… 대체불가 관광대국으로",
-          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12605000000&section_id=NCCD_CULTURE_TOTAL&content=&code_cd=&nPage=1&b_list=9&news_id=3a05e0c4-a8d7-4ee8-90a6-914c6a861c90",
-          "source": "K-공감"
-        },
-        {
-          "title": "K-관광 새 역사…외국인 관광객 첫 2천만명 돌파",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611130542340bJ",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "관광객 2천만 돌파...'K-문화' 업고 14년 만 두 배로",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611122023158039_005.html",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "czechia vs spain",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-12T21:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0ONgZZNrcIwsMl7gWVKTgcxink9UPNMoizWYgJF_2lTP4ubIyv7uKaQbZFVM",
+      "startedAt": "2026-11-12T22:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrvHCEYkJh-Zgo2SR3R8IKGiBCOeH9QWGsZBinNR_nPP4h56cNAvzbll2dYbo",
       "category": "스포츠",
       "news": [
         {
-          "title": "Licensable picture: UEFA Nations League - Group A3 - Czech Republic v Spain",
-          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a3-czech-republic-v-spain/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkMxSzIwM1M",
+          "title": "Italy 3-1 France: Italy come from behind to beat Zidane's France",
+          "url": "https://www.bbc.com/sport/football/live/c3rrygq0z2y2t",
+          "source": "BBC"
+        },
+        {
+          "title": "Licensable picture: Italy v France, Nations League, Football",
+          "url": "https://www.reutersconnect.com/item/italy-v-france-nations-league-football/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZQUoyRDU",
           "source": "Reuters Connect"
         },
         {
-          "title": "Confirmed: Barcelona duo start for Spain against Czechia",
-          "url": "https://sports.yahoo.com/articles/confirmed-barcelona-duo-start-spain-184900657.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "On video: Umbrose gifts Spain a bizarre penalty, and Pana shows no mercy",
-          "url": "https://www.goal.com/en/news/on-video-umbros-gifts-spain-a-bizarre-penalty-and-pina-shows-no-mercy/bltd65802f20692987b",
-          "source": "Goal.com"
+          "title": "Zizou suffers first France loss as Italy celebrate 64-years first as they stun Les Bleus in comeback win",
+          "url": "https://football360.com.au/france-italy-highlights-uefa-nations-league/",
+          "source": "football360.com.au"
         }
       ]
     },
     {
-      "keyword": "여자 복식",
+      "keyword": "s&p 500",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-12T20:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxDY6Y_0x15ZKbtywNKJeAAlKMithkDHITt-a5os9vArier2hYSN5CMr2fie4",
+      "startedAt": "2026-11-12T22:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSStrg3CUAGyEnChMPXxxK5q19a0vLoMrBEXs6RmZN2SazNwrB2H4kPaOuoL1s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "U.S. stocks fall as Nvidia’s Huang resigns and oil prices surge",
+          "url": "https://biz.chosun.com/en/en-international/2026/11/13/EBVH636GXRHFZDZ5H45HPUYGBU/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "U.S. Stocks Fall Across the Board Amid Jensen Huang's Resignation and Surging Oil Prices",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844109",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "Nvidia’s Huang crisis hits a struggling chip comeback stuck below a giant wall: Chart of the Day",
+          "url": "https://finance.yahoo.com/markets/article/nvidias-boardroom-bombshell-hits-a-fragile-chip-rally-chart-of-the-day-110000355.html",
+          "source": "Yahoo Finance"
+        }
+      ]
+    },
+    {
+      "keyword": "skhy",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T22:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPscYfJ8goSpJRNUNT1Mim0SJ7HlNryB7aXBbZFaUX3ZMzQIvvS8vKdstUuw",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "SK Hynix Options Spot-On: On November 11th, 111.36K Contracts Were Traded, With 1.3 Million Open Interest",
+          "url": "https://news.futunn.com/en/post/1004219296/sk-hynix-options-spot-on-on-november-11th-111-36k",
+          "source": "富途牛牛"
+        },
+        {
+          "title": "SK hynix (NASDAQ:SKHY) Shares Climb 9.7% - Still a Buy?",
+          "url": "https://www.marketbeat.com/instant-alerts/price-sk-hynix-nasdaq-skhy-shares-climb-97-still-a-buy-2026-11-11/",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "SK hynix Stocks Climb 5.36% as Foreign Investors Pile Back Into AI Memory",
+          "url": "https://www.tradingview.com/news/gurufocus:0a48e141b094b:0-sk-hynix-stocks-climb-5-36-as-foreign-investors-pile-back-into-ai-memory/",
+          "source": "TradingView"
+        }
+      ]
+    },
+    {
+      "keyword": "라이언 와이스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T22:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKCNMfS7C2DMcmwydO8lwElbhy6T0bF2LGQjpgZOEnvZBy190-_HEIVnBaDlg",
       "category": "스포츠",
       "news": [
         {
-          "title": "세계랭킹 141위 김혜정-이연우, 세계 3위 일본 에이스조에 '깜짝승'",
-          "url": "https://www.newspim.com/news/view/20261112001474",
-          "source": "뉴스핌"
+          "title": "한화 복귀 왜 거부했나, 페디보다 좋은 대우라니…2년 최대 550만 달러, 선발 7명 빠져나간 SD '1호 영입'",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/12/MQ4WIODBMUYGEMJWMUYTMNZSHA/",
+          "source": "조선일보"
         },
         {
-          "title": "“한국 선수들은 참고 또 참는다” 日 세계 3위, 안방서 충격패!…141위 김혜정-이연우에 0-2 완패→“김혜정, 한 번 잡으면 놓치질 않는다\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019559",
-          "source": "SPOTV NEWS"
+          "title": "‘대전 예수’ 와이스, MLB 샌디에이고행…송성문과 한솥밥",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709870",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "김혜정-이연우, 덴트-라이 꺾고 구마모토 마스터스 女 복식 16강 진출…男 단식 유태빈, 전혁진도 본선 32강행 성공!",
-          "url": "https://sports.donga.com/sports/article/all/20261110/135000343/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "단풍",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-12T20:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRot-kO-pqZP5YpPGHKDhoUyrtVp2D6CKof9eEgxjje4aetAxpzWp0lJjy6cS0",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "“나이 먹고 뭐하는 짓” 단풍 맛집 갔다가 경악…결국 “더는 못 참아” [포착]",
-          "url": "https://seoul.co.kr/news/world/2026/11/12/20261112500074",
-          "source": "서울신문"
-        },
-        {
-          "title": "자작나무에 하트 새기며 훼손…화담숲 \"퇴장·법적 조치\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112100911nbK",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "\"천년의 사랑 하겠다고\"…화담숲 자작나무에 돌로 이름 새긴 커플 '눈살' - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/12/2026111207475387334",
+          "title": "\"ML 보장 때문에 계약\"...'73억 SD행' 와이스, 한화 제안 왜 뿌리칠 수밖에 없었나 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/12/202611120856771390O",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "england vs croatia",
+      "keyword": "영화",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-12T21:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStItgo8QZsymFNASEgzq7coEKSnc4wNV9Iju3pE57qMb2a6DFJTq1o5hBqsdI",
+      "startedAt": "2026-11-12T22:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHxU6wu2DKSa2hks3ZbXLEJU22xaPMXeL98G6cVrIJkqWmIRJ8TP28jLgRxYo",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[카드뉴스] 휴대폰 속 판도라의 상자?... 영화 ‘완벽한 타인’",
+          "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249477",
+          "source": "시선뉴스"
+        },
+        {
+          "title": "'폭설'이라더니 서늘함은 어디에…미스터리와 어긋난 온도 [영화있슈] - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/13/2026111217444764835",
+          "source": "머니투데이"
+        },
+        {
+          "title": "패셔니스타는 달라 고경표,’찢어진 곳이 더 많은 청바지’ [O! STAR 숏폼]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/ME2GENBQMZRWEOBVGFSDINRTGQ/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "ionq",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQE7QBF7RbB-rfEXLGmsu9Vds93RHNvwSsfL1cPQPQGgc4AYjknA0Zq95Zq2Tc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "IonQ Beat and Raised. Can the Quantum Stock Buck the Tech Selloff?",
+          "url": "https://247wallst.com/investing/2026/11/06/ionq-beat-and-raised-can-the-quantum-stock-buck-the-tech-selloff/",
+          "source": "24/7 Wall St."
+        },
+        {
+          "title": "Revenue, GAAP EPS and Adjusted EPS All Exceed Consensus Estimates*",
+          "url": "https://www.ionq.com/news/ionq-announces-record-3q26-revenues-and-raises-fy2026-guidance-to-505---515-million-as-backlog-grows-to-1-2-billion",
+          "source": "IonQ"
+        },
+        {
+          "title": "IonQ Slides as Investors Digest Strong Q3 Results and Recent Analyst Target Cuts",
+          "url": "https://www.quiverquant.com/news/IonQ+Slides+as+Investors+Digest+Strong+Q3+Results+and+Recent+Analyst+Target+Cuts",
+          "source": "Quiver Quantitative"
+        }
+      ]
+    },
+    {
+      "keyword": "나스닥 지수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T22:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNcgZkicgRtLOHsM0RUJ3WN6yXEzXOlMP4w8_skZe6EBU29IWkqUIbHgZznNc",
+      "category": "경제",
+      "news": [
+        {
+          "title": "코어위브가 불 지폈다, 뉴욕증시 일제히 상승",
+          "url": "https://story.pay.naver.com/content/3937_2_C1",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "코어위브가 되살린 AI 랠리…마이크론 12% 폭등, 코스피 반등 이어질까 [오늘 아침 당신이 알아야 할 7가지]",
+          "url": "https://www.hankyung.com/article/202611121547i",
+          "source": "한국경제"
+        },
+        {
+          "title": "[뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은? - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/12/2026111212337067771",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "이승엽",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T22:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlogPJAEJGKtsfbAjy_cb7jc19oWSxAkOPI_Q4CB9QkxUEqrzRwAauHvh28KQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "England 2-1 Croatia commentary",
-          "url": "https://www.skysports.com/football/live-blog/13611565/england-vs-croatia-live-nations-league-group-a3-commentary-updates-score-line-ups",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "England edge Croatia at Wembley as Modrić earns 207th cap",
-          "url": "https://www.croatiaweek.com/england-croatia-wembley-nations-league-modric/",
-          "source": "Croatia Week"
-        },
-        {
-          "title": "Jude Bellingham and Trent Alexander-Arnold feature in England’s win vs Croatia",
-          "url": "https://www.managingmadrid.com/real-madrid-cf-players/115373/jude-bellingham-and-trent-alexander-arnold-feature-in-englands-win-vs-croatia",
-          "source": "Managing Madrid"
-        }
-      ]
-    },
-    {
-      "keyword": "양도소득세",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T20:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRS3yEVzrMQldACW42P1EwbLCt25FkRh-7KFtc6cQ1ZOnyY1MSPxYDfS_96L5Q",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "양도세 9억 추징, 단서는 교통카드 [이의신청]",
-          "url": "https://m.joseilbo.com/news/view.htm?newsid=579358",
-          "source": "조세일보"
-        },
-        {
-          "title": "1세대 1주택 장기보유특별공제 개편안",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20356",
-          "source": "이투데이"
-        },
-        {
-          "title": "[단독] 주담대 공제 ‘세대원 전원 실거주’에 국회 “과도”…정부 세제개편 곳곳서 제동 가능성",
-          "url": "https://www.sedaily.com/article/20112861",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "신진서",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T21:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqjmIWJkWiD7wDCc0rA5tEri-uIWGgBe3seYaASEHG5p8Kn00FK0dpPRw00Q",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘일본 킬러’ 신진서, 46전 전승 행진…삼성화재배 16강 진출",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710110",
+          "title": "잠실에서 시작해 잠실에서 끝, 국민타자 이승엽의 특급 귀환",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711767",
           "source": "KBS 뉴스"
         },
         {
-          "title": "신진서, 양딩신 꺾고 삼성화재배 월드바둑 8강 진출",
-          "url": "https://www.yna.co.kr/view/AKR20261111172151007",
-          "source": "연합뉴스"
+          "title": "김도영 日서 난리라면서요? 이승엽 전 감독 직접 인증했다! \"韓레벨 아냐…모르는 스태프 없다\" [SS시선집중]",
+          "url": "https://m.news.nate.com/view/20261111n21038",
+          "source": "네이트"
         },
         {
-          "title": "신진서 8강 진출…박정환·목진석은 '멈춤'",
-          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532943&agree=2",
-          "source": "사이버오로"
+          "title": "“김도영 AG 출전하지 않았다면 50홈런 쳤다…MVP 유력후보” 韓 슈퍼스타 향한 세계적인 관심",
+          "url": "https://mydaily.co.kr/page/view/2026111203283510177",
+          "source": "마이데일리"
         }
       ]
     },
     {
-      "keyword": "사고",
+      "keyword": "한국전력공사",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-12T21:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn8jcIlQeTocZU4PP6cT18PLPbv8WGEtpndRT49zIQZvK_ZmdWw2YNJj0hypU",
-      "category": "정치·사회",
+      "startedAt": "2026-11-12T22:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsHCkvdXhOEsvM9GRQcPD-kQng-bBnkhlttsMqZt2_TFP5-DPiZOI_cR3LMA4",
+      "category": "기타",
       "news": [
         {
-          "title": "뉴욕 3층 건물 붕괴 8명 사망...워싱턴 DC 총격 6명 사상",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611130536479479_005.html",
-          "source": "YTN"
+          "title": "한전, 3분기 누계 영업익 43% 급감…4분기 적자 우려↑",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374700",
+          "source": "전기신문"
         },
         {
-          "title": "뉴욕서 대낮에 건물 붕괴…사망자 8명으로 늘어",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843991",
-          "source": "SBS 뉴스"
+          "title": "한국전력, 탄소배출 비용 증가 등 단기 수익성 우려…목표가↓-IBK",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02286166645645392",
+          "source": "마켓인"
         },
         {
-          "title": "‘뉴욕 브루클린 건물 붕괴’ 사망 8명으로 늘어…어린이 2명 포함",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711721",
-          "source": "KBS 뉴스"
+          "title": "한전 3분기 누적 영업익 6.6조원…연료비 상승에 43% 급감",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112151335xqB",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "검사",
+      "keyword": "위조품",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-12T21:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-47gz0luUwJWrfRIa0hOEecHIGOJOrkLA3oRjmSezDPRAsRsnwP-6bkHxuc",
+      "startedAt": "2026-11-12T22:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn6rYui1V1GwzgjuWsKP8_fw1JSbian8AzgjLjF4jYZejtkGdZRBPPHUAJS_4",
       "category": "정치·사회",
       "news": [
         {
-          "title": "[단독]‘삼례 나라슈퍼 살인 누명’ 검사, 국가에 3억원 지급해야…법원 “진범 자백도 배척해 잘못”",
-          "url": "https://www.khan.co.kr/article/202611121633011",
-          "source": "경향신문"
+          "title": "부총리는 밀수, 위조품 제조 및 거래, 그리고 금지 물품 거래와 관련된 사건들을 엄격히 처벌하도록 지시했다.",
+          "url": "https://www.vietnam.vn/ko/pho-thu-tuong-thuong-truc-chi-dao-xet-xu-nghiem-cac-vu-an-ve-buon-lau-san-xuat-buon-ban-hang-gia-hang-cam",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "27년 전 '삼례 3인조' 부실수사 검사 '국가에 구상금 지급' 판결",
-          "url": "https://www.yna.co.kr/view/AKR20261112180400004",
-          "source": "연합뉴스"
+          "title": "호치민시, 10개월 동안 6,000건 이상의 상품 위반 사례 처리",
+          "url": "https://ko.laodong.vn/kinh-doanh/tphcm-xu-ly-hon-6000-vu-vi-pham-ve-hang-hoa-trong-10-thang-1799330.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "‘삼례 나라슈퍼 살인’ 진범 뭉갠 검사, 국가에 3억원 배상 판결",
-          "url": "https://www.donga.com/news/Society/article/all/20261112/135017436/1",
-          "source": "동아일보"
+          "title": "2026년 11월 12일자 정부 및 총리의 지침 및 명령.",
+          "url": "https://www.vietnam.vn/ko/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-12-11-2026",
+          "source": "Vietnam.vn"
         }
       ]
     }
