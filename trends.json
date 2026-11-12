@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12T04:52:42.814Z",
+  "updatedAt": "2026-11-12T05:55:44.591Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "정치·사회",
-      "count": 3
+      "count": 5
     },
     {
       "category": "스포츠",
       "count": 3
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     },
     {
       "category": "IT·과학",
@@ -19,6 +19,31 @@
     }
   ],
   "items": [
+    {
+      "keyword": "장기 이식",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-12T04:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYf7Xl9m0IFlUncJ3LDI4eL-hPbPnIAyTDrVjSd7nc7_6xYE9AzHJJRtIHPE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"아내는 이식 기다리다 숨졌는데\"…남편은 3명에 새 생명 선물",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611120033",
+          "source": "KBC광주방송"
+        },
+        {
+          "title": "아내는 끝내 못 받은 이식…남편은 3명 살리고 아내 곁으로 [아살세]",
+          "url": "https://www.kmib.co.kr/article/20261112500603",
+          "source": "국민일보"
+        },
+        {
+          "title": "폐 이식 기다리다 떠난 아내…남편은 장기기증후 아내 곁으로",
+          "url": "https://www.donga.com/news/Society/article/all/20261112/135012696/2",
+          "source": "동아일보"
+        }
+      ]
+    },
     {
       "keyword": "장례",
       "traffic": "2000+",
@@ -33,71 +58,46 @@
           "source": "연합뉴스"
         },
         {
-          "title": "인천광역시, 일상 속 자원순환 확산 강화",
-          "url": "https://www.metroseoul.co.kr/article/20261110500440",
-          "source": "메트로신문"
-        },
-        {
           "title": "인천시, 캠핑장·전통시장·장례식장까지 다회용기 보급 확대",
           "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336396",
           "source": "인천일보"
+        },
+        {
+          "title": "목포시, 의료원 장례식장에 다회용기 도입…친환경 장례문화 확산",
+          "url": "https://sports.donga.com/region/article/all/20261111/135003177/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "소방",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-12T02:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBqVk602VpR4B0DPAUjlXE7M83bJql23cBMV3ggfLYJAv5NUdXrPER2WfvzUc",
-      "category": "정치·사회",
+      "keyword": "스타벅스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T04:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmhyllD1oS_NCIwZwysScWB53eF45eJSlfKOuDYpCM-e4HxwYzW0dKN9UHbhw",
+      "category": "기타",
       "news": [
         {
-          "title": "동두천소방서 30년 이상 장기근속 소방공무원 공로패 수여",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336637",
-          "source": "인천일보"
-        },
-        {
-          "title": "전남광주소방, 광산구 폐기물업체 화재 '상황관리 검토회의' 개최 - 보도자료 | 기사",
-          "url": "https://news.tf.co.kr/read/releasecopy/2388035.htm",
-          "source": "더팩트"
-        },
-        {
-          "title": "\"폐목재 756톤 쌓인 곳서 불\"…14시간 만에 완진",
-          "url": "https://www.ikbc.co.kr/%EC%82%AC%ED%9A%8C/article/view/kbc202611100029",
-          "source": "KBC광주방송"
-        }
-      ]
-    },
-    {
-      "keyword": "apbc 중계",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFjizzJkOKSuOr4oN7yy541_6xk09laFkUUMFTo0fExvNq9k1uSyfdPFJMjJk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "슈퍼스타 김도영, 도쿄돔을 휘저어라…12일 호주와 APBC 첫 경기",
-          "url": "https://www.yna.co.kr/view/AKR20261111095900007",
+          "title": "'탱크데이' 여파 못 헤쳐나온 스타벅스, 2개 분기 연속 적자",
+          "url": "https://www.yna.co.kr/view/AKR20261111145400030",
           "source": "연합뉴스"
         },
         {
-          "title": "선발 전환하자마자 국제대회까지…韓 우승 길목에서 중책 맡았다 \"SSG 위상 높이려면 우리가 잘해야\" [오!쎈 도쿄] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/202611121111771013O",
+          "title": "'본업집중' 이마트, 분기매출 첫 5조 돌파 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/12/2026111119550842127",
           "source": "머니투데이"
         },
         {
-          "title": "컴투스, '2026 아시아 프로야구 챔피언십' 한국 대표팀 공식 후원",
-          "url": "https://zdnet.co.kr/view/?no=20261111140130",
-          "source": "지디넷코리아"
+          "title": "스타벅스, 프리퀀시 공백에 3분기 영업손실…매출은 회복세",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444206",
+          "source": "연합인포맥스"
         }
       ]
     },
     {
       "keyword": "포틀랜드 대 오클라호마시티",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-12T03:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQofBAGkgmhMvoR4ws2VP6jznf9hEWNVfQBs_AwT8kmc9TuLwDBRr3z3IC9c9I",
       "category": "기타",
@@ -120,22 +120,72 @@
       ]
     },
     {
+      "keyword": "sk쉴더스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T04:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRifxmL7XzTM2n535CrEakUvJPkJAhU3oX1pdLf5Vl8umUkUvMQAJAQVYz1F-M",
+      "category": "기타",
+      "news": [
+        {
+          "title": "SK쉴더스, 희망퇴직 실시…조직·인력 재정비",
+          "url": "https://www.newsis.com/view/NISX20261111_0003864432",
+          "source": "뉴시스"
+        },
+        {
+          "title": "SK쉴더스 희망퇴직 실시…영업·출동·사이버보안 직군 제외",
+          "url": "https://www.ddaily.co.kr/page/view/2026111114433387778",
+          "source": "디지털데일리"
+        },
+        {
+          "title": "SK쉴더스, 조직·인력 재정비 착수…희망퇴직 실시",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=678366",
+          "source": "블로터"
+        }
+      ]
+    },
+    {
+      "keyword": "빙하",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-12T04:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkxPO4oMlpuJbJaJ2HCnRxvaGcS4DSI5efVXAVumITWFcvA6SNcljbxGIlXdU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "모두 잠든 새벽 아기와 엄마가 휩쓸려갔다…“빙하홍수는 실존 공포”",
+          "url": "https://www.hani.co.kr/arti/society/environment/1286917.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "“안데스가 위험해”…한국 외교관이 출동했다, 왜? [런치정치]",
+          "url": "https://ichannela.com/news/detail/000000558847.do",
+          "source": "채널A"
+        },
+        {
+          "title": "안데스 산맥 빙하호 범람·산사태 우려…재외국민 안전대책 점검",
+          "url": "http://www.acn-news.com/news/articleView.html?idxno=13260",
+          "source": "ACN아시아콘텐츠뉴스"
+        }
+      ]
+    },
+    {
       "keyword": "이건희",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-12T03:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk7S_ceL05wbBS2W9fzmhbrdOOi3-VicsspNOQQB_mlbGILMvT6eCIsgmOMqc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwai4NAi8JABJJ6i60hjmf514Bjrm5fMcx2XoYlEV8c6VLWPJyuFirg2oT80Q",
       "category": "IT·과학",
       "news": [
-        {
-          "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
-          "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1",
-          "source": "신동아"
-        },
         {
           "title": "[fn광장] 생각 좀 하며 세상을 보자",
           "url": "https://www.fnnews.com/news/202611111824059783",
           "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
+          "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1",
+          "source": "신동아"
         },
         {
           "title": "[매일 탑 리더스 아카데미] 허문명 동아일보 논설위원 '고 이건희 삼성 회장, 반도체 위해 경제 사상을 정립했다'",
@@ -149,9 +199,14 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-12T03:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz326DjAd4VvgaBDROMWd9lmEj8ZvTgMUxILsifzEACfiMsHyGnq9ueFRYwRQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_CdBLSPeahW_9EZTzdFrd0fePMrD858hzRdmPzSAeZ0MfpLD5gf76xcpur0s",
       "category": "스포츠",
       "news": [
+        {
+          "title": "LG 오스틴 딘, 200만 달러에 2027시즌 재계약...외국인 타자 역대 최고액",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/12/3CYCKO276ZDUBPAVZ2BOPYM2VU/",
+          "source": "조선일보"
+        },
         {
           "title": "프로야구 LG, 오스틴 딘과 재계약‥역대 외국인 타자 최고 연봉",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6865096_36946.html",
@@ -161,97 +216,58 @@
           "title": "41홈런 거포 오스틴, LG와 200만 달러에 재계약…외인 타자 최고 대우",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8710827",
           "source": "KBS 뉴스"
-        },
-        {
-          "title": "프로야구 LG, 오스틴과 1년 더…KBO 외인 타자 중 ’최고 금액’",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611121048062DD",
-          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "ssg 랜더스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROCQncPkybFckPOrpxsgMm10sySLAFbuEYzJZof3guTCOzENTLw88xINsQJCc",
+      "keyword": "rockets vs warriors",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T04:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-38OaYpHK2HOpNUDMh_tEVOI7Nbxz97not60g1JxVY2_CMup8eJjJ-hIxCyQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823",
-          "source": "KBS 뉴스"
+          "title": "Stephen Curry injured versus Rockets",
+          "url": "https://www.nba.com/news/stephen-curry-out-abdominal-soreness",
+          "source": "NBA.com"
         },
         {
-          "title": "[공식발표] ‘SK→KIA→SSG’ 37살 우승 포수 전격 방출…‘고작 30살’ 거포 유망주 은퇴 선언 ‘SSG 선수단 칼바람’",
-          "url": "https://biz.chosun.com/sports/baseball/2026/11/12/MJSGEZRWMEYGEMLCMQ2DOOJZGY/",
-          "source": "Chosunbiz"
+          "title": "Rockets 115-108 Warriors (Nov 11, 2026) Game Recap",
+          "url": "https://www.espn.com/nba/recap?gameId=401909974",
+          "source": "ESPN"
         },
         {
-          "title": "[프로야구] SSG '우승포수' 김민식 방출…류효승·길지석 은퇴 결정",
-          "url": "https://www.newspim.com/news/view/20261112000509",
-          "source": "뉴스핌"
+          "title": "NBA suffers double injury scare as Steph Curry and Luka Doncic exit their respective games",
+          "url": "https://www.basketballnetwork.net/latest-news/nba-suffers-double-injury-scare-as-steph-curry-and-luka-doncic-exit-their-respective-games",
+          "source": "Basketball Network"
         }
       ]
     },
     {
-      "keyword": "교장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T02:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIadp0OdBvQtl_UgNJ6LbyRXCNw125KI2sYvNAOzpG9tNjBph8vt4ZKJVQulA",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "교장 신분으로 정책국장에 부교육감 대리까지…장연국 도의원 “법적 근거 뭐냐”",
-          "url": "https://www.jjan.kr/article/20261111500426",
-          "source": "전북일보 인터넷신문"
-        },
-        {
-          "title": "\"교장 신분 정책국장이 부교육감 직무대리?\"…전북교육청 질타",
-          "url": "https://www.yna.co.kr/view/AKR20261111131500055",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'행감 공부 안한' 전북교육청…뿔난 전북도의회",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863620",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "김현지",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T02:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZ8zEaaR7JyiIiXPLiEPO-9A1JfuVYxdeaBNsE7xlAPf7SlhaUm1K22LP1I08",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "장동혁, 이용철에 이념 공세 \"이석기와 연결‥등골이 오싹\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865105_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[단독]이용철, 성남진흥재단대표 취임후 ‘대장동·위례’ 육성 사업으로 명시",
-          "url": "https://www.munhwa.com/article/11630848",
-          "source": "문화일보"
-        },
-        {
-          "title": "정점식 \"법무장관 기준 1순위가 '탈옥 도우미 능력' 돼버려\"",
-          "url": "https://www.yna.co.kr/view/AKR20261112053800001",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "담배값 인상",
+      "keyword": "베트남 u-23 축구 국가대표팀",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-12T03:20:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "startedAt": "2026-11-12T04:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA5P72tndViRnQaQa0HjlAJDp3KaHpKNugEWw1VqV8BHBhHazQ5XBcOYzmLlg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "송람응에안 선수가 태국 U23 대표팀과의 경기에서 인상적인 활약을 펼쳤습니다.",
+          "url": "https://www.vietnam.vn/ko/cau-thu-song-lam-nghe-an-ghi-dau-an-truoc-u23-thai-lan",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "U23 베트남 공격수, 태국전 멀티골 후 특별한 의미 공개",
+          "url": "https://ko.laodong.vn/the-thao/tien-dao-u23-viet-nam-tiet-lo-y-nghia-dac-biet-sau-cu-dup-vao-luoi-thai-lan-1798264.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "HAGL의 젊은 스타가 눈부시게 빛나고 있다: 듀크 회장의 20년 이상 축구계에 몸담은 공로가 드러난다.",
+          "url": "https://www.vietnam.vn/ko/sao-tre-hagl-ruc-sang-dau-an-lam-bong-da-hon-hai-thap-ky-cua-bau-duc",
+          "source": "Vietnam.vn"
+        }
+      ]
     }
   ]
 }
