@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T23:43:19.448Z",
+  "updatedAt": "2026-11-12T00:58:27.364Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 3
     },
     {
       "category": "스포츠",
@@ -14,246 +14,257 @@
       "count": 2
     },
     {
-      "category": "IT·과학",
-      "count": 1
+      "category": "연예",
+      "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "3 루수",
+      "keyword": "이재 아",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-11T22:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1RzwymR6TTgO1PpCeaLBoWZK0bF_uyZSlAL7TZxNiESzxC6rTVyA1KNouHE",
+      "startedAt": "2026-11-11T23:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHt0wJ4NSGuFjsL6aMYXHachP6MR1XumDU2wb7SP17BA-Y8_epOByR2Y7Ed7Y",
       "category": "스포츠",
       "news": [
         {
-          "title": "노시환과 메츠 워싱턴 코치의 한화 시절 인연, 미국 현지서 화제",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709600",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "‘MLB 도전’ 노시환, 뉴욕 메츠 새 타격코치와의 인연도 ‘눈길’",
-          "url": "https://www.donga.com/news/Sports/article/all/20261111/135005364/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "'노시환, 홈런왕 롤리와 한솥밥 먹나' 시애틀 3루수 보강 후보로 등장…美 현지 매체 주목 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/10/202611100941775695O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "박동원",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-11T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe3SUQ7gd4-iqBPctMuihR8hoauE7_3efUcsgiPR34TZbrrkbry0XFkD-SN2Q",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "\"꼭 잡겠다\" 왜 얘기 못하나...분위기가 심상치 않다, FA 포수 대격변 일어날까",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/11/ME3GMMLBMU3GIYJXGUYTAZBYG4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "구자욱·원태인만 있나…최지훈·홍창기·박동원까지 'FA 대어' 즐비",
-          "url": "https://www.news1.kr/sports/baseball/6349521",
-          "source": "뉴스1"
-        },
-        {
-          "title": "구자욱 예상 몸값 200억 상회하나… ‘모두의 구자욱’ 게임, 역대급 전쟁 시작된다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019086",
-          "source": "SPOTV NEWS"
-        }
-      ]
-    },
-    {
-      "keyword": "미라 안드레예바",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-11T22:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqVBnQiY779DZQZrUlNTRzF3gb67wBK7FgiqTETBw00r_rcm5mtW1O0jPKQSI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
-          "url": "https://www.yna.co.kr/view/AKR20261110138000007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
-          "url": "https://www.newsis.com/view/NISI20261110_0002288184",
+          "title": "'전희철 딸' 전지우, 연예인급 미모 \"이대 무용과 수석\"",
+          "url": "https://www.newsis.com/view/NISX20261111_0003864567",
           "source": "뉴시스"
         },
         {
-          "title": "리바키나도 최종전 기권…선수협회 \"선수들 몸이 버티지 못한다\"",
-          "url": "https://www.news1.kr/sports/general-sport/6349598",
+          "title": "이동국 딸 재아, '아시아 1위' 테니스 관뒀다…\"골프 선수 전향\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111208245934442",
+          "source": "머니투데이"
+        },
+        {
+          "title": "이종혁·전희철, 진짜 겹사돈 되나..이준수·전지우, 쌍방 호감→데이트 '핑크빛'[핫피플]",
+          "url": "https://www.koreadaily.com/article/20261111055418394",
+          "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "산",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-11T23:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9nxkPEp7Go83rBzghgazVt3rLbOGptoSHBTlnQvpyi5XOx4ba3HGkZMRl_34",
+      "category": "경제",
+      "news": [
+        {
+          "title": "김동현이 100억에 산 압구정 H, \"150억 가치\" 기대 뒤 숨은 '20억 복병'",
+          "url": "https://www.newsis.com/view/NISX20261111_0003864485",
+          "source": "뉴시스"
+        },
+        {
+          "title": "김동현, 100억에 산 아파트 88억 됐다…김구라 \"코인으로 까먹고 또\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111208022850728",
+          "source": "머니투데이"
+        },
+        {
+          "title": "김동현 100억에 산 압구정 아파트, 88억까지 하락…\"재건축 후 150억 예상\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6351253",
           "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "암호화폐",
+      "keyword": "하지원",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-11T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt49KDZjBHczI4Gm7OqohWiQNRqd8n3u8vTI5P109yhpsgClJsrnvBtApwNzg",
+      "category": "연예",
+      "news": [
+        {
+          "title": "하지원, 유니세프 TV 캠페인 재능기부… 전 세계 어린이 생명 살리기 동참",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447722",
+          "source": "천지일보"
+        },
+        {
+          "title": "배우 하지원, 유니세프 재능기부… “무엇이라도 돕고파”",
+          "url": "https://sports.khan.co.kr/article/202611111309003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "하지원, 유니세프 TV 캠페인에 재능기부…분쟁·영양실조 아동 돕는다",
+          "url": "https://www.fnnews.com/news/202611111637212410",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "kimberly powell",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-11T22:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDKCVVyUCCYyYSrjxTpqYVH7wwROEBvAlv_q8WRccDV6Hk3TUr6fineIAx8Bs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+          "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
+          "url": "https://finance.yahoo.com/technology/article/nvidia-reportedly-preparing-to-oust-ceo-huang-after-alleged-affairs-with-spy-nvidia-exec-231315876.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "\"Briefed Multiple Times\"... Collusion Between Politics and Business Leaves National Security Vulnerable",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008842038",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "폭발",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T22:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgV6hQj1D9sjzyuiqpEDs76yCn8dmV14l4P-k1CgUGUxl0m27nhGtdTKuq0ec",
+      "startedAt": "2026-11-11T23:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSlnvNTZwTISdPeu-084JkVbWyhhAwvdDWMhN0DzcWeA7muZWkH4D1lwS1e20",
       "category": "경제",
       "news": [
         {
-          "title": "암호화폐 시장의 미약한 반등…비트코인·이더리움 추가 하락 위험 여전",
-          "url": "https://www.coinreaders.com/269013",
-          "source": "코인리더스"
+          "title": "대구 아파트서 보일러실 폭발⋯깨진 유리창에 차량 10여대 파손",
+          "url": "https://www.kmib.co.kr/article/20261112500142",
+          "source": "국민일보"
         },
         {
-          "title": "11월 12일 출근길 팟캐스트 — 싱가포르 감사지침이 개인키·스마트계약 위험 짚었다…비트코인 7.4만달러대 상승",
-          "url": "https://www.tokenpost.kr/news/insights/436772",
-          "source": "토큰포스트"
+          "title": "대구 북구 아파트 13층서 보일러 폭발 추정 사고…80대 여성 이송",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6351270",
+          "source": "뉴스1"
         },
         {
-          "title": "암호화폐 시장 상승에도 안심은 금물…뚜렷한 호재 없는 '불안한 반등'",
-          "url": "https://www.coinreaders.com/269497",
-          "source": "코인리더스"
+          "title": "대구 북구 아파트서 폭발 추정 사고…80대 여성 병원 이송",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565161",
+          "source": "대구신문"
         }
       ]
     },
     {
-      "keyword": "vix",
+      "keyword": "서울지하철",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-11T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwyT5kzehstm2GXs7dNb8roEA7LxKjW4n9Cn3LfpeGO9O2q2MN-wReyQWtH7k",
+      "startedAt": "2026-11-11T23:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9G6sSNmM8rZXm7I-exnadsRt0fievBrMP-Rs1seffJ9MNDub6SMwSmzh-QNA",
       "category": "기타",
       "news": [
         {
-          "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty",
-          "url": "https://m.economictimes.com/markets/stocks/news/india-vix-jumps-68-despite-7-rally-in-sensex-nifty/articleshow/135695931.cms",
-          "source": "The Economic Times"
+          "title": "철도·지하철·학교 비정규직 등 공공부문 잇단 파업 예고",
+          "url": "https://www.khan.co.kr/article/202611111548001",
+          "source": "경향신문"
         },
         {
-          "title": "India VIX Rises 1.21% to 17.71 as Nifty Jumps",
-          "url": "https://hdfcsky.com/news/india-vix-rises-1-21percent-as-us-inflation-concerns-offset-crude-oil-relief-november-11-2026",
-          "source": "HDFC Sky"
+          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+          "url": "https://www.yna.co.kr/view/AKR20261111111400011",
+          "source": "연합뉴스"
         },
         {
-          "title": "VIX stays elevated despite five-day market rally as global risks keep investors on edge",
-          "url": "https://www.thehindu.com/business/vix-stays-elevated-despite-five-day-market-rally-as-global-risks-keep-investors-on-edge/article71666364.ece",
-          "source": "The Hindu"
-        }
-      ]
-    },
-    {
-      "keyword": "정의선",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T22:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOjhpWZFmDFZZe2q22A0KSFbqGkHIXxDdkrghLCQ8TBiAGYXCKhqoYrWyKH9s",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[단독] 현대차, 무뇨스 재신임…북미시장 공세 '고삐'",
-          "url": "https://www.mk.co.kr/news/business/12205668",
-          "source": "매일경제"
-        },
-        {
-          "title": "현대차, 북미 성과 바탕으로 무뇨스 대표 연임 가닥",
-          "url": "https://tradersunion.com/ko/news/companies/show/4195453-hyundai-munoz-ceo-north-america/",
-          "source": "Traders Union"
-        },
-        {
-          "title": "[단독] 교체설 딛고 무뇨스 한번더 … 내년 '미래사업 핸들링' 주목",
-          "url": "https://www.mk.co.kr/news/business/12205640",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "노란봉투법",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T22:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "죽도시장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5uPiFq1wTSJ9jAA0mmB64a3a6SSrkWfgW-8gr7bXTmQoR4KtrrUBBlc6rtM",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "고랭지 배춧값 급락…출하 포기까지",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709021",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "“배추값 30% 넘게 내렸다”…이마트, 김장재료·용품 할인전",
-          "url": "https://www.etnews.com/20261112000011",
-          "source": "전자신문"
-        },
-        {
-          "title": "김장재료 최대 50% 할인… 수급안정에 640억 원 투입 외",
-          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a10214000000&section_id=&news_id=82c6988d-b415-40d6-8358-f20100d54886",
-          "source": "K-공감"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성자산운용",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T22:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwePIsyz-yEXhK4tlMBZHUUrCmNphDEpuHDSq515aZnC57scmIwHiqHuM3MN4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[부고] 김우석(삼성자산운용 대표)씨 모친상",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444267",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "[속보] 4%대 급등 코스닥, 매수 사이드카 발동",
-          "url": "https://stock.mk.co.kr/news/view/1196032",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "[부고]김분녀 별세 外",
-          "url": "https://www.donga.com/news/People/article/all/20261112/135010369/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "지소연",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-11T22:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-wsN2_uVXYdtvzmX5V9AYdTlJJ_u8dGGvwMZ4qgTr1vcbI4_SuAugA9qfDo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "지소연에 ‘성희롱 발언’한 심판, 출전정지 3개월 징계",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710019",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "지소연 향해 '성희롱 발언' 심판, 3개월 출전정지‥재심 없이 징계 확정",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6864877_36946.html",
+          "title": "전국철도노조 \"12월 10일부터 무기한 총파업\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6864848_36918.html",
           "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "전현무계획",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T23:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1HhiIu50nab3ycqoUWwPAekRVAtE23eM9IzFTf-wAdN9v78OnNueVeDSZSDM",
+      "category": "연예",
+      "news": [
+        {
+          "title": "조작 방송 전현무, 대국민 사과 “당분간 DM 안 보겠다”",
+          "url": "https://www.donga.com/news/Culture/article/all/20261112/135011588/1",
+          "source": "동아일보"
         },
         {
-          "title": "지소연에 \"생리하나 봐\" 막말한 심판…징계는 고작 3개월 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111119112392877",
-          "source": "머니투데이"
+          "title": "전현무 “죄송합니다, 당분간 DM 안 보겠습니다” 선언 왜? (전현무계획4)",
+          "url": "https://sports.khan.co.kr/article/202611111548003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "‘전현무계획4’ 전현무, 30년 단골 맛집 공개에 “DM 안 보겠다” 사과",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3447708",
+          "source": "천지일보"
+        }
+      ]
+    },
+    {
+      "keyword": "메랍",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-11T23:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2R3b_sMPIaNYQQFpASQSFQIvFMb5I9YPjiJUS0ATzqJ8IaltO2xdrzQRqT4M",
+      "category": "기타",
+      "news": [
+        {
+          "title": "UFC 전 챔프 메랍, ‘앙숙’ 우마르 형제에 폭행 당해",
+          "url": "https://www.heraldk.com/article/2026111116294419748",
+          "source": "헤럴드경제 미주판"
+        },
+        {
+          "title": "전 UFC 챔피언 메랍 드발리슈빌리, 아부다비 호텔 로비에서 공격당해",
+          "url": "https://mezha.net/ko/news/mezha-60a1ed4b54edc133bcbc18aa_former-ufc-champion-merab-dvalishvili-attacked/",
+          "source": "Mezha.net"
+        }
+      ]
+    },
+    {
+      "keyword": "우스만",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T23:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYJuBAhwdfMY5gEn8LGsEN_kZO9baPmtOGcrDTQlr3D6gc8-0luPeXGVdPuEE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "프로배구 한전, 외국인 용병 위력 ‘반색’… 우스만 활약에 웃음만 나와",
+          "url": "https://www.kyeongin.com/article/1774604",
+          "source": "경인일보"
+        },
+        {
+          "title": "득점 환호하는 한국전력 선수들",
+          "url": "https://www.yna.co.kr/view/PYH20261110192900013",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "33점 대폭발, 7을 사랑하는 한전 새 아쿼는 왜 기자회견에서 \"쏘리, 쏘리\" 외쳤을까",
+          "url": "https://www.chosun.com/sports/volleyball/2026/11/11/MY4WKMBSGFQTKZDCMNSTMZBSGU/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "파운드리",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-11T23:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJTzHHtCoJ9l2NtXT7mwhhEXRTWxo4LvKz8SetMCVGDH6saroja0gxrP7QsI",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "메모리 호황 뒤 기지개… 삼성 파운드리 `美 빅테크 수주 발판`",
+          "url": "https://www.ddaily.co.kr/page/view/2026111114364589942",
+          "source": "디지털데일리"
+        },
+        {
+          "title": "삼성전자 美 테일러 공장, 12월 시험가동 전망..2나노 수율·테슬라 AI칩 양산이 관건",
+          "url": "https://kpenews.com/View.aspx?No=4304823",
+          "source": "한국정경신문"
+        },
+        {
+          "title": "TSMC, 美텍사스 투자…삼성 안방서 격돌",
+          "url": "https://www.etnews.com/20261102000327",
+          "source": "전자신문"
         }
       ]
     }
