@@ -1,115 +1,124 @@
 {
-  "updatedAt": "2026-11-12T10:55:12.807Z",
+  "updatedAt": "2026-11-12T11:52:49.968Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 2
+      "count": 4
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김승우",
+      "keyword": "부동산",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-12T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5_myfMy1KpHoXgdATezUDM-Q6Eb04jX6kXOI_5CRhu1EbMeZT7lamgO5UMyQ",
-      "category": "연예",
+      "startedAt": "2026-11-12T10:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHW7NvYUQ07rDD-tki-Pkseu24kkFrdlhbMwc9v68GsiLZ3dCi9mC5bw0cwc",
+      "category": "경제",
       "news": [
         {
-          "title": "배우 김승우, 2200만 원 절도 혐의 피소…김승우 측 “장난이었고 이미 반환” 반박",
-          "url": "https://sports.khan.co.kr/article/202611121538003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "김승우 측, 2200만 원 절도 혐의에 \"술자리 장난..수사기관에 소명\" (전문)[공식]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MNTGCMRZMIZDKNRQHA4GMMJSHE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 ‘절도 혐의’ 피소",
-          "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513574",
-          "source": "일요신문"
-        }
-      ]
-    },
-    {
-      "keyword": "국제 a 매치",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-12T08:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsaNHRF-4XWGKxDLprx-WlUP_eh5UX4GQ110ka2EgNoRc8tWF6Vt2H3KTEjMA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-          "url": "https://www.khan.co.kr/article/202611112246001",
+          "title": "[단독] 이 대통령, 당대표 경험 공유하며 김민석 격려",
+          "url": "https://www.khan.co.kr/article/202611121657011",
           "source": "경향신문"
         },
         {
-          "title": "악화된 여론에 돌아선 광고주…방송사도 외면하는 축구 국가대표팀",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863106",
-          "source": "뉴시스"
+          "title": "여당, 종부세 유지 가닥…전월세 등 부동산 민심 악화에 고심",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287090.html",
+          "source": "한겨레"
         },
         {
-          "title": "축구 A매치의 추락…저조한 성적·내분설에 추락한 대표팀 가치",
-          "url": "https://www.sedaily.com/article/20113060",
-          "source": "서울경제"
+          "title": "한병도 \"당청, 더 나은 민생 위해 긴밀 협력…엇박자는 없다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261112057600001",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "이부진",
+      "keyword": "대구 한국가스공사 대 고양 소노",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-12T10:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "페드로 아빌라",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-12T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVOWd9RJdGMgX0sdusTi5-2o8FZaKIOaQvxES7AkENfOQGA6h-abf4IZXdttg",
-      "category": "기타",
+      "startedAt": "2026-11-12T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5DzCW02b-JRwqeNgVPhRvA3LCDfeyvSz9CJTVPzmlBqSb8Dqo7Bla6VuPmck",
+      "category": "스포츠",
       "news": [
         {
-          "title": "이부진은 ‘3년 전 그 재킷’, 지수는 ‘레이디 디올’… 디올 패션도 화제",
-          "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/12/JIUSC4EBL5CRHDZDBBHLYNCH7Y/",
-          "source": "Chosunbiz"
+          "title": "SSG, MLB 출신 강속구 투수 리차드슨 100만 달러에 영입",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711079",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "루이뷔통 회장 딸 학위식에 정의선, 신동빈, 지수…이부진은 ‘손하트’",
-          "url": "https://www.donga.com/news/Economy/article/all/20261112/135014460/1",
-          "source": "동아일보"
+          "title": "[공식발표] 54억 화끈하게 질렀다! 폰세 능가 외인+ML 157km 유망주까지 품다…SSG 외국인투수 농사 끝",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/12/MU3DEYLDHA3DKZJYMU3TAZTGGI/",
+          "source": "조선일보"
         },
         {
-          "title": "[포토] 디올 CEO 학위수여식 참석한 재계 인사들",
-          "url": "https://www.etnews.com/20261112000428",
-          "source": "전자신문"
+          "title": "“157㎞ 강속구 보유”…SSG랜더스, 새 외국인 투수 ‘라이언 리차드슨’ 영입",
+          "url": "https://www.kyeonggi.com/article/20261112580233",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "nepal premier league",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-12T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8W2DH5atjQ7NQLsKWQOjgcfVnrfp9z3N32aAqfro-Y3yZ3XIWoaD1pq76bM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Sandeep Lamichhane bags six wickets; Pokhara Avengers fold for 132",
+          "url": "https://english.nepalnews.com/s/sports/sandeep-lamichhane-bags-six-wickets-pokhara-avengers-fold-for-132/",
+          "source": "Nepalnews.com"
+        },
+        {
+          "title": "Nepal Premier League Cricket: Two Crucial Matches Today",
+          "url": "https://english.ratopati.com/story/86296/biratnagar-and-karnali-want-to-return-to-winning-ways-pokhara-has-a-chance-to-maintain-the-momentum",
+          "source": "Ratopati"
+        },
+        {
+          "title": "Nepal Premier League 2026 match predictions: Kings vs Avengers and Yaks vs Lions",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-biratnagar-kings-vs-pokhara-avengers-karnali-yaks-vs-lumbini-lions-12th-november/114296.htm",
+          "source": "Cricket World"
         }
       ]
     },
     {
       "keyword": "박충권",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-12T09:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqMVOQOmBVqVRLR8saV4rWuroKPf_KqMReLItequW2Liab_PVJFuwna_u62ps",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDK7e7lYlCMJnzb9_RtemKCozeqS6q_3vTykpljc4FwI878A_P_SOmvI6YUwY",
       "category": "기타",
       "news": [
         {
-          "title": "정동영에 “북동영” 했다가…“탈충권” 역공 당한 박충권 [이런뉴스]",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711136",
-          "source": "KBS 뉴스"
+          "title": "박충권, 정동영 향해 \"북동영\" 부르자 與 \"탈충권\" 맞불",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865148_36911.html",
+          "source": "MBC 뉴스"
         },
         {
           "title": "탈북단체 \"통일부 '북향민' 호칭, 탈북민 정체성 부정\"(종합)",
@@ -125,33 +134,33 @@
     },
     {
       "keyword": "한강 벨트",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-12T08:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAxhcwbUCQqfeJpsipKGZQkxanj8qIbFx3nGGSxligwMLNzm_UTvk5asSA3gU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7eZ0TebIjkPpYXWnBHUKVNTpCtOqvfXveHX7Jh7FoojSpNz0DFFqlN_Ufr9Q",
       "category": "경제",
       "news": [
         {
-          "title": "서울 아파트값 92주 연속 상승… 성동·강동구 하락 전환",
-          "url": "https://www.donga.com/news/Economy/article/all/20261112/135013768/1",
-          "source": "동아일보"
+          "title": "\"이 돈이면 마포 말고 강남\"… 한강벨트 대장단지 매물 '우르르'",
+          "url": "https://www.mk.co.kr/news/realestate/12206696",
+          "source": "매일경제"
         },
         {
-          "title": "\"강남만 떨어지는 줄 알았는데\"…'이 동네'마저 집값 꺾였다",
-          "url": "https://www.hankyung.com/article/202611122916i",
-          "source": "한국경제"
+          "title": "강남 약세 한강벨트까지…수도권 외곽은 계속 '상승'",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843677",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "“옥수동 래미안 한 달도 안 돼 4.8억 낮게 팔렸다”…기흥·영통은 급등",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03526006645645064&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "서울 성동·강동 아파트, 7개월만 ‘하락 전환’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711180",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
       "keyword": "성시경 콘서트",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-12T08:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGDeLe-BbeDGEO4qgRvSdVmjRXCWOO3KDoh562xrhYn9e9zSfc-qxhtGSUd8",
       "category": "연예",
@@ -174,52 +183,52 @@
       ]
     },
     {
-      "keyword": "035420",
+      "keyword": "캐릭",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-12T08:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS0tGbAt1ntycbMoJQvyPNuc5JgQH65aaIGg57NP9jrvXr8jqnuNR5GBL_VQo",
-      "category": "IT·과학",
+      "startedAt": "2026-11-12T10:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXEQ7g14IHgNlbCjgkjcR5yPtk0vYssc6R_22-_h_Z6QWWQMhm003kQqppU5k",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
-          "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674",
-          "source": "머니투데이"
+          "title": "맨유 새 감독에 포체티노 유력",
+          "url": "https://www.khan.co.kr/article/202611122023005",
+          "source": "경향신문"
         },
         {
-          "title": "Naver Invests 1 Trillion Won in Logistics Subsidiary to Rival Coupang",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/12/WOYGY5QMONELFDD6RVYNLIY34Y/",
-          "source": "조선일보"
+          "title": "'오히려 좋아!' 포체티노 맨유행 임박...미국대표팀, 세계최고 명장 펩 과르디올라 노린다",
+          "url": "https://www.koreadaily.com/article/20261111183001886",
+          "source": "미주중앙일보"
         },
         {
-          "title": "(LEAD) Naver Q3 operating profit down over 20 pct on AI investments",
-          "url": "https://en.yna.co.kr/view/AEN20261112001451320",
-          "source": "Yonhap News Agency"
+          "title": "맨유, 포체티노 감독과 '구두 합의'…캐릭 경질 초읽기",
+          "url": "https://www.yna.co.kr/view/AKR20261112012700007",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "pakistan vs sri lanka",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-12T08:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnRw3_MsNi3h37UNPQPJPzijCOZK0W-dC4-gT5NTxRXeSfjRSlouIyrH0zV18",
-      "category": "스포츠",
+      "keyword": "나경원",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-12T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYm-EZ8II00Gx4GNR0po0Oiy3bQxYooAxN8gGBgnsnB6Y4idTpQWZokWrJdY4",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "Saqib's 7-wicket total on debut holds Sri Lanka to a slender 1st-innings lead vs Pakistan",
-          "url": "https://www.foxsports.com/articles/soccer/saqibs-7wicket-total-on-debut-holds-sri-lanka-to-a-slender-1stinnings-lead-vs-pakistan",
-          "source": "FOX Sports"
+          "title": "나경원 \"당나라 군대냐\" 지적에 강신철 \"말씀 취소하라\" 반발",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865059_36911.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
-          "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test",
-          "source": "AFP.com"
+          "title": "나경원 \"당나라 군대냐\"…국방부 장관 \"취소해달라\" 발끈 [소셜픽]",
+          "url": "https://news.jtbc.co.kr/article/NB12327681",
+          "source": "JTBC"
         },
         {
-          "title": "Ex-captain de Silva leads Sri Lanka to 221-4 on Day 3 of the 1st test against Pakistan",
-          "url": "https://www.washingtonpost.com/sports/2026/11/11/cricket-pakistan-srilanka-wtc/507f698a-dda2-11f1-912c-4fbb80d73f7f_story.html",
-          "source": "The Washington Post"
+          "title": "\"당나라\" \"북동영\" \"탈충권\"...곳곳 '고성 충돌'",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611121805055497",
+          "source": "YTN"
         }
       ]
     },
@@ -245,21 +254,6 @@
           "title": "\"트레이드 카드 수차례 맞췄는데…\" 반지만 2개 우승 포수, 왜 방출 통보 받았나",
           "url": "https://www.chosun.com/sports/baseball/2026/11/12/GJQWEZLGGY2TAMBXMM3GKNJTGM/",
           "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "인벤",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-12T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFClsYG38HZMOPvWY0Vha0UMgOMZUKq3GXuQH2Zlubpq6vKFaz1HGlRAspXE8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Lost Ark celebrates 8th anniversary with spooky event island",
-          "url": "https://www.gamemeca.com/en/view.php?gid=1782950",
-          "source": "게임메카"
         }
       ]
     }
