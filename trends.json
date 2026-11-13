@@ -1,90 +1,124 @@
 {
-  "updatedAt": "2026-11-13T14:08:21.826Z",
+  "updatedAt": "2026-11-13T15:42:48.019Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 3
-    },
-    {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "생활·날씨",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "count": 4
     },
     {
       "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "내일 날씨",
-      "traffic": "200000+",
-      "trafficValue": 200000,
-      "startedAt": "2026-11-13T11:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ98GK74QQUi_U3NH7TmWrzSDZ_NrnmGUSCtQ2rNhvt7N4UHrbXDJ40VsHB1Vg",
-      "category": "생활·날씨",
+      "keyword": "민희진",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-13T13:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfqFy_FNzHtBhuUuDQh7bVOrwiw5uPm-A8I4Y59eeAqQAQ_cMHm2FMB-G7sa8",
+      "category": "연예",
       "news": [
         {
-          "title": "토요일 전국 흐리고 비…제주 최대 60㎜ [내일 날씨]",
-          "url": "https://www.hankyung.com/article/202611134717i",
-          "source": "한국경제"
+          "title": "“아일릿이 뉴진스 카피” 민희진에 20억 손배소송한 빌리프랩 패소",
+          "url": "https://www.khan.co.kr/article/202611131850001",
+          "source": "경향신문"
         },
         {
-          "title": "[날씨] 토요일 전국 가을비…수능 당일 ’영하권 추위’",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113224031d8m",
-          "source": "연합뉴스TV"
+          "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691",
+          "source": "머니투데이"
         },
         {
-          "title": "오늘 흐리고 한낮 포근‥전국 비 확대",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865421_36967.html",
+          "title": "빌리프랩, '아일릿 표절' 주장 민희진 상대 손해배상 소송 패소",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html",
           "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "박시원",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-13T12:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSILYxS6BLdDC2kPKaCdrohc4fGCR9vUe7PyugVJsNuszvq20jGZFc8ixVGk8A",
-      "category": "스포츠",
+      "keyword": "쿠플",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T14:20:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "대한민국",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T14:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPrxHe2zwDyeezHLJIWf5AJ_WxKJdnqIUMOuul6vUhw-fMa7_s8wNfgslR4U",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "[사진]인사하는 이구치 감독",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/13/MRRDQNLEGE2DMNZYHA2TOMJWMQ/",
-          "source": "조선일보"
+          "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
+          "url": "https://www.yna.co.kr/view/AKR20261113129300030",
+          "source": "연합뉴스"
         },
         {
-          "title": "[APBC] 日, 한국전 '특급 신인' 다케마루 선발 등판 예고",
-          "url": "https://www.newspim.com/news/view/20261113000801",
-          "source": "뉴스핌"
+          "title": "막걸리부터 증류주까지…전통 양조장에서 빚어낸 우리 술의 매력 [이슈픽]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "[사진]한 타자도 못잡고 마운드 내려오는 박시원 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/13/202611132135777665O",
-          "source": "머니투데이"
+          "title": "세계로 향하는 K-Sool, '2026 대한민국 우리술 대축제' 막 올랐다!",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456942",
+          "source": "서울Pn"
         }
       ]
     },
     {
-      "keyword": "한국 야구",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-13T12:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0Smp-VvOP0h-s-ZXqFWljO64rSVkeHnONwgaUoT1tGYNuquZqAgodUMLEtA",
+      "keyword": "대한민국 기후에너지환경부",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T13:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_EQ4Z-Nd_2YXYpfeE82PLt--Cu51aMRz-289kGTK9Y6IURxNjlenhNG0SLqE",
+      "category": "경제",
+      "news": [
+        {
+          "title": "“기후행동 실천하면 포인트·금리우대”…민관 금융협력 체계 구축",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374702",
+          "source": "전기신문"
+        },
+        {
+          "title": "은행 앱으로 '기후시민' 등록하면 은행 포인트도 준다… 기후부, KB·IBK와 협약",
+          "url": "https://www.fnnews.com/news/202611121400203488",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "온라인 기후행동 공간 '굳티튜드 숲' 열렸다…대변인실이 AI로 개발",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864872",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "대한민국 야구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T13:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLCTm0tdX3b0dOAGC7in_Vntq1QZwMRs601kei52G9vtZ7YSU3yYUEOb2VoWo",
       "category": "스포츠",
       "news": [
         {
-          "title": "호주에도 지는 한국야구",
-          "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2",
-          "source": "동아일보"
+          "title": "[영상] ‘세미 프로’ 호주에 진 한국 야구의 씁쓸한 현실",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712049",
+          "source": "KBS 뉴스"
         },
         {
           "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
@@ -99,40 +133,15 @@
       ]
     },
     {
-      "keyword": "피클",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-13T11:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYqA-zBWTjLBtgjyPgkhc6hde4KvWFsIf98yQQs87HysLbEKhBqjuxxqVdV4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독]AI 에이전트 ‘피클’ 코레일 접근 안 된다···미국선 항공사도 AI 차단",
-          "url": "https://www.khan.co.kr/article/202611121711011",
-          "source": "경향신문"
-        },
-        {
-          "title": "AI 비서가 항공권 대신 예약?…유나이티드항공은 막았다",
-          "url": "https://www.newsis.com/view/NISX20261112_0003865888",
-          "source": "뉴시스"
-        },
-        {
-          "title": "美 유나이티드항공 AI 예약 차단 예고…국내 항공업계 \"보안 측면 검토 중\"",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354613",
-          "source": "녹색경제신문"
-        }
-      ]
-    },
-    {
       "keyword": "ppi",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-13T12:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh9CrZ3hmD34qfW1tjpf9IKD0e9aszqbaXPMwGQaIvw44qDGbCM9HwzW_qzY8",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlEBWWdGKr1kg3aLE7j-EoppzYqDSlYvzMjqDcbUzDGYD_dorHXP6s92Lyng",
       "category": "기타",
       "news": [
         {
-          "title": "Breaking: U.S. Producer Prices Surge 6.5%, 4-Year High",
+          "title": "U.S. Producer Prices Hit 4-Year High, Stoking Fed Rate Hike Speculation",
           "url": "https://www.chosun.com/english/market-money-en/2026/11/13/3YNIHXNJYZAJTB4OP3ACIJVIZM/",
           "source": "조선일보"
         },
@@ -142,9 +151,9 @@
           "source": "CNBC"
         },
         {
-          "title": "Wholesale inflation declined last month yet remains stubbornly elevated",
-          "url": "https://abcnews.com/US/wireStory/wholesale-inflation-declined-month-remains-stubbornly-elevated-138107311",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "title": "U.S. Producer Prices Rise 0.3% in October, Below Forecast",
+          "url": "https://en.sedaily.com/world/2026/11/13/us-producer-prices-rise-03-percent-in-october-below-forecast",
+          "source": "Seoul Economic Daily"
         }
       ]
     },
@@ -174,72 +183,52 @@
       ]
     },
     {
-      "keyword": "대한민국 중소벤처기업부",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T12:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1tqTA7iSYBrRgb_gQ_d57XXI2CkSFZQnN0peBvVkR-Fd7czbbhGL5PMHedv0",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "전국이 함께한 소비축제 '코그페' - 전체 | 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975632&pWise=sub&pWiseSub=R3",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "장보기부터 가전제품까지, 코리아그랜드페스티벌 할인 총정리",
-          "url": "https://story.pay.naver.com/content/3911",
-          "source": "네이버페이 머니스토리"
-        },
-        {
-          "title": "대한민국 최대 할인행사, '코그페' 11월 15일까지 개최··· 전국에서 할인혜택 누리세요!",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456585",
-          "source": "서울Pn"
-        }
-      ]
-    },
-    {
-      "keyword": "유빈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T12:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQznArPQ8fe9w6d0UJBHywX0mCD4K7FZH8I8gFSYbclHAqe1KQaBtUU6BsqDmU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "오마이걸 유빈, 검정 슈트 차림 근황…비밀 요원 전략가 예고",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275023",
-          "source": "톱스타뉴스"
-        },
-        {
-          "title": "선미·유빈·영탁, 도심 속 우정샷…음악으로 이어진 특별한 순간",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082541",
-          "source": "진일보 | 전남일보"
-        }
-      ]
-    },
-    {
-      "keyword": "아던트뉴스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T11:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRy8eIafzMcOQ27v92CXwiSPWBw9ir0et9FvbBUItIUKJEDX6BBvSYK933kLoY",
+      "keyword": "포수",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T14:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZzQKkJnUzofeiWzGzQsE8aA5Ox72pn4pp7ZxxKcR2TITuXVHJ5y1lyrzaYc",
       "category": "스포츠",
       "news": [
         {
-          "title": "\"축구장 3만 7천 개 넓이를 바다 위로 달린다니\"... 세계 최장 바닷길 따라가는 섬 드라이브 코스",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21521",
-          "source": "아던트뉴스"
+          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "\"숙박이 5만 원대인데 바다가 이렇게 가깝다니\"... 해안탐방로에 산행 코스까지 품은 섬 휴양림",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21363",
-          "source": "아던트뉴스"
+          "title": "와~60위 됐으면 어쩔뻔, 연봉 61위 C등급 깜짝 호재...하늘이 돕는 FA 김호령, 실수령 1억5천 고우석이 왜 도우미로 거론되나",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GQ4DSYTDGAYDINJRGY2GEOLFGM/",
+          "source": "조선일보"
         },
         {
-          "title": "금산군, 금산여성대학 지역탐방 실시…천리포수목원 방문",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1110711",
-          "source": "충청매일"
+          "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
+          "source": "기호일보"
+        }
+      ]
+    },
+    {
+      "keyword": "광천동주택재개발",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T14:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBL_t3R6waNucw1A4lTWtuDc75K1y1pietuNb8UCbCuN6-EQd_eNMG122LFR8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082235",
+          "source": "진일보 | 전남일보"
+        },
+        {
+          "title": "광주 최대 규모 ‘광천동 재개발 사업’ 철거 본격화",
+          "url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500370",
+          "source": "서울신문"
+        },
+        {
+          "title": "광주 최대 재개발지 광천동, 철거 공사 착수",
+          "url": "https://stock.mk.co.kr/news/view/1196879",
+          "source": "매일경제 마켓"
         }
       ]
     },
