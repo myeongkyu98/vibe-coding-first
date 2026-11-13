@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-13T17:44:32.870Z",
+  "updatedAt": "2026-11-13T18:44:41.654Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "연예",
-      "count": 2
+      "count": 1
     },
     {
       "category": "생활·날씨",
@@ -15,6 +19,31 @@
     }
   ],
   "items": [
+    {
+      "keyword": "쿠팡플레이",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-13T13:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSArOXPcU7ggjGtQkd8-TWYroujHMQ5E5uRDm5q2EdkfTQEkeWGPuCb2tD8ONM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'저스트 메이크업', 27일 시즌2 공개 확정…60인 아티스트 격돌",
+          "url": "https://www.newspim.com/news/view/20261113000595",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "쿠팡플레이, '저스트 메이크업 시즌2' 27일 공개",
+          "url": "https://www.newsis.com/view/NISX20261113_0003866925",
+          "source": "뉴시스"
+        },
+        {
+          "title": "‘저스트 메이크업’ 시즌2, 11월 27일 공개…60인 다시 맞붙는다",
+          "url": "https://news.jtbc.co.kr/article/NB12327894",
+          "source": "JTBC"
+        }
+      ]
+    },
     {
       "keyword": "김수현",
       "traffic": "1000+",
@@ -34,34 +63,9 @@
           "source": "연합뉴스"
         },
         {
-          "title": "[단독]법원 \"김수현 등, 프롬바이오에 11억6000만원 배상\" - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111315280951965",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "민희진",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-13T13:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHgCxnwfFyYgs5Oio4THfmrJSThhaGDmferLM8nmELzqpin1XeVOExYFbVF2A",
-      "category": "연예",
-      "news": [
-        {
-          "title": "빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261113166651004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "빌리프랩, '아일릿 표절' 주장 민희진 상대 손해배상 소송 패소",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "민희진에 패소한 하이브 레이블들, 즉각 항소…\"판결 납득 못해\" - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/13/2026111319430064691",
-          "source": "머니투데이"
+          "title": "‘누명 벗은 김수현’에 법원 “김수현, 광고 중단 기간 모델료 반환해야”",
+          "url": "https://www.kyeonggi.com/article/20261113580438",
+          "source": "경기일보"
         }
       ]
     },
@@ -98,6 +102,31 @@
       "picture": "",
       "category": "기타",
       "news": []
+    },
+    {
+      "keyword": "월즈 결승",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T16:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWr_r_4qCdgbEmBxFpimSIRjL8pD8ph7bhD8t4_P2aRWMQ10ZAFUi0Gh1O8e0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864630",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[e모션] 韓中 최강 격돌…젠지, LCK의 `롤드컵` 왕좌 지킬까",
+          "url": "https://www.ddaily.co.kr/page/view/2026111316090144636",
+          "source": "디지털데일리"
+        },
+        {
+          "title": "롤드컵 무관의 한 풀 주인공은, ‘최강 미드’ 쵸비·나이트 정면충돌",
+          "url": "https://www.koreadaily.com/article/20261112142609756",
+          "source": "미주중앙일보"
+        }
+      ]
     },
     {
       "keyword": "인벤",
@@ -159,52 +188,27 @@
       ]
     },
     {
-      "keyword": "오세훈",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-13T16:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1rmHQwNQMJg4UwbnInbXhieGWlYp0LGlYNlOabcnLFmlqIHseIzt6SiHKGn4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "친한계 “조작 징계는 무효, 진상조사해야”… 국힘 지도부 “정말 나쁜 저급한 정치공작”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261113/135023164/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
       "keyword": "포수",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-13T14:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShG-6qNkum9KWot4PtJ8bI4y2qNs_Cbq_qUHMpPmCUpQa3aKqfXllMmAPamjw",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZzQKkJnUzofeiWzGzQsE8aA5Ox72pn4pp7ZxxKcR2TITuXVHJ5y1lyrzaYc",
+      "category": "스포츠",
       "news": [
         {
-          "title": "구자욱·원태인 등 28명, FA 공시…A등급 6명",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232604RDP",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/",
-          "source": "조선일보"
+          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285",
+          "source": "KBS 뉴스"
         },
         {
           "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
           "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
           "source": "기호일보"
+        },
+        {
+          "title": "구자욱·원태인 등 28명, FA 공시…A등급 6명",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232604RDP",
+          "source": "연합뉴스TV"
         }
       ]
     },
