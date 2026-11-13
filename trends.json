@@ -1,245 +1,255 @@
 {
-  "updatedAt": "2026-11-13T09:52:53.618Z",
+  "updatedAt": "2026-11-13T10:53:13.055Z",
   "summary": [
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "IT·과학",
-      "count": 2
+      "category": "스포츠",
+      "count": 3
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 2
     },
     {
       "category": "연예",
-      "count": 2
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "배드민턴",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-13T08:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzXW-FNmepB0yP0kBEvIeefUmiam35z_UASwe-rbEGSvCvB5oY0IUoZC7HSI",
-      "category": "기타",
+      "keyword": "단타",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-13T09:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfpS9LBQgLYrwNbH3TB-0QmwK0rRoVxRr0n__JPZ_EMMJtLkAn_Kje9XHdg4",
+      "category": "경제",
       "news": [
         {
-          "title": "배드민턴 ‘세계 1위’ 서승재-김원호, 116위 한국 신생 조에 덜미",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711219",
-          "source": "KBS 뉴스"
+          "title": "\"하루 600만원도 벌었다\"…주식 올인한 '단타' 여성, 현재 계좌는",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03785126645645392&mediaCodeNo=257",
+          "source": "이데일리"
         },
         {
-          "title": "'세계 1위가 116위에 무너졌다' 韓 남복 충격 이변...서승재-김원호, '신생 조' 진용-조송현에 덜미→\"덜 알려진 동료에게 패했다\"",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/13/MJRTAMJVMUYGCZBYGYYWCYZWGM/",
-          "source": "조선일보"
+          "title": "\"60대 아내가 단타매매 중독\"…보험 해약해 '물타기'까지, 결과는 '처참'",
+          "url": "https://www.fnnews.com/news/202611130740570175",
+          "source": "파이낸셜뉴스"
         },
         {
-          "title": "세계랭킹 116위의 업셋...진용-조송현, 세계 1위 서승재-김원호 완파",
-          "url": "https://www.newspim.com/news/view/20261112001465",
-          "source": "뉴스핌"
+          "title": "남편 보험까지 깨서 주식 '올인'...누적 거래만 100억, 60대 계좌 보니 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111310131332138",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "주간조선",
+      "keyword": "임예진",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-13T07:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVwtZnHpLez0dU-8gh93ors2KebaKzRDmUkp6_u6cY7j7COh46-XIjVRPLBnU",
-      "category": "IT·과학",
+      "startedAt": "2026-11-13T09:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbsDypETtPUVz1qbyzZHRtA2TACH83ZmHUMJiXuubyTvrqyjU3i7NhbqEnevk",
+      "category": "경제",
       "news": [
         {
-          "title": "2934 목차",
-          "url": "https://weekly.chosun.com/bbs/view.html?idxno=284",
-          "source": "주간조선"
+          "title": "임예진, 기획부동산 피해자였다 \"5천만원 매입 제주땅 주인만 178명\"",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867248",
+          "source": "뉴시스"
         },
         {
-          "title": "반도체 물 ‘속도전’의 숙제…가뭄 검증도, 농민 설득도, 기업 절수도 ‘아직’",
-          "url": "https://www.khan.co.kr/article/202611130600011",
-          "source": "경향신문"
-        },
-        {
-          "title": "엉뚱한 영산강물 더럽다고 손가락질한 주간조선",
-          "url": "https://www.mindlenews.com/news/articleView.html?idxno=23169",
-          "source": "세상을 바꾸는 시민언론 민들레"
-        }
-      ]
-    },
-    {
-      "keyword": "김현태",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-13T08:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTayz6X-JADSLmsRI-ue8-qR667v_tflOaCxo60fezBazh541dZt9WvIZsNXxQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "법원, ‘국회 봉쇄’ 김현태 전 707 단장 구속취소 요청 기각",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712031",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "‘국회 봉쇄’ 김현태 전 단장, 구속 상태로 재판… 법원, 구속취소 기각",
-          "url": "https://www.seoul.co.kr/news/society/law/2026/11/13/20261113500102",
-          "source": "서울신문"
-        },
-        {
-          "title": "법원, '국회 봉쇄' 김현태 전 707특임단장 구속 취소 요청 기각",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865396_36918.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김종민",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T08:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq1B_iM4DrouvX75gjIyPrcadZtSVAZFaZfkjEMWts6eGysizcr9Ysnr9dFeo",
-      "category": "연예",
-      "news": [
-        {
-          "title": "김종민, 아빠 될 준비 중…“맞춤법·띄어쓰기 배우고 있어” (1박2일)",
-          "url": "https://sports.donga.com/ent/article/all/20261113/135018756/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "김종민이 달라졌어요..'임신' ♥김지원 닮은 11살 아내→아들 위해 \"국어 공부 중\" ('1박2일')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GZSDIM3BGAYDOMZTHBQTKMBVMM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "김종민 \"태어날 子 위해 맞춤법·띄어쓰기 배우는 중\" (1박 2일)",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524710",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "015760",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T08:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Korea Electric Power Corporation Stock 12‑Month Price Target Cut to $15.51, Implies 36% Upside",
-          "url": "https://www.tradingview.com/news/tradingview:4f44868679a40:0-korea-electric-power-corporation-stock-12-month-price-target-cut-to-15-51-implies-36-upside/",
-          "source": "TradingView"
-        }
-      ]
-    },
-    {
-      "keyword": "공인중개사",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T08:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbRewIeuakOGWKeHSoZhFuaz9hgv1-rt71pXt30XhiqHWxzbsJThKY3oOp9mo",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "등기부 열람료 700원→1100원… 공인 중개사들 국회서 “철회하라”",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/13/73ITORNBEVDAXPOPULZKAL64CA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "등기 열람 수수료 700원 →1100원… 공인중개사들 반발",
-          "url": "https://www.donga.com/news/Society/article/all/20261113/135017604/2",
+          "title": "임예진, 5000만원 주고 산 제주 땅 15년 만에 확인…“지분 가치 약 82만원”",
+          "url": "https://www.donga.com/news/Culture/article/all/20261113/135021854/2",
           "source": "동아일보"
         },
         {
-          "title": "대법원, 25년 만에 등기부등본 열람·발급 수수료 400원 인상",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229284",
-          "source": "법률신문"
-        }
-      ]
-    },
-    {
-      "keyword": "035420",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T07:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS0tGbAt1ntycbMoJQvyPNuc5JgQH65aaIGg57NP9jrvXr8jqnuNR5GBL_VQo",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
-          "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674",
+          "title": "임예진 \"기획부동산에 속은 것\"…노후 대비용 제주 땅 '충격' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111314255438506",
           "source": "머니투데이"
-        },
-        {
-          "title": "Naver Establishes Logistics Subsidiary to Challenge Coupang's Rocket Delivery",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/13/NIY2CTCHFFCZHLNWVLTNUGBS74/",
-          "source": "조선일보"
-        },
-        {
-          "title": "NAVER's Core Ad Business Wavers... Personalized AI Agents as Its Big Bet",
-          "url": "https://www.asiae.co.kr/en/article/IT/2026111310295830817",
-          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "문화누리카드",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-13T08:00:00.000Z",
+      "keyword": "원주 db 대 수원 kt",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-13T09:50:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "탁재훈",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-13T08:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxlRSRe5jwGmieY0WZhAOl7L-EJrjI22DVIhPiG75GwNgLltx6eBRuvRnB6Do",
-      "category": "연예",
+      "keyword": "미스 베트남",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-13T09:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzfg-281jDQliECHHSu_NaceR7JYksGm_mMP-0znsShjtmV9uwfi-y40O-u_w",
+      "category": "스포츠",
       "news": [
         {
-          "title": "장서희, 탁재훈과 ‘베드신’ 찍나…“시키는 대로 하겠다”",
-          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/12/20261112500312",
-          "source": "TWIG"
-        },
-        {
-          "title": "장서희, 日 AV 배우 오구라 유나 작품 찾아봤다…\"안 귀엽더라\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111317585223286",
+          "title": "\"준우승자가 더 예쁜데\"…외모 지적받은 미스 베트남 우승자의 대답 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/13/2026111305251656792",
           "source": "머니투데이"
         },
         {
-          "title": "'54세 싱글' 장서희 \"꽃미남보다 남자다운 사람 좋아\" 이상형 고백",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6351759",
-          "source": "뉴스1"
+          "title": "“준우승자가 더 예쁘다”…‘외모 논란’에 미인대회 우승자의 첫마디",
+          "url": "https://www.mk.co.kr/news/world/12206444",
+          "source": "매일경제"
+        },
+        {
+          "title": "미스 베트남 응우옌옌짱,,,베트남 미인대회 2026 우승",
+          "url": "https://www.goodmorningvietnam.co.kr/news/article.html?no=84464",
+          "source": "굿모닝베트남미디어"
         }
       ]
     },
     {
-      "keyword": "로보택시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-13T06:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1P_UGe-V3MnrRWBqFzDelqZKEXMuviQ5vxA6LruqVeHOb_KnIsngK0wMLs-4",
+      "keyword": "김대호",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T09:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-1sh-ukayLhoLvOT0kmWJpDvbBPGvi8jRjxLG7VU11FFl4hIHZ_0lOBU78Vk",
       "category": "기타",
       "news": [
         {
-          "title": "\"운전대도, 페달도 없다\"‥테슬라 사이버캡 국내 첫 공개에도 \"판매 계획은 없다\"",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865258_37004.html",
-          "source": "MBC 뉴스"
+          "title": "김대호, 14년 다닌 MBC 떠났는데…또 회사원 됐다",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135020519/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "[FSD 온로드] '테슬라 사이버캡' 국내 첫선…차주들 FSD 확대 촉구",
-          "url": "https://v.daum.net/v/5qgcJrTscO",
-          "source": "Daum"
+          "title": "김대호, MBC 퇴사 1년 반 만에 삼성행…TV조선 '직장인대호' 출격",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524726",
+          "source": "iMBC 연예"
         },
         {
-          "title": "[포토뉴스]운전대도 페달도 없는…테슬라 자율주행 ‘로보택시’",
-          "url": "https://www.khan.co.kr/article/20261112203101A/?cp",
-          "source": "경향신문"
+          "title": "‘직장인대호’ 기업 탐방 프로젝트 15일 첫방",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611130211",
+          "source": "BNT뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "apbc 중계",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T09:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR31kiWadsa0oW8x6OU55JOBbSYz0Y4h3V6UdBIT_5Ux02FsYhv7OKPKhUSjvg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710671",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "일본 매체 \"APBC 호주전서 흐름 바꾼 김지찬, 한일전서 주목해야\"",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867235",
+          "source": "뉴시스"
+        },
+        {
+          "title": "김도영 앞세운 한국 야구, 호주전부터 우승 도전…김민준은 첫 국제무대 선발 시험",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=847117",
+          "source": "제민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "pakistan vs sri lanka",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T09:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSxFTRNp8mLVHwZGA7-Orrx0KSWjvjdziM57GAuZ9f3gZRcRu0-brCGwID6I",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Saqib Khan Takes Seven Wickets on Test Debut as Pakistan Pacer Announces Himself Against Sri Lanka",
+          "url": "https://theopenpress.in/article/saqib-khan-pakistan-pacer-seven-wickets-test-debut-rawalpindi-sri-lanka",
+          "source": "theopenpress.in"
+        },
+        {
+          "title": "Saqib's bright start to Test cricket after an unconventional journey",
+          "url": "https://www.cricinfo.com/story/saqib-s-bright-start-in-test-cricket-after-an-unconventional-journey-1562409",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 1st Test",
+          "url": "https://africa.espn.com/cricket/series/19430/report/1550711/day/4/pakistan-vs-sri-lanka-1st-test-19430",
+          "source": "ESPN"
+        }
+      ]
+    },
+    {
+      "keyword": "한국 사우디",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T09:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6aUaBkXq4dmy8MWfnaG5UpMRuCaOTnb5g9oBNDrSmQX_XS-wRvbRgdyu36G0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[오늘의 키워드] 한국–사우디 오늘 밤 11시 30분…2027학년도 수능 D-6",
+          "url": "https://www.gangneungnews.kr/news/articleView.html?idxno=70102",
+          "source": "강릉뉴스"
+        },
+        {
+          "title": "주장 손흥민, ‘내분설’ 이후 첫 심경 고백…“팀이 건강해지는 과정이라 생각”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711758",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "\"이재성은 왜 끼워 넣었나\"…박문성, 대표팀 공동입장문에 일침 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111318540715938",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "뮤직뱅크",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdeNqgbcDVYS8FO9nYFM-MrblUcOi2ysgIN0lydta8MQoL7cMK3r7zJ1iU3SA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "규현의 귀환…설렘 가득 'CONTINUE' 발매 D-1",
+          "url": "https://www.etnews.com/20261110000417",
+          "source": "전자신문"
+        },
+        {
+          "title": "폭넓은 감성 담았다…규현, 신곡 '컨티뉴' 공개",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841945",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "규현, 광화문서 ‘광화문에서’ 열창… 가을밤 감성 물들였다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02660086645645392&mediaCodeNo=257",
+          "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "에이티즈",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEuG0_65kUOpICh_6Jx5hkbW95HNqM-B-hU-z6h84XzUOJ3--q0a9yMeUPpLU",
+      "category": "연예",
+      "news": [
+        {
+          "title": "에이티즈, ‘배드’ 인기 잇는다…“가장 높은 곳 그 이상까지”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711121",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "‘가슴춤 북부대공’ 열풍 에이티즈, 5개월만에 컴백",
+          "url": "https://www.donga.com/news/Culture/article/all/20261112/135017454/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "미니 15집으로 돌아온 에이티즈 민기",
+          "url": "https://www.newsis.com/view/NISI20261112_0021530670",
+          "source": "뉴시스"
         }
       ]
     }
