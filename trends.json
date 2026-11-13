@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-11-13T05:54:27.726Z",
+  "updatedAt": "2026-11-13T07:01:54.701Z",
   "summary": [
     {
       "category": "정치·사회",
       "count": 4
     },
     {
-      "category": "기타",
-      "count": 3
-    },
-    {
       "category": "IT·과학",
       "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 1
     },
     {
       "category": "경제",
@@ -20,134 +24,9 @@
   ],
   "items": [
     {
-      "keyword": "개",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-13T04:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXH4D0NIYG7Fnd5NF-DQ8QC0btwak1FYGsbo3E1XCi4S1X3ELM4f6flTV7QE8",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "'화면 여백' 지적받은 아이폰 듀오…최적화 앱 10만개 넘었다",
-          "url": "https://stock.mk.co.kr/news/view/1198195",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "애플 “아이폰 듀오 최적화 앱 10만 개 돌파…매일 수 천개 추가”",
-          "url": "https://www.donga.com/news/It/article/all/20261113/135020284/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불량 부품 때문\"",
-          "url": "https://zdnet.co.kr/view/?no=20261110131755",
-          "source": "지디넷코리아"
-        }
-      ]
-    },
-    {
-      "keyword": "이재룡",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-13T04:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5oxxbDPnE90_E3ItGcmpY03j5EqqqX9Ek8DRk7h7SjLnSh8BCmu3dWF2ic",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "'음주 뺑소니 의혹' 배우 이재룡, 첫 재판서 '술타기' 혐의 부인",
-          "url": "https://www.newsis.com/view/NISX20261113_0003866985",
-          "source": "뉴시스"
-        },
-        {
-          "title": "배우 이재룡 측, 법정서 '술타기' 혐의 부인…\"측정 방해 목적 없었다\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844851",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "뺑소니 사고 내고 달아나 또 술자리…법정 선 이재룡, 혐의 부인",
-          "url": "https://www.kyeonggi.com/article/20261113580249",
-          "source": "경기일보"
-        }
-      ]
-    },
-    {
-      "keyword": "오산시",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-13T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkTVvkZYefF9_eSwFj4b-n3f6h9A3sfMsb2qss4QYe3PGiwcHO_Ro0Uwicre8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "행복기숙사, 인재장학금, 문화패스 등 오산시 청년 지원책 확대 노력",
-          "url": "https://www.kyeongin.com/article/1774656",
-          "source": "경인일보"
-        },
-        {
-          "title": "조용호 오산시장, 청년 학업·성장 기회 확대에 온힘…“경제적 걸림돌 학업 방해되지 않도록 노력”",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336651",
-          "source": "인천일보"
-        },
-        {
-          "title": "\"배움에 걸림돌 없도록\"…오산시, 청년 주거·장학금·문화 패키지 가동 - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/12/2026111216413780198",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "박신영",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-13T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUZPX25y3Kv31Spdk-kMX481IF2ZlOhx3IBhhfvB4oCz0OdcehoGEixcxq-f0",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘사망 사고’ 낸 박신영 “구조 않고 차에 숨었다? 사실 아냐”…틱톡커로 등장한 이유 있었다",
-          "url": "https://biz.heraldcorp.com/article/10933678",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
-          "url": "https://www.fnnews.com/news/202611110001377383",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "“쉽게 무너지지 않을 것”…‘배달원 사망사고’ 박신영 전 아나, 8만 틱톡커 변신",
-          "url": "https://www.sedaily.com/article/20112221",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "비서",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-13T03:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLXnju66C2oNDHkT-voL2XeKH3cqZ7oWLqjVMKROTeKuTLmnDBlwIWUQpVXUs",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "고1때 회계 빠져 열공, 로펌 비서하다 오기… ‘士’자 꿈 이뤘다[‘17세의 기술’ 대한민국을 만든다]",
-          "url": "https://www.munhwa.com/article/11631046",
-          "source": "문화일보"
-        },
-        {
-          "title": "‘AI 비서’가 민원 전화까지?⋯공무원들 “답해야 하나”",
-          "url": "https://www.kmib.co.kr/article/20261112502069",
-          "source": "국민일보"
-        },
-        {
-          "title": "환불 요청 전화도 건다, 제미나이 앞지른 ‘피클’",
-          "url": "https://www.joongang.co.kr/article/25477485",
-          "source": "중앙일보"
-        }
-      ]
-    },
-    {
       "keyword": "한국보훈복지의료공단",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-13T04:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2HCZh7TThPU1vEBBpyYqHsZRUARWtfr63ZzXGatImHrBPYftppGxjpMPe-A",
       "category": "기타",
@@ -170,102 +49,227 @@
       ]
     },
     {
-      "keyword": "국민의힘",
+      "keyword": "블랙웰",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-13T04:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRuPMe934lUtlTYsp4Wk-FfxYrjNZVlUBwv-bsyboDdWVniJ5t7NnRB-fvz-Q",
-      "category": "기타",
+      "startedAt": "2026-11-13T05:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTap2W_5kyTIe_qE8-Ippb_3OM7uKPighaxkpqxRjoIxD_OeRDi0sq9SAj4Sg",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "윤리위원 측 \"韓 징계에 외부인사 관여… 張 통화 녹음·메신저 대화 갖고 있다\"",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/13/DTKNY4U6AFCZVBQT635VTJ5DZE/",
-          "source": "조선일보"
+          "title": "“오픈AI, 美 의회 中 AI칩 수출 제한 법안 지지”",
+          "url": "https://biz.chosun.com/it-science/ict/2026/11/13/W3GSV2HRNVCW5HMKBABFHSBOEA/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "윤상현 “한동훈 징계 조작 의혹, 당이 전모 밝혀야…지도부 결단 기다려”",
-          "url": "https://www.khan.co.kr/article/202611131040001",
-          "source": "경향신문"
+          "title": "미국의 반도체 수출 규제 강화 우려에 중국 AI 주식 급락",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2174451",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "국민의힘 윤리위 진실 공방…“만난 적도 없다”·“8월에도 통화”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711178",
-          "source": "KBS 뉴스"
+          "title": "美 무역대표 \"엔비디아 우려…핵심 기술자산 美나 동맹국에 있어야\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444506",
+          "source": "연합인포맥스"
         }
       ]
     },
     {
-      "keyword": "광교신도시",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-13T04:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3IUOh1wOQCIyJRqw_Y-KT4gIANbp_0T5Hpo5BnHZE5qYFex_Coyq5CVclOn0",
-      "category": "경제",
+      "keyword": "리트 만점자 ai 안경",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T05:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdftAwGzdZPD3b38q6ITaTgUey3FzmKy2BejWuEy6o3EfT5xlTBSS4tTTfhSc",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
-          "url": "https://www.hankyung.com/article/202611123258i",
-          "source": "한국경제"
+          "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
+          "url": "https://www.khan.co.kr/article/202611131019001",
+          "source": "경향신문"
         },
         {
-          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726",
-          "source": "인천일보"
+          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
+          "source": "Daily NTN"
         },
         {
-          "title": "GH 추진 전국 첫 지분적립형 분양주택 1순위 경쟁률 '100:1'",
-          "url": "https://www.yna.co.kr/view/AKR20261111175000061",
+          "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287171.html",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
+      "keyword": "대학수학능력시험",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T05:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf38Rk28XRZYXD2F63C7NDY-Hmw2th76gbmqHrACiU-pDg5ghpGVn_6qwIImE",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "행정안전부, 2027학년도 수능 대비 지진 대응태세 철저히 점검한다",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789140&pWise=main&pWiseMain=L1",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "남양주시, 수능 당일 수험생 ‘무료 택시’ 44대 투입…12개 거점서 운영",
+          "url": "https://www.kyeonggi.com/article/20261113580242",
+          "source": "경기일보"
+        },
+        {
+          "title": "정부, 수능 앞두고 지진 대응태세 점검…시험장 1천312곳 점검",
+          "url": "https://www.yna.co.kr/view/AKR20261112171300530",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "한국가스",
+      "keyword": "이혜훈",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-13T04:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAyHAFWchhHjbb1Iw4Y3SNkLMcYjB0wyR7PR0BsBPI0gEn59Rz356EBRMxzk",
-      "category": "정치·사회",
+      "startedAt": "2026-11-13T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyMgdtKvrOZqxzn_01-UqNVIhq6zODTxoRYfnHpN_Un0GW1qiaXuTLIbBNZuM",
+      "category": "경제",
       "news": [
         {
-          "title": "한국가스공사, LNG선 화물창 결함에 2684억원 배상… 2심서 800억원 늘어",
-          "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/",
-          "source": "Chosunbiz"
+          "title": "경찰, ‘로또 청약’ 이혜훈 前 의원 사기 혐의로 공소청 송치",
+          "url": "https://www.chosun.com/national/national_general/2026/11/13/CSW7KKE6VRCOVPUKBYMCDLP4TQ/",
+          "source": "조선일보"
         },
         {
-          "title": "[단독] “가스공사, 2200억원 물어줘라”…‘한국형 LNG 화물창’ 초유의 소송전 SK해운 웃었다 [세상&]",
-          "url": "https://biz.heraldcorp.com/article/10935820",
-          "source": "헤럴드경제"
+          "title": "‘40억 로또 아파트’ 날아가나…이혜훈, 부정청약 의혹 송치",
+          "url": "https://news.jtbc.co.kr/article/NB12327942",
+          "source": "JTBC"
         },
         {
-          "title": "법원 \"'한국형 LNG선 하자' 가스공사, SK해운에 2200억 배상\"",
-          "url": "https://www.news1.kr/society/court-prosecution/6353183",
-          "source": "뉴스1"
+          "title": "속보 경찰, '아파트 부정청약 의혹' 이혜훈 사기 혐의 송치",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611131301149185",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "카카오워크",
+      "keyword": "수도권제1순환고속도로",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-13T03:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx2x0wNZKRCN_1khSo08tzsp-yM37OenryA-hxIbShBxP-El9Zqx4KVRSLJgg",
+      "startedAt": "2026-11-13T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT78HG9JX6nEfSUISZjtyCRgzpyb9J9NU9OIl9cW4crwG_OWsT_1t8r25CjQw",
       "category": "정치·사회",
       "news": [
         {
-          "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147242",
-          "source": "보안뉴스"
+          "title": "[속보] 수도권제1순환고속도로 고양(67.5K)(4차로)화물차관련 사고처리중",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=484541",
+          "source": "스페셜타임스"
         },
         {
-          "title": "카카오 기업용 메신저 ‘카카오워크’ 해킹…메일 내용·첨부파일도 유출",
-          "url": "https://www.donga.com/news/Economy/article/all/20261113/135019362/1",
-          "source": "동아일보"
+          "title": "[속보] 수도권제1순환고속도로 화물차 관련 사고 처리중",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=483505",
+          "source": "스페셜타임스"
         },
         {
-          "title": "카카오 기업용 메신저서 보안 사고…메일 본문·첨부파일 원본도 유출",
-          "url": "https://www.newsis.com/view/NISX20261112_0003866340",
-          "source": "뉴시스"
+          "title": "[속보] 수도권제1순환고속도로 사고처리중",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=483666",
+          "source": "스페셜타임스"
+        }
+      ]
+    },
+    {
+      "keyword": "정부",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T05:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnwhQGNTyNQmHvXFziINGPlp4rPTIn1iobJ88dzoZ6ADW_rwB96QONwEESNyA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "구글 지도 국외반출 조건 이행 확인…좌표 노출 막고 보안 강화",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374724",
+          "source": "전기신문"
+        },
+        {
+          "title": "구글맵, 한국 서비스 강화된다···네이버·카카오 등 ‘긴장’",
+          "url": "https://www.khan.co.kr/article/202611131444011",
+          "source": "경향신문"
+        },
+        {
+          "title": "구글, 국내 지도 협력사로 티맵 선정‥개인정보·이동데이터는 제외",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6865439_36932.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "국기",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T05:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4vH94HvNODgyU90ze9w0mBBrHHHThDUYycJhO79GzOxA6uDrvW7zYyuRMkw0",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "北, 헌법 개정해 인공기 비율 변경…1948년 건국 이후 처음(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261113030351504",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "北, 78년 만에 국기 비율 변경…김정은 시대 차별화 포석",
+          "url": "https://www.koreadaily.com/article/20261112193925025",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "북한, 선전매체에 헌법 전문 공개…’두 국가’ 공식화",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112053319dE2",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "england vs australia",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T05:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnG5JHIXC2kg9roEomdTErKnfRr6Ye3R-QCF-GCiQikbzRjHY3JnBY0qEihk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Australia vs England LIVE: First ODI, Optus Stadium, Perth - cricket score, commentary & updates",
+          "url": "https://www.bbc.com/sport/cricket/live/cnv9n5lgdv6t",
+          "source": "BBC"
+        },
+        {
+          "title": "Australia-England face off again but most eyes are elsewhere",
+          "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-1st-odi-1528703/match-preview",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Australia's Mitch Marsh wins toss, sends England in to bat in 1st cricket ODI",
+          "url": "https://www.foxsports.com/articles/soccer/australias-mitch-marsh-wins-toss-sends-england-in-to-bat-in-1st-cricket-odi",
+          "source": "FOX Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "고용노동부",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T05:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSznuU0mUYQaWgheL4XioE0pp6NTIt_hYes7ZGAtvweHAk9bIwe74bJs-u_0io",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
+          "url": "https://www.khan.co.kr/article/202611081637001",
+          "source": "경향신문"
+        },
+        {
+          "title": "노동부, '가짜 사업소득 계약'·'사업장 쪼개기' 기획 감독",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865406_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "노동법 피하려 '가짜 3.3'·사업장 쪼개기…노동부, 140곳 기획감독",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374720",
+          "source": "전기신문"
         }
       ]
     }
