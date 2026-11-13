@@ -1,13 +1,9 @@
 {
-  "updatedAt": "2026-11-13T18:44:41.654Z",
+  "updatedAt": "2026-11-13T19:48:58.334Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
-    },
-    {
-      "category": "스포츠",
-      "count": 2
     },
     {
       "category": "연예",
@@ -16,34 +12,17 @@
     {
       "category": "생활·날씨",
       "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "쿠팡플레이",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-13T13:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSArOXPcU7ggjGtQkd8-TWYroujHMQ5E5uRDm5q2EdkfTQEkeWGPuCb2tD8ONM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'저스트 메이크업', 27일 시즌2 공개 확정…60인 아티스트 격돌",
-          "url": "https://www.newspim.com/news/view/20261113000595",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "쿠팡플레이, '저스트 메이크업 시즌2' 27일 공개",
-          "url": "https://www.newsis.com/view/NISX20261113_0003866925",
-          "source": "뉴시스"
-        },
-        {
-          "title": "‘저스트 메이크업’ 시즌2, 11월 27일 공개…60인 다시 맞붙는다",
-          "url": "https://news.jtbc.co.kr/article/NB12327894",
-          "source": "JTBC"
-        }
-      ]
-    },
     {
       "keyword": "김수현",
       "traffic": "1000+",
@@ -58,14 +37,39 @@
           "source": "경향신문"
         },
         {
-          "title": "법원, 김수현 측에 '광고 중단' 모델료 11억여원 반환 판결",
-          "url": "https://www.yna.co.kr/view/AKR20261113171700061",
-          "source": "연합뉴스"
-        },
-        {
           "title": "‘누명 벗은 김수현’에 법원 “김수현, 광고 중단 기간 모델료 반환해야”",
           "url": "https://www.kyeonggi.com/article/20261113580438",
           "source": "경기일보"
+        },
+        {
+          "title": "[단독]법원 \"김수현 등, 프롬바이오에 11억6000만원 배상\" - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/13/2026111315280951965",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "정몽구",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-13T16:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJhkqsP3pqiJ9h52Wp8RI3m54yCSCU1RslTZxh5HRwEhsTpP6Y3aggPwcDi-Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "정무성 현대차 정몽구재단 이사장 별세…향년 68세",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113170434RTC",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "정무선 현대차 정몽구 재단 이사장 별세",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001035",
+          "source": "IT조선"
+        },
+        {
+          "title": "정무성 현대차 정몽구재단 이사장 별세… 향년 68세",
+          "url": "https://www.donga.com/news/People/article/all/20261113/135021956/1",
+          "source": "동아일보"
         }
       ]
     },
@@ -156,9 +160,9 @@
           "source": "동아일보"
         },
         {
-          "title": "박지현, 돈 많이 벌어도 여전히 ‘모텔 사랑’... 침대서 벌떡 “가만히 있으면 안 바뀌어”",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/GU4DKZLFG4ZTENTCGE4TOMZTGM/",
-          "source": "조선일보"
+          "title": "박지현 \"일주일 이상 모텔에서 지내기도\"…쉴 틈 없는 '행사 프린스'",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6353799",
+          "source": "뉴스1"
         }
       ]
     },
@@ -176,9 +180,9 @@
           "source": "Chosunbiz"
         },
         {
-          "title": "구성환 “학창 시절 4대 천왕…초콜릿·편지 많이 받았다”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023588/1",
-          "source": "동아일보"
+          "title": "구성환, 첫사랑과 재회 “50일 사귀고 1년 더 좋아해” (나혼산)",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135023281/1",
+          "source": "스포츠동아"
         },
         {
           "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
@@ -188,52 +192,52 @@
       ]
     },
     {
-      "keyword": "포수",
+      "keyword": "탄핵",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-13T14:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZzQKkJnUzofeiWzGzQsE8aA5Ox72pn4pp7ZxxKcR2TITuXVHJ5y1lyrzaYc",
-      "category": "스포츠",
+      "startedAt": "2026-11-13T16:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQctj3Nl0FPeHqh9Ggjm6Jto3qk8Ni_-0b-t4-nOPQO24CXGDmjnbnWjkfiePQ",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285",
-          "source": "KBS 뉴스"
+          "title": "최민희, 비공개 간담회서 \"윤석열 선거법 재판, 이 대통령 재판과 똑같다\"",
+          "url": "https://news.jtbc.co.kr/article/NB12327940",
+          "source": "JTBC"
         },
         {
-          "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
-          "source": "기호일보"
+          "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865481_36911.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "구자욱·원태인 등 28명, FA 공시…A등급 6명",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232604RDP",
-          "source": "연합뉴스TV"
+          "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
+          "url": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "광천동주택재개발",
+      "keyword": "오세훈",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-13T14:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBL_t3R6waNucw1A4lTWtuDc75K1y1pietuNb8UCbCuN6-EQd_eNMG122LFR8",
+      "startedAt": "2026-11-13T16:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1rmHQwNQMJg4UwbnInbXhieGWlYp0LGlYNlOabcnLFmlqIHseIzt6SiHKGn4",
       "category": "기타",
       "news": [
         {
-          "title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082235",
-          "source": "진일보 | 전남일보"
+          "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "광주 최대 규모 ‘광천동 재개발 사업’ 철거 본격화",
-          "url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500370",
-          "source": "서울신문"
+          "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html",
+          "source": "YTN"
         },
         {
-          "title": "광주 최대 재개발지 광천동, 철거 공사 착수",
-          "url": "https://stock.mk.co.kr/news/view/1196879",
-          "source": "매일경제 마켓"
+          "title": "국힘 조경태, '당원권 정지' 징계 불복…가처분·무효소송 제기",
+          "url": "https://www.yna.co.kr/view/AKR20261113127200001",
+          "source": "연합뉴스"
         }
       ]
     }
