@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-14T18:35:28.338Z",
+  "updatedAt": "2026-11-14T19:37:42.618Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
-    },
-    {
       "category": "스포츠",
-      "count": 2
+      "count": 3
     },
     {
       "category": "정치·사회",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "경제",
-      "count": 1
+      "category": "IT·과학",
+      "count": 2
     },
     {
-      "category": "연예",
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     }
   ],
@@ -49,134 +49,59 @@
       ]
     },
     {
-      "keyword": "저축",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGzXVlCD0JhOEK6K3LfM6CYTY-7gGYoHFk1JW9i2skqkNxXziCFhWJ4zP6HY0",
-      "category": "기타",
+      "keyword": "치지직",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-14T18:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnjs09LxTp48mVYlqvUfkufyFaYdE9jBJeews5Y1zHwEUMX86Em8D-Js0lJY0",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "같은 900만 원 넣어도 세금 29만원 차이? 청년 IRP 공제율 15% 핵심 정리",
-          "url": "https://story.pay.naver.com/content/3939",
-          "source": "네이버페이 머니스토리"
+          "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
+          "url": "https://www.etnews.com/20261113000071",
+          "source": "전자신문"
         },
         {
-          "title": "\"마트 세일에 국가 쿠폰 겹쳤다\"…하락장 속 '연금저축·IRP' 절세 전략",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864767",
-          "source": "뉴시스"
+          "title": "네이버, 방송·팬덤 결합한 크리에이터 카페 출시",
+          "url": "https://www.i-boss.co.kr/ab-2877-18474",
+          "source": "아이보스"
         },
         {
-          "title": "[생활정보] 단톡방에 '이것' 보내지 마세요…연말정산 동의는 이렇게 받습니다",
-          "url": "https://www.wikitree.co.kr/articles/1174082",
-          "source": "위키트리"
+          "title": "네이버, 크리에이터·팬 잇는 ‘크리에이터 카페’ 선봬…치지직·팬카페 연동",
+          "url": "https://www.sentv.co.kr/article/view/sentv202611130084",
+          "source": "서울경제TV"
         }
       ]
     },
     {
-      "keyword": "1250 회 로또",
+      "keyword": "숲",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-14T13:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4Bdjcw4dVw6lUz9M8I-GlAOjuOjhpQ2Y68xTRTRpzRjFgy13Rm6q9Xbid-w",
-      "category": "기타",
+      "startedAt": "2026-11-14T18:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Ua5qldBsiiuIuWjVuUSA-l6znPnRMklYJSvdF_5X1pkbIZz2ZcypmKORRF8",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "제1250회 로또 1등 9명···당첨금 31억원",
-          "url": "https://www.khan.co.kr/article/202611142052001",
-          "source": "경향신문"
+          "title": "\"10만 평 숲이 통째로 붉은빛으로 물들었다니\"… 입장료 한 푼 안 받는 늦가을 단풍 정원",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21579",
+          "source": "아던트뉴스"
         },
         {
-          "title": "1250회 로또판매·추첨시간, 1249회 1등당첨지역 공개",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751761",
-          "source": "국제뉴스"
+          "title": "붉게 물든 서남산 주변",
+          "url": "http://m.srbsm.co.kr/view.php?idx=57072",
+          "source": "서라벌신문"
         },
         {
-          "title": "“로또 1등 9명 전부 자동”…31억 대박 터진 명당 어디",
-          "url": "https://www.kyeonggi.com/article/20261114580139",
-          "source": "경기일보"
-        }
-      ]
-    },
-    {
-      "keyword": "비트코인",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T15:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXsAfQBfo7tPO2gzWDQ8Nu4NBy5mACKw318NcTwD5VzAo9WGe4lEkbBLNmr8s",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"비트코인 하락, 앤트로픽 IPO 전 투자자금 이동 때문\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645645720",
-          "source": "마켓인"
-        },
-        {
-          "title": "비트코인 하루 새 7% 급락‥2조 원 규모 강제청산",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6865461_36932.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "젠슨 황 사임에 금리공포 겹쳐… 비트코인, 1억→9천만 ‘뚝’ [주간코인시황]",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000935",
-          "source": "IT조선"
-        }
-      ]
-    },
-    {
-      "keyword": "bangladesh vs pakistan",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T14:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQPOBjR_oh-zQy4lZTrAaBQEaATp1RnpAsRcxEOBQ5xnc2O1f9AXvoTr4otf8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Bangladesh vs Pakistan LIVE streaming info: When, where to watch BAN v PAK SAFF Championship 2026 semifinal?",
-          "url": "https://sportstar.thehindu.com/football/bangladesh-vs-pakistan-live-streaming-info-where-to-watch-saff-championship-semifinal-tv-channel-ban-v-pak/article71701360.ece",
-          "source": "Sportstar"
-        },
-        {
-          "title": "For the fans, football is worth the wait and expense",
-          "url": "https://www.thedailystar.net/sports/football/news/the-fans-football-worth-the-wait-and-expense-4323711",
-          "source": "The Daily Star"
-        },
-        {
-          "title": "PM to attend SAFF final if BD qualify: Aminul",
-          "url": "https://observerbd.com/news/606110",
-          "source": "Daily Observer"
-        }
-      ]
-    },
-    {
-      "keyword": "나의 이방인",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T14:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNWZlDXM5nhhwoFzJtRyB5o_iAthAlqpu4cIdhvxUUwbL7BrDNxcwSWusDC7c",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'그것이 알고 싶다'(그알) 14일 결방 이유는?",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752131",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "[다시보기] 나의 이방인 1회",
-          "url": "https://programs.sbs.co.kr/culture/dearstranger/vod/90792/22000639770",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "‘나의 이방인’ 여객기 참사로 세상을 떠난 딸…엄마에게 주어진 단 7일",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524840",
-          "source": "iMBC 연예"
+          "title": "반세기 동안 보전한 숲이 이렇게 아름다울 줄이야... 2023년 개방한 생태정원 무료 여행지",
+          "url": "https://www.balpumnews.com/travel/gyeongju-millennium-forest",
+          "source": "발품뉴스"
         }
       ]
     },
     {
       "keyword": "젠지",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-14T17:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyEiHl45xv83jbLyHv2reQVmMbmadshfWY4rO7_sP_bFTTQknG10Bs1n6PIrU",
       "category": "스포츠",
@@ -192,59 +117,134 @@
           "source": "뉴시스"
         },
         {
-          "title": "‘캐니언’ 김건부 “월즈 결승은 흔치 않은 기회⋯팀원들 모두 자기 기량 뽐내길”",
-          "url": "https://www.kmib.co.kr/article/20261114500020",
-          "source": "국민일보"
+          "title": "\"LCK 4팀 모두 꺾겠다\"…BLG 양대인·바이퍼, `롤드컵` 우승 자신감",
+          "url": "https://www.ddaily.co.kr/page/view/2026111409570852936",
+          "source": "디지털데일리"
         }
       ]
     },
     {
-      "keyword": "nepal premier league",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzKpYyJv4jBS7C-aes03PmnMDD5Q2Tk_mztqFJn2v2nnrpulAzLcNmSA7euiY",
+      "keyword": "blg",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T18:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe85sPCJJqKlKli8gTC762n9qE_0XzpCMxCJhrUZiPIKPBjm9lPL_RWCzT1oQ",
       "category": "기타",
       "news": [
         {
-          "title": "Lumbini Lions edge Biratnagar Kings by 4 wickets to seal NPL playoff spot",
-          "url": "https://english.nepalnews.com/s/sports/lumbini-lions-edge-biratnagar-kings-by-4-wickets-to-seal-npl-playoff-spot/",
-          "source": "Nepalnews.com"
+          "title": "Worlds Final Is First Without T1 Since 2021 After 3.6M Semi Peak",
+          "url": "https://rg.org/news/esports/worlds-2026-final-first-without-t1-since-2021-viewership",
+          "source": "RG.org"
         },
         {
-          "title": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
-          "url": "https://english.ratopati.com/story/86672/we-didnt-do-well-in-the-last-over-humidity-and-fielding-also-affected-us-aslanka",
-          "source": "Ratopati"
+          "title": "\"LPL Back to the Top\" — BLG Sets Sights on LCK Gauntlet",
+          "url": "https://www.invenglobal.com/articles/28579/lpl-back-to-the-top-blg-sets-sights-on-lck-gauntlet",
+          "source": "Inven Global"
         },
         {
-          "title": "Lumbini wins toss, opt for ball",
-          "url": "https://risingnepaldaily.com/news/88608",
-          "source": "The Rising Nepal"
+          "title": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
+          "url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
+          "source": "CelebrityAccess"
         }
       ]
     },
     {
-      "keyword": "채령",
+      "keyword": "lck",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3UoLM4pCqNTXGc85oFo-ACEKyHjygIeL6zQbDoLoGXqrL_PxyQ938PbhjJbE",
-      "category": "연예",
+      "startedAt": "2026-11-14T18:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ3U4QAfHsn_oG-ek5nuFEkIVGKx084Jczlx2PnT5Iqybn5gzeBC7cNMuH-bQ",
+      "category": "기타",
       "news": [
         {
-          "title": "“혼자 빨리 준비해서 좋다” 솔로 데뷔 채령, 멤버들 없는 단점에 ‘침묵’ 폭소 (‘살림남’)",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12209046",
-          "source": "매일경제"
+          "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
+          "url": "https://www.sheepesports.com/en/articles/sources-noah-set-to-join-bnk-fearx-ahead-of-2027-lck-season/en",
+          "source": "Sheep Esports"
         },
         {
-          "title": "박진영 프로듀서가 먼저 스포한 채령의 솔로 데뷔 앨범 'Lovesick' 안무 비하인드? [웬디의 영스트리트]",
-          "url": "https://programs.sbs.co.kr/radio/wendy0s/clip/69682/22000639796?div=live_end",
-          "source": "programs.sbs.co.kr"
+          "title": "Former Fnatic ADC Noah Returns to Korea to Join BNK FEARX for 2027 Season",
+          "url": "https://egamersworld.com/lol/news/38410/noah-reaches-verbal-agreement-with-bnk-fearx-for-l-F95S69FM-",
+          "source": "EGamersWorld"
         },
         {
-          "title": "ITZY 채령 ‘사랑스러움의 의인화’···신곡 ‘Lovesick’ 음악 방송 활동 시작",
-          "url": "https://sports.khan.co.kr/article/202611131043003",
-          "source": "스포츠경향"
+          "title": "Worlds Final Is First Without T1 Since 2021 After 3.6M Semi Peak",
+          "url": "https://rg.org/news/esports/worlds-2026-final-first-without-t1-since-2021-viewership",
+          "source": "RG.org"
+        }
+      ]
+    },
+    {
+      "keyword": "norway vs wales",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T18:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiuyYO3CCObfzCUYS6TV7vHrdsODRQZA1hi5-_QNGWv7ANd1J131mZKhbaf5g",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Norway vs Wales: Lineups, Prediction, Odds & Bet Builder Tip",
+          "url": "https://www.whoscored.com/articles/kqOJt_4WBU6ACNPJGYVACg/show/cng111-20261114-norway-vs-wales-prediction-1794649062",
+          "source": "WhoScored.com"
+        },
+        {
+          "title": "ALL GOALS: Norway vs. Wales | UEFA Nations League",
+          "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/all-goals-norway-vs-wales-uefa-nations-league-2026-11-14",
+          "source": "beIN SPORTS"
+        },
+        {
+          "title": "Video: Haaland writes the closing scene: Norway overcome the Wales ambush",
+          "url": "https://www.livescore.com/en/news/football/more/video-haaland-writes-the-closing-scene-norway-overcome-the-wales-ambush-goal/",
+          "source": "LiveScore"
+        }
+      ]
+    },
+    {
+      "keyword": "천준호",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T17:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE5nHXJnts5Xm4zGyG9M_rk5Q1tNK9FOlWZl16Ks8FQ22X1xZemU5uUs7xVkM",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865696_36911.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "이 대통령, 천준호에 “고생 많았다···등 뒤에서 날아오는 화살 가장 힘들어”",
+          "url": "https://www.khan.co.kr/article/202611142106001",
+          "source": "경향신문"
+        },
+        {
+          "title": "李대통령 “가장 힘든 건 등 뒤에서 날아오는 화살”…민주당 내홍 겨냥?",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57129",
+          "source": "주간조선"
+        }
+      ]
+    },
+    {
+      "keyword": "음식 배달",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T17:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2RH75F6O-AZNk4WHm0pEr0fY3MaspBwDxWqF9DxgTxclKyTgz_kIxsE3hQA",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "전배모 \"배달 라이더 84%, 수익감소 우려…수수료 규제 반대\" - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/13/2026111314260557793",
+          "source": "머니투데이"
+        },
+        {
+          "title": "배달앱 수수료 15% 상한제 입법추진...음식점측 “빨리 도입” vs 라이더 “최저 배달비 보장”",
+          "url": "https://contents.premium.naver.com/backbriefing/news/contents/261114134414874tv",
+          "source": "네이버 프리미엄콘텐츠"
+        },
+        {
+          "title": "라이더 소득 위협하는 배달시장 규제 반대 기자회견",
+          "url": "https://www.news1.kr/photos/8210963",
+          "source": "뉴스1"
         }
       ]
     },
@@ -253,23 +253,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-14T16:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqFzJLdWl8yx6MXKL_VA88YU546nmg_VIL8X7LgRflcVLvNK3la2ElT8m_FA8",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD0IzGDj0nbAPuuAanP_OBdznbqOPsvVI3kDvjTQCK0f__nJlJIQMv5F12P4c",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Six from Team Nurmagomedov, eight in all get prison time over Dvalishvili brawl",
-          "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl",
-          "source": "ESPN"
+          "title": "RAF Abu Dhabi: Khamzat Chimaev vs. Chris Weidman Live Updates, Highlights, Results",
+          "url": "https://bleacherreport.com/liveblogs/25532850-raf-abu-dhabi-khamzat-chimaev-vs-chris-weidman-live-updates-highlights-results",
+          "source": "Bleacher Report"
         },
         {
-          "title": "RAF Abu Dhabi Highlights! Merab Dominates Moraes Days After Getting Jumped",
-          "url": "https://sports.yahoo.com/articles/raf-abu-dhabi-highlights-merab-173607933.html",
-          "source": "Yahoo Sports"
+          "title": "LIVE! RAF Abu Dhabi Results: Khamzat vs. Weidman",
+          "url": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
+          "source": "MMA Fighting"
         },
         {
-          "title": "Usman Nurmagomedov, five others sentenced to six months in Abu Dhabi prison for attack on Merab Dvalishvili",
-          "url": "https://www.cbssports.com/ufc/news/usman-nurmagomedov-sentenced-to-six-months-abu-dhabi-prison-for-attack-on-merab-dvalishvili/",
-          "source": "CBS Sports"
+          "title": "RAF Abu Dhabi results: Khamzat Chimaev wins RAF title, Arman Tsarukyan cruises to victory",
+          "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/11/14/raf-abu-dhabi-highlights-live-results-khamzat-chimaev-merab-dvalishvili-usman-nurmagomedov-brawl--live/92778421007/",
+          "source": "MMA Junkie"
         }
       ]
     }
