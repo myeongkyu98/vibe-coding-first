@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:33:12.914Z",
+  "updatedAt": "2026-11-14T17:29:43.172Z",
   "summary": [
     {
       "category": "기타",
@@ -10,11 +10,11 @@
       "count": 2
     },
     {
-      "category": "경제",
+      "category": "스포츠",
       "count": 1
     },
     {
-      "category": "스포츠",
+      "category": "경제",
       "count": 1
     }
   ],
@@ -24,23 +24,48 @@
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-14T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLWKGPM5ZZR-V2kKGIPilsf1pTEyyDv7arjle0Islz04kKuOVrCDiu_JedLgw",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVSxhCLnVQD63DbzqImKdQLuEBsLw12bTIGfSkGwfhM6QRgMAjGLUYpplmeAs",
       "category": "기타",
       "news": [
         {
-          "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/",
-          "source": "조선일보"
+          "title": "'천천히 강렬하게', 12월 11일부터 3주 간 파트별 공개…분할 이유는?",
+          "url": "https://www.ytn.co.kr/_sn/0117_202611131034130083",
+          "source": "YTN"
         },
         {
-          "title": "송혜교, 미국서 와인 사려다 거절 \"18살인 줄 알고 못 판다고\"",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868197",
+          "title": "'천천히 강렬하게' 송혜교, \"돈이 있다고\" 강렬 눈빛...총 3개 파트로 공개 [공식] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111310137276826",
+          "source": "머니투데이"
+        },
+        {
+          "title": "송혜교·공유·김설현·차승원 ‘천천히 강렬하게’, 베일 벗었다… 티저 예고편 공개",
+          "url": "https://www.viva100.com/article/20261113500297",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "keyword": "저축",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-14T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGzXVlCD0JhOEK6K3LfM6CYTY-7gGYoHFk1JW9i2skqkNxXziCFhWJ4zP6HY0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "같은 900만 원 넣어도 세금 29만원 차이? 청년 IRP 공제율 15% 핵심 정리",
+          "url": "https://story.pay.naver.com/content/3939",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "\"마트 세일에 국가 쿠폰 겹쳤다\"…하락장 속 '연금저축·IRP' 절세 전략",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864767",
           "source": "뉴시스"
         },
         {
-          "title": "‘천천히 강렬하게’ 송혜교 “‘더 글로리’ 이후 유럽 입국심사관 사진 촬영 제안도 받아” (핑계고)",
-          "url": "https://sports.khan.co.kr/article/202611141810003",
-          "source": "스포츠경향"
+          "title": "[생활정보] 단톡방에 '이것' 보내지 마세요…연말정산 동의는 이렇게 받습니다",
+          "url": "https://www.wikitree.co.kr/articles/1174082",
+          "source": "위키트리"
         }
       ]
     },
@@ -70,27 +95,27 @@
       ]
     },
     {
-      "keyword": "저축",
+      "keyword": "bangladesh vs pakistan",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-14T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGzXVlCD0JhOEK6K3LfM6CYTY-7gGYoHFk1JW9i2skqkNxXziCFhWJ4zP6HY0",
-      "category": "기타",
+      "startedAt": "2026-11-14T14:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCp6tYryoV1nF8uzz70KwTlDS3sQHlYCj_VjHtzg3JRO1Y3hRp-b01C9IRYCo",
+      "category": "스포츠",
       "news": [
         {
-          "title": "같은 900만 원 넣어도 세금 29만원 차이? 청년 IRP 공제율 15% 핵심 정리",
-          "url": "https://story.pay.naver.com/content/3939",
-          "source": "네이버페이 머니스토리"
+          "title": "For the fans, football is worth the wait and expense",
+          "url": "https://www.thedailystar.net/sports/football/news/the-fans-football-worth-the-wait-and-expense-4323711",
+          "source": "The Daily Star"
         },
         {
-          "title": "\"마트 세일에 국가 쿠폰 겹쳤다\"…하락장 속 '연금저축·IRP' 절세 전략",
-          "url": "https://www.newsis.com/view/NISX20261112_0003864767",
-          "source": "뉴시스"
+          "title": "Bangladesh - Pakistan prediction & picks 14.11.2026",
+          "url": "https://www.transfermarkt.us/online-betting/picks/bangladesh-vs-pakistan-picks-14-11-2026/",
+          "source": "www.transfermarkt.us"
         },
         {
-          "title": "[생활정보] 단톡방에 '이것' 보내지 마세요…연말정산 동의는 이렇게 받습니다",
-          "url": "https://www.wikitree.co.kr/articles/1174082",
-          "source": "위키트리"
+          "title": "PM to attend SAFF final if BD qualify: Aminul",
+          "url": "https://observerbd.com/news/606110",
+          "source": "Daily Observer"
         }
       ]
     },
@@ -175,31 +200,6 @@
           "title": "Lumbini wins toss, opt for ball",
           "url": "https://risingnepaldaily.com/news/88608",
           "source": "The Rising Nepal"
-        }
-      ]
-    },
-    {
-      "keyword": "bangladesh vs pakistan",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T14:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU4N7yNUNPLgI1tHfCEb5XV4Rpfjf3t4g1rXACR9oHH0eAhdVUgkoQdB00lu4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Bangladesh - Pakistan prediction & picks 14.11.2026",
-          "url": "https://www.transfermarkt.us/online-betting/picks/bangladesh-vs-pakistan-picks-14-11-2026/",
-          "source": "www.transfermarkt.us"
-        },
-        {
-          "title": "PM to attend SAFF final if BD qualify: Aminul",
-          "url": "https://observerbd.com/news/606110",
-          "source": "Daily Observer"
-        },
-        {
-          "title": "For the fans, football is worth the wait and expense",
-          "url": "https://www.thedailystar.net/sports/football/news/the-fans-football-worth-the-wait-and-expense-4323711",
-          "source": "The Daily Star"
         }
       ]
     },
