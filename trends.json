@@ -1,24 +1,20 @@
 {
-  "updatedAt": "2026-11-14T01:55:47.726Z",
+  "updatedAt": "2026-11-14T02:43:54.676Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 6
     },
     {
       "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
       "count": 1
     },
     {
       "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     },
     {
@@ -29,11 +25,11 @@
   "items": [
     {
       "keyword": "고경표",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-14T00:10:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjGFVoOrJM5A1AWUA7tlLn5TPn201T8yUH0I9Heuo2dlkG6poCKqAEb8FfxX4",
-      "category": "정치·사회",
+      "category": "연예",
       "news": [
         {
           "title": "[단독] 배우 고경표 음주사고…면허취소 만취상태",
@@ -41,14 +37,39 @@
           "source": "연합뉴스TV"
         },
         {
-          "title": "배우 고경표 음주운전 중 청소차 들이받아…면허취소 수준",
-          "url": "https://www.yna.co.kr/view/AKR20261114025000004",
+          "title": "배우 고경표 음주운전 중 청소차 들이받아…\"깊이 반성\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261114025051004",
           "source": "연합뉴스"
         },
         {
-          "title": "고경표, 새벽 만취 교통사고…소속사 즉각 시인 \"경찰 조사 마치고 귀가, 깊이 반성\"",
-          "url": "https://www.imaeil.com/page/view/2026111409225242563",
-          "source": "매일신문"
+          "title": "'만취 운전' 고경표 \"깊이 반성\"...놀면뭐하니·보검매직컬2 '비상' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111410031586565",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "김지원",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-14T01:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDn22CjeResvD0fiqsqvQUr1JnK6ncbM7yust5WnrJYOOxRSFHt_Ls2CAB_Og",
+      "category": "기타",
+      "news": [
+        {
+          "title": "전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135023492/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "닥터X : 하얀 마피아의 시대 : [최종회 예고] “용케 살아서 여기까지 왔네” 김지원, 환자 수술 도중 중단 선언♨ (ft. 폐원)",
+          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483132189",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "'닥터X', 김지원한테 결국 다 '계'며든 화기애애 현장 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111314377253307",
+          "source": "머니투데이"
         }
       ]
     },
@@ -57,23 +78,48 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-14T00:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2UZN-XuuuFI603qVDIcGTpvuraAB8nWMSYXu1aEjCtFpJGeyfxpXLWjGWlYw",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGRz7-BV1fTvV6gpdpsgpsipigXPJr6El5Xci1_irmaU53ngikVw3l9-00pt0",
       "category": "기타",
       "news": [
         {
-          "title": "미국 전역 항공기 '올 스톱' 사태...수백만 명 발 묶여",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611140946084463_005.html",
-          "source": "YTN"
+          "title": "미 전역 항공기 운항 중단, 8천 건 이상 지연‥3만 대 이륙 불투명",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865622_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "관제통신망 마비에 美 전역 공항 ‘올스톱’…“통신 문제 조사 중”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261114/135023877/1",
+          "source": "동아일보"
         },
         {
           "title": "美전역 항공기 이륙 ‘올스톱’... 통신 장애로 1만1000편 지연·결항",
           "url": "https://www.chosun.com/international/us/2026/11/14/JINR2EN5QRAOJJF3Z7RLIBFGZA/",
           "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "삼천당제약",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T01:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsIoj1WquYD31Kl61WWDhG21mfQxznvTiRQ9JE_2wL8YTHzVewIilDoQ0Sn78",
+      "category": "경제",
+      "news": [
+        {
+          "title": "삼천당제약 R&D 투자 3배 확대, 경구용 치료제 승부수",
+          "url": "https://www.newsmp.com/news/articleView.html?idxno=259301",
+          "source": "의약뉴스"
         },
         {
-          "title": "미국 전역 항공기 운항 중단…“관제센터 통신 문제, 테러 징후 없어”",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1287311.html",
-          "source": "한겨레"
+          "title": "'53억 승부수' 삼천당제약, 日 약가 등재 … 셀트리온과 맞대결",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200274.html",
+          "source": "뉴데일리"
+        },
+        {
+          "title": "셀트리온·삼천당 아일리아 시밀러, 日 기존 제품과 약가 동일…판로·적응증 경쟁",
+          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70423",
+          "source": "메디코파마"
         }
       ]
     },
@@ -82,98 +128,123 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-14T00:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdftAwGzdZPD3b38q6ITaTgUey3FzmKy2BejWuEy6o3EfT5xlTBSS4tTTfhSc",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBNa63Hj0yXomrDU77dBxgUJi5WkAoZtXGu0zKRuEBHErqY3i512-OzCZ39nE",
       "category": "IT·과학",
       "news": [
         {
-          "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-          "url": "https://www.khan.co.kr/article/202611131019001",
+          "title": "평균 30점 과목서 100점…‘이례적 고득점’에 AI안경 의혹",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8712502",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "세무사 수석합격자 “왜 해명해야 하는지 모르겠다···찍는 것도 기술”",
+          "url": "https://weekly.khan.co.kr/article/202611141002001",
+          "source": "주간경향"
+        },
+        {
+          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
+          "source": "Daily NTN"
+        }
+      ]
+    },
+    {
+      "keyword": "고용노동부",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T01:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgmpIwdgGreBT90amzuzaKQ2PWrocp6GFh1Kfndzix-84wC4swsqE2JJcRHd0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'가짜 3.3 계약'·'사업장 쪼개기' 잡는다…탈법 기획감독 착수",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975686&pWise=sub&pWiseSub=C1",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
+          "url": "https://www.khan.co.kr/article/202611081637001",
           "source": "경향신문"
         },
         {
-          "title": "[단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"",
-          "url": "https://www.hankyung.com/article/202611134620i",
-          "source": "한국경제"
-        },
-        {
-          "title": "‘AI 안경 의혹’ 일파만파에…세무사 수석, 변호사 선임",
-          "url": "https://www.donga.com/news/Society/article/all/20261113/135023033/1",
-          "source": "동아일보"
+          "title": "노동법 피하려 '가짜 3.3'·사업장 쪼개기…노동부, 140곳 기획감독",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374720",
+          "source": "전기신문"
         }
       ]
     },
     {
-      "keyword": "한화오션",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T00:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8aRnEETKm8-oALaiRLTF6alATzbnyEPOPxsPe24tpuxosBf8voaz51-1sv10",
+      "keyword": "그랜드 테프트 오토",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T01:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdsRZJbZvl-QpxqJFWuW-Qy6WKdetlyJsIHMHUmMdX1TjlAp2qdr7GvjPpG3M",
       "category": "기타",
       "news": [
         {
-          "title": "한화오션, 노사 'RSU 공방' 내년 1월로…합의 당사자 심문 새 국면",
-          "url": "https://v.daum.net/v/U5YUtmyOL4",
+          "title": "Travis Scott Shows Off What Appears to Be a Copy of ‘GTA 6’ Before Its Release: ‘Bring Ya Own Controller’",
+          "url": "https://www.yahoo.com/entertainment/music/articles/travis-scott-shows-off-appears-205224176.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "GTA VI Is Putting on a Music Festival",
+          "url": "https://pitchfork.com/story/gta-vi-is-putting-on-a-music-festival/",
+          "source": "Pitchfork"
+        },
+        {
+          "title": "Cardi B, Travis Scott Set For 'GTA VI' Takeover Of Popular Miami Strip Club",
+          "url": "https://www.iheart.com/content/2026-11-12-cardi-b-travis-scott-set-for-gta-vi-takeover-of-popular-miami-strip-club/",
+          "source": "iHeart"
+        }
+      ]
+    },
+    {
+      "keyword": "광진구",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T01:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5B4tSxxwvTzcrw7kp1f4JivFJsQ-a_8IaDrAPsN4i634gFZnQ9ww6o9Q3rQ8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "광진구, 음식물 소형감량기 부산물 배출기준 완화…수분 25% 미만 종량제봉투 허용",
+          "url": "https://biz.heraldcorp.com/article/10935627",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "광진구, 가정용 소형감량기 부산물 일반 종량제봉투에 버리세요",
+          "url": "http://www.koreasisailbo.com/2466449",
+          "source": "시사일보"
+        },
+        {
+          "title": "음식물 건조기 부산물, 이제 일반 종량제봉투에 버린다… 광진구, 배출 불편 ‘해소’",
+          "url": "https://www.sijung.co.kr/news/articleView.html?idxno=441265",
+          "source": "시정일보"
+        }
+      ]
+    },
+    {
+      "keyword": "기내식",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T01:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2WKsG6DYmHEkio0suInFOpO6XE_xwxipIhbo4NC4kSBMwp4C7StOSgCip1YE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[데스크시각] 한앤코가 남긴 아이스크림",
+          "url": "https://v.daum.net/v/1vqWwIGhQg",
           "source": "Daum"
         },
         {
-          "title": "한화오션 ‘미지급 RSU’ 공방…당시 합의 당사자 심문 예정",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625117",
-          "source": "메디컬투데이"
+          "title": "[단독] 대한항공 ‘알짜’ 기내식 사업 결국 복수체제로...‘30년 계약’에 발묶여",
+          "url": "https://www.mk.co.kr/news/business/12206273",
+          "source": "매일경제"
         },
         {
-          "title": "한화오션 하청노조 16일부터 단식투쟁…\"임금·고용도 교섭해야\"",
-          "url": "https://www.yna.co.kr/view/AKR20261113076300052",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "대탈출",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T00:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRViKJrCNkV1WDJ14TesvpF4L1_67IsckC2w5pmLMPwUpCSUYE2LqYVQkKhMvM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘대탈출 : 도시괴담’ 얼마나 리얼했으면 “비명에 목소리 쉴 정도”",
-          "url": "https://sports.donga.com/ent/article/all/20261112/135012391/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "'대탈출' 강호동 빠지고 김종민·신동 수혈…다시 가능성 증명할 때 [N이슈]",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6351431",
-          "source": "뉴스1"
-        },
-        {
-          "title": "강호동 빠진 예능 '대탈출', 무거워진 김종민 어깨",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003283859",
-          "source": "오마이스타"
-        }
-      ]
-    },
-    {
-      "keyword": "보험계약",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T23:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeOlp3vz-2zeZ2EfVQ6wmxrn3Er4jDfVDYOHVr6HxtpNPyO0Ry5ZJhI5wvDt8",
-      "category": "경제",
-      "news": [
-        {
-          "title": "보험개발원 홈페이지 – 보상 대기 기간 확인 방법과 주요 기능 안내",
-          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=485525",
-          "source": "스페셜타임스"
-        },
-        {
-          "title": "미래에셋생명 3분기 순손실 339억, 투자손실에 적자로 돌아서",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451972",
-          "source": "비즈니스포스트"
-        },
-        {
-          "title": "미래에셋생명, 3분기 누적 순익 375억원…전년比 70.1% 감소",
-          "url": "https://www.viva100.com/article/20261113500759",
-          "source": "브릿지경제"
+          "title": "벤슨·밴루엔·배라, 프리미엄 아이스크림 3파전…3色 전략 승부수",
+          "url": "https://www.newsis.com/view/NISX20261113_0003866417",
+          "source": "뉴시스"
         }
       ]
     },
@@ -182,13 +253,13 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-14T00:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3CVW1TjL7C68eQtQD6szOdE9Mx3j_TbgL1H0TmQpxwLZyl51H7UDVdGCEHE",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkg2PavYSXlKSYVANRc55hg4mnGgt08g__Dt8zso7XO6MHGK6c76-MArtuSGU",
       "category": "기타",
       "news": [
         {
-          "title": "Video bóng đá Argentina - Uruguay: Thua đau trong nỗi nhớ Messi",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-argentina-uruguay-thua-dau-trong-noi-nho-messi-c48a1810974.html",
-          "source": "Tin tức 24h"
+          "title": "Không Messi, Argentina thua đau Uruguay trên sân nhà",
+          "url": "https://znews.vn/khong-messi-argentina-thua-dau-uruguay-tren-san-nha-post1696306.html",
+          "source": "Znews"
         },
         {
           "title": "HLV Lionel Scaloni gia hạn hợp đồng, dẫn dắt Argentina hướng tới World Cup 2030",
@@ -199,81 +270,6 @@
           "title": "Vì sao HLV Scaloni để trống áo số 10 của Messi ở đội tuyển Argentina?",
           "url": "https://thanhnien.vn/vi-sao-hlv-scaloni-de-trong-ao-so-10-cua-messi-o-doi-tuyen-argentina-185261113094405736.htm",
           "source": "Thanh Niên"
-        }
-      ]
-    },
-    {
-      "keyword": "올림픽공원",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T00:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ53LRs0tMnjpHJX8FGkCu0YOmuSpyvPS4QmY_1yS7xVr7yVYyEe5QLSlJOhHY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "물러나지 않는 '올공' 시위대‥올림픽공원 자진철거 기간 재차 연장",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865501_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "‘올공 시위’ 자진 철거 시한 넘기고 계속…정상화는 언제?",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711739",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "“여기가 제2의 4.19혁명 성지가 될 것”···계도기간 종료에도 올공 시위는 계속",
-          "url": "https://www.khan.co.kr/article/202611121740001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "장영란",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-13T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoeqYS5Q6OcmWAd-ggSxGnNTczCPrAvP-7Ytr60pa_3rk-r8BTGO-UJ2m5hbU",
-      "category": "연예",
-      "news": [
-        {
-          "title": "장영란 사주 봤더니 지금 전성기…“9년 간 팔자 늘어져”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023568/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[TVis] ‘48세’ 장영란, 고정출연 늘더니 전성기였네 “사주상 인생 후반전 시작” (‘언니만 따라와’)",
-          "url": "https://isplus.com/article/view/isp202611130121",
-          "source": "일간스포츠"
-        },
-        {
-          "title": "장영란, 유튜브 '月수익 1152만원' 대박나더니..\"9년간 팔자 늘어져\" 사주 풀이에 함박웃음",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-13/202611130100092880008738",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "여수세계박람회장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-13T23:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe8oT9LMz9qFEtbOh8HDaNrcjDGOR4jEX4s-xAPLzRt5XOKZLsyto8JL13elY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "한림대 춘천성심병원, 생명나눔 사랑의 헌혈 행사…교직원 등 동참",
-          "url": "https://www.news1.kr/local/kangwon/6353573",
-          "source": "뉴스1"
-        },
-        {
-          "title": "헌혈로 전하는 생명나눔… 용인서부소방서, 동절기 헌혈 동참",
-          "url": "https://www.kyeonggi.com/article/20261112580421",
-          "source": "경기일보"
-        },
-        {
-          "title": "포항시시설관리공단, 포항종합운동장서 '사랑의 헌혈운동' 전개",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751552",
-          "source": "국제뉴스"
         }
       ]
     }
