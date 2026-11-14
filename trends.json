@@ -1,271 +1,235 @@
 {
-  "updatedAt": "2026-11-14T03:44:53.219Z",
+  "updatedAt": "2026-11-14T04:46:18.824Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 5
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 3
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "윤여정",
+      "keyword": "한화 이글스",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-14T02:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvIc7ABuP4euTVN2nzhQNXbq5lAmBu_XWOyMI6ZiuLK4S8CjQ_5CxWX-5Z-0k",
-      "category": "연예",
-      "news": [
-        {
-          "title": "연상호·변우석· CJ CGV·넷플릭스까지…서울독립영화제 빛내는 영화계 연대",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844468",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "2023년 정부 예산 삭감 '서울독립영화제'...연상호→변우석, 영화계 연대의 '힘'",
-          "url": "https://www.nc.press/news/articleView.html?idxno=630882",
-          "source": "뉴스컬처"
-        },
-        {
-          "title": "연상호부터 윤여정·변우석까지, 올해는 넷플릭스도…서울독립영화제로 모인 이유",
-          "url": "https://www.dailian.co.kr/news/view/1714518/%EC%97%B0%EC%83%81%ED%98%B8-%EC%9C%A4%EC%97%AC%EC%A0%95%EB%B3%80%EC%9A%B0%EC%84%9D-%EC%98%AC%ED%95%B4-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EB%8F%84%EC%84%9C-2026",
-          "source": "데일리안"
-        }
-      ]
-    },
-    {
-      "keyword": "샌안토니오 대 골든 스테이트",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T01:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxUQb4J-7-KjVmG6WRw-cPsX8HxJqEfD6Q3BgO2Z2NedaOJw1nBBX-3FiYqPk",
+      "startedAt": "2026-11-14T03:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3dm5ujJCbqJpXrIeWHWZCZyvE0YHe3urT_FbgYiFCuVoVq8Q-ZXiJRE9Rc4M",
       "category": "스포츠",
       "news": [
         {
-          "title": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
-          "url": "https://sports.yahoo.com/articles/spurs-ambush-warriors-first-quarter-030853064.html",
-          "source": "Yahoo Sports"
+          "title": "'744억' 쓰고 떠난 손혁 단장, '큰 손' 한화 FA 중견수 사올까…김호령 최지훈 홍창기 배정대 등 매물은 많다",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GYYDMMTBMQ2TOYRYMFTGEOJZG4/",
+          "source": "조선일보"
         },
         {
-          "title": "It’s time for Basketball: San Antonio Spurs vs Golden State Warriors",
-          "url": "https://www.poundingtherock.com/spurs-discussion-threads/110030/its-time-for-basketball-san-antonio-spurs-vs-golden-state-warriors",
-          "source": "Pounding The Rock"
+          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712285",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Warriors vs. Spurs injury report: Steph Curry’s absence begins",
-          "url": "https://www.goldenstateofmind.com/warriors-injury-report/113484/warriors-spurs-injury-report-steph-curry-dearron-fox",
-          "source": "Golden State Of Mind"
-        }
-      ]
-    },
-    {
-      "keyword": "김지원",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T01:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDn22CjeResvD0fiqsqvQUr1JnK6ncbM7yust5WnrJYOOxRSFHt_Ls2CAB_Og",
-      "category": "기타",
-      "news": [
-        {
-          "title": "전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)",
-          "url": "https://sports.donga.com/ent/article/all/20261113/135023492/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "닥터X : 하얀 마피아의 시대 : [최종회 예고] “용케 살아서 여기까지 왔네” 김지원, 환자 수술 도중 중단 선언♨ (ft. 폐원)",
-          "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483132189",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "‘닥터X’ 종영 앞두고 드러난 김지원 과거… 아동 성범죄자 향한 응징의 카운트다운",
-          "url": "https://sports.khan.co.kr/article/202611140204003",
+          "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
+          "url": "https://sports.khan.co.kr/article/202611131627013",
           "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "롯데그룹",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T02:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQQmHIazkfebAJkk7aJngepgcyUw50c5m6XT1lEohbd_4JVAotUfxrV02bDDE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
-          "source": "인베스트조선"
-        },
-        {
-          "title": "[단독]롯데그룹, 16일 정기인사…신유열 사장 승진 여부 촉각",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05034806645645392&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "[SV CEO] 신유열 롯데지주 미래성장실장, 식품·바이오 확대…′원롯데′로 성장동력 강화",
-          "url": "https://www.socialvalue.kr/news/view/1065597673098102",
-          "source": "소셜밸류"
-        }
-      ]
-    },
-    {
-      "keyword": "현수막",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T02:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsh50ohPV-6_oqOl0dt1WRHJrjLkz_Al_7209QLSpx1VYaiWwm4VtadwPZ-Hw",
+      "keyword": "이륙",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-14T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BX5a3VlSpA8QxJDchNsqmYQHEfvqXYneyUeJ-0sRMWWcca6Oa35Ijlz16pY",
       "category": "기타",
       "news": [
         {
-          "title": "“오늘 전역한 아들이 타고 있어요”…차에 붙은 현수막에 운전자들 ‘뭉클’",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57064",
-          "source": "주간조선"
+          "title": "미 전역 항공기 운항 중단‥2만 5천여편 지연·결항",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865633_36967.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "\"우리 아들 전역했어요\" 차량에 현수막...도로 위 쏟아진 축하[살맛나는 세상]",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611130021",
-          "source": "KBC광주방송"
-        },
-        {
-          "title": "“오늘 전역한 아들이 타고 있어요“…아버지 현수막에 ’응원 봇물’",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113103333XIg",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "전소미",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLYfGvAXg4mDnQvVImHLVwFv9cRgNHRnW3Z-U6wrYcsArVo2FZh7onHSVRnQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"넘어뜨리고 발로 밟아\" 전소미, 학교폭력 피해 고백",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/HFRGKMTBGZTDENTCGY3TQMLBGU/",
+          "title": "‘올스톱’ 됐던 美 하늘길... 4시간 20분 만에 풀렸다",
+          "url": "https://www.chosun.com/international/us/2026/11/14/JINR2EN5QRAOJJF3Z7RLIBFGZA/",
           "source": "조선일보"
         },
         {
-          "title": "“6학년 하굣길에 남학생이 나를”…‘학폭 피해’ 고백한 전소미, 눈물",
-          "url": "https://www.mk.co.kr/news/culture/12208757",
-          "source": "매일경제"
-        },
-        {
-          "title": "전소미, 학폭 피해 트라우마 고백…“지금도 눈물 흘려”",
-          "url": "https://mbiz.heraldcorp.com/article/10936781",
-          "source": "헤럴드경제"
+          "title": "[속보] 오늘 오전 인천 출발 미국행 항공편 결항 취소…정상화 수순",
+          "url": "https://www.kmib.co.kr/article/20261114500032",
+          "source": "국민일보"
         }
       ]
     },
     {
-      "keyword": "이마트",
+      "keyword": "대전광역시",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T03:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "경찰차",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T02:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8",
-      "category": "경제",
+      "startedAt": "2026-11-14T03:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_-Z2kiIcL9nkCCYfhDL_5jxHJxTb7cWI6HR2z2uuWfNswC5cBurMp4_ZXPg",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "[리포트 브리핑]이마트, '놀라운 본업(지속적), 충격의 스타벅스(일시적)' 목표가 100,000원 - IBK투자증권",
-          "url": "https://www.newspim.com/news/view/20261113000175",
-          "source": "뉴스핌"
+          "title": "경찰차 추월 시도, 주차 딱지 붙이고 주행, 일방 통행로 역주행까지…이상한 이 택시의 정체는?",
+          "url": "https://www.khan.co.kr/article/202611140700031",
+          "source": "경향신문"
         },
         {
-          "title": "오프라인 부활 '신호탄'…대형마트도 '깜짝 반등'",
-          "url": "https://view.asiae.co.kr/article/2026111123235571518",
-          "source": "아시아경제"
+          "title": "[김흥식 칼럼] 핸들도 운전자도 없는 '완전 자율주행차' 처벌 방법 있나",
+          "url": "https://auto.danawa.com/news/?Work=detail&no=6081087&NewsGroup=M",
+          "source": "다나와 자동차"
         },
         {
-          "title": "한투증권, 이마트 목표가↓…\"3분기 자회사 부진 매우 아쉬워\"",
-          "url": "https://www.yna.co.kr/view/AKR20261112026000008",
+          "title": "'스쿨버스 추월' 웨이모…美 NHTSA, 로보택시 리콜 부실 여부 정밀 검증 착수",
+          "url": "https://theguru.co.kr/news/article.html?no=109658",
+          "source": "더구루"
+        }
+      ]
+    },
+    {
+      "keyword": "표고",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T03:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReC7hJtA73tiYZJrePKUrUla5uFoysxJxgo95JvLiZ6P8SqXTsEkMSz6O5ZoI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "중국서 다 키워놓고선 국내산?…표고버섯 속여 판 업체 적발",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712299",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "농관원, 중국산 표고버섯 563t 국내산 속여 판 5개 업체 적발",
+          "url": "https://www.yna.co.kr/view/AKR20261113098500054",
           "source": "연합뉴스"
+        },
+        {
+          "title": "중국산 표고버섯 국내산 속인 업체 5곳 적발…\"40억원 상당\"",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867322",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "lig 디펜스&에어로스페이스",
+      "keyword": "로보택시",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T02:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU637UsceCNGSx5pGiUPmqj94Cb_htwMCWik4sI9Baj62pIMoFXYun89UMrzw",
+      "startedAt": "2026-11-14T02:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXwjKqT7240xg7TqcZRgyK2saQMpwMFbUAvV_2aJKNlSQXmBAIXn9P-lOiOLY",
       "category": "기타",
       "news": [
         {
-          "title": "[K-방산 보릿고개] ①“하반기는 잘 안풀리네”…영업익 증발ㆍ곳간 축소",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121231481010784",
-          "source": "대한경제"
-        },
-        {
-          "title": "LIG 입찰제한 일주일 앞… KF-21 사업 ‘빨간불’",
-          "url": "https://www.munhwa.com/article/11631129",
-          "source": "문화일보"
-        },
-        {
-          "title": "[취재수첩] 내부 비리 못막고 기업 옥죄는 방사청",
-          "url": "https://www.hankyung.com/article/2026111358001",
+          "title": "로보택시 다음은 오토바이…中 자율주행 기업, 8000만대 시장 노린다",
+          "url": "https://www.hankyung.com/article/202610053827i",
           "source": "한국경제"
+        },
+        {
+          "title": "[EICMA 2026] 중국 TARNS에서 왔다! 알루미늄 단조 휠 공개: 주조 제품 대비 강도 30% 향상 및 무게 1/3 이상 경량화 주장",
+          "url": "https://japan.webike.net/moto_news/ko/eicma-2026-from-tarns-china-aluminum-forged-wheels-unveiled-claimed-to-be-30-stronger-and-over-1-3-lighter-than-cast-products/",
+          "source": "Webike Japan"
+        },
+        {
+          "title": "코브, EICMA에서 신모델 5종 및 2027년 레이싱 라인업 공개",
+          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=107360",
+          "source": "코리아이글뉴스"
         }
       ]
     },
     {
-      "keyword": "ufc 335",
+      "keyword": "강민호",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T01:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOjsvQIRzDfcEbhap-3ptBZcbeTxmrRy15BT_Fl94342xpDYjn28drmWvZaVw",
-      "category": "기타",
+      "startedAt": "2026-11-14T02:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc1cs8okZXSEeQjYWVVgGrax03Pgwp6TDWOMcYexPid_QkaaMgu5793muo4go",
+      "category": "스포츠",
       "news": [
         {
-          "title": "UFC 335 and UFC 336 full press conference faceoffs",
-          "url": "https://sports.yahoo.com/videos/ufc-335-ufc-336-full-024412147.html",
-          "source": "Yahoo Sports"
+          "title": "2위팀 삼성의 뒤집기 우승… ‘부자=챔프’ 공식도 뒤집다",
+          "url": "https://www.donga.com/news/Society/article/all/20261113/135022468/2",
+          "source": "동아일보"
         },
         {
-          "title": "UFC champion has his title stolen after no-showing press conference featuring Pereira and Oliveira",
-          "url": "https://bloodyelbow.com/2026/11/13/ufc-champion-has-his-title-stolen-after-no-showing-press-conference-featuring-pereira-and-oliveira/",
-          "source": "Bloody Elbow"
+          "title": "9승 투수의 대반전, 가을엔 3승 무패 특급 에이스...삼성 12년 만의 우승 이끈 후라도, \"내 임무 완수했다\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GZSGEMZWMU3TKY3DMNTGGMTFMQ/",
+          "source": "조선일보"
         },
         {
-          "title": "UFC 335/UFC 336 first faceoffs: BMF title, Pereira, Van-Kape, Prates-Morales",
-          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/13/ufc-335ufc-336-faceoffs-bmf-title-pereira-van-kape-prates-morales/92753027007/",
-          "source": "MMA Junkie"
+          "title": "친청계 3인 \"윤리감찰 대상은 김민석…당원 반으로 갈라\"",
+          "url": "https://news.jtbc.co.kr/article/NB12327904",
+          "source": "JTBC"
         }
       ]
     },
     {
-      "keyword": "제물포구",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T01:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb6Fkr8ZfU_MLY4UbZ_aCItT3TDdYY57qzjmUI-ikmPaoux9lFzRF9WiSSy24",
+      "keyword": "잠실 더 라스트 이닝",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T03:20:00.000Z",
+      "picture": "",
       "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "안규백",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T02:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "제물포구, 방치·위험 간판 무상 철거 신청 접수",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721860",
-          "source": "뉴스타운"
+          "title": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "하남시옥외광고협회, 겨울철 간판 안전점검…시민 안전 지킨다",
-          "url": "https://www.kyeonggi.com/article/20261112580244",
-          "source": "경기일보"
+          "title": "국방부, 육해공 사관생도 대상 국군사관학교 설문 착수",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261114093518Td6",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "인천 제물포구, 강풍·대설 앞두고 거리 위 ‘위험 간판’ 걷어낸다",
-          "url": "https://sports.donga.com/region/article/all/20261113/135019673/1",
-          "source": "스포츠동아"
+          "title": "빈대 잡으려다 초가삼간 태운다?… 의도적 육사 배제에 안보 공백 우려 커져",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57077",
+          "source": "주간조선"
+        }
+      ]
+    },
+    {
+      "keyword": "디에고 포를란",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T02:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROpfG0kAONvIEeZLLLTtbWKkbo789mQM_ZB9FxNr5PjaM0EinOAWkdaymy47Q",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "모레노호 4-1로 침몰시키더니 흐름 제대로 탔다… 메시 은퇴한 아르헨티나 2-1로 격파한 우루과이, 3연승 질주",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314049",
+          "source": "베스트일레븐"
+        },
+        {
+          "title": "전 맨체스터 유나이티드 공격수 포를란이 우루과이 대표팀을 이끌며 눈부신 활약을 펼치고 있다.",
+          "url": "https://www.vietnam.vn/ko/cuu-tien-dao-man-united-forlan-toa-sang-khi-dan-dat-uruguay",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "한국 4-1로 무너뜨리더니 자신감 제대로 붙었다…포를란 감독, 모레노호 상대 대승에 만족 “수준 높은 한국 상대로 매우 좋은 경기력 보여줬다”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698363",
+          "source": "인터풋볼"
         }
       ]
     }
