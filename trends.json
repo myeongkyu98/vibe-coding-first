@@ -1,13 +1,9 @@
 {
-  "updatedAt": "2026-11-14T19:37:42.618Z",
+  "updatedAt": "2026-11-14T20:31:36.627Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "count": 5
     },
     {
       "category": "IT·과학",
@@ -18,40 +14,15 @@
       "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "강신철",
+      "keyword": "치지직",
       "traffic": "10000+",
       "trafficValue": 10000,
-      "startedAt": "2026-11-14T16:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROQ1g4PkzMzAw5r273T117YbfWd_Vx0Iz43vjfw3GykabxEeJW_G2YFgGOSCg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "미 전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865577_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
-          "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "前 주한미군 사령관, '전작권 전환 당장 가능' 韓 국방 발언 겨냥 \"실망\" - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/14/2026111409494799617",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "치지직",
-      "traffic": "5000+",
-      "trafficValue": 5000,
       "startedAt": "2026-11-14T18:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnjs09LxTp48mVYlqvUfkufyFaYdE9jBJeews5Y1zHwEUMX86Em8D-Js0lJY0",
       "category": "IT·과학",
@@ -74,35 +45,10 @@
       ]
     },
     {
-      "keyword": "숲",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "keyword": "바이퍼",
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-14T18:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Ua5qldBsiiuIuWjVuUSA-l6znPnRMklYJSvdF_5X1pkbIZz2ZcypmKORRF8",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "\"10만 평 숲이 통째로 붉은빛으로 물들었다니\"… 입장료 한 푼 안 받는 늦가을 단풍 정원",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21579",
-          "source": "아던트뉴스"
-        },
-        {
-          "title": "붉게 물든 서남산 주변",
-          "url": "http://m.srbsm.co.kr/view.php?idx=57072",
-          "source": "서라벌신문"
-        },
-        {
-          "title": "반세기 동안 보전한 숲이 이렇게 아름다울 줄이야... 2023년 개방한 생태정원 무료 여행지",
-          "url": "https://www.balpumnews.com/travel/gyeongju-millennium-forest",
-          "source": "발품뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "젠지",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-14T17:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyEiHl45xv83jbLyHv2reQVmMbmadshfWY4rO7_sP_bFTTQknG10Bs1n6PIrU",
       "category": "스포츠",
       "news": [
@@ -117,34 +63,154 @@
           "source": "뉴시스"
         },
         {
-          "title": "\"LCK 4팀 모두 꺾겠다\"…BLG 양대인·바이퍼, `롤드컵` 우승 자신감",
-          "url": "https://www.ddaily.co.kr/page/view/2026111409570852936",
-          "source": "디지털데일리"
+          "title": "‘캐니언’ 김건부 “월즈 결승은 흔치 않은 기회⋯팀원들 모두 자기 기량 뽐내길”",
+          "url": "https://www.kmib.co.kr/article/20261114500020",
+          "source": "국민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "숲",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-14T18:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR06F3fdQGv-aa5u5_h60ToLp02WdqIw2edpBMIHKy0KFlVSg0qP6O_2b3uO-o",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"궁궐 정원을 그대로 옮겨놨네\"… 한옥 정자와 연못 아름다운 축구장 90개 크기 수목원 명소",
+          "url": "https://www.balpumnews.com/travel/sejong-national-arboretum-4",
+          "source": "발품뉴스"
+        },
+        {
+          "title": "‘함께해서 좋아’",
+          "url": "https://www.sedaily.com/article/20114313",
+          "source": "서울경제"
+        },
+        {
+          "title": "[알립니다] 서울경제·산림청이 함께하는 ‘2026년 도시숲사랑 달팽이 마라톤’",
+          "url": "https://www.sedaily.com/article/20111292",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "포르투갈 대 덴마크",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-14T19:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2kZZl8F9zcqq95bHdN9cfOop-OHrwMvhpxPALA1T1bw4r4S9fXLQZm7nEEKc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "네이션스 리그 포르투갈 대 덴마크 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bo-dao-nha-vs-dan-mach-tai-nations-league-1799982.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "경기 프리뷰: 포르투갈 vs 덴마크, 11월 15일 오전 2시 45분: 조 1위 자리를 놓고 경쟁.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bo-dao-nha-vs-dan-mach-2h45-ngay-15-11-can-dich-ngoi-dau",
+          "source": "Vietnam.vn"
         }
       ]
     },
     {
       "keyword": "blg",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-14T18:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe85sPCJJqKlKli8gTC762n9qE_0XzpCMxCJhrUZiPIKPBjm9lPL_RWCzT1oQ",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVYS8bOMjtTGqLXXnWzUR1TKhtyMwk8ItBRst3E4SUbupy6jsB9WF1PNdeF8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Worlds Final Is First Without T1 Since 2021 After 3.6M Semi Peak",
-          "url": "https://rg.org/news/esports/worlds-2026-final-first-without-t1-since-2021-viewership",
-          "source": "RG.org"
-        },
-        {
-          "title": "\"LPL Back to the Top\" — BLG Sets Sights on LCK Gauntlet",
-          "url": "https://www.invenglobal.com/articles/28579/lpl-back-to-the-top-blg-sets-sights-on-lck-gauntlet",
-          "source": "Inven Global"
+          "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+          "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+          "source": "Sheep Esports"
         },
         {
           "title": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
           "url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
           "source": "CelebrityAccess"
+        },
+        {
+          "title": "League of Legends World Championship tickets cost more than $1,300",
+          "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/11/12/shop-last-minute-league-of-legends-world-championship-e-sports-tickets/92731292007/",
+          "source": "USA Today"
+        }
+      ]
+    },
+    {
+      "keyword": "빈",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T19:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhxsqMifoz8xiJRyrYu54rBRbJ2PXzvymY-cZ5W3gPE6kC9Q-xdeSma7z_hc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "이준석 “내가 노무현 대통령 추천서 어떻게 받나”…전한길 추가 고소 예고",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1287327.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "10년 전 공개한 졸업장 또 소환…전한길의 ‘하버드 2차 공세’에 이준석 폭발",
+          "url": "https://www.seoul.co.kr/news/politics/congress/2026/11/14/20261114500025",
+          "source": "서울신문"
+        },
+        {
+          "title": "전한길 “노무현 추천서로 하버드 입학”…이준석 “허위 사실 추가 고소”",
+          "url": "https://www.kyeonggi.com/article/20261114580059",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "아프리카",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T18:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHA_hReyEvSm-L_E08t_9Qh7icrNvarU9SCthby4izElTsJAJPIJHYBRN2cl0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "매출 1년 새 15배 성장… 스킨서울랩, 정주영 창업경진대회 글로벌 부문 최우수상",
+          "url": "https://www.seoultopnews.kr/news/articleView.html?idxno=100353",
+          "source": "톱뉴스"
+        },
+        {
+          "title": "한·아프리카재단, ‘2026 글로벌 액셀러레이팅 in Africa’ 기후테크 성과공유회 개최",
+          "url": "https://wowtale.net/2026/11/14/268054/",
+          "source": "와우테일"
+        },
+        {
+          "title": "[AI서머리] 경기창경, 2026 경기스타트업페스타 개최‧스킨서울랩, 정주영 창업경진대회 최우수상",
+          "url": "https://startuprecipe.co.kr/archives/5841370",
+          "source": "스타트업레시피"
+        }
+      ]
+    },
+    {
+      "keyword": "twitch",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T18:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9LxfvV6Aku-36afdXY9rQxna6G84QWx23KuKcNJfdDck3pXJ7k28SGwLdjE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
+          "url": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
+          "source": "KTLA"
+        },
+        {
+          "title": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
+          "url": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html",
+          "source": "Notebookcheck"
+        },
+        {
+          "title": "Kick Takes GTA 6 Giveaway to California With Lucia Cosplayer On Special Truck",
+          "url": "https://sports.ndtv.com/us/us-streamers/kick-takes-gta-6-giveaway-to-california-with-lucia-cosplayer-on-special-truck-12326023",
+          "source": "NDTV Sports"
         }
       ]
     },
@@ -154,7 +220,7 @@
       "trafficValue": 200,
       "startedAt": "2026-11-14T18:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ3U4QAfHsn_oG-ek5nuFEkIVGKx084Jczlx2PnT5Iqybn5gzeBC7cNMuH-bQ",
-      "category": "기타",
+      "category": "스포츠",
       "news": [
         {
           "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
@@ -167,109 +233,34 @@
           "source": "EGamersWorld"
         },
         {
-          "title": "Worlds Final Is First Without T1 Since 2021 After 3.6M Semi Peak",
-          "url": "https://rg.org/news/esports/worlds-2026-final-first-without-t1-since-2021-viewership",
-          "source": "RG.org"
+          "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+          "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+          "source": "Sheep Esports"
         }
       ]
     },
     {
-      "keyword": "norway vs wales",
+      "keyword": "lol",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-14T18:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiuyYO3CCObfzCUYS6TV7vHrdsODRQZA1hi5-_QNGWv7ANd1J131mZKhbaf5g",
-      "category": "스포츠",
+      "startedAt": "2026-11-14T19:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8",
+      "category": "기타",
       "news": [
         {
-          "title": "Norway vs Wales: Lineups, Prediction, Odds & Bet Builder Tip",
-          "url": "https://www.whoscored.com/articles/kqOJt_4WBU6ACNPJGYVACg/show/cng111-20261114-norway-vs-wales-prediction-1794649062",
-          "source": "WhoScored.com"
+          "title": "LoL Esports 2027 and Beyond",
+          "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
+          "source": "LoL Esports"
         },
         {
-          "title": "ALL GOALS: Norway vs. Wales | UEFA Nations League",
-          "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/all-goals-norway-vs-wales-uefa-nations-league-2026-11-14",
-          "source": "beIN SPORTS"
+          "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
+          "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
+          "source": "The Korea Daily"
         },
         {
-          "title": "Video: Haaland writes the closing scene: Norway overcome the Wales ambush",
-          "url": "https://www.livescore.com/en/news/football/more/video-haaland-writes-the-closing-scene-norway-overcome-the-wales-ambush-goal/",
-          "source": "LiveScore"
-        }
-      ]
-    },
-    {
-      "keyword": "천준호",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T17:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE5nHXJnts5Xm4zGyG9M_rk5Q1tNK9FOlWZl16Ks8FQ22X1xZemU5uUs7xVkM",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865696_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "이 대통령, 천준호에 “고생 많았다···등 뒤에서 날아오는 화살 가장 힘들어”",
-          "url": "https://www.khan.co.kr/article/202611142106001",
-          "source": "경향신문"
-        },
-        {
-          "title": "李대통령 “가장 힘든 건 등 뒤에서 날아오는 화살”…민주당 내홍 겨냥?",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57129",
-          "source": "주간조선"
-        }
-      ]
-    },
-    {
-      "keyword": "음식 배달",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T17:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2RH75F6O-AZNk4WHm0pEr0fY3MaspBwDxWqF9DxgTxclKyTgz_kIxsE3hQA",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "전배모 \"배달 라이더 84%, 수익감소 우려…수수료 규제 반대\" - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/13/2026111314260557793",
-          "source": "머니투데이"
-        },
-        {
-          "title": "배달앱 수수료 15% 상한제 입법추진...음식점측 “빨리 도입” vs 라이더 “최저 배달비 보장”",
-          "url": "https://contents.premium.naver.com/backbriefing/news/contents/261114134414874tv",
-          "source": "네이버 프리미엄콘텐츠"
-        },
-        {
-          "title": "라이더 소득 위협하는 배달시장 규제 반대 기자회견",
-          "url": "https://www.news1.kr/photos/8210963",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "raf",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T16:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD0IzGDj0nbAPuuAanP_OBdznbqOPsvVI3kDvjTQCK0f__nJlJIQMv5F12P4c",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "RAF Abu Dhabi: Khamzat Chimaev vs. Chris Weidman Live Updates, Highlights, Results",
-          "url": "https://bleacherreport.com/liveblogs/25532850-raf-abu-dhabi-khamzat-chimaev-vs-chris-weidman-live-updates-highlights-results",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "LIVE! RAF Abu Dhabi Results: Khamzat vs. Weidman",
-          "url": "https://www.mmafighting.com/raf-wrestling/520909/raf-abu-dhabi-results-khamzat-vs-weidman",
-          "source": "MMA Fighting"
-        },
-        {
-          "title": "RAF Abu Dhabi results: Khamzat Chimaev wins RAF title, Arman Tsarukyan cruises to victory",
-          "url": "https://mmajunkie.usatoday.com/story/sports/mma/2026/11/14/raf-abu-dhabi-highlights-live-results-khamzat-chimaev-merab-dvalishvili-usman-nurmagomedov-brawl--live/92778421007/",
-          "source": "MMA Junkie"
+          "title": "Riot Games Considering Replacing Worlds Play-In with Demacia Cup Global Invitational in 2027",
+          "url": "https://www.sheepesports.com/en/articles/riot-games-considering-replacing-worlds-play-in-with-demacia-cup-global-invitational-in/en",
+          "source": "Sheep Esports"
         }
       ]
     }
