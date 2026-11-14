@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:36:03.762Z",
+  "updatedAt": "2026-11-14T00:49:52.096Z",
   "summary": [
     {
       "category": "기타",
@@ -7,80 +7,18 @@
     },
     {
       "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "count": 3
     },
     {
       "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "count": 3
     }
   ],
   "items": [
     {
-      "keyword": "날씨",
-      "traffic": "500000+",
-      "trafficValue": 500000,
-      "startedAt": "2026-11-13T21:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXdkUnLhBqbUJSO_Y7QioHcA1RyyYyvdyA8cX7gaa7yoroAzMWRuZmnEn6rus",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "은행나무 ‘노란 단풍’ 절정…토요일 전국에 비",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712490",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "전국 대부분 흐리고 비‥낮 최고 11~18도",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865601_37012.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "제주, 흐리고 곳에 따라 비",
-          "url": "https://www.yna.co.kr/view/AKR20261114012500056",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "참교육",
+      "keyword": "아르헨티나 대 우루과이",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-13T22:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTJDzGb3LnlCdxiJ3vmZK8qoMUeetJQ1pgOSll979JKoQTTB2qQ1z9PB7IVoQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "아동학대 논란 휩싸인 민속촌 귀신…“웃는다고 괜찮은 건 아냐” 세계의 ‘공포 훈육’ 돌아보니 [이윤정 기자의 소소월드]",
-          "url": "https://www.khan.co.kr/article/202611121023001",
-          "source": "경향신문"
-        },
-        {
-          "title": "\"학대냐 아니냐\" 불붙은 논란‥'어둠의 오은영' 이제 못 보나",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865252_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[참성단] ‘귀신 훈육’ 딜레마",
-          "url": "https://www.kyeongin.com/article/1774690",
-          "source": "경인일보"
-        }
-      ]
-    },
-    {
-      "keyword": "아르헨티나 대 우루과이",
-      "traffic": "2000+",
-      "trafficValue": 2000,
       "startedAt": "2026-11-13T22:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8Ob5XEAS_AA5PCfw7z8FSxlrOr8ji3KiaRPKwWV9M1rq82mr2WfqQfd_q8Jo",
       "category": "스포츠",
@@ -103,177 +41,227 @@
       ]
     },
     {
-      "keyword": "돈",
+      "keyword": "매일경제신문",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-13T22:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ8sI5xgPusAi1eiGjneT0inm6VPZm6JA_Peds5iY8SF0CQVMZy1iZeBiWVyo",
-      "category": "IT·과학",
+      "startedAt": "2026-11-13T23:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt1EFtDUlPN56BK-xAH9RtXucI1zaBodInB-I_ii3OKr9xeATh4PrtsDBV7sw",
+      "category": "기타",
       "news": [
         {
-          "title": "\"돈 펑펑 쓸 때 아니다\"…AI 호황 누리는 한국에 날린 경고",
-          "url": "https://www.hankyung.com/article/2026111236311",
-          "source": "한국경제"
+          "title": "낮에 싸게 팔아도 … 기업들 전기 안쓰는 이유는",
+          "url": "https://stock.mk.co.kr/news/view/1197131",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "\"국가부채는 공짜 점심? 근본적으로 틀린 믿음\"",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/13/DHLZ47QWIZHDXNU7CVGNR77CJE/",
-          "source": "조선일보"
+          "title": "전기밥솥, 취사보다 ‘이것’에 전기 더 쓴다?…돈 아끼는 가전 습관",
+          "url": "https://www.nongmin.com/article/20261110500035",
+          "source": "농민신문"
         },
         {
-          "title": "[한은은 지금] 로고프가 던진 '공짜점심'과 신현송의 '재정지속 가능성'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444493",
-          "source": "연합인포맥스"
+          "title": "하숙생의 생활비를 줄이는 데 도움이 되는 전기 절약 팁",
+          "url": "https://ko.laodong.vn/video/meo-tiet-kiem-dien-giup-nguoi-o-tro-giam-chi-phi-sinh-hoat-1798523.ldo",
+          "source": "Laodong.vn"
         }
       ]
     },
     {
-      "keyword": "주한 미군의 철수",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-13T21:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShDWxlJpBDH3osVJ5eAITs5nGFntXDcQyQEGzPuOy-Eq2swRl8Cty9ejoLQ2A",
+      "keyword": "대한민국의 특별검사제도",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-13T23:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq0MWhpP44PStFZmeUs7tMmSUJbE3Rv8pt2MXilWy5G4l8E9fv1B8r4LUFja8",
       "category": "정치·사회",
       "news": [
         {
-          "title": "美전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
-          "url": "https://www.yna.co.kr/view/AKR20261114002200071",
-          "source": "연합뉴스"
+          "title": "검찰 불법 행위 밝히자는데 저주 퍼붓는 주류 매체들",
+          "url": "https://newstapa.org/article/iKKSJ",
+          "source": "뉴스타파"
         },
         {
-          "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
-          "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/",
-          "source": "조선일보"
+          "title": "국힘, 부산서 ‘조작기소 특검법’ 규탄 장외 집회",
+          "url": "https://www.khan.co.kr/article/202611140852001",
+          "source": "경향신문"
         },
         {
-          "title": "김건 의원 \"한미 조인트 팩트시트 1년에도 핵잠수함·원자력 협력 제자리\"",
-          "url": "https://www.newspim.com/news/view/20261113000598",
-          "source": "뉴스핌"
+          "title": "오세훈 \"정부가 법치주의 훼손하면 목소리 아끼지 않을 것\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865482_36911.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "argentina vs uruguay",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-13T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8E8pVqKJwK_2jLQXwsc7I8FKo2qV6g_iIsoqYZyp8zyDjITTemijXpD7s_Ls",
+      "keyword": "단풍",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-13T23:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9eoWN1K5hU3lA9uji1RXNQ-P1AuQAQ5GvAZGhhO2DTeBOrfQfFEHbIUbpHg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "달랏의 가을 단풍은 관광객들을 매료시킨다.",
+          "url": "https://www.vietnam.vn/ko/sac-thu-da-lat-niu-chan-du-khach",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "\"애기단풍이 절정인데 5,000그루 천연 비자림까지?\"... 입장료 0원으로 숲길 걷는 천년 고찰",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21546",
+          "source": "아던트뉴스"
+        },
+        {
+          "title": "전국 천년 사찰에 붉은 단풍잎이 빚어낸 가을의 시간",
+          "url": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065578053755500",
+          "source": "울산종합일보"
+        }
+      ]
+    },
+    {
+      "keyword": "lg 트윈스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-13T23:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZzQKkJnUzofeiWzGzQsE8aA5Ox72pn4pp7ZxxKcR2TITuXVHJ5y1lyrzaYc",
       "category": "스포츠",
       "news": [
         {
-          "title": "Licensable picture: International Friendly - Argentina v Uruguay",
-          "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-uruguay/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkQxUDNJUlg",
-          "source": "Reuters Connect"
+          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Soccer Streams!Soccer:Uruguay vs Argentina LIVE Streams ON TV CHANNEL",
-          "url": "https://www.goldderby.com/topic/soccer-streamssocceruruguay-vs-argentina-live-streams-on-tv-channel/",
-          "source": "Gold Derby"
+          "title": "'744억' 쓰고 떠난 손혁 단장, '큰 손' 한화 FA 중견수 사올까…김호령 최지훈 홍창기 배정대 등 매물은 많다",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GYYDMMTBMQ2TOYRYMFTGEOJZG4/",
+          "source": "조선일보"
         },
         {
-          "title": "Argentina vs Uruguay Lineups CONFIRMED: Who Replaces Lionel Messi In Starting XI",
-          "url": "https://www.sportsdunia.com/football-news/argentina-vs-uruguay-lineups-confirmed-nico-paz-starts-13th-november-2026",
-          "source": "Sportsdunia"
+          "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
+          "source": "기호일보"
         }
       ]
     },
     {
-      "keyword": "집",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-13T22:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSq33CUYJo1py13N1oKdMViB1i7Ax6nyw62SQSNvqm7MkUklXRKhH56qnrQQ",
-      "category": "기타",
+      "keyword": "명태균",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-13T22:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLgPuoVcL7o6Z1XZfa-KdzGVolo-P8CIMwXrRgi2vHiUbgwkuj6ZlxbHQ6D1w",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "탕웨이가 2년 만에 손절한 '분당 신혼집' 땅, 그때 안 팔았더라면…",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111002798.html",
-          "source": "땅집고"
+          "title": "명태균 '정자법 위반' 2심서 김한정 \"여론조사업체 명씨가 운영\"",
+          "url": "https://www.yna.co.kr/view/AKR20261113132700052",
+          "source": "연합뉴스"
         },
         {
-          "title": "강민경, 이해리에게 작업실 넘겼다…고가 커피머신까지 300만원",
-          "url": "https://sports.donga.com/ent/article/all/20261114/135023548/1",
-          "source": "스포츠동아"
+          "title": "명태균 ‘정치자금법 위반’ 항소심… 김한정 “여론조사업체 명씨가 운영\"",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/L7Y7FIMVBBC4JH7RY3N5XX5V5U/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "\"해리 언니랑...\" 강민경, 집 떠나며 사연 많은 사람처럼 '눈물' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111407343724876",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "faa",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T22:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLmMo1cNfAW0b79RqIQs_qfVFL3F2qTKmFXvcESdjYVoOWzLyeKw8TpeyFE1E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
-          "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
-          "source": "CNN"
-        },
-        {
-          "title": "Flights grounded across US due to air traffic control 'communication issue'",
-          "url": "https://www.bbc.com/news/live/c6z9dwn12037t",
-          "source": "BBC"
-        },
-        {
-          "title": "Live: All US departing flights grounded due to communication issues",
-          "url": "https://www.abc.net.au/news/2026-11-14/follow-live-us-aviation-authority-grounds-all-flights/107385742",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      ]
-    },
-    {
-      "keyword": "보안",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-13T22:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfiJs9x92w0ElvqSIWcOTNSQUXg4esGyiLIH3BxKG2sQSHdZefKx57it8GiA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147241",
-          "source": "보안뉴스"
-        },
-        {
-          "title": "\"해킹 의심 땐 입출금 선제 차단\"...가상자산거래소 보안 강화",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611131602032869",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "[위클리크립토] 금융위, 디지털자산 거래소에 ‘금융사 수준’ 보안 요구 外",
-          "url": "https://www.donga.com/news/It/article/all/20261113/135021081/1",
+          "title": "오세훈 후원자, 명태균 재판에 증인 출석…“미한연 운영자는 명씨”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261113/135021133/1",
           "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "ionq",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-13T22:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxpzJo5941RiCYLuym3RL-VZo9xBftkloHj_tnMXuLi6jqe7k2N1cKkM9n7Ao",
+      "keyword": "한국교원단체총연합회",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-13T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWsNZG6zkyPQsYV7fm7WRSTcNJtiPzeubL_YZXB6pAKhs9ZkOLRlV7WTq6oYo",
       "category": "기타",
       "news": [
         {
-          "title": "IonQ Shares Drop on Sudden Leadership Shake-Up",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63244346/ionq-shares-drop-on-sudden-leadership-shake-up",
-          "source": "Benzinga"
+          "title": "[오늘을 생각한다] 이게 법이냐?",
+          "url": "https://weekly.khan.co.kr/article/202611140600061",
+          "source": "주간경향"
         },
         {
-          "title": "IonQ’s finance reshuffle seen as orderly succession by Wedbush",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-finance-reshuffle-seen-orderly-170600130.html",
-          "source": "Yahoo Finance"
+          "title": "조희주 참교육동지회 회장 \"교사의 정당 가입서 안 받아주면 우리가 정당 만들자\"",
+          "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116633",
+          "source": "OhmyNews"
         },
         {
-          "title": "IonQ Names Gary Merrill CFO and Thomas Austin Chief Accounting Officer as Inder Singh Departs",
-          "url": "https://www.citybiz.co/article/933321/ionq-names-gary-merrill-cfo-and-thomas-austin-chief-accounting-officer-as-inder-singh-departs/",
-          "source": "citybiz"
+          "title": "교사에게 정치기본권을…더 이상 유예하지 말라",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1287079.html",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
+      "keyword": "리그 오브 레전드",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-13T23:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zbz2mE7iyDuYtvzliuaib2Nofnqq-wL3n6omjMQIf9v_9yLjThB6_78-hF4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "내년 롤드컵 결승전 서울에서 열린다···창동 서울아레나 개최",
+          "url": "https://www.khan.co.kr/article/202611140800021",
+          "source": "경향신문"
+        },
+        {
+          "title": "2027 LoL 월드 챔피언십, 서울 창동서 결승…일본도 공동개최",
+          "url": "https://www.yna.co.kr/view/AKR20261114020700017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "롤드컵 17년 역사상 첫 한일(韓日) 공동 개최… 2027 월즈 결승 피날레 ‘서울 아레나’",
+          "url": "https://www.koreadaily.com/article/20261113155538371",
+          "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "방탄소년단",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T23:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFqFJxypALpvbr_eSD5S1FqxQ73UlKMUJJQmNeF2XcUi49SMBrSg9hqncnCg8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "월드스타도 예외 없다…BTS 뷔, 첫 예비군 소화",
+          "url": "https://www.mk.co.kr/news/musics/12207744",
+          "source": "매일경제"
+        },
+        {
+          "title": "'월클' BTS도 예비군 앞에선 똑같네…진·제이홉·지민 군복 입고 \"고생했다 애들아\"→뷔는 '특급전사' 인증 [핫피플]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GM3GMODCHE4DOOLBGZRWKMZSMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "BTS 뷔, 예비군복 입은 김태형의 일상…“대충 이러고 살아요”",
+          "url": "https://sports.donga.com/ent/article/all/20261113/135018128/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "조현",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-13T22:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTqn6UBK3EoIQA6B-XOKexzm0i1sTzwqsYT5tlLA09L5eOIQf3czq-6VmvKA4",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "APEC 닷새 앞 방중 조현 “북미회담 가능성 있다”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261113/135023336/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "조현 \"한반도 평화 한중 공동 이익\"…中 왕이 \"건설적 역할 지속할 것\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/14/2026111409071348835",
+          "source": "머니투데이"
+        },
+        {
+          "title": "한·중 외교장관 베이징에서 회담…한국인 관광객 중국 무비자 입국 연장될까",
+          "url": "https://www.khan.co.kr/article/202611131939001",
+          "source": "경향신문"
         }
       ]
     }
