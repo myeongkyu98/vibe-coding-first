@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-11-14T10:36:42.040Z",
+  "updatedAt": "2026-11-14T11:31:33.890Z",
   "summary": [
+    {
+      "category": "스포츠",
+      "count": 4
+    },
     {
       "category": "기타",
       "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 3
+      "category": "IT·과학",
+      "count": 1
     },
     {
       "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "일본 대 브라질",
-      "traffic": "10000+",
-      "trafficValue": 10000,
+      "traffic": "20000+",
+      "trafficValue": 20000,
       "startedAt": "2026-11-14T09:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBfVAUyXlE0HeRHs_-LmwgOWsU_yWd0oh0HSAPvjOpntxqfxciwknYPj6LDtU",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKLfCrG2LtiMeh6qJEiZj6s3DIBVqiHiLTTak2OxxLVceCZvm4F1eC3O3ELic",
       "category": "스포츠",
       "news": [
+        {
+          "title": "'구보-나카무라 연속골 폭발' 일본, 브라질 상대로 20분 만에 2-0 리드...수준이 다르다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141938772704O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'일본 미쳤다!' 브라질과 맞대결서 '구보 선제골' 폭발...1-0 리드 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141934772159O",
+          "source": "머니투데이"
+        },
         {
           "title": "日 축구 이 정도였나! 세계 55위→17위 ‘38계단 폭등’…독일·브라질·잉글랜드 꺾은 명감독 효과→ESPN \"트로피가 전부 아냐\" 모리야스 8년 재조명",
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019556",
           "source": "SPOTV NEWS"
-        },
-        {
-          "title": "`만나면 접전` 브라질 수비수 마갈량이스 일본 경계 \"무실점 경기가 목표\"",
-          "url": "https://mydaily.co.kr/page/view/2026111214195889875",
-          "source": "마이데일리"
-        },
-        {
-          "title": "한국은 사우디에 졌는데...월드컵 이후 또다시 ‘삼바군단’ 상대하는 일본, 현지 매체 “더 이상 수비만 할 필요 없어, 공격 축구 할 것”",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698449",
-          "source": "인터풋볼"
         }
       ]
     },
@@ -70,126 +70,101 @@
       ]
     },
     {
-      "keyword": "웨이브",
+      "keyword": "japan vs brazil",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-14T08:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJDPWWUWYMWn3d6HmzuAr0ena570SKUPyUy9BYxvd7uqSql3BxnUYqeN5UZqk",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[OTT리뷰]",
-          "url": "https://cine21.com/news/view/?mag_id=111266",
-          "source": "씨네21"
-        },
-        {
-          "title": "‘옆자리, 프란체스카’ 김현진 “행복했던 작품, 더 성장했다”",
-          "url": "https://www.kmib.co.kr/article/20261113500582",
-          "source": "국민일보"
-        },
-        {
-          "title": "[TV톡] 숏폼이 살린 추억, 웨이브가 잇는다…'프란체스카'·'무한상사'의 부활",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524454",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "이로운",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-14T08:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ61fW1nx7W_5m6UgZtauLMbiwrqWL0GYfdVlWS8aatJdx_kmcjAoIZJDyO6Gs",
+      "startedAt": "2026-11-14T10:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6tlpxQsLjP3pjg_VQSvL4wgs3VzgNghM02DQoDFk2Ltc-19qpOJm-XYKxffc",
       "category": "스포츠",
       "news": [
         {
-          "title": "[사진]한국 벤치에 인사하는 장스룬",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MQYTIZLFHFTDEN3DMFSDCYZTGA/",
-          "source": "조선일보"
+          "title": "Japan leads Brazil 2-0 after Kubo and Nakamura score in first 20 minutes",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/14/MWU6YD3S5ZADZIQ5FWWMHMO3WQ/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "[사진]최원호 감독과 인사 나누는 가오즈강 감독",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GJQTCNDDGRRTEYRZGRRWGYLDMM/",
-          "source": "조선일보"
+          "title": "Kubo Takefusa gives Japan 1-0 lead over Brazil in friendly",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/14/TCFZK3R67FFMXBNU3R4AF52ONA/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "'호주 16-1 콜드승' 일본 땡큐! 결승에서 만나자…한국, 대만전 몇 점 차든 이기기만 하면 된다 [오!쎈 도쿄] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141419776777O",
-          "source": "머니투데이"
+          "title": "Singapore Japan Brazil Soccer",
+          "url": "https://www.chronicleonline.com/sports/soccer/singapore-japan-brazil-soccer/image_cb24e89a-8426-544b-8b23-0c1e16a1d91a.html",
+          "source": "chronicleonline.com"
         }
       ]
     },
     {
-      "keyword": "구성환",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T08:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrhk7jUllbc1rwhB9IHH0Dz1eGewiqC-ypTWm3GKvYca0DpHQBIzdVd4PlAuI",
-      "category": "연예",
+      "keyword": "하나",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T10:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHxsdLyuPE4R27D1j-2x-A_3Q9BRj-cl2iC2Kqlyhy1MdKLQO-Hk4opeb8TuQ",
+      "category": "스포츠",
       "news": [
         {
-          "title": "\"반지 선물하고, 5㎞ 업고...\" 구성환, 첫사랑과 30년만 재회 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111407075647670",
-          "source": "머니투데이"
+          "title": "'3점 슛 13개' 여자농구 신한은행, 하나은행 꺾고 공동 선두(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261114038751007",
+          "source": "연합뉴스"
         },
         {
-          "title": "구성환, '결혼 약속' 여자친구 공개했다",
-          "url": "https://www.newsis.com/view/NISX20261114_0003867961",
-          "source": "뉴시스"
+          "title": "금메달 이어 우승컵 노리는 이해란… 삼성생명 비상 견인",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232752Qo6",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "구성환, 첫사랑과 헤어진 이유…‘4대 천왕’ 과거 눈길 (나혼산)",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524758",
+          "title": "'신지현 18점 폭발' 신한은행, 하나은행 87-73 제압...3승 1패로 우리은행·삼성생명과 공동 선두",
+          "url": "https://biz.chosun.com/sports/sports_general/2026/11/14/ME4TKYRXGE3GKNBVMVRTENJXMY/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "유영우",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVXNxm8v_rwA3pbNkP2mLVEPh--3leEJnCn08WgeC2Yam4JzkfLdKaY3326U",
+      "category": "기타",
+      "news": [
+        {
+          "title": "리센느 미나미, 곽범·이선민 사이에 끼어 ‘고통’…무슨 일?",
+          "url": "https://sports.donga.com/ent/article/all/20261114/135023881/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'놀뭐?' 유영우, 이소라→거미도 놀란 당찬 무대…유재석 \"깡 대단해\"",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524718",
           "source": "iMBC 연예"
+        },
+        {
+          "title": "'가미디언' 유영우, 이소라·거미 앞 기세 넘치는 열창…유재석 \"깡이 대단\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6353289",
+          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "전소영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T09:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyF6lYtDyIengTIAo-yqXt7HIRwMTIz7nUq_hDdiXQFfcrqh-92HdqqXpRHDs",
+      "keyword": "wavve",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T09:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROr7gUCcVTHB7KHM8mEsyU2MJzXEScXPRt2FjxZGOZiVpGgVFsdqmy9zlMt0k",
       "category": "기타",
       "news": [
         {
-          "title": "전소영, 단추 하나 잠근 과감함…이러니 '부국제'에서 미모로 화제되지",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MVSGIZJSGU3TCNLCMI3TEY3DHE/",
+          "title": "[Photo] Park Si-woo 'Clear Beauty'",
+          "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/14/RJT2CHBBTZFKLFK4IMILY3B5I4/",
           "source": "Chosunbiz"
         },
         {
-          "title": "'부국제 강타' 전소영, 반전 '베이글녀' 자태…가죽 재킷 속 과감한 크롭톱",
-          "url": "https://supple.kr/news/cmw8gt2g4eppsal9pmerm9jjh",
-          "source": "서플 뉴스"
+          "title": "[Photo] TWS's Dohoon Perfectly Pulls Off a Leather Jacket",
+          "url": "https://www.mk.co.kr/en/photos/12208979",
+          "source": "매일경제"
         },
         {
-          "title": "'부국제 강타' 전소영, 반전 '베이글녀' 자태…가죽 재킷 속 과감한 크롭톱",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/MJRTSNJRGE3GMZRXMY2GCODFHA/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "박지현",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T09:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFDsoFyTpKSOuwhFLbiBEPSc3UhAMQA0VdayOpr9QvHraX8987-H-EtEnmH1E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "나 혼자 산다",
-          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100005&type=Clip",
-          "source": "MBC"
-        },
-        {
-          "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "전현무·코드쿤스트, '나혼산' 박지현에 애정 폭발..\"소개 멘트 두 배로\"",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSWKYRQMRSWCMZRG43WCYZWMI/",
+          "title": "Photo: IDID Baek Jun-hyuk Gazes with Clear Eyes",
+          "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/14/ZZVA56GE5FEUZFT7W42IAE2S6Q/",
           "source": "Chosunbiz"
         }
       ]
@@ -204,17 +179,42 @@
       "news": []
     },
     {
+      "keyword": "동복댐",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2VlRJ1lydeHE_Vq97J7L_D7hWt5fmj8QEo3STgBWYjHi2aqWn-mVzzfldEq8",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "김성환 기후장관 “호남 반도체 위해 다른 지역 변압기 전용 안 해”",
+          "url": "https://www.segye.com/newsView/20261111515893",
+          "source": "세계일보"
+        },
+        {
+          "title": "[무등의 아침] 전남광주 반도체 전력·용수 공급 계획 속속 구체화…동복댐 증축 수몰 예상 280가구 이주안 제시",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710945",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "반도체는 ‘전격전’, 마을엔 ‘날벼락’…물길·전깃길 위의 사람들",
+          "url": "https://www.khan.co.kr/article/202611130600001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
       "keyword": "호나우지뉴",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-14T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Qbx2YR0Tzugei1YLp2VtiSif4bJnqiAJ-ZvUoBzy3Za6mTjl__S19l7p4_g",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2oPtkjs_vjWhn3AE_nLctS-TrGCngdwrNpcIwVWswF1GY_MJoL6uv9UVh63Y",
       "category": "스포츠",
       "news": [
         {
           "title": "46세 호나우지뉴, 11년 만에 공식전 선발 출격…300호골 정조준",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712853",
-          "source": "KBS 뉴스"
+          "url": "https://www.yna.co.kr/view/AKR20261114024100007",
+          "source": "연합뉴스"
         },
         {
           "title": "브라질 축구 전설 호나우지뉴, 15일 공식 경기 출장",
@@ -229,27 +229,27 @@
       ]
     },
     {
-      "keyword": "대한민국 국군",
+      "keyword": "주진모",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-14T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-Cq4_zMh97zVFOsdkU-UMIeeCQ7A_9QhwBMeo_TvujUcfrbnDV64IyhGnNI",
-      "category": "정치·사회",
+      "startedAt": "2026-11-14T09:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHPlSzZ2ha8FVdny13YsLZSP9Bd_s9vecafkyr_80_DwqVdN83LnO_OXVnUm8",
+      "category": "연예",
       "news": [
         {
-          "title": "국방홍보원, 국방일보 창간 62주년 맞이 보도 사진전 개최",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6353308",
-          "source": "뉴스1"
+          "title": "주진모·민혜연 부부, 결혼 7년 만에 부모 된다…\"임신 초기\"",
+          "url": "https://www.yna.co.kr/view/AKR20261114036000005",
+          "source": "연합뉴스"
         },
         {
-          "title": "국방홍보원 '국방일보 보도사진전' 개최 \"대한민국 국군의 어제와 오늘 조명\"",
-          "url": "https://www.fnnews.com/news/202611130903127570",
-          "source": "파이낸셜뉴스"
+          "title": "'52세' 주진모, 아빠 된다…11세 연하 아내 민혜연 임신",
+          "url": "https://www.newsis.com/view/NISX20261114_0003868088",
+          "source": "뉴시스"
         },
         {
-          "title": "국방홍보원, 「창간 62주년 국방일보 보도사진전」 개최",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456861",
-          "source": "서울Pn"
+          "title": "'주진모 아내' 임신 민혜연 \"아동복 사서 입은 게 왜 하필..없어 보여\" 웃음 [핫피플]",
+          "url": "https://www.koreadaily.com/article/20261113224100654",
+          "source": "미주중앙일보"
         }
       ]
     }
