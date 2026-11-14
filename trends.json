@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:31:40.400Z",
+  "updatedAt": "2026-11-14T16:33:12.914Z",
   "summary": [
     {
       "category": "기타",
@@ -10,7 +10,7 @@
       "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 1
     },
     {
@@ -45,119 +45,10 @@
       ]
     },
     {
-      "keyword": "문무",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T11:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsEUesfXXYfWOFYNTPxxuVNRFQKswdj9ug6dxzlH-tGCsZofmClNR0ayri8Js",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[2화 예고] 너도 이제 나라를 위해 칼을 들어야 한다 [문무] | KBS 방송",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2025206252-01-000_20261114_TECH002&program_code=T2025-0499&program_id=PS-2025206252-01-000&section_code=03&broadcast_complete_yn=N&section_id=28257",
-          "source": "대한민국 대표 공영미디어 KBS"
-        },
-        {
-          "title": "\"장혁 연기가 미쳤어요\"..300억 들어간 '문무', 첫 방송부터 이뤄낸 수신료의 가치 [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MQ3WIOBRGVTGGOBUMIYGCZBXG4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "인사말하는 최예빈",
-          "url": "https://www.yna.co.kr/view/PYH20261112155500013",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "버거킹",
+      "keyword": "1250 회 로또",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-14T12:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHR8rYpR2yAWCqRp20_-A-DKP-6Nnkrb9oDvOpHY0yXPcfwooyu2p5Bv9DY9U",
-      "category": "기타",
-      "news": [
-        {
-          "title": "욕심껏 ‘꽉꽉’ 채운 내 버거가 신메뉴로?…버거킹 플레임 랩 가보니 [현장]",
-          "url": "https://www.mk.co.kr/news/economy/12205410",
-          "source": "매일경제"
-        },
-        {
-          "title": "“두툼한 패티 2장에 치즈 3장, 나만의 버거”…버거킹 연구소에선 다 된다 [르포]",
-          "url": "https://biz.heraldcorp.com/article/10934528",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "[현장] \"와퍼에 새우패티 넣어볼까?\"…버거킹 연구원이 된 하루",
-          "url": "https://www.dailian.co.kr/news/view/1713648/%ED%98%84%EC%9E%A5-%EC%99%80%ED%8D%BC-%EC%83%88%EC%9A%B0%ED%8C%A8%ED%8B%B0-%EB%84%A3%EC%96%B4%EB%B3%BC%EA%B9%8C%EB%B2%84%EA%B1%B0%ED%82%B9-%EC%97%B0-2026",
-          "source": "데일리안"
-        }
-      ]
-    },
-    {
-      "keyword": "데블스 플랜",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T12:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "갈비뼈",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T12:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtnRhQpSnLJQVo2aj2Q8q5ZA8k8XXYegWu3PgP6eu0ybrVZ4gKFsHVM2UrD_M",
-      "category": "기타",
-      "news": [
-        {
-          "title": "멀쩡한 갈비뼈 6개 부러뜨린 30대 여성...이유는?",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114141351tED",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "호리병 몸매가 뭐라고…멀쩡한 갈비뼈 6개 부러뜨린 30대女",
-          "url": "https://www.koreadaily.com/article/20261113203409480",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "\"모래시계 몸매 원해\"…갈비뼈 6개 부러뜨린 30대 여성",
-          "url": "https://www.hankyung.com/article/2026111464437",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "맥도날드 세종dt점",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T12:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vk19r5cX9UACx4--06u_zsXVprlyy-m6ymSkyhTHIR7mqAEFpVe8XHk8sBQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "새벽 2시부터 줄 섰다…‘인구 40만’ 세종시 첫 맥도날드, 오픈런에 경찰까지 출동",
-          "url": "https://www.segye.com/newsView/20261114502699",
-          "source": "세계일보"
-        },
-        {
-          "title": "\"맥도날드 먹으러 원정까지\"…인구 40만 도시에 무슨 일이",
-          "url": "https://www.hankyung.com/article/2026111359347",
-          "source": "한국경제"
-        },
-        {
-          "title": "\"살다 살다 이런 오픈런 처음 본다\"…새벽 2시부터 '우르르' 맥날 개점에 난리난 도시",
-          "url": "https://view.asiae.co.kr/article/2026111320395050229",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "로또1250",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T12:00:00.000Z",
+      "startedAt": "2026-11-14T13:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4Bdjcw4dVw6lUz9M8I-GlAOjuOjhpQ2Y68xTRTRpzRjFgy13Rm6q9Xbid-w",
       "category": "기타",
       "news": [
@@ -179,27 +70,161 @@
       ]
     },
     {
+      "keyword": "저축",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGzXVlCD0JhOEK6K3LfM6CYTY-7gGYoHFk1JW9i2skqkNxXziCFhWJ4zP6HY0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "같은 900만 원 넣어도 세금 29만원 차이? 청년 IRP 공제율 15% 핵심 정리",
+          "url": "https://story.pay.naver.com/content/3939",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "\"마트 세일에 국가 쿠폰 겹쳤다\"…하락장 속 '연금저축·IRP' 절세 전략",
+          "url": "https://www.newsis.com/view/NISX20261112_0003864767",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[생활정보] 단톡방에 '이것' 보내지 마세요…연말정산 동의는 이렇게 받습니다",
+          "url": "https://www.wikitree.co.kr/articles/1174082",
+          "source": "위키트리"
+        }
+      ]
+    },
+    {
+      "keyword": "나의 이방인",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T14:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNWZlDXM5nhhwoFzJtRyB5o_iAthAlqpu4cIdhvxUUwbL7BrDNxcwSWusDC7c",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'그것이 알고 싶다'(그알) 14일 결방 이유는?",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752131",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "[다시보기] 나의 이방인 1회",
+          "url": "https://programs.sbs.co.kr/culture/dearstranger/vod/90792/22000639770",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "‘나의 이방인’ 여객기 참사로 세상을 떠난 딸…엄마에게 주어진 단 7일",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524840",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "데블스 플랜",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T12:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "비트코인",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T15:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXsAfQBfo7tPO2gzWDQ8Nu4NBy5mACKw318NcTwD5VzAo9WGe4lEkbBLNmr8s",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"비트코인 하락, 앤트로픽 IPO 전 투자자금 이동 때문\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645645720",
+          "source": "마켓인"
+        },
+        {
+          "title": "비트코인 하루 새 7% 급락‥2조 원 규모 강제청산",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6865461_36932.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "젠슨 황 사임에 금리공포 겹쳐… 비트코인, 1억→9천만 ‘뚝’ [주간코인시황]",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000935",
+          "source": "IT조선"
+        }
+      ]
+    },
+    {
+      "keyword": "nepal premier league",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T15:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzKpYyJv4jBS7C-aes03PmnMDD5Q2Tk_mztqFJn2v2nnrpulAzLcNmSA7euiY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Lumbini Lions edge Biratnagar Kings by 4 wickets to seal NPL playoff spot",
+          "url": "https://english.nepalnews.com/s/sports/lumbini-lions-edge-biratnagar-kings-by-4-wickets-to-seal-npl-playoff-spot/",
+          "source": "Nepalnews.com"
+        },
+        {
+          "title": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
+          "url": "https://english.ratopati.com/story/86672/we-didnt-do-well-in-the-last-over-humidity-and-fielding-also-affected-us-aslanka",
+          "source": "Ratopati"
+        },
+        {
+          "title": "Lumbini wins toss, opt for ball",
+          "url": "https://risingnepaldaily.com/news/88608",
+          "source": "The Rising Nepal"
+        }
+      ]
+    },
+    {
+      "keyword": "bangladesh vs pakistan",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T14:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU4N7yNUNPLgI1tHfCEb5XV4Rpfjf3t4g1rXACR9oHH0eAhdVUgkoQdB00lu4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Bangladesh - Pakistan prediction & picks 14.11.2026",
+          "url": "https://www.transfermarkt.us/online-betting/picks/bangladesh-vs-pakistan-picks-14-11-2026/",
+          "source": "www.transfermarkt.us"
+        },
+        {
+          "title": "PM to attend SAFF final if BD qualify: Aminul",
+          "url": "https://observerbd.com/news/606110",
+          "source": "Daily Observer"
+        },
+        {
+          "title": "For the fans, football is worth the wait and expense",
+          "url": "https://www.thedailystar.net/sports/football/news/the-fans-football-worth-the-wait-and-expense-4323711",
+          "source": "The Daily Star"
+        }
+      ]
+    },
+    {
       "keyword": "채령",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-14T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrjnQuSEHrSCwcKyjHrR4kDdYSfU-wXfLIiYPF4ONz4JWD_CxWt6kSe4pi0fE",
-      "category": "기타",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3UoLM4pCqNTXGc85oFo-ACEKyHjygIeL6zQbDoLoGXqrL_PxyQ938PbhjJbE",
+      "category": "연예",
       "news": [
         {
-          "title": "'박서진 동생' 박효정, '연하' 보디빌더 품에 쏙 안겼다…전완근 보며 미소('살림남')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/MIYGGMJZGBQWKMTDGZTDKZDBMI/",
-          "source": "조선일보"
+          "title": "“혼자 빨리 준비해서 좋다” 솔로 데뷔 채령, 멤버들 없는 단점에 ‘침묵’ 폭소 (‘살림남’)",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12209046",
+          "source": "매일경제"
         },
         {
-          "title": "‘슈스’ 박서진, 팬클럽 2700명 체육대회…“팬카페 회원수 임영웅 다음” (살림남)",
-          "url": "https://sports.khan.co.kr/article/202611130819003",
+          "title": "박진영 프로듀서가 먼저 스포한 채령의 솔로 데뷔 앨범 'Lovesick' 안무 비하인드? [웬디의 영스트리트]",
+          "url": "https://programs.sbs.co.kr/radio/wendy0s/clip/69682/22000639796?div=live_end",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "ITZY 채령 ‘사랑스러움의 의인화’···신곡 ‘Lovesick’ 음악 방송 활동 시작",
+          "url": "https://sports.khan.co.kr/article/202611131043003",
           "source": "스포츠경향"
-        },
-        {
-          "title": "'살림남' 채령, 박서진 동생 폭행(?)에 충격⋯\"왜 그렇게 막 때리냐\"",
-          "url": "https://www.etoday.co.kr/news/view/2648193",
-          "source": "이투데이"
         }
       ]
     },
@@ -225,31 +250,6 @@
           "title": "CJ ENM, 딜라이브에 “송출 중단 수용 어려워”…협의는 계속",
           "url": "https://www.etnews.com/20261112000455",
           "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "nhật bản đấu với brasil",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T11:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYzAE0QLaQK0y4qqG91OG1zzEVyEw0O73W8Xvz3w8Q9rP69Yk5MC8UaJSXuM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Brazil underwhelm again in Japan defeat and Carlo Ancelotti is feeling pressure",
-          "url": "https://www.espn.com/soccer/story/_/id/50479572/brazil-japan-carlo-ancelotti-red-card",
-          "source": "ESPN"
-        },
-        {
-          "title": "Barcelona star speaks out against refereeing after red card vs Japan – “Cannot ignore”",
-          "url": "https://sports.yahoo.com/articles/barcelona-star-speaks-against-refereeing-143600975.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Carlo Ancelotti, Raphinha sent off as Brazil lose to Japan to stoppage-time goal",
-          "url": "https://www.nytimes.com/athletic/7781332/2026/11/14/brazil-japan-result-red-cards/",
-          "source": "The New York Times"
         }
       ]
     }
