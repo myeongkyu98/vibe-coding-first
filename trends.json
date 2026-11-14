@@ -1,83 +1,50 @@
 {
-  "updatedAt": "2026-11-14T06:50:07.587Z",
+  "updatedAt": "2026-11-14T07:55:39.797Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "기타",
+      "count": 4
     },
     {
       "category": "연예",
       "count": 2
     },
     {
-      "category": "기타",
+      "category": "IT·과학",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
       "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "수입",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T04:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaElxh1VJ6U0FRxXBs3T48KAzymwY040q2ATNrdj6w7SlxplH2dmMkiB7uz2E",
-      "category": "경제",
+      "keyword": "화장품",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T05:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMNEWx2sfBOYkZ5aLCL0MongjZHXmh-KsohtvbSMfEw-2nIwZ3OaX_U1-eks",
+      "category": "기타",
       "news": [
         {
-          "title": "한국, 반도체 앞세워 중국 수입시장서 6개월째 1위",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6865615_36932.html",
-          "source": "MBC 뉴스"
+          "title": "영국, 안티에이징 광고 입증 기준 강화... 사우디 주사기형 화장품 포장 용기 금지",
+          "url": "https://www.cncnews.co.kr/news/article.html?no=11401",
+          "source": "CNC NEWS"
         },
         {
-          "title": "11월 초 수출 2배 뛰었다...수출 1조 달러 달성 눈앞",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611121103336370",
-          "source": "YTN 사이언스"
+          "title": "필러는 누가 놓고, 부작용은 누가 책임지나…영국 의회가 짚은 미용산업의 빈틈",
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=351578",
+          "source": "헬스코리아뉴스"
         },
         {
-          "title": "한국, 중국 수입시장 6개월째 1위…미국선 9→6위",
-          "url": "https://www.yna.co.kr/view/AKR20261113170500003",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "부산 kcc 대 서울 sk",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-14T04:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdY37ijFNmHlOoiwk4IAfLgOFfOlBpxclwTkPeSLJl3OX-jQ59C8x2Q5Z8TjY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[사진] 허훈, 우리 잘 하고 있어",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYGIMBRGAYDINJYGUZDKODGMU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[사진] 안영준, 빈곳 향해 패스",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/HE2DQMZVGM3WGOBWGQZWEOBUGY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[사진] 이상민 감독, 파울 끊어",
-          "url": "https://www.osen.co.kr/article/G1112909894",
-          "source": "OSEN"
+          "title": "대한화장품산업연구원, 美·EU 화장품 규제 대응 세미나",
+          "url": "https://www.cosmorning.com/news/article.html?no=53902",
+          "source": "코스모닝"
         }
       ]
     },
@@ -111,73 +78,73 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-14T05:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQziyRw_xG64Xyfy4HId3bAg20BnEO3CPgHqKBRZsc8I-a971GnVbmtYVKbmLY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd-KXwVlEE_W8X9li3wP3Je8yhL2iI5Oe709DjV4ofomJHDHnZDRJCiK9bmTI",
       "category": "IT·과학",
       "news": [
+        {
+          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
+          "source": "Daily NTN"
+        },
         {
           "title": "세무사 시험 수석 합격자 \"AI 안경으로 문제 다 맞힐 수 있다면 공부 왜 하겠나\"",
           "url": "https://www.chosun.com/national/labor/2026/11/14/F4LAS3IYH5AAVHWEV6HHKOOONY/",
           "source": "조선일보"
         },
         {
-          "title": "수학 6~7등급 감스트, AI 안경 쓰고 수능 풀었더니 5개 틀려…부정행위 우려",
-          "url": "https://www.donga.com/news/Society/article/all/20261114/135024033/1",
+          "title": "‘AI 안경 의혹’ 일파만파에…세무사 수석, 변호사 선임",
+          "url": "https://www.donga.com/news/Society/article/all/20261113/135023033/1",
           "source": "동아일보"
-        },
-        {
-          "title": "[단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"",
-          "url": "https://www.hankyung.com/article/202611134620i",
-          "source": "한국경제"
         }
       ]
     },
     {
-      "keyword": "울음",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T04:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9L3leGA9lpg1YQL0rFcnGQ2r31ggjsn7RA6MmP77E6ez48464--ls5J-7No",
+      "keyword": "문지애",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T06:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXKqt4UNKZIBoUoI2PCQqKygbRINKtCZBOHbKaQo0mIKqIJjrJYix1ZOGBrs",
       "category": "기타",
       "news": [
         {
-          "title": "\"아기 울음소리가 불편할 리 있나요?\"…떡 돌린 엄마 울린 이웃의 손편지 [살맛나는 세상]",
-          "url": "https://www.ikbc.co.kr/article/view/kbc202611120077",
-          "source": "KBC광주방송"
+          "title": "문지애♥전종환 “아들, 수학 시험 27점에 온 집안 비상…결국 3등 들어”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023894/1",
+          "source": "동아일보"
         },
         {
-          "title": "생후 50일 아기 울음에 이웃 항의…신생아 부모의 난감한 사연",
-          "url": "http://www.snakorea.com/news/articleView.html?idxno=1062063",
-          "source": "서울뉴스통신"
+          "title": "문지애♥전종환 \"사내 연애 힘들었다..이별 꿈에 고통\"→\"子수학 27점\" 극복",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GNSTQNZXMIYDGYRVGBRTCNBVGQ/",
+          "source": "조선일보"
         },
         {
-          "title": "\"발소리도 아니고 아기 울음을 어쩌라고\"…'소음 항의' 메모에 '한숨'",
-          "url": "https://www.newsis.com/view/NISX20261105_0003856318",
-          "source": "뉴시스"
+          "title": "문지애♥전종환 子, 수학시험 27점..온집안 비상 \"결국 3등 안에 들어\"",
+          "url": "https://www.starnewskorea.com/star/2026/11/13/2026111310361838788",
+          "source": "스타뉴스"
         }
       ]
     },
     {
-      "keyword": "해병대 제1사단",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T04:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Evnl3o1ezJWbvQxHlqlCy8IFf0YIOkzetywisU5M_sEsfzPyvI3ieVgI0m0",
-      "category": "생활·날씨",
+      "keyword": "북대서양 조약 기구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T06:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVwzZf9OBY-Ot9Tko_GP1g7u-uXenbFerRxq2-NtFHY4-pzT9CLVNh9CLPEOE",
+      "category": "기타",
       "news": [
         {
-          "title": "포항국제불빛축제 일주일 앞…\"한번도 경험 못한 축제될 것\"",
-          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6353403",
-          "source": "뉴스1"
+          "title": "역주행하는 푸틴…美에 '나토 동진 중단' 강경론 다시 제기",
+          "url": "https://www.yna.co.kr/view/AKR20261114021100009",
+          "source": "연합뉴스"
         },
         {
-          "title": "포항시설관리공단, 포항국제불빛축제 앞두고 영일대 주차장 안전점검 강화",
-          "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/12/2026111200401.html",
-          "source": "뉴데일리 대구경북"
+          "title": "러시아, 우크라 종전 조건으로 나토 동유럽 철수 요구",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261114091919386cd0bfacc1c_1",
+          "source": "글로벌이코노믹"
         },
         {
-          "title": "포항 남구청, 지역 대표 축제 앞두고 식품·숙박업소 특별 위생점검",
-          "url": "https://www.kbsm.net/news/view.php?idx=541509",
-          "source": "경북신문"
+          "title": "푸틴 \"우크라에 유럽군 파병시 전쟁 재개\"…美 특사에 경고",
+          "url": "https://view.asiae.co.kr/article/2026111305441871170",
+          "source": "아시아경제"
         }
       ]
     },
@@ -207,22 +174,72 @@
       ]
     },
     {
+      "keyword": "광교신도시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T05:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_OO4cJcWL2wGgJP5ZfxfSD3G056ZYXvWVhsathqb3DvT0HYB0ese_1p1LaAQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "시세차익 따라 갈린 수도권 청약…5241가구 정당계약 시험대",
+          "url": "https://www.g-enews.com/article/Real-Estate/2026/11/2026111310100171412aa6f4cdad_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "분양가 25%만 내고 입주…내달 고양창릉 지분적립형 284가구 공급",
+          "url": "https://www.news1.kr/realestate/general/6353065",
+          "source": "뉴스1"
+        },
+        {
+          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726",
+          "source": "인천일보"
+        }
+      ]
+    },
+    {
+      "keyword": "로켓",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T05:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDiR6ra1S6FLMC3AnOkZTz70ZXBl7QX7nfPf80zlrdZRzyEMVRJuXWlvkBI_0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[영상]‘스타십’ 1단 로켓 지상 회수 불발…바다에 착수",
+          "url": "https://www.khan.co.kr/article/202611140848001",
+          "source": "경향신문"
+        },
+        {
+          "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
+          "url": "https://www.hani.co.kr/arti/science/technology/1287313.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "비행기처럼 우주선 재사용? 스페이스X, 통째 회수 나선다",
+          "url": "https://www.chosun.com/economy/science/2026/11/12/MRZDWAAPJFGLXJB5LRMWSNWZ6E/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
       "keyword": "장동윤",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-14T05:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc_g216rLVfNYbDy97OE-ao1_1gtNYwEMbLUsytZECyXjv17eFL5pbl5y0up4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1FQxwHmNYTflqMSmrPLka7mFjnvJgue8fruwBM56Od-K1hTFN9tTloXwvLg",
       "category": "연예",
       "news": [
-        {
-          "title": "장동윤, 인도 마사지에 혼절 직전…곽튜브는 비명 (지구마불4)",
-          "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1",
-          "source": "스포츠동아"
-        },
         {
           "title": "'김승윤과 결혼' 장동윤, 새신랑됐는데..인도 미용실서 혼절 직전? 곽튜브는 비명 ('지구마불4')",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU3DGMRYMMZTMZBUGU3GMZTFMM/",
           "source": "조선일보"
+        },
+        {
+          "title": "장동윤, 인도 마사지에 혼절 직전…곽튜브는 비명 (지구마불4)",
+          "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1",
+          "source": "스포츠동아"
         },
         {
           "title": "'지구마불4' 빠니보틀·규현 '탱크 포격'⋯원지·천우희 '3단 마라룽샤'",
@@ -236,48 +253,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-14T05:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDnU2dd-twn-kqxpBlRCBbXMMVcyxHoLQjZ818IZ4yxa8IQ8ShQ1UT4syLo98",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTK7KUqczVc9x9_CqV7gePS3JI4p1Bg13SyH6vcdteAuzLXeIaoaIn9oUPwWyo",
       "category": "기타",
       "news": [
         {
-          "title": "Eurovision Asia: onze nations, un seul gagnant, et des sempiternelles frictions géopolitiques?",
-          "url": "https://www.rfi.fr/fr/musique/20261112-eurovision-asia-11-nations-un-seul-gagnant-et-des-sempiternelles-frictions-g%C3%A9opolitiques",
-          "source": "RFI"
+          "title": "À 76 ans, elle compte quinze pèlerinages à son actif : qu’est-ce qui fait marcher Monique Chanteau ?",
+          "url": "https://www.ouest-france.fr/societe/seniors/a-76-ans-elle-compte-quinze-pelerinages-a-son-actif-quest-ce-qui-fait-marcher-monique-chanteau-d43ab136-df68-11f1-bc09-8a6d82b94605",
+          "source": "Ouest-France"
         },
         {
-          "title": "\"La Corée du Sud sera-t-elle la Suède de cette version asiatique?\": l'Eurovision Asie s'élance pour sa toute première édition à Bangkok",
-          "url": "https://www.bfmtv.com/culture/musique/la-coree-du-sud-sera-t-elle-la-suede-de-cette-version-asiatique-l-eurovision-asie-s-elance-pour-sa-toute-premiere-edition-a-bangkok_AN-202611140070.html",
-          "source": "BFM"
+          "title": "Ancienne prof de fitness, elle réalise son rêve en ouvrant \"Écrin privé\", une boutique de luxe à Narbonne",
+          "url": "https://www.lindependant.fr/2026/11/14/ancienne-prof-de-fitness-elle-realise-son-reve-en-ouvrant-ecrin-prive-une-boutique-de-luxe-a-narbonne-13646906.php",
+          "source": "L'Indépendant"
         },
         {
-          "title": "Date, pays participants, chansons en lice... Tout savoir sur la première édition asiatique de l'Eurovision qui se tient ce samedi",
-          "url": "https://www.cnews.fr/culture/2026-11-14/date-pays-participants-chansons-en-lice-tout-savoir-sur-la-premiere-edition",
-          "source": "CNews"
-        }
-      ]
-    },
-    {
-      "keyword": "이현중",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T05:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgmIBFEE8ENMpqjEa1W_9N2YXPSpU1GJkkBW4f9sf4vyAI9sHeWjK5mQXah4A",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘NBA 도전’ 이현중, G리그서 개인 최다 21점 폭발…3점포 4방",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712896",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "NBA 도전 이현중, G리그서 개인 최다 21점 폭발",
-          "url": "https://www.hani.co.kr/arti/sports/basketball/1287329.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "스포츠뉴스 - [오늘의 장면] NBA를 향항 첫 걸음",
-          "url": "https://m.mbn.co.kr/tv/666/4146/1433496",
-          "source": "m.mbn.co.kr"
+          "title": "Porté par un Antoine Dupont omniprésent, le XV de France, héroïque, se défait de l’Afrique du Sud",
+          "url": "https://www.lemonde.fr/sport/article/2026/11/14/porte-par-un-antoine-dupont-omnipresent-le-xv-de-france-heroique-se-defait-de-l-afrique-du-sud_6809521_3242.html",
+          "source": "Le Monde.fr"
         }
       ]
     }
