@@ -1,32 +1,28 @@
 {
-  "updatedAt": "2026-11-14T12:39:36.940Z",
+  "updatedAt": "2026-11-14T13:45:32.907Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 3
+      "category": "기타",
+      "count": 5
     },
     {
       "category": "연예",
       "count": 2
     },
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "문무",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-14T11:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LYc_qZUwKTDgQjpfXLdbn6Hux7RNr9bHdw2xXAY0pdi7XixrpUcS_WthZVg",
       "category": "연예",
@@ -45,6 +41,131 @@
           "title": "김동희, ‘문무’ 합류 긴장감 견인…이현욱·장혁·김강우와 호흡",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GQ4DEMLGMEYWGNDDGQ2WIOLBGI/",
           "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "갈비뼈",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T12:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtnRhQpSnLJQVo2aj2Q8q5ZA8k8XXYegWu3PgP6eu0ybrVZ4gKFsHVM2UrD_M",
+      "category": "기타",
+      "news": [
+        {
+          "title": "멀쩡한 갈비뼈 6개 부러뜨린 30대 여성...이유는?",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114141351tED",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "호리병 몸매가 뭐라고…멀쩡한 갈비뼈 6개 부러뜨린 30대女",
+          "url": "https://www.koreadaily.com/article/20261113203409480",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "\"모래시계 몸매 원해\"…갈비뼈 6개 부러뜨린 30대 여성",
+          "url": "https://www.hankyung.com/article/2026111464437",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "버거킹",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T12:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHR8rYpR2yAWCqRp20_-A-DKP-6Nnkrb9oDvOpHY0yXPcfwooyu2p5Bv9DY9U",
+      "category": "기타",
+      "news": [
+        {
+          "title": "욕심껏 ‘꽉꽉’ 채운 내 버거가 신메뉴로?…버거킹 플레임 랩 가보니 [현장]",
+          "url": "https://www.mk.co.kr/news/economy/12205410",
+          "source": "매일경제"
+        },
+        {
+          "title": "“두툼한 패티 2장에 치즈 3장, 나만의 버거”…버거킹 연구소에선 다 된다 [르포]",
+          "url": "https://biz.heraldcorp.com/article/10934528",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "[현장] \"와퍼에 새우패티 넣어볼까?\"…버거킹 연구원이 된 하루",
+          "url": "https://www.dailian.co.kr/news/view/1713648/%ED%98%84%EC%9E%A5-%EC%99%80%ED%8D%BC-%EC%83%88%EC%9A%B0%ED%8C%A8%ED%8B%B0-%EB%84%A3%EC%96%B4%EB%B3%BC%EA%B9%8C%EB%B2%84%EA%B1%B0%ED%82%B9-%EC%97%B0-2026",
+          "source": "데일리안"
+        }
+      ]
+    },
+    {
+      "keyword": "로또1250",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T12:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4Bdjcw4dVw6lUz9M8I-GlAOjuOjhpQ2Y68xTRTRpzRjFgy13Rm6q9Xbid-w",
+      "category": "기타",
+      "news": [
+        {
+          "title": "제1250회 로또 1등 9명···당첨금 31억원",
+          "url": "https://www.khan.co.kr/article/202611142052001",
+          "source": "경향신문"
+        },
+        {
+          "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257",
+          "source": "edaily.co.kr"
+        },
+        {
+          "title": "1250회 로또판매·추첨시간, 1249회 1등당첨지역 공개",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751761",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "딜라이브",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T12:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFBn3fWRsyw8xYkBb1QtAPx9Adf-nosIFInNCmsR-Y-Td7V_cKamIFvdEmV8",
+      "category": "연예",
+      "news": [
+        {
+          "title": "LG헬로 시청자 투니버스 못 보게 된다?… 시청자는 무슨 죄",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338414",
+          "source": "미디어오늘"
+        },
+        {
+          "title": "합의제 기구 방미통위, 합의만 기다릴 것인가 [강소현의 방송통신문]",
+          "url": "https://www.ddaily.co.kr/page/view/2026111316500450204",
+          "source": "디지털데일리"
+        },
+        {
+          "title": "CJ ENM, 딜라이브에 “송출 중단 수용 어려워”…협의는 계속",
+          "url": "https://www.etnews.com/20261112000455",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "맥도날드 세종dt점",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T12:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vk19r5cX9UACx4--06u_zsXVprlyy-m6ymSkyhTHIR7mqAEFpVe8XHk8sBQ",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "새벽 2시부터 줄 섰다…‘인구 40만’ 세종시 첫 맥도날드, 오픈런에 경찰까지 출동",
+          "url": "https://www.segye.com/newsView/20261114502699",
+          "source": "세계일보"
+        },
+        {
+          "title": "\"맥도날드 먹으러 원정까지\"…인구 40만 도시에 무슨 일이",
+          "url": "https://www.hankyung.com/article/2026111359347",
+          "source": "한국경제"
+        },
+        {
+          "title": "\"살다 살다 이런 오픈런 처음 본다\"…새벽 2시부터 '우르르' 맥날 개점에 난리난 도시",
+          "url": "https://view.asiae.co.kr/article/2026111320395050229",
+          "source": "아시아경제"
         }
       ]
     },
@@ -74,202 +195,61 @@
       ]
     },
     {
-      "keyword": "박근혜",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T11:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPxuUCPaTd_75AoRrfo1jwWmtVseqcfyCyd2kgQR4pX9zXNJjn_bbVK7_rTP4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "AI영상으로 되살아난 박정희…구미서 탄신 109돌 문화행사",
-          "url": "https://www.yna.co.kr/view/AKR20261114030900053",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "박근혜 전 대통령 “정치는 국민의 먹고사는 문제 해결 위한 것…걱정 덜어드려야”",
-          "url": "https://www.kyeonggi.com/article/20261114580079",
-          "source": "경기일보"
-        },
-        {
-          "title": "박근혜 “경제 어렵고 살림살이 팍팍…잘사는 나라 후손에 물려줘야” [현장영상]",
-          "url": "https://ichannela.com/news/detail/000000559954.do",
-          "source": "채널A"
-        }
-      ]
+      "keyword": "데블스 플랜",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T12:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
-      "keyword": "미미미누",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFQ5JKynl3z1dxL7Dm-UCxq580UuOp3puNRlNZq6R-LxGgOoy3QhWHFcCKUKA",
+      "keyword": "한국 야구",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T11:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbvcDq7oXYaWBMOU6LW--sDw8w3BwboxHW2q0b63rCyySV7JFKZj-1cs_hs4",
       "category": "스포츠",
       "news": [
         {
-          "title": "'놀라운 토요일' 규현·궤도·미미미누 출격… 이과 vs 문과 자존심 건 암기력 대결",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752115",
-          "source": "국제뉴스"
+          "title": "'피홈런 4방'에 한일전 12연패‥'약속의 8회 없었다'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865690_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "“고대는 경쟁 상대도 아냐”… 궤도vs미미미누 연고전 제대로 붙었다 (‘놀토’)",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12209021",
-          "source": "매일경제"
+          "title": "APBC 일본에 패…한일전 13경기 연속 무승",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712788",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "'놀토’ 규현X궤도X미미미누, 암기력 대결부터 받쓰 혈투",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=781668",
-          "source": "싱글리스트"
-        }
-      ]
-    },
-    {
-      "keyword": "김휘집",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T10:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRav0C5Wg8_dlo8UUjFGVYupNlmeeFy5ZIBgUPDE5sIvKW4uZdCuIuH0grWXKY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GAZGIYJTGU4GINRSHA2DQOJQMU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[APBC] 오른손 맞은 한동희, 대만전 도중 교체…\"뼈 이상은 없어\"",
-          "url": "https://www.newspim.com/news/view/20261114000087",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "[사진]김휘집,'오늘도 타점 올렸어' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/202611142009776418O",
+          "title": "1년 전 군대로 도피해야하나 했는데, 이 정도로 컸다…어엿한 국대 좌완 에이스로 우뚝 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141203772466O",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "jepang vs brasil",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T10:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB9xC_vloFPqXB02w8RhY2-bg26mdRr5icuV5tGSIj81s5CeCu9IQrvY7kHWk",
+      "keyword": "nhật bản đấu với brasil",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T11:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
       "category": "스포츠",
       "news": [
         {
-          "title": "Brasil Hadapi 2 Laga yang Tak Mudah di Singapura",
-          "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8747467/brasil-hadapi-2-laga-yang-tak-mudah-di-singapura",
-          "source": "detikSport"
+          "title": "Ancelotti and Raphinha sent off as Japan beat Brazil",
+          "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
+          "source": "BBC"
         },
         {
-          "title": "Japan vs Brazil Hari Ini: Kubo dan Nakamura Bawa Jepang Unggul, Vinicius Junior Balas di Singapura",
-          "url": "https://aktualita.co/olahraga/japan-vs-brazil-14-november-2026-kubo-nakamura-vinicius",
-          "source": "Aktualita.co"
+          "title": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
+          "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+          "source": "ESPN"
         },
         {
-          "title": "Prediksi Skor dan Lineup Jepang vs Brasil di FIFA Matchday: Moriyasu Ingin Akhiri dengan Kemenangan",
-          "url": "https://pontianakpost.jawapos.com/sepak-bola/2611140020/prediksi-skor-dan-lineup-jepang-vs-brasil-di-fifa-matchday-moriyasu-ingin-akhiri-dengan-kemenangan",
-          "source": "Pontianak Post"
-        }
-      ]
-    },
-    {
-      "keyword": "오은영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T10:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Mf7135B_Ug2OvsRYIAp2K5u9a1qRUyECEN9-YfwyyA_XYH8dPKtNZXErvAs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "오은영, 헤어스타일 바꿨다... \"10년 어려보여 소녀 같아\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU2WKYLFGBRDEYZTMRTGIMRVG4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "오은영, 61세에 ‘사자머리’ 대신 빗으로 넘겼을 뿐인데…김형석 “10년은 젊어지신 것 같다”",
-          "url": "https://www.mk.co.kr/news/entertain/12208792",
-          "source": "매일경제"
-        },
-        {
-          "title": "오은영, '사자머리' 벗고 차분한 생머리..\"이게 원래 내 머리\"→\"10년은 젊어보여\"",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-14/202611140100093330008769",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "홍라희",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T10:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3KJ5tVceanhPsc7MxdApqdTx72pX7_my6VkDULlNeHP5KxbAN9Nu6FcAYnmk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "홍라희에 '삼전 1115만주' 받은 이재용…증여세는 얼마?",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02791286645645720",
-          "source": "마켓인"
-        },
-        {
-          "title": "이재용 회장, 삼전 지분 1.58→1.75% 확대…홍라희 여사 증여",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444719",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "[마켓파워] 삼성전자 직접 지분 늘리는 이재용…물산·생명 중심 지배구조 속 의미는",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004877",
-          "source": "아시아투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "강의",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T10:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNsVUHDrqde5RF-TXt_hu3pIfvfPnkpVcSeK0qFG9l7DTkZzvH9AHwgO6N0CI",
-      "category": "연예",
-      "news": [
-        {
-          "title": "\"아파서 수능 강의 쉰다\"더니…넷플 예능 간 강사의 결말",
-          "url": "https://www.hankyung.com/article/2026111463557",
-          "source": "한국경제"
-        },
-        {
-          "title": "수능 3주 앞 강의 중단, 예능 출연한 이도 결국 이투스서 퇴출…\"다 폐강\"",
-          "url": "https://www.news1.kr/society/general-society/6353492",
-          "source": "뉴스1"
-        },
-        {
-          "title": "'강의중단 논란' 이도와 정반대…이지영, 완강 후 소감 \"올해는 가장 바쁜 한 해\"[이슈S]",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019690",
-          "source": "SPOTV NEWS"
-        }
-      ]
-    },
-    {
-      "keyword": "군산 불꽃 축제",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T11:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs6eF0GgIsbqlhJe2HHa3mXwuhbd5fINGbjYGLz9-Ze_WBGnsaKuN-llnnmpo",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "\"철새도래지서 폭죽이라니\"…군산 불꽃축제에 환경단체 반발",
-          "url": "https://www.yna.co.kr/view/AKR20261113070300055",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "김재준 군산시장, 국회서 2027년 국가예산 증액 건의…새만금·현대차 연계사업 요청",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751917",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "\"멸종위기종도 있는데\"…철새도래지서 불꽃축제 논란",
-          "url": "https://m.mbn.co.kr/tv/program_view.mbn?seq=552&bcast_seq=1433676&type=bcast",
-          "source": "m.mbn.co.kr"
+          "title": "Brazil XI vs Japan – Predicted lineup and team news",
+          "url": "https://sports.yahoo.com/articles/brazil-xi-vs-japan-predicted-042400281.html",
+          "source": "Yahoo Sports"
         }
       ]
     }
