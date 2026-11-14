@@ -1,20 +1,16 @@
 {
-  "updatedAt": "2026-11-14T02:43:54.676Z",
+  "updatedAt": "2026-11-14T03:44:53.219Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
     },
     {
-      "category": "연예",
-      "count": 1
-    },
-    {
       "category": "경제",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     },
     {
@@ -24,34 +20,59 @@
   ],
   "items": [
     {
-      "keyword": "고경표",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-14T00:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjGFVoOrJM5A1AWUA7tlLn5TPn201T8yUH0I9Heuo2dlkG6poCKqAEb8FfxX4",
+      "keyword": "윤여정",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-14T02:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvIc7ABuP4euTVN2nzhQNXbq5lAmBu_XWOyMI6ZiuLK4S8CjQ_5CxWX-5Z-0k",
       "category": "연예",
       "news": [
         {
-          "title": "[단독] 배우 고경표 음주사고…면허취소 만취상태",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114090256cw8",
-          "source": "연합뉴스TV"
+          "title": "연상호·변우석· CJ CGV·넷플릭스까지…서울독립영화제 빛내는 영화계 연대",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844468",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "배우 고경표 음주운전 중 청소차 들이받아…\"깊이 반성\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261114025051004",
-          "source": "연합뉴스"
+          "title": "2023년 정부 예산 삭감 '서울독립영화제'...연상호→변우석, 영화계 연대의 '힘'",
+          "url": "https://www.nc.press/news/articleView.html?idxno=630882",
+          "source": "뉴스컬처"
         },
         {
-          "title": "'만취 운전' 고경표 \"깊이 반성\"...놀면뭐하니·보검매직컬2 '비상' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111410031586565",
-          "source": "머니투데이"
+          "title": "연상호부터 윤여정·변우석까지, 올해는 넷플릭스도…서울독립영화제로 모인 이유",
+          "url": "https://www.dailian.co.kr/news/view/1714518/%EC%97%B0%EC%83%81%ED%98%B8-%EC%9C%A4%EC%97%AC%EC%A0%95%EB%B3%80%EC%9A%B0%EC%84%9D-%EC%98%AC%ED%95%B4-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4%EB%8F%84%EC%84%9C-2026",
+          "source": "데일리안"
+        }
+      ]
+    },
+    {
+      "keyword": "샌안토니오 대 골든 스테이트",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-14T01:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxUQb4J-7-KjVmG6WRw-cPsX8HxJqEfD6Q3BgO2Z2NedaOJw1nBBX-3FiYqPk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Spurs ambush Warriors in first quarter of first game since Steph Curry injury",
+          "url": "https://sports.yahoo.com/articles/spurs-ambush-warriors-first-quarter-030853064.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "It’s time for Basketball: San Antonio Spurs vs Golden State Warriors",
+          "url": "https://www.poundingtherock.com/spurs-discussion-threads/110030/its-time-for-basketball-san-antonio-spurs-vs-golden-state-warriors",
+          "source": "Pounding The Rock"
+        },
+        {
+          "title": "Warriors vs. Spurs injury report: Steph Curry’s absence begins",
+          "url": "https://www.goldenstateofmind.com/warriors-injury-report/113484/warriors-spurs-injury-report-steph-curry-dearron-fox",
+          "source": "Golden State Of Mind"
         }
       ]
     },
     {
       "keyword": "김지원",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-14T01:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDn22CjeResvD0fiqsqvQUr1JnK6ncbM7yust5WnrJYOOxRSFHt_Ls2CAB_Og",
       "category": "기타",
@@ -67,209 +88,184 @@
           "source": "programs.sbs.co.kr"
         },
         {
-          "title": "'닥터X', 김지원한테 결국 다 '계'며든 화기애애 현장 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111314377253307",
-          "source": "머니투데이"
+          "title": "‘닥터X’ 종영 앞두고 드러난 김지원 과거… 아동 성범죄자 향한 응징의 카운트다운",
+          "url": "https://sports.khan.co.kr/article/202611140204003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "항공기",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-14T00:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGRz7-BV1fTvV6gpdpsgpsipigXPJr6El5Xci1_irmaU53ngikVw3l9-00pt0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "미 전역 항공기 운항 중단, 8천 건 이상 지연‥3만 대 이륙 불투명",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865622_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "관제통신망 마비에 美 전역 공항 ‘올스톱’…“통신 문제 조사 중”",
-          "url": "https://www.donga.com/news/Inter/article/all/20261114/135023877/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "美전역 항공기 이륙 ‘올스톱’... 통신 장애로 1만1000편 지연·결항",
-          "url": "https://www.chosun.com/international/us/2026/11/14/JINR2EN5QRAOJJF3Z7RLIBFGZA/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "삼천당제약",
+      "keyword": "롯데그룹",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-14T01:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsIoj1WquYD31Kl61WWDhG21mfQxznvTiRQ9JE_2wL8YTHzVewIilDoQ0Sn78",
+      "startedAt": "2026-11-14T02:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQQmHIazkfebAJkk7aJngepgcyUw50c5m6XT1lEohbd_4JVAotUfxrV02bDDE",
       "category": "경제",
       "news": [
         {
-          "title": "삼천당제약 R&D 투자 3배 확대, 경구용 치료제 승부수",
-          "url": "https://www.newsmp.com/news/articleView.html?idxno=259301",
-          "source": "의약뉴스"
+          "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
+          "source": "인베스트조선"
         },
         {
-          "title": "'53억 승부수' 삼천당제약, 日 약가 등재 … 셀트리온과 맞대결",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200274.html",
-          "source": "뉴데일리"
+          "title": "[단독]롯데그룹, 16일 정기인사…신유열 사장 승진 여부 촉각",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=05034806645645392&mediaCodeNo=257",
+          "source": "이데일리"
         },
         {
-          "title": "셀트리온·삼천당 아일리아 시밀러, 日 기존 제품과 약가 동일…판로·적응증 경쟁",
-          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70423",
-          "source": "메디코파마"
+          "title": "[SV CEO] 신유열 롯데지주 미래성장실장, 식품·바이오 확대…′원롯데′로 성장동력 강화",
+          "url": "https://www.socialvalue.kr/news/view/1065597673098102",
+          "source": "소셜밸류"
         }
       ]
     },
     {
-      "keyword": "법학적성시험",
+      "keyword": "현수막",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-14T00:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBNa63Hj0yXomrDU77dBxgUJi5WkAoZtXGu0zKRuEBHErqY3i512-OzCZ39nE",
-      "category": "IT·과학",
+      "startedAt": "2026-11-14T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsh50ohPV-6_oqOl0dt1WRHJrjLkz_Al_7209QLSpx1VYaiWwm4VtadwPZ-Hw",
+      "category": "기타",
       "news": [
         {
-          "title": "평균 30점 과목서 100점…‘이례적 고득점’에 AI안경 의혹",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8712502",
-          "source": "KBS 뉴스"
+          "title": "“오늘 전역한 아들이 타고 있어요”…차에 붙은 현수막에 운전자들 ‘뭉클’",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57064",
+          "source": "주간조선"
         },
         {
-          "title": "세무사 수석합격자 “왜 해명해야 하는지 모르겠다···찍는 것도 기술”",
-          "url": "https://weekly.khan.co.kr/article/202611141002001",
-          "source": "주간경향"
+          "title": "\"우리 아들 전역했어요\" 차량에 현수막...도로 위 쏟아진 축하[살맛나는 세상]",
+          "url": "https://www.ikbc.co.kr/article/view/kbc202611130021",
+          "source": "KBC광주방송"
         },
         {
-          "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
-          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
-          "source": "Daily NTN"
+          "title": "“오늘 전역한 아들이 타고 있어요“…아버지 현수막에 ’응원 봇물’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113103333XIg",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "고용노동부",
+      "keyword": "전소미",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T01:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgmpIwdgGreBT90amzuzaKQ2PWrocp6GFh1Kfndzix-84wC4swsqE2JJcRHd0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'가짜 3.3 계약'·'사업장 쪼개기' 잡는다…탈법 기획감독 착수",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975686&pWise=sub&pWiseSub=C1",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
-          "url": "https://www.khan.co.kr/article/202611081637001",
-          "source": "경향신문"
-        },
-        {
-          "title": "노동법 피하려 '가짜 3.3'·사업장 쪼개기…노동부, 140곳 기획감독",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374720",
-          "source": "전기신문"
-        }
-      ]
-    },
-    {
-      "keyword": "그랜드 테프트 오토",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T01:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdsRZJbZvl-QpxqJFWuW-Qy6WKdetlyJsIHMHUmMdX1TjlAp2qdr7GvjPpG3M",
+      "startedAt": "2026-11-14T02:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLYfGvAXg4mDnQvVImHLVwFv9cRgNHRnW3Z-U6wrYcsArVo2FZh7onHSVRnQ",
       "category": "기타",
       "news": [
         {
-          "title": "Travis Scott Shows Off What Appears to Be a Copy of ‘GTA 6’ Before Its Release: ‘Bring Ya Own Controller’",
-          "url": "https://www.yahoo.com/entertainment/music/articles/travis-scott-shows-off-appears-205224176.html",
-          "source": "Yahoo"
+          "title": "\"넘어뜨리고 발로 밟아\" 전소미, 학교폭력 피해 고백",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/HFRGKMTBGZTDENTCGY3TQMLBGU/",
+          "source": "조선일보"
         },
         {
-          "title": "GTA VI Is Putting on a Music Festival",
-          "url": "https://pitchfork.com/story/gta-vi-is-putting-on-a-music-festival/",
-          "source": "Pitchfork"
-        },
-        {
-          "title": "Cardi B, Travis Scott Set For 'GTA VI' Takeover Of Popular Miami Strip Club",
-          "url": "https://www.iheart.com/content/2026-11-12-cardi-b-travis-scott-set-for-gta-vi-takeover-of-popular-miami-strip-club/",
-          "source": "iHeart"
-        }
-      ]
-    },
-    {
-      "keyword": "광진구",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T01:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5B4tSxxwvTzcrw7kp1f4JivFJsQ-a_8IaDrAPsN4i634gFZnQ9ww6o9Q3rQ8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "광진구, 음식물 소형감량기 부산물 배출기준 완화…수분 25% 미만 종량제봉투 허용",
-          "url": "https://biz.heraldcorp.com/article/10935627",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "광진구, 가정용 소형감량기 부산물 일반 종량제봉투에 버리세요",
-          "url": "http://www.koreasisailbo.com/2466449",
-          "source": "시사일보"
-        },
-        {
-          "title": "음식물 건조기 부산물, 이제 일반 종량제봉투에 버린다… 광진구, 배출 불편 ‘해소’",
-          "url": "https://www.sijung.co.kr/news/articleView.html?idxno=441265",
-          "source": "시정일보"
-        }
-      ]
-    },
-    {
-      "keyword": "기내식",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T01:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2WKsG6DYmHEkio0suInFOpO6XE_xwxipIhbo4NC4kSBMwp4C7StOSgCip1YE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[데스크시각] 한앤코가 남긴 아이스크림",
-          "url": "https://v.daum.net/v/1vqWwIGhQg",
-          "source": "Daum"
-        },
-        {
-          "title": "[단독] 대한항공 ‘알짜’ 기내식 사업 결국 복수체제로...‘30년 계약’에 발묶여",
-          "url": "https://www.mk.co.kr/news/business/12206273",
+          "title": "“6학년 하굣길에 남학생이 나를”…‘학폭 피해’ 고백한 전소미, 눈물",
+          "url": "https://www.mk.co.kr/news/culture/12208757",
           "source": "매일경제"
         },
         {
-          "title": "벤슨·밴루엔·배라, 프리미엄 아이스크림 3파전…3色 전략 승부수",
-          "url": "https://www.newsis.com/view/NISX20261113_0003866417",
-          "source": "뉴시스"
+          "title": "전소미, 학폭 피해 트라우마 고백…“지금도 눈물 흘려”",
+          "url": "https://mbiz.heraldcorp.com/article/10936781",
+          "source": "헤럴드경제"
         }
       ]
     },
     {
-      "keyword": "argentina đấu với uruguay",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T00:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkg2PavYSXlKSYVANRc55hg4mnGgt08g__Dt8zso7XO6MHGK6c76-MArtuSGU",
+      "keyword": "이마트",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T02:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[리포트 브리핑]이마트, '놀라운 본업(지속적), 충격의 스타벅스(일시적)' 목표가 100,000원 - IBK투자증권",
+          "url": "https://www.newspim.com/news/view/20261113000175",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "오프라인 부활 '신호탄'…대형마트도 '깜짝 반등'",
+          "url": "https://view.asiae.co.kr/article/2026111123235571518",
+          "source": "아시아경제"
+        },
+        {
+          "title": "한투증권, 이마트 목표가↓…\"3분기 자회사 부진 매우 아쉬워\"",
+          "url": "https://www.yna.co.kr/view/AKR20261112026000008",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "lig 디펜스&에어로스페이스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU637UsceCNGSx5pGiUPmqj94Cb_htwMCWik4sI9Baj62pIMoFXYun89UMrzw",
       "category": "기타",
       "news": [
         {
-          "title": "Không Messi, Argentina thua đau Uruguay trên sân nhà",
-          "url": "https://znews.vn/khong-messi-argentina-thua-dau-uruguay-tren-san-nha-post1696306.html",
-          "source": "Znews"
+          "title": "[K-방산 보릿고개] ①“하반기는 잘 안풀리네”…영업익 증발ㆍ곳간 축소",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121231481010784",
+          "source": "대한경제"
         },
         {
-          "title": "HLV Lionel Scaloni gia hạn hợp đồng, dẫn dắt Argentina hướng tới World Cup 2030",
-          "url": "https://baoquangninh.vn/hlv-lionel-scaloni-gia-han-hop-dong-dan-dat-argentina-huong-toi-world-cup-2030-post3426996.html",
-          "source": "Báo Quảng Ninh"
+          "title": "LIG 입찰제한 일주일 앞… KF-21 사업 ‘빨간불’",
+          "url": "https://www.munhwa.com/article/11631129",
+          "source": "문화일보"
         },
         {
-          "title": "Vì sao HLV Scaloni để trống áo số 10 của Messi ở đội tuyển Argentina?",
-          "url": "https://thanhnien.vn/vi-sao-hlv-scaloni-de-trong-ao-so-10-cua-messi-o-doi-tuyen-argentina-185261113094405736.htm",
-          "source": "Thanh Niên"
+          "title": "[취재수첩] 내부 비리 못막고 기업 옥죄는 방사청",
+          "url": "https://www.hankyung.com/article/2026111358001",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "ufc 335",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T01:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOjsvQIRzDfcEbhap-3ptBZcbeTxmrRy15BT_Fl94342xpDYjn28drmWvZaVw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "UFC 335 and UFC 336 full press conference faceoffs",
+          "url": "https://sports.yahoo.com/videos/ufc-335-ufc-336-full-024412147.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "UFC champion has his title stolen after no-showing press conference featuring Pereira and Oliveira",
+          "url": "https://bloodyelbow.com/2026/11/13/ufc-champion-has-his-title-stolen-after-no-showing-press-conference-featuring-pereira-and-oliveira/",
+          "source": "Bloody Elbow"
+        },
+        {
+          "title": "UFC 335/UFC 336 first faceoffs: BMF title, Pereira, Van-Kape, Prates-Morales",
+          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/13/ufc-335ufc-336-faceoffs-bmf-title-pereira-van-kape-prates-morales/92753027007/",
+          "source": "MMA Junkie"
+        }
+      ]
+    },
+    {
+      "keyword": "제물포구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T01:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb6Fkr8ZfU_MLY4UbZ_aCItT3TDdYY57qzjmUI-ikmPaoux9lFzRF9WiSSy24",
+      "category": "기타",
+      "news": [
+        {
+          "title": "제물포구, 방치·위험 간판 무상 철거 신청 접수",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721860",
+          "source": "뉴스타운"
+        },
+        {
+          "title": "하남시옥외광고협회, 겨울철 간판 안전점검…시민 안전 지킨다",
+          "url": "https://www.kyeonggi.com/article/20261112580244",
+          "source": "경기일보"
+        },
+        {
+          "title": "인천 제물포구, 강풍·대설 앞두고 거리 위 ‘위험 간판’ 걷어낸다",
+          "url": "https://sports.donga.com/region/article/all/20261113/135019673/1",
+          "source": "스포츠동아"
         }
       ]
     }
