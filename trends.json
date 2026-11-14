@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-14T21:30:00.941Z",
+  "updatedAt": "2026-11-14T22:30:30.810Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
+      "category": "기타",
+      "count": 3
     },
     {
       "category": "연예",
+      "count": 3
+    },
+    {
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
+      "category": "경제",
       "count": 1
     },
     {
@@ -24,129 +24,159 @@
   ],
   "items": [
     {
-      "keyword": "룰러",
+      "keyword": "복권",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-14T18:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyEiHl45xv83jbLyHv2reQVmMbmadshfWY4rO7_sP_bFTTQknG10Bs1n6PIrU",
-      "category": "스포츠",
+      "startedAt": "2026-11-14T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThiOt6hdjdNvRgkbkxlwmViJl8KmfbOvksM5aiRLew9yDno_5JLWJexH379w",
+      "category": "기타",
       "news": [
         {
-          "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261114020600017",
-          "source": "연합뉴스"
+          "title": "1250회 로또 1등번호 당첨자 14명...20억씩 배당",
+          "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602149",
+          "source": "헤드라인제주"
         },
         {
-          "title": "[롤드컵]젠지, BLG 상대로 1세트 승리…기선 제압",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868290",
-          "source": "뉴시스"
+          "title": "제1250회 로또 1등 9명···당첨금 31억원",
+          "url": "https://www.khan.co.kr/article/202611142052001",
+          "source": "경향신문"
         },
         {
-          "title": "[롤드컵] '바이퍼' 박도현, \"한화생명전 분기점, 젠지 3-2로 꺾고 우승하겠다\"",
-          "url": "https://www.osen.co.kr/article/G1112909828",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "숲",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T18:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR06F3fdQGv-aa5u5_h60ToLp02WdqIw2edpBMIHKy0KFlVSg0qP6O_2b3uO-o",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"궁궐 정원을 그대로 옮겨놨네\"… 한옥 정자와 연못 아름다운 축구장 90개 크기 수목원 명소",
-          "url": "https://www.balpumnews.com/travel/sejong-national-arboretum-4",
-          "source": "발품뉴스"
-        },
-        {
-          "title": "‘함께해서 좋아’",
-          "url": "https://www.sedaily.com/article/20114313",
-          "source": "서울경제"
-        },
-        {
-          "title": "[알립니다] 서울경제·산림청이 함께하는 ‘2026년 도시숲사랑 달팽이 마라톤’",
-          "url": "https://www.sedaily.com/article/20111292",
-          "source": "서울경제"
+          "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257",
+          "source": "이데일리"
         }
       ]
     },
     {
       "keyword": "포르투갈 대 덴마크",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-14T19:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2kZZl8F9zcqq95bHdN9cfOop-OHrwMvhpxPALA1T1bw4r4S9fXLQZm7nEEKc",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHWfN-KiZlA2bg5awApPxvh4rNQGvXoEiDIUmdsZKtann3vh9FzAKMe5XvRTI",
+      "category": "연예",
       "news": [
         {
-          "title": "네이션스 리그 포르투갈 대 덴마크 경기 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bo-dao-nha-vs-dan-mach-tai-nations-league-1799982.ldo",
-          "source": "Laodong.vn"
+          "title": "[공식발표] '쫓겨나듯 은퇴한 7번' 기린다...포르투갈 대표팀, 숫자 '7' 디자인 변경",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/15/MQYDANRVMFSTGYRZMYZTCM3DGU/",
+          "source": "조선일보"
         },
         {
-          "title": "경기 프리뷰: 포르투갈 vs 덴마크, 11월 15일 오전 2시 45분: 조 1위 자리를 놓고 경쟁.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bo-dao-nha-vs-dan-mach-2h45-ngay-15-11-can-dich-ngoi-dau",
-          "source": "Vietnam.vn"
+          "title": "호날두, 연기 도전한다…‘킹스맨’ 감독과 드라마 제작하고 출연까지",
+          "url": "https://www.segye.com/newsView/20261113512239",
+          "source": "세계일보"
+        },
+        {
+          "title": "호날두 '영구 결번' 확정, 그런데 등번호가 아니다…포르투갈 대표팀 깜짝 결정 \"CR7 방 번호 결번\"",
+          "url": "https://www.xportsnews.com/article/2219500",
+          "source": "www.xportsnews.com"
+        }
+      ]
+    },
+    {
+      "keyword": "김하성",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-14T20:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2JKzuYDVSqaU1R8tfZv8QbUmGJJeLB1aDWNpBGgLJTISGLmrZQT5xmrILHGU",
+      "category": "연예",
+      "news": [
+        {
+          "title": "\"2000만 달러 받고 타율 .116 충격\" 김하성, 몸값 폭락이 오히려 기회? 美 매체 \"최고의 알짜 영입 될 수도\"",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/14/GI3TEOJTGIZGKOBZMY4GIOBVG4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "초대형 희소식! 김하성, 난생처음 인기팀 관심! → 키움 컴백 이유 사라졌다",
+          "url": "https://www.sportschosun.com/baseball/2026-11-14/202611140100094330008858",
+          "source": "스포츠조선"
+        },
+        {
+          "title": "타격 부진에 FA 인기 걱정했는데‥\"필라델피아, 김하성 영입 검토\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864665_37004.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
       "keyword": "portugal vs denmark",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-14T19:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR18aGMWqQa50mI4u5YokR9cOfZ7QpARJnmggW3wX90Nk8AmVbWxYWNYW-VHFE",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPWSDn8CdFtb1kT48agzHvgZxLch7a1VNL4U1HBf4-vHAti86jpWh5zeNN0yk",
       "category": "스포츠",
       "news": [
         {
-          "title": "Portugal vs Denmark Confirmed Lineups",
-          "url": "https://www.whoscored.com/news/tsmldyQ_5U-YBmPdFT2DcA/show/cng112-20261114-portugal-vs-denmark-confirmed-lineup-1794682172",
-          "source": "WhoScored.com"
-        },
-        {
           "title": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
-          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxTFlGQTQ",
+          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxSjZHODE",
           "source": "Reuters Connect"
         },
         {
+          "title": "Shafaq News..Nations League: Denmark routs Portugal",
+          "url": "https://shafaq.com/en/sport/Nations-League-Denmark-routs-Portugal",
+          "source": "شفق نيوز"
+        },
+        {
           "title": "Portugal Denmark Nations League Soccer",
-          "url": "https://www.couriernews.com/sports/portugal-denmark-nations-league-soccer/image_8c6363b6-a2b7-5217-9ddd-8c63e4dcbd08.html",
-          "source": "couriernews.com"
+          "url": "https://www.chronicleonline.com/sports/soccer/portugal-denmark-nations-league-soccer/image_7d882837-46f8-5a31-81be-116856e6a8fe.html",
+          "source": "chronicleonline.com"
         }
       ]
     },
     {
-      "keyword": "아프리카",
+      "keyword": "이승기",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-14T18:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHA_hReyEvSm-L_E08t_9Qh7icrNvarU9SCthby4izElTsJAJPIJHYBRN2cl0",
-      "category": "IT·과학",
+      "startedAt": "2026-11-14T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjVXZIN4THyUcEXssOMB1snfYDm-CaVR9J39wOcAjCrUZiMw682pRmY_9NYeU",
+      "category": "경제",
       "news": [
         {
-          "title": "매출 1년 새 15배 성장… 스킨서울랩, 정주영 창업경진대회 글로벌 부문 최우수상",
-          "url": "https://www.seoultopnews.kr/news/articleView.html?idxno=100353",
-          "source": "톱뉴스"
+          "title": "'105억 전세 피해' 이승기 \"부동산에 악마들이 득실거려\"",
+          "url": "https://www.newsis.com/view/NISX20261114_0003868186",
+          "source": "뉴시스"
         },
         {
-          "title": "한·아프리카재단, ‘2026 글로벌 액셀러레이팅 in Africa’ 기후테크 성과공유회 개최",
-          "url": "https://wowtale.net/2026/11/14/268054/",
-          "source": "와우테일"
+          "title": "‘105억 전세금 분쟁’ 이승기, “부동산에 악마 가득해, 안 당하면 모른다” 뼈있는 경고",
+          "url": "https://sports.khan.co.kr/article/202611141748013",
+          "source": "스포츠경향"
         },
         {
-          "title": "[AI서머리] 경기창경, 2026 경기스타트업페스타 개최‧스킨서울랩, 정주영 창업경진대회 최우수상",
-          "url": "https://startuprecipe.co.kr/archives/5841370",
-          "source": "스타트업레시피"
+          "title": "＂안 당해 보면 모른다＂…경험자의 뼈때리는 조언",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611150002",
+          "source": "한국경제TV"
+        }
+      ]
+    },
+    {
+      "keyword": "아버지",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T20:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7p6f7CHY6NbS8ES9NPtcMqwnJ_C0jzAoIeHp9BmYwc16v4HUJ52HMoY-0Af0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "하리수 \"중학생 때부터 父와 대화 단절…몰래 성전환 수술\"",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868296",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"8㎝ 뇌종양, 두개골 제거\"…빽가, 부모에 진단 숨기다 '눈물' - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/12/2026111209361465715",
+          "source": "머니투데이"
+        },
+        {
+          "title": "하리수 \"성전환 반대 父, '낳아서 저따위'라고 폭언…화해한 적 없다\" 오열 ('동치미')",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100096800009038",
+          "source": "스포츠조선"
         }
       ]
     },
     {
       "keyword": "이세계아이돌",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-14T19:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3NUx5e7w908dBU3C_evSvRsnYpHtAWofdCxt3QnFwfCm6YfHThITPlLYco_c",
       "category": "연예",
@@ -165,6 +195,56 @@
           "title": "이세계아이돌 미니 2집 발매…전국 15곳 팝업 진행 : 연예",
           "url": "https://news.jkn.co.kr/post/1083484",
           "source": "재경일보"
+        }
+      ]
+    },
+    {
+      "keyword": "lpl",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "LoL Esports 2027 and Beyond",
+          "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
+          "source": "LoL Esports"
+        },
+        {
+          "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
+          "url": "https://www.asiae.co.kr/en/article/2026111400394915464",
+          "source": "아시아경제"
+        },
+        {
+          "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
+          "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
+          "source": "The Korea Daily"
+        }
+      ]
+    },
+    {
+      "keyword": "미라 안드레예바",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T20:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7nCVNFKpSesw6pqYBjhxVf-TiRmOEJ7FS6d30njyi46RkMZ4Yd5twjqZ9Lqs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "무려 '735억' 잭팟→\"돈 더 달라\"→'파격 시스루 논란' 세계 1위 허무한 굴욕... '또' 분노 조절 실패 '도대체 왜' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/2026111416335893727",
+          "source": "머니투데이"
+        },
+        {
+          "title": "사발렌카 꺾고 기뻐하는 안드레예바",
+          "url": "https://mobile.newsis.com/photo/NISI20261112_0002290552",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[WTA 파이널] 승리 기뻐하는 안드레예바의 코치",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750198",
+          "source": "국제뉴스"
         }
       ]
     },
@@ -190,81 +270,6 @@
           "title": "전한길 “노무현 추천서로 하버드 입학”…이준석 “허위 사실 추가 고소”",
           "url": "https://www.kyeonggi.com/article/20261114580059",
           "source": "경기일보"
-        }
-      ]
-    },
-    {
-      "keyword": "twitch",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T18:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9LxfvV6Aku-36afdXY9rQxna6G84QWx23KuKcNJfdDck3pXJ7k28SGwLdjE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
-          "url": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
-          "source": "KTLA"
-        },
-        {
-          "title": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
-          "url": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html",
-          "source": "Notebookcheck"
-        },
-        {
-          "title": "Kick Takes GTA 6 Giveaway to California With Lucia Cosplayer On Special Truck",
-          "url": "https://sports.ndtv.com/us/us-streamers/kick-takes-gta-6-giveaway-to-california-with-lucia-cosplayer-on-special-truck-12326023",
-          "source": "NDTV Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "아버지",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T20:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5N4N9-KE_VB2GLIfIoC5tTtsNL8SanMIpJk9MG5gmQt3-7-P1QRbptJfx1w",
-      "category": "연예",
-      "news": [
-        {
-          "title": "치매 부모가 생전에 물려준 재산…되돌릴 수 있을까 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/12/2026111210123451419",
-          "source": "머니투데이"
-        },
-        {
-          "title": "“전 재산을 OO에게” 치매 아버지 유언장 본 남매 충격",
-          "url": "https://www.wikitree.co.kr/articles/1173180",
-          "source": "위키트리"
-        },
-        {
-          "title": "배우 권영경, 치매 앓는 어머니와 감동의 무대… 가수 성리 메모리 싱어 출격",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752122",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "lol",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T19:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "LoL Esports 2027 and Beyond",
-          "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
-          "source": "LoL Esports"
-        },
-        {
-          "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
-          "url": "https://www.asiae.co.kr/en/article/2026111400394915464",
-          "source": "아시아경제"
-        },
-        {
-          "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
-          "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
-          "source": "The Korea Daily"
         }
       ]
     }
