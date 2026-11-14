@@ -1,12 +1,8 @@
 {
-  "updatedAt": "2026-11-14T08:44:25.590Z",
+  "updatedAt": "2026-11-14T09:39:48.668Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 2
     },
     {
@@ -14,11 +10,19 @@
       "count": 2
     },
     {
-      "category": "스포츠",
-      "count": 1
+      "category": "기타",
+      "count": 2
     },
     {
       "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
@@ -49,59 +53,84 @@
       ]
     },
     {
-      "keyword": "mma 2026",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-14T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLBHELOe7gkuAgF4SGwR-6IR9NsdFeeb2QBK60nLlDlQ85mhkVS9JwJM_gG6E",
-      "category": "스포츠",
+      "keyword": "웨이브",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T08:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJDPWWUWYMWn3d6HmzuAr0ena570SKUPyUy9BYxvd7uqSql3BxnUYqeN5UZqk",
+      "category": "연예",
       "news": [
         {
-          "title": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event",
-          "url": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
-          "source": "MMA Fighting"
+          "title": "[OTT리뷰]",
+          "url": "https://cine21.com/news/view/?mag_id=111266",
+          "source": "씨네21"
         },
         {
-          "title": "Polymarket Invite Code SBWIRE | Get $25 Bonus for UFC 334 Gane vs Hokit at MSG",
-          "url": "https://mmajunkie.usatoday.com/story/sports/2026/11/13/polymarket-invite-code-sbwire-ufc-334/91240606007/",
-          "source": "MMA Junkie"
+          "title": "‘옆자리, 프란체스카’ 김현진 “행복했던 작품, 더 성장했다”",
+          "url": "https://www.kmib.co.kr/article/20261113500582",
+          "source": "국민일보"
         },
         {
-          "title": "Video: UFC 334 full card final faceoffs with two title fights and more in NYC",
-          "url": "https://sports.yahoo.com/articles/video-ufc-334-full-card-233342925.html",
-          "source": "Yahoo Sports"
+          "title": "[TV톡] 숏폼이 살린 추억, 웨이브가 잇는다…'프란체스카'·'무한상사'의 부활",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524454",
+          "source": "iMBC 연예"
         }
       ]
     },
     {
-      "keyword": "화장품",
+      "keyword": "구성환",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-14T05:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMNEWx2sfBOYkZ5aLCL0MongjZHXmh-KsohtvbSMfEw-2nIwZ3OaX_U1-eks",
-      "category": "기타",
+      "startedAt": "2026-11-14T08:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrhk7jUllbc1rwhB9IHH0Dz1eGewiqC-ypTWm3GKvYca0DpHQBIzdVd4PlAuI",
+      "category": "연예",
       "news": [
         {
-          "title": "영국, 안티에이징 광고 입증 기준 강화... 사우디 주사기형 화장품 포장 용기 금지",
-          "url": "https://www.cncnews.co.kr/news/article.html?no=11401",
-          "source": "CNC NEWS"
+          "title": "\"반지 선물하고, 5㎞ 업고...\" 구성환, 첫사랑과 30년만 재회 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111407075647670",
+          "source": "머니투데이"
         },
         {
-          "title": "필러는 누가 놓고, 부작용은 누가 책임지나…영국 의회가 짚은 미용산업의 빈틈",
-          "url": "https://www.hkn24.com/news/articleView.html?idxno=351578",
-          "source": "헬스코리아뉴스"
+          "title": "구성환, '결혼 약속' 여자친구 공개했다",
+          "url": "https://www.newsis.com/view/NISX20261114_0003867961",
+          "source": "뉴시스"
         },
         {
-          "title": "대한화장품산업연구원, 美·EU 화장품 규제 대응 세미나",
-          "url": "https://www.cosmorning.com/news/article.html?no=53902",
-          "source": "코스모닝"
+          "title": "구성환, 첫사랑과 헤어진 이유…‘4대 천왕’ 과거 눈길 (나혼산)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524758",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "이로운",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T08:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAMYT9tu1iezMXmc6Vebd7hxSc0Akml3ZTy5oGwXkzriBbCpwzfKyPMq2w2cM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "일본이 도와준 한국 야구... 오늘 밤 대만 꺾으면 APBC 결승행",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/HKCTERPHKJCZFMPW7GAQO77NMQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "김진욱 어떻게 한 거야? 일본, 3회까지 호주 15-0 대폭격…한국, 이대로면 대만 잡기만 해도 결승 진출 [오!쎈 도쿄] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141317779758O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'이기면 결승행' 한국, 라인업에 변화…김지찬 리드오프·김주원 3번 투입",
+          "url": "https://www.newsis.com/view/NISX20261114_0003868204",
+          "source": "뉴시스"
         }
       ]
     },
     {
       "keyword": "수수료",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-14T07:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCfnTbziY0oGLzIb4gjxrZzR38eR5wG4G-2FvqTAqEbdNN5b5rDMOiDIxQdXc",
       "category": "경제",
@@ -125,16 +154,16 @@
     },
     {
       "keyword": "닭한마리",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-14T07:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6nQWU93PXiaO457nBRhPq4KsjOecCwsgi76GeTYjlNEll5u6-mWDSNLFhOkQ",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQADPNT0vKLx6bOPZY_0bqsPPTHmIOzplQbVYRp9XwkYhs60lzIBs3BSQPyKQU",
       "category": "기타",
       "news": [
         {
-          "title": "\"먹다 남긴 재료 재사용, 비위 상해 나왔다\"…닭한마리집 주방 영상 논란 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/14/2026111416053177286",
-          "source": "머니투데이"
+          "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
+          "url": "https://www.hankyung.com/article/2026111464097",
+          "source": "한국경제"
         },
         {
           "title": "\"먹다 남긴 반찬 다시 통에 쏙\"… 종로 식당서 위생 의혹",
@@ -142,9 +171,9 @@
           "source": "뉴시스"
         },
         {
-          "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
-          "url": "https://www.hankyung.com/article/2026111464097",
-          "source": "한국경제"
+          "title": "손님 남긴 마늘·부추 버젓이 재사용?…식당 목격담 ’위생 논란’",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113131533b2u",
+          "source": "연합뉴스TV"
         }
       ]
     },
@@ -178,48 +207,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-14T06:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFdx4EZhDjmHHNNw2ASHI_zbFx__wNxcdlgS7Pn0MhhVhV_QMNHLVuEXzZURY",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbap2JtV7UJosjnAN0n-LNF-_fWlViaxWKPtu4mSIRher6ZOR3_OQ2tbRxxOs",
+      "category": "경제",
       "news": [
         {
-          "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
-          "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
-          "source": "The New York Times"
+          "title": "Elbit Systems, NATO 회원국과 2억6,000만 달러 규모 로켓포 계약",
+          "url": "https://kr.investing.com/news/company-news/article-93CH-2171999",
+          "source": "Investing.com 한국어"
         },
         {
-          "title": "Russian Demands of NATO Pullback Are Non-Starter, Finland Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-demands-of-nato-pullback-are-non-starter-finland-says",
-          "source": "Bloomberg.com"
+          "title": "엘빗 시스템즈, 유럽 NATO국과 2억6000만 달러 수주 : 기업·산업",
+          "url": "https://news.jkn.co.kr/post/1093267",
+          "source": "재경일보"
         },
         {
-          "title": "Russia demands Finland leave Nato in Ukraine peace talks, Bild reports",
-          "url": "https://yle.fi/a/74-20256829",
-          "source": "Yle"
+          "title": "엘빗, NATO 회원국에 PULS 로켓포 2.6억 달러 수출",
+          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=2943",
+          "source": "데일리방산"
         }
       ]
     },
     {
-      "keyword": "광교신도시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_OO4cJcWL2wGgJP5ZfxfSD3G056ZYXvWVhsathqb3DvT0HYB0ese_1p1LaAQ",
-      "category": "경제",
+      "keyword": "대한민국 국군",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-Cq4_zMh97zVFOsdkU-UMIeeCQ7A_9QhwBMeo_TvujUcfrbnDV64IyhGnNI",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "시세차익 따라 갈린 수도권 청약…5241가구 정당계약 시험대",
-          "url": "https://www.g-enews.com/article/Real-Estate/2026/11/2026111310100171412aa6f4cdad_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "분양가 25%만 내고 입주…내달 고양창릉 지분적립형 284가구 공급",
-          "url": "https://www.news1.kr/realestate/general/6353065",
+          "title": "국방홍보원, 국방일보 창간 62주년 맞이 보도 사진전 개최",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6353308",
           "source": "뉴스1"
         },
         {
-          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726",
-          "source": "인천일보"
+          "title": "국방홍보원 '국방일보 보도사진전' 개최 \"대한민국 국군의 어제와 오늘 조명\"",
+          "url": "https://www.fnnews.com/news/202611130903127570",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "국방홍보원, 「창간 62주년 국방일보 보도사진전」 개최",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456861",
+          "source": "서울Pn"
         }
       ]
     },
@@ -245,31 +274,6 @@
           "title": "의무공개매수 '제3의 절충안'…대주주 지분 사고 나머지 절반도 매수",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444678",
           "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "로켓",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDiR6ra1S6FLMC3AnOkZTz70ZXBl7QX7nfPf80zlrdZRzyEMVRJuXWlvkBI_0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[영상]‘스타십’ 1단 로켓 지상 회수 불발…바다에 착수",
-          "url": "https://www.khan.co.kr/article/202611140848001",
-          "source": "경향신문"
-        },
-        {
-          "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
-          "url": "https://www.hani.co.kr/arti/science/technology/1287313.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "비행기처럼 우주선 재사용? 스페이스X, 통째 회수 나선다",
-          "url": "https://www.chosun.com/economy/science/2026/11/12/MRZDWAAPJFGLXJB5LRMWSNWZ6E/",
-          "source": "조선일보"
         }
       ]
     }
