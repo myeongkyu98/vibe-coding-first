@@ -1,45 +1,28 @@
 {
-  "updatedAt": "2026-11-14T04:46:18.824Z",
+  "updatedAt": "2026-11-14T05:44:05.371Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
+    },
+    {
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     },
     {
       "category": "정치·사회",
-      "count": 2
+      "count": 1
     }
   ],
   "items": [
-    {
-      "keyword": "한화 이글스",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T03:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3dm5ujJCbqJpXrIeWHWZCZyvE0YHe3urT_FbgYiFCuVoVq8Q-ZXiJRE9Rc4M",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'744억' 쓰고 떠난 손혁 단장, '큰 손' 한화 FA 중견수 사올까…김호령 최지훈 홍창기 배정대 등 매물은 많다",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GYYDMMTBMQ2TOYRYMFTGEOJZG4/",
-          "source": "조선일보"
-        },
-        {
-          "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712285",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
-          "url": "https://sports.khan.co.kr/article/202611131627013",
-          "source": "스포츠경향"
-        }
-      ]
-    },
     {
       "keyword": "이륙",
       "traffic": "2000+",
@@ -54,30 +37,121 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "‘올스톱’ 됐던 美 하늘길... 4시간 20분 만에 풀렸다",
-          "url": "https://www.chosun.com/international/us/2026/11/14/JINR2EN5QRAOJJF3Z7RLIBFGZA/",
-          "source": "조선일보"
+          "title": "인천 출발 미국행 항공편 운항재개…일부 지연 운항",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261114142744YVH",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "[속보] 오늘 오전 인천 출발 미국행 항공편 결항 취소…정상화 수순",
-          "url": "https://www.kmib.co.kr/article/20261114500032",
-          "source": "국민일보"
+          "title": "“이륙 금지” 美 공항 대혼란…4시간여 만에 하늘길 열렸다",
+          "url": "https://www.mk.co.kr/news/world/12208845",
+          "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "대전광역시",
+      "keyword": "수입",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-14T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaElxh1VJ6U0FRxXBs3T48KAzymwY040q2ATNrdj6w7SlxplH2dmMkiB7uz2E",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한국, 반도체 앞세워 중국 수입시장서 6개월째 1위",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6865615_36932.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "11월 초 수출 2배 뛰었다...수출 1조 달러 달성 눈앞",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611121103336370",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "끊임없는 네고물결…환시 시선은 '사상 첫 1조달러' 수출 지표에",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444376",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "부산 kcc 대 서울 sk",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-14T03:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "startedAt": "2026-11-14T04:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiK6emUtdpR9je3Kh6d1aOG4Tm7V4i5auF8iRhBowSve9QtgTf5mvVyquvd74",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[사진] 오세근, 골밑 찬스 놓치지 않아",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MQYTOOLFGQYDCMBWGBSWMNBXME/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[웜업터뷰] “킹, 영리하게 해달라” 이상민 감독이 경계한 SK의 거친 압박",
+          "url": "http://www.jumpball.co.kr/news/newsview.php?ncode=1065588513367775",
+          "source": "점프볼"
+        },
+        {
+          "title": "[BK 프리뷰] 4연승 노리는 KCC? 연패 없어야 하는 SK?",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065585336639237",
+          "source": "바스켓코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "해병대 제1사단",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T04:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Evnl3o1ezJWbvQxHlqlCy8IFf0YIOkzetywisU5M_sEsfzPyvI3ieVgI0m0",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "포항국제불빛축제 일주일 앞…\"한번도 경험 못한 축제될 것\"",
+          "url": "https://www.news1.kr/local/daegu-gyeongbuk/6353403",
+          "source": "뉴스1"
+        },
+        {
+          "title": "포항시설관리공단, 포항국제불빛축제 앞두고 영일대 주차장 안전점검 강화",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/12/2026111200401.html",
+          "source": "뉴데일리 대구경북"
+        },
+        {
+          "title": "김포 ‘해병대의 도시’ 대명항서 민·관·군 하나 됐다",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802123",
+          "source": "일간투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "la 클리퍼스 대 오클라호마시티",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T03:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbv3hYuW-N1-kowJ_P3nsIgc0PPq8C3GlBZdn9pW7fLtW3i0orABBlNHGr94",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Thunder vs. Clippers: Live updates, highlights for Friday's game",
+          "url": "https://sports.yahoo.com/articles/thunder-vs-clippers-live-updates-023020425.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Ajay Mitchell (ankle) ruled out vs. Portland",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-11/ajay-mitchell-ankle-ruled-out-vs-portland",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Injury Report: Nikola Topic Available, Ajay Mitchell Questionable for OKC Thunder",
+          "url": "https://www.si.com/nba/thunder/onsi/injury-report-nikola-topic-available-ajay-mitchell-questionable-for-okc-thunder",
+          "source": "Sports Illustrated"
+        }
+      ]
     },
     {
       "keyword": "경찰차",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-14T03:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_-Z2kiIcL9nkCCYfhDL_5jxHJxTb7cWI6HR2z2uuWfNswC5cBurMp4_ZXPg",
       "category": "정치·사회",
@@ -100,138 +174,72 @@
       ]
     },
     {
-      "keyword": "표고",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T03:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReC7hJtA73tiYZJrePKUrUla5uFoysxJxgo95JvLiZ6P8SqXTsEkMSz6O5ZoI",
-      "category": "기타",
+      "keyword": "경비원",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T03:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1AyKY8zRVHz23_p6lRNFCUyH611Oh0jGBN1JMHiALKvxkHixsL9HqGVMHPrw",
+      "category": "경제",
       "news": [
         {
-          "title": "중국서 다 키워놓고선 국내산?…표고버섯 속여 판 업체 적발",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712299",
-          "source": "KBS 뉴스"
+          "title": "술 취해 옷에 라이터로 불 붙여···아파트에 불 내 14명 다치게 한 40대 구속영장 신청",
+          "url": "https://www.khan.co.kr/article/202611131931001",
+          "source": "경향신문"
         },
         {
-          "title": "농관원, 중국산 표고버섯 563t 국내산 속여 판 5개 업체 적발",
-          "url": "https://www.yna.co.kr/view/AKR20261113098500054",
+          "title": "방화에 주민 대피 도운 70대 경비원, 병원 치료 중 숨져",
+          "url": "https://www.yna.co.kr/view/AKR20261114031000054",
           "source": "연합뉴스"
         },
         {
-          "title": "중국산 표고버섯 국내산 속인 업체 5곳 적발…\"40억원 상당\"",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867322",
-          "source": "뉴시스"
+          "title": "‘70대 경비원 중태’ 아파트 방화 40대 구속영장",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712561",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "로보택시",
+      "keyword": "울음",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T02:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXwjKqT7240xg7TqcZRgyK2saQMpwMFbUAvV_2aJKNlSQXmBAIXn9P-lOiOLY",
+      "startedAt": "2026-11-14T04:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9L3leGA9lpg1YQL0rFcnGQ2r31ggjsn7RA6MmP77E6ez48464--ls5J-7No",
       "category": "기타",
       "news": [
         {
-          "title": "로보택시 다음은 오토바이…中 자율주행 기업, 8000만대 시장 노린다",
-          "url": "https://www.hankyung.com/article/202610053827i",
-          "source": "한국경제"
+          "title": "\"아기 울음소리가 불편할 리 있나요?\"…떡 돌린 엄마 울린 이웃의 손편지 [살맛나는 세상]",
+          "url": "https://news.ikbc.co.kr/article/view/kbc202611120077",
+          "source": "KBC광주방송"
         },
         {
-          "title": "[EICMA 2026] 중국 TARNS에서 왔다! 알루미늄 단조 휠 공개: 주조 제품 대비 강도 30% 향상 및 무게 1/3 이상 경량화 주장",
-          "url": "https://japan.webike.net/moto_news/ko/eicma-2026-from-tarns-china-aluminum-forged-wheels-unveiled-claimed-to-be-30-stronger-and-over-1-3-lighter-than-cast-products/",
-          "source": "Webike Japan"
+          "title": "\"아기 울음 시끄러우니 자제해 주세요\"…생후 50일 신생아 집에 붙은 포스트잇 [어떻게 생각하세요]",
+          "url": "https://www.fnnews.com/news/202611051438246880",
+          "source": "파이낸셜뉴스"
         },
         {
-          "title": "코브, EICMA에서 신모델 5종 및 2027년 레이싱 라인업 공개",
-          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=107360",
-          "source": "코리아이글뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "강민호",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc1cs8okZXSEeQjYWVVgGrax03Pgwp6TDWOMcYexPid_QkaaMgu5793muo4go",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "2위팀 삼성의 뒤집기 우승… ‘부자=챔프’ 공식도 뒤집다",
-          "url": "https://www.donga.com/news/Society/article/all/20261113/135022468/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "9승 투수의 대반전, 가을엔 3승 무패 특급 에이스...삼성 12년 만의 우승 이끈 후라도, \"내 임무 완수했다\"",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/GZSGEMZWMU3TKY3DMNTGGMTFMQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "친청계 3인 \"윤리감찰 대상은 김민석…당원 반으로 갈라\"",
-          "url": "https://news.jtbc.co.kr/article/NB12327904",
-          "source": "JTBC"
+          "title": "\"아기 울음 좀 자제해라\"…이웃 포스트잇 받은 부모의 고민",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611051031547Fa",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
       "keyword": "잠실 더 라스트 이닝",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-14T03:20:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "안규백",
+      "keyword": "대전광역시",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-14T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "국방부, 육해공 사관생도 대상 국군사관학교 설문 착수",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261114093518Td6",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "빈대 잡으려다 초가삼간 태운다?… 의도적 육사 배제에 안보 공백 우려 커져",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57077",
-          "source": "주간조선"
-        }
-      ]
-    },
-    {
-      "keyword": "디에고 포를란",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T02:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROpfG0kAONvIEeZLLLTtbWKkbo789mQM_ZB9FxNr5PjaM0EinOAWkdaymy47Q",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "모레노호 4-1로 침몰시키더니 흐름 제대로 탔다… 메시 은퇴한 아르헨티나 2-1로 격파한 우루과이, 3연승 질주",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314049",
-          "source": "베스트일레븐"
-        },
-        {
-          "title": "전 맨체스터 유나이티드 공격수 포를란이 우루과이 대표팀을 이끌며 눈부신 활약을 펼치고 있다.",
-          "url": "https://www.vietnam.vn/ko/cuu-tien-dao-man-united-forlan-toa-sang-khi-dan-dat-uruguay",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "한국 4-1로 무너뜨리더니 자신감 제대로 붙었다…포를란 감독, 모레노호 상대 대승에 만족 “수준 높은 한국 상대로 매우 좋은 경기력 보여줬다”",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698363",
-          "source": "인터풋볼"
-        }
-      ]
+      "startedAt": "2026-11-14T03:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
