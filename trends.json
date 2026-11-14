@@ -1,61 +1,78 @@
 {
-  "updatedAt": "2026-11-14T09:39:48.668Z",
+  "updatedAt": "2026-11-14T10:36:42.040Z",
   "summary": [
+    {
+      "category": "기타",
+      "count": 4
+    },
+    {
+      "category": "스포츠",
+      "count": 3
+    },
     {
       "category": "연예",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "기타",
-      "count": 2
-    },
-    {
       "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "무인 항공기",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-14T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpfhrjmPgwfXY6wD5uBENpTW7zLVvb9YpI3_eeee4DYM-AftsBFF4qTzuOpy8",
-      "category": "IT·과학",
+      "keyword": "일본 대 브라질",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-14T09:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBfVAUyXlE0HeRHs_-LmwgOWsU_yWd0oh0HSAPvjOpntxqfxciwknYPj6LDtU",
+      "category": "스포츠",
       "news": [
         {
-          "title": "무인항공기 국제표준, 서울에서 논의한다… ISO/TC 20/SC 16 총회, 미·중 이어 세 번째 개최",
-          "url": "https://www.etnews.com/20261113000215",
-          "source": "전자신문"
+          "title": "日 축구 이 정도였나! 세계 55위→17위 ‘38계단 폭등’…독일·브라질·잉글랜드 꺾은 명감독 효과→ESPN \"트로피가 전부 아냐\" 모리야스 8년 재조명",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019556",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "무인항공기 국제표준 총회, 서울서 개최…수소 추진·AI·보안 등 논의",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/13/5LYYALA3YJHUJETWJVA7GOTOVE/",
-          "source": "조선일보"
+          "title": "`만나면 접전` 브라질 수비수 마갈량이스 일본 경계 \"무실점 경기가 목표\"",
+          "url": "https://mydaily.co.kr/page/view/2026111214195889875",
+          "source": "마이데일리"
         },
         {
-          "title": "무인항공기 국제표준, 서울에서 논의한다…미·중 이어 세 번째 개최",
-          "url": "https://news.jtbc.co.kr/article/NB12327967",
-          "source": "JTBC"
+          "title": "한국은 사우디에 졌는데...월드컵 이후 또다시 ‘삼바군단’ 상대하는 일본, 현지 매체 “더 이상 수비만 할 필요 없어, 공격 축구 할 것”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698449",
+          "source": "인터풋볼"
+        }
+      ]
+    },
+    {
+      "keyword": "기아",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-14T09:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSyg6uY-3mB9jt9hSO3gXIrR_7WmNB5pOfoP_U3Pv5QhfDIQGJ6C0JKSjUPpc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "기아 카렌스 EV 12월 인도 시작, 현지 부품비율 80% 달성",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111411184721922bd56fbc3c_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "현대차, 中 브랜드에 밀린 인도네시아서 반격…딜러점 100곳↑ 확대 목표",
+          "url": "https://theguru.co.kr/news/article.html?no=109667",
+          "source": "더구루"
+        },
+        {
+          "title": "현대차, 중국차 공세 뚫고 15% 성장…인도네시아 반등 승부수",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261110010003845",
+          "source": "아시아투데이"
         }
       ]
     },
     {
       "keyword": "웨이브",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-14T08:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJDPWWUWYMWn3d6HmzuAr0ena570SKUPyUy9BYxvd7uqSql3BxnUYqeN5UZqk",
       "category": "연예",
@@ -74,6 +91,31 @@
           "title": "[TV톡] 숏폼이 살린 추억, 웨이브가 잇는다…'프란체스카'·'무한상사'의 부활",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524454",
           "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "이로운",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-14T08:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ61fW1nx7W_5m6UgZtauLMbiwrqWL0GYfdVlWS8aatJdx_kmcjAoIZJDyO6Gs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[사진]한국 벤치에 인사하는 장스룬",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MQYTIZLFHFTDEN3DMFSDCYZTGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[사진]최원호 감독과 인사 나누는 가오즈강 감독",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GJQTCNDDGRRTEYRZGRRWGYLDMM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'호주 16-1 콜드승' 일본 땡큐! 결승에서 만나자…한국, 대만전 몇 점 차든 이기기만 하면 된다 [오!쎈 도쿄] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141419776777O",
+          "source": "머니투데이"
         }
       ]
     },
@@ -103,127 +145,86 @@
       ]
     },
     {
-      "keyword": "이로운",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T08:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAMYT9tu1iezMXmc6Vebd7hxSc0Akml3ZTy5oGwXkzriBbCpwzfKyPMq2w2cM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "일본이 도와준 한국 야구... 오늘 밤 대만 꺾으면 APBC 결승행",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/HKCTERPHKJCZFMPW7GAQO77NMQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "김진욱 어떻게 한 거야? 일본, 3회까지 호주 15-0 대폭격…한국, 이대로면 대만 잡기만 해도 결승 진출 [오!쎈 도쿄] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/202611141317779758O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'이기면 결승행' 한국, 라인업에 변화…김지찬 리드오프·김주원 3번 투입",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868204",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "수수료",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCfnTbziY0oGLzIb4gjxrZzR38eR5wG4G-2FvqTAqEbdNN5b5rDMOiDIxQdXc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나",
-          "url": "https://zdnet.co.kr/view/?no=20261113165818",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "\"할인한 배달비엔 수수료 안 내요\"…배민 결정에 소상공인단체들 '환영' - 머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/12/2026111217290610867",
-          "source": "머니투데이"
-        },
-        {
-          "title": "배민, 점주가 깎아준 금액엔 수수료 안 뗀다",
-          "url": "https://www.chosun.com/economy/market_trend/2026/11/12/RSPG427XJVHB7ILCHDA5G6AGCU/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "닭한마리",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T07:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQADPNT0vKLx6bOPZY_0bqsPPTHmIOzplQbVYRp9XwkYhs60lzIBs3BSQPyKQU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"먹던 마늘·부추를…\" 손님이 목격한 '닭한마리집' 충격 장면",
-          "url": "https://www.hankyung.com/article/2026111464097",
-          "source": "한국경제"
-        },
-        {
-          "title": "\"먹다 남긴 반찬 다시 통에 쏙\"… 종로 식당서 위생 의혹",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867818",
-          "source": "뉴시스"
-        },
-        {
-          "title": "손님 남긴 마늘·부추 버젓이 재사용?…식당 목격담 ’위생 논란’",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113131533b2u",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "문지애",
+      "keyword": "전소영",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgXKqt4UNKZIBoUoI2PCQqKygbRINKtCZBOHbKaQo0mIKqIJjrJYix1ZOGBrs",
+      "startedAt": "2026-11-14T09:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyF6lYtDyIengTIAo-yqXt7HIRwMTIz7nUq_hDdiXQFfcrqh-92HdqqXpRHDs",
       "category": "기타",
       "news": [
         {
-          "title": "문지애♥전종환 “아들, 수학 시험 27점에 온 집안 비상…결국 3등 들어”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023894/1",
+          "title": "전소영, 단추 하나 잠근 과감함…이러니 '부국제'에서 미모로 화제되지",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MVSGIZJSGU3TCNLCMI3TEY3DHE/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "'부국제 강타' 전소영, 반전 '베이글녀' 자태…가죽 재킷 속 과감한 크롭톱",
+          "url": "https://supple.kr/news/cmw8gt2g4eppsal9pmerm9jjh",
+          "source": "서플 뉴스"
+        },
+        {
+          "title": "'부국제 강타' 전소영, 반전 '베이글녀' 자태…가죽 재킷 속 과감한 크롭톱",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/MJRTSNJRGE3GMZRXMY2GCODFHA/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "박지현",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-14T09:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFDsoFyTpKSOuwhFLbiBEPSc3UhAMQA0VdayOpr9QvHraX8987-H-EtEnmH1E",
+      "category": "기타",
+      "news": [
+        {
+          "title": "나 혼자 산다",
+          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100005&type=Clip",
+          "source": "MBC"
+        },
+        {
+          "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1",
           "source": "동아일보"
         },
         {
-          "title": "문지애♥전종환 \"사내 연애 힘들었다..이별 꿈에 고통\"→\"子수학 27점\" 극복",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GNSTQNZXMIYDGYRVGBRTCNBVGQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "문지애·전종환 부부 아들…수학 27점에서 3등 진입 : 사회",
-          "url": "https://news.jkn.co.kr/post/1093260",
-          "source": "재경일보"
+          "title": "전현무·코드쿤스트, '나혼산' 박지현에 애정 폭발..\"소개 멘트 두 배로\"",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSWKYRQMRSWCMZRG43WCYZWMI/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "북대서양 조약 기구",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T06:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbap2JtV7UJosjnAN0n-LNF-_fWlViaxWKPtu4mSIRher6ZOR3_OQ2tbRxxOs",
-      "category": "경제",
+      "keyword": "멜론뮤직어워드 2026",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T09:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "호나우지뉴",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-14T09:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Qbx2YR0Tzugei1YLp2VtiSif4bJnqiAJ-ZvUoBzy3Za6mTjl__S19l7p4_g",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Elbit Systems, NATO 회원국과 2억6,000만 달러 규모 로켓포 계약",
-          "url": "https://kr.investing.com/news/company-news/article-93CH-2171999",
-          "source": "Investing.com 한국어"
+          "title": "46세 호나우지뉴, 11년 만에 공식전 선발 출격…300호골 정조준",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712853",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "엘빗 시스템즈, 유럽 NATO국과 2억6000만 달러 수주 : 기업·산업",
-          "url": "https://news.jkn.co.kr/post/1093267",
-          "source": "재경일보"
+          "title": "브라질 축구 전설 호나우지뉴, 15일 공식 경기 출장",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611141117186115",
+          "source": "YTN"
         },
         {
-          "title": "엘빗, NATO 회원국에 PULS 로켓포 2.6억 달러 수출",
-          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=2943",
-          "source": "데일리방산"
+          "title": "46세 '외계인' 호나우지뉴, 11년 만에 공식전 선발 출격",
+          "url": "https://www.newspim.com/news/view/20261114000049",
+          "source": "뉴스핌"
         }
       ]
     },
@@ -249,31 +250,6 @@
           "title": "국방홍보원, 「창간 62주년 국방일보 보도사진전」 개최",
           "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456861",
           "source": "서울Pn"
-        }
-      ]
-    },
-    {
-      "keyword": "인수 합병",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-14T07:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGO8hZFkkzKWUZ3ox-om77qDAlW5GHXn3tmZwdaJRbmKvSRfSs7vLRkC8u6o",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "\"지분 높을수록 소액주주 몫 줄어\"…의무공개매수법 '역진' 논란",
-          "url": "https://v.daum.net/v/bzdnvcCE8D",
-          "source": "Daum"
-        },
-        {
-          "title": "‘절반+1주’ vs ‘100%’ 인수합병 토론…이 대통령 “욕 먹더라도 파이 키우자는 쪽”",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1287249.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "의무공개매수 '제3의 절충안'…대주주 지분 사고 나머지 절반도 매수",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444678",
-          "source": "연합인포맥스"
         }
       ]
     }
