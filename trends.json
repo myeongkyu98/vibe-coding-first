@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-14T14:37:02.844Z",
+  "updatedAt": "2026-11-14T15:31:40.400Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
     },
     {
       "category": "연예",
@@ -12,9 +12,38 @@
     {
       "category": "정치·사회",
       "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "천천히 강렬하게",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-14T12:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLWKGPM5ZZR-V2kKGIPilsf1pTEyyDv7arjle0Islz04kKuOVrCDiu_JedLgw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "송혜교, 미국서 와인 사려다 거절 \"18살인 줄 알고 못 판다고\"",
+          "url": "https://www.newsis.com/view/NISX20261114_0003868197",
+          "source": "뉴시스"
+        },
+        {
+          "title": "‘천천히 강렬하게’ 송혜교 “‘더 글로리’ 이후 유럽 입국심사관 사진 촬영 제안도 받아” (핑계고)",
+          "url": "https://sports.khan.co.kr/article/202611141810003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
     {
       "keyword": "문무",
       "traffic": "2000+",
@@ -29,9 +58,9 @@
           "source": "대한민국 대표 공영미디어 KBS"
         },
         {
-          "title": "'문무' D-DAY, 전란에 휘말린 삼국...폭풍전야 긴장감 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111408237294118",
-          "source": "머니투데이"
+          "title": "\"장혁 연기가 미쳤어요\"..300억 들어간 '문무', 첫 방송부터 이뤄낸 수신료의 가치 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MQ3WIOBRGVTGGOBUMIYGCZBXG4/",
+          "source": "조선일보"
         },
         {
           "title": "인사말하는 최예빈",
@@ -41,29 +70,38 @@
       ]
     },
     {
-      "keyword": "천천히 강렬하게",
+      "keyword": "버거킹",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-14T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLWKGPM5ZZR-V2kKGIPilsf1pTEyyDv7arjle0Islz04kKuOVrCDiu_JedLgw",
+      "startedAt": "2026-11-14T12:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHR8rYpR2yAWCqRp20_-A-DKP-6Nnkrb9oDvOpHY0yXPcfwooyu2p5Bv9DY9U",
       "category": "기타",
       "news": [
         {
-          "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/",
-          "source": "조선일보"
+          "title": "욕심껏 ‘꽉꽉’ 채운 내 버거가 신메뉴로?…버거킹 플레임 랩 가보니 [현장]",
+          "url": "https://www.mk.co.kr/news/economy/12205410",
+          "source": "매일경제"
         },
         {
-          "title": "‘천천히 강렬하게’ 송혜교 “‘더 글로리’ 이후 유럽 입국심사관 사진 촬영 제안도 받아” (핑계고)",
-          "url": "https://sports.khan.co.kr/article/202611141810003",
-          "source": "스포츠경향"
+          "title": "“두툼한 패티 2장에 치즈 3장, 나만의 버거”…버거킹 연구소에선 다 된다 [르포]",
+          "url": "https://biz.heraldcorp.com/article/10934528",
+          "source": "헤럴드경제"
         },
         {
-          "title": "송혜교 실제 성격, 남모를 속앓이...\"술 마시고 솔직해졌다가 이불킥\"",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-14/202611140100094300008856",
-          "source": "스포츠조선"
+          "title": "[현장] \"와퍼에 새우패티 넣어볼까?\"…버거킹 연구원이 된 하루",
+          "url": "https://www.dailian.co.kr/news/view/1713648/%ED%98%84%EC%9E%A5-%EC%99%80%ED%8D%BC-%EC%83%88%EC%9A%B0%ED%8C%A8%ED%8B%B0-%EB%84%A3%EC%96%B4%EB%B3%BC%EA%B9%8C%EB%B2%84%EA%B1%B0%ED%82%B9-%EC%97%B0-2026",
+          "source": "데일리안"
         }
       ]
+    },
+    {
+      "keyword": "데블스 플랜",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-14T12:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "갈비뼈",
@@ -116,31 +154,6 @@
       ]
     },
     {
-      "keyword": "버거킹",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-14T12:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHR8rYpR2yAWCqRp20_-A-DKP-6Nnkrb9oDvOpHY0yXPcfwooyu2p5Bv9DY9U",
-      "category": "기타",
-      "news": [
-        {
-          "title": "욕심껏 ‘꽉꽉’ 채운 내 버거가 신메뉴로?…버거킹 플레임 랩 가보니 [현장]",
-          "url": "https://www.mk.co.kr/news/economy/12205410",
-          "source": "매일경제"
-        },
-        {
-          "title": "“두툼한 패티 2장에 치즈 3장, 나만의 버거”…버거킹 연구소에선 다 된다 [르포]",
-          "url": "https://biz.heraldcorp.com/article/10934528",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "[현장] \"와퍼에 새우패티 넣어볼까?\"…버거킹 연구원이 된 하루",
-          "url": "https://www.dailian.co.kr/news/view/1713648/%ED%98%84%EC%9E%A5-%EC%99%80%ED%8D%BC-%EC%83%88%EC%9A%B0%ED%8C%A8%ED%8B%B0-%EB%84%A3%EC%96%B4%EB%B3%BC%EA%B9%8C%EB%B2%84%EA%B1%B0%ED%82%B9-%EC%97%B0-2026",
-          "source": "데일리안"
-        }
-      ]
-    },
-    {
       "keyword": "로또1250",
       "traffic": "500+",
       "trafficValue": 500,
@@ -154,9 +167,9 @@
           "source": "경향신문"
         },
         {
-          "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257",
-          "source": "edaily.co.kr"
+          "title": "로또 1250회 1등 9명, 31억씩 받는다…당첨 번호는? - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/14/2026111420352340811",
+          "source": "머니투데이"
         },
         {
           "title": "1250회 로또판매·추첨시간, 1249회 1등당첨지역 공개",
@@ -166,13 +179,29 @@
       ]
     },
     {
-      "keyword": "데블스 플랜",
+      "keyword": "채령",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-14T12:40:00.000Z",
-      "picture": "",
+      "startedAt": "2026-11-14T13:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrjnQuSEHrSCwcKyjHrR4kDdYSfU-wXfLIiYPF4ONz4JWD_CxWt6kSe4pi0fE",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "'박서진 동생' 박효정, '연하' 보디빌더 품에 쏙 안겼다…전완근 보며 미소('살림남')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/MIYGGMJZGBQWKMTDGZTDKZDBMI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘슈스’ 박서진, 팬클럽 2700명 체육대회…“팬카페 회원수 임영웅 다음” (살림남)",
+          "url": "https://sports.khan.co.kr/article/202611130819003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "'살림남' 채령, 박서진 동생 폭행(?)에 충격⋯\"왜 그렇게 막 때리냐\"",
+          "url": "https://www.etoday.co.kr/news/view/2648193",
+          "source": "이투데이"
+        }
+      ]
     },
     {
       "keyword": "딜라이브",
@@ -200,52 +229,27 @@
       ]
     },
     {
-      "keyword": "아이오아이",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-14T11:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-4taOUg_tKv5xJ1XeiTSVOcBUFPAhueOq7bt2fuaVANc4UyjIy3FhzqXxd_M",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[ET포토] 라이즈, '여심 헌터들'",
-          "url": "https://www.etnews.com/20261114000050",
-          "source": "전자신문"
-        },
-        {
-          "title": "[사진]리센느 원이-미나미 '시상식도 접수'",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/14/MQZDEZLDGJRTKZLDMJQWMZJXMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "라이즈 원빈, 그윽한 눈빛",
-          "url": "https://mobile.newsis.com/photo/NISI20261114_0021532698",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
       "keyword": "nhật bản đấu với brasil",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-14T11:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1We09QCZXj57A0bYW0F3Qqn5FhZnnNHD4zK_akZp99WE_gmRe4R9utXEthOc",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYzAE0QLaQK0y4qqG91OG1zzEVyEw0O73W8Xvz3w8Q9rP69Yk5MC8UaJSXuM",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Ancelotti and Raphinha sent off as Japan beat Brazil",
-          "url": "https://www.bbc.com/sport/football/live/cv5yny98z474t",
-          "source": "BBC"
-        },
-        {
-          "title": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
-          "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+          "title": "Brazil underwhelm again in Japan defeat and Carlo Ancelotti is feeling pressure",
+          "url": "https://www.espn.com/soccer/story/_/id/50479572/brazil-japan-carlo-ancelotti-red-card",
           "source": "ESPN"
         },
         {
-          "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-          "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-          "source": "The Guardian"
+          "title": "Barcelona star speaks out against refereeing after red card vs Japan – “Cannot ignore”",
+          "url": "https://sports.yahoo.com/articles/barcelona-star-speaks-against-refereeing-143600975.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Carlo Ancelotti, Raphinha sent off as Brazil lose to Japan to stoppage-time goal",
+          "url": "https://www.nytimes.com/athletic/7781332/2026/11/14/brazil-japan-result-red-cards/",
+          "source": "The New York Times"
         }
       ]
     }
