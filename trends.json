@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-15T18:37:03.522Z",
+  "updatedAt": "2026-11-15T19:38:56.900Z",
   "summary": [
     {
       "category": "기타",
       "count": 5
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
     },
     {
       "category": "경제",
@@ -14,15 +18,7 @@
       "count": 1
     },
     {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
       "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
@@ -32,23 +28,23 @@
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-15T16:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGygJc7wfzY_Mp4HItyiHdZip8eOKcD67FA9tPjK5YXbCuRNdAyOiwUg1cY6s",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSizqKezhPQMS67MDky9K-Yf9aqbFxJ9uO4L8Q0jxJMGMx5sZFjK2npTRvt_6k",
       "category": "경제",
       "news": [
         {
-          "title": "매물 늘고 가격 조정…시들해진 서울 아파트 '매수' 심리",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444785",
-          "source": "연합인포맥스"
+          "title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01889286645646048",
+          "source": "마켓인"
         },
         {
-          "title": "\"호가 수억 낮춰도 안 팔려\"…서울 집값 오르는데 강남은 왜",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02630566645645720&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "\"이제 와서 2억 더 내라고?\"…서초 아파트 주민들 '날벼락' [김용우의 각개전투]",
+          "url": "https://www.hankyung.com/article/202611146307i",
+          "source": "한국경제"
         },
         {
-          "title": "수도권, 내년 1분기까지 4.4만 가구 입주",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336840",
-          "source": "인천일보"
+          "title": "재초환 '날벼락'에...재건축 조합장들 한 곳에",
+          "url": "https://www.fnnews.com/news/202611131524554357",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
@@ -66,39 +62,14 @@
           "source": "조선일보"
         },
         {
-          "title": "한국 야구, APBC에서 일본에 패배...3회 연속 준우승",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0107_202611152332254222_005.html",
-          "source": "YTN"
+          "title": "韓야구, 日에 13연패 수렁…2015년 이후 한 번도 못 이겼다",
+          "url": "https://www.donga.com/news/Inter/article/all/20261115/135029058/1",
+          "source": "동아일보"
         },
         {
           "title": "APBC 야구대표팀, 일본에 져 준우승‥일본전 13연패",
           "url": "https://imnews.imbc.com/news/2026/sports/article/6865836_36946.html",
           "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "미미미누",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T13:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT77AHOUxJ4Wj4lOaV5M4SJGCrGpv7xYS5q6z2aldkcokU7ax_fxfwSX4VQRKI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "매력적인 아일릿",
-          "url": "https://www.newsis.com/view/NISI20261115_0021533395",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[포토] 윤아, 매너가 사람을 만드는 킹스걸",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524940",
-          "source": "iMBC 연예"
         }
       ]
     },
@@ -128,38 +99,18 @@
       ]
     },
     {
-      "keyword": "부고",
+      "keyword": "입양",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-15T13:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKgFd0KOx_WRIRNOz69kE8LXDQFoAFCpXrcOqIhafe4zf1XTAZLICs2-2gmz8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[부음] 권형택(기술보증기금 이사장)씨 장인상",
-          "url": "https://www.etnews.com/20261115000175",
-          "source": "전자신문"
-        },
-        {
-          "title": "오늘의 부고 종합",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01823686645646048&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "[부고] 권형택 기술보증기금 이사장 장인상",
-          "url": "https://www.munhwa.com/article/11631379",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "입양",
-      "traffic": "200+",
-      "trafficValue": 200,
       "startedAt": "2026-11-15T13:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQejM-tTWKabEaZ0amAldBhQUNJ47IeJWLd6rtdCLTIfqT1eauNn_7kTgTeUis",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZk8-jJRVsNknUzg-xqP_eU85QUw53zAhKNKDq9Lie2mv_QHlfMm_fw9zKig",
       "category": "기타",
       "news": [
+        {
+          "title": "\"다시는 안 키운다\" 입양 거절했는데... 예상 못한 일이 벌어졌다",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284762",
+          "source": "OhmyNews"
+        },
         {
           "title": "\"여기가 미감 종착지\"…김나영, ♥마이큐 작업실서 허리 감싸 안으며 '사랑꾼 면모' 과시",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/HE3TSNRSGAYTANZTGI2TEMDGMU/",
@@ -169,11 +120,31 @@
           "title": "\"누가 여기에 갖다 놓은 거야?\"...김나영, 주방 서랍 열어보고 '깜짝' 놀란 사연 ('노필터티비')",
           "url": "https://www.koreadaily.com/article/20261115040636923",
           "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "부고",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T13:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtDYajCWGSzVuwUylEwZ8aOie1Tri-YYWorcCdWP3A-Rj_KBsnjoxqu25uRL0",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[부고] 이개호(국회의원)씨 모친상",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315395",
+          "source": "스트레이트뉴스"
         },
         {
-          "title": "김나영♥마이큐, 작업실서 과감한 스킨십...\"진짜 천생연분\" 신혼 일상 (노필터)",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100101580009397",
-          "source": "스포츠조선"
+          "title": "[부고] 이개호 씨(더불어민주당 국회의원) 모친상",
+          "url": "https://www.news1.kr/politics/assembly/6354431",
+          "source": "뉴스1"
+        },
+        {
+          "title": "[부고]이개호(더불어민주당 국회의원)씨 모친상 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/society/2026/11/15/2026111514413782459",
+          "source": "머니투데이"
         }
       ]
     },
@@ -203,6 +174,31 @@
       ]
     },
     {
+      "keyword": "박현주",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T13:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ69B8l4wwTt2U3cRxxeDvZb4Ple9boeGqWR40vjwiy0-iD4ILQw4WAwXxK2pI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287402.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "창업자 한 명에 매달린 빅테크… '열쇠' 빠지자 뻥 뚫린 경영 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/16/2026111519385397101",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"죽었으면 좋겠다\"…젠슨 황, 엔비디아 임원에 폭언했다는 증언 나와",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868691",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "수상함",
       "traffic": "200+",
       "trafficValue": 200,
@@ -216,39 +212,39 @@
           "source": "조선일보"
         },
         {
+          "title": "사람 대신 AI 승조원… 한미 무인군함 첫선 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/16/2026111519590590555",
+          "source": "머니투데이"
+        },
+        {
           "title": "HD현대, 미 무인함정 시장 공략 발판",
           "url": "https://www.khan.co.kr/article/202611152031025",
           "source": "경향신문"
-        },
-        {
-          "title": "함장도 기관사도 없는 600t급 군함… AI가 정찰 등 작전까지 수행",
-          "url": "https://www.donga.com/news/Economy/article/all/20261115/135027906/2",
-          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "장혁",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T13:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOAVkh9H7NS7aMlevvB-7viqbVDzwX_1Ig_joyYI9VShG0z6Vr8GA1NochCNg",
-      "category": "연예",
+      "keyword": "빙그레",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T17:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYS1wcMykFLXlyEZHWQ8fzvvuAhY0H_HG7jdrtJl94ku-p-FBbpsCwuM-8MrY",
+      "category": "기타",
       "news": [
         {
-          "title": "＂내 어찌 경의 뜻을 모르겠는가＂ 양현민을 설득시킨 선동혁 [문무] | KBS 261115 방송",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026188993-01-000_MFSC1&program_code=T2025-0499&program_id=PS-2026188993-01-000&section_code=03&broadcast_complete_yn=N&section_id=28257",
-          "source": "대한민국 대표 공영미디어 KBS"
+          "title": "“한국인은 언제든 먹잖아요”에 우유 양보…빙그레도 나섰다 [잇슈#태그]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713167",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "'문무' 이현욱, 294억 대작 주인공다운 묵직한 첫 등장 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111509237266143",
-          "source": "머니투데이"
+          "title": "“뚱바 양보한 시민 찾습니다”…빙그레, 수소문 끝에 ‘명예 앰배서더’ 위촉",
+          "url": "https://www.donga.com/news/Society/article/all/20261113/135023432/1",
+          "source": "동아일보"
         },
         {
-          "title": "장혁, 왕좌 찬탈하고 조성하와 살기 어린 만남..피할 수 없는 대결(‘문무’)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MY3WIMRYHE4DKNZRMNSWIODBGI/",
-          "source": "조선일보"
+          "title": "공항서 ‘툭툭’ 치더니 “한국인이니까 양보해 달라”는 외국인…무슨 사연?",
+          "url": "https://www.sedaily.com/article/20114331",
+          "source": "서울경제"
         }
       ]
     },
