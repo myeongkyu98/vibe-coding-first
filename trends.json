@@ -1,78 +1,28 @@
 {
-  "updatedAt": "2026-11-15T01:58:02.582Z",
+  "updatedAt": "2026-11-15T02:45:00.950Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 5
+      "count": 4
     },
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 4
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "신인감독 김연경",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-15T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ50jI_ZjUPUUR9l9ZScEMo3MZUMRkc1mU39Ekx49WIghOjauJc-TgkReAagks",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "김연경 따끔한 지적에 윤영인 왈칵 눈물…반전 주인공 될까 (신인감독 김연경2)",
-          "url": "https://m.imbc.com/enews/view/524823",
-          "source": "MBC"
-        },
-        {
-          "title": "필승 원더독스vs포항시체육회, 불꽃튀는 맞대결 현장 최초 공개(‘신인감독2’)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MRSTCM3EME4DKNBYMFQTMNLFMM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "‘신인감독 김연경2’ 윤영인, 김연경 매서운 일대일 특훈에 끝내 눈물..“달라져야겠다”",
-          "url": "https://www.koreadaily.com/article/20261113224101268",
-          "source": "미주중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "아시아 프로 야구 챔피언십",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-14T23:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD2ucCsTJRPxRLCvkzZS-SdxPDjrdgLRZGWquUUvZe_ntrc7WJnJiR8DlxjeE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "침묵하던 김도영이 ‘쾅’... 대만 꺾고 日과 우승 다툰다",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/14/MTLH675YURA6XD3ICXSKJ2KTWQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "한국 야구, 대만 꺾고 APBC 결승 진출…15일 일본과 재격돌",
-          "url": "https://www.yna.co.kr/view/AKR20261114031700007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "KIA 19홈런 재간둥이, 도쿄돔마저 넘겼다…결승전도 기대하시라 \"오늘보다 더 할 수도 있다\" [오!쎈 도쿄] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/202611150842771600O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
       "keyword": "ufc",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-15T00:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHlWLMiuP_XdlcVGBTDjdrC1-RVriFcvNLTuNe8KLlevfuCtYVCmItRG_ekPY",
       "category": "스포츠",
@@ -83,39 +33,109 @@
           "source": "Sherdog"
         },
         {
-          "title": "DraftKings promo code: Get $200 in bonus bets and free NBA League Pass for UFC 334: Gane vs. Hokit on Saturday",
-          "url": "https://www.cbssports.com/betting/news/draftkings-promo-code-get-200-in-bonus-bets-free-nba-league-pass-ufc-334-gane-vs-hokit-on-saturday/",
-          "source": "CBS Sports"
+          "title": "UFC 334 Streams!MMA:Adames vs WarburtonLIVE Streams ON TV CHANNEL",
+          "url": "https://www.goldderby.com/topic/ufc-334-streamsmmaadames-vs-warburtonlive-streams-on-tv-channel/",
+          "source": "Gold Derby"
         },
         {
-          "title": "Video: UFC 334 backstage post-fight interviews with winners",
-          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/14/video-ufc-334-backstage-post-fight-interviews-winners/92781738007/",
-          "source": "MMA Junkie"
+          "title": "UFC 334: Ciryl Gane Vs. Josh Hokit – Prelim Results And Highlights",
+          "url": "https://www.lowkickmma.com/ufc-334-prelim-results-highlights/",
+          "source": "LowKickMMA.com"
         }
       ]
     },
     {
-      "keyword": "술",
+      "keyword": "골프",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-15T00:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOxusYMwk2fGYEkXnrfhD5xeV8NpZkqe7UIDrG7ap6mWjBWi8KPpaJ0ph8dTY",
-      "category": "연예",
+      "startedAt": "2026-11-15T01:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvZWh_2Gybgpr0lEa1jQV9197wwmrjJNcUYRq9qCHVLSYk2D_QfAqzjarImVI",
+      "category": "스포츠",
       "news": [
         {
-          "title": "비틀거리다 청소 차에 ‘쾅’…만취 운전자는 배우 고경표",
-          "url": "https://news.jtbc.co.kr/article/NB12328108",
-          "source": "JTBC"
+          "title": "인천 영종구의회, 제1회 구청장배 골프대회 참석",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752215",
+          "source": "국제뉴스"
         },
         {
-          "title": "'음주운전' 고경표, '놀면 뭐하니?'서 사라졌다",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868237",
+          "title": "인천 영종구의회, 제1회 영종구청장배 골프대회 참석",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=803626",
+          "source": "일간투데이"
+        },
+        {
+          "title": "성남시의회, 제23회 성남시장배 족구대회 참석",
+          "url": "https://www.ggpyeonghwa.com/626491",
+          "source": "경기평화신문"
+        }
+      ]
+    },
+    {
+      "keyword": "항공모함",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-15T01:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6gR-PxXZSFok4X6bLJLdQsM6hia0oAqPpKUKMyB9YUUBbUJkFW2IcYEUduQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "한국 해군, F-35B 항모 접고 무인기 20대 탑재 270m 대형 모함 택했다",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611150721222083fbbec65dfb_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "증기식 캐터펄트 전환 검토에 USS 도리스 밀러 인도 지연 우려",
+          "url": "https://meta-defense.fr/ko/2026/11/14/doris-miller-refonte-catapulte-vapeur/",
+          "source": "Meta-Defense"
+        }
+      ]
+    },
+    {
+      "keyword": "카리나",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-15T01:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDKEA57-vsA7n38iK0XjAGCAnX-eFggERBWkTI3Pts0DaiYDld8pTL0IQ_yNo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "BTS 3관왕·에스파 2관왕…'MMA2026' 첫날 나란히 대상",
+          "url": "https://www.yna.co.kr/view/AKR20261114049700005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "MMA2026 참석한 에스파",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261114_0021532630&provider_id=&cID=&type=Main&catg=&idx=5",
           "source": "뉴시스"
         },
         {
-          "title": "[단독] 배우 고경표, ’면허 취소수준’ 음주운전…청소차 추돌",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611142105443Tj",
-          "source": "연합뉴스TV"
+          "title": "빅히트 뮤직 김현정 부대표, ‘MMA2026’ 베스트 프로듀서 수상 “방탄소년단에 감사”",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/15/MEYWMNBRMM2TAMRVMMYTINDFMY/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "세무냥이 자수",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-15T00:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjHnFk4GxCorxtyNq1HKuzmqkclKXdu0cL6ovwx_4YCc5mS7riA8NAuq-0sV0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[속보] 'AI 안경 의혹' 세무사 수석합격자 \"전자기기·생성형 AI로 부정행위 했다\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6865737_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "세무사 시험 수석 합격자, 경찰에 ‘AI 부정행위’ 자수…“초소형 카메라 이용했다”",
+          "url": "https://www.khan.co.kr/article/202611151034001",
+          "source": "경향신문"
+        },
+        {
+          "title": "세무사 수석 충격 자백…\"초소형 카메라로 찍어 AI로 전송\"",
+          "url": "https://www.hankyung.com/article/202611156922i",
+          "source": "한국경제"
         }
       ]
     },
@@ -145,52 +165,77 @@
       ]
     },
     {
+      "keyword": "임예진",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T01:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHlYuehZTwywxswilI5EMCXlG4lTXjY7IZvtZmMxb1Oztv8Agr7x6CgoLwoFU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "15년 전 5천만원 주고 산 제주땅이 고작 82만원…충격 받은 임예진, 무슨 사연",
+          "url": "https://www.mk.co.kr/news/culture/12208840",
+          "source": "매일경제"
+        },
+        {
+          "title": "임예진, 5000만원 주고 산 제주 땅 15년 만에 확인…“지분 가치 약 82만원”",
+          "url": "https://www.donga.com/news/Culture/article/all/20261113/135021854/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "임예진, 기획부동산 피해자였다 \"5천만원 매입 제주땅 주인만 178명\"",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867248",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "서초구",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-15T00:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFwRZUOv1bvPAmLHM19jlhZKxRtAznziWuLhlLRY6jbKvJpvUadOsEI_sB4As",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtY9HyEU8BPbKvQKxrFBai3Zd7VTm3jXahgdgWkzXlAhBStsN1T-Bg3KWYW2Q",
       "category": "기타",
       "news": [
+        {
+          "title": "서초구, 겨울 앞두고 공중·민간 개방화장실 139곳 점검",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868457",
+          "source": "뉴시스"
+        },
         {
           "title": "서초구, 동절기 앞두고 공중화장실 139곳 현장순찰 강화",
           "url": "https://biz.heraldcorp.com/article/10937269",
           "source": "헤럴드경제"
         },
         {
-          "title": "서초구, 공중화장실 139개소 안전·위생 집중점검…여성안심귀갓길도 살핀다",
-          "url": "https://womannews.net/detail.php?number=459328",
-          "source": "여성종합뉴스"
-        },
-        {
-          "title": "서초구, 공중화장실 139곳 안전·위생 집중점검",
-          "url": "https://www.munhwa.com/article/11631321",
-          "source": "문화일보"
+          "title": "서초구, 겨울 앞두고 공중화장실 139곳 안전관리 집중 점검",
+          "url": "https://view.asiae.co.kr/article/2026111510512290182",
+          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "세무사 시험",
+      "keyword": "진양곤",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-15T00:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSjD-msj2npvxCTWjg4jZ9OfzMezSSmi-zvVssJME-3zxW8G4QTkKtZCm-heE",
-      "category": "IT·과학",
+      "startedAt": "2026-11-15T01:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnd5eEVxVkb7gxscquSamq5KgiCfe7s310k5S27USJlJ6PSBXloYU3iprHp-g",
+      "category": "기타",
       "news": [
         {
-          "title": "[속보] 세무사 시험 수석 합격자 \"부정행위 했다\" 실토",
-          "url": "https://www.chosun.com/national/labor/2026/11/15/J2BRRAJ4RFGFHBZU4537ENJX3I/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[속보] 'AI 안경 의혹' 세무사 수석합격자 \"전자기기·생성형 AI로 부정행위 했다\"",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865737_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "세무사 수석합격자, AI 부정행위 시인…경찰에 자수",
-          "url": "https://www.yna.co.kr/view/AKR20261115016200530",
+          "title": "HLB제약, 3분기 영업이익 8억5천만원…전년 대비 급증",
+          "url": "https://www.yna.co.kr/view/AKR20261113027500017",
           "source": "연합뉴스"
+        },
+        {
+          "title": "HLB제약, 향남 신공장으로 체급 키운다…‘1조 기업’ 도약 승부수",
+          "url": "https://m.ekn.kr/view.php?key=20261113020358946",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "HLB제약, 향남 신공장 기공…외주 의약품 자체 생산 전환 추진",
+          "url": "https://news.mtn.co.kr/video/2026111216160267613",
+          "source": "MTN 머니투데이방송"
         }
       ]
     },
@@ -218,40 +263,6 @@
           "source": "이데일리"
         }
       ]
-    },
-    {
-      "keyword": "주영훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T00:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLHX7VaeKvu9ZulfHk4sUVgCqSPaAQbRkS50EPnA6vlBtpclmKsih-zf8ih0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "주영훈, 전 연인과 학부모로 재회 \"내 딸과 그 집 아들 짝으로 만나\"",
-          "url": "https://www.newsis.com/view/NISX20261114_0003868195",
-          "source": "뉴시스"
-        },
-        {
-          "title": "주영훈, 윤정수 과거 폭로 \"두 달마다 짝사랑 女연예인 바뀌어\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/MUYTSYTDGVSTAYJXGQ4DEOJSMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "주영훈 딸, 전 연인 아들과 짝 돼 \"학부모로 재회..운명의 장난\" ('선정하기')",
-          "url": "https://www.koreadaily.com/article/20261114003206841",
-          "source": "미주중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "주간한국",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T00:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
     }
   ]
 }
