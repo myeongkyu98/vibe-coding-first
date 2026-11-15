@@ -1,186 +1,103 @@
 {
-  "updatedAt": "2026-11-15T12:41:14.302Z",
+  "updatedAt": "2026-11-15T13:47:58.152Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 2
+      "count": 5
     },
     {
       "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "count": 3
     },
     {
       "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "로봇",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T10:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFcyFxjPih3MPicLBDinErZ8EJVzBnCvwy-KQy-OW3VcZXVOh2p6e-zAGwJ5s",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "우주 찍고 온 '초유의 컴백'‥\"이게 믿어져\" 환호 터진 장면",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865784_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "'우주 여객기' 현실 되나…우주선 본체 회수 첫 성공",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846760",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고",
-          "url": "https://www.yna.co.kr/view/AKR20261115010500091",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "전국노래자랑",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T10:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKONQbzDH8vl37FmCKnIvDnCViFqYPhF88LmPcFHGNgvYx4shxwHtDJlr8jA4",
-      "category": "연예",
-      "news": [
-        {
-          "title": "'전국노래자랑' 영광에 박서진·박군·김혜연 초대가수 총출동",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752338",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "'전국노래자랑' 박서진·박군·김혜연·미스김·상호상민 '축제의 장'",
-          "url": "https://enter.etoday.co.kr/news/view/305251",
-          "source": "비즈엔터"
-        },
-        {
-          "title": "박서진, '전국노래자랑' 영광군 피날레 장식…'지나야'로 안방극장 홀릴 무대의 신",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275441",
-          "source": "톱스타뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "한국 일본 야구",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T10:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
-          "url": "https://www.yna.co.kr/view/AKR20261115011300007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘후반기 ERA 0.90’ 日 괴물 에이스, 그런데 한국만 만나면 부진…한일전 12연패 탈출 기회일까 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/202611151535778294O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'우승 도전' 한국, 김지찬-김도영 테이블세터 유지…안현민, 4번 지명타자",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868749",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "임창정",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T09:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwlQ7DPo0kmK1JFAWpuGLLzeCvwxUJ2sEMuUml7fWHS_z_Mc-0i7tzXf0W-rk",
+      "keyword": "샤인머스캣",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-15T11:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOisIptopr3iiyMIA5FntjASyiI4eiPt1LV76fvlLZCA_HJGcDot6cnRlqR5Q",
       "category": "기타",
       "news": [
         {
-          "title": "'열린음악회' 초호화 라인업… 임창정·장기하·김나영·TWS(투어스)·잭킹콩 총출동",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752492",
-          "source": "국제뉴스"
+          "title": "샤인머스캣 인기 시들하더니…새로 등장한 '귀족 과일'",
+          "url": "https://www.hankyung.com/article/2026111574921",
+          "source": "한국경제"
         },
         {
-          "title": "임창정 ‘소주 한 잔’, 100만 뷰 터졌다…‘전국노래자랑’ 무대 뜨거운 반응",
-          "url": "https://www.mk.co.kr/news/musics/12206742",
-          "source": "매일경제"
+          "title": "'하나에 4만원'…여성 VIP들 즐긴다는 '귀족 과일' 뭐길래 [프라이스&]",
+          "url": "https://www.hankyung.com/article/202611094307i",
+          "source": "한국경제"
         },
         {
-          "title": "‘전국노래자랑’에 임창정이? 트로트 무대로 딩동댕 받았다 “최소 장려상이야”[Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/08/MNRWEN3DHA2GCZBWGU4TEZDEME/",
-          "source": "조선일보"
+          "title": "농협경제지주, 농식품부와 손잡고 샤인머스캣 부활 나선다",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71869",
+          "source": "한국영농신문"
         }
       ]
     },
     {
-      "keyword": "웨이브",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T08:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC_vEE1LSpiI3mowWrf_K2s89QZ2vrtKx-O6vjPF-jN2lsiWJgIt3twFsxZ5Q",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[ET포토] 튜이드, '데뷔해에 MMA 참석'",
-          "url": "https://www.etnews.com/20261114000054",
-          "source": "전자신문"
-        },
-        {
-          "title": "‘하이브 신인’ 튜이드, 대세 신인 입증…‘MMA2026’ 글로벌 라이징 아티스트 수상",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/15/GZSTQNLGMRSGEMRYMIZGGMRSMI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "튜이드 서연-지아, 힐링 미모",
-          "url": "https://www.newsis.com/view/NISI20261114_0021532707",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "화물기",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T10:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadLmhtiM1eFFMugilxnIvPWLFd7TGVpAf_Mlg3aG4TZuDKJ2nh8NgrNvLxVo",
+      "keyword": "재건축",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-15T12:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSizqKezhPQMS67MDky9K-Yf9aqbFxJ9uO4L8Q0jxJMGMx5sZFjK2npTRvt_6k",
       "category": "스포츠",
       "news": [
         {
-          "title": "미국, 이틀째 항공 대란 와중에 화물기·여객기 충돌",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865783_36925.html",
-          "source": "MBC 뉴스"
+          "title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01889286645646048",
+          "source": "마켓인"
         },
         {
-          "title": "미국 항공대란 여파 6500여편 결항…“15일 완전 정상화 예상”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713173",
-          "source": "KBS 뉴스"
+          "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
+          "url": "https://www.hankyung.com/article/2026111348856",
+          "source": "한국경제"
         },
         {
-          "title": "FAA 운항중단에 미국 스포츠도 비상…NBA·NHL·대학 경기 연쇄 차질",
-          "url": "https://www.khan.co.kr/article/202611151831001",
-          "source": "경향신문"
+          "title": "재초환 '날벼락'에...재건축 조합장들 한 곳에",
+          "url": "https://www.fnnews.com/news/202611131524554357",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "최원호",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-15T11:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfM-VHHwg01MvBXfPl8kgwsHIBifbqEYxky9rkI0XAZL0bGZGrQPDYPdxoA6I",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[사진]선수들의 환영을 받으며 입장하는 최원호 감독",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/GZRTGY3FGE2DQNTCGA4GKOLGMM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "결승전 2번타자는 다시 김도영…한동희→문정빈 1루수 교체",
+          "url": "https://www.koreadaily.com/article/20261115004905098",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "[사진]적시타 치는 김휘집 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611142007775925O",
+          "source": "머니투데이"
         }
       ]
     },
     {
       "keyword": "백신",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-15T10:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhGxuW3okDTZ2oJRcAxI7RpNd6mUdispvVXPppQ4hEDOivXdQHReN13g-3kLc",
       "category": "정치·사회",
@@ -191,41 +108,46 @@
           "source": "경향신문"
         },
         {
+          "title": "영아에 기한 하루 지난 백신 접종…대법 “의사면허 취소 과도”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713124",
+          "source": "KBS 뉴스"
+        },
+        {
           "title": "대법원, 유효기간 하루 지난 주사제 접종 의사 면허자격정지 패소 원심 파기환송",
           "url": "https://www.lawissue.co.kr/view.php?ud=2026111417084166539a8c8bf58f_12",
           "source": "로이슈"
-        },
-        {
-          "title": "영아에 기한 하루 지난 백신 투여…대법 \"의사 면허정지 과해\"",
-          "url": "https://www.yna.co.kr/view/AKR20261114049300004",
-          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "멜론 뮤직 어워드",
+      "keyword": "공습",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-15T09:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI7NWPDIFR_h7Q2fkTjxyR9H_EEEvqMOheNYDSD-qULcOC4FA0X5HANva3iFs",
+      "startedAt": "2026-11-15T12:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs1LEhWl8yu81AcaniZYRnCD8VS4i6Pir-5nx9kNoKNyZUhWc2C9YfPvgTwGk",
       "category": "기타",
       "news": [
         {
-          "title": "Lee Young-ae's Elegant Green Dress Captivates at Melon Music Awards",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/15/ZEZDRJ4B7FCAXOB3N6SBNYGIE4/",
-          "source": "조선일보"
+          "title": "이란, 두 달여 만에 중동 미군 기지 타격 이어가",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865772_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "Lee Young-ae stuns in deep green gown at Melon Music Awards",
-          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/15/TA4TVTF2AFBFNJ3DRIQM3DBOPE/",
-          "source": "Chosunbiz"
+          "title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1287428.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "이란 혁명수비대 “드론 6대로 바레인 美 방공 레이더 공격”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261115/135026890/1",
+          "source": "동아일보"
         }
       ]
     },
     {
       "keyword": "김유재",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-15T10:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3Bx4RghyYMZMzGyQHPZFE5spxp14uHR6Pjn7SNYxrpLeM9mKF8sA25yjRM",
       "category": "기타",
@@ -241,34 +163,109 @@
           "source": "조선일보"
         },
         {
-          "title": "'트리플 악셀 성공' 피겨 김유재, 시니어 그랑프리 4차 대회 쇼트 3위…첫 메달 도전",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868444",
-          "source": "뉴시스"
+          "title": "김유재, 쇼트서 3위…선두 나카이와 8.28점 차 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1095298",
+          "source": "재경일보"
         }
       ]
     },
     {
-      "keyword": "sk하이닉스 채용",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjHM94LaCED-wcSo4hRPRCMPP9_c7YaTPQe_NT3bQA59tSvmI7Vya9gMlOZaQ",
-      "category": "경제",
+      "keyword": "화물기",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T10:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRENJNVCWI9Iv_GQ-zQANE_SDEJfF0eHeibQnalWqmV2KdAj-OfKKQUcr9mUcg",
+      "category": "기타",
       "news": [
         {
-          "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용",
-          "url": "https://www.yna.co.kr/view/AKR20261111061700003",
-          "source": "연합뉴스"
+          "title": "테러 아니었네…역대급 美 항공대란, 이것 교체하다 터졌다",
+          "url": "https://www.koreadaily.com/article/20261114203812294",
+          "source": "미주중앙일보"
         },
         {
-          "title": "\"나도 성과급 8억 받을 수 있나\"…SK하이닉스, 학력 무관 채용에 '들썩'",
-          "url": "https://economist.co.kr/article/view/ecn202611110031",
-          "source": "이코노미스트"
+          "title": "미국 활주로 이동중 여객기 날개와 화물기 부딪혀",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713141",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "“젠슨 황 해임설에 코스피도 흔들”…장중 5458 찍고 5342 추락, 무슨 일이",
-          "url": "https://www.daily25news.com/news/articleView.html?idxno=8888",
-          "source": "데일리25"
+          "title": "이틀째 수천 편 차질...완전 정상화까진 '아직'",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611151012575041_005.html",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "로봇",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T10:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb5erKSVJ3ZBuhiFd22C3W9stS-XTcPpPaTPXo2n4v4L2Cz0_Mx59rnj3UHFo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "JP모건 “미국 휴머노이드 2030년 40만대”…한국 로보티즈 주목",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02394406645645720&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "JP모건 \"미 휴머노이드 2030년 40만대\"…로보티즈 유망 부품사 선정",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217376",
+          "source": "AI타임스"
+        },
+        {
+          "title": "로봇이 로봇을 만든다면…2083년엔 로봇과 인구수 비슷해질 수도",
+          "url": "https://www.nongmin.com/article/20261115500065",
+          "source": "농민신문"
+        }
+      ]
+    },
+    {
+      "keyword": "안재석",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T12:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHTo2MbJwjktUdeU0395Ol3GfFg3Eg0ZaRsfZ_xkRpTMr2LBcUZa_68obHBg8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[사진]도루 성공하는 쇼지",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/HAYDMNBWMI4DCZDEMRSTSNLBMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[사진]와타라이 도루를 여유입게 잡는 김휘집 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/202611151948771072O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[사진]홈에서 아웃되는 김주원",
+          "url": "https://www.osen.co.kr/article/G1112910278",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "한국 야구",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T12:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD2ucCsTJRPxRLCvkzZS-SdxPDjrdgLRZGWquUUvZe_ntrc7WJnJiR8DlxjeE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "침묵하던 김도영이 ‘쾅’... 대만 꺾고 日과 우승 다툰다",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/14/MTLH675YURA6XD3ICXSKJ2KTWQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "깨어난 김도영‥'한일전 12연패, 오늘 끊어낼까'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865820_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "김도영, APBC 첫 홈런 ‘쾅’…한국, 대만 꺾고 오늘 일본과 결승",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html",
+          "source": "한겨레"
         }
       ]
     }
