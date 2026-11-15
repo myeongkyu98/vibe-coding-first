@@ -1,28 +1,29 @@
 {
-  "updatedAt": "2026-11-15T08:46:33.786Z",
+  "updatedAt": "2026-11-15T09:41:21.077Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "연예",
-      "count": 2
+      "count": 7
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "부산 kcc 대 대구 한국가스공사",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-15T07:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
     {
       "keyword": "구자욱",
       "traffic": "2000+",
@@ -49,86 +50,56 @@
       ]
     },
     {
-      "keyword": "부산 kcc 대 대구 한국가스공사",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T07:10:00.000Z",
+      "keyword": "멜론뮤직어워드 2026",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T08:30:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "금오산",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRncJXKKaJWTJ2wIWciY4y0tr1r61k4o1AaTe7d0Adg06V1UkdLCh5tqLLshOU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "구미 금오산 하늘다리 개통…관광 새 랜드마크",
-          "url": "https://view.asiae.co.kr/article/2026111510595800590",
-          "source": "아시아경제"
-        },
-        {
-          "title": "구미 금오산 '하늘다리' 개통…효자봉 등산로 연결",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868709",
-          "source": "뉴시스"
-        },
-        {
-          "title": "도로가 갈라놓은 금오산 등산로, 35m 하늘다리로 이어졌다",
-          "url": "https://www.dailian.co.kr/news/view/1715180/%EB%8F%84%EB%A1%9C-%EA%B0%88%EB%9D%BC%EB%86%93-%EA%B8%88%EC%98%A4%EC%82%B0-%EB%93%B1%EC%82%B0%EB%A1%9C-35m-%ED%95%98-2026",
-          "source": "데일리안"
-        }
-      ]
-    },
-    {
-      "keyword": "레버리지",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T06:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6tN1Knh93Y_B0EQVOUNN2DOtxt8fZ794HNwhsBXVKCtTKorC1u2qsylncJtI",
-      "category": "경제",
-      "news": [
-        {
-          "title": "증시 폭락 후 초고수는 \"반등에 베팅\"…'레버리지·급락주' 담았다",
-          "url": "https://www.hankyung.com/article/202611157013i",
-          "source": "한국경제"
-        },
-        {
-          "title": "[심양섭의 정론직격] 고위험 고수익 레버리지의 저주",
-          "url": "https://www.pennmike.com/news/articleView.html?idxno=131722",
-          "source": "펜앤마이크"
-        },
-        {
-          "title": "SOXL, TQQQ로 손실 복구? 매수 전에 꼭 보세요",
-          "url": "https://contents.premium.naver.com/finfarmer00/finfarmer/contents/261111221333083bz",
-          "source": "네이버 프리미엄콘텐츠"
-        }
-      ]
-    },
-    {
       "keyword": "창원 lg 대 수원 kt",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-15T07:30:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
+      "keyword": "개혁",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T08:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQajjG-84HRYHPchbX5GVtMuixugCiJ4jMsK6rNFb4GflVqupC50NN2qYe34dU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "이 대통령 \"개혁의 이름 빌려 개혁 방해하는 건 용납 어려워\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865766_36911.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "“등 뒤 화살” 이어 “개혁 방해”…이 대통령, 민주 강경파에 ‘경고장’",
+          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1287382.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "“지지율 떨어져도 할 일은 해야”…李대통령, 여권 향해 개혁 압박",
+          "url": "https://m.joseilbo.com/news/view.htm?newsid=579657",
+          "source": "조세일보"
+        }
+      ]
+    },
+    {
       "keyword": "박태환",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-15T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQffclMnkEXtr64ebhbYqB4dk38da3BI8Syx0BI_Tyr3LxhadgPrjZ_E_7p72Y",
-      "category": "연예",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpIiXPLb3I5YmUkHXnWQVDh7M-sHA66xkrfEVHzrMaCzcTysP7UH1E10fCcQo",
+      "category": "기타",
       "news": [
-        {
-          "title": "박태환 맞아? 확 달라진 얼굴에 깜짝… 살 쏙 빠지고 배우 비주얼",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GI4GMZJWGBTGKYJRMZQTOZRQMY/",
-          "source": "조선일보"
-        },
         {
           "title": "박태환, 살 뺐나…또렷해진 이목구비",
           "url": "https://www.donga.com/news/Culture/article/all/20261115/135026893/1",
@@ -138,56 +109,86 @@
           "title": "박태환 맞아? 볼살 실종에 확 달라진 얼굴…무슨 일 있었나",
           "url": "https://www.mk.co.kr/news/entertain/12209035",
           "source": "매일경제"
+        },
+        {
+          "title": "박태환, 몰라보게 갸름해진 근황…“정말 잘생겼다”",
+          "url": "https://www.sportsseoul.com/news/read/1649655",
+          "source": "스포츠서울"
         }
       ]
     },
     {
-      "keyword": "화물선",
+      "keyword": "금오산",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-15T07:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTLiGk6szVg9wL8dvHOzZcU9I-TFMXXiF_0-DAcaN0oNltRAKoC-6ofcm5nBo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2TbnY3rtQ_49i_bNHzcrNkVF76tqkA5lMZwip8sPi1yTkfJd1mI5vQVxNR40",
       "category": "기타",
       "news": [
         {
-          "title": "‘미시시피의 기적’…유람선-화물선 충돌, 180명 전원 구조",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712959",
-          "source": "KBS 뉴스"
+          "title": "구미 금오산 '하늘다리' 개통…효자봉 등산로 연결",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868709",
+          "source": "뉴시스"
         },
         {
-          "title": "대형 크루즈 ‘쾅!’ 전복됐는데…탑승객 180여명 모두 무사 ‘기적’",
-          "url": "https://www.donga.com/news/Inter/article/all/20261114/135024107/1",
-          "source": "동아일보"
+          "title": "구미 금오산 하늘다리 개통…관광 새 랜드마크",
+          "url": "https://www.asiae.co.kr/article/2026111510595800590",
+          "source": "아시아경제"
         },
         {
-          "title": "\"사망자 0명\"… 선장은 마지막에 빠져나왔고, 시민들은 배를 띄웠다",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752420",
-          "source": "국제뉴스"
+          "title": "가을을 잇는 하늘길, 별빛을 품은 금오산…구미의 낭만이 깊어진다",
+          "url": "https://news.tf.co.kr/read/national/2388974.htm",
+          "source": "더팩트"
         }
       ]
     },
     {
-      "keyword": "의료",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T06:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfX9p-yRVfyvEaYzGP8oz1cppFqbRGTiyVAmcW8dN_qByWwBx6YAuuUxlYAYo",
-      "category": "연예",
+      "keyword": "압류",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T08:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZWdAYI1GQB0bC0dIAq6mP1lgNddKhHUjkYAdKsSBemjC4t2gRx8h-Wj7rKk",
+      "category": "기타",
       "news": [
         {
-          "title": "‘부산의료산업대상’ 대상에 이샘병원 이성근 병원장",
-          "url": "https://mobile.busan.com/view/busan/view.php?code=2026111509463124239",
-          "source": "부산일보"
+          "title": "교도소 수감 JMS 정명석, 영치금 못 쓴다···2인자 영치금 이어 압류",
+          "url": "https://www.khan.co.kr/article/202611150948011",
+          "source": "경향신문"
         },
         {
-          "title": "대구광역시, 시안 의료·교육기관과 협약 추진...공동사업 발굴",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752326",
-          "source": "국제뉴스"
+          "title": "‘여신도 성폭행’ 정명석, 영치금 한 푼도 못 쓴다…압류 조치 왜",
+          "url": "https://www.koreadaily.com/article/20261114181520397",
+          "source": "미주중앙일보"
         },
         {
-          "title": "울산중구가족센터, 결혼이민자 15명과 부산국제의료관광컨벤션 견학",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072515",
-          "source": "경상일보"
+          "title": "징역 17년 정명석, 교도소 영치금까지 압류…JMS 교단 예금도 묶였다",
+          "url": "https://www.kyeonggi.com/article/20261115580276",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김건우",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T08:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
+          "url": "https://www.yna.co.kr/view/AKR20261115011300007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'한일전 12연패 끊나' 한동희 사구→안현민 4번 DH, 문현빈 우익수 선발…최원호 감독 \"선발 등판했던 투수들 제외 전부 대기\" [오!쎈 도쿄]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/15/HBSGKYRVGY4TGZRVGJSTGMRVGU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1287370.html",
+          "source": "한겨레"
         }
       ]
     },
@@ -213,31 +214,6 @@
           "title": "Microsoft fixes audio issues caused by September security updates",
           "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
           "source": "BleepingComputer"
-        }
-      ]
-    },
-    {
-      "keyword": "젠틀몬스터",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T06:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVZoW-GkXn5yKkB1ddSchlROyFPLAlPx11iLsYcdTTmAgLNf2aouUZMrX-2nM",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "삼성 AI 안경 베일 벗었다…12월 10일 국내 출시·65만원부터",
-          "url": "https://www.yna.co.kr/view/AKR20261112140300017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "예쁜 뿔테 안경인 줄 알았는데, AI 안경입니다",
-          "url": "https://www.elle.co.kr/article/1913095",
-          "source": "엘르 코리아 │ ELLE KOREA"
-        },
-        {
-          "title": "이번 주 주요 패션 뉴스: 젠틀몬스터 스마트 글라스 전격 공개 & 리모와 x 메종 마르지엘라 협업 외",
-          "url": "https://hypebeast.kr/2026/11/gentle-monster-intelligent-balenciaga-on-rimowa-maison-margiela-jw-anderson-info",
-          "source": "Hypebeast.KR"
         }
       ]
     }
