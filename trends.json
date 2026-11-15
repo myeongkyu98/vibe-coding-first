@@ -1,78 +1,74 @@
 {
-  "updatedAt": "2026-11-15T02:45:00.950Z",
+  "updatedAt": "2026-11-15T03:46:47.907Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 4
-    },
-    {
-      "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "count": 5
     },
     {
       "category": "경제",
-      "count": 1
+      "count": 3
+    },
+    {
+      "category": "기타",
+      "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "ufc",
+      "keyword": "투자",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-15T00:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHlWLMiuP_XdlcVGBTDjdrC1-RVriFcvNLTuNe8KLlevfuCtYVCmItRG_ekPY",
-      "category": "스포츠",
+      "startedAt": "2026-11-15T01:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgROd78DynIS0fSwGJqDOqnvGphOUQIHpTWfCbJBzuMSQ4Cpm3XYzqEZ-k98",
+      "category": "경제",
       "news": [
         {
-          "title": "Live Now! UFC 334 ‘Gane vs. Hokit’ play-by-play, results & round scoring",
-          "url": "https://www.sherdog.com/news/news/UFC-334-Gane-vs-Hokit-playbyplay-results-round-scoring-203625",
-          "source": "Sherdog"
+          "title": "美연준, AI발 금융위험 경고…자산가치 고평가·부채급증 우려",
+          "url": "https://www.yna.co.kr/view/AKR20261115011000072",
+          "source": "연합뉴스"
         },
         {
-          "title": "UFC 334 Streams!MMA:Adames vs WarburtonLIVE Streams ON TV CHANNEL",
-          "url": "https://www.goldderby.com/topic/ufc-334-streamsmmaadames-vs-warburtonlive-streams-on-tv-channel/",
-          "source": "Gold Derby"
+          "title": "美연준, AI발 금융 위험 경고…\"AI 열풍에 주식 고평가\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115112311PyP",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "UFC 334: Ciryl Gane Vs. Josh Hokit – Prelim Results And Highlights",
-          "url": "https://www.lowkickmma.com/ufc-334-prelim-results-highlights/",
-          "source": "LowKickMMA.com"
+          "title": "\"AI 투자 붐, 2028년 전후 고비\"…빅테크 잉여현금 1년 새 84% 급감",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01380886645646048",
+          "source": "마켓인"
         }
       ]
     },
     {
       "keyword": "골프",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-15T01:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvZWh_2Gybgpr0lEa1jQV9197wwmrjJNcUYRq9qCHVLSYk2D_QfAqzjarImVI",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTUvhNvFskUFdLN4Xw_kPlgD2rs-4ubedlrbA12-ENTPALjFrJNiqJMQoXK0o",
       "category": "스포츠",
       "news": [
         {
-          "title": "인천 영종구의회, 제1회 구청장배 골프대회 참석",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752215",
+          "title": "유메노 마사다, 이토엔 레이디스 2라운드 6번 홀 티샷",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752333",
           "source": "국제뉴스"
         },
         {
-          "title": "인천 영종구의회, 제1회 영종구청장배 골프대회 참석",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=803626",
-          "source": "일간투데이"
+          "title": "신지애, 일본 이토엔 대회 첫날 7위…전미정은 4위 [JLPGA]",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022633",
+          "source": "골프한국"
         },
         {
-          "title": "성남시의회, 제23회 성남시장배 족구대회 참석",
-          "url": "https://www.ggpyeonghwa.com/626491",
-          "source": "경기평화신문"
+          "title": "이나가키 나나코, 이토엔 여자 골프 대회 2라운드 5번 홀 세 번째 샷",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752336",
+          "source": "국제뉴스"
         }
       ]
     },
     {
       "keyword": "항공모함",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-15T01:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6gR-PxXZSFok4X6bLJLdQsM6hia0oAqPpKUKMyB9YUUBbUJkFW2IcYEUduQ",
       "category": "기타",
@@ -90,77 +86,77 @@
       ]
     },
     {
-      "keyword": "카리나",
+      "keyword": "india vs new zealand",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-15T01:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDKEA57-vsA7n38iK0XjAGCAnX-eFggERBWkTI3Pts0DaiYDld8pTL0IQ_yNo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "BTS 3관왕·에스파 2관왕…'MMA2026' 첫날 나란히 대상",
-          "url": "https://www.yna.co.kr/view/AKR20261114049700005",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "MMA2026 참석한 에스파",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261114_0021532630&provider_id=&cID=&type=Main&catg=&idx=5",
-          "source": "뉴시스"
-        },
-        {
-          "title": "빅히트 뮤직 김현정 부대표, ‘MMA2026’ 베스트 프로듀서 수상 “방탄소년단에 감사”",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/15/MEYWMNBRMM2TAMRVMMYTINDFMY/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "세무냥이 자수",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T00:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjHnFk4GxCorxtyNq1HKuzmqkclKXdu0cL6ovwx_4YCc5mS7riA8NAuq-0sV0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[속보] 'AI 안경 의혹' 세무사 수석합격자 \"전자기기·생성형 AI로 부정행위 했다\"",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865737_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "세무사 시험 수석 합격자, 경찰에 ‘AI 부정행위’ 자수…“초소형 카메라 이용했다”",
-          "url": "https://www.khan.co.kr/article/202611151034001",
-          "source": "경향신문"
-        },
-        {
-          "title": "세무사 수석 충격 자백…\"초소형 카메라로 찍어 AI로 전송\"",
-          "url": "https://www.hankyung.com/article/202611156922i",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "로스앤젤레스 fc",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T00:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-hyOEHbuq6PzLzsCRRg8Aq9OrUco7U64WFoe3m485phtiNrlPHbIx4L92Do",
+      "startedAt": "2026-11-15T02:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRnZKRsBtKXZW069-UDA8Va_c2ovmd8mF1KaEJlGH6tzSG-HgKHD0d90jUZX0",
       "category": "스포츠",
       "news": [
         {
-          "title": "'충격 또 충격' 손흥민, MLS MVP 후보 5인에도 들지 못했다...메시 MVP 3연패 유력",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/14/GBSDMMJXHEYTQOLEGUYWKNJVMM/",
-          "source": "조선일보"
+          "title": "Streak broken, New Zealand hope to prevent rare overseas ODI series win for India",
+          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-preview",
+          "source": "Cricinfo"
         },
         {
-          "title": "손흥민, MLS MVP 후보 제외…메시, 최초의 3연속 수상 도전",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6353883",
-          "source": "뉴스1"
+          "title": "Licensable picture: International Football Friendly: New Zealand Vs. India, November 15th 2026.",
+          "url": "https://www.reutersconnect.com/item/international-football-friendly-new-zealand-vs-india-november-15th-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBZN0FaMVc",
+          "source": "Reuters Connect"
         },
         {
-          "title": "[오피셜] ‘韓 축구 안타까운 소식’ 손흥민 이름은 없었다···MLS 최우수 선수 ‘후보 5인’ 공개, 메시 ‘...",
-          "url": "https://sports.khan.co.kr/article/202611140707003",
-          "source": "스포츠경향"
+          "title": "India look to avoid another batting collapse in series decider",
+          "url": "https://theshillongtimes.com/2026/11/15/india-look-to-avoid-another-batting-collapse-in-series-decider/",
+          "source": "The Shillong Times"
+        }
+      ]
+    },
+    {
+      "keyword": "김지찬",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T02:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR31kiWadsa0oW8x6OU55JOBbSYz0Y4h3V6UdBIT_5Ux02FsYhv7OKPKhUSjvg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710671",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "중전 안타로 진루하는 김민석",
+          "url": "https://www.newsis.com/view/NISI20261113_0002291780",
+          "source": "뉴시스"
+        },
+        {
+          "title": "일본 매체 “APBC 호주전서 흐름 바꾼 김지찬, 한일전서 주목해야”",
+          "url": "https://www.donga.com/news/Sports/article/all/20261113/135020908/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "ufc 중계",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T02:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtvcrlosY2S5THqDuL4PBiz8PqoQaMTboaIY8uv_duO5JjRfB3rZDnAqw914E",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'첫 헤비급 방어전' 시릴 간, 호킷과 맞대결 \"마음가짐 늘 똑같아... 반드시 승리할 것\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111410412252637",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘돌아온 전설 vs 올림픽 2관왕’ 누네스-해리슨, UFC 여자 밴텀급 왕좌 격돌",
+          "url": "https://www.sportsworldi.com/newsView/20261114504702",
+          "source": "스포츠월드"
+        },
+        {
+          "title": "'연기하는 빌런’ 호킷 vs ‘자연발생 빌런’ 간, 챔피언 벨트 다툰다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02633846645645720&mediaCodeNo=257",
+          "source": "이데일리"
         }
       ]
     },
@@ -190,77 +186,77 @@
       ]
     },
     {
-      "keyword": "서초구",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T00:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtY9HyEU8BPbKvQKxrFBai3Zd7VTm3jXahgdgWkzXlAhBStsN1T-Bg3KWYW2Q",
+      "keyword": "박지현",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T02:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFDsoFyTpKSOuwhFLbiBEPSc3UhAMQA0VdayOpr9QvHraX8987-H-EtEnmH1E",
       "category": "기타",
       "news": [
         {
-          "title": "서초구, 겨울 앞두고 공중·민간 개방화장실 139곳 점검",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868457",
-          "source": "뉴시스"
+          "title": "나 혼자 산다",
+          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100005&type=Clip",
+          "source": "MBC"
         },
         {
-          "title": "서초구, 동절기 앞두고 공중화장실 139곳 현장순찰 강화",
-          "url": "https://biz.heraldcorp.com/article/10937269",
-          "source": "헤럴드경제"
+          "title": "박지현, 모텔 생활 전전…“혼밥도 어려워” (나혼산)",
+          "url": "https://sports.donga.com/ent/article/all/20261114/135024541/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "서초구, 겨울 앞두고 공중화장실 139곳 안전관리 집중 점검",
-          "url": "https://view.asiae.co.kr/article/2026111510512290182",
-          "source": "아시아경제"
+          "title": "전현무·코드쿤스트, '나혼산' 박지현에 애정 폭발..\"소개 멘트 두 배로\"",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSWKYRQMRSWCMZRG43WCYZWMI/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "진양곤",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T01:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnd5eEVxVkb7gxscquSamq5KgiCfe7s310k5S27USJlJ6PSBXloYU3iprHp-g",
-      "category": "기타",
-      "news": [
-        {
-          "title": "HLB제약, 3분기 영업이익 8억5천만원…전년 대비 급증",
-          "url": "https://www.yna.co.kr/view/AKR20261113027500017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "HLB제약, 향남 신공장으로 체급 키운다…‘1조 기업’ 도약 승부수",
-          "url": "https://m.ekn.kr/view.php?key=20261113020358946",
-          "source": "에너지경제신문"
-        },
-        {
-          "title": "HLB제약, 향남 신공장 기공…외주 의약품 자체 생산 전환 추진",
-          "url": "https://news.mtn.co.kr/video/2026111216160267613",
-          "source": "MTN 머니투데이방송"
-        }
-      ]
-    },
-    {
-      "keyword": "케일라 해리슨",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T00:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtvcrlosY2S5THqDuL4PBiz8PqoQaMTboaIY8uv_duO5JjRfB3rZDnAqw914E",
+      "keyword": "jamaica vs mexico",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T02:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR9Usig2xash66tgKXhIPd95g-Yi6f7A5JN_jmO8bZ8iOrNHyM17ZY5bmN2QI",
       "category": "스포츠",
       "news": [
         {
-          "title": "'첫 헤비급 방어전' 시릴 간, 호킷과 맞대결 \"마음가짐 늘 똑같아... 반드시 승리할 것\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111410412252637",
-          "source": "머니투데이"
+          "title": "Jamaica vence 3-2 a México en la ida de cuartos de final de Liga de Naciones de Concacaf",
+          "url": "https://es-us.noticias.yahoo.com/jamaica-vence-3-2-m%C3%A9xico-031901407.html",
+          "source": "Yahoo"
         },
         {
-          "title": "‘돌아온 전설 vs 올림픽 2관왕’ 누네스-해리슨, UFC 여자 밴텀급 왕좌 격돌",
-          "url": "https://www.sportsworldi.com/newsView/20261114504702",
-          "source": "스포츠월드"
+          "title": "Selección Mexicana: La razón por la que Rafa Márquez dejó fuera a Armando León vs Jamaica en Nations League",
+          "url": "https://www.albat.com/breaking/seleccion-mexicana-la-razon-por-la-que-rafa-marquez-dejo-fuera-a-armando-leon-vs-jamaica-en-nations-league-20261114-0033.html",
+          "source": "Al Bat"
         },
         {
-          "title": "'연기하는 빌런’ 호킷 vs ‘자연발생 빌런’ 간, 챔피언 벨트 다툰다",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02633846645645720&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "¡GOL! anota para México. Gilberto Mora",
+          "url": "https://www.tudn.com/futbol/concacaf-nations-league/gol-anota-para-mexico-gilberto-mora-video",
+          "source": "TUDN"
+        }
+      ]
+    },
+    {
+      "keyword": "비트코인 시세",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T02:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYF5ykd0A8RQe0A42p1Q-hjmRDg70ovdnM3-9v0v8vZCdKonYHPCUqzwVxv6s",
+      "category": "경제",
+      "news": [
+        {
+          "title": "비트코인 6만7033달러·8956만원, 하이퍼리퀴드 거래자 순롱 전환",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/438331",
+          "source": "토큰포스트"
+        },
+        {
+          "title": "단기 투자자 평단가 밑돈 비트코인 시세에 거래소 입금량 급증",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310289",
+          "source": "경향게임스"
+        },
+        {
+          "title": "비트코인 지갑 11만 개 감소의 착시…텔레그램 93만 개 지갑도 ‘빈 껍데기’",
+          "url": "https://blockchaintoday.co.kr/news/articleView.html?idxno=66709",
+          "source": "블록체인투데이"
         }
       ]
     }
