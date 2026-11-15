@@ -1,271 +1,271 @@
 {
-  "updatedAt": "2026-11-15T21:30:59.038Z",
+  "updatedAt": "2026-11-15T22:33:48.324Z",
   "summary": [
+    {
+      "category": "기타",
+      "count": 4
+    },
     {
       "category": "스포츠",
       "count": 4
     },
     {
       "category": "경제",
-      "count": 3
+      "count": 1
     },
     {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "연예",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "로스앤젤레스 fc",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-15T19:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTTKjy8TFXF19YGueboJr5Vrj8FoxgWohcoXcfN2JjXkZbJGX3D4bw3LCQumo",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"손흥민 이적료 없이 다시 이적 가능\" 토트넘 깜짝 복귀 성사되나...내년 1월 협상 가능 선수로 등장, \"본격적인 카운트다운 시작\"",
-          "url": "https://www.sportschosun.com/football/2026-11-14/202611140100095190008917",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "'맙소사' 손흥민 충격 이적? LA FC와 결별 가능성 등장...스페인 매체 'FA 이적 가능성' 언급, \"이적료 없이 떠날 수 있다\"",
-          "url": "https://mydaily.co.kr/page/view/2026111521553874736",
-          "source": "마이데일리"
-        },
-        {
-          "title": "손흥민, 계약 만료 7개월 앞뒀는데… 거취에 ‘빨간불’ 켜진 이유",
-          "url": "https://www.wikitree.co.kr/articles/1174799",
-          "source": "위키트리"
-        }
-      ]
-    },
-    {
-      "keyword": "삼전닉스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T20:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAEZ3ubr_Lje6CW9U4UAilvfws3Q4KOzNlk4SofgBYD0e6RM-2_3Ic7cYtJHE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "고점 대비 ‘―40%’에 고개드는 빚투…마통 잔액 51개월 만에 최대",
-          "url": "https://www.donga.com/news/Economy/article/all/20261115/135026798/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "\"주식 사려고 빚 냈어요\"…7조 폭풍매수 몰린 '두 종목'",
-          "url": "https://www.hankyung.com/article/2026111567997",
-          "source": "한국경제"
-        },
-        {
-          "title": "개미, 코스닥 떠나 코스피로…코스닥 '빚투' 반년 새 반토막",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01577686645646048",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "이란",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhhZiUn-PS-dNRlmeErPnMSx55a3tU1ADcXcDmowhsdbY0sSSKM26cTFWn7ww",
+      "keyword": "패딩",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-15T20:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3nGVeNI5gM2q1v-_WjEv72x_bMtLZeFvis_2LGiGjXIqpyefM1L8cyfyVxIk",
       "category": "기타",
       "news": [
         {
-          "title": "이란, 두달만에 중동 미국 기지 공격 재개…바레인군 “발사체 요격”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713132",
-          "source": "KBS 뉴스"
+          "title": "겨울 패딩을 몇 년이나 입었는데, 이렇게 입을 생각은 못했네요",
+          "url": "https://www.elle.co.kr/article/1913110",
+          "source": "엘르 코리아 │ ELLE KOREA"
         },
         {
-          "title": "이란, 두 달 만에 중동 미군기지 공격 재개",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116055050WOv",
+          "title": "한때 '등골 브레이커'였는데…5만원도 안 되는 패딩에 '열광' [장서우의 하입:hype]",
+          "url": "https://www.hankyung.com/article/202611135612i",
+          "source": "한국경제"
+        },
+        {
+          "title": "“몽클은 이제 흔해서 안입어요”…엄마들 올 겨울 이 패딩으로 갈아탄다는데",
+          "url": "https://www.mk.co.kr/news/business/12209161",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "운세",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-15T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdQSIAEa5k0v-5BcXxjApqxUa1CYU-Vdff6U29FfHBtE7KBU3jyHD4Wc4nT7I",
+      "category": "기타",
+      "news": [
+        {
+          "title": "오늘의 운세 - 2026년 11월 16일 월요일(음력 10월 8일)",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065592381451362",
+          "source": "울산종합일보"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 11월 16일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611160000000001",
+          "source": "YTN"
+        },
+        {
+          "title": "[오늘의 운세/11월 16일]",
+          "url": "https://www.donga.com/news/Culture/article/all/20261116/135028747/2",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김정은",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T21:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSA9Do2Jc69Vg5psq6jvqv1OR_1ALE0hAbNOZn2RBcqMd19S411CNFLNrFHPZQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "루비오, 이란 핵보유 반대하며 \"북한, 이란과 달라\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116054858U5t",
           "source": "연합뉴스TV"
         },
         {
-          "title": "美·이란 협상 교착 속 이란, 바레인 또 드론 공격…전운 고조(종합)",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868820",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "장례",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T20:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7Q-CqbBQduCB5xWqjTtScbhdvTSp20lYD4pSkWpdCIyZ3hszB9SRez6ksJmM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[김상훈의 제5영역] 유튜브는 우리를 다시 내딛게 한다",
-          "url": "https://www.segye.com/newsView/20261111514716",
-          "source": "세계일보"
-        },
-        {
-          "title": "“정말 죄송하다” 볼리비아 현지인들, 사망 유튜버 추모 집회 열어 [자막뉴스]",
-          "url": "https://ichannela.com/news/detail/000000559240.do",
-          "source": "채널A"
-        },
-        {
-          "title": "“제 나라로 돌아가려고요”…故진쓰레블, 생전 마지막 영상 공개됐다[Oh!쎈 이슈]",
-          "url": "https://www.osen.co.kr/article/G1112907183",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "김하성",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T20:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzwTGUQIrUhDOsIhHDdaMO4ivgM6Te0s3tk1G8MfCgvVCahQf6yWa-z4XkAgE",
-      "category": "연예",
-      "news": [
-        {
-          "title": "1년 268억 → .116인데, 또 잡는다고? 김하성 초대박! PHI 이어 ATL까지 영입 검토, 예상 밖 관심 이유는",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/15/MQ4GMZJZGJSDIMDGMU3DGMDCMU/",
+          "title": "루비오 \"김정은은 정권 유지가 목적, 이란은 혁명 수출 노리는 팽창주의 세력\"",
+          "url": "https://www.chosun.com/international/us/2026/11/14/RFJWF6NFD5ERXKFJG2WJF6NDNI/",
           "source": "조선일보"
         },
         {
-          "title": "“2000만 달러 받고 타율 .116 충격” 김하성, 몸값 폭락이 오히려 기회? 美 매체 “최고의 알짜 영입 될 수도” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/202611140750771712O",
+          "title": "루비오 “북한 김정은, 팽창주의자 아냐⋯정권 유지 원할 뿐”",
+          "url": "https://www.etoday.co.kr/news/view/2648356",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "tây ban nha đấu với anh",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T21:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDJzqUdSUX4QMdElMbyKwEeuoQu3ShpWVAm-btSN9SctR8pv2_jUq5_K_iNYQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá Tây Ban Nha - Anh: Bàn thứ 3 rực rỡ (Nations League)",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-tay-ban-nha-anh-ap-luc-cua-cac-vi-khach-nations-league-c48a1811353.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Tuchel gạch tên Branthwaite và Garner ở trận gặp Tây Ban Nha",
+          "url": "https://bongda.com.vn/tuchel-gach-ten-branthwaite-va-garner-o-tran-gap-tay-ban-nha-d855115.html",
+          "source": "bongda.com.vn"
+        },
+        {
+          "title": "Tin nóng bóng đá 15.11: Tuyển Anh quyết chặn đứng chuỗi bất bại của Tây Ban Nha",
+          "url": "https://laodong.vn/video-the-thao/tin-nong-bong-da-1511-tuyen-anh-quyet-chan-dung-chuoi-bat-bai-cua-tay-ban-nha-1800787.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "박철순",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T21:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZP3UuntmUMStlj4X2kCIrxS-zLVEOOtfkfSvvwai17PKqd9Sb3TpDPQNlO3A",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“추억에는 마침표 없다”…레전드들과 함께한 잠실 고별전",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712981",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "“굿바이! 잠실야구장” 프로야구 전설들 작별인사",
+          "url": "https://www.donga.com/news/Sports/article/all/20261116/135028716/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "'화려했던 커리어→아쉬웠던 감독 시절' 지도자로 귀환하나, 이승엽이 답했다 \"언젠가는 다시 하고 싶다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/2026111515543672713",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "미라 안드레예바",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T20:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLuv1C1ow7EHDWu4W5QOwBlKh0GfbqECL4F7c-_GBLqIbKcCiLTKq-tkOeasc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'러시아어로 욕설 내뱉더니 결국 사과' 세계 2위 사발렌카, 우크라이나 선수 모욕 논란 일파만파...\"상대에게 한 말 아니다\" 해명 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/16/202611152317778300O",
           "source": "머니투데이"
         },
         {
-          "title": "초대형 희소식! 김하성, 난생처음 인기팀 관심! → 키움 컴백 이유 사라졌다",
-          "url": "https://www.sportschosun.com/baseball/2026-11-14/202611140100094330008858",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "spain vs england",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T20:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS82ja2qUVdDUv2b2ITTS7UKVFbYQRiaUIAGtPpnL5W4Gw4SeVwh7yJsFYNZw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Spain vs England LIVE: Nations League score, commentary, updates & stats",
-          "url": "https://www.bbc.com/sport/football/live/c65y1lrepr5zt",
-          "source": "BBC"
-        },
-        {
-          "title": "Licensable picture: Spain v United Kingdom - UEFA Nations League",
-          "url": "https://www.reutersconnect.com/item/spain-v-united-kingdom-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNUMwUFFI",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "‍‍‍Here's Got the ways to watch UEFA NL:Croatia vs Czechia 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026",
-          "url": "https://www.ub.edu/portal//html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=%2F%5C%2Fkeeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=here-s-got-the-ways-to-watch-uefa-nl-croatia-t4ai9",
-          "source": "Universitat de Barcelona"
-        }
-      ]
-    },
-    {
-      "keyword": "필라데피아 대 인디애나",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T19:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkPgsawqO9EFDlpJsJP-P_m6iS7_AjNBdbuG1m9fZICBJQ39efX1sq7bRcbA0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Indiana Pacers vs Philadelphia 76ers Nov 15, 2026 Box Scores",
-          "url": "https://www.nba.com/game/ind-vs-phi-0022600236/box-score",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Wolves are winning without Anthony Edwards — and aren’t changing their identity",
-          "url": "https://www.startribune.com/minnesota-timberwolves-chicago-bulls-lamelo-ball-stats-anthony-edwards-injury-update-wolves-roster/601914485",
-          "source": "Star Tribune"
-        },
-        {
-          "title": "4 Timberwolves players who are stepping up the most without Anthony Edwards",
-          "url": "https://dunkingwithwolves.com/4-timberwolves-players-who-are-stepping-up-the-most-without-anthony-edwards",
-          "source": "Dunking with Wolves"
-        }
-      ]
-    },
-    {
-      "keyword": "상장지수 펀드",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T20:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDLPlic6JHHT24HM3PQx0P_RUwdkJuglmBKgJo3AJx74HLbjBU_YXpGpAm89Q",
-      "category": "경제",
-      "news": [
-        {
-          "title": "‘액티브 ETF’의 굴욕… 코스닥보다 죽 쒔다",
-          "url": "https://www.seoul.co.kr/news/economy/finance/2026/11/16/20261116031001",
-          "source": "서울신문"
-        },
-        {
-          "title": "\"진짜 체력은 여기\"…하락장에도 뭉칫돈 들고 몰려간 곳",
-          "url": "https://www.hankyung.com/article/2026111575441",
-          "source": "한국경제"
-        },
-        {
-          "title": "증시 급변에 ETF 순위 '지각변동'…한투, KB 제치고 3위",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443891",
-          "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "코스피 200",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBVF-Ab1BBbQbb5u49eCWVhLPwC2UfoRWBy8a4jsiSFhzOyfUdDsoop-bgcJ0",
-      "category": "경제",
-      "news": [
-        {
-          "title": "증시 산업지도 대격변…코스피200 '리밸런싱' 판도 바뀐다",
-          "url": "https://www.hankyung.com/article/2026111574411",
-          "source": "한국경제"
-        },
-        {
-          "title": "'9천피'에 발행된 ELS, 내달부터 만기 도래…원금 손실 우려",
-          "url": "https://www.yna.co.kr/view/AKR20261114023300008",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "코스피 고점에 발행된 ELS '비상'…다음 달부터 만기 도래",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868509",
+          "title": "안드레예바, 페굴라 꺾고 왕중왕전 결승 진출",
+          "url": "https://www.newsis.com/view/NISI20261115_0002292317",
           "source": "뉴시스"
+        },
+        {
+          "title": "‘6년 만의 설욕’ 스비톨리나, 세계 2위 사발렌카 격파 파란…WTA 파이널스 4강 대진 완성",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=132095",
+          "source": "더게이트"
         }
       ]
     },
     {
-      "keyword": "김민식",
+      "keyword": "통근",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-15T19:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQAhAjFQDDJRRGdPsYZpH3RCBSBkZmHlV1I5XapSWPTbdZXPtQvACNh0rFcDU",
+      "startedAt": "2026-11-15T21:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘수도권∼세종청사 통근버스’ 5년 만에 부활",
+          "url": "https://www.khan.co.kr/article/202611152055045",
+          "source": "경향신문"
+        },
+        {
+          "title": "중앙부처 세종 이전 앞두고…수도권∼세종청사 통근버스 재개키로",
+          "url": "https://stock.mk.co.kr/news/view/1198974",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "인권위·공수처도 '정부청사' 관리대상 포함…세종 이전 앞두고 개정",
+          "url": "https://www.news1.kr/local/moi/6353527",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "spanyol vs inggris",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaKMUg0O0VBgGEv9wnrHBUMR1Rr9bqOmtzrWPDnxyn3-fun8e9BGgiP5FHLMM",
       "category": "스포츠",
       "news": [
         {
-          "title": "KIA 1차지명 후보였는데…만년 유망주 끝내 방출, 그러나 은퇴는 없다 \"도전은 아직 끝나지 않았다\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019558",
-          "source": "SPOTV NEWS"
+          "title": "Line Up Spanyol vs Inggris: Adu Tajam Trio La Furia Roja dan The Three Lions",
+          "url": "https://afu.id/olahraga/line-up-spanyol-vs-inggris-adu-tajam-trio-la-furia-roja-dan-the-three-lions",
+          "source": "AFU.id"
         },
         {
-          "title": "두 번의 트레이드, 두 번의 우승…베테랑 포수 김민식, SSG 떠난다",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02791286645645064&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "Tuchel Ingatkan Inggris Aktifkan Protokol Antirasisme di Madrid",
+          "url": "https://demokratis.co.id/tuchel-inggris-protokol-antirasisme-madrid",
+          "source": "Demokratis.co.id"
         },
         {
-          "title": "SSG 떠난 ‘우승 포수’ 김민식, LG행 초읽기…계약 마무리 단계",
-          "url": "https://www.munhwa.com/article/11631439",
-          "source": "문화일보"
+          "title": "Thomas Tuchel tak masukkan Jarrad Branthwaite ke skuad Inggris untuk laga penentuan kontra Spanyol, Dan Burn dan James Hill dipilih di atas bek Everton itu",
+          "url": "https://www.goal.com/id/berita/thomas-tuchel-tak-masukkan-jarrad-branthwaite-ke-skuad-inggris-untuk-laga-penentuan-kontra-spanyol-dan-burn-dan-james-hill-dipilih-di-atas-bek-everton-itu/bltbe2dac845688d362",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "keyword": "테니스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnhkZxWMzZmnaVogCszcfC960nSjkV4LKehKcGz9g1a583TcRgDrJky3UFzBM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "프리츠, 스톡홀름오픈 우승으로 시즌 마무리… 개인 첫 실내 타이틀",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54303",
+          "source": "테니스코리아"
+        },
+        {
+          "title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 '비교적 수월'",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54294",
+          "source": "테니스코리아"
+        },
+        {
+          "title": "올림픽 경기장의 두 가지 운명…토리노는 ATP 파이널스, 강릉은 무엇을 남겼나",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19838",
+          "source": "테니스피플"
+        }
+      ]
+    },
+    {
+      "keyword": "미나미",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkTB0itj2sTqMrrQZwYEfUUOvZGIwKS6MUaw5YQNVfh9TtY2KthLz6W-p-p54",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“많아야 1시간 잔다”더니…‘리센느’ 미나미, 건강 이유로 스케줄 불참",
+          "url": "https://www.donga.com/news/Culture/article/all/20261115/135027925/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "“하루에 1시간 자”... 리센느 미나미, 결국 ‘컨디션 난조’로 활동 불참 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GQ4WGOBYMQ4TAM3FMI3TSYRQGI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘라이브 논란’ 리센느 미나미, 심경 고백 “1시간 수면, 힘들지만”",
+          "url": "https://sports.khan.co.kr/article/202611130831003",
+          "source": "스포츠경향"
         }
       ]
     }
