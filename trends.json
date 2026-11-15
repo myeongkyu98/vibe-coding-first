@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-15T16:35:29.410Z",
+  "updatedAt": "2026-11-15T17:30:04.353Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "count": 5
     },
     {
       "category": "경제",
+      "count": 3
+    },
+    {
+      "category": "스포츠",
       "count": 1
     },
     {
@@ -25,7 +25,7 @@
       "trafficValue": 5000,
       "startedAt": "2026-11-15T12:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSizqKezhPQMS67MDky9K-Yf9aqbFxJ9uO4L8Q0jxJMGMx5sZFjK2npTRvt_6k",
-      "category": "스포츠",
+      "category": "경제",
       "news": [
         {
           "title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
@@ -33,14 +33,39 @@
           "source": "마켓인"
         },
         {
-          "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
-          "url": "https://www.hankyung.com/article/2026111348856",
+          "title": "\"이제 와서 2억 더 내라고?\"…서초 아파트 주민들 '날벼락' [김용우의 각개전투]",
+          "url": "https://www.hankyung.com/article/202611146307i",
           "source": "한국경제"
         },
         {
           "title": "재초환 '날벼락'에...재건축 조합장들 한 곳에",
           "url": "https://www.fnnews.com/news/202611131524554357",
           "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "아파트",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-15T16:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWnVdZ9lvzQTI5_IgGEyKxWyMrdGmA67OJ2XqFRn8EGEuerM44DgviFJ7Jx8A",
+      "category": "경제",
+      "news": [
+        {
+          "title": "“지역 상징성 강조” 단지 번호 남기는 아파트 재건축",
+          "url": "https://www.donga.com/news/Economy/article/all/20261115/135027921/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "현대·삼성 '최대 실적'…건설사 도시정비 수주 신기록 세우나",
+          "url": "https://www.nocutnews.co.kr/news/6606784",
+          "source": "노컷뉴스"
+        },
+        {
+          "title": "11월 재개발·재건축 시공자 선정 동향(2026.10.26.~2026.11.22.)",
+          "url": "https://www.housingherald.co.kr/news/articleView.html?idxno=63403",
+          "source": "하우징헤럴드"
         }
       ]
     },
@@ -74,12 +99,12 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-15T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT77AHOUxJ4Wj4lOaV5M4SJGCrGpv7xYS5q6z2aldkcokU7ax_fxfwSX4VQRKI",
       "category": "기타",
       "news": [
         {
-          "title": "힐링 아일릿",
-          "url": "https://www.newsis.com/view/NISI20261115_0021533394",
+          "title": "매력적인 아일릿",
+          "url": "https://www.newsis.com/view/NISI20261115_0021533395",
           "source": "뉴시스"
         },
         {
@@ -91,31 +116,6 @@
           "title": "[포토] 윤아, 매너가 사람을 만드는 킹스걸",
           "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524940",
           "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "부고",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T13:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKgFd0KOx_WRIRNOz69kE8LXDQFoAFCpXrcOqIhafe4zf1XTAZLICs2-2gmz8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[부음] 권형택(기술보증기금 이사장)씨 장인상",
-          "url": "https://www.etnews.com/20261115000175",
-          "source": "전자신문"
-        },
-        {
-          "title": "오늘의 부고 종합",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01823686645646048&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "[부고] 권형택(기술보증기금 이사장)씨 장인상",
-          "url": "https://www.news1.kr/industry/sb-founded/6354440",
-          "source": "뉴스1"
         }
       ]
     },
@@ -208,9 +208,9 @@
           "source": "경향신문"
         },
         {
-          "title": "승조원 없이 AI가 움직이는 600t 군함⋯ HD현대가 띄운 미래 전력",
-          "url": "https://www.kmib.co.kr/article/20261115501400",
-          "source": "국민일보"
+          "title": "함장도 기관사도 없는 600t급 군함… AI가 정찰 등 작전까지 수행",
+          "url": "https://www.donga.com/news/Economy/article/all/20261115/135027906/2",
+          "source": "동아일보"
         },
         {
           "title": "HD현대, 美기업과 ‘바다의 드론’ 진수",
