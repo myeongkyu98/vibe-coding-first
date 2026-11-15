@@ -1,20 +1,49 @@
 {
-  "updatedAt": "2026-11-15T09:41:21.077Z",
+  "updatedAt": "2026-11-15T10:38:53.943Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 5
     },
     {
       "category": "스포츠",
-      "count": 2
+      "count": 3
     },
     {
       "category": "정치·사회",
       "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "창원 lg 대 수원 kt",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-15T07:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJjNGeX9KdbYFpsVWQuopLvoLEcQ18FxcGbOheFmA_NReJ9XC4XFyQVsg73mg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "5연패 온데간데 없다…고양 소노, 거침없는 ‘3연승 질주’",
+          "url": "https://www.kyeonggi.com/article/20261115580287",
+          "source": "경기일보"
+        },
+        {
+          "title": "[현장인터뷰]'패장' 이규섭 감독 \"레이션 해먼즈, 넘어지면서 통증…무리하지 않겠다\"",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/15/MJTDEMZRMMYDOOBVGBRGCNJSMQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "프로농구 소노, DB 89-83 꺾고 3연승…이정현 20점 활약",
+          "url": "https://www.donga.com/news/Sports/article/all/20261115/135027020/1",
+          "source": "동아일보"
+        }
+      ]
+    },
     {
       "keyword": "부산 kcc 대 대구 한국가스공사",
       "traffic": "2000+",
@@ -25,60 +54,67 @@
       "news": []
     },
     {
-      "keyword": "구자욱",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-15T07:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBJL2XEQn_EkPD7nx7TVm-6weHa-UyExLYLh0qrhEzLRtgmCdRaHZCRyvVsMk",
-      "category": "스포츠",
+      "keyword": "웨이브",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-15T08:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT77AHOUxJ4Wj4lOaV5M4SJGCrGpv7xYS5q6z2aldkcokU7ax_fxfwSX4VQRKI",
+      "category": "기타",
       "news": [
         {
-          "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231",
-          "source": "KBS 뉴스"
+          "title": "매력적인 아일릿",
+          "url": "https://www.newsis.com/view/NISI20261115_0021533395",
+          "source": "뉴시스"
         },
         {
-          "title": "미네소타 1루수 고민, KBO리그에서 답 찾나? 美 매체가 주목한 삼성 우승 영웅",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/15/GVRDAYJWHFTGEZBQG4ZTEYLFG4/",
+          "title": "[ET포토] 아일릿, '시크릿 에이전트'",
+          "url": "https://www.etnews.com/20261115000148",
+          "source": "전자신문"
+        },
+        {
+          "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/",
           "source": "조선일보"
-        },
-        {
-          "title": "구자욱-원태인 필요성 역설한 삼성 이종열 단장…구자욱은 MLB 도전 위해 에이전트 선임 변수",
-          "url": "https://sports.donga.com/sports/article/all/20261115/135026508/1",
-          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "멜론뮤직어워드 2026",
+      "keyword": "김건우",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-15T08:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "창원 lg 대 수원 kt",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T07:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "startedAt": "2026-11-15T08:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
+          "url": "https://www.yna.co.kr/view/AKR20261115011300007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'우승 도전' 한국, 김지찬-김도영 테이블세터 유지…안현민, 4번 지명타자",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868749",
+          "source": "뉴시스"
+        },
+        {
+          "title": "‘후반기 ERA 0.90’ 日 괴물 에이스, 그런데 한국만 만나면 부진…한일전 12연패 탈출 기회일까 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/15/202611151535778294O",
+          "source": "머니투데이"
+        }
+      ]
     },
     {
       "keyword": "개혁",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-15T08:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQajjG-84HRYHPchbX5GVtMuixugCiJ4jMsK6rNFb4GflVqupC50NN2qYe34dU",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-IY1eywrKyx8kWEb_D8RCrF74NHpoIIASyO6vVLKgDll4Rk52aj5ZUWimSxE",
       "category": "정치·사회",
       "news": [
         {
-          "title": "이 대통령 \"개혁의 이름 빌려 개혁 방해하는 건 용납 어려워\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865766_36911.html",
-          "source": "MBC 뉴스"
+          "title": "이 대통령 “개혁의 이름 빌려 개혁 방해는 용납 어려워”···‘최민희 녹취록’ 파장 우회 겨냥?",
+          "url": "https://www.khan.co.kr/article/202611151549001",
+          "source": "경향신문"
         },
         {
           "title": "“등 뒤 화살” 이어 “개혁 방해”…이 대통령, 민주 강경파에 ‘경고장’",
@@ -94,11 +130,11 @@
     },
     {
       "keyword": "박태환",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-15T07:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpIiXPLb3I5YmUkHXnWQVDh7M-sHA66xkrfEVHzrMaCzcTysP7UH1E10fCcQo",
-      "category": "기타",
+      "category": "연예",
       "news": [
         {
           "title": "박태환, 살 뺐나…또렷해진 이목구비",
@@ -106,21 +142,21 @@
           "source": "동아일보"
         },
         {
+          "title": "박태환 맞아? 확 달라진 얼굴…볼살 빠지고 아이돌 비주얼",
+          "url": "https://mbiz.heraldcorp.com/article/10937654",
+          "source": "헤럴드경제"
+        },
+        {
           "title": "박태환 맞아? 볼살 실종에 확 달라진 얼굴…무슨 일 있었나",
           "url": "https://www.mk.co.kr/news/entertain/12209035",
           "source": "매일경제"
-        },
-        {
-          "title": "박태환, 몰라보게 갸름해진 근황…“정말 잘생겼다”",
-          "url": "https://www.sportsseoul.com/news/read/1649655",
-          "source": "스포츠서울"
         }
       ]
     },
     {
       "keyword": "금오산",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-15T07:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2TbnY3rtQ_49i_bNHzcrNkVF76tqkA5lMZwip8sPi1yTkfJd1mI5vQVxNR40",
       "category": "기타",
@@ -139,6 +175,31 @@
           "title": "가을을 잇는 하늘길, 별빛을 품은 금오산…구미의 낭만이 깊어진다",
           "url": "https://news.tf.co.kr/read/national/2388974.htm",
           "source": "더팩트"
+        }
+      ]
+    },
+    {
+      "keyword": "ban vs sa",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T09:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbjT8TvDs4raSM_kir6pEkznubsxrxXhS2M03YdO6ICg6TmWKG5lRmzQN11CQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Proteas unveil playing XI for opening Bangladesh Test",
+          "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/proteas-unveil-playing-xi-for-opening-bangladesh-test",
+          "source": "ICC"
+        },
+        {
+          "title": "On-song South Africa host Bangladesh with an eye on another WTC final",
+          "url": "https://www.espn.com/cricket/series/19430/preview/1525662/south-africa-vs-bangladesh-1st-test-19430",
+          "source": "ESPN"
+        },
+        {
+          "title": "Rabada's new-ball treble makes it South Africa's morning",
+          "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-report-1",
+          "source": "Cricinfo"
         }
       ]
     },
@@ -168,52 +229,27 @@
       ]
     },
     {
-      "keyword": "김건우",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T08:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "김건우 vs 다카하시, APBC 결승 선발…김도영은 설욕 나선다",
-          "url": "https://www.yna.co.kr/view/AKR20261115011300007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'한일전 12연패 끊나' 한동희 사구→안현민 4번 DH, 문현빈 우익수 선발…최원호 감독 \"선발 등판했던 투수들 제외 전부 대기\" [오!쎈 도쿄]",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/15/HBSGKYRVGY4TGZRVGJSTGMRVGU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1287370.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
       "keyword": "kb5132061",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-15T07:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3gvzDkjnE6bD7cfLCBsC5qaKqFzo509IXyLLq50HEsHMzDLY_sHaugJXci2E",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5kpUa1Gco_tW1EY5izBKmpahLv4YXUD5pjD-yL2puHLV_rNF-RAC5tMUwFto",
       "category": "기타",
       "news": [
         {
-          "title": "Windows 11’s big redesign has started shipping, and the first thing it kills is the Windows 8-era pop-up that asks what to do every time you plug in your phone",
-          "url": "https://www.windowslatest.com/2026/11/15/windows-11s-big-redesign-has-started-shipping-and-the-first-thing-it-kills-is-the-windows-8-era-pop-up-that-asks-what-to-do-every-time-you-plug-in-your-phone/",
-          "source": "Windows Latest"
+          "title": "If the November Windows update fails to install on your PC, here’s what to do",
+          "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
+          "source": "ZDNET"
+        },
+        {
+          "title": "Microsoft confirms Windows security updates installation issues",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+          "source": "BleepingComputer"
         },
         {
           "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
           "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
           "source": "The Register"
-        },
-        {
-          "title": "Microsoft fixes audio issues caused by September security updates",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-          "source": "BleepingComputer"
         }
       ]
     }
