@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:34:38.494Z",
+  "updatedAt": "2026-11-15T12:41:14.302Z",
   "summary": [
     {
       "category": "기타",
@@ -14,11 +14,11 @@
       "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
       "count": 1
     },
     {
@@ -27,6 +27,31 @@
     }
   ],
   "items": [
+    {
+      "keyword": "로봇",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-15T10:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFcyFxjPih3MPicLBDinErZ8EJVzBnCvwy-KQy-OW3VcZXVOh2p6e-zAGwJ5s",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "우주 찍고 온 '초유의 컴백'‥\"이게 믿어져\" 환호 터진 장면",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865784_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "'우주 여객기' 현실 되나…우주선 본체 회수 첫 성공",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846760",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고",
+          "url": "https://www.yna.co.kr/view/AKR20261115010500091",
+          "source": "연합뉴스"
+        }
+      ]
+    },
     {
       "keyword": "전국노래자랑",
       "traffic": "1000+",
@@ -53,10 +78,10 @@
       ]
     },
     {
-      "keyword": "apbc 중계",
+      "keyword": "한국 일본 야구",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-15T10:00:00.000Z",
+      "startedAt": "2026-11-15T10:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFB7hXTjajR9XbkeSDKYBo6EWZLhYXzrOoEnktHeXGsiLpzaMG4zwfMLkveCs",
       "category": "스포츠",
       "news": [
@@ -71,9 +96,9 @@
           "source": "머니투데이"
         },
         {
-          "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1287370.html",
-          "source": "한겨레"
+          "title": "'우승 도전' 한국, 김지찬-김도영 테이블세터 유지…안현민, 4번 지명타자",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868749",
+          "source": "뉴시스"
         }
       ]
     },
@@ -128,27 +153,27 @@
       ]
     },
     {
-      "keyword": "bangladesh vs south africa",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T08:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaKNM6cIQMWbak0D6tRkpIHw6Zb7Sa1TtfS5dcTftd_ryKZ1HPfNxUBQ0mExM",
+      "keyword": "화물기",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T10:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadLmhtiM1eFFMugilxnIvPWLFd7TGVpAf_Mlg3aG4TZuDKJ2nh8NgrNvLxVo",
       "category": "스포츠",
       "news": [
         {
-          "title": "Shanto: 'Very important for the whole batting unit to perform'",
-          "url": "https://www.cricinfo.com/story/sa-vs-ban-najmul-hossain-shanto-very-important-for-the-whole-batting-unit-to-perform-1562662",
-          "source": "Cricinfo"
+          "title": "미국, 이틀째 항공 대란 와중에 화물기·여객기 충돌",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865783_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "How to watch South Africa vs Bangladesh 2026 1st Test: Free Streams & Preview",
-          "url": "https://www.techradar.com/entertainment/cricket/watch-south-africa-vs-bangladesh-2026-1st-test-free",
-          "source": "TechRadar"
+          "title": "미국 항공대란 여파 6500여편 결항…“15일 완전 정상화 예상”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713173",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Mahfijul Islam Falls First Ball on Test Debut as Rabada Joins Rare List",
-          "url": "https://easternherald.com/2026/11/15/mahfijul-islam-first-ball-test-debut-rabada-record/",
-          "source": "The Eastern Herald"
+          "title": "FAA 운항중단에 미국 스포츠도 비상…NBA·NHL·대학 경기 연쇄 차질",
+          "url": "https://www.khan.co.kr/article/202611151831001",
+          "source": "경향신문"
         }
       ]
     },
@@ -166,39 +191,14 @@
           "source": "경향신문"
         },
         {
-          "title": "영아에 기한 하루 지난 백신 접종…대법 “의사면허 취소 과도”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713124",
-          "source": "KBS 뉴스"
-        },
-        {
           "title": "대법원, 유효기간 하루 지난 주사제 접종 의사 면허자격정지 패소 원심 파기환송",
           "url": "https://www.lawissue.co.kr/view.php?ud=2026111417084166539a8c8bf58f_12",
           "source": "로이슈"
-        }
-      ]
-    },
-    {
-      "keyword": "로봇",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T10:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMJOfZSKhPbCzrQ48YaiaGMZQP4i2zTwDIvrQqbDT3P_LbXvfkTGcl5J3_jU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "'제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
-          "url": "https://www.etnews.com/20261115000075",
-          "source": "전자신문"
         },
         {
-          "title": "[대구] '국제 로봇 콘테스트' 개최...\"로봇 기술 경쟁\"",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611131451583586",
-          "source": "YTN"
-        },
-        {
-          "title": "한국기술교육대 학생들, 국제로봇콘테스트 1위·3위",
-          "url": "https://www.seoul.co.kr/news/society/2026/11/15/20261115500025",
-          "source": "서울신문"
+          "title": "영아에 기한 하루 지난 백신 투여…대법 \"의사 면허정지 과해\"",
+          "url": "https://www.yna.co.kr/view/AKR20261114049300004",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -207,48 +207,43 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-15T09:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRekPaaas2E1ybtGVPS5mfeftRhIypYCBSpRZPgG2jf-IEoZNxm_wDnonKXZnM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI7NWPDIFR_h7Q2fkTjxyR9H_EEEvqMOheNYDSD-qULcOC4FA0X5HANva3iFs",
       "category": "기타",
       "news": [
         {
-          "title": "힐링 아일릿",
-          "url": "https://www.newsis.com/view/NISI20261115_0021533394",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[ET포토] 아일릿, '시크릿 에이전트'",
-          "url": "https://www.etnews.com/20261115000148",
-          "source": "전자신문"
-        },
-        {
-          "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/",
+          "title": "Lee Young-ae's Elegant Green Dress Captivates at Melon Music Awards",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/15/ZEZDRJ4B7FCAXOB3N6SBNYGIE4/",
           "source": "조선일보"
+        },
+        {
+          "title": "Lee Young-ae stuns in deep green gown at Melon Music Awards",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/15/TA4TVTF2AFBFNJ3DRIQM3DBOPE/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "화물기",
+      "keyword": "김유재",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-15T10:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQadLmhtiM1eFFMugilxnIvPWLFd7TGVpAf_Mlg3aG4TZuDKJ2nh8NgrNvLxVo",
+      "startedAt": "2026-11-15T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK3Bx4RghyYMZMzGyQHPZFE5spxp14uHR6Pjn7SNYxrpLeM9mKF8sA25yjRM",
       "category": "기타",
       "news": [
         {
-          "title": "미국, 이틀째 항공 대란 와중에 화물기·여객기 충돌",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865783_36925.html",
-          "source": "MBC 뉴스"
+          "title": "피겨 김유재, 시니어 GP 4차 대회 쇼트 3위…트리플 악셀 성공",
+          "url": "https://www.yna.co.kr/view/AKR20261115018700007",
+          "source": "연합뉴스"
         },
         {
-          "title": "미국 항공대란 여파 6500여편 결항…“15일 완전 정상화 예상”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713173",
-          "source": "KBS 뉴스"
+          "title": "'시니어 무대 첫 메달 보인다' 기대주 김유재, 그랑프리 4차 쇼트프로그램 3위 랭크…'2위와 0.32점 차이'",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/15/MVTDONTBGVTDENLEMNRDOZTBME/",
+          "source": "조선일보"
         },
         {
-          "title": "테러 아닌 낡은 구리선이 발단…항공관제망 노후화가 부른 역대급 미 항공대란",
-          "url": "https://www.koreadaily.com/article/20261114203812294",
-          "source": "미주중앙일보"
+          "title": "'트리플 악셀 성공' 피겨 김유재, 시니어 그랑프리 4차 대회 쇼트 3위…첫 메달 도전",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868444",
+          "source": "뉴시스"
         }
       ]
     },
