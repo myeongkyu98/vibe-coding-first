@@ -1,46 +1,67 @@
 {
-  "updatedAt": "2026-11-15T04:50:25.819Z",
+  "updatedAt": "2026-11-15T05:47:37.177Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 6
-    },
-    {
       "category": "기타",
+      "count": 5
+    },
+    {
+      "category": "스포츠",
+      "count": 3
+    },
+    {
+      "category": "경제",
       "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김성한",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-15T02:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLipkJR2nPJ-MqVrcY5VXjO9CJWODBGzM-qFpnyhxsvi1fcGed0cM1Xo8ZjhA",
-      "category": "연예",
+      "keyword": "차예련",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-15T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKX6pLhcEJvTXTGF720Dzn-cvR5-VRbvWo83k5We4ndIXzfaqk3ly3dzdLNck",
+      "category": "기타",
       "news": [
         {
-          "title": "잠실구장 2032년엔 꼭 만나자…백발 노장과 전설들, 빗속의 작별",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1287334.html",
-          "source": "한겨레"
+          "title": "'학폭 의혹' 차예련, 20년 지기 \"지금의 차예련 응원\"..SNS 공구 없앴다 [Oh!쎈 이슈]",
+          "url": "https://www.koreadaily.com/article/20261113145034652",
+          "source": "미주중앙일보"
         },
         {
-          "title": "르노코리아, '잠실 더 라스트 이닝 by 르노' 성황리 마무리",
-          "url": "https://www.etnews.com/20261115000070",
-          "source": "전자신문"
+          "title": "차예련 20년 친분 미용실 원장 \"단편적 사건들로 사람 인생에 돌 던지지 마라\"",
+          "url": "https://www.news1.kr/society/general-society/6354031",
+          "source": "뉴스1"
         },
         {
-          "title": "[포토] MVP 이병규, 야신에 꾸벅 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/2026111420392575543",
-          "source": "머니투데이"
+          "title": "'고막 손상 학폭·캐디 반말' 의혹 휩싸인 차예련…20년 지기 지인의 눈물 섞인 옹호",
+          "url": "https://www.fnnews.com/news/202611132058155589",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "f-35b",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-15T03:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjIDMhqWjz_wPjq5BkSHi47SZj35NVecC6gTn3PhhB243g53GeEea-syFU8E",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Royal Navy Conducts First Drone Tests from HMS Queen Elizabeth",
+          "url": "https://maritime-executive.com/article/royal-navy-conducts-first-drone-tests-from-hms-queen-elizabeth",
+          "source": "The Maritime Executive"
+        },
+        {
+          "title": "Uncrewed Nyan, AR5 trials advance UK Royal Navy’s hybrid carrier air wing development",
+          "url": "https://www.flightglobal.com/defence/2026/11/uncrewed-nyan-ar5-trials-advance-uk-royal-navys-hybrid-carrier-air-wing-development/",
+          "source": "FlightGlobal"
+        },
+        {
+          "title": "Navy to get jet-powered autonomous wingman for carrier trials as First Sea Lord signs deal",
+          "url": "https://www.forcesnews.com/services/navy/navy-get-jet-powered-autonomous-wingman-carrier-trials-first-sea-lord-signs-deal",
+          "source": "Forces News"
         }
       ]
     },
@@ -58,39 +79,73 @@
           "source": "Chosunbiz"
         },
         {
-          "title": "[사진]김휘집,'오늘도 타점 올렸어' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/14/202611142009776418O",
-          "source": "머니투데이"
-        },
-        {
           "title": "만루 기회 살려 2점차 벌리는 김휘집",
           "url": "https://www.newsis.com/view/NISI20261114_0002292136",
           "source": "뉴시스"
+        },
+        {
+          "title": "[사진]김휘집,'오늘도 타점 올렸어' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/14/202611142009776418O",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "김지찬",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-15T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR31kiWadsa0oW8x6OU55JOBbSYz0Y4h3V6UdBIT_5Ux02FsYhv7OKPKhUSjvg",
-      "category": "스포츠",
+      "keyword": "최예나",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T04:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "수출",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHohHhQyg4qsVMCv0TCQtU0sEOHhekMDCbFMwY4nGyxbt-pO4mkaMkSq32EKo",
+      "category": "경제",
       "news": [
         {
-          "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710671",
-          "source": "KBS 뉴스"
+          "title": "AI 특수에 ICT 수출 703억달러‥증가율 202% '역대 최고'",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6865752_36932.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "중전 안타로 진루하는 김민석",
-          "url": "https://www.newsis.com/view/NISI20261113_0002291780",
-          "source": "뉴시스"
+          "title": "10월 정보통신산업(ICT) 수출액, 전년 동기 대비 202.0% 성장",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261115.99099004272",
+          "source": "국제신문"
         },
         {
-          "title": "일본 매체 “APBC 호주전서 흐름 바꾼 김지찬, 한일전서 주목해야”",
-          "url": "https://www.donga.com/news/Sports/article/all/20261113/135020908/1",
-          "source": "동아일보"
+          "title": "AI 산업 ‘인간 가속기’ 젠슨 황 사퇴 직전 한 달, D램 수출 595%↑",
+          "url": "https://www.hani.co.kr/arti/economy/marketing/1287364.html",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
+      "keyword": "범죄자",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T04:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtI1sYlUfAr9Lmr_yFhsOwoUBJvlu7cFh446X4G4uE5s7G2MDTWdAzA8W_5j8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "범죄자도 아닌데 계좌 묶여…\"직원 월급도 못줄 판\" 패닉 [사장님 고충백서]",
+          "url": "https://www.hankyung.com/article/202611146105i",
+          "source": "한국경제"
+        },
+        {
+          "title": "모르는 돈 들어와 계좌 묶였다면 돌려줘야 할까⋯법원 \"부당이득 반환 의무 없다\"",
+          "url": "https://lawtalknews.co.kr/article/S71WC27P3ZPB",
+          "source": "로톡뉴스"
+        },
+        {
+          "title": "사기범 돈줄 막다가 억울한 계좌주 속출… 금융사기 구제 딜레마",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000539",
+          "source": "IT조선"
         }
       ]
     },
@@ -108,9 +163,9 @@
           "source": "Sherdog"
         },
         {
-          "title": "Why Caio Borralho Needs a Statement Finish at UFC 334 – And What Happens If Yousri Belgaroui Pulls the Upset?",
-          "url": "https://www.yardbarker.com/mma/articles/why_caio_borralho_needs_a_statement_finish_at_ufc_334_and_what_happens_if_yousri_belgaroui_pulls_the_upset/s1_17615_44557092",
-          "source": "Yardbarker"
+          "title": "\"Bite My…\" – UFC 334 Presser Gets Wild as Caio Borralho Responds to Opponent's \"Kill\" Threats",
+          "url": "https://twaslnews1.twaslnews.com/7672857/",
+          "source": "شبكة تواصل الإخبارية"
         },
         {
           "title": "UFC 334 live blog: Caio Borralho vs. Yousri Belgaroui",
@@ -120,59 +175,9 @@
       ]
     },
     {
-      "keyword": "케빈 홀랜드",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T03:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDbJTzNxaP_ar9JufIzVzxOZqcF7tRlCsaf9djw4FywG1Xgm3zDuCU58F2Suo",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Uros Medic vs. Kevin Holland prediction, pick, start time, odds for UFC 334",
-          "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/14/uros-medic-vs-kevin-holland-ufc-334-prediction-expert-pick/92771950007/",
-          "source": "MMA Junkie"
-        },
-        {
-          "title": "UFC 334: Confusion reigns in Uros Medic vs. Kevin Holland after Bruce Buffer misreads cards in bizarre majority draw",
-          "url": "https://sports.yahoo.com/mma/article/ufc-334-confusion-reigns-in-uros-medic-vs-kevin-holland-after-bruce-buffer-misreads-cards-in-bizarre-majority-draw-040921507.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "UFC 334 live STREA.M Gane vs. Hokit updates, round-by-round Today",
-          "url": "https://www.prpeak.com/classifieds/events/community-events/2173024",
-          "source": "Powell River Peak"
-        }
-      ]
-    },
-    {
-      "keyword": "박지현",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T02:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFDsoFyTpKSOuwhFLbiBEPSc3UhAMQA0VdayOpr9QvHraX8987-H-EtEnmH1E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "나 혼자 산다",
-          "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100005&type=Clip",
-          "source": "MBC"
-        },
-        {
-          "title": "\"일주일 이상 집 못 들어가기도\" 박지현, 행사철마다 모텔 전전",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GM4TSZBZHBTGEYJSGZRWEZBSGY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
       "keyword": "카르다노",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-15T03:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCF4hk5ryEGV8QPOFxFOFq8mJa8_7fSRTWidzcaDvT3uwYqmS951ZYHv78Sq0",
       "category": "기타",
@@ -195,79 +200,38 @@
       ]
     },
     {
-      "keyword": "축제",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T03:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2BqHHu94GhhC3E4q5PGAQ2-TPz8AK0qzHX0TFaxGaeCkzrHcvfC-1dx16sU",
-      "category": "생활·날씨",
+      "keyword": "uroš medić",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T03:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFJ8XayEf8mepfTEaVnlvbyu3G4_haPHXp7zYJM22Yxv856Bo7CyP5AE4NQuU",
+      "category": "스포츠",
       "news": [
         {
-          "title": "제천 빨간 오뎅 축제, 내년엔 도심서 열린다…1월 22일 개막",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261115010004850",
-          "source": "중도일보"
+          "title": "UFC 334: Confusion reigns in Uros Medic vs. Kevin Holland after Bruce Buffer reads wrong scores in bizarre draw",
+          "url": "https://sports.yahoo.com/mma/article/ufc-334-confusion-reigns-in-uros-medic-vs-kevin-holland-after-bruce-buffer-reads-wrong-scores-in-bizarre-majority-draw-041030152.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "제천시, ‘제3회 제천빨간오뎅축제’ 내년 1월 22일 개막",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193142",
-          "source": "금강일보"
+          "title": "UFC 334 live blog: Uros Medic vs. Kevin Holland",
+          "url": "https://www.mmafighting.com/ufc/521230/ufc-334-live-blog-uros-medic-vs-kevin-holland",
+          "source": "MMA Fighting"
         },
         {
-          "title": "제천시, '빨간오뎅축제' 원도심으로 옮긴다…내년 1월 22일 개막",
-          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083396",
-          "source": "신아일보"
+          "title": "Kevin Holland believed he did enough to win at UFC 334, \"But I'm not a judge\"",
+          "url": "https://www.usatoday.com/videos/sports/ufc/2026/11/14/kevin-holland-believed-he-did-enough-to-win-at-ufc-334-but-im-not-a-judge/92792519007/",
+          "source": "USA Today"
         }
       ]
     },
     {
-      "keyword": "nz vs ind",
+      "keyword": "케이조선",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-15T02:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmfkABjm0ok32s0aWPRiOCqu7l4LMnWyomD4XCIwQSFuQ380Nb8zcCB2ZgH0Y",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Virat Kohli, Rohit Sharma score 5 and 7 in potentially their last match on New Zealand soil | To follow the match live | Inshorts",
-          "url": "https://inshorts.com/en/news/virat-kohli--rohit-sharma-score-5-and-7-in-potentially-their-last-match-on-new-zealand-soil-1794711034580",
-          "source": "Inshorts"
-        },
-        {
-          "title": "What's Going Wrong With Rohit Sharma? Mohammad Kaif Spots Technical Flaw",
-          "url": "https://www.rediff.com/cricket/report/whats-going-wrong-with-rohit-sharma-mohammad-kaif-spots-technical-flaw/20261114.htm",
-          "source": "Rediff"
-        },
-        {
-          "title": "116 runs, 8 innings: Rohit, Kohli end disaster New Zealand tour with near all-time lows",
-          "url": "https://indianexpress.com/article/sports/cricket/rohit-sharma-virat-kohli-116-runs-8-innings-ind-vs-nz-series-all-time-low-10963610/",
-          "source": "The Indian Express"
-        }
-      ]
-    },
-    {
-      "keyword": "jamaica vs mexico",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T02:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyvPG90AVoV2kXKs_xySGrw_v2iWwQDVXYigemB0gZU21b0WRHTm8FeVTXXBA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Del sueño mundialista a la pesadilla de Kingston: Jamaica golpea a México",
-          "url": "https://www.si.com/mx/futbol/del-sueno-mundialista-a-la-pesadilla-de-kingston-jamaica-golpea-a-mexico",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Preocupa a Márquez accionar de la Selección Mexicana",
-          "url": "https://www.reforma.com/preocupa-a-marquez-accionar-de-la-seleccion-mexicana/ar3315016",
-          "source": "Reforma"
-        },
-        {
-          "title": "Rafa Márquez suma 5 partidos sin victoria en Selección Mexicana: No sucedía desde 1960",
-          "url": "https://www.excelsior.com.mx/deportes/rafa-marquez-suma-5-partidos-sin-victoria-seleccion-mexicana-no-sucedia-desde-1960",
-          "source": "Excélsior"
-        }
-      ]
+      "startedAt": "2026-11-15T03:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
