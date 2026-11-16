@@ -1,270 +1,255 @@
 {
-  "updatedAt": "2026-11-16T02:49:13.067Z",
+  "updatedAt": "2026-11-16T04:01:54.062Z",
   "summary": [
     {
-      "category": "경제",
+      "category": "기타",
       "count": 4
     },
     {
-      "category": "기타",
+      "category": "정치·사회",
       "count": 3
     },
     {
-      "category": "연예",
-      "count": 1
-    },
-    {
       "category": "IT·과학",
-      "count": 1
+      "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "박혜연",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-16T00:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUNuMKMJydIBVkjcoJdYXsCMCpwCBlkXxVVYss7E4RNGdwRQMuOS2CeygiY90",
-      "category": "연예",
-      "news": [
-        {
-          "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268?div=live_end",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "\"전 안돼요?\" 김승수, 53세에 전한 핑크빛 소식..♥박혜연과 커플 탄생하나[핫피플]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HEZWMZTGME3TQMLCHAZTGYJUGM/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "무역",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T01:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKE0Lq5enfsp-pVf7Bwf3R2IBQxlgh2dgoz0IOmJTiCi1SA02_-17ITZ9S72w",
-      "category": "경제",
-      "news": [
-        {
-          "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
-          "url": "https://www.hankyung.com/article/2026111575161",
-          "source": "한국경제"
-        },
-        {
-          "title": "미국·독일·중국과 다른 한국의 수출 1조…가야 할 길은 - 머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/15/2026111308301356298",
-          "source": "머니투데이"
-        },
-        {
-          "title": "韓석유제품, 濠·유럽 에너지 안보 구원투수로",
-          "url": "https://www.sedaily.com/article/20114510",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "즉석밥",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T01:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhL46qeqtYKKzUE9UY6h_gl76fspRrEqntyTfS0qqWyncrEIg8owrg-wm6pxA",
+      "keyword": "담합",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T02:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvIXVCsLmOfhV5hWf7bQzmv28crssRFlwaMLflgTATr-e860C-Uniqx57DpJs",
       "category": "IT·과학",
       "news": [
         {
-          "title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
-          "url": "https://cjnews.cj.net/cj%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9-%ED%96%87%EB%B0%98-30%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%ED%95%9C%EC%A0%95%ED%8C%90-%EC%8B%A0%EC%A0%9C%ED%92%88-%ED%96%87%EB%B0%98-30%EA%B3%A1/",
-          "source": "CJ 뉴스룸"
+          "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
+          "url": "https://www.newspim.com/news/view/20261116000287",
+          "source": "뉴스핌"
         },
         {
-          "title": "현미·귀리 등 30가지 곡물 배합…햇반 30주년 한정판 ‘햇반 30곡밥’ 출시",
-          "url": "https://www.donga.com/news/Economy/article/all/20261116/135030711/1",
-          "source": "동아일보"
+          "title": "삼성·SK하이닉스·마이크론, D램 700% 폭등 담합 소송서 \"AI 수요 탓\" 정면 반박",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611141956134528fbbec65dfb_1",
+          "source": "글로벌이코노믹"
         },
         {
-          "title": "[오늘의신상]밥 소믈리에 나섰다…30년 역량 집약 '햇반 30곡밥'",
-          "url": "https://view.asiae.co.kr/article/2026111609080362194",
-          "source": "아시아경제"
+          "title": "\"매들의 편대비행\" 美법원, 메모리3사 D램 담합소송 기각 않고 진행",
+          "url": "https://www.news1.kr/world/usa-canada/6355175",
+          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "이현중",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T01:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLR2adx-IwwyRgwtfxj_MM-G9wdrS-0_hRUDIUkkYjsaqjQFAdudKyek009Ek",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "이현중, G리그서 커리어 하이 폭발…NBA 향한 ‘무력시위’",
-          "url": "https://www.kyeonggi.com/article/20261115580211",
-          "source": "경기일보"
-        },
-        {
-          "title": "'3점슛 성공률 57.1％' 국가대표 이현중, '21점' G리그 진출 뒤 최다 득점 폭발",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/15/GA2GMZJWHFRTKYRQHE3GMNJUMU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "몸 풀린 이현중…최다 득점 경신+탄탄한 수비, 본격적인 경쟁력 과시",
-          "url": "https://sports.donga.com/sports/article/all/20261115/135026684/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "초고층",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T00:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPIxA2wAeMJrBNPvqxjjKaC8x4Xx9a4BE2DpovsRyH9Rk5McZyfoui_Ck_Kdw",
+      "keyword": "주가조작",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T02:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSui3yiEEPvSnI17jMyLXFkq74So9jK1q-H1JIRt7xroElSzl_Qe8db_QR_KOA",
       "category": "경제",
       "news": [
         {
-          "title": "월 2만원 내던 아파트 수선비, 초고층은 20만원…그래도 사실 건가요?[올앳부동산]",
-          "url": "https://www.khan.co.kr/article/202611160600061",
+          "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 선고…구속 만료 하루 전 결론",
+          "url": "https://www.khan.co.kr/article/202611161012021",
           "source": "경향신문"
         },
         {
-          "title": "\"고층 아파트, 10년 뒤 흉물 된다\"…건축 전문가의 섬뜩한 경고",
-          "url": "https://www.newsis.com/view/NISX20261113_0003867279",
-          "source": "뉴시스"
+          "title": "[속보] 대법, 한덕수 내란중요임무 19일 선고…구속만료 하루전",
+          "url": "https://news.jtbc.co.kr/article/NB12328223",
+          "source": "JTBC"
         },
         {
-          "title": "\"높을수록 비싸다\"...초고층 단지 신고가에 건설사들 '높이 경쟁'",
-          "url": "https://www.newsway.co.kr/news/view?ud=2026111311170186339",
-          "source": "뉴스웨이"
+          "title": "여 “내란 재판 왜 늦어지나”-야 “특검법 의결시 ‘탈옥’ 공범”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713744",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "커버드 콜",
+      "keyword": "이무생",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-16T02:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "한화그룹",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-16T00:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLcHw9LFSdA19mVpzZjSpZKgu3btbtPvr2KyY_9rekiDarV6J85Us8bHZyZKY",
+      "startedAt": "2026-11-16T02:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHRXyoPfyB9tA6KC7r-kVtkhD8FY4UzvvQTVEL2900xZ99TiQOuXiGOch9L8",
       "category": "기타",
       "news": [
         {
-          "title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
-          "url": "https://www.hankyung.com/article/202611167754i",
-          "source": "한국경제"
+          "title": "삼성·SK·네이버가 샀지만…한화 100억대 초호화 레지던스 절반 미분양",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/13/2026111301362.html",
+          "source": "땅집고"
         },
         {
-          "title": "[자산관리와 절세] \"ETF는 안 됩니다\" 배당 분리과세의 숨은 한 줄",
-          "url": "https://theviewers.co.kr/View.aspx?No=4312474",
-          "source": "뷰어스"
+          "title": "[단독]한화 김동관의 200억대 레지던스 분양률 40%, 누가 샀나",
+          "url": "https://namdi.co.kr/?p=30117",
+          "source": "남다른디테일"
+        },
+        {
+          "title": "[단독]시동걸자 600마력 엔진 ‘윙’, 시속 100km 바퀴 단 K9 ‘美상륙작전’",
+          "url": "https://www.donga.com/news/Economy/article/all/20261116/135028854/2",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "청년미래적금",
+      "keyword": "이재명",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T01:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLpdgLq510F6D1jBrayIp9TcBfUf4FbLQP9iWUIBxnyb_hBo2VA0nknmeaIO0",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 카드/한컷 | 멀티미디어",
+          "url": "https://m.korea.kr/multi/visualNewsView.do?newsId=148975751&pWise=mSub&pWiseSub=I1",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "이 대통령 \"높아진 위상 걸맞게 국익 지키고 역할 확대\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865914_36911.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보] 이 대통령, 17일 필리핀서 다카이치와 4번째 한·일 정상회담···셔틀외교 이어간다",
+          "url": "https://www.khan.co.kr/article/202611161100001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "우주",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T01:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzdpjLTAOqsBmqATvLMHN2tY_8WfPsPVV3RtJjp5PI-3mkCB5kSwrxpr3cGMg",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "‘우주의 새벽’은 어떻게 열렸나…슈퍼컴이 재현한 빅뱅 후 20억년",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1287480.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "초기 우주에 대한 가장 상세한 모델이 공개되었습니다.",
+          "url": "https://www.vietnam.vn/ko/cong-bo-mo-hinh-chi-tiet-nhat-tu-truoc-den-nay-ve-vu-tru-so-khai",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "코레일관광네트웍스, 누리호 5차 발사 기념 '우주과학열차' 운행",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752962",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "예멘",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-16T00:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKpk9xCUyG8VOTOa-LW259Js0Ur5wLceTB5pl--3yfRRMPntEFpLwzWNT2BoM",
-      "category": "경제",
+      "startedAt": "2026-11-16T02:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIOgf2rL-UTUqP2rJ-DsNXnvTnoqMdGLncNiAfvvPBF9nHhMWZiZ9jhk7J8Oo",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "최대 금리 8%? 청년미래적금도 빈익빈부익부",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56918",
-          "source": "주간조선"
+          "title": "“후티 공세에 예멘 정부군, 바브엘만데브 해협서 사실상 철수”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713291",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "청년미래적금 2차 계좌 개설 시작…27일까지",
-          "url": "https://focustimes.co.kr/View.aspx?No=4313700",
-          "source": "포커스타임즈"
+          "title": "홍해 길목서 후퇴한 친사우디군…이란은 바레인에 드론 공격",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01302166645646376",
+          "source": "마켓인"
         },
         {
-          "title": "'취준생' 못 받는 청년미래적금…소득 없으면 가입 문턱부터 막혀",
-          "url": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=11252",
-          "source": "리드경제"
+          "title": "후티, \"정부군의 라이주 진지 퇴각으로 임시수도 아덴에 육박\" 주장",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868752",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "공직",
+      "keyword": "청주시",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-16T00:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScRa647xFVVrNGJ1S1Axam5_fYHwyuiKU88gkp2Q-zXGQA7XNiKT-JgKkjtXs",
+      "startedAt": "2026-11-16T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn1SQTrBXbYfYT16SpKmMmHIQFJw3E5J-A6osgEaF3058UHAIHA0pKBDUW5jk",
       "category": "기타",
       "news": [
         {
-          "title": "군위군, 소통‧화합으로 하나되는 공직문화 만든다!",
-          "url": "https://www.dailydgnews.com/news/article.html?no=269252",
-          "source": "데일리대구경북뉴스"
+          "title": "청주 김장재료 28개 품목 구입비 34만3천원…작년보다 3.4%↑",
+          "url": "https://www.yna.co.kr/view/AKR20261116037300064",
+          "source": "연합뉴스"
         },
         {
-          "title": "인천 미추홀구, ‘선례보다 주민 불편 먼저’…적극행정 현장 대응력 높인다",
-          "url": "https://sports.donga.com/region/article/all/20261112/135012970/1",
-          "source": "스포츠동아"
+          "title": "청주시 김장비용 상승…양념류 가격 급등이 원인",
+          "url": "https://www.viva100.com/article/20261116500209",
+          "source": "브릿지경제"
         },
         {
-          "title": "평택해경, 박경순 전 총경 초청…현장 중심 적극행정 교육 실시",
-          "url": "https://www.m-i.kr/news/articleView.html?idxno=2017729",
-          "source": "매일일보"
+          "title": "'금새우' 작년보다 30% 급등…청주 김장재료비 3.4%↑",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6355133",
+          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "공모",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T01:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVsnkArwgoEU2yFZu0DNSDvl-l0kRu6ouUMW9er719gWZ-v4_FuwHwtvXzpQ",
-      "category": "경제",
+      "keyword": "조선민주주의인민공화국",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzWVQS5koRN7WcxxVy1zhXAR0SAsc4GZnNpoEYA3NpEFfo9JnSfb3Kx4doV0g",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 '역대 최대규모' - 머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111608263796946",
-          "source": "머니투데이"
+          "title": "통일부 “북한 조용원, 미중러회담 앞두고 방러…관련 동향 주시”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713693",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "삼성바이오로직스, 유상증자에 11.4조 몰렸다… M&A 자금 확보",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001082",
-          "source": "IT조선"
+          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+          "source": "YTN"
         },
         {
-          "title": "삼성바이오, 2.7조 유증 청약률 96.8%…한미 MASH 신약 2b상 성과 [바이오 주간 결산]",
-          "url": "https://pharm.edaily.co.kr/News/Read?newsId=01144726645646048",
-          "source": "팜이데일리"
+          "title": "'김정은 최측근' 조용원 방러…北 \"동맹관계 날로 고도화\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261115005651504",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "카우보이스 대 포티나이너스",
+      "keyword": "한소희",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-16T00:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsI5GT-FVRT_AFbIV3yzkfFTJPQpZGAJg4i5p2-e-JIKQ7nw9q0FNOPzFfS0s",
+      "startedAt": "2026-11-16T02:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7P-36_PM3HuCewnINmEMO4Gwa7wPyP2-7_Zy82IP_moF5CvYAW5_vxZbHt8M",
       "category": "기타",
       "news": [
         {
-          "title": "Burrow's drag-route connection with Chase yields 35-yard gain with access to Steelers' territory",
-          "url": "https://www.nfl.com/videos/burrow-s-drag-route-connection-with-chase-yields-35-yard-gain-with-access-to-steelers-territory",
-          "source": "NFL.com"
+          "title": "bhc, 한소희와 신메뉴 '알싹킹' TV 광고 선보인다…'팜걸코어' 접목",
+          "url": "https://www.news1.kr/industry/distribution/6354843",
+          "source": "뉴스1"
         },
         {
-          "title": "Principal Owner & Chair Sheila Hamp on Lions' presence in Munich: 'Our fans are the best'",
-          "url": "https://www.detroitlions.com/news/sheila-hamp-on-lions-presence-in-munich-our-fans-are-the-best",
-          "source": "Detroit Lions"
+          "title": "bhc, 한소희와 함께한 신메뉴 '알싹킹' TV 광고 온에어",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=782156",
+          "source": "싱글리스트"
         },
         {
-          "title": "Lions fans flock to German restaurant Dakota Inn in Detroit for overseas game",
-          "url": "https://www.cbsnews.com/detroit/news/detroit-lions-fans-germany-dakota-inn/",
-          "source": "CBS News"
+          "title": "[슬소생]양념치킨은 눅눅하다?…bhc는 달랐다",
+          "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/11/0019",
+          "source": "비즈워치"
         }
       ]
     }
