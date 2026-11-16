@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-16T19:51:52.501Z",
+  "updatedAt": "2026-11-16T20:44:59.874Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 4
     },
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 3
     },
     {
@@ -19,31 +19,6 @@
     }
   ],
   "items": [
-    {
-      "keyword": "드라마",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-16T14:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4X3cobkv5tnnkCn27qn-h1B_33zU_KGNU5yKWhoZoCe-Xtn2Wn6nrCXFcI5A",
-      "category": "연예",
-      "news": [
-        {
-          "title": "스푼랩스 ‘비글루’, AI 숏드라마 2차 공모전 연다",
-          "url": "https://zdnet.co.kr/view/?no=20261116165905",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "\"클링 AI로 만드는 숏드라마\"…비글루, 새 IP 찾는다",
-          "url": "https://www.ddaily.co.kr/page/view/2026111618282434761",
-          "source": "디지털데일리"
-        },
-        {
-          "title": "디딤돌·미래디지털AI협회, 'AI 숏드라마 실전반 1기' 개강… AI 영상 제작 본격 실습",
-          "url": "https://www.youthassembly.kr/news/1037290",
-          "source": "유스연합"
-        }
-      ]
-    },
     {
       "keyword": "로버트 패틴슨",
       "traffic": "1000+",
@@ -58,14 +33,39 @@
           "source": "연합뉴스"
         },
         {
-          "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
-          "url": "https://www.hankookilbo.com/news/article/A2026111700500000146",
-          "source": "한국일보"
+          "title": "조쉬 오코너·칼럼 터너 말고 누구? … 주디 덴치가 추천한 차기 제임스 본드 [할리웃통신]",
+          "url": "https://tvreport.co.kr/world/article/1091339/",
+          "source": "TV리포트"
         },
         {
-          "title": "\"뱀파이어에서 제임스 본드까지…\" 차기 007 유력한 로버트 패틴슨, 이유는?",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100098520009172",
-          "source": "스포츠조선"
+          "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정 | Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/11/robert-pattinson-officially-next-james-bond-announcement",
+          "source": "Hypebeast.KR"
+        }
+      ]
+    },
+    {
+      "keyword": "독일 대 네덜란드",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T19:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm7h5DJ7nsDFE_BLvjMTa6K8ZcKuLVmEHnhgKDswY-T_e6B_ewfPLWhanDDD4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
+          "url": "https://www.yna.co.kr/view/AKR20261114016200007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "네덜란드, 그리스 7대0 대파… 네이션스리그 8강 진출 청신호",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/14/3J7CZZTQLJDITCXIZ6SKUIBKAU/",
+          "source": "조선일보"
         }
       ]
     },
@@ -83,9 +83,9 @@
           "source": "The New York Times"
         },
         {
-          "title": "How ‘Twilight’ Predicted Robert Pattinson’s James Bond Casting",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/twilight-predicted-robert-pattinson-james-bond-casting-1236756443/",
-          "source": "The Hollywood Reporter"
+          "title": "Watch Robert Pattinson Is New James Bond in Amazon’s Reboot",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
+          "source": "Bloomberg.com"
         },
         {
           "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
@@ -95,27 +95,52 @@
       ]
     },
     {
-      "keyword": "김주혁",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T14:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYfiaDc7VClgE1pyx0qr2F1kJl0uQPeaeYgust6ujB2BDoBvnDbeHVJMVxYpc",
-      "category": "기타",
+      "keyword": "임예진",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T18:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KfqF7Z2ghwFQipC_MK6mWfPn1qXCnu6SHO6Llso7jcSxSPdRa_vyASNUDWQ",
+      "category": "경제",
       "news": [
         {
-          "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
-          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514",
-          "source": "programs.sbs.co.kr"
+          "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
+          "url": "https://www.fnnews.com/news/202611150830151414",
+          "source": "파이낸셜뉴스"
         },
         {
-          "title": "우리들의 발라드 2 : 임바다×허채민, 짙은 호소력으로 탑백귀에게 감동 선사한 무대",
-          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483614081",
-          "source": "programs.sbs.co.kr"
+          "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
+          "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058",
+          "source": "서울신문"
         },
         {
-          "title": "변우석, ‘절친’ 주우재 밀어내려 했나 “탑백귀 자리에 앉고 싶다고”(우발라2)",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HBSDGYTBMNTDMOJYMIYDEMZYGA/",
-          "source": "Chosunbiz"
+          "title": "\"기획부동산에 속아\"…임예진, 5000만원에 산 제주 땅 15년 만에 '80만원'",
+          "url": "https://view.asiae.co.kr/article/2026111609045980306",
+          "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "경비원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T17:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7bQK4lF0KsVi3KsfVXMeIg8H8QkI87W7N9BbBt_naMTCiIy1H9d1ecwcE-rQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "“아버지라면 당연히 그랬을 것”…이웃 구하고 떠난 70대 경비원",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713933",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
+          "url": "https://www.donga.com/news/Society/article/all/20261116/135029032/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
+          "url": "https://www.yna.co.kr/view/MYH20261115001300038",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -145,52 +170,52 @@
       ]
     },
     {
-      "keyword": "임예진",
+      "keyword": "장항준",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-16T18:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJPef9SHTcqh_ZQixlsxcSI4UgtUOAvDsFD7oiVrzGjPpvcSrpfKD_CmoWqUs",
-      "category": "경제",
+      "startedAt": "2026-11-16T18:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRUflWswOP-IuPZN4iL529OANEXpzQ-7sqMmjJns3xo7Mui2Sx5DUwU43VG_8",
+      "category": "연예",
       "news": [
         {
-          "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
-          "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058",
-          "source": "서울신문"
+          "title": "장항준, '왕사남' 흥행 수익 26억 스태프들과 나눴다",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611161700574516",
+          "source": "YTN"
         },
         {
-          "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
-          "url": "https://www.fnnews.com/news/202611150830151414",
-          "source": "파이낸셜뉴스"
+          "title": "“계약에도 없던 돈”…장항준, ‘왕사남’ 배우·스태프에 26억 쐈다",
+          "url": "https://www.joongang.co.kr/article/25479103",
+          "source": "중앙일보"
         },
         {
-          "title": "\"기획부동산에 속아\"…임예진, 5000만원에 산 제주 땅 15년 만에 '80만원'",
-          "url": "https://view.asiae.co.kr/article/2026111609045980306",
-          "source": "아시아경제"
+          "title": "유해진·박지훈 제외..'왕사남' 장항준, 흥행 인센티브 26억 스태프에 줬다 '미담 화제' [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MQ2TCOBQG43TKMJTG5SGEMDEME/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "경비원",
+      "keyword": "차장",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-16T17:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7bQK4lF0KsVi3KsfVXMeIg8H8QkI87W7N9BbBt_naMTCiIy1H9d1ecwcE-rQ",
-      "category": "경제",
+      "startedAt": "2026-11-16T17:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00v_5zEsiaYrCgemuLdQEIOCt6VwHL_nfKztErz2I-HgQ9FxfOGj5orb8TZQ",
+      "category": "기타",
       "news": [
         {
-          "title": "“아버지라면 당연히 그랬을 것”…이웃 구하고 떠난 70대 경비원",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713933",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
-          "url": "https://www.donga.com/news/Society/article/all/20261116/135029032/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
-          "url": "https://www.yna.co.kr/view/MYH20261115001300038",
+          "title": "오현주 코이카 이사장 취임 \"사업수행 넘어 개발협력 미래 기획\"",
+          "url": "https://www.yna.co.kr/view/AKR20261116077200371",
           "source": "연합뉴스"
+        },
+        {
+          "title": "“국제 개발원조도 미래 기획으로 가야”",
+          "url": "https://www.dt.co.kr/article/12095534",
+          "source": "www.dt.co.kr"
+        },
+        {
+          "title": "오현주 신임 코이카 이사장 \"통합의 코이카로 재도약…상생 개발협력 실현\"",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869630",
+          "source": "뉴시스"
         }
       ]
     },
@@ -199,23 +224,13 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-16T15:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlHRVwpDBua7xCurnBAFg--Zv7478TqBfu2pjvjndmX2uhV774xzOEx4jvqkM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-Sl2CjLsS5KfmMgEioB5frM7FRyZJ6GanJluC6izdCn4rtnCtvdh3njCsEow",
       "category": "기타",
       "news": [
         {
-          "title": "“전남광주, 판교·마곡처럼 ‘직주락 혁신지구’로 인구댐 쌓아야” [하나 된 전남광주, 함께 여는 인구 대전환]",
-          "url": "https://m.go.seoul.co.kr/news/plan/2026/11/17/20261117012001",
-          "source": "서울Pn"
-        },
-        {
-          "title": "광주·전남 통합 4개월…한·일 전문가, 광역행정 해법 찾는다",
-          "url": "https://view.asiae.co.kr/article/2026111609175323605",
-          "source": "아시아경제"
-        },
-        {
-          "title": "“1·2·3차 산업 엮는 로컬 크리에이터… 지역 정주 열쇠” [하나 된 전남광주, 함께 여는 인구 대전환]",
-          "url": "https://www.seoul.co.kr/news/plan/2026/11/17/20261117012002",
-          "source": "서울신문"
+          "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023",
+          "source": "YTN 사이언스"
         }
       ]
     },
@@ -241,31 +256,6 @@
           "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
           "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
           "source": "https://www.standingout.kr/"
-        }
-      ]
-    },
-    {
-      "keyword": "toki",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T14:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1xDE5eno1KYvqvS7jLqHh6ElEMurhivu1O0jmPkNynR9BW1ncJ91SUIjY9tQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Ankara Polatlı'da 226 TOKİ Konutu İçin Kura 17 Kasım'da: Sonuçlar Nasıl Öğrenilecek?",
-          "url": "https://www.dogayidinle.com/kentlesme/ankara-polatlida-226-toki-konutu-icin-kura-17-kasimda-sonuclar-nasil-ogrenilecek/10146",
-          "source": "Doğayı Dinle"
-        },
-        {
-          "title": "TOKİ Düzce'de konut belirleme kurası tamamlandı",
-          "url": "https://www.emlakpencerem.com.tr/toki-duzcede-konut-belirleme-kurasi-tamamlandi/117173",
-          "source": "Emlak Pencerem"
-        },
-        {
-          "title": "Isparta TOKİ kura çekimi ne zaman? Aksu ve Keçiborlu TOKİ kura tarihleri açıklandı",
-          "url": "https://www.demokrat32.com/isparta-toki-kura-cekimi-ne-zaman-aksu-ve-keciborlu-toki-kura-tarihleri-aciklandi",
-          "source": "Demokrat32.com"
         }
       ]
     }
