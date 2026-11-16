@@ -1,146 +1,150 @@
 {
-  "updatedAt": "2026-11-16T14:54:39.914Z",
+  "updatedAt": "2026-11-16T16:37:31.461Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 5
     },
     {
-      "category": "경제",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "간호",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-16T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAQ4YNt0wIs6dnEUKPj7AJp5nTuZfvfsDsfJHdgX54BEu6TspXnwHNCOLBSpY",
-      "category": "기타",
+      "keyword": "드라마",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-16T14:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFkFKobBLFXuq3x3K5NkBS271WwvNPQIqP5diJerVKXFovfgHvE8V9aUAYEtk",
+      "category": "연예",
       "news": [
         {
-          "title": "“이건 정신병동 냄새인데”…전철서 탈출 환자 신고한 간호대생",
-          "url": "https://www.donga.com/news/Society/article/all/20261116/135032608/2",
-          "source": "동아일보"
+          "title": "고수, '나인투식스'로 15년 만의 로맨스 복귀…\"이번 작품서 내 비주얼 살짝 아쉬워\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848354",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "정신병원 무단이탈 20대, 간호학과 대학생 눈썰미에 3시간 만에 발견",
-          "url": "https://www.kyeonggi.com/article/20261116580504",
-          "source": "경기일보"
+          "title": "[드라마 속 음악②] \"마지막 장면이 가장 중요\"…OST 제작의 숨은 공식",
+          "url": "https://news.tf.co.kr/read/entertain/2389544.htm",
+          "source": "더팩트"
         },
         {
-          "title": "지하철서 환자복 차림 보고 신고…간호학과 학생에 표창 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/16/2026111619153131105",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "성장주",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-16T12:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7L8U928lXvI4ym9FXAArw12pN792z8AdIj7gkMSIRz2N7JSRb4YhPw0T2bkQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"지금 팔면 후회?\"…삼전닉스 반등 확률 90% 분석 나왔다 [투자톡]",
-          "url": "https://www.hankyung.com/article/2026111353166",
-          "source": "한국경제"
-        },
-        {
-          "title": "‘반도체 공포’에 하락장 베팅한 개미들…인버스 대량 매수 [주식고수]",
-          "url": "https://www.segye.com/newsView/20261116507395",
-          "source": "세계일보"
-        },
-        {
-          "title": "삼성SDI, 순매수 2.8배 증가... 하이닉스는 1위에서 15위 밖 [1% 고수의 선택]",
-          "url": "https://busan.fnnews.com/news/202611151911457960",
-          "source": "부산파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "보안",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-16T10:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZbJx1vEIGhJeg6rR7eQaQgBxEivjnb2FOSPnjhnaL82zF9GMGs-Zp1Nwf8c8",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "“AI 사이버 위협 공동대응”... 청와대, 민·관·군 IT 자산 관리 체계 점검",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147274",
-          "source": "보안뉴스"
-        },
-        {
-          "title": "“AI로 다 뚫는다”…AI 해킹, AI로 막을 순 없을까? [경제한방]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712838",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[이상직 변호사의 생성과 소멸] 〈32〉AI시대 보안(상):사이버 공격, 각개전투로는 막을 수 없다",
-          "url": "https://www.etnews.com/20261116000044",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "나솔",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T10:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuzd6kZ0RzbrXsqi7XNUX6rfSVCzCAp_7WbaJMfPqcgBRpn2l4Q2L3bcL9WY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'나솔' 31기 옥순 \"'취집' 오해 억울\"…영호와 재결합설 일축 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111519355822809",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘나는 솔로’ 31기 영호, 옥순과 결별 공식 인정…“재회 생각 없다”",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12209089",
-          "source": "매일경제"
-        },
-        {
-          "title": "‘나솔’ 31기 영호, 직접 등판 “옥순과 결별 맞다…내 치과도 별점 테러 피해”",
-          "url": "https://sports.khan.co.kr/article/202611151016003",
+          "title": "‘북부대공’ 최산, 박민영·육성재 큐피드 된다",
+          "url": "https://sports.khan.co.kr/article/202611161717003",
           "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "한국고속철도",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T13:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXgbv0mgSPuarS834MNDDiW4zGFUvSv-d9nY9ds8WaMHTy70dAj8jCMxIOxwg",
+      "keyword": "로버트 패틴슨",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-16T15:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPIUnmBGGuOCJihKArUc4nbGMIYCfuCTQ_ZESH0rjPRx-XN0PLXLSgH24NzQ",
       "category": "기타",
       "news": [
         {
-          "title": "KTX-SRT 통합 두달, 전남광주 이용객 9% 증가",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713247",
-          "source": "KBS 뉴스"
+          "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정",
+          "url": "https://hypebeast.kr/2026/11/robert-pattinson-officially-next-james-bond-announcement",
+          "source": "Hypebeast.KR"
         },
         {
-          "title": "KTX-SRT 통합 두 달 동안 전남광주 철도 이용객 9.2% 늘어 - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/16/2026111609363678869",
-          "source": "머니투데이"
+          "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
+          "url": "https://www.hankookilbo.com/news/article/A2026111700500000146?dtypecode=pancode_world",
+          "source": "한국일보"
         },
         {
-          "title": "고속철도 통합 뒤 전남광주 주요 역 이용객 9.2% 증가…목포역 21.9%",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752284",
+          "title": "\"뱀파이어에서 제임스 본드까지…\" 차기 007 유력한 로버트 패틴슨, 이유는?",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100098520009172",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "김주혁",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T14:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYfiaDc7VClgE1pyx0qr2F1kJl0uQPeaeYgust6ujB2BDoBvnDbeHVJMVxYpc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
+          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "우리들의 발라드 2 : 임바다×허채민, 짙은 호소력으로 탑백귀에게 감동 선사한 무대",
+          "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483614081",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "변우석, ‘절친’ 주우재 밀어내려 했나 “탑백귀 자리에 앉고 싶다고”(우발라2)",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HBSDGYTBMNTDMOJYMIYDEMZYGA/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "한국고속철도",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T13:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI0JuHy4xKVR_YcUZJIF-avL8n1ipObBll8D0auxGLhmqAW763xz-U6r-cpv8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "퇴역 앞둔 KTX, 고속 화물열차로 변신하나…코레일 사업화 검토",
+          "url": "https://www.news1.kr/realestate/general/6353729",
+          "source": "뉴스1"
+        },
+        {
+          "title": "퇴역 앞둔 KTX, 고속 화물열차 변신 검토",
+          "url": "https://news.jtbc.co.kr/article/NB12328254",
+          "source": "JTBC"
+        },
+        {
+          "title": "수명 다한 KTX, 화물열차로 재탄생하나 ... 고부가가치 특수 컨테이너 도입도 검토",
+          "url": "https://www.queen.co.kr/news/articleView.html?idxno=466372",
+          "source": "Queen 이코노미퀸"
+        }
+      ]
+    },
+    {
+      "keyword": "추미애",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T15:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ36mxIfJ-saNZbb7zQYIAGTtvop08kFafMw8CKF25s1NBZ1m1USniSOU6HA9k",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
+          "url": "https://www.etnews.com/20261116000545",
+          "source": "전자신문"
+        },
+        {
+          "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
           "source": "국제뉴스"
+        },
+        {
+          "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
+          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161447356798C117&s_code=daily",
+          "source": "경기도뉴스포털"
         }
       ]
     },
@@ -163,9 +167,9 @@
           "source": "뉴데일리"
         },
         {
-          "title": "[fn광장] '한미동맹' 없이는 평화도 없다",
-          "url": "https://busan.fnnews.com/news/202611151921309834",
-          "source": "부산파이낸셜뉴스"
+          "title": "[朝鮮칼럼] 북·중·러 위협 속 한미동맹의 새로운 전략",
+          "url": "https://www.chosun.com/opinion/chosun_column/2026/11/16/F2NGGNEI25GJDIVVJCSNPBMLGE/",
+          "source": "조선일보"
         }
       ]
     },
@@ -188,84 +192,84 @@
           "source": "머니투데이"
         },
         {
-          "title": "동국생명과학, ‘DK Luonix’로 사명 변경 추진…ME 사업 정리하고 글로벌 전환",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315469",
-          "source": "스트레이트뉴스"
+          "title": "동국생명과학, 글로벌 성장 기반 강화 및 사업구조 재편",
+          "url": "https://zdnet.co.kr/view/?no=20261116170331",
+          "source": "지디넷코리아"
         }
       ]
     },
     {
-      "keyword": "cuaca besok",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQSdUOoyBaAL_0cxUNG0-Nr5rxtKkvkctIFXbVw5WzU28c_3UQZb-2_vCa3n4",
+      "keyword": "다시보기",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-Sl2CjLsS5KfmMgEioB5frM7FRyZJ6GanJluC6izdCn4rtnCtvdh3njCsEow",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "[이시각헤드라인] 11월 16일 뉴스투나잇",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611162143582zB",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "[여담야담] 초유의 'AI 커닝' 시인…사흘 남은 수능 어쩌나?",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847977",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "최우제",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T15:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0mJOnU3NqFnwbgPHP2uX5y4miVuBRg_Prx7J-6bugvPCLoyZl-ouGgSkaeOI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[뉴스워커_스포츠] 롤 인벤·롤갤 뒤집은 제우스 복귀설... 정작 티원은 침묵 중",
+          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513543",
+          "source": "뉴스워커"
+        },
+        {
+          "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
+          "url": "https://www.etoday.co.kr/news/view/2647803",
+          "source": "이투데이"
+        },
+        {
+          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
+          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
+          "source": "https://www.standingout.kr/"
+        }
+      ]
+    },
+    {
+      "keyword": "toki",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T14:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVI1M0J1qTxg_oDH-Fe8PIH7w62TBy72_3fRlzzHo8Iul3Ccinlmq-9Ho7Fek",
       "category": "기타",
       "news": [
         {
-          "title": "Peringatan Cuaca BMKG: Hujan Lebat Disertai Petir Mengancam Kabupaten Maros Malam Ini, Mulai Pukul 19.30 WIB",
-          "url": "https://databoks.katadata.co.id/demografi/statistik/c3a8d97bdb5ee53/peringatan-cuaca-bmkg-hujan-lebat-disertai-petir-mengancam-kabupaten-maros-malam-ini-mulai-pukul-19-30-wib",
-          "source": "Databoks"
+          "title": "TOKİ'den 405 konutluk dev proje!",
+          "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje",
+          "source": "Antalya Ekspres"
         },
         {
-          "title": "Prakiraan Cuaca Makassar Besok 17 November 2026: Siang-Sore Hujan, Suhu 19-35 Derajat Celsius",
-          "url": "https://www.detik.com/sulsel/makassar/d-8755618/prakiraan-cuaca-makassar-besok-17-november-2026-siang-sore-hujan-suhu-19-35-derajat-celsius",
-          "source": "detikcom"
+          "title": "Isparta'daki 274 TOKİ Konutu Ne Zaman Teslim Edilecek? İşte Yeni Tarih",
+          "url": "https://www.demokrat32.com/ispartadaki-274-toki-konutu-ne-zaman-teslim-edilecek-iste-yeni-tarih",
+          "source": "Demokrat32.com"
         },
         {
-          "title": "BMKG Peringatkan Angin Kencang di 14 Daerah Sulsel",
-          "url": "https://lutimterkini.com/bmkg-peringatkan-angin-kencang-di-14-daerah-sulsel/",
-          "source": "Lutimterkini"
-        }
-      ]
-    },
-    {
-      "keyword": "두두",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T11:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQBq2qYFKtu47dvhFAcPagrWnOkyhQ1UuHJ95iYGO_dtNotSaiZOnLC-HB16Y",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[오피셜] '두두' 이동주, DN 수퍼스와 28년까지 동행… \"보답하고 싶다\"",
-          "url": "https://www.dailyesports.com/view.php?ud=20261116201733393074bcc1e038_27",
-          "source": "데일리e스포츠"
-        },
-        {
-          "title": "DN 수퍼스, 2027 LCK 시즌 앞두고 '두두'와 재계약",
-          "url": "https://www.sheepesports.com/kr/articles/sources-dn-soopers-re-sign-dudu-for-the-2027-lck-season/kr",
-          "source": "Sheep Esports"
-        },
-        {
-          "title": "[오피셜] '두두' 이동주, DNS와 2028년까지 동행",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323430&site=lol",
-          "source": "인벤"
-        }
-      ]
-    },
-    {
-      "keyword": "인사청문회",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T10:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MsaleVFe9xw2yZstoRS4X75a2nt5TXgxR3po7o0aAyMoNV6o0qu9VfvMwVA",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[속보] 이 대통령, 이용철 법무부장관 후보자 인사청문요청안 재가",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611161644231255_005.html",
-          "source": "YTN"
-        },
-        {
-          "title": "이용철 법무장관 후보자 청문회 열린다…이 대통령, 요청안 재가",
-          "url": "https://news.jtbc.co.kr/article/NB12328300",
-          "source": "JTBC"
-        },
-        {
-          "title": "이용철 재산 39억 신고...24일 인사청문회",
-          "url": "https://www.chosun.com/politics/politics_general/2026/11/16/4OZHA6KT5NGYFJBPPAVAWBP7D4/",
-          "source": "조선일보"
+          "title": "Isparta'ya 405 konut, 10 dükkan ve cami geliyor! TOKİ ihale tarihini açıkladı",
+          "url": "https://www.antalyakorfez.com/ispartaya-405-konut-10-dukkan-ve-cami-geliyor-toki-ihale-tarihini-acikladi",
+          "source": "Antalya Körfez Gazetesi"
         }
       ]
     }
