@@ -1,24 +1,12 @@
 {
-  "updatedAt": "2026-11-16T21:42:41.684Z",
+  "updatedAt": "2026-11-16T22:42:07.595Z",
   "summary": [
     {
-      "category": "정치·사회",
-      "count": 3
+      "category": "기타",
+      "count": 8
     },
     {
       "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "경제",
       "count": 1
     },
     {
@@ -28,238 +16,254 @@
   ],
   "items": [
     {
-      "keyword": "연금",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-16T20:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShGdEhzdKEo9pOQ9gVDb48W6tQAFe545IHjcG9slrRvDWk_6xyoe3mBsPLoGo",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
-          "url": "https://www.yna.co.kr/view/AKR20261116054700530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "국민연금, AI로 화재감시 솔루션 도입… 3중 감시체계 구축",
-          "url": "https://www.viva100.com/article/20261116500626",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "국민연금, 한전과 손잡고 ICT센터 'AI 화재감시' 강화",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869449",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "독일 대 네덜란드",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-16T19:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm7h5DJ7nsDFE_BLvjMTa6K8ZcKuLVmEHnhgKDswY-T_e6B_ewfPLWhanDDD4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
-          "url": "https://www.yna.co.kr/view/AKR20261114016200007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "네덜란드, 그리스 7대0 대파… 네이션스리그 8강 진출 청신호",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/14/3J7CZZTQLJDITCXIZ6SKUIBKAU/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "리친청",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T20:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5qJCvYUcCsVoJ2Ud4lwESN5Vfd97Lb-2yex9t2CYxBH07-oxlk4rEJ6QUxg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
-          "url": "https://www.yna.co.kr/view/AKR20261116158800007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
-          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
-          "source": "사이버오로"
-        },
-        {
-          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "박세리",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T20:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCBE-sVuknxBQo8k96FPEkC0ot1CKHuzDKJd6lgVYS1TQA0Y3IOpe6Ldwi3g",
+      "keyword": "weather",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T21:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35RS0unzucpMAorkztdSMWErRGqxA8DiDNwEAXvF65-tcvyyTNNYJYdMenhY",
       "category": "기타",
       "news": [
         {
-          "title": "박세리, 운동하느라 사춘기 ‘스킵’ 고백... “50대인 지금 누구보다 예민해”",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/",
-          "source": "조선일보"
+          "title": "From snowplows to salt; How county crews and businesses are gearing up for winter",
+          "url": "https://www.tmj4.com/news/local-news/county-reporting/waukesha-county/from-snowplows-to-salt-how-county-crews-and-businesses-are-gearing-up-for-winter",
+          "source": "TMJ4 News"
         },
         {
-          "title": "박세리, \"운동하느라 사춘기 건너뛰었다...50대인 지금 가장 예민\"",
-          "url": "https://www.insight.co.kr/news/582300",
-          "source": "인사이트"
+          "title": "Understanding winter weather alerts: What watches, advisories and warnings mean for Wisconsin",
+          "url": "https://www.wmtv15news.com/2026/11/16/understanding-winter-weather-alerts-what-watches-advisories-warnings-mean-wisconsin/",
+          "source": "WMTV 15 NEWS"
         },
         {
-          "title": "박세리, 운동하느라 사춘기 스킵..\"50대인 지금 누구보다 예민\"",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/GEYWENDDMJSDIY3FHA2WGYLCMU/",
-          "source": "Chosunbiz"
+          "title": "WJJQ",
+          "url": "https://www.wjjq.com/storydetails/20261116100555/winter_weather_awareness_week_preview/",
+          "source": "WJJQ Radio"
         }
       ]
     },
     {
-      "keyword": "윤이나",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSryY9U28t7hFJ32T9giK0UbXTi2dzSGqWhF2pVCfJUIhRxG3nz-SsBBt94jl0",
+      "keyword": "погода",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T21:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZfoVhMWG3I_yjN2ewjHQlHWlHu76EbhhOVxqDO4rZFDUc1IKlkJ4ntSx8IH8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
+          "url": "https://t-j.ru/weather-msc-16-22nov/",
+          "source": "Т—Ж"
+        },
+        {
+          "title": "Снег на подходе: погода в Москве и Подмосковье 16-22 ноября",
+          "url": "https://rtvi.com/news/sneg-na-podhode-pogoda-v-moskve-i-podmoskove-16-22-noyabrya/",
+          "source": "RTVI"
+        },
+        {
+          "title": "В Москву идет новая волна потепления 16 ноября: данные синоптика Ильина, какая погода будет в Москве",
+          "url": "https://www.rosbalt.ru/news/2026-11-16/v-moskvu-idet-novaya-volna-potepleniya-5732967",
+          "source": "rosbalt.ru"
+        }
+      ]
+    },
+    {
+      "keyword": "thời tiết",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T21:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW_b43b5zzN2RCxjeVPdC7x1opjqJ_OEeU8YJ3XkHUtTKQTNuMj9xRJiIMwIU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
+          "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg",
+          "source": "Báo Bắc Ninh"
+        },
+        {
+          "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
+          "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm",
+          "source": "thethaovanhoa.vn"
+        },
+        {
+          "title": "26 tỉnh, thành phố chủ động ứng phó với các hình thái thiên tai những ngày tới",
+          "url": "https://laodong.vn/moi-truong/26-tinh-thanh-pho-chu-dong-ung-pho-voi-cac-hinh-thai-thien-tai-nhung-ngay-toi-1801571.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "สภาพอากาศ",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T21:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSXWnG88lr1H3pauJBUWODMXq-ggGziTFIBfRnljzZEz5I8POZzdd-cfomskg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
+          "url": "https://www.thansettakij.com/general-news/673912",
+          "source": "Thansettakij"
+        },
+        {
+          "title": "กรมอุตุฯ ประกาศล่าสุด เช็กจังหวัดฝนตกหนัก คืนนี้ | มุมข่าว",
+          "url": "https://today.line.me/th/v3/article/YapJ9aL",
+          "source": "LINE TODAY"
+        },
+        {
+          "title": "❄️ 18–22 พ.ย. มวลอากาศเย็นระลอกใหม่แผ่ลงมา! ไทยตอนบนช่วงแรกมีฝนฟ้าคะนองและลมกระโชกแรง ก่อนอุณหภูมิลดลง 🌡️ อีสาน อุณหภูมิลดลง 2–4°C 🌡️ เหนือ กลาง กทม.–ปริมณฑล และตะวันออก ลดลง 1–3°C ⛈️ ภาคใต้ ระวังฝนตกหนักถึงหนักมาก 📢 ประกาศกรมอุตุนิยมวิทยา ฉ.4",
+          "url": "https://www.facebook.com/tmd.go.th/posts/%EF%B8%8F-1822-%E0%B8%9E%E0%B8%A2-%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B8%A1%E0%B8%B5%E0%B8%9D%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%8A%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%87/1615204207318375/",
+          "source": "Facebook"
+        }
+      ]
+    },
+    {
+      "keyword": "天气",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-16T21:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq6NiaH3LXVjj5Bj0vhzw9UXYAd_gOtEGXAxUkk86B8ZxRQlPhdVE_X-pCFUQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "暴雪、大暴雪，来了",
+          "url": "https://feng.ifeng.com/c/8y4ajundHQh",
+          "source": "凤凰网"
+        },
+        {
+          "title": "一文掌握雪的知识点",
+          "url": "https://www.sohu.com/a/1102203978_162758?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "source": "Sohu"
+        },
+        {
+          "title": "下半年来最冷白天来了！济南18日7℃，降温日历看哪里气温创新低_山东",
+          "url": "https://www.dzwww.com/news/sdnews/202611/t20261116_18306742.htm",
+          "source": "大众网"
+        }
+      ]
+    },
+    {
+      "keyword": "germany vs netherlands",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T21:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPMqVDFk43q_AltPma-cxoF1O9jQXJwA8Q5sVwd1kKh677sDYLSnTouyzoNI",
       "category": "스포츠",
       "news": [
         {
-          "title": "최혜진, 통한의 보기 2개…10번째 준우승",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
-          "source": "KBS 뉴스"
+          "title": "Klopp’s Germany humiliate Netherlands in historic 69-year first after explosive call for FIFA president to quit",
+          "url": "https://football360.com.au/germany-netherlands-5-0-klopp-xavi-nations-league/",
+          "source": "football360.com.au"
         },
         {
-          "title": "최혜진, 준우승만 10번째 또 ‘뒷심 부족’… 땅을 쳤다",
-          "url": "https://www.donga.com/news/Sports/article/all/20261117/135035563/2",
-          "source": "동아일보"
+          "title": "Licensable picture: UEFA Nations League - Group A2 - Germany v Netherlands",
+          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a2-germany-v-netherlands/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkcxTVRNREU%3D/?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "source": "Reuters Connect"
         },
         {
-          "title": "소렌스탐과 우승 기념 촬영하는 린디 던컨",
-          "url": "https://www.newsis.com/view/NISI20261116_0002292952",
-          "source": "뉴시스"
+          "title": "Germany 5-0 Netherlands: Gruda and Wirtz light up Berlin",
+          "url": "https://www.sofascore.com/news/germany-5-0-netherlands-gruda-and-wirtz-light-up-berlin",
+          "source": "Sofascore"
         }
       ]
     },
     {
-      "keyword": "우리은행",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRunQ-oeCLUFKJTDjAKtGuzetZYKQZ7QR3AWxBH2cU6IgpXCk2sEo4CfRIyU30",
-      "category": "경제",
-      "news": [
-        {
-          "title": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’",
-          "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "우리은행, 제29회 '우리 아트콘' 본선 개최…어린이·청소년 250명 참가",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753853",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "[포토] 우리은행 어린이 미술대회",
-          "url": "https://www.mk.co.kr/news/economy/12210126",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "민희진",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T19:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZny36F1OSR6FlikONTadM0lKqgmLqo5BsVnw8mMdInGAaF9m9ZXj23eKMFzE",
+      "keyword": "코트",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T20:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ4SQveQ3DmU_vbBJPc5o-Qq_r0oT-EwjSLbcsNVruXyo2XSVKXGT67wChYog",
       "category": "연예",
       "news": [
         {
-          "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261116147651004",
-          "source": "연합뉴스"
+          "title": "겨울에 '이것' 없으면 코트 잘못 입는 거예요",
+          "url": "https://www.elle.co.kr/article/1912922",
+          "source": "엘르 코리아 │ ELLE KOREA"
         },
         {
-          "title": "경찰, '뉴진스 계약 해지' 민희진 업무상 배임 송치",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866041_36918.html",
-          "source": "MBC 뉴스"
+          "title": "'싹둑' 잘랐더니 인기 폭발…여성 아이돌 푹 빠진 패션 뭐길래 [박수림의 트렌딧(Trend:it)]",
+          "url": "https://www.hankyung.com/article/202611169751g",
+          "source": "한국경제"
         },
         {
-          "title": "민희진, 배임 혐의 공소청 송치…하이브 레이블 소송은 모두 기각",
-          "url": "https://magazine.hankyung.com/business/article/202611160233b",
-          "source": "한경매거진"
+          "title": "돌고 돌아 올겨울 다시 입게 될 이 코트!",
+          "url": "https://www.vogue.co.kr/2026/11/15/%EB%8F%8C%EA%B3%A0-%EB%8F%8C%EC%95%84-%EC%98%AC%EA%B2%A8%EC%9A%B8-%EB%8B%A4%EC%8B%9C-%EC%9E%85%EA%B2%8C-%EB%90%A0-%EC%9D%B4-%EC%BD%94%ED%8A%B8/",
+          "source": "Vogue korea"
         }
       ]
     },
     {
-      "keyword": "음주 운전",
+      "keyword": "황보라",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-16T19:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNbgJNFSFJvQkZMQZCkf6lgjoF1sBGkxXwrTIt9_GW4LFOz9pQg6eedUWHHs",
-      "category": "정치·사회",
+      "startedAt": "2026-11-16T21:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASXM5N9v9Sq5T5IOvhpKANLvC76eidZvi8Bqy_qdPij6m9_e2NNzaiPJAiMk",
+      "category": "기타",
       "news": [
         {
-          "title": "경찰, 음주운전으로 청소차 들이받은 고경표 소환조사 방침",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
-          "source": "KBS 뉴스"
+          "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/",
+          "source": "조선일보"
         },
         {
-          "title": "고경표, 음주운전 여파에 팬미팅 취소…“실망 안겨 드리게 돼 사과”",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/ZBEXEGN2QJCZDF7VUTX5J44KRU/",
-          "source": "Chosunbiz"
+          "title": "황보라, 2살 아들 롯데월드서 바지 훌렁…“이건 안 돼” 당황",
+          "url": "https://sports.donga.com/ent/article/all/20261117/135036009/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "\"李대통령도 음주운전, 왜 고경표만\"…팬클럽 형평성 문제제기 '시끌'",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/15/2026111590076.html",
-          "source": "TV조선뉴스"
+          "title": "놀이공원서 바지 탈의..황보라, 子 돌발행동에 백기→내복 차림으로 활보",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100106410009835",
+          "source": "스포츠조선"
         }
       ]
     },
     {
-      "keyword": "북한",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T19:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUT_u3aCYPxoqa145naQTb3F2oF77VyRHd1oJx2APsMZTor_YiNsWgAxMLo8E",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
-          "url": "https://www.yna.co.kr/view/AKR20261117005800109",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848824&plink=RSSLINK&cooper=GSTAND",
-          "source": "news.sbs.co.kr"
-        },
-        {
-          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "이혜영",
+      "keyword": "범죄",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-16T18:50:00.000Z",
-      "picture": "",
+      "startedAt": "2026-11-16T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_PdzSO687ybMteMBI7xj9Wu7sGoL49SxB7flcsrYnle4gUZ1JbYZCccalQI",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "靑 “사회적 약자 대상 범죄 강력대응… ‘가석방 없는 무기형’ 도입 등 논의”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261116/135028762/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "靑 \"국민안전플러스 프로젝트 추진…연말까지 모든 부처 대응상황 점검\" [뉴시스Pic]",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868638",
+          "source": "뉴시스"
+        },
+        {
+          "title": "관계성 범죄 급증에 靑, 예정 없던 브리핑 \"안전 프로젝트 추진\"",
+          "url": "https://www.chosun.com/politics/blue_house/2026/11/16/6ECTPLQ3IVAPHEY2O6IXKWVJ7E/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "아리바이오",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T21:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pkYuAjSasWpJHImZW8uW2nF8W6sUu9Ts_FSvxC1qUfemL3ylZvDByDslPn8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[속보] 아리바이오 AR1001, AD 3상 전체 환자선 '부족'…단독투여군서 1차 지표 '충족'",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80835",
+          "source": "히트뉴스"
+        },
+        {
+          "title": "[속보]아리바이오, '먹는 치매약' 임상3상서 단독투여군 1차지표 충족 - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/17/2026111707070919065",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[아리바이오의 도전과 가치] ⑤국내 바이오기업의 전례를 새로 쓰다 - 미래가치의 상단은?",
+          "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=36164",
+          "source": "바이오타임즈"
+        }
+      ]
     }
   ]
 }
