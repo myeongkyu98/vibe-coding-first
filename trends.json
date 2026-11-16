@@ -1,271 +1,271 @@
 {
-  "updatedAt": "2026-11-16T08:29:33.991Z",
+  "updatedAt": "2026-11-16T10:35:01.877Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
+      "count": 4
     },
     {
       "category": "스포츠",
+      "count": 3
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "뉴스",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-16T07:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDJ6qUpOLze5R50yULHtYdzymRg7YuFRXv0ztjxml4DIUUvJeIBG86XtHk6N4",
-      "category": "기타",
+      "keyword": "신랑",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-16T07:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSEBAFy4QUMjMrogQD4dCOt_6UxLVzC9BMz84ga5tdCj8WpaHI0xctJq8TZIE",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[뉴스포커스] 11월1６일 다시보기",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116141042CpO",
-          "source": "연합뉴스TV"
+          "title": "\"야 너 이리 와\"…결혼식 날 신랑에게 엎드려뻗쳐 시킨 신부 이모부",
+          "url": "https://www.news1.kr/society/general-society/6355215",
+          "source": "뉴스1"
         },
         {
-          "title": "뉴스투데이 2026년 11월 16일(월)",
-          "url": "https://ysmbc.co.kr/NewsToday/1/read/184408",
-          "source": "여수MBC"
+          "title": "“살면서 듣도 보도 못했다, 내 가족이 봤다면...” 신랑이 결혼식서 신부 이모부에게 당한 일",
+          "url": "https://www.wikitree.co.kr/articles/1175001",
+          "source": "위키트리"
         },
         {
-          "title": "2026년 11월 16일 月",
-          "url": "https://www.dhtoday.com/news/articleView.html?idxno=264800",
-          "source": "대한투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "카카오뱅크 애플페이",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-16T06:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMBPQrQlIwtOdYf1FE7toxJlToVFMNdk8OxGmk2Nl6HKE2SvHhHeshK3fb1xU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
-          "url": "https://www.etnews.com/20261116000304",
-          "source": "전자신문"
-        },
-        {
-          "title": "카카오뱅크, 애플페이 도입으로 저변 확대…현대카드 이후 두번째",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116171311NAT",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "“애플 지갑에 등록만 하면 바로 결제”…카뱅 애플페이 써보니",
-          "url": "https://www.mk.co.kr/news/economy/12209953",
+          "title": "걸그룹·야구선수 부부 탄생…배드키즈 연지, 강동연과 12월 결혼",
+          "url": "https://www.mk.co.kr/news/culture/12209857",
           "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "당구",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-16T06:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTleTD11t2p6WOpyz2oGTGmnYdZ6G48yK8AOpQuiWvNZ_dZaKOSKd5zvWLbUZc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "조건휘, 시즌 3승 도전…프로당구 PBA-LPBA 6차 투어 열린다",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02187766645646376&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "PBA 시즌 후반부 돌입…21일부터 휴온스 챔피언십 개최",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435552",
-          "source": "데일리스포츠한국"
-        },
-        {
-          "title": "프로당구 6차 투어 '휴온스 챔피언십' 21일 개막…조건휘 독주 이어질까",
-          "url": "https://www.etoday.co.kr/news/view/2648475",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "검사",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T07:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyx0KPfU_vwooOIbrt2alQo8I3KbRAC6TuBPnk69ihp4FyxmZHqQEprpLcUgk",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "선관위특검, 검사 1명 추가 파견받아…정원에는 여전히 못 미쳐",
-          "url": "https://www.yna.co.kr/view/AKR20261116102100004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "선관위 특검에 검사 1명 추가 합류…파견검사 총 19명",
-          "url": "https://www.newsis.com/view/NISX20261116_0003870216",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[단독] 특검, ‘지체상금 면제’ 의혹 선관위 선거기반과장 첫 조사",
-          "url": "https://www.kmib.co.kr/article/20261115500230",
-          "source": "국민일보"
-        }
-      ]
-    },
-    {
-      "keyword": "야구 코치",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T07:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7x0LR5HWDrq7qe3iL8bYzcRPhs4Tq_vrP4sPUzM4CVsgcpBVLXQuWmVjFVOQ",
+      "keyword": "공무원",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-16T09:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQppXBYTLvzP5B0rCYyPyZUGHkY1_B2GDp5yQ2uzii4Cx95gb5G3z0j6Uv8NSM",
       "category": "스포츠",
       "news": [
         {
-          "title": "22년 전 자신의 길 걷는 김민성 수비 코치…이동욱 롯데 감독이 말하는 존중과 조언 사이 [SD 미야자키 리포트]",
-          "url": "https://sports.donga.com/sports/article/all/20261115/135027297/1",
-          "source": "스포츠동아"
+          "title": "“축구공 하나로 가까워진 두 도시”… 우정 깊어지는 평택·마쓰야마",
+          "url": "https://www.kyeonggi.com/article/20261116580361",
+          "source": "경기일보"
         },
         {
-          "title": "[SW인터뷰] 5년 만에 복귀, 그 이상의 의미…허문회 코치 “하늘이 준 기회”",
-          "url": "https://www.sportsworldi.com/newsView/20261116506062",
-          "source": "스포츠월드"
+          "title": "평택시와 마쓰야마시 공무원 교류, 스포츠로 잇고 행정으로 넓힌다",
+          "url": "https://www.yna.co.kr/view/RPR20261116003800353",
+          "source": "연합뉴스"
         },
         {
-          "title": "\"한국 야구에 관심 없나?\" 이승엽 한마디에 KBO행 결심! 日 요미우리 출신 사네마츠, 롯데 배터리 코치로 깜짝 합류",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553681463",
-          "source": "스포탈코리아"
+          "title": "김해시, 日 마쓰바라시와 우호도시 교류 확대 논의",
+          "url": "https://www.viva100.com/article/20261116500797",
+          "source": "브릿지경제"
         }
       ]
     },
     {
-      "keyword": "신유열",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T06:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtnpHqUvMslRffjfSFdUzR-8KJZWtlkYFAhc60H3f2YaHD9DOVpcVtem164W8",
-      "category": "기타",
+      "keyword": "김지수",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-16T07:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRA55a4xp9Z0l_o8eeTGgjNF0nENQX8mLgrjTkI57EzfeVXJ2ykGyljha-R6og",
+      "category": "연예",
       "news": [
         {
-          "title": "‘롯데 3세’ 신유열 롯데지주 부사장, 사장 승진… 그룹 전략 총괄 맡는다",
-          "url": "https://www.chosun.com/economy/market_trend/2026/11/16/CJULONS2TNETZL7ICZYE6RLNFQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "신동빈과 닮은꼴 행보 신유열 사장 승진…롯데, '젊은 피' 수혈",
-          "url": "https://stock.mk.co.kr/news/view/1199622",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "롯데 3세 신유열, 지주사 사장 승진…경영전략실 총괄(종합)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444972",
-          "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "박지윤",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T07:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1VFMema_47-IHDLJyrRU-Cr03yWzvJJs0vc8CjLvQEmcrS-LPAeOo6vppmY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'박지윤 남사친'에 상간 소송...최동석, 1심 뒤집고 일부 승소 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/16/2026111615464396280",
+          "title": "\"음주운전 두 번·만취 인터뷰까지\"…김지수, 2년 만에 예능 복귀 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111612520380605",
           "source": "머니투데이"
         },
         {
-          "title": "최동석, 박지윤 지인 상대 상간 소송 항소심 일부 승소",
-          "url": "https://www.hankyung.com/article/2026111695337",
-          "source": "한국경제"
+          "title": "[공식] 김지수, 체코 프라하서 여행사 차렸다…유이와 ‘솔로라서2’ 합류",
+          "url": "https://sports.donga.com/ent/article/all/20261116/135033317/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "“불륜 없다” 했는데… 최동석, ‘박지윤 男지인’ 상간 소송 1심 뒤집고 ‘일부 승소’",
-          "url": "https://www.seoul.co.kr/news/society/law/2026/11/16/20261116500286",
-          "source": "서울신문"
+          "title": "고경표 음주운전 파문 속…‘음주운전 2회’ 김지수 예능 복귀에 여론 냉담",
+          "url": "https://www.mk.co.kr/news/hot-issues/12210071",
+          "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "전국삼성전자노동조합",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T06:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78Egi4bFmq_Ug9bSGACeBWRXiof_s2zF91gR2PUQenUE2VsHnigjT7DfpKz0",
-      "category": "IT·과학",
+      "keyword": "ตรวจหวย",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T08:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7WODg1iz6dm0JQxwdsapd3cW3mXwRHZPss8mhXjZUjFDHqZ2Yr7ZpgXcMBjg",
+      "category": "기타",
       "news": [
         {
-          "title": "[단독] 삼성전자 노조, 조합원 대상 테슬라 등 억대 경품 이벤트",
-          "url": "https://www.chosun.com/national/labor/2026/11/16/Y4ZJLFQORRAX5N7MH7RUL53GNI/",
+          "title": "โค้งสุดท้ายหวย \"เลขเด็ดงวดนี้\" 16/11/69 ลุ้นโชคได้ที่ไทยรัฐทีวี-ไทยรัฐออนไลน์",
+          "url": "https://www.thairath.co.th/lottery/news/2972681",
+          "source": "thairath.co.th"
+        },
+        {
+          "title": "วาสนาเศรษฐี ถูกรางวัลที่ 1 สลากดิจิทัล งวด 16 พ.ย. 69 รวม 186 ล้านบาท",
+          "url": "https://www.sanook.com/news/9912130/",
+          "source": "Sanook"
+        },
+        {
+          "title": "ชมสด! การออกผลสลากกินแบ่งรัฐบาล ประจำวันที่ 16 พฤศจิกายน 2569",
+          "url": "https://www.naewna.com/n/slide-top-home/167369/",
+          "source": "แนวหน้า"
+        }
+      ]
+    },
+    {
+      "keyword": "005930",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-16T07:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXYQwE3dUFsin5-rWuTRJ3JStM9OPAS5GO7TW21Fx2dabbXrMA86-Q4jXaMRM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Samsung Stocks Rise as Foreign Buyers Step In Despite NVIDIA Turmoil",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-stocks-rise-foreign-buyers-194545026.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Samsung Electronics (KOSE:A005930) Stock Dropped, So What Is Driving Attention Today?",
+          "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri",
+          "source": "Simply Wall St"
+        },
+        {
+          "title": "Samsung Tokenized Stock Holds $139.71 Support As Binance Open Interest Climbs 10.50%",
+          "url": "https://www.onebullex.com/news/articles/samsung-tokenized-stock-holds-139-71-support-as-binance-open-interest-climbs-10-50",
+          "source": "OneBullEx"
+        }
+      ]
+    },
+    {
+      "keyword": "성과급",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-16T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY3WfkSB0rMSJU8pdS82cJ2gAvpWtFI9nePcTHy0Fl-nqv_1mcuXRweum6mI4",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "월급은 3.3% 오르는데 근로소득세 40% 더 내라… 정부, 삼전닉스 성과급 가정에 기댔다 [2027 나라살림 대해부]",
+          "url": "https://www.hankookilbo.com/news/article/A2026111420400003767",
+          "source": "한국일보"
+        },
+        {
+          "title": "[단상지대] 이익은 누구의 것인가",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261115021402310",
+          "source": "영남일보"
+        },
+        {
+          "title": "[탁류세평] 모르는 게 약일까?",
+          "url": "https://www.kunews.ac.kr/news/articleView.html?idxno=51800",
+          "source": "고대신문"
+        }
+      ]
+    },
+    {
+      "keyword": "캄보디아",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T07:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjuVYhK5Ah1W3Y_oSQuXjLiBAMhaDIX22YjdeMvsvS8AKaxGw4iJZDw7HP3o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "수원시 의료봉사단, 캄보디아 수원마을서 민관 의료 봉사 활동 전개",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041013",
+          "source": "기호일보"
+        },
+        {
+          "title": "수원 의료진 32명, 캄보디아 자매도시서 주민 진료",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869726",
+          "source": "뉴시스"
+        },
+        {
+          "title": "수원시, 캄보디아 시엠립 수원마을서 민관 의료봉사…800명 진료",
+          "url": "https://www.yna.co.kr/view/AKR20261116106300061",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "검찰",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T07:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrWOtmJlknm1cMs-rnVPZb-yNs2u1tTPr51DjtVC1Ac3y9PGqTn0ZqkiF1Pzk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "홈플러스 사태·盧 비자금 은닉 의혹… 45일 남기고 ‘수사 액셀’ 밟는 공소청",
+          "url": "https://www.chosun.com/national/court_law/2026/11/16/LFGRSWBDXRFZPAG5OCO42UBOCQ/",
           "source": "조선일보"
         },
         {
-          "title": "성과급 격차 부른 勞勞 갈등…‘삼성 노조공화국’ 오명",
-          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611142234106940064",
-          "source": "대한경제"
+          "title": "‘대형 기업수사’ 연내 처분…중수청에 안넘긴다",
+          "url": "https://www.sedaily.com/article/20114551",
+          "source": "서울경제"
         },
         {
-          "title": "삼성전자 초기업노조, '투표 독려' 테슬라車 경품 내걸었다 철회 왜?",
-          "url": "https://www.newsis.com/view/NISX20261116_0003870202",
-          "source": "뉴시스"
+          "title": "검찰 직접수사 유예기간 45일…공소청, 미이관 주요 사건 처리 속도전",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=326907",
+          "source": "더퍼블릭"
         }
       ]
     },
     {
-      "keyword": "(주)명륜당",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T07:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1HaQ9pxbGYQgBn0gA7y4R9WqYHjLflTJc51RCocQlAYX2A_CRVMgVJHM66Vs",
-      "category": "기타",
+      "keyword": "bangladesh vs south africa",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T08:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG8S17SvnSjxok6LESFx9wlpodE-Owb4Oh516cG2-50sY8NNo_zYxV9Qwl7tY",
+      "category": "스포츠",
       "news": [
         {
-          "title": "서울중수청, 명륜당 본사 압수수색…대부업체 부당 지원 의혹",
-          "url": "https://news.jtbc.co.kr/article/NB12328220",
-          "source": "JTBC"
+          "title": "Hridoy ton as Bangladesh reaches 327-6 on 1st day of 1st cricket test vs South Africa, Rabada 5-51",
+          "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-opts-bat-082837655.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "[속보]서울중수청, ‘대부업체 부당지원 의혹’ 명륜진사갈비 압수수색",
-          "url": "https://www.khan.co.kr/article/202611161016001",
-          "source": "경향신문"
+          "title": "Rabada: 'We need to be more ruthless'",
+          "url": "https://www.cricinfo.com/story/sa-vs-ban-1st-test-kagiso-rabada-we-need-to-be-more-ruthless-1562805",
+          "source": "Cricinfo"
         },
         {
-          "title": "중수청, '내부거래 의혹' 명륜당 본사 압수수색",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6865933_36918.html",
-          "source": "MBC 뉴스"
+          "title": "Alarms ring for Bangladesh, then South Africa on noisy first day at Wanderers",
+          "url": "https://www.cricbuzz.com/cricket-news/140922/alarms-ring-for-bangladesh-then-south-africa-on-noisy-first-day-at-wanderers-cricbuzzcom",
+          "source": "Cricbuzz"
         }
       ]
     },
     {
-      "keyword": "tvn",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu2v7p55wm3IMMjc1EIexCHufdwHEAahshI9YtHt0dnAke-woB_hV9O6ntNoI",
+      "keyword": "южная корея",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T07:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjZ3c1Pd3BySFMAxXqAlOx0IjcyMZTlO-ojW-y_QyrFGHJX_2AFMZLlcqF-0I",
       "category": "기타",
       "news": [
         {
-          "title": "PILNE! Odnaleziono ciało w miejscu poszukiwań",
-          "url": "https://uwaga.tvn.pl/najnowsze/pilne-odnaleziono-cialo-w-miejscu-poszukiwan-st9339698",
-          "source": "UWAGA! TVN"
+          "title": "Ирина Крайнева, «ВОЯЖТУР»: «Если Япония — светский прием, то Южная Корея — вечеринка старых друзей»",
+          "url": "https://www.toursoyuz.by/2026/11/16/irina-krajneva-voyazhtur-yaponiya-svetskij-priem-to-koreya-vecherinka-staryh-druzej/",
+          "source": "Республиканский союз туристических организаций"
         },
         {
-          "title": "Program tv dla Dzień Dobry TVN",
-          "url": "https://pilot.wp.pl/program-tv/program/dzien-dobry-tvn-8dda871655d0c00a0c43f92072c84058",
-          "source": "Pilot WP"
+          "title": "Южная Корея в октябре 2026 г. закупила у России максимальный объем СПГ почти за 5 лет",
+          "url": "https://neftegaz.ru/news/spg-szhizhennyy-prirodnyy-gaz/942152-yuzhnaya-koreya-v-oktyabre-2026-g-zakupila-u-rossii-maksimalnyy-obem-spg-pochti-za-5-let/",
+          "source": "Neftegaz.RU"
         },
         {
-          "title": "Dzień Dobry TVN",
-          "url": "https://pilot.wp.pl/vod/kanaly-tv,34/tvn-style,8403/2026-11-17/dzien-dobry-tvn,9987944",
-          "source": "Pilot WP"
+          "title": "Южная Корея нарастила закупки СПГ и взяла у России максимум с 2021 года",
+          "url": "https://oilcapital.ru/news/2026-11-16/yuzhnaya-koreya-narastila-zakupki-spg-i-vzyala-u-rossii-maksimum-s-2021-goda-5733200",
+          "source": "oilcapital.ru"
         }
       ]
     }
