@@ -1,271 +1,279 @@
 {
-  "updatedAt": "2026-11-15T23:39:46.008Z",
+  "updatedAt": "2026-11-16T01:07:13.103Z",
   "summary": [
     {
-      "category": "스포츠",
+      "category": "정치·사회",
       "count": 3
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "기타",
-      "count": 3
+      "count": 2
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 1
     },
     {
-      "category": "정치·사회",
-      "count": 2
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "부산 kcc 이지스",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-15T22:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQli5AoUYdGzhTnM6MfqHlGYHSYZJbPkbyjsWoH2Jh2O_YKCTwMHrORcoOI1Ec",
+      "keyword": "한국은행",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-15T23:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCivx6F3i5HQ-pP8YTefAjVA21ToGlD7gTKsPC-e1-VsCHTVPs8B_5dZxUnqE",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한국은행, 금 투자 늘렸는데… 시세 하락에 평가액 수백억원 줄어",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/11/15/MKJ7VHDJRNAEDM7IP7QP2SXIUQ/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "한국은행, 3분기 금 ETF 1억달러어치 더 샀다",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01984406645646048",
+          "source": "마켓인"
+        },
+        {
+          "title": "한은, 3분기 금 ETF 41% 늘렸는데…금값 하락에 325억 증발",
+          "url": "https://www.viva100.com/article/20261115500501",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "keyword": "윤석열",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T23:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMLa2E1LV089qk5Pw3SLiXae7iMxa_X8MCY8aBocbS48bLPvcL4NcCX-9Wdc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287471.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "尹 “계엄 해제됐는데 무슨 존속?”…내란 종료 시점 두고 설전",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712327",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "‘탄핵소추 때까지 내란’ 2차 특검 주장에 피식 웃은 尹",
+          "url": "https://www.chosun.com/national/court_law/2026/11/13/FTZ3FTALNRC6TOX6AHL5BT6GNE/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "테니스 선수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T23:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzBCifR_PnCPJtNAVHi-BrGCU-JcD-4nLC2TCp61HXGRcGn8aYJHZYdeY6ZZM",
       "category": "스포츠",
       "news": [
         {
-          "title": "'어제는 허웅, 오늘은 허훈' 종료 3초 전 동생이 끝냈다... '허씨 형제' 앞세운 KCC 7연패 뒤 5연승 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/15/2026111520014730985",
-          "source": "머니투데이"
+          "title": "\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868557",
+          "source": "뉴시스"
         },
         {
-          "title": "'이런 날도 있다' 21점 차 뒤집은 KCC, 0.6초 남기고 웃은 LG...소노까지 승리하며 중위권 대혼전 (종합)",
-          "url": "https://www.chosun.com/sports/basketball/2026/11/16/MRSDMNJXGQ2GCNRYMY3TSNLFGM/",
+          "title": "\"호베르투 카를로스 같은 허벅지!\"…日 미녀 테니스 선수 게시물 한 장에 '팬 14만명' 환호→\"힘이 넘쳐보이는 허벅지\"",
+          "url": "https://www.xportsnews.com/article/2219651",
+          "source": "엑스포츠뉴스"
+        },
+        {
+          "title": "\"허벅지가 호베르투 카를루스 같아\" 日 미녀 테니스 선수, 짧은 상의+미니스커트 조합에 찬사 폭발…14만 팬 사로잡았다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019554",
+          "source": "SPOTV NEWS"
+        }
+      ]
+    },
+    {
+      "keyword": "에어로케이",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T23:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpwNDtuZ8tfadC5twZ8otgi6LyDSzW3Qtg-xC-XiDZn1vkBK5QmcMl5LTok8w",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "에어로케이·후지드림항공 ‘일본 여행 위해 뭉쳤다’",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1111184",
+          "source": "충청매일"
+        },
+        {
+          "title": "에어로케이항공, 후지드림항공과 일본 항공권 ‘1+1’ 이벤트",
+          "url": "https://www.jbnews.com/news/articleView.html?idxno=1515944",
+          "source": "중부매일"
+        },
+        {
+          "title": "에어로케이항공, 일본 후지드림항공과 공동 SNS 이벤트 진행",
+          "url": "https://www.sj-ccnews.com/news/articleView.html?idxno=63680",
+          "source": "세종충청뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김승수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T23:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUNuMKMJydIBVkjcoJdYXsCMCpwCBlkXxVVYss7E4RNGdwRQMuOS2CeygiY90",
+      "category": "연예",
+      "news": [
+        {
+          "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
+          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
+          "source": "스포츠조선"
+        },
+        {
+          "title": "김승수, 양정아에겐 ‘그냥 친구’…16세 연하 박혜연엔 “전 안 돼요?”",
+          "url": "https://www.mk.co.kr/news/entertain/12209562",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "thứ hạng của đội tuyển tây ban nha gặp đội tuyển bóng đá quốc gia anh",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-15T23:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtIWfo1iYGdX_Lfmcr396v6-rqmUljOuE-RYoXKulTZqLVQp36XfWjuFJhnCk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Video bóng đá Tây Ban Nha - Anh: 5 bàn ngỡ ngàng (Nations League)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-tay-ban-nha-anh-5-ban-ngo-ngang-nations-league-c48a1811394.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Cầu thủ Tây Ban Nha và Anh xô xát trong đường hầm",
+          "url": "https://thethao247.vn/63-cau-thu-tay-ban-nha-va-anh-xo-xat-trong-duong-ham-c2-d445585.html",
+          "source": "Thể Thao 247"
+        },
+        {
+          "title": "Tuyển Anh hạ Tây Ban Nha, Bỉ và Pháp tiến vào tứ kết UEFA Nations League",
+          "url": "https://dantri.com.vn/the-thao/tuyen-anh-ha-tay-ban-nha-bi-va-phap-tien-vao-tu-ket-uefa-nations-league-20261116071505370.htm",
+          "source": "Báo Dân trí"
+        }
+      ]
+    },
+    {
+      "keyword": "젠슨황 복귀",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T23:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA4r-Mdc8G8zIdWHd67O1ubayYqcSPh4pG-Y35abfTf0w43cT3NPSQHPL0-XA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중‥백악관 설득 시도\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6865863_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "젠슨 황 창업 구상 식당, ‘엔비디아 명판’ 뗐다가 원상복구",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/16/VAVI4C6PKZAF3BTPQWXFWKFLDE/",
           "source": "조선일보"
         },
         {
-          "title": "허훈의 막판 3점 플레이…프로농구 KCC, 가스공사 꺾고 5연승(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261115037351007",
+          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+          "url": "https://www.yna.co.kr/view/AKR20261116009100011",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "집",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmjDF7hPwfdNsvwaS9_M96nPtB7Of6cUZKqcHQjcjlrTtsn4apgDuKMwrCTg",
-      "category": "경제",
-      "news": [
-        {
-          "title": "‘내 집’ 얻으려다… 지옥 같은 집에 갇혔다",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/5W7EFMFS75EN5FZGNPJF4TTILA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[컬처인사이드] '카리스마' 배종옥 \"코미디 역할, 연락 주세요\"",
-          "url": "https://www.ytn.co.kr/replay/view.php?idx=273&key=202611142123557514",
-          "source": "YTN"
-        },
-        {
-          "title": "‘월세 0원’ 80평 강남 아파트의 덫→침대 밑 수상한 그림자… 배종옥 42년 만의 첫 공포 ‘이 작품’",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1696277",
-          "source": "MHN스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "김정은",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T21:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQC5FGz6FAB222zeI3XKNXPwoU0Da_7AHC5cBMJF5-J3qhPltbKzEhkfp227rY",
+      "keyword": "변상일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-15T23:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqjmIWJkWiD7wDCc0rA5tEri-uIWGgBe3seYaASEHG5p8Kn00FK0dpPRw00Q",
       "category": "정치·사회",
       "news": [
         {
-          "title": "미 국무, 김정은 거론하며 \"정권 생존 원할 뿐 팽창주의자 아냐\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865858_36925.html",
-          "source": "MBC 뉴스"
+          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "루비오 “김정은은 팽창주의자 아냐, 정권 생존만 원해”…이란과 구분",
-          "url": "https://www.khan.co.kr/article/202611160751001",
-          "source": "경향신문"
+          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
+          "source": "사이버오로"
         },
         {
-          "title": "루비오, 이란 핵보유 반대하며 \"북한, 이란과 달라\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116054858U5t",
-          "source": "연합뉴스TV"
+          "title": "변상일, 후쿠오카에 극적인 뒤집기…삼성화재배 4강 진출",
+          "url": "https://www.yna.co.kr/view/AKR20261115041700007",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "동아일보",
+      "keyword": "고속도로 건설",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-15T22:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv2APAf2gMEptX20TP1op0yN8lYFxmLkHRqTMaSgnM4fOWkvuGd9ZYYzx65bM",
-      "category": "경제",
+      "startedAt": "2026-11-15T23:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_MZauo8Njj3CDDW7svpehQJFy47n5vYWU_KpryMhGUs9N9RRXhlYE6YTpmww",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[천광암 칼럼]돔구장의 역설, 기적의 수출 1조 달러",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261115/135028812/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "케이팝 위상과 수익 사이... 해마다 늘어나는 시상식의 비밀",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003283404",
-          "source": "오마이스타"
-        },
-        {
-          "title": "[핌 포커스] 지난해와 달라진 K팝 신인 시장…흥행 가뭄 속 신인상 주인공은?",
-          "url": "https://www.newspim.com/news/view/20261111001042",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "수능날",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JDzZO3-6pR4gS_jwkhAsUDLjET3hCLv-W-Yl3ErxYq6NxPOnlP_ZsWA9JBY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "버스 집중 배차·장애인콜택시 무료···인천시, 19일 수능 특별수송 대책 시행",
-          "url": "https://www.khan.co.kr/article/202611151118001",
-          "source": "경향신문"
-        },
-        {
-          "title": "전국 시험장으로 향하는 수능 문답지",
-          "url": "https://mobile.newsis.com/photo/NISI20261116_0021533555",
-          "source": "뉴시스"
-        },
-        {
-          "title": "인천시, ‘2027학년도 대학수학능력시험’ 당일 특별교통 대책 운영",
-          "url": "https://www.kyeonggi.com/article/20261115580268",
+          "title": "경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진",
+          "url": "https://www.kyeonggi.com/article/20261115580186",
           "source": "경기일보"
+        },
+        {
+          "title": "1시간 거리를 20분으로…울산 동서 잇는 새 길 열린다",
+          "url": "https://m.go.seoul.co.kr/news/2026/11/15/20261115500050",
+          "source": "서울Pn"
+        },
+        {
+          "title": "울산 동서 연결 ‘울산외곽순환고속도로’ 건설 공사 본격화",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004282",
+          "source": "국제신문"
         }
       ]
     },
     {
-      "keyword": "통근",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T21:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw",
+      "keyword": "교육부",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-15T23:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyKw9kxtJWR9vDIJSep0Rovocu9zuG9W1hpH3_xWf_R-VTHYxWptrttRgePn8",
       "category": "정치·사회",
       "news": [
         {
-          "title": "‘수도권∼세종청사 통근버스’ 5년 만에 부활",
-          "url": "https://www.khan.co.kr/article/202611152055045",
-          "source": "경향신문"
+          "title": "소진공, 인적자원개발 우수기관 선정…지역 인재 등 채용 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261116018200030",
+          "source": "연합뉴스"
         },
         {
-          "title": "중앙부처 세종 이전 앞두고…수도권∼세종청사 통근버스 재개키로",
-          "url": "https://stock.mk.co.kr/news/view/1198974",
-          "source": "매일경제 마켓"
+          "title": "소진공, 지역인재·고졸·장애인 채용 늘렸다",
+          "url": "https://www.metroseoul.co.kr/article/20261116500053",
+          "source": "메트로신문"
         },
         {
-          "title": "인권위·공수처도 '정부청사' 관리대상 포함…세종 이전 앞두고 개정",
-          "url": "https://www.news1.kr/local/moi/6353527",
+          "title": "\"지역인재 채용부터 정착까지\"…소진공, 교육부 장관 표창",
+          "url": "https://www.news1.kr/industry/sb-founded/6354713",
           "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "spanyol vs inggris",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T21:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNdehIJSpsRDFbavp2e1spBxuWSIJMGgINHOQnsgyRLbsynHpqViZZLtHsUyY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Hasil UEFA Nations League: 10 Pemain Inggris Hajar Spanyol di Madrid",
-          "url": "https://www.cnnindonesia.com/olahraga/20261116050255-142-1427464/hasil-uefa-nations-league-10-pemain-inggris-hajar-spanyol-di-madrid",
-          "source": "CNN Indonesia"
-        },
-        {
-          "title": "Spanyol vs Inggris: Kane dan Konsa Bawa The Three Lions Unggul",
-          "url": "https://journalarta.com/news/2026/11/16/spanyol-vs-inggris-kane-dan-konsa-bawa-the-three-lions-unggul/",
-          "source": "JournalArta"
-        },
-        {
-          "title": "Dari lapangan hijau ke terowongan: dua bintang Real Madrid memanaskan malam penuh ketegangan",
-          "url": "https://www.goal.com/id/berita/dari-lapangan-hijau-ke-terowongan-dua-bintang-real-madrid-memanaskan-malam-penuh-ketegangan/blt7474a8c4c975167f",
-          "source": "Goal.com"
-        }
-      ]
-    },
-    {
-      "keyword": "테니스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T21:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBEUAbzYOZ7jMJC-Am0_Dgv1J3piPogvsTHgBdy7eyNePKppFbYcFOo6YaNa4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "45승 셸턴은 왜 페레로를 영입했나",
-          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19840",
-          "source": "테니스피플"
-        },
-        {
-          "title": "'러시아어로 욕설 내뱉더니 결국 사과' 세계 2위 사발렌카, 우크라이나 선수 모욕 논란 일파만파...\"상대에게 한 말 아니다\" 해명 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/16/202611152317778300O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "안드레예바, 스비톨리나 꺾고 왕중왕전 생애 첫 우승",
-          "url": "https://www.newsis.com/view/NISI20261116_0002292599",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "สเปน พบ อังกฤษ",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T21:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpHxXON1YdjI0q3JqLiG6RW6S6-TBcuDgg0S6kUfmvXPtBIc95k4IWjSWtBA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "ยูฟ่า เนชั่นส์ ลีก: สี่แมตช์จะเริ่มแข่งขันพร้อมกันในเวลา 02:45 น. ของวันที่ 16 พฤศจิกายน",
-          "url": "https://www.vietnam.vn/th/uefa-nations-league-4-tran-dau-cung-khoi-tranh-luc-2h45-ngay-16-11",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "อังกฤษเฉือนชัยแซงคว้าแชมป์กลุ่มยูฟ่า เนชันส์ ลีก พร้อมหยุดสถิติไร้พ่ายของสเปน | Khaosod",
-          "url": "https://today.line.me/th/v3/article/LXeKnYn",
-          "source": "LINE TODAY"
-        },
-        {
-          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 15 พ.ย. 69 : ทีเด็ดบอลวันนี้ สเปนลุ้นย้ำแค้นอังกฤษ, อิตาลีบุกล่าแต้ม!",
-          "url": "https://www.siamsport.co.th/football-international/national-team/112067/",
-          "source": "Siamsport"
-        }
-      ]
-    },
-    {
-      "keyword": "испания – англия",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T21:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2JrpbGZFECbvJMJdkOCcpvvZwWOKtnaoyDhvsQq6Rx_eKJJyPDb14vwEgeCM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Сборная Англии прервала рекордную беспроигрышную серию Испании",
-          "url": "https://www.championat.ru/football/news-6701028-sbornaya-anglii-prervala-rekordnuyu-besproigryshnuyu-seriyu-ispanii.html",
-          "source": "https://www.championat.ru/"
-        },
-        {
-          "title": "Испания — Англия: прямая трансляция матча Лиги наций",
-          "url": "https://www.sports.kz/news/ispaniya-angliya-pryamaya-translyatsiya-matcha-ligi-natsiy",
-          "source": "Sports.kz"
-        },
-        {
-          "title": "Сборная Испании едва не отыгралась с 0:3 в матче с Англией в Лиге наций",
-          "url": "https://betnews.by/sbornaya-ispanii-edva-ne-otygralas-s-03-v-matche-s-angliej-v-lige-naczij/",
-          "source": "Bet News"
         }
       ]
     }
