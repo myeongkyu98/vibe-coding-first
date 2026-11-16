@@ -1,255 +1,279 @@
 {
-  "updatedAt": "2026-11-16T04:01:54.062Z",
+  "updatedAt": "2026-11-16T05:31:04.842Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 3
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
       "count": 2
     },
     {
-      "category": "경제",
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "담합",
+      "keyword": "삼성전기",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-16T02:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvIXVCsLmOfhV5hWf7bQzmv28crssRFlwaMLflgTATr-e860C-Uniqx57DpJs",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
-          "url": "https://www.newspim.com/news/view/20261116000287",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "삼성·SK하이닉스·마이크론, D램 700% 폭등 담합 소송서 \"AI 수요 탓\" 정면 반박",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611141956134528fbbec65dfb_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "\"매들의 편대비행\" 美법원, 메모리3사 D램 담합소송 기각 않고 진행",
-          "url": "https://www.news1.kr/world/usa-canada/6355175",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "주가조작",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-16T02:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSui3yiEEPvSnI17jMyLXFkq74So9jK1q-H1JIRt7xroElSzl_Qe8db_QR_KOA",
+      "startedAt": "2026-11-16T03:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEgLU9g4sU_kW9VN77Q4tG2bE3diPbnujkGhAw33OMFy3FO0JvMP-6uLvXGY8",
       "category": "경제",
       "news": [
         {
-          "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 선고…구속 만료 하루 전 결론",
-          "url": "https://www.khan.co.kr/article/202611161012021",
-          "source": "경향신문"
+          "title": "'227만원→86만원' 5개월새 62% 증발한 이 주식…삼전·닉스보다 더 깨졌다",
+          "url": "https://view.asiae.co.kr/article/2026111511094655140",
+          "source": "아시아경제"
         },
         {
-          "title": "[속보] 대법, 한덕수 내란중요임무 19일 선고…구속만료 하루전",
-          "url": "https://news.jtbc.co.kr/article/NB12328223",
-          "source": "JTBC"
+          "title": "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니",
+          "url": "https://www.sedaily.com/article/20114570",
+          "source": "서울경제"
         },
         {
-          "title": "여 “내란 재판 왜 늦어지나”-야 “특검법 의결시 ‘탈옥’ 공범”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713744",
-          "source": "KBS 뉴스"
+          "title": "“240만원→80만원, 절망입니다” 하이닉스보다 더 심하다…한달 새 ‘반토막’ 국민 황제주 추락",
+          "url": "https://biz.heraldcorp.com/article/10937134",
+          "source": "헤럴드경제"
         }
       ]
     },
     {
-      "keyword": "이무생",
+      "keyword": "은행",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-16T02:50:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "한화그룹",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T02:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHRXyoPfyB9tA6KC7r-kVtkhD8FY4UzvvQTVEL2900xZ99TiQOuXiGOch9L8",
-      "category": "기타",
+      "startedAt": "2026-11-16T04:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmGKgPWCjfaKSOSK7o9WjhkD1iSs6jJdiObPDIidHULI27yETYCHMjumYKLSs",
+      "category": "경제",
       "news": [
         {
-          "title": "삼성·SK·네이버가 샀지만…한화 100억대 초호화 레지던스 절반 미분양",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/13/2026111301362.html",
-          "source": "땅집고"
+          "title": "KB국민은행, 美 S&P500 지수 따라 이자 달라지는 외화예금 선봬",
+          "url": "https://www.g-enews.com/article/Finance/2026/11/202611161359515468bb91c46fcd_1",
+          "source": "글로벌이코노믹"
         },
         {
-          "title": "[단독]한화 김동관의 200억대 레지던스 분양률 40%, 누가 샀나",
-          "url": "https://namdi.co.kr/?p=30117",
-          "source": "남다른디테일"
+          "title": "국민은행, ‘KB 스타 지수연동외화예금’ 출시",
+          "url": "http://www.bikorea.net/news/articleView.html?idxno=47812",
+          "source": "BI KOREA"
         },
         {
-          "title": "[단독]시동걸자 600마력 엔진 ‘윙’, 시속 100km 바퀴 단 K9 ‘美상륙작전’",
-          "url": "https://www.donga.com/news/Economy/article/all/20261116/135028854/2",
-          "source": "동아일보"
+          "title": "KB국민은행, S&P500 연계 'KB Star 지수연동외화예금' 출시",
+          "url": "https://www.etnews.com/20261116000294",
+          "source": "전자신문"
         }
       ]
     },
     {
-      "keyword": "이재명",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T01:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLpdgLq510F6D1jBrayIp9TcBfUf4FbLQP9iWUIBxnyb_hBo2VA0nknmeaIO0",
-      "category": "정치·사회",
+      "keyword": "스카프 아저씨",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-16T03:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIz6pgz0L2VeJHuH3b5-T0LeRyEVDz11zOREV9ADvV6p3i63qvCxk1jWYA6RQ",
+      "category": "연예",
       "news": [
         {
-          "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 카드/한컷 | 멀티미디어",
-          "url": "https://m.korea.kr/multi/visualNewsView.do?newsId=148975751&pWise=mSub&pWiseSub=I1",
-          "source": "대한민국 정책브리핑"
+          "title": "CNN도 사흘 연속 찾아간 ’스카프 아저씨’…인터뷰는 거절",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116092751SNn",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "이 대통령 \"높아진 위상 걸맞게 국익 지키고 역할 확대\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6865914_36911.html",
-          "source": "MBC 뉴스"
+          "title": "‘남대문 스카프 아저씨’ 보조 알바 해보니… 아이돌급 환호에 이유 있었다",
+          "url": "https://www.chosun.com/national/weekend/2026/11/14/PEZEH22ZWNA7BG5EJBAU4D7P3M/",
+          "source": "조선일보"
         },
         {
-          "title": "[속보] 이 대통령, 17일 필리핀서 다카이치와 4번째 한·일 정상회담···셔틀외교 이어간다",
-          "url": "https://www.khan.co.kr/article/202611161100001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "우주",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T01:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzdpjLTAOqsBmqATvLMHN2tY_8WfPsPVV3RtJjp5PI-3mkCB5kSwrxpr3cGMg",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "‘우주의 새벽’은 어떻게 열렸나…슈퍼컴이 재현한 빅뱅 후 20억년",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1287480.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "초기 우주에 대한 가장 상세한 모델이 공개되었습니다.",
-          "url": "https://www.vietnam.vn/ko/cong-bo-mo-hinh-chi-tiet-nhat-tu-truoc-den-nay-ve-vu-tru-so-khai",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "코레일관광네트웍스, 누리호 5차 발사 기념 '우주과학열차' 운행",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752962",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "예멘",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T02:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIOgf2rL-UTUqP2rJ-DsNXnvTnoqMdGLncNiAfvvPBF9nHhMWZiZ9jhk7J8Oo",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“후티 공세에 예멘 정부군, 바브엘만데브 해협서 사실상 철수”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713291",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "홍해 길목서 후퇴한 친사우디군…이란은 바레인에 드론 공격",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01302166645646376",
-          "source": "마켓인"
-        },
-        {
-          "title": "후티, \"정부군의 라이주 진지 퇴각으로 임시수도 아덴에 육박\" 주장",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868752",
+          "title": "외신도 주목한 남대문 시장 화제 인물 스카프맨 ‘스카프리오’",
+          "url": "https://www.newsis.com/view/NISX20261116_0003868870",
           "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "청주시",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T02:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn1SQTrBXbYfYT16SpKmMmHIQFJw3E5J-A6osgEaF3058UHAIHA0pKBDUW5jk",
-      "category": "기타",
+      "keyword": "배구",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOChmmgITy58_GlRrZMDCjTqgntt6AulKhiSIU9sjleDiQ3gytd-7ok0dJk8o",
+      "category": "스포츠",
       "news": [
         {
-          "title": "청주 김장재료 28개 품목 구입비 34만3천원…작년보다 3.4%↑",
-          "url": "https://www.yna.co.kr/view/AKR20261116037300064",
+          "title": "마나베 IBK기업은행 감독의 ‘데이터 배구’, V리그 강타중",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261113010005342",
+          "source": "아시아투데이"
+        },
+        {
+          "title": "IBK, 흥국생명에 3-0 완승…4연승 질주",
+          "url": "https://www.yna.co.kr/view/MYH20261113023500038",
           "source": "연합뉴스"
         },
         {
-          "title": "청주시 김장비용 상승…양념류 가격 급등이 원인",
-          "url": "https://www.viva100.com/article/20261116500209",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "'금새우' 작년보다 30% 급등…청주 김장재료비 3.4%↑",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6355133",
-          "source": "뉴스1"
+          "title": "[사진]빈틈 공략하는 이소영의 공격",
+          "url": "https://biz.chosun.com/sports/sports_photo/2026/11/13/GY2DGMRXG5RDEMLDGZRGIMRUGY/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "조선민주주의인민공화국",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T02:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzWVQS5koRN7WcxxVy1zhXAR0SAsc4GZnNpoEYA3NpEFfo9JnSfb3Kx4doV0g",
-      "category": "정치·사회",
+      "keyword": "노동조합",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T03:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-omXybWZjFy36qMeAvpeBUCVLkyEDMrIHZG_-l7U5bfi24KuYd7EEzEnWrs",
+      "category": "기타",
       "news": [
         {
-          "title": "통일부 “북한 조용원, 미중러회담 앞두고 방러…관련 동향 주시”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713693",
+          "title": "대한항공·조종사노조, 3년치 임단협 잠정 합의",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713795",
           "source": "KBS 뉴스"
         },
         {
-          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
-          "source": "YTN"
+          "title": "대한항공·조종사노조, 3년치 임단협 잠정합의…19일부터 투표",
+          "url": "https://stock.mk.co.kr/news/view/1199438",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "'김정은 최측근' 조용원 방러…北 \"동맹관계 날로 고도화\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261115005651504",
-          "source": "연합뉴스"
+          "title": "대한항공 조종사노조 잠정합의…사측 \"시니어리티는 인사권, 특별공로금 지급\"",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869376",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "한소희",
+      "keyword": "개인정보",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T04:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2pJF2WgOJBvCejoq-zsNNcmDglhTUtTU8uX1fBiQHPjb8ASHdHLJFxqjw694",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "한국조폐공사 모바일 상품권 ‘착’, 해킹으로 3083명 개인정보 유출",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147268",
+          "source": "보안뉴스"
+        },
+        {
+          "title": "조폐공사 \"'chak' 정보 유출 사고는 API 인증 허점 노린 공격\"",
+          "url": "https://stock.mk.co.kr/news/view/1199429",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "조폐공사, 지역화폐 '착' 개인정보 3083명 유출 “API 인증 허점 악용”",
+          "url": "https://www.etnews.com/20261116000262",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "용인반도체클러스터",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN2KLrXGKEuzm4rahCl4RjQAnZWpTvNabM__4YV4TfwFkcL93IgUztrwkQkHY",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[르포] 양산 검증 장벽 허문다…SK하이닉스가 용인에 품은 '상생의 팹'",
+          "url": "https://zdnet.co.kr/view/?no=20261113134910",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "8,700억 들인 반도체 시험장…소부장 키운다",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116091456N2l",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "하이닉스 \"내년 용인 팹 가동\"...내부 협력업체 공간도",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161104164083",
+          "source": "YTN 사이언스"
+        }
+      ]
+    },
+    {
+      "keyword": "건강 수명",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T04:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4z-QeYs61JgXfa66PylaS29YUT6JY1X4-NoWYDO7m1vMEwRk6ORR9OfwqGgo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "전남광주 농어촌과 경기 신도시, 건강수명 ‘12년 격차’",
+          "url": "https://www.hani.co.kr/arti/society/health/1287463.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "\"가난하면 검진도 못 받아\"‥'건강도 불평등'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865818_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "사는 곳 따라 건강수명 12년 차이…분당 72.8세, 영광 60.9세",
+          "url": "https://www.abcn.kr/news/articleView.html?idxno=94572",
+          "source": "ABC뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "hlb테라퓨틱스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxlnPDOVgRM4lCeLO3Dko_EbsRL9j0-NyrS81wFx3N4BK60HWm3rynokPr23c",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[ET특징주] HLB테라퓨틱스, 각막염 신약 미국 임상 3상 유효성 확인 실패… 주가 '하한가'",
+          "url": "https://www.etnews.com/20261116000175",
+          "source": "전자신문"
+        },
+        {
+          "title": "HLB테라퓨틱스 주가 장중 하한가, 신경영양성각막염 치료제 미국 임상3상 유의성 확보 실패",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452045",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "HLB테라퓨틱스 'RGN-259' 3번째 임상 실패 … 개발비 834억 회수 가능할까",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/16/2026111650128.html",
+          "source": "뉴데일리 경제"
+        }
+      ]
+    },
+    {
+      "keyword": "노슬비",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-16T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7P-36_PM3HuCewnINmEMO4Gwa7wPyP2-7_Zy82IP_moF5CvYAW5_vxZbHt8M",
+      "startedAt": "2026-11-16T03:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcETMu7m1EEdFdWF4bw4HG5amZgUo5kGn8k3d52ovzR9Q7Z_NveB4jHCdNl40",
       "category": "기타",
       "news": [
         {
-          "title": "bhc, 한소희와 신메뉴 '알싹킹' TV 광고 선보인다…'팜걸코어' 접목",
-          "url": "https://www.news1.kr/industry/distribution/6354843",
-          "source": "뉴스1"
+          "title": "‘MZ 무속인’ 노슬비 “김정은 2년 안에 사망할 것”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HUDRRNRGPJDVTGTNUESKYXA76I/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "bhc, 한소희와 함께한 신메뉴 '알싹킹' TV 광고 온에어",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=782156",
-          "source": "싱글리스트"
+          "title": "'젠슨 황 불륜설 알고 있었다는' MZ 무속인, 이번엔 ○○○ 사망설 '무리수'",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868815",
+          "source": "뉴시스"
         },
         {
-          "title": "[슬소생]양념치킨은 눅눅하다?…bhc는 달랐다",
-          "url": "https://news.bizwatch.co.kr/article/consumer/2026/11/11/0019",
-          "source": "비즈워치"
+          "title": "계단도 뛰어오른다는데…\"김정은 2년 내 사망\" 예언한 무속인",
+          "url": "https://www.hankyung.com/article/202611168231H",
+          "source": "한국경제"
         }
       ]
     }
