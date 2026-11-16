@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T16:37:31.461Z",
+  "updatedAt": "2026-11-16T17:55:36.105Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
       "category": "스포츠",
@@ -11,6 +11,10 @@
     },
     {
       "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     },
     {
@@ -53,23 +57,48 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-16T15:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxPIUnmBGGuOCJihKArUc4nbGMIYCfuCTQ_ZESH0rjPRx-XN0PLXLSgH24NzQ",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDN3hTeyPfB4QBHq_dTmu-UU-3mfvBkV5_3hRGhaYMaBHSzYgZ1mjD7iazGNg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정",
-          "url": "https://hypebeast.kr/2026/11/robert-pattinson-officially-next-james-bond-announcement",
-          "source": "Hypebeast.KR"
+          "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
+          "url": "https://www.yna.co.kr/view/AKR20261117002400075",
+          "source": "연합뉴스"
         },
         {
           "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
-          "url": "https://www.hankookilbo.com/news/article/A2026111700500000146?dtypecode=pancode_world",
+          "url": "https://www.hankookilbo.com/news/article/A2026111700500000146",
           "source": "한국일보"
         },
         {
           "title": "\"뱀파이어에서 제임스 본드까지…\" 차기 007 유력한 로버트 패틴슨, 이유는?",
           "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100098520009172",
           "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "robert pattinson",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T15:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXms2KBtPCgEeMvkkvIw39DWYtjUN93WZ9ucA5VXC4Z1fiX1qgGPzJmlyuEag",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Robert Pattinson Named as the Next James Bond",
+          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Robert Pattinson is the new James Bond: His career in photos",
+          "url": "https://www.detroitnews.com/picture-gallery/entertainment/movies/2026/11/16/robert-pattinson-actor-james-bond-batman-edward-twilight/92810093007/",
+          "source": "The Detroit News"
+        },
+        {
+          "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
+          "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+          "source": "Variety"
         }
       ]
     },
@@ -128,13 +157,13 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-16T15:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ36mxIfJ-saNZbb7zQYIAGTtvop08kFafMw8CKF25s1NBZ1m1USniSOU6HA9k",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPTiJlrueuTzhPrWYJStgeJGGpIU9sM7NAWjuZlbd5_6aQXLKN4kfJ50IUZho",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
-          "url": "https://www.etnews.com/20261116000545",
-          "source": "전자신문"
+          "title": "추미애 “경기도 가용재원 2조원 줄어···정부·국회 세제 개편 응답해달라”",
+          "url": "https://www.khan.co.kr/article/202611161131021",
+          "source": "경향신문"
         },
         {
           "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
@@ -174,31 +203,6 @@
       ]
     },
     {
-      "keyword": "사업",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T13:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwwmBy4a_-UgPUX_mVLr_4LVGKUs9qkqz1SOeM4Np0h_7I_tvcH54VkKtBJGk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "동국생명과학, 수익성 낮은 진단장비 사업 정리…사명 변경",
-          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/16/X5CKQN2M6BGEDN4FIG2RAXIOUY/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "동국생명과학, 'DK 루오닉스'로 사명 변경…사업구조 재편 본격화 - 머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111616470797474",
-          "source": "머니투데이"
-        },
-        {
-          "title": "동국생명과학, 글로벌 성장 기반 강화 및 사업구조 재편",
-          "url": "https://zdnet.co.kr/view/?no=20261116170331",
-          "source": "지디넷코리아"
-        }
-      ]
-    },
-    {
       "keyword": "다시보기",
       "traffic": "100+",
       "trafficValue": 100,
@@ -212,8 +216,8 @@
           "source": "YTN 사이언스"
         },
         {
-          "title": "[이시각헤드라인] 11월 16일 뉴스투나잇",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611162143582zB",
+          "title": "[이시각헤드라인] 11월 16일 뉴스현장",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116132324DuC",
           "source": "연합뉴스TV"
         },
         {
@@ -253,18 +257,18 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-16T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVI1M0J1qTxg_oDH-Fe8PIH7w62TBy72_3fRlzzHo8Iul3Ccinlmq-9Ho7Fek",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9U11oLTBo_OYbwWGr_JIK2fjG4wIRrnL6P67Xy1jheic5CUvHK-J2kPY42OU",
       "category": "기타",
       "news": [
-        {
-          "title": "TOKİ'den 405 konutluk dev proje!",
-          "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje",
-          "source": "Antalya Ekspres"
-        },
         {
           "title": "Isparta'daki 274 TOKİ Konutu Ne Zaman Teslim Edilecek? İşte Yeni Tarih",
           "url": "https://www.demokrat32.com/ispartadaki-274-toki-konutu-ne-zaman-teslim-edilecek-iste-yeni-tarih",
           "source": "Demokrat32.com"
+        },
+        {
+          "title": "TOKİ'den 405 konutluk dev proje!",
+          "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje",
+          "source": "Antalya Ekspres"
         },
         {
           "title": "Isparta'ya 405 konut, 10 dükkan ve cami geliyor! TOKİ ihale tarihini açıkladı",
