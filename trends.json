@@ -1,143 +1,39 @@
 {
-  "updatedAt": "2026-11-16T01:07:13.103Z",
+  "updatedAt": "2026-11-16T02:49:13.067Z",
   "summary": [
     {
-      "category": "정치·사회",
-      "count": 3
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "category": "경제",
+      "count": 4
     },
     {
       "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
+      "count": 3
     },
     {
       "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "한국은행",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-15T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCivx6F3i5HQ-pP8YTefAjVA21ToGlD7gTKsPC-e1-VsCHTVPs8B_5dZxUnqE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "한국은행, 금 투자 늘렸는데… 시세 하락에 평가액 수백억원 줄어",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/11/15/MKJ7VHDJRNAEDM7IP7QP2SXIUQ/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "한국은행, 3분기 금 ETF 1억달러어치 더 샀다",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01984406645646048",
-          "source": "마켓인"
-        },
-        {
-          "title": "한은, 3분기 금 ETF 41% 늘렸는데…금값 하락에 325억 증발",
-          "url": "https://www.viva100.com/article/20261115500501",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "윤석열",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T23:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMLa2E1LV089qk5Pw3SLiXae7iMxa_X8MCY8aBocbS48bLPvcL4NcCX-9Wdc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1287471.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "尹 “계엄 해제됐는데 무슨 존속?”…내란 종료 시점 두고 설전",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712327",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "‘탄핵소추 때까지 내란’ 2차 특검 주장에 피식 웃은 尹",
-          "url": "https://www.chosun.com/national/court_law/2026/11/13/FTZ3FTALNRC6TOX6AHL5BT6GNE/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "테니스 선수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzBCifR_PnCPJtNAVHi-BrGCU-JcD-4nLC2TCp61HXGRcGn8aYJHZYdeY6ZZM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868557",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"호베르투 카를로스 같은 허벅지!\"…日 미녀 테니스 선수 게시물 한 장에 '팬 14만명' 환호→\"힘이 넘쳐보이는 허벅지\"",
-          "url": "https://www.xportsnews.com/article/2219651",
-          "source": "엑스포츠뉴스"
-        },
-        {
-          "title": "\"허벅지가 호베르투 카를루스 같아\" 日 미녀 테니스 선수, 짧은 상의+미니스커트 조합에 찬사 폭발…14만 팬 사로잡았다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019554",
-          "source": "SPOTV NEWS"
-        }
-      ]
-    },
-    {
-      "keyword": "에어로케이",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T23:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpwNDtuZ8tfadC5twZ8otgi6LyDSzW3Qtg-xC-XiDZn1vkBK5QmcMl5LTok8w",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "에어로케이·후지드림항공 ‘일본 여행 위해 뭉쳤다’",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1111184",
-          "source": "충청매일"
-        },
-        {
-          "title": "에어로케이항공, 후지드림항공과 일본 항공권 ‘1+1’ 이벤트",
-          "url": "https://www.jbnews.com/news/articleView.html?idxno=1515944",
-          "source": "중부매일"
-        },
-        {
-          "title": "에어로케이항공, 일본 후지드림항공과 공동 SNS 이벤트 진행",
-          "url": "https://www.sj-ccnews.com/news/articleView.html?idxno=63680",
-          "source": "세종충청뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김승수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-15T23:20:00.000Z",
+      "keyword": "박혜연",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-16T00:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUNuMKMJydIBVkjcoJdYXsCMCpwCBlkXxVVYss7E4RNGdwRQMuOS2CeygiY90",
       "category": "연예",
       "news": [
         {
           "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268?div=live_end",
           "source": "programs.sbs.co.kr"
         },
         {
@@ -146,134 +42,229 @@
           "source": "스포츠조선"
         },
         {
-          "title": "김승수, 양정아에겐 ‘그냥 친구’…16세 연하 박혜연엔 “전 안 돼요?”",
-          "url": "https://www.mk.co.kr/news/entertain/12209562",
-          "source": "매일경제"
+          "title": "\"전 안돼요?\" 김승수, 53세에 전한 핑크빛 소식..♥박혜연과 커플 탄생하나[핫피플]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/HEZWMZTGME3TQMLCHAZTGYJUGM/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "thứ hạng của đội tuyển tây ban nha gặp đội tuyển bóng đá quốc gia anh",
+      "keyword": "무역",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-15T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtIWfo1iYGdX_Lfmcr396v6-rqmUljOuE-RYoXKulTZqLVQp36XfWjuFJhnCk",
-      "category": "기타",
+      "startedAt": "2026-11-16T01:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKE0Lq5enfsp-pVf7Bwf3R2IBQxlgh2dgoz0IOmJTiCi1SA02_-17ITZ9S72w",
+      "category": "경제",
       "news": [
         {
-          "title": "Video bóng đá Tây Ban Nha - Anh: 5 bàn ngỡ ngàng (Nations League)",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-tay-ban-nha-anh-5-ban-ngo-ngang-nations-league-c48a1811394.html",
-          "source": "Tin tức 24h"
+          "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
+          "url": "https://www.hankyung.com/article/2026111575161",
+          "source": "한국경제"
         },
         {
-          "title": "Cầu thủ Tây Ban Nha và Anh xô xát trong đường hầm",
-          "url": "https://thethao247.vn/63-cau-thu-tay-ban-nha-va-anh-xo-xat-trong-duong-ham-c2-d445585.html",
-          "source": "Thể Thao 247"
+          "title": "미국·독일·중국과 다른 한국의 수출 1조…가야 할 길은 - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/11/15/2026111308301356298",
+          "source": "머니투데이"
         },
         {
-          "title": "Tuyển Anh hạ Tây Ban Nha, Bỉ và Pháp tiến vào tứ kết UEFA Nations League",
-          "url": "https://dantri.com.vn/the-thao/tuyen-anh-ha-tay-ban-nha-bi-va-phap-tien-vao-tu-ket-uefa-nations-league-20261116071505370.htm",
-          "source": "Báo Dân trí"
+          "title": "韓석유제품, 濠·유럽 에너지 안보 구원투수로",
+          "url": "https://www.sedaily.com/article/20114510",
+          "source": "서울경제"
         }
       ]
     },
     {
-      "keyword": "젠슨황 복귀",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA4r-Mdc8G8zIdWHd67O1ubayYqcSPh4pG-Y35abfTf0w43cT3NPSQHPL0-XA",
-      "category": "기타",
+      "keyword": "즉석밥",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T01:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhL46qeqtYKKzUE9UY6h_gl76fspRrEqntyTfS0qqWyncrEIg8owrg-wm6pxA",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중‥백악관 설득 시도\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865863_36925.html",
-          "source": "MBC 뉴스"
+          "title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
+          "url": "https://cjnews.cj.net/cj%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9-%ED%96%87%EB%B0%98-30%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%ED%95%9C%EC%A0%95%ED%8C%90-%EC%8B%A0%EC%A0%9C%ED%92%88-%ED%96%87%EB%B0%98-30%EA%B3%A1/",
+          "source": "CJ 뉴스룸"
         },
         {
-          "title": "젠슨 황 창업 구상 식당, ‘엔비디아 명판’ 뗐다가 원상복구",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/16/VAVI4C6PKZAF3BTPQWXFWKFLDE/",
-          "source": "조선일보"
+          "title": "현미·귀리 등 30가지 곡물 배합…햇반 30주년 한정판 ‘햇반 30곡밥’ 출시",
+          "url": "https://www.donga.com/news/Economy/article/all/20261116/135030711/1",
+          "source": "동아일보"
         },
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-          "url": "https://www.yna.co.kr/view/AKR20261116009100011",
-          "source": "연합뉴스"
+          "title": "[오늘의신상]밥 소믈리에 나섰다…30년 역량 집약 '햇반 30곡밥'",
+          "url": "https://view.asiae.co.kr/article/2026111609080362194",
+          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "변상일",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdqjmIWJkWiD7wDCc0rA5tEri-uIWGgBe3seYaASEHG5p8Kn00FK0dpPRw00Q",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
-          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
-          "source": "사이버오로"
-        },
-        {
-          "title": "변상일, 후쿠오카에 극적인 뒤집기…삼성화재배 4강 진출",
-          "url": "https://www.yna.co.kr/view/AKR20261115041700007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "고속도로 건설",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-15T23:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_MZauo8Njj3CDDW7svpehQJFy47n5vYWU_KpryMhGUs9N9RRXhlYE6YTpmww",
+      "keyword": "이현중",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T01:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLR2adx-IwwyRgwtfxj_MM-G9wdrS-0_hRUDIUkkYjsaqjQFAdudKyek009Ek",
       "category": "스포츠",
       "news": [
         {
-          "title": "경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진",
-          "url": "https://www.kyeonggi.com/article/20261115580186",
+          "title": "이현중, G리그서 커리어 하이 폭발…NBA 향한 ‘무력시위’",
+          "url": "https://www.kyeonggi.com/article/20261115580211",
           "source": "경기일보"
         },
         {
-          "title": "1시간 거리를 20분으로…울산 동서 잇는 새 길 열린다",
-          "url": "https://m.go.seoul.co.kr/news/2026/11/15/20261115500050",
-          "source": "서울Pn"
+          "title": "'3점슛 성공률 57.1％' 국가대표 이현중, '21점' G리그 진출 뒤 최다 득점 폭발",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/15/GA2GMZJWHFRTKYRQHE3GMNJUMU/",
+          "source": "조선일보"
         },
         {
-          "title": "울산 동서 연결 ‘울산외곽순환고속도로’ 건설 공사 본격화",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261115.99099004282",
-          "source": "국제신문"
+          "title": "몸 풀린 이현중…최다 득점 경신+탄탄한 수비, 본격적인 경쟁력 과시",
+          "url": "https://sports.donga.com/sports/article/all/20261115/135026684/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "교육부",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-15T23:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyKw9kxtJWR9vDIJSep0Rovocu9zuG9W1hpH3_xWf_R-VTHYxWptrttRgePn8",
-      "category": "정치·사회",
+      "keyword": "초고층",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T00:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPIxA2wAeMJrBNPvqxjjKaC8x4Xx9a4BE2DpovsRyH9Rk5McZyfoui_Ck_Kdw",
+      "category": "경제",
       "news": [
         {
-          "title": "소진공, 인적자원개발 우수기관 선정…지역 인재 등 채용 확대",
-          "url": "https://www.yna.co.kr/view/AKR20261116018200030",
-          "source": "연합뉴스"
+          "title": "월 2만원 내던 아파트 수선비, 초고층은 20만원…그래도 사실 건가요?[올앳부동산]",
+          "url": "https://www.khan.co.kr/article/202611160600061",
+          "source": "경향신문"
         },
         {
-          "title": "소진공, 지역인재·고졸·장애인 채용 늘렸다",
-          "url": "https://www.metroseoul.co.kr/article/20261116500053",
-          "source": "메트로신문"
+          "title": "\"고층 아파트, 10년 뒤 흉물 된다\"…건축 전문가의 섬뜩한 경고",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867279",
+          "source": "뉴시스"
         },
         {
-          "title": "\"지역인재 채용부터 정착까지\"…소진공, 교육부 장관 표창",
-          "url": "https://www.news1.kr/industry/sb-founded/6354713",
-          "source": "뉴스1"
+          "title": "\"높을수록 비싸다\"...초고층 단지 신고가에 건설사들 '높이 경쟁'",
+          "url": "https://www.newsway.co.kr/news/view?ud=2026111311170186339",
+          "source": "뉴스웨이"
+        }
+      ]
+    },
+    {
+      "keyword": "커버드 콜",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLcHw9LFSdA19mVpzZjSpZKgu3btbtPvr2KyY_9rekiDarV6J85Us8bHZyZKY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
+          "url": "https://www.hankyung.com/article/202611167754i",
+          "source": "한국경제"
+        },
+        {
+          "title": "[자산관리와 절세] \"ETF는 안 됩니다\" 배당 분리과세의 숨은 한 줄",
+          "url": "https://theviewers.co.kr/View.aspx?No=4312474",
+          "source": "뷰어스"
+        }
+      ]
+    },
+    {
+      "keyword": "청년미래적금",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T00:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKpk9xCUyG8VOTOa-LW259Js0Ur5wLceTB5pl--3yfRRMPntEFpLwzWNT2BoM",
+      "category": "경제",
+      "news": [
+        {
+          "title": "최대 금리 8%? 청년미래적금도 빈익빈부익부",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56918",
+          "source": "주간조선"
+        },
+        {
+          "title": "청년미래적금 2차 계좌 개설 시작…27일까지",
+          "url": "https://focustimes.co.kr/View.aspx?No=4313700",
+          "source": "포커스타임즈"
+        },
+        {
+          "title": "'취준생' 못 받는 청년미래적금…소득 없으면 가입 문턱부터 막혀",
+          "url": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=11252",
+          "source": "리드경제"
+        }
+      ]
+    },
+    {
+      "keyword": "공직",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T00:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScRa647xFVVrNGJ1S1Axam5_fYHwyuiKU88gkp2Q-zXGQA7XNiKT-JgKkjtXs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "군위군, 소통‧화합으로 하나되는 공직문화 만든다!",
+          "url": "https://www.dailydgnews.com/news/article.html?no=269252",
+          "source": "데일리대구경북뉴스"
+        },
+        {
+          "title": "인천 미추홀구, ‘선례보다 주민 불편 먼저’…적극행정 현장 대응력 높인다",
+          "url": "https://sports.donga.com/region/article/all/20261112/135012970/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "평택해경, 박경순 전 총경 초청…현장 중심 적극행정 교육 실시",
+          "url": "https://www.m-i.kr/news/articleView.html?idxno=2017729",
+          "source": "매일일보"
+        }
+      ]
+    },
+    {
+      "keyword": "공모",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T01:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVsnkArwgoEU2yFZu0DNSDvl-l0kRu6ouUMW9er719gWZ-v4_FuwHwtvXzpQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 '역대 최대규모' - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111608263796946",
+          "source": "머니투데이"
+        },
+        {
+          "title": "삼성바이오로직스, 유상증자에 11.4조 몰렸다… M&A 자금 확보",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001082",
+          "source": "IT조선"
+        },
+        {
+          "title": "삼성바이오, 2.7조 유증 청약률 96.8%…한미 MASH 신약 2b상 성과 [바이오 주간 결산]",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=01144726645646048",
+          "source": "팜이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "카우보이스 대 포티나이너스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T00:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsI5GT-FVRT_AFbIV3yzkfFTJPQpZGAJg4i5p2-e-JIKQ7nw9q0FNOPzFfS0s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Burrow's drag-route connection with Chase yields 35-yard gain with access to Steelers' territory",
+          "url": "https://www.nfl.com/videos/burrow-s-drag-route-connection-with-chase-yields-35-yard-gain-with-access-to-steelers-territory",
+          "source": "NFL.com"
+        },
+        {
+          "title": "Principal Owner & Chair Sheila Hamp on Lions' presence in Munich: 'Our fans are the best'",
+          "url": "https://www.detroitlions.com/news/sheila-hamp-on-lions-presence-in-munich-our-fans-are-the-best",
+          "source": "Detroit Lions"
+        },
+        {
+          "title": "Lions fans flock to German restaurant Dakota Inn in Detroit for overseas game",
+          "url": "https://www.cbsnews.com/detroit/news/detroit-lions-fans-germany-dakota-inn/",
+          "source": "CBS News"
         }
       ]
     }
