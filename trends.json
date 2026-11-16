@@ -1,17 +1,25 @@
 {
-  "updatedAt": "2026-11-16T20:44:59.874Z",
+  "updatedAt": "2026-11-16T21:42:41.684Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
-    },
-    {
-      "category": "기타",
+      "category": "정치·사회",
       "count": 3
     },
     {
-      "category": "경제",
+      "category": "스포츠",
       "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
     },
     {
       "category": "연예",
@@ -20,34 +28,34 @@
   ],
   "items": [
     {
-      "keyword": "로버트 패틴슨",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-16T15:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDN3hTeyPfB4QBHq_dTmu-UU-3mfvBkV5_3hRGhaYMaBHSzYgZ1mjD7iazGNg",
-      "category": "스포츠",
+      "keyword": "연금",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-16T20:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShGdEhzdKEo9pOQ9gVDb48W6tQAFe545IHjcG9slrRvDWk_6xyoe3mBsPLoGo",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
-          "url": "https://www.yna.co.kr/view/AKR20261117002400075",
+          "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
+          "url": "https://www.yna.co.kr/view/AKR20261116054700530",
           "source": "연합뉴스"
         },
         {
-          "title": "조쉬 오코너·칼럼 터너 말고 누구? … 주디 덴치가 추천한 차기 제임스 본드 [할리웃통신]",
-          "url": "https://tvreport.co.kr/world/article/1091339/",
-          "source": "TV리포트"
+          "title": "국민연금, AI로 화재감시 솔루션 도입… 3중 감시체계 구축",
+          "url": "https://www.viva100.com/article/20261116500626",
+          "source": "브릿지경제"
         },
         {
-          "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정 | Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/11/robert-pattinson-officially-next-james-bond-announcement",
-          "source": "Hypebeast.KR"
+          "title": "국민연금, 한전과 손잡고 ICT센터 'AI 화재감시' 강화",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869449",
+          "source": "뉴시스"
         }
       ]
     },
     {
       "keyword": "독일 대 네덜란드",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-16T19:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm7h5DJ7nsDFE_BLvjMTa6K8ZcKuLVmEHnhgKDswY-T_e6B_ewfPLWhanDDD4",
       "category": "스포츠",
@@ -70,194 +78,188 @@
       ]
     },
     {
-      "keyword": "robert pattinson",
+      "keyword": "리친청",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-16T15:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXms2KBtPCgEeMvkkvIw39DWYtjUN93WZ9ucA5VXC4Z1fiX1qgGPzJmlyuEag",
+      "startedAt": "2026-11-16T20:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5qJCvYUcCsVoJ2Ud4lwESN5Vfd97Lb-2yex9t2CYxBH07-oxlk4rEJ6QUxg",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
+          "url": "https://www.yna.co.kr/view/AKR20261116158800007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
+          "source": "사이버오로"
+        },
+        {
+          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "박세리",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T20:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCBE-sVuknxBQo8k96FPEkC0ot1CKHuzDKJd6lgVYS1TQA0Y3IOpe6Ldwi3g",
       "category": "기타",
       "news": [
         {
-          "title": "Robert Pattinson Named as the Next James Bond",
-          "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
-          "source": "The New York Times"
+          "title": "박세리, 운동하느라 사춘기 ‘스킵’ 고백... “50대인 지금 누구보다 예민해”",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/",
+          "source": "조선일보"
         },
         {
-          "title": "Watch Robert Pattinson Is New James Bond in Amazon’s Reboot",
-          "url": "https://www.bloomberg.com/news/videos/2026-11-16/robert-pattinson-is-new-james-bond-in-amazon-s-reboot-video",
-          "source": "Bloomberg.com"
+          "title": "박세리, \"운동하느라 사춘기 건너뛰었다...50대인 지금 가장 예민\"",
+          "url": "https://www.insight.co.kr/news/582300",
+          "source": "인사이트"
         },
         {
-          "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
-          "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
-          "source": "Variety"
+          "title": "박세리, 운동하느라 사춘기 스킵..\"50대인 지금 누구보다 예민\"",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/GEYWENDDMJSDIY3FHA2WGYLCMU/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "임예진",
+      "keyword": "윤이나",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-16T18:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KfqF7Z2ghwFQipC_MK6mWfPn1qXCnu6SHO6Llso7jcSxSPdRa_vyASNUDWQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
-          "url": "https://www.fnnews.com/news/202611150830151414",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
-          "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058",
-          "source": "서울신문"
-        },
-        {
-          "title": "\"기획부동산에 속아\"…임예진, 5000만원에 산 제주 땅 15년 만에 '80만원'",
-          "url": "https://view.asiae.co.kr/article/2026111609045980306",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "경비원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T17:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7bQK4lF0KsVi3KsfVXMeIg8H8QkI87W7N9BbBt_naMTCiIy1H9d1ecwcE-rQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“아버지라면 당연히 그랬을 것”…이웃 구하고 떠난 70대 경비원",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713933",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
-          "url": "https://www.donga.com/news/Society/article/all/20261116/135029032/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
-          "url": "https://www.yna.co.kr/view/MYH20261115001300038",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "추미애",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T15:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRidk45kye1ijjPUbrnZfYeQNUogy14ZXYmAiy_vEBU5u5VH_Ai9OnAknD1xqI",
+      "startedAt": "2026-11-16T20:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSryY9U28t7hFJ32T9giK0UbXTi2dzSGqWhF2pVCfJUIhRxG3nz-SsBBt94jl0",
       "category": "스포츠",
       "news": [
         {
-          "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
-          "source": "국제뉴스"
+          "title": "최혜진, 통한의 보기 2개…10번째 준우승",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161447356798C117&s_code=daily",
-          "source": "경기도뉴스포털"
+          "title": "최혜진, 준우승만 10번째 또 ‘뒷심 부족’… 땅을 쳤다",
+          "url": "https://www.donga.com/news/Sports/article/all/20261117/135035563/2",
+          "source": "동아일보"
         },
         {
-          "title": "경기도, 본예산 수치로 드러난 재정난…국비 매칭과 복지 예산 ‘절반’ 육박",
-          "url": "https://www.kyeonggi.com/article/20261116580547",
-          "source": "경기일보"
-        }
-      ]
-    },
-    {
-      "keyword": "장항준",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T18:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRUflWswOP-IuPZN4iL529OANEXpzQ-7sqMmjJns3xo7Mui2Sx5DUwU43VG_8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "장항준, '왕사남' 흥행 수익 26억 스태프들과 나눴다",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611161700574516",
-          "source": "YTN"
-        },
-        {
-          "title": "“계약에도 없던 돈”…장항준, ‘왕사남’ 배우·스태프에 26억 쐈다",
-          "url": "https://www.joongang.co.kr/article/25479103",
-          "source": "중앙일보"
-        },
-        {
-          "title": "유해진·박지훈 제외..'왕사남' 장항준, 흥행 인센티브 26억 스태프에 줬다 '미담 화제' [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MQ2TCOBQG43TKMJTG5SGEMDEME/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "차장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T17:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00v_5zEsiaYrCgemuLdQEIOCt6VwHL_nfKztErz2I-HgQ9FxfOGj5orb8TZQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "오현주 코이카 이사장 취임 \"사업수행 넘어 개발협력 미래 기획\"",
-          "url": "https://www.yna.co.kr/view/AKR20261116077200371",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "“국제 개발원조도 미래 기획으로 가야”",
-          "url": "https://www.dt.co.kr/article/12095534",
-          "source": "www.dt.co.kr"
-        },
-        {
-          "title": "오현주 신임 코이카 이사장 \"통합의 코이카로 재도약…상생 개발협력 실현\"",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869630",
+          "title": "소렌스탐과 우승 기념 촬영하는 린디 던컨",
+          "url": "https://www.newsis.com/view/NISI20261116_0002292952",
           "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "다시보기",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-Sl2CjLsS5KfmMgEioB5frM7FRyZJ6GanJluC6izdCn4rtnCtvdh3njCsEow",
-      "category": "기타",
+      "keyword": "우리은행",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T20:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRunQ-oeCLUFKJTDjAKtGuzetZYKQZ7QR3AWxBH2cU6IgpXCk2sEo4CfRIyU30",
+      "category": "경제",
       "news": [
         {
-          "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
-          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023",
-          "source": "YTN 사이언스"
+          "title": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’",
+          "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "우리은행, 제29회 '우리 아트콘' 본선 개최…어린이·청소년 250명 참가",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753853",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "[포토] 우리은행 어린이 미술대회",
+          "url": "https://www.mk.co.kr/news/economy/12210126",
+          "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "최우제",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T15:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0mJOnU3NqFnwbgPHP2uX5y4miVuBRg_Prx7J-6bugvPCLoyZl-ouGgSkaeOI",
-      "category": "스포츠",
+      "keyword": "민희진",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T19:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZny36F1OSR6FlikONTadM0lKqgmLqo5BsVnw8mMdInGAaF9m9ZXj23eKMFzE",
+      "category": "연예",
       "news": [
         {
-          "title": "[뉴스워커_스포츠] 롤 인벤·롤갤 뒤집은 제우스 복귀설... 정작 티원은 침묵 중",
-          "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513543",
-          "source": "뉴스워커"
+          "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+          "source": "연합뉴스"
         },
         {
-          "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
-          "url": "https://www.etoday.co.kr/news/view/2647803",
-          "source": "이투데이"
+          "title": "경찰, '뉴진스 계약 해지' 민희진 업무상 배임 송치",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866041_36918.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
-          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
-          "source": "https://www.standingout.kr/"
+          "title": "민희진, 배임 혐의 공소청 송치…하이브 레이블 소송은 모두 기각",
+          "url": "https://magazine.hankyung.com/business/article/202611160233b",
+          "source": "한경매거진"
         }
       ]
+    },
+    {
+      "keyword": "음주 운전",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T19:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNbgJNFSFJvQkZMQZCkf6lgjoF1sBGkxXwrTIt9_GW4LFOz9pQg6eedUWHHs",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "경찰, 음주운전으로 청소차 들이받은 고경표 소환조사 방침",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "고경표, 음주운전 여파에 팬미팅 취소…“실망 안겨 드리게 돼 사과”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/ZBEXEGN2QJCZDF7VUTX5J44KRU/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "\"李대통령도 음주운전, 왜 고경표만\"…팬클럽 형평성 문제제기 '시끌'",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/15/2026111590076.html",
+          "source": "TV조선뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "북한",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T19:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUT_u3aCYPxoqa145naQTb3F2oF77VyRHd1oJx2APsMZTor_YiNsWgAxMLo8E",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "url": "https://www.yna.co.kr/view/AKR20261117005800109",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848824&plink=RSSLINK&cooper=GSTAND",
+          "source": "news.sbs.co.kr"
+        },
+        {
+          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "이혜영",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T18:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
