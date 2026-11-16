@@ -1,24 +1,16 @@
 {
-  "updatedAt": "2026-11-16T17:55:36.105Z",
+  "updatedAt": "2026-11-16T18:49:28.593Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 5
     },
     {
       "category": "스포츠",
-      "count": 2
+      "count": 3
     },
     {
       "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "경제",
       "count": 1
     },
     {
@@ -32,23 +24,23 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-11-16T14:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFkFKobBLFXuq3x3K5NkBS271WwvNPQIqP5diJerVKXFovfgHvE8V9aUAYEtk",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4X3cobkv5tnnkCn27qn-h1B_33zU_KGNU5yKWhoZoCe-Xtn2Wn6nrCXFcI5A",
       "category": "연예",
       "news": [
         {
-          "title": "고수, '나인투식스'로 15년 만의 로맨스 복귀…\"이번 작품서 내 비주얼 살짝 아쉬워\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848354",
-          "source": "SBS 뉴스"
+          "title": "스푼랩스 ‘비글루’, AI 숏드라마 2차 공모전 연다",
+          "url": "https://zdnet.co.kr/view/?no=20261116165905",
+          "source": "지디넷코리아"
         },
         {
-          "title": "[드라마 속 음악②] \"마지막 장면이 가장 중요\"…OST 제작의 숨은 공식",
-          "url": "https://news.tf.co.kr/read/entertain/2389544.htm",
-          "source": "더팩트"
+          "title": "\"클링 AI로 만드는 숏드라마\"…비글루, 새 IP 찾는다",
+          "url": "https://www.ddaily.co.kr/page/view/2026111618282434761",
+          "source": "디지털데일리"
         },
         {
-          "title": "‘북부대공’ 최산, 박민영·육성재 큐피드 된다",
-          "url": "https://sports.khan.co.kr/article/202611161717003",
-          "source": "스포츠경향"
+          "title": "디딤돌·미래디지털AI협회, 'AI 숏드라마 실전반 1기' 개강… AI 영상 제작 본격 실습",
+          "url": "https://www.youthassembly.kr/news/1037290",
+          "source": "유스연합"
         }
       ]
     },
@@ -91,9 +83,9 @@
           "source": "The New York Times"
         },
         {
-          "title": "Robert Pattinson is the new James Bond: His career in photos",
-          "url": "https://www.detroitnews.com/picture-gallery/entertainment/movies/2026/11/16/robert-pattinson-actor-james-bond-batman-edward-twilight/92810093007/",
-          "source": "The Detroit News"
+          "title": "Robert Pattinson cast as James Bond, and social media has thoughts",
+          "url": "https://www.usatoday.com/videos/entertainment/movies/2026/11/16/see-the-internet-react-to-robert-pattinsons-james-bond/92812252007/",
+          "source": "USA Today"
         },
         {
           "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
@@ -157,18 +149,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-16T15:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPTiJlrueuTzhPrWYJStgeJGGpIU9sM7NAWjuZlbd5_6aQXLKN4kfJ50IUZho",
-      "category": "정치·사회",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRidk45kye1ijjPUbrnZfYeQNUogy14ZXYmAiy_vEBU5u5VH_Ai9OnAknD1xqI",
+      "category": "스포츠",
       "news": [
-        {
-          "title": "추미애 “경기도 가용재원 2조원 줄어···정부·국회 세제 개편 응답해달라”",
-          "url": "https://www.khan.co.kr/article/202611161131021",
-          "source": "경향신문"
-        },
         {
           "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
           "source": "국제뉴스"
+        },
+        {
+          "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
+          "url": "https://www.etnews.com/20261116000545",
+          "source": "전자신문"
         },
         {
           "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
@@ -178,27 +170,27 @@
       ]
     },
     {
-      "keyword": "코리아 패싱",
+      "keyword": "사업",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-16T13:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-W0mTIFsfl99ywFv_r25Nl5omBqbsX9om1ngVWK9CYsESvLHKOwSsSBVTlsQ",
-      "category": "경제",
+      "startedAt": "2026-11-16T13:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwwmBy4a_-UgPUX_mVLr_4LVGKUs9qkqz1SOeM4Np0h_7I_tvcH54VkKtBJGk",
+      "category": "기타",
       "news": [
         {
-          "title": "[이하경 칼럼] 한·미 동맹은 저주가 아니다",
-          "url": "https://www.joongang.co.kr/article/25478852",
-          "source": "중앙일보"
+          "title": "동국생명과학, 수익성 낮은 진단장비 사업 정리…사명 변경",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/16/X5CKQN2M6BGEDN4FIG2RAXIOUY/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "트럼프의 '코리아 패싱', 또 드리워지는 '불길한 그림자'",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650286.html",
-          "source": "뉴데일리"
+          "title": "동국생명과학, 'DK 루오닉스'로 사명 변경…사업구조 재편 본격화 - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111616470797474",
+          "source": "머니투데이"
         },
         {
-          "title": "[朝鮮칼럼] 북·중·러 위협 속 한미동맹의 새로운 전략",
-          "url": "https://www.chosun.com/opinion/chosun_column/2026/11/16/F2NGGNEI25GJDIVVJCSNPBMLGE/",
-          "source": "조선일보"
+          "title": "동국생명과학, ‘DK Luonix’로 사명 변경 추진…ME 사업 정리하고 글로벌 전환",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315469",
+          "source": "스트레이트뉴스"
         }
       ]
     },
@@ -257,23 +249,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-16T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9U11oLTBo_OYbwWGr_JIK2fjG4wIRrnL6P67Xy1jheic5CUvHK-J2kPY42OU",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_GZUogByHmCIUOjZDMaCOg7S1dRURPOYzs2Ch9vmws55VAopI__K1sz44C3s",
       "category": "기타",
       "news": [
         {
-          "title": "Isparta'daki 274 TOKİ Konutu Ne Zaman Teslim Edilecek? İşte Yeni Tarih",
-          "url": "https://www.demokrat32.com/ispartadaki-274-toki-konutu-ne-zaman-teslim-edilecek-iste-yeni-tarih",
-          "source": "Demokrat32.com"
+          "title": "İnegöl'de TOKİ Heyecanı: 123 Konutun Kurası Yarın Çekiliyor",
+          "url": "https://www.e-inegol.com/haber/inegol-de-toki-heyecani-123-konutun-kurasi-yarin-cekiliyor-288342",
+          "source": "İnegöl'de"
         },
         {
-          "title": "TOKİ'den 405 konutluk dev proje!",
-          "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje",
-          "source": "Antalya Ekspres"
+          "title": "Balıkesir'de TOKİ projesinde konut belirleme kura sonuçları açıklandı",
+          "url": "https://www.emlakpencerem.com.tr/balikesirde-toki-projesinde-konut-belirleme-kura-sonuclari-aciklandi/117172",
+          "source": "Emlak Pencerem"
         },
         {
-          "title": "Isparta'ya 405 konut, 10 dükkan ve cami geliyor! TOKİ ihale tarihini açıkladı",
-          "url": "https://www.antalyakorfez.com/ispartaya-405-konut-10-dukkan-ve-cami-geliyor-toki-ihale-tarihini-acikladi",
-          "source": "Antalya Körfez Gazetesi"
+          "title": "Hendek’te mera, Sakarya’da TOKİ krizi! HAK SAHİPLERİ BEKLEMEDE",
+          "url": "https://www.sakaryayenihaber.com/haber/29128537/hendekte-mera-sakaryada-toki-krizi-hak-sahipleri-beklemede",
+          "source": "Sakarya Yenihaber"
         }
       ]
     }
