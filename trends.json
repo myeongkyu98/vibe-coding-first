@@ -1,275 +1,267 @@
 {
-  "updatedAt": "2026-11-17T22:49:26.011Z",
+  "updatedAt": "2026-11-17T23:45:14.952Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "count": 8
     },
     {
       "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "운세",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-17T21:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHQdGStCVUwxykrEPBMT9Y0Dff4XSTojP13coeRXTTNZwxwTb2gwiPEI29w08",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[오늘의 운세] 11월 18일 수요일 (음력 10월 10일) 띠별 운세",
-          "url": "https://www.kyeonggi.com/article/20261113580066",
-          "source": "경기일보"
-        },
-        {
-          "title": "[오늘의 운세] 2026년 11월 18일 띠별 운세",
-          "url": "https://www.ytn.co.kr/_ln/0121_202611180000000001",
-          "source": "YTN"
-        },
-        {
-          "title": "[김동완의 오늘의 운세] 2026년 11월 16일",
-          "url": "https://m.go.seoul.co.kr/news/life/2026/11/16/20261116500002?cp=go",
-          "source": "서울Pn"
-        }
-      ]
-    },
-    {
-      "keyword": "배당",
+      "keyword": "상속",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-17T20:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ8UEpOHwyUiy3LFq3iVVwxQTmUcwllE2HJKFbqt4-CY_K0YwNo8c77YR-_c8",
-      "category": "경제",
-      "news": [
-        {
-          "title": "미래에셋자산운용, TIGER 액티브 커버드콜 ETF 순자산 4조원 돌파",
-          "url": "https://www.etnews.com/20261117000070",
-          "source": "전자신문"
-        },
-        {
-          "title": "ETF 투자자도 '삼전닉스 배당'에 웃는다…분배율 5배 껑충",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02955286645646376",
-          "source": "마켓인"
-        },
-        {
-          "title": "미래에셋운용, TIGER 액티브 커버드콜 ETF 순자산 4조 돌파",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871257",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "보안 취약점",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T21:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFL9-gdvBaSYz-SCix1XYrxgI9TWhGmHdvy4WqziKCjIewc3jJWxPGDqHuW0",
+      "startedAt": "2026-11-17T22:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShXDVrTFbnudxZe4cYGFJ4sxTlwkV2fv4B65PmE30EUu_cZ_FDVnRtZodJ8ZY",
       "category": "기타",
       "news": [
         {
-          "title": "PHP 이어 '자바'서도 치명적 취약점…공공·기업 보안 비상",
-          "url": "https://www.yna.co.kr/view/AKR20261118014000017",
-          "source": "연합뉴스"
+          "title": "10억원에 판 어머니 집, 취득가액은 세무서가 매긴 2억원일까[판례방]",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02650246645645720&mediaCodeNo=257",
+          "source": "이데일리"
         },
         {
-          "title": "국가안보실, '자바' 취약점 확인에 민관군 긴급회의…대책 수립",
-          "url": "https://www.yna.co.kr/view/AKR20261118018300001",
-          "source": "연합뉴스"
+          "title": "[법률라운지] 상속재산 양도차익 계산 시 소급감정가액도 취득가액으로 인정될 수 있을까",
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611150959435310083&section=S1N7",
+          "source": "대한경제"
         },
         {
-          "title": "방화벽이 침투 통로로... 이스라엘 기관, 체크포인트 장비 뚫려 서버 파일까지 삭제",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147277",
-          "source": "보안뉴스"
+          "title": "[칼럼] 유언서 위조한 아들, 며느리가 대신 상속받을 수 있을까?",
+          "url": "https://www.mediainnews.com/news/articleView.html?idxno=48973",
+          "source": "미디어인뉴스"
         }
       ]
     },
     {
-      "keyword": "denmark vs norway",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T21:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "keyword": "argentina vs costa rica",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T22:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4t8bCh6VI9AnBeB3BRTv1fwYNf65HVVSUyInEcjaTFoWe5lRXZ0iI-Lo407A",
       "category": "스포츠",
       "news": [
         {
-          "title": "Denmark vs Norway: UEFA Nations League stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cq1k974v3m9dt",
-          "source": "BBC"
+          "title": "¿Por qué no juega Lionel Messi en Argentina vs Costa Rica? El adiós definitivo del 10",
+          "url": "https://www.365scores.com/es/news/por-que-no-juega-lionel-messi-costa-rica/",
+          "source": "365Scores"
         },
         {
-          "title": "Football Bet of the Day: Danish delight in front of goal on Tuesday",
-          "url": "https://mrfixitstips.co.uk/football-bet-of-the-day-danish-delight-in-front-of-goal-on-tuesday/",
-          "source": "MrFixitsTips"
+          "title": "Para ver a la Selección, empezaron a regalar entradas y buscan llenar el Kempes",
+          "url": "https://delsurdiario.com/deportes/para-ver-a-la-seleccion-empezaron-a-regalar-entradas-y-buscan-llenar-el-kempes",
+          "source": "Del Sur Diario"
         },
         {
-          "title": "Licensable picture: Denmark V Norway: Group Stage - UEFA Nations League",
-          "url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYRU9IWVQ",
-          "source": "Reuters Connect"
+          "title": "Video: el golazo de Nicolás Paz y la salvada de Emiliano Martínez para la selección argentina ante Costa Rica",
+          "url": "https://www.lanacion.com.ar/deportes/futbol/video-los-goles-de-argentina-vs-costa-rica-nid17112026/",
+          "source": "La Nación"
         }
       ]
     },
     {
-      "keyword": "사고",
+      "keyword": "schd",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T21:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7A3vFYNjOC41w_7O0Tc4nCO0I68z3dRAPxmAU7qwkGaDIJuqlEKeLHyb-hI",
+      "startedAt": "2026-11-17T22:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfsRY_TZZVyL0bolzIxM-37w5pIY9HUl8RRwgBLbfxkD5cUAAClIi09KmImVA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "The Winners Inside SCHD - November 2026",
+          "url": "https://seekingalpha.com/article/4968854-the-winners-inside-schd-november-2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "A New King of Dividend ETFs",
+          "url": "https://etfdb.com/equity-etf-content-hub/new-dividend-etf-king/",
+          "source": "ETF Database"
+        },
+        {
+          "title": "1 ETF That Can Turn $500 Monthly Into a $600,000 Portfolio That Pays Out $18,000 Annually",
+          "url": "https://www.fool.com/investing/2026/11/14/1-etf-that-can-turn-500-monthly-into-a-600000-portfolio-that-pays-out-usd18-000-annually/",
+          "source": "The Motley Fool"
+        }
+      ]
+    },
+    {
+      "keyword": "ionq",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvrtwjjqD7wpWep5NjKtw-GsOU33ytKFTJ7kRwcY7y0sxMJlzlGZROvh-LlzQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Ionq stock hits 52-week low at 24.91 USD",
+          "url": "https://www.investing.com/news/company-news/ionq-stock-hits-52week-low-at-2491-usd-93CH-5033482",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Weekly Recap: Q3 revenue growth, higher 2026 guidance and CFO changes",
+          "url": "https://www.tradingview.com/news/tradingview:c8034104b21ad:0-weekly-recap-q3-revenue-growth-higher-2026-guidance-and-cfo-changes/",
+          "source": "TradingView"
+        },
+        {
+          "title": "IonQ: Quantum Progress Meets Unnecessary Shareholder Dilution (Rating Downgrade)",
+          "url": "https://seekingalpha.com/article/4969026-ionq-stock-quantum-progress-meets-unnecessary-shareholder-dilution-downgrade",
+          "source": "Seeking Alpha"
+        }
+      ]
+    },
+    {
+      "keyword": "앨리스 황",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSca0SjztJqb34wlDM2yzyt_rFJNidWNR5CmhNeNq1W5Xo2llvklmIJ-rt2Zns",
       "category": "정치·사회",
       "news": [
         {
-          "title": "고경표 때문에 더 주목받는 '술꾼들'...신동엽·성시경이 '무사고' 지킨 비결",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/17/MNQTOM3BG5SDONJTGQ2TMMLDGY/",
-          "source": "조선일보"
+          "title": "\"앨리스 황 남편, 中 정부 지원받아 12조 원 데이터센터 사업\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6866314_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "고경표처럼 청소차 '쾅'...호란, 세 번째 음주운전 사고 '재조명' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111707460827049",
+          "title": "“젠슨 황 딸이 스캔들 대응에 깊이 관여…누구도 ‘NO’ 못했다”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261118/135043376/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "WSJ \"앨리스 황 남편, 중국 정부 지원받아 13조 데이터센터 사업 추진\"",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217500",
+          "source": "AI타임스"
+        }
+      ]
+    },
+    {
+      "keyword": "핑클",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T22:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqkm68o4P171svXcPUghgvjxVaUejLOHMtL32MSlfQjqIdAhDfmqZoO_vEWA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'190억 집 압류해제' 옥주현, '남편 무죄' 성유리와 재회…핑클 뭉쳤다 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111719381779534",
           "source": "머니투데이"
         },
         {
-          "title": "고경표까지 음주운전 사고로 활동 중단…끊이지 않는 연예계 음주운전 [N이슈]",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6356206",
-          "source": "뉴스1"
+          "title": "이효리 품에 쏙 들어오는 이진? '레인'데이에 핑클 완전체 회동",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/G5TDIMJVMUZWMYTEMZTDMMLFHA/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "옥주현, 190억 한남더힐 압류 닷새 만에 해제…임의경매는 여전히 진행 중",
+          "url": "https://www.segye.com/newsView/20261113509425",
+          "source": "세계일보"
         }
       ]
     },
     {
-      "keyword": "nations league",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T21:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8Oyc7fT5YJzkEfdZuTIXlaKRig5zuU-SjTaxmHOTpTnBzNmbTh7Ws-A6oYw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Wales 2-3 Portugal: Bold hosts edged out in five-goal thriller",
-          "url": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
-          "source": "BBC"
-        },
-        {
-          "title": "Licensable picture: Nations League - Group A4 - Wales v Portugal",
-          "url": "https://www.reutersconnect.com/item/nations-league-group-a4-wales-v-portugal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgxSENMTDQ",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales finish bottom of group",
-          "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
-          "source": "The Guardian"
-        }
-      ]
-    },
-    {
-      "keyword": "화재",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T21:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLjlqc7sZCWAmONzQCKgNk8Mck-VYAnkhb8SmfWnoejUsaRx8ViFfM6SsZPQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "청주 옥산면 단독주택서 화재…60대 거주자 사망",
-          "url": "https://www.yna.co.kr/view/AKR20261118013500064",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "청주 주택서 불…60대 남성 심정지 상태 발견",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118001658qQv",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "충북 옥산 단독주택서 불‥60대 거주자 숨져",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866452_36918.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김효주",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T21:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZ3n2KnV1gXofrKNLvant5UurVWI9XHteLPMgM46s6iyCLswMk0KShPfpftk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "우승 상금 400만 달러 LPGA 최종전 투어 챔피언십 19일 개막",
-          "url": "https://www.yna.co.kr/view/AKR20261117030900007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "유해란·김효주·윤이나…‘53억 머니게임’ 출사표",
-          "url": "https://www.sedaily.com/article/20114943",
-          "source": "서울경제"
-        },
-        {
-          "title": "53억 잭팟 쏘고…최다우승국 명예 잡나",
-          "url": "https://sports.khan.co.kr/article/202611180200006",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "롤 점검",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T20:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZNrCq5EHZk7qU2vFMVn3voAuPYqb3G8Vh24j5kzI9BqBkLOqP7GW0O1jLgoI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "리그 오브 레전드 26.23 패치 노트",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/",
-          "source": "League of Legends"
-        },
-        {
-          "title": "라이엇게임즈, LoL 2027 시즌1 공개... '도벽' 복귀·랭크 보상 개편",
-          "url": "https://www.etnews.com/20261117000187",
-          "source": "전자신문"
-        },
-        {
-          "title": "[게임업계 소식] 라이엇 게임즈, LoL 2027년 첫 콘텐츠 공개 外",
-          "url": "https://www.viva100.com/article/20261117500407",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "nvda stock",
+      "keyword": "무안군",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-17T21:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc441zjyI4anzvJPFOXYdIn_m8a0DZ24ijZQd7riSo-5q6UOhX3yMZ27IeX8I",
+      "startedAt": "2026-11-17T22:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRF9YE4fUHUSla0I7pD8132Ip84-d_lN_oKlSrnK9UH1rf-uP8DDxhr1EPjzqw",
       "category": "기타",
       "news": [
         {
-          "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO: Live updates",
-          "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-          "source": "CNBC"
+          "title": "울릉군의회, 제297회 제2차 정례회 개회…33일간 의사일정 돌입",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/17/2026111750202.html",
+          "source": "뉴데일리 대구경북"
         },
         {
-          "title": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO",
-          "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
-          "source": "Yahoo Finance"
+          "title": "고창군의회, 328회 정례회 개회…추경에 내년 예산 심의",
+          "url": "https://www.newsis.com/view/NISX20261117_0003871899",
+          "source": "뉴시스"
         },
         {
-          "title": "NVIDIA Posts 14th Consecutive Record Revenue Amid CEO Transition",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/18/DHPTHYRBQFCI5AALQKMZJGTKNM/",
+          "title": "울릉군의회, 내년도 살림살이 짠다… 33일간 정례회 대장정 돌입",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887490",
+          "source": "글로벌경제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "spcx",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T22:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUIvq9xXDupRQUICMQrASqNd--OyHUYlCEBazO0ZeCJTi6wkJAlf-l6r9isnk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "SpaceX Stock to Double? Analyst Says Company Completed ‘The Missing Piece of the Reusability Puzzle’",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63306262/spacex-stock-to-double-analyst-says-company-completed-the-missing-piece-of-the-reusability-puzzle",
+          "source": "Benzinga"
+        },
+        {
+          "title": "SpaceX (NASDAQ: SPCX) Shares Tumble After Democratic Election Win As Musk's Political Gamble Backfires",
+          "url": "https://www.foreignpolicyjournal.com/2026/11/17/spacex-nasdaq-spcx-shares-tumble-after-democratic-election-win-as-musks-political-gamble-backfires/",
+          "source": "Foreign Policy Journal"
+        },
+        {
+          "title": "Starship successfully recovered, yet fails to boost stock price! Morgan Stanley: Market reassesses SpaceX (SPCX.US) business model and strategic risks; maintains $300 target price",
+          "url": "https://www.moomoo.com/news/post/1004905812/starship-successfully-recovered-yet-fails-to-boost-stock-price-morgan",
+          "source": "Moomoo"
+        }
+      ]
+    },
+    {
+      "keyword": "tqqq",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T22:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPlPPe1v_H3MZHwuLjQ0c1KJi8KvrByhpIL1S-_W_OLCDgb3G4ia97HAYUMmU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Poloniex launches trading of tokenized Tesla, N...",
+          "url": "https://pluang.com/en/news-feed/poloniex-tambahkan-token-tesla-nvidia-spacex-untuk-perdagangan-usdt",
+          "source": "Pluang"
+        },
+        {
+          "title": "Poloniex Launches $SOXS, $KORU, and $SNXX Tokenized ETFs",
+          "url": "https://cryptonews.net/news/market/33763231/",
+          "source": "Cryptonews.net"
+        },
+        {
+          "title": "Poloniex Launches Trading for $QQQ, $TQQQ, and $SOXL ETFs",
+          "url": "https://cryptonews.net/news/market/33756800/",
+          "source": "Cryptonews.net"
+        }
+      ]
+    },
+    {
+      "keyword": "south korea",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_F2VnanG5owtb-LPiwYG7CWvVfP4vffJQmx9OIzSsQd7pqFqpQDMOby98MI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Russia Criticizes South Korea-US-Japan Drills as Escalating Tensions",
+          "url": "https://www.chosun.com/english/world-en/2026/11/18/AU37NJT6EFCCLJ7MNBA32ED7VQ/",
           "source": "조선일보"
+        },
+        {
+          "title": "South Korea, US hold joint aerial resupply drills to boost wartime readiness",
+          "url": "https://www.aa.com.tr/en/asia-pacific/south-korea-us-hold-joint-aerial-resupply-drills-to-boost-wartime-readiness/4118496",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "Lavrov: \"ROK-U.S.-Japan Exercises Aim to Contain North Korea\" : Global : JKN",
+          "url": "https://news.jkn.co.kr/editions/english/post/1102991",
+          "source": "재경일보"
         }
       ]
     }
