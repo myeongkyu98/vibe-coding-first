@@ -1,10 +1,6 @@
 {
-  "updatedAt": "2026-11-17T05:54:38.939Z",
+  "updatedAt": "2026-11-17T07:04:56.365Z",
   "summary": [
-    {
-      "category": "정치·사회",
-      "count": 3
-    },
     {
       "category": "기타",
       "count": 3
@@ -14,8 +10,12 @@
       "count": 2
     },
     {
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
       "category": "경제",
-      "count": 1
+      "count": 2
     },
     {
       "category": "IT·과학",
@@ -23,6 +23,56 @@
     }
   ],
   "items": [
+    {
+      "keyword": "전남광주통합특별시교육청",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T05:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk_qGBuQnOMcl_wmY40FADgiXsHDIiE-xkbFADx0zzR63g72avnsSvXx-hQBs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "수능 감독 교사는 수당 17만원인데···전남광주교육청 간부는 최대 330만원 챙겼다",
+          "url": "https://www.khan.co.kr/article/202611171217001",
+          "source": "경향신문"
+        },
+        {
+          "title": "수능 감독교사는 수당 17만원 받는데…교육감은 330만원 챙겼다",
+          "url": "https://www.mk.co.kr/news/society/12211185",
+          "source": "매일경제"
+        },
+        {
+          "title": "수능 감독수당 교사는 17만원, 교육청 고위직은 수백만원",
+          "url": "https://www.yna.co.kr/view/AKR20261117114400054",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "고지용",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T05:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo8WkLtZgvZt3o1-xy6iU5zmJ0JgEXwBiw2r5b-UpmMjyMcENKw2V33x501nE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "고지용 \"건강 악화로 63㎏까지 빠져…술에 의존해\"",
+          "url": "https://www.newsis.com/view/NISX20261116_0003870556",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"'슈돌'은 시간 맞춰줘\" 고지용, 젝키 불참 해명…팬들 '발끈' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111710464723184",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"아들 더 보고 싶다\" 고지용, 허양임과 법정까지 간 이유보니 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GEZDQNZTGYYTEZLCGI2GKNRRGI/",
+          "source": "조선일보"
+        }
+      ]
+    },
     {
       "keyword": "실종자",
       "traffic": "2000+",
@@ -49,227 +99,172 @@
       ]
     },
     {
-      "keyword": "조작기소 특검법",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T04:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdtNQqkzX1-vClXM3hP5ADv85-_Iqi8lvUSd7E0Auf_bADTNn5uLOkRZmwKQ",
+      "keyword": "한성숙",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T06:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81cwbocLGSWTiJD8TAsbqs6nAT5-NWvFD_sekD4oJUOndwVICKarVvc1XnLw",
       "category": "정치·사회",
       "news": [
         {
-          "title": "[속보] 정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866240_36911.html",
+          "title": "'조작기소 특검' 수사대상 전 검사장들 \"법치 근간 흔들어\" 반발",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866272_36918.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "與, 조작기소 특검법 공포에 \"수사권 남용 진실 밝히는 출발점 돼야\" - 머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/11/17/2026111713424689563",
-          "source": "머니투데이"
+          "title": "與 “진실 밝히는 출발점“ 野 “’쿠데타’ 의결“",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117154804Hcd",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "[속보] 조작기소특검법 공포안, 이 대통령 순방 중 한성숙 총리 주재 국무회의서 의결",
+          "title": "조작기소특검법 공포안, 이 대통령 순방 중 한성숙 총리 주재 국무회의서 의결",
           "url": "https://www.khan.co.kr/article/202611171134001",
           "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "김기인",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T03:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn2VG5jRXWmsGMSUXAjRMeLSXYJ61689vk4IzZU1w8I-vuzI3B7LWGMurUs38",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
-          "url": "https://www.etoday.co.kr/news/view/2649030",
-          "source": "이투데이"
-        },
-        {
-          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
-          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
-          "source": "https://www.standingout.kr/"
-        },
-        {
-          "title": "'기인' 김기인, 젠지 떠나 FA 시장으로",
-          "url": "https://www.dailyesports.com/view.php?ud=20261117095801736374bcc1e038_27",
-          "source": "데일리e스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "잠실 래미안 아이파크",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXaJoLioHbUePKnljyx2ACCTkjoFuWQ9MXgE36KfHKjUNpglmZOE2tJOQovIk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "잠실서 '20억 로또' 나온다…'잠실래미안아이파크' 3가구 줍줍",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/17/2026111700960.html",
-          "source": "땅집고"
-        },
-        {
-          "title": "잠실 래미안아이파크 3가구 재공급…시세 차익 최대 24억",
-          "url": "https://www.news1.kr/realestate/general/6356521",
-          "source": "뉴스1"
-        },
-        {
-          "title": "잠실 래미안아이파크 불법행위재공급 줍줍 (’26. 11/23~24)",
-          "url": "https://homedubu.com/12996/",
-          "source": "홈두부"
-        }
-      ]
-    },
-    {
-      "keyword": "삼양식품",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T04:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjWtHrlcjBmMATVWf_pSIu5gNpMXgvWoEQ53VVHSLHHj-lFeCGWo5R0eUPO00",
-      "category": "기타",
-      "news": [
-        {
-          "title": "급락장에도 홀로 불기둥…'통 큰 베팅'에 증권가도 주목",
-          "url": "https://www.hankyung.com/article/202611169651i",
-          "source": "한국경제"
-        },
-        {
-          "title": "\"이빨이 아파\" 불닭 미국·유럽 확장…삼양식품 장 초반 5% 강세[핫종목]",
-          "url": "https://www.news1.kr/finance/market-exr/6354875",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[특징주]삼양식품, 외국인 순매수에 6.20% 상승마감…중국 신공장 성장 기대",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=929378",
-          "source": "남도일보"
-        }
-      ]
-    },
-    {
-      "keyword": "담보 대출",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T03:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvcnJswrVoTsTeBw9zEN_tbvSyLdh_JZijdh5flRB_TYx-A2-D9TulBPzI-9k",
+      "keyword": "소프트웨어",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjdJFYsdaLmzFkvbO7SpBkoJpmf3V-al8M09pjK15Hxp9Ur_qvjz6C8MIaCso",
       "category": "경제",
       "news": [
         {
-          "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
-          "url": "https://www.khan.co.kr/article/202611161646001",
-          "source": "경향신문"
+          "title": "KMS테크놀로지, 테너블·비욘드트러스트와 19일 OT 보안 웨비나",
+          "url": "https://www.ddaily.co.kr/page/view/2026111610152690942",
+          "source": "디지털데일리"
         },
         {
-          "title": "코픽스마저 또 올랐다…짙어지는 ‘고금리의 그늘’",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03276726645646376",
-          "source": "마켓인"
-        },
-        {
-          "title": "\"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111616275049949",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "파업",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKBFnRTelA1yQXWLUpNcrnbcugpDJT3PNcbO1wZXYVleVBVcwDNLAy3SBZ6jU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'25일 서울 지하철 총파업' 예고한 노조 \"인력감축 철회·임금 인상\"",
-          "url": "https://www.yna.co.kr/view/AKR20261117078100004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "SR 노조도 “교섭 결렬 땐 파업”…통합 서두른 고속철도 ‘비상’",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006161",
-          "source": "아시아투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "메디게이트뉴스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T04:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj96exEBgkPhCAPVwuL02CRO77arXM0W2wIgQu4228lv-30i6h1j9woAyV8D0",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "무면허 음주운전으로 면허 잃은 의사, 1심 패소…법원, 위헌 제청 신청도 기각",
-          "url": "https://www.medigatenews.com/news/1491780453",
-          "source": "MEDI:GATE NEWS"
-        },
-        {
-          "title": "[판결] 법원, “음주·무면허운전으로 징역 확정 의사 면허취소는 정당”",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229520",
-          "source": "법률신문"
-        },
-        {
-          "title": "음주운전 의사 면허 취소에 법원 “정당”…개정 의료법 첫 판단",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713822",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "농구",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T04:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZMG1_Nc_eFSxetFNmFkt7uYiM7BS1ILSh_WENr7eaWacPXf90liZmxMltWA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“승부보다 뜨거운 농구 열정”…김포 농구 동호인 900여 명 한자리에",
-          "url": "http://www.joongboo.com/news/articleView.html?idxno=363742724",
-          "source": "중부일보"
-        },
-        {
-          "title": "김포시,제21회 김포시장기 금쌀사랑 종별 생활체육 농구대회 성황리 개최",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804146",
-          "source": "일간투데이"
-        },
-        {
-          "title": "김포시, 생활체육관서 탁구대회 개최…450여 명 동호인 참가",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747222",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "롤 도벽",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT1ZUPpYIosm0zrDkgddB7f2Rqz8Mra67KtWF-dGJaxb4F80is1lX5Y1ga3Fs",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "요약 문서: 2027 시즌 1 개발 업데이트",
-          "url": "https://www.leagueoflegends.com/ko-kr/news/dev/tldw-season-1-2027-dev-update---lol-website-article-lollol27-s1225r001/",
-          "source": "League of Legends"
-        },
-        {
-          "title": "라이엇게임즈, LoL 출시 후 최대 규모 '차세대 업데이트'…2027년 도입 목표",
-          "url": "https://www.etnews.com/20261116000256",
+          "title": "앤앤에스피, 'CPS 시큐어 AX 서밋 2026' 개최",
+          "url": "https://www.etnews.com/20261113000267",
           "source": "전자신문"
         },
         {
-          "title": "[게임업계 소식] 라이엇 게임즈, LoL 2027년 첫 콘텐츠 공개 外",
-          "url": "https://www.viva100.com/article/20261117500407",
-          "source": "브릿지경제"
+          "title": "전망 상향 조정이 포티넷(FTNT) 주가에 있어 중요한 전환점이 될 수 있다",
+          "url": "https://simplywall.st/ko/stocks/us/software/nasdaq-ftnt/fortinet/news/56a22980989bd92e",
+          "source": "Simply Wall St"
+        }
+      ]
+    },
+    {
+      "keyword": "sri lanka vs pakistan",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T05:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjO98TjVEKItmjq-r-qQDJr7fAOUydhwJI92O3F9tp_Tm6Ia_sB7fC_jII-CM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - PAK vs SL, 2nd Test",
+          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-2nd-test-1550712/ball-by-ball-commentary",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Pakistan’s gritty Shakeel again misses out on a century in drawn test against Sri Lanka",
+          "url": "https://apnews.com/article/cricket-pakistan-srilanka-wtc-cb5b1fa2559ee037da211b7e06020a09",
+          "source": "AP News"
+        },
+        {
+          "title": "Pakistan Sri Lanka Cricket",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/pakistan-sri-lanka-cricket/image_0f8d40d5-c1ec-51d2-9a7e-2a4cd6608ecc.html",
+          "source": "Corsicana Daily Sun"
+        }
+      ]
+    },
+    {
+      "keyword": "구축함",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T05:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsbtkmgRI4pBsG2YHCBTSSHOTO6koxLysFVFq5Fu63AbdSqVS0mdd9HD58g-I",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"北 신형 구축함, 핵·재래무기 동시 탑재…속도 등 한계\"",
+          "url": "https://www.yna.co.kr/view/AKR20261111084300009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[위성+] 5000톤급 구축함 ‘강건호’ 마양도 배치, ‘최현호’ 남포항 계류",
+          "url": "https://www.dailynk.com/20261117-2/",
+          "source": "데일리NK"
+        },
+        {
+          "title": "北 해군도 핵무장… 시급한 ‘해양 킬웹’[포럼]",
+          "url": "https://www.munhwa.com/article/11630506",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "전두환",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDvZbU4zqKJ9f7mvdZEDCv-hvJTYAUMVKLWGc3EK3r0N59N5p2Ds735Z1C204",
+      "category": "기타",
+      "news": [
+        {
+          "title": "전두환 일가 비자금 의혹 사건, 중수청이 맡는다…추징 미납 800억대",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287673.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "[단독] ‘전우원 폭로’ 故 전두환 비자금 의혹 서울중수청이 맡는다…공소청서 이송[세상&]",
+          "url": "https://biz.heraldcorp.com/article/10939286",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "서울중수청, ‘전두환 비자금 의혹’ 넘겨받아 기록 검토 중",
+          "url": "https://www.khan.co.kr/article/202611171054001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "시그니엘 서울",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T04:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_I9H7rip12si3gEv5g8fAPSlanOPJ4rVVneOoCjEyi2ZnioSMFOT6MOckLi0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "84억에 산 메가커피 법인 소유 시그니엘… 오너 일가 주소지로 등재",
+          "url": "https://biz.chosun.com/distribution/food/2026/11/17/UFQAXVG5JRBEXMXPWPSPJNFCUY/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "창업부터 투자·산업까지…시그니엘 서울서 ‘2026 넥스트젠 스타트업 세미나·경제포럼’ 개최",
+          "url": "https://www.ttlnews.com/news/articleView.html?idxno=3163072",
+          "source": "퍼블릭뉴스통신"
+        }
+      ]
+    },
+    {
+      "keyword": "와퍼",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T06:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSw6n1y3kUfqmrF0oZ8xvcKLRTrYsE0G9SFIyfzqsnND7VNP9PZ8x-UTlhP27I",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "\"8년 전 만우절 콘텐츠가 현실로\"…버거킹, '초콜릿 와퍼' 출시",
+          "url": "https://www.yna.co.kr/view/AKR20261117028800030",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "패티는 브라우니, 피클은 초콜릿…버거킹 '초콜릿 와퍼' 성수서 첫선",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870829",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"당 충전 끝판왕 나왔다\"…버거킹이 내놓은 '단단버거' 뭐길래",
+          "url": "https://www.hankyung.com/article/202611170751g",
+          "source": "한국경제"
         }
       ]
     }
