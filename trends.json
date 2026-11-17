@@ -1,13 +1,9 @@
 {
-  "updatedAt": "2026-11-17T21:47:58.060Z",
+  "updatedAt": "2026-11-17T22:49:26.011Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 2
+      "count": 4
     },
     {
       "category": "정치·사회",
@@ -15,265 +11,265 @@
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "경제",
       "count": 1
     },
     {
       "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "안세영",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T20:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyVPxNL3ebXHirxzKrM_xB3FAUx3kgVF_XwRn9sU5cjvrCb2svto-a_qj057I",
+      "keyword": "운세",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-17T21:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHQdGStCVUwxykrEPBMT9Y0Dff4XSTojP13coeRXTTNZwxwTb2gwiPEI29w08",
       "category": "기타",
       "news": [
         {
-          "title": "[뉴스9 강원 클로징]",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713273",
-          "source": "KBS 뉴스"
+          "title": "[오늘의 운세] 11월 18일 수요일 (음력 10월 10일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20261113580066",
+          "source": "경기일보"
         },
         {
-          "title": "세계 최강 안세영의 미소",
-          "url": "https://www.yna.co.kr/view/PYH20261116156200013",
-          "source": "연합뉴스"
+          "title": "[오늘의 운세] 2026년 11월 18일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611180000000001",
+          "source": "YTN"
         },
         {
-          "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html",
-          "source": "MBC 뉴스"
+          "title": "[김동완의 오늘의 운세] 2026년 11월 16일",
+          "url": "https://m.go.seoul.co.kr/news/life/2026/11/16/20261116500002?cp=go",
+          "source": "서울Pn"
         }
       ]
     },
     {
-      "keyword": "뉴스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T20:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "◇내일의 경기(19일)",
-          "url": "https://www.yna.co.kr/view/AKR20261116168552007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "\"이렇게까지 한다고?\" 웃음보인 장관‥\"믿음 깨져\" 냉소 속출",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866389_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "세무냥이 ‘AI 커닝’은 업무방해죄? 시험 부정 엄벌할 특별법 필요할까",
-          "url": "https://www.khan.co.kr/article/202611180600061",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "가상자산",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T20:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOf6-FgjxhoJ32sdysoZBpR4p8sMYNjFQUwlZ9MEUXOjJhnNLBa8U-zebgA18",
+      "keyword": "배당",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T20:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ8UEpOHwyUiy3LFq3iVVwxQTmUcwllE2HJKFbqt4-CY_K0YwNo8c77YR-_c8",
       "category": "경제",
       "news": [
         {
-          "title": "“디지털자산기본법 임박…가상자산·주식 형평과세 추진해야”",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01285766645647032",
+          "title": "미래에셋자산운용, TIGER 액티브 커버드콜 ETF 순자산 4조원 돌파",
+          "url": "https://www.etnews.com/20261117000070",
+          "source": "전자신문"
+        },
+        {
+          "title": "ETF 투자자도 '삼전닉스 배당'에 웃는다…분배율 5배 껑충",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02955286645646376",
           "source": "마켓인"
         },
         {
-          "title": "코인 공제한도 확대 제동 걸리나",
-          "url": "https://biz.heraldcorp.com/article/10939888",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "시민사회 “임광현 대통령 비서, 가상자산 과세 입장 밝혀라”",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354871",
-          "source": "녹색경제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "수능 예비소집",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T20:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk4rV-63rq3On1C7zlB4sAp4mwzYaDWUycagnRu8YFIkGnWPin-TgrLQ2tuvA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "[수능 D-1] 전자기기 미제출 땐 시험 무효…단추 달린 옷도 피해야",
-          "url": "https://stock.mk.co.kr/news/view/1201065",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "오늘은 새 문제보다 오답노트 집중…수험표 받으면 선택과목 확인",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.22012005404",
-          "source": "국제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T20:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8fO5XKi0e1Nxk8n0N73TL7qCcrIMT8Q_ZIqLqn2Gn9Lm_72LCk_xXUGqTTnA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'세계 랭킹 1위' 트로피에 입 맞추는 즈베레프",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261117_0002293855&pID=1&cID=&sID=1&type=photoMain&idx=7",
+          "title": "미래에셋운용, TIGER 액티브 커버드콜 ETF 순자산 4조 돌파",
+          "url": "https://www.newsis.com/view/NISX20261117_0003871257",
           "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "보안 취약점",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T21:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGFL9-gdvBaSYz-SCix1XYrxgI9TWhGmHdvy4WqziKCjIewc3jJWxPGDqHuW0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "PHP 이어 '자바'서도 치명적 취약점…공공·기업 보안 비상",
+          "url": "https://www.yna.co.kr/view/AKR20261118014000017",
+          "source": "연합뉴스"
         },
         {
-          "title": "2027 호주오픈, 시너가 있고 없고의 차이",
-          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19848",
-          "source": "테니스피플"
+          "title": "국가안보실, '자바' 취약점 확인에 민관군 긴급회의…대책 수립",
+          "url": "https://www.yna.co.kr/view/AKR20261118018300001",
+          "source": "연합뉴스"
         },
         {
-          "title": "[박준용 인앤아웃] 당뇨병도 꺾지 못한 꿈... 즈베레프 마침내 세계 1위에 서다",
-          "url": "https://sports.khan.co.kr/article/202611101026003",
+          "title": "방화벽이 침투 통로로... 이스라엘 기관, 체크포인트 장비 뚫려 서버 파일까지 삭제",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147277",
+          "source": "보안뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "denmark vs norway",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T21:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Denmark vs Norway: UEFA Nations League stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cq1k974v3m9dt",
+          "source": "BBC"
+        },
+        {
+          "title": "Football Bet of the Day: Danish delight in front of goal on Tuesday",
+          "url": "https://mrfixitstips.co.uk/football-bet-of-the-day-danish-delight-in-front-of-goal-on-tuesday/",
+          "source": "MrFixitsTips"
+        },
+        {
+          "title": "Licensable picture: Denmark V Norway: Group Stage - UEFA Nations League",
+          "url": "https://www.reutersconnect.com/item/denmark-v-norway-group-stage-uefa-nations-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYRU9IWVQ",
+          "source": "Reuters Connect"
+        }
+      ]
+    },
+    {
+      "keyword": "사고",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T21:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7A3vFYNjOC41w_7O0Tc4nCO0I68z3dRAPxmAU7qwkGaDIJuqlEKeLHyb-hI",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "고경표 때문에 더 주목받는 '술꾼들'...신동엽·성시경이 '무사고' 지킨 비결",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/17/MNQTOM3BG5SDONJTGQ2TMMLDGY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "고경표처럼 청소차 '쾅'...호란, 세 번째 음주운전 사고 '재조명' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111707460827049",
+          "source": "머니투데이"
+        },
+        {
+          "title": "고경표까지 음주운전 사고로 활동 중단…끊이지 않는 연예계 음주운전 [N이슈]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6356206",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "nations league",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP8Oyc7fT5YJzkEfdZuTIXlaKRig5zuU-SjTaxmHOTpTnBzNmbTh7Ws-A6oYw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Wales 2-3 Portugal: Bold hosts edged out in five-goal thriller",
+          "url": "https://www.bbc.com/sport/football/live/crvg2d87xe38t",
+          "source": "BBC"
+        },
+        {
+          "title": "Licensable picture: Nations League - Group A4 - Wales v Portugal",
+          "url": "https://www.reutersconnect.com/item/nations-league-group-a4-wales-v-portugal/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgxSENMTDQ",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales finish bottom of group",
+          "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "keyword": "화재",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T21:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLjlqc7sZCWAmONzQCKgNk8Mck-VYAnkhb8SmfWnoejUsaRx8ViFfM6SsZPQ",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "청주 옥산면 단독주택서 화재…60대 거주자 사망",
+          "url": "https://www.yna.co.kr/view/AKR20261118013500064",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "청주 주택서 불…60대 남성 심정지 상태 발견",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118001658qQv",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "충북 옥산 단독주택서 불‥60대 거주자 숨져",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866452_36918.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김효주",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZ3n2KnV1gXofrKNLvant5UurVWI9XHteLPMgM46s6iyCLswMk0KShPfpftk",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "우승 상금 400만 달러 LPGA 최종전 투어 챔피언십 19일 개막",
+          "url": "https://www.yna.co.kr/view/AKR20261117030900007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "유해란·김효주·윤이나…‘53억 머니게임’ 출사표",
+          "url": "https://www.sedaily.com/article/20114943",
+          "source": "서울경제"
+        },
+        {
+          "title": "53억 잭팟 쏘고…최다우승국 명예 잡나",
+          "url": "https://sports.khan.co.kr/article/202611180200006",
           "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "wales vs portugal",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0YPk0SLq2XI5brL2ay_YO2jO9bW6cnsi4jTfojhRK3XQCvvalftG79ISETN0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Bruno Fernandes and David Brooks score goals in Wales v Portugal",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmn80yjw6v2wo",
-          "source": "BBC"
-        },
-        {
-          "title": "Bruno Fernandes stunner lights up Wales v Portugal amid fresh twist in Man Utd future",
-          "url": "https://football360.com.au/wales-vs-portugal-bruno-fernandes-goal-man-utd-transfer-news/",
-          "source": "football360.com.au"
-        },
-        {
-          "title": "Wales vs Portugal LIVE! Nations League Group A4 match updates, score, line-ups and commentary",
-          "url": "https://www.skysports.com/football/live-blog/13613359/wales-vs-portugal-live-nations-league-group-a4-match-updates-score-line-ups-and-commentary",
-          "source": "Sky Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "김장",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T20:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOsnwDbZF4EeElPVNCbQBzFNXIXgTXgmy4ElORgVHNj5RDu8DmI-riiFAzRg",
-      "category": "경제",
-      "news": [
-        {
-          "title": "충북농협, 7400㎏ 김장 행사…취약계층·복지시설에 전달",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6356875",
-          "source": "뉴스1"
-        },
-        {
-          "title": "충북농협, 김장김치 7.4t 나눔…충청대엔 1000원 점심 지원",
-          "url": "https://www.newspim.com/news/view/20261117000791",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "농협은행, 김장철 맞아 지역 어르신에 온정 나눔 실천",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=757530",
-          "source": "ER 이코노믹리뷰"
-        }
-      ]
-    },
-    {
-      "keyword": "정웅인",
+      "keyword": "롤 점검",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T20:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZqDOPejMgy1WP5SuSdtRrWfmoeysXodMunbCJRxCgr4M2z3MrVhVf2m44L4k",
-      "category": "연예",
+      "startedAt": "2026-11-17T20:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZNrCq5EHZk7qU2vFMVn3voAuPYqb3G8Vh24j5kzI9BqBkLOqP7GW0O1jLgoI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "정웅인, 전 매니저 사기 피해→소속사 대표 사망…\"또 위기\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111706401419953",
-          "source": "머니투데이"
+          "title": "리그 오브 레전드 26.23 패치 노트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-23-notes/",
+          "source": "League of Legends"
         },
         {
-          "title": "정웅인, 세 딸 근황 공개…\"첫째는 배우 준비, 둘째는 예고 재학\"",
-          "url": "https://www.newsis.com/view/NISX20261116_0003870591",
-          "source": "뉴시스"
+          "title": "라이엇게임즈, LoL 2027 시즌1 공개... '도벽' 복귀·랭크 보상 개편",
+          "url": "https://www.etnews.com/20261117000187",
+          "source": "전자신문"
         },
         {
-          "title": "“어떻게 일 할지”…정웅인, 소속사 대표 사망 언급하며 눈물",
-          "url": "https://www.koreadaily.com/article/20261116095006328",
-          "source": "미주중앙일보"
+          "title": "[게임업계 소식] 라이엇 게임즈, LoL 2027년 첫 콘텐츠 공개 外",
+          "url": "https://www.viva100.com/article/20261117500407",
+          "source": "브릿지경제"
         }
       ]
     },
     {
-      "keyword": "노동자",
+      "keyword": "nvda stock",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-17T20:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnezF5fcJKUXAL0Fwo67rjqbIdC9PodLL_wo43IoerjvjY_wrkHg1SP0RN3Cw",
-      "category": "정치·사회",
+      "startedAt": "2026-11-17T21:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc441zjyI4anzvJPFOXYdIn_m8a0DZ24ijZQd7riSo-5q6UOhX3yMZ27IeX8I",
+      "category": "기타",
       "news": [
         {
-          "title": "얼굴 파랗게 질려 숨진 27살…HD현대삼호 하청 ‘장례도 못 치른 보름’",
-          "url": "https://www.hani.co.kr/arti/area/honam/1287732.html",
-          "source": "한겨레"
+          "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO: Live updates",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "source": "CNBC"
         },
         {
-          "title": "'노동자 사망' 영암 조선소 협력사들 \"사고 책임 단정해선 안돼\"",
-          "url": "https://www.yna.co.kr/view/AKR20261117122100054",
-          "source": "연합뉴스"
+          "title": "Nvidia earnings live: Nvidia posts Q3 beat, board says it will not reinstate Jensen Huang as CEO",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "\"사람이 할 짓인가\"…20대 용접공 유족 사과 요구에 HD현대삼호 협력사들 '규탄 시위'",
-          "url": "https://www.pressian.com/pages/articles/2026111715145583237",
-          "source": "프레시안"
-        }
-      ]
-    },
-    {
-      "keyword": "훈련",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T20:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_F2VnanG5owtb-LPiwYG7CWvVfP4vffJQmx9OIzSsQd7pqFqpQDMOby98MI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "러 \"한미 훈련 탓에 한반도 긴장 높아져\" \"푸틴, 李대통령 만날 것\"",
-          "url": "https://www.chosun.com/international/international_general/2026/11/18/D5RLZIK4LJB5HHCCTU5XU74VWY/",
+          "title": "NVIDIA Posts 14th Consecutive Record Revenue Amid CEO Transition",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/18/DHPTHYRBQFCI5AALQKMZJGTKNM/",
           "source": "조선일보"
-        },
-        {
-          "title": "러 외무 \"한·미·일 군사훈련 목적은 북한 억제\"",
-          "url": "https://www.yna.co.kr/view/AKR20261117176600109",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "러 외무 \"대북 제재·한미일 핵 군사훈련이 한반도 긴장 고조 원인\"",
-          "url": "https://www.news1.kr/world/europe/6357283",
-          "source": "뉴스1"
         }
       ]
     }
