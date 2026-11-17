@@ -1,209 +1,234 @@
 {
-  "updatedAt": "2026-11-17T00:53:56.116Z",
+  "updatedAt": "2026-11-17T02:06:22.265Z",
   "summary": [
+    {
+      "category": "기타",
+      "count": 4
+    },
     {
       "category": "스포츠",
       "count": 3
     },
     {
-      "category": "경제",
-      "count": 3
-    },
-    {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     },
     {
       "category": "정치·사회",
       "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "축구",
+      "keyword": "김주애",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-17T00:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjg8WZNUsOLxVa8TKtlqmXkflzby0MKkBs4MuULZv-Eln7BpthekX9R59HDxQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김정은, 백두산 인근 관광지구 시찰…스키 실력 뽐낸 주애(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261117012451504",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "北 ‘스키 타는 김주애’ 공개…김정은과 삼지연 관광지구 시찰",
+          "url": "https://www.donga.com/news/Politics/article/all/20261117/135037029/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "김정은, 삼지연 관광지구 이틀간 시찰‥관광자원 중요성 부각",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866195_36911.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "전쟁",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-16T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuYfSAXsKj0IjjPxS7y2mkz4k1qD5n2Sg7TmF55CAzYb3OtfhIDV9tKAofs_c",
+      "startedAt": "2026-11-17T00:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxJkLsKT5pjGdj46JLDUXBl3yRN0BDt-w-6wsuQKX3gLZ8zR_CIUGU8PRZbZo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"한국서 곧 전쟁 난다\"…전 세계 발칵 뒤집은 '30일치 비축령'의 정체",
+          "url": "https://view.asiae.co.kr/article/2026111619334374520",
+          "source": "아시아경제"
+        },
+        {
+          "title": "한국도 전쟁 나는 거 아냐?…“30일치 식량·식수 챙겨라” 해외서 난리 난 게시물, 알고보니",
+          "url": "https://www.sedaily.com/article/20114939",
+          "source": "서울경제"
+        },
+        {
+          "title": "韓에 전쟁난다는데 우리만 몰랐다?…해외서 퍼진 `비상물품 목록` 실체는",
+          "url": "https://www.imaeil.com/page/view/2026111710383930445",
+          "source": "매일신문"
+        }
+      ]
+    },
+    {
+      "keyword": "뉴올리언스 대 골든 스테이트",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T00:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGKXTLVCcIMUNsHgd8D3Exy6TPFyvfwjVLtBSCMzvK_lqn6B4yoE0fpFEtLlw",
       "category": "스포츠",
       "news": [
         {
-          "title": "모레노 감독 고별전? 카타르와 올해 마지막 A매치",
-          "url": "https://www.chosun.com/sports/football/2026/11/17/EMNOIJYBCZFXXKQM3SMGWIPUDA/",
-          "source": "조선일보"
+          "title": "Game Preview: Warriors at New Orleans Pelicans - 11/16/26",
+          "url": "https://warriors.com/news/gameday-preview-20261116",
+          "source": "NBA.com"
         },
         {
-          "title": "카타르전 앞둔 황인범 “올해 많은 일들…선수들이 해결해야 한다”",
-          "url": "https://www.hani.co.kr/arti/sports/soccer/1287652.html",
-          "source": "한겨레"
+          "title": "How to watch Warriors vs. Pelicans",
+          "url": "https://www.goldenstateofmind.com/warriors-game-previews/113498/how-to-watch-warriors-vs-pelicans",
+          "source": "Golden State Of Mind"
         },
         {
-          "title": "손흥민·이강인 반등 실패…’무색무취’ 모레노, 끝이 보인다",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116212054JzE",
-          "source": "연합뉴스TV"
+          "title": "Warriors vs Pelicans Injury Report Rules Out Several Starters",
+          "url": "https://sports.yahoo.com/articles/warriors-vs-pelicans-injury-report-204935734.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
       "keyword": "폭싹 속았수다",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-16T23:40:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "germany national football team vs netherlands national football team standings",
+      "keyword": "브루클린 대 필라데피아",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-16T23:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCZ3XeHuVafXfu-fsB_rLCIlpyCta2V4qj-wg7h7BDSiSr_sCOypsyRdlxtK0",
+      "startedAt": "2026-11-17T00:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSroUQnUHjiGTUvcUL3rR8QXtEG9xCc0OIIHsN5yw0Z4NyIws1ouZWdWSKx_l4",
       "category": "스포츠",
       "news": [
         {
-          "title": "Klopp's Germany Routs Netherlands to Reach Nations League Quarterfinals",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008849001",
-          "source": "news.sbs.co.kr"
+          "title": "76ers star LeBron James ruled out vs. Nets due to lower back management",
+          "url": "https://www.espn.com/nba/story/_/id/50503255/lebron-james-ruled-vs-nets-due-lower-back-management",
+          "source": "ESPN"
         },
         {
-          "title": "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League",
-          "url": "https://www.bbc.com/sport/football/live/cmly7wxld228t",
-          "source": "BBC"
+          "title": "LeBron James Injury Update, Latest on 76ers Star's Status vs. Nets",
+          "url": "https://bleacherreport.com/articles/25532769-lebron-james-injury-update-latest-76ers-stars-status-vs-nets",
+          "source": "Bleacher Report"
         },
         {
-          "title": "Licensable picture: UEFA Nations League - Group A2 - Greece v Serbia",
-          "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a2-greece-v-serbia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkcxSEpNOFk",
-          "source": "Reuters Connect"
+          "title": "Embiid available, LeBron OUT for second of back-to-back in Brooklyn",
+          "url": "https://www.libertyballers.com/76ers-injury-report/102072/embiid-questionable-lebron-out-for-second-of-back-to-back-in-brooklyn",
+          "source": "Liberty Ballers"
         }
       ]
     },
     {
-      "keyword": "어벤져스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T22:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAR_eDvC3pCEKwN8EUNx0HRjPIjc3LUVxEdrxakyvLsj4KYUNKg70S1cfVogU",
-      "category": "IT·과학",
+      "keyword": "롤 스토브",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T00:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5UjVlutpoEPudmo4wpGcerWBMq3FGPyTm-9vhwa5jTRC75Ccvze_SJxf1gw",
+      "category": "스포츠",
       "news": [
         {
-          "title": "'어벤져스: 둠스데이', 압도적인 스케일 기대…서로 다른 세계의 히어로들 총집결",
-          "url": "https://www.chosun.com/entertainments/movie/2026/11/16/G4ZDQNRSMQ3DGM3GGJTDQYTCMI/",
-          "source": "조선일보"
+          "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
+          "url": "https://www.etoday.co.kr/news/view/2647803",
+          "source": "이투데이"
         },
         {
-          "title": "'토르' 헴스워스, 무서워서 못 와? 외국인 눈에 비친 '휴전' 한국 [영화있슈] - 머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/11/17/2026111614230524371",
+          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
+          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
+          "source": "https://www.standingout.kr/"
+        },
+        {
+          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
+          "url": "https://www.etoday.co.kr/news/view/2649030",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "남진",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwPL52aZDX6sV_Z3eR0xhJxWC0Q1iDqEm3_btQinLpDiN0uQzb9Dk-VhihukE",
+      "category": "연예",
+      "news": [
+        {
+          "title": "남진, 46세·42세 두 딸 미혼 고백…“아직 시집 안 갔다”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261116/135030857/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "미운 우리 새끼 : 설운도, 허경환의 처참한 부추전 요리에 도움 나선 후 빠른 손절",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483367571?div=live_end",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "'45세 미혼' 허경환, 결혼 임박? \"여자 없으면 거짓말\"",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868821",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "파라타항공",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T00:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUGzzLDkUdSZkXkGCTN-45eFsm_orYXUfDE_xOX_XRzAZnGehw_ybhyaiSFPI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "파라타항공, 내년 5월 인천~LA 매일 운항…첫 미주 노선 판매 개시 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/17/2026111709541769331",
           "source": "머니투데이"
         },
         {
-          "title": "마블과 크록스의 만남, '닥터 둠' 클래식 클로그 출시",
-          "url": "https://hypebeast.kr/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info",
-          "source": "Hypebeast.KR"
+          "title": "파라타항공, 첫 미주 노선 LA 항공권 판매 개시… 내년 5월 취항",
+          "url": "https://www.viva100.com/article/20261117500418",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "윤철민號 파라타항공, LCC 틀 깬다…노선 확대·서비스 고급화 승부수 [파라타항공 성장 날갯짓]",
+          "url": "https://www.etoday.co.kr/news/view/2648644",
+          "source": "이투데이"
         }
       ]
     },
     {
-      "keyword": "변동성",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T23:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHZpah3ty11MhHeX-l-4SY9EWECVpE7ka8EvDHNDmKoCnYMH8vRSOk5vbBo7g",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"주식시장 변동성, 위기 아닌 기회… 역발상 투자로 손실 만회할 때\"",
-          "url": "https://www.chosun.com/economy/money/2026/11/17/KSINDNN225EURDSORYINN2AUWA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"이런 폭락장 뒤엔 항상 반전 있었다\"…1년 뒤 웃을 종목은 [한경우의 케이스스터디]",
-          "url": "https://www.hankyung.com/article/2026111350516",
-          "source": "한국경제"
-        },
-        {
-          "title": "등락 반복하는 증시...대응 전략도 달라져야 할 때",
-          "url": "https://www.asiae.co.kr/article/2026111613172018519",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "수원 fc",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv5UH6P4c6Evrf3ikotv9AEUmN1xnPw35h4QguZ12d79jC4Vsjj9Q_jQDsIL4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[단독]시민구단 아닌 ‘시장님 구단’… 치적 쌓으려 추경까지 받아 돈 댔다",
-          "url": "https://www.chosun.com/national/national_general/2026/11/17/UDECO7N2KVHUVADPGTSE6IMSHY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "축구단 주요 보직을 선거 전리품으로… 일부 지자체장, 측근들 꽂아넣어",
-          "url": "https://www.chosun.com/national/national_general/2026/11/17/UG6BLDLWSJCSNMMZPZQE7S6EUI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "리그 2위에도 홈관중 1,605명…수원FC, 시 지원금은 150억 원",
-          "url": "https://www.youthassembly.kr/news/1034885",
-          "source": "유스연합"
-        }
-      ]
-    },
-    {
-      "keyword": "쇼트트랙",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T22:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRz5EoXB5sIpeWpaRgGg380yphW3tHRfaCkihkw5d23dlBDvwoxEUwMWtbWKA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "‘국대 마지막 시즌’ 최민정, 세계 1위까지 16점…안방서 역전 노린다",
-          "url": "https://view.asiae.co.kr/article/2026110610515768268",
-          "source": "아시아경제"
-        },
-        {
-          "title": "대한빙상경기연맹, KB금융그룹과 함께 'KB금융-ISU 쇼트트랙 월드투어 서울 2026/27'개최",
-          "url": "http://www.eduyonhap.com/news/view.php?no=105458",
-          "source": "교육연합신문"
-        },
-        {
-          "title": "쇼트트랙 월드투어 2026/27: 서울 3차 대회 경기 일정 및 관전 포인트",
-          "url": "https://www.olympics.com/ko/news/team-korea-preview-schedule-isu-short-track-world-tour-seoul-2026",
-          "source": "Olympic Channel"
-        }
-      ]
-    },
-    {
-      "keyword": "수능일",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T22:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO6I1_ZpYsN_8QBqj4sFi6ctLqwsfZyMLmf-ZhobNj1ZykOAP8MGAQJOZPQ0o",
+      "keyword": "김포시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T00:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqFW8CBOR3MvS29LY88HlZLlDZBFE9cpprZWKXua2W8ZTU0tpymexvhal2ObA",
       "category": "정치·사회",
       "news": [
         {
-          "title": "수능 3일 앞으로...시험 문제지·답안지 이송 시작",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611160612338508_005.html",
-          "source": "YTN"
+          "title": "김포시, 공직자 대상 기본사회 이해 교육으로 정책 공감대 넓혀",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804152",
+          "source": "일간투데이"
         },
         {
-          "title": "서울시, 수능일 지하철 27회 증편‥차량 614대 지원",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866000_36974.html",
-          "source": "MBC 뉴스"
+          "title": "거창군, 문화공연‧정책특강 함께한 11월 정례조회 개최",
+          "url": "https://www.bultopnews.com/news/article.html?no=20032",
+          "source": "불탑뉴스"
         },
         {
-          "title": "경기도내 지자체·경찰 수능 앞두고 종합대책 시동",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041132",
-          "source": "기호일보"
+          "title": "전남광주통합특별시의회 대통령직속 기본사회위원회, 간담회 개최 > 뉴스",
+          "url": "https://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=569533",
+          "source": "더코리아"
         }
       ]
     },
@@ -221,39 +246,14 @@
           "source": "전자신문"
         },
         {
-          "title": "한투증권, 유튜브 '한국인의 연금'서 매주 화요일 시황 라이브",
-          "url": "https://core.asiae.co.kr/article/2026111709111366247",
+          "title": "LS증권, '투혼클럽' 고객 초청 자산관리 세미나 개최",
+          "url": "https://core.asiae.co.kr/article/2026111710210972334",
           "source": "아시아경제"
         },
         {
-          "title": "한국투자증권, 연금 운용에 시장 진단·리밸런싱 접목..매주 라이브 세미나",
-          "url": "https://kpenews.com/View.aspx?No=4315615",
-          "source": "한국정경신문"
-        }
-      ]
-    },
-    {
-      "keyword": "엘리베이터",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T22:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23nWIfZhE6c6ZZy5UgzZQJr7Mr-dwcQSjoF21BRSMOghymu77cYmFuDrSt2A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "승강기 산업, '애프터마켓'으로 무게중심 이동…현대엘리베이터 마진 개선",
-          "url": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=11283",
-          "source": "리드경제"
-        },
-        {
-          "title": "도시화와 현대화가 이끄는 엘리베이터 및 부속품 시장 2035년 전망",
-          "url": "https://www.indexbox.io/ko/blog/elevators-and-accessories-market-forecast-to-2035-driven-by-urbanization-and-modernization/",
-          "source": "IndexBox"
-        },
-        {
-          "title": "엘리베이터에 사과·단호박·감 한가득…봉투까지 놓인 상자의 정체",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116103504pyM",
-          "source": "연합뉴스TV"
+          "title": "한투, 매주 화요일 '연금 시황 라이브' 세미나 \"연금 자산배분 전략 제시\"",
+          "url": "https://www.fnnews.com/news/202611171018443072",
+          "source": "파이낸셜뉴스"
         }
       ]
     }
