@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-17T10:56:21.642Z",
+  "updatedAt": "2026-11-17T11:45:18.478Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
+      "category": "정치·사회",
+      "count": 3
     },
     {
       "category": "기타",
       "count": 3
     },
     {
-      "category": "연예",
-      "count": 1
+      "category": "스포츠",
+      "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     },
     {
@@ -24,77 +24,102 @@
   ],
   "items": [
     {
-      "keyword": "싱가포르 대 브라질",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-17T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9uhsY9EoVmOlcaqNNsMyal_os3NdRuZrFpwlJ-S4ZuBBEPZKGEnGi8RjrLFY",
-      "category": "스포츠",
+      "keyword": "심우정",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T10:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWEjmt1k_hdFgHCiNl7ozzNCVJcPhwCBszl8yFoscaWG2LxoOFF3C9tdtQ55c",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "싱가포르 대 브라질 축구 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-singapore-vs-brazil-1801560.ldo",
-          "source": "Laodong.vn"
+          "title": "노만석 \"尹 구속 취소, 법원 결정에 불만 있어도 석방하자는 게 검찰 다수 의견\"",
+          "url": "https://www.chosun.com/national/court_law/2026/11/17/GXOJ6QZHIZELZACVJNNH3NKK7Q/",
+          "source": "조선일보"
         },
         {
-          "title": "싱가포르는 브라질을 위기에 빠뜨릴 계획이다.",
-          "url": "https://www.vietnam.vn/ko/singapore-tinh-chuyen-dim-brazil-vao-khung-hoang",
-          "source": "Vietnam.vn"
+          "title": "노만석 “윤석열 구속취소 즉시 항고 포기, 심우정이 최종 결정”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715122",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "싱가포르 대 브라질 경기 예측, 11월 17일 오후 5시: '거인들의 충돌'?",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-singapore-vs-brazil-17h00-ngay-17-11-trung-choi-da",
-          "source": "Vietnam.vn"
+          "title": "공소장 보완에만 석 달 쓴 종합특검…내란 재판 ‘가시밭길’",
+          "url": "https://www.khan.co.kr/article/202611162101025",
+          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "박선주",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T08:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvUEF3WNo5FO9RffjKM23eNscWJhvzujO3V3AhqrqVN3u15MuqSsrWc_HQkQo",
+      "keyword": "로베르트 모레노",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T10:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh8bpORJ3n-2vMDbRUknE5DjitR9pnoOdam3MY_Z7ZuVVl_J6pqWDFxLmoDxs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "모레노 감독, 카타르전 마친 뒤 고향 스페인으로 귀국",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117153919gK3",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "한국만 이강인 딜레마? 카타르도 아피프 활용법에 고심",
+          "url": "https://sports.khan.co.kr/article/202611161619003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "미스터트롯3",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T10:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7De8upScZ93-HlihdC6XwZUuzVnO0eECAbpUcXil8j8wIhoapWl9HPucEiGk",
       "category": "연예",
       "news": [
         {
-          "title": "박선주, 강레오와 7년 별거...\"남친 생겼다\" 정체에 폭소 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111709154313897",
-          "source": "머니투데이"
+          "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
+          "url": "https://www.mk.co.kr/news/musics/12211506",
+          "source": "매일경제"
         },
         {
-          "title": "'결혼 16년 차' 박선주, 2년 된 남사친 고백…\"사춘기 딸 고민도 나눠\" (탐비)",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/16/G5SWMNZWGAZDINTFG4YDSZRUGQ/",
-          "source": "Chosunbiz"
+          "title": "‘미스터트롯3’ TOP7, 서울 콘서트 마무리… 투어 마무리 소감은?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193818",
+          "source": "금강일보"
         },
         {
-          "title": "'강레오♥' 박선주 \"외로움 달래준 남사친 있다\" 고백",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868341",
-          "source": "뉴시스"
+          "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202611170023",
+          "source": "BNT뉴스"
         }
       ]
     },
     {
-      "keyword": "singapore vs brazil",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T09:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQARHimYW9uCy63IDbrdez5CUs8b_ubr7UaZRfIJ5Cd8jYib0F9tdkjxm3Obo",
-      "category": "스포츠",
+      "keyword": "권순우",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNv54lx85RhD6CR2RIK05EVWcJMMiCStQudjuSo_JkjRxAeJX60d3ndmO5kY",
+      "category": "기타",
       "news": [
         {
-          "title": "Preview: Singapore vs Brazil - prediction, team news, lineups",
-          "url": "https://www.sportsmole.co.uk/football/singapore/preview/singapore-vs-brazil-prediction-team-news-lineups_609180.html",
-          "source": "Sports Mole"
+          "title": "8년 전처럼…정현, 데이비스컵 파이널8에서도 ‘신데렐라의 기적’ 도전",
+          "url": "https://www.donga.com/news/Sports/article/all/20261117/135039042/1",
+          "source": "동아일보"
         },
         {
-          "title": "Lions’ man for big moments Shawal Anuar eyeing ‘dream come true’ run-out against Brazil",
-          "url": "https://www.straitstimes.com/sport/football/lions-man-for-big-moments-shawal-anuar-eyeing-dream-come-true-run-out-against-brazil",
-          "source": "The Straits Times"
+          "title": "조코비치 꺾었던 정현, 태극마크 달고 또 이변 꿈꾼다... \"팬들이 기억하는 모습 다시\" [데이비스컵 현장] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/17/2026111716075189369",
+          "source": "머니투데이"
         },
         {
-          "title": "‘Let Them Play Without Responsibility’ --Vinicius Steps Up To Protect Endrick, Estevao",
-          "url": "https://www.completesports.com/let-them-play-without-responsibility-vinicius-steps-up-to-protect-endrick-estevao/",
-          "source": "Complete Sports"
+          "title": "세계 8강 첫 역사 쓴 남자 테니스 “달려든다는 마음으로 붙겠다” 4강 도전장···코볼리·무세티 앞세운 최강팀 ...",
+          "url": "https://sports.khan.co.kr/article/202611171610003",
+          "source": "스포츠경향"
         }
       ]
     },
@@ -112,18 +137,18 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-17T09:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFlGQF2Z1LPJFmn73cTC0-W9dplsKd2qBvtHRiBxx66pT8sPIfB5xFSzUmeH4",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnq-Z3kUFe9IRzNft1rLFaZPOTflJfVgO_fhMN-i0pN_Q-dKr2eeIlxK5P_v0",
       "category": "기타",
       "news": [
+        {
+          "title": "심정지 6개월 아기, 아빠 심폐소생술과 구급대가 함께 살렸다",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611171130221P4",
+          "source": "연합뉴스TV"
+        },
         {
           "title": "분유먹고 심정지 생후 6개월 아기…구급대 응급처치로 회복",
           "url": "https://www.yna.co.kr/view/AKR20261117064500051",
           "source": "연합뉴스"
-        },
-        {
-          "title": "심정지 6개월 아기, 아빠 CPR·구급대 함께 살려",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117184037HWN",
-          "source": "연합뉴스TV"
         },
         {
           "title": "분유 먹고 엎드린 아기, 입술 파랗게 변해…아빠 신속 대응이 살렸다",
@@ -133,27 +158,52 @@
       ]
     },
     {
-      "keyword": "파운드리",
+      "keyword": "이재명",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-17T09:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWo4vbjZxmNWUrC4efzPFAj0QMAZ3VhzXK35Xo0pe7lgvSq2uZPm_DXYJ5WtI",
-      "category": "IT·과학",
+      "startedAt": "2026-11-17T09:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9TfmL2rzxwcAOZBklZRFPM2Vs14LnFZULSZ9Exvl_sMIPxto2zGoTpCQHh4Q",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "젠슨 황 스캔들 후폭풍···미, 중국의 AI 반도체 원격 이용까지 통제",
-          "url": "https://www.khan.co.kr/article/202611171149001",
+          "title": "이 대통령, 필리핀 현지에서 '수능시험 비상 점검 회의' 주재",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866357_36911.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "이 대통령 \"아세안+3 새로운 30년 미래에 마땅한 책임과 역할 다할 것\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975880",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "마닐라에서 다시 마주한 한일 정상 [현장 화보]",
+          "url": "https://www.khan.co.kr/article/202611171826001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "박정훈",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T10:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuBp0HCJtqTNZt7TuiTOatP1_ZraWTKGyYtZT41QFc32V8CJDhKkPosA5GXts",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘박정훈 처벌받게 하려고 위증 혐의’ 해병대 김화동 대령 무죄···법원 “허위진술 아냐”",
+          "url": "https://www.khan.co.kr/article/202611171703011",
           "source": "경향신문"
         },
         {
-          "title": "[중국증시-마감] 美 AI 반도체 규제 여파 속 하락",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445206",
-          "source": "연합인포맥스"
+          "title": "'채 해병 수사 외압 관여' 김화동 대령 1심 무죄…\"허위진술 아니다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/17/2026111714034019151",
+          "source": "머니투데이"
         },
         {
-          "title": "Nvidia, 중국 기업에 절반 이상 임대하는 데이터센터에 칩 판매 중단",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2179025",
-          "source": "Investing.com 한국어"
+          "title": "'채 상병 수사외압 모해위증' 김화동 대령 1심 선고공판 출석",
+          "url": "https://www.newsis.com/view/NISI20261117_0021535460",
+          "source": "뉴시스"
         }
       ]
     },
@@ -183,61 +233,27 @@
       ]
     },
     {
-      "keyword": "축구 감독",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh8bpORJ3n-2vMDbRUknE5DjitR9pnoOdam3MY_Z7ZuVVl_J6pqWDFxLmoDxs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "“임시 사령탑 한계” 선수단도 불안한데… 축협, 모레노 ‘연장 딜레마’",
-          "url": "https://sports.khan.co.kr/article/202611171606003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "모레노 감독, 카타르전 마친 뒤 고향 스페인으로 귀국",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117153919gK3",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "พีท พีระ",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T09:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "bangladesh vs south africa",
+      "keyword": "singapore đấu với brasil",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-17T08:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIL6yTVvTwK3SLLhCdTiF9R83pbdAn9P_AyPwPV631htVdnKig4gWOcQ2Is7I",
+      "startedAt": "2026-11-17T10:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeZEyc1PI0Sho_MxsqSXPZT5k2STeiL8z3O-sLMYImTz11UxalMb7iSRm3liE",
       "category": "스포츠",
       "news": [
         {
-          "title": "One for dad, one for daughter: Ackerman and Litton find ways to make their hundreds special",
-          "url": "https://www.cricinfo.com/story/sa-vs-ban-marques-ackerman-and-litton-das-find-ways-to-make-their-hundreds-special-1562884",
-          "source": "Cricinfo"
+          "title": "Trực tiếp bóng đá Singapore - Brazil: Endrick - Vinicius - Estevao xuất phát",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-suc-manh-c48a1811740.html",
+          "source": "Tin tức 24h"
         },
         {
-          "title": "Proteas stumble on their way to Bangladesh’s 400",
-          "url": "https://www.sacricketmag.com/proteas-stumble-on-their-way-to-bangladeshs-400/",
-          "source": "SA Cricket Mag"
+          "title": "Nhận định bóng đá Singapore vs Brazil, 17h00 ngày 17/11: Bẻ nanh sư tử",
+          "url": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-singapore-vs-brazil-17h00-ngay-17-11-be-nanh-su-tu--5290612611.html",
+          "source": "Tạp chí Bóng đá"
         },
         {
-          "title": "Bangladesh wins toss and opts to bat against South Africa in first test",
-          "url": "https://abcnews.com/Sports/wireStory/bangladesh-wins-toss-opts-bat-south-africa-test-138154907",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "title": "Trực tiếp Singapore vs Brazil: Brazil nới rộng cách biệt 0-4",
+          "url": "https://baonghean.vn/truc-tiep-singapore-vs-brazil-brazil-noi-rong-cach-biet-0-4-10356002.html",
+          "source": "Báo Nghệ An"
         }
       ]
     }
