@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-17T02:06:22.265Z",
+  "updatedAt": "2026-11-17T03:48:44.048Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "스포츠",
+      "category": "IT·과학",
       "count": 3
     },
     {
-      "category": "연예",
-      "count": 1
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "정치·사회",
-      "count": 1
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 2
     },
     {
       "category": "경제",
@@ -24,236 +24,252 @@
   ],
   "items": [
     {
-      "keyword": "김주애",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-17T00:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjg8WZNUsOLxVa8TKtlqmXkflzby0MKkBs4MuULZv-Eln7BpthekX9R59HDxQ",
-      "category": "기타",
+      "keyword": "김선태",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T02:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG3Z_N_oofOz-XzOY-z5rmMoY0RobPwfznJnMWj7MaajnuUCEmvjCMcwy7QZc",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "김정은, 백두산 인근 관광지구 시찰…스키 실력 뽐낸 주애(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261117012451504",
-          "source": "연합뉴스"
+          "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
+          "url": "https://www.hankyung.com/article/2026111708667",
+          "source": "한국경제"
         },
         {
-          "title": "北 ‘스키 타는 김주애’ 공개…김정은과 삼지연 관광지구 시찰",
-          "url": "https://www.donga.com/news/Politics/article/all/20261117/135037029/2",
-          "source": "동아일보"
+          "title": "김선태, 이번엔 ‘충주냥이’…“공무원 국어 시험 라이브로 풀겠다”",
+          "url": "https://www.koreadaily.com/article/20261116060854028",
+          "source": "미주중앙일보"
         },
         {
-          "title": "김정은, 삼지연 관광지구 이틀간 시찰‥관광자원 중요성 부각",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866195_36911.html",
-          "source": "MBC 뉴스"
+          "title": "’수학 7등급’인데 AI 안경 썼더니…결과 충격적",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115231402nwH",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "전쟁",
+      "keyword": "미스터트롯4",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-17T00:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxJkLsKT5pjGdj46JLDUXBl3yRN0BDt-w-6wsuQKX3gLZ8zR_CIUGU8PRZbZo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"한국서 곧 전쟁 난다\"…전 세계 발칵 뒤집은 '30일치 비축령'의 정체",
-          "url": "https://view.asiae.co.kr/article/2026111619334374520",
-          "source": "아시아경제"
-        },
-        {
-          "title": "한국도 전쟁 나는 거 아냐?…“30일치 식량·식수 챙겨라” 해외서 난리 난 게시물, 알고보니",
-          "url": "https://www.sedaily.com/article/20114939",
-          "source": "서울경제"
-        },
-        {
-          "title": "韓에 전쟁난다는데 우리만 몰랐다?…해외서 퍼진 `비상물품 목록` 실체는",
-          "url": "https://www.imaeil.com/page/view/2026111710383930445",
-          "source": "매일신문"
-        }
-      ]
-    },
-    {
-      "keyword": "뉴올리언스 대 골든 스테이트",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T00:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGKXTLVCcIMUNsHgd8D3Exy6TPFyvfwjVLtBSCMzvK_lqn6B4yoE0fpFEtLlw",
+      "startedAt": "2026-11-17T01:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR70LX1vyO5zY7-bWQayXa40SsdqWBWA5jy6Pr7Z31t3BELQaZf0m8ONEb1Zug",
       "category": "스포츠",
       "news": [
         {
-          "title": "Game Preview: Warriors at New Orleans Pelicans - 11/16/26",
-          "url": "https://warriors.com/news/gameday-preview-20261116",
-          "source": "NBA.com"
+          "title": "‘미스터트롯4′ 12월 17일 첫 방송...김중연, 양지원, 박지후, 남궁진 등 티저로 베일 벗어",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/",
+          "source": "조선일보"
         },
         {
-          "title": "How to watch Warriors vs. Pelicans",
-          "url": "https://www.goldenstateofmind.com/warriors-game-previews/113498/how-to-watch-warriors-vs-pelicans",
-          "source": "Golden State Of Mind"
+          "title": "‘미스터트롯4’, 현역 vs 비현역 제대로 붙는다…12월 17일 첫 방송",
+          "url": "https://sports.donga.com/ent/article/all/20261117/135036727/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "Warriors vs Pelicans Injury Report Rules Out Several Starters",
-          "url": "https://sports.yahoo.com/articles/warriors-vs-pelicans-injury-report-204935734.html",
-          "source": "Yahoo Sports"
+          "title": "TV CHOSUN [미스터트롯4] 진성X김용임X박선주X이소나, 첫 녹화부터 감탄 폭발! “이 정도까지 잘한다고?”",
+          "url": "https://www.ggpyeonghwa.com/628474",
+          "source": "경기평화신문"
         }
       ]
     },
     {
-      "keyword": "폭싹 속았수다",
+      "keyword": "장동혁",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-16T23:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "브루클린 대 필라데피아",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T00:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSroUQnUHjiGTUvcUL3rR8QXtEG9xCc0OIIHsN5yw0Z4NyIws1ouZWdWSKx_l4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "76ers star LeBron James ruled out vs. Nets due to lower back management",
-          "url": "https://www.espn.com/nba/story/_/id/50503255/lebron-james-ruled-vs-nets-due-lower-back-management",
-          "source": "ESPN"
-        },
-        {
-          "title": "LeBron James Injury Update, Latest on 76ers Star's Status vs. Nets",
-          "url": "https://bleacherreport.com/articles/25532769-lebron-james-injury-update-latest-76ers-stars-status-vs-nets",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "Embiid available, LeBron OUT for second of back-to-back in Brooklyn",
-          "url": "https://www.libertyballers.com/76ers-injury-report/102072/embiid-questionable-lebron-out-for-second-of-back-to-back-in-brooklyn",
-          "source": "Liberty Ballers"
-        }
-      ]
-    },
-    {
-      "keyword": "롤 스토브",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T00:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5UjVlutpoEPudmo4wpGcerWBMq3FGPyTm-9vhwa5jTRC75Ccvze_SJxf1gw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
-          "url": "https://www.etoday.co.kr/news/view/2647803",
-          "source": "이투데이"
-        },
-        {
-          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
-          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
-          "source": "https://www.standingout.kr/"
-        },
-        {
-          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
-          "url": "https://www.etoday.co.kr/news/view/2649030",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "남진",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwPL52aZDX6sV_Z3eR0xhJxWC0Q1iDqEm3_btQinLpDiN0uQzb9Dk-VhihukE",
-      "category": "연예",
-      "news": [
-        {
-          "title": "남진, 46세·42세 두 딸 미혼 고백…“아직 시집 안 갔다”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261116/135030857/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "미운 우리 새끼 : 설운도, 허경환의 처참한 부추전 요리에 도움 나선 후 빠른 손절",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483367571?div=live_end",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "'45세 미혼' 허경환, 결혼 임박? \"여자 없으면 거짓말\"",
-          "url": "https://www.newsis.com/view/NISX20261115_0003868821",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "파라타항공",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T00:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUGzzLDkUdSZkXkGCTN-45eFsm_orYXUfDE_xOX_XRzAZnGehw_ybhyaiSFPI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "파라타항공, 내년 5월 인천~LA 매일 운항…첫 미주 노선 판매 개시 - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/17/2026111709541769331",
-          "source": "머니투데이"
-        },
-        {
-          "title": "파라타항공, 첫 미주 노선 LA 항공권 판매 개시… 내년 5월 취항",
-          "url": "https://www.viva100.com/article/20261117500418",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "윤철민號 파라타항공, LCC 틀 깬다…노선 확대·서비스 고급화 승부수 [파라타항공 성장 날갯짓]",
-          "url": "https://www.etoday.co.kr/news/view/2648644",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "김포시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T00:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqFW8CBOR3MvS29LY88HlZLlDZBFE9cpprZWKXua2W8ZTU0tpymexvhal2ObA",
+      "startedAt": "2026-11-17T02:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScI0o5tOOogjd-lEP70j1zIEPBN2vWrz0JkYJ7ODMvGxt5hxxfob-Y1a0Y_H8",
       "category": "정치·사회",
       "news": [
         {
-          "title": "김포시, 공직자 대상 기본사회 이해 교육으로 정책 공감대 넓혀",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804152",
-          "source": "일간투데이"
+          "title": "장동혁, 한동훈 장인상 조문… 7분간 머물러",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/17/FKM4AA2WCFCCFPYATWVGRER5PI/",
+          "source": "조선일보"
         },
         {
-          "title": "거창군, 문화공연‧정책특강 함께한 11월 정례조회 개최",
-          "url": "https://www.bultopnews.com/news/article.html?no=20032",
-          "source": "불탑뉴스"
+          "title": "[여적] ‘최초 특검’ 피의자의 별세",
+          "url": "https://www.khan.co.kr/article/202611161903011",
+          "source": "경향신문"
         },
         {
-          "title": "전남광주통합특별시의회 대통령직속 기본사회위원회, 간담회 개최 > 뉴스",
-          "url": "https://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=569533",
-          "source": "더코리아"
+          "title": "장동혁, 한동훈 빙부상 조문…7분여 머물러",
+          "url": "https://www.donga.com/news/Politics/article/all/20261117/135036688/1",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "한국투자증권",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-16T23:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-BX6fFqKTP7cYKQOscW_PuQDE1VzfcvvsA6TpNhfb0gB5FBJhIRbtbnWWde8",
+      "keyword": "피의자",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T01:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-MKDDdw6urDvbNwKc7JwD1JdceWZyp0IqfJ0I-NcSHk-kSpZ_VK4tdreXTI",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "제 발 저려 시작된 추격전...6명 다치고 실탄까지 쏴",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611170224472820_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "성범죄자 질주극에 실탄 발사‥경찰관 6명 부상",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6866254_36967.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "성범죄 피의자 7km 추격 끝에 실탄까지…경찰 6명 부상",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714481",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "너구리",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T01:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYGI0ueX2RLHUb8L9g6HL7VXuEt07bT6B8Lru223IIAHzrsN8W6S0wELMB_Eo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "농심, '볶음너구리' 정식 판매 전환…신제품 '매콤마요'도 출시",
+          "url": "https://www.yna.co.kr/view/AKR20261117045300030",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "너구리 변신 계속된다…농심, '매콤마요 볶음너구리' 등 라인업 확대",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870880",
+          "source": "뉴시스"
+        },
+        {
+          "title": "농심, '볶음너구리' 다시 정식 판매…매콤마요 신제품도 출시",
+          "url": "https://www.etnews.com/20261117000166",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "장민기",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeV0ME6bigz1qZ9GjX82E0O6dIudDp1jWsfLQlLXLTNxDpWK013uHo7Rdc1rw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'9위 추락' KIA 마운드의 희망이었는데…방출 칼바람에 야구공 놓는다 \"인생에서 가장 빛나는 추억\"",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019982",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "[오피셜] \"타이거즈라는 멋진 팀에서 야구를 할 수 있어 언제나 행복했습니다\" 국대 마무리 조병현보다 먼저 뽑혔던 2001년생 좌완 유망주 장민기, 은퇴 선언",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553702539",
+          "source": "스포탈코리아"
+        },
+        {
+          "title": "KIA 투수 장민기 타이거즈 선수여서 행복…평생 잊지 않겠다",
+          "url": "https://www.ajunews.com/view/20261116062601922",
+          "source": "아주경제"
+        }
+      ]
+    },
+    {
+      "keyword": "상장",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T01:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5NvLfFLfNfoBJD3XvGTuyn9OerBVrHyQi1Ygxr_GOA0Yp4DF2Z8BRLb0Gj0",
       "category": "경제",
       "news": [
         {
-          "title": "한국투자증권, 유튜브 '한국인의 연금' 통해 시황 라이브 진행",
-          "url": "https://www.etnews.com/20261117000054",
-          "source": "전자신문"
+          "title": "\"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+]",
+          "url": "https://www.hankyung.com/article/2026111695036",
+          "source": "한국경제"
         },
         {
-          "title": "LS증권, '투혼클럽' 고객 초청 자산관리 세미나 개최",
-          "url": "https://core.asiae.co.kr/article/2026111710210972334",
-          "source": "아시아경제"
+          "title": "AI칩 투자 줄이고 앤스로픽에 50억달러 청약…거스너 “젠슨 황 복귀 서두르지 말라”",
+          "url": "https://www.mk.co.kr/news/it/12210622",
+          "source": "매일경제"
         },
         {
-          "title": "한투, 매주 화요일 '연금 시황 라이브' 세미나 \"연금 자산배분 전략 제시\"",
-          "url": "https://www.fnnews.com/news/202611171018443072",
-          "source": "파이낸셜뉴스"
+          "title": "증시 덮친 ‘앤트로픽 수급 공포’···삼전닉스 2차 매물폭탄 쏟아지나",
+          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425062",
+          "source": "시사저널e"
+        }
+      ]
+    },
+    {
+      "keyword": "2027",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T01:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfv_7jcJnn96KeZDE98fRXxesPMDprncLz4l2V41oGte5DJzoBDWA81FDt3y0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
+          "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Women lead Grammy nominations as Noah Kahan gets snubbed",
+          "url": "https://www.washingtonpost.com/entertainment/music/2026/11/16/young-women-lead-grammy-nominations-noah-kahan-snubbed/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "WA folk-rock hero gets 4 nominations for 2027 Grammy Awards",
+          "url": "https://www.seattletimes.com/entertainment/music/2027-grammys-brandi-carlile-foo-fighters-among-nominees-with-wa-ties/",
+          "source": "The Seattle Times"
+        }
+      ]
+    },
+    {
+      "keyword": "embassy",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG1mwBXXYDUjHjNNF6OYEv0m8MZUHS5tCOSc7yexWezsgvSFGvvX41-iMsXrc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "(LEAD) S. Korea seeks to reconstruct aging embassy in U.S. amid uncertainty over funding",
+          "url": "https://en.yna.co.kr/view/AEN20261116007951315",
+          "source": "Yonhap News Agency"
+        },
+        {
+          "title": "South Korea to rebuild Washington embassy for first time in 70 years at estimated cost of W300b",
+          "url": "https://mbiz.heraldcorp.com/article/10938808",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "Korea Moves to Rebuild 72-Year-Old Embassy in Washington",
+          "url": "https://en.sedaily.com/politics/2026/11/16/korea-moves-to-rebuild-72-year-old-embassy-in-washington",
+          "source": "Seoul Economic Daily"
+        }
+      ]
+    },
+    {
+      "keyword": "예비소집일",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T02:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk4rV-63rq3On1C7zlB4sAp4mwzYaDWUycagnRu8YFIkGnWPin-TgrLQ2tuvA",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "[지지대] 흔들리지 말고 당당하게",
+          "url": "https://www.kyeonggi.com/article/20261116580050",
+          "source": "경기일보"
+        },
+        {
+          "title": "N수생 최대·AI 안경까지···‘현행 마지막 시험’ 올 수능 변수는?",
+          "url": "https://www.khan.co.kr/article/202611151412011",
+          "source": "경향신문"
         }
       ]
     }
