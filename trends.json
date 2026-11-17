@@ -1,49 +1,57 @@
 {
-  "updatedAt": "2026-11-17T19:58:24.876Z",
+  "updatedAt": "2026-11-17T20:47:37.403Z",
   "summary": [
     {
       "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
+      "count": 5
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 3
     },
     {
       "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "연예",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "데블스플랜",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T17:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSozK_Rgzh9XKB4PFLTxfaYPcOOr6hVd7YtDe9VYxZVhvGooRyCkR5EvhBt9qM",
-      "category": "기타",
+      "keyword": "경찰",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-17T19:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBBv4cRZkIZCPlIIMhW07uCsc4wJ02XOu2cCnrW_0PT5Z2m6cU2uXpwKFjXqw",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
-          "url": "https://www.mk.co.kr/news/hot-issues/12210932",
-          "source": "매일경제"
+          "title": "\"이렇게까지 한다고?\" 웃음보인 장관‥\"믿음 깨져\" 냉소 속출",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866389_37004.html",
+          "source": "MBC 뉴스"
         },
+        {
+          "title": "당정, '수능 AI 부정행위' 대책 협의회…입법 과제 등 논의",
+          "url": "https://www.yna.co.kr/view/AKR20261117175800001",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "문과 '士'자 직업이면 뭐하나…수험생 돌변에 '서늘한 경고'",
+          "url": "https://www.hankyung.com/article/2026111727641",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "데블스플랜3",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T16:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgQZ95w7ZmM-AsXHeHiNmlEcDURj0c07ZSVQhA14mpZUzrOtYB1NwFWebvXAg",
+      "category": "기타",
+      "news": [
         {
           "title": "[TF초점] '데블스 플랜3', 5회 만에 빠져든 두뇌 싸움…역시 근본 조합",
           "url": "https://news.tf.co.kr/read/entertain/2389546.htm",
@@ -53,56 +61,36 @@
           "title": "????: 장동민이 누군데??ㅣ⚠️무단복제·재가공 엄금 #데블스플랜3 #장동민 #홍진호 #정현규",
           "url": "https://korean-vibe.com/article/179586602921155",
           "source": "K-VIBE"
+        },
+        {
+          "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
+          "url": "https://www.mk.co.kr/news/hot-issues/12210932",
+          "source": "매일경제"
         }
       ]
     },
     {
-      "keyword": "탄도 미사일",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T15:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwNlsUvTkbqNrxLHDIEd85yQskCQbFXWIl0vqUcLVhklcmy8DjyROdUHD7d9I",
-      "category": "정치·사회",
+      "keyword": "국제 통화 기금",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T19:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyCH12fkV0n2i0rOc0y8c1NFY9NovKK3wzNBx8NAyp0IAt1k1j4Rof5ivpB4",
+      "category": "기타",
       "news": [
         {
-          "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html",
-          "source": "MBC 뉴스"
+          "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
-          "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289",
-          "source": "서울Pn"
+          "title": "IMF, 올해 경제 성장률 3.9%로 상향…’통화 긴축’ 주문",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118044902M56",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
-          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "친선경기",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T14:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfFqk9teHYpe6sQejTCl2wC_Ba5Kt7gsQOFv3OmZs83e3tpho9-20BT9iS9YU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "콜롬비아, 칠레와 친선 경기…수아레스, 마리판·울로아와 공 다툼",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752319",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "칠레 vs 콜롬비아 친선 경기 예측 - 국제 친선 경기",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-chile-vs-colombia-giao-huu-dtqg-friendlies",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "콜롬비아 대 칠레 경기 예측: 예측하기 어려운 경기",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-colombia-vs-chile-cuoc-doi-dau-kho-phan-dinh",
-          "source": "Vietnam.vn"
+          "title": "기자 질문 받는 코린 들레샤 단장",
+          "url": "https://www.newsis.com/view/NISI20261117_0021535578",
+          "source": "뉴시스"
         }
       ]
     },
@@ -120,14 +108,14 @@
           "source": "The Conversation"
         },
         {
+          "title": "GTA 6 is making history with its female lead, and women gamers are here for it",
+          "url": "https://tech.yahoo.com/gaming/article/gta-6-is-making-history-with-its-female-lead-and-women-gamers-are-here-for-it-173554427.html",
+          "source": "Yahoo Tech"
+        },
+        {
           "title": "GTA VI’s voice actor for Lucia was revealed by… The Game Awards.",
           "url": "https://www.theverge.com/games/1035602/gta-vis-voice-actor-for-lucia-was-revealed-by-the-game-awards",
           "source": "The Verge"
-        },
-        {
-          "title": "Grand Theft Auto 6 Lucia Actress Finally Revealed — And Yes, It's Who You Probably Suspected",
-          "url": "https://www.ign.com/articles/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-its-who-you-probably-suspected",
-          "source": "IGN"
         }
       ]
     },
@@ -145,64 +133,89 @@
           "source": "전자신문"
         },
         {
-          "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087",
-          "source": "연합인포맥스"
-        },
-        {
           "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
           "url": "https://www.yna.co.kr/view/AKR20261117137300002",
           "source": "연합뉴스"
+        },
+        {
+          "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087",
+          "source": "연합인포맥스"
         }
       ]
     },
     {
-      "keyword": "서울경제",
+      "keyword": "데블스플랜",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62zVP6XULbnyYMNWFVJ-6s3hBb-E4cNjAwDijMPdlv6QsJJ6Qah0Aqfh3ldU",
-      "category": "생활·날씨",
+      "startedAt": "2026-11-17T17:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIElDDZ6bX4cPO8RiVR8uBYwPXTf10jwHaLWw-9rFXWfdG5XkM9yc5Y_P-zwk",
+      "category": "기타",
       "news": [
         {
-          "title": "일본 경유하려다 ‘날벼락’ 맞을 수도…“이것 없인 비행기 못 탄다” 대체 무슨 제도길래",
-          "url": "https://www.sedaily.com/article/20114910",
-          "source": "서울경제"
+          "title": "정현규, 공황 증상으로 '데블스 플랜3' 하차 \"극복했다 생각\"",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525195",
+          "source": "iMBC 연예"
         },
         {
-          "title": "日, 2028년부터 일부 환승객도 전자여행허가 추진…인천공항과 허브 경쟁 변수",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625420",
-          "source": "메디컬투데이"
+          "title": "정현규, 비난 여론 딛고 '데블스플랜' 새 시즌 합류하더니 공황으로 중도 하차",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020407",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "日, 입국 안 하는 환승객도 사전 인증 추진…항공업계 우려",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869538",
-          "source": "뉴시스"
+          "title": "데블스플랜 정현규 공황으로 하차, 괜찮을 줄 알았는데 아니었다…퇴소 후 공개한 현재 건강 상태와 마지막 고백",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224481199187&redirect=Dlog",
+          "source": "Naver Blog"
         }
       ]
     },
     {
-      "keyword": "김다현",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T14:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2RzEh2NYA4dH2VZPepmSHzrtf7iMPBz4_6Hd-lXXpNqz7b8ih81A4uyxXpyY",
-      "category": "연예",
+      "keyword": "백신",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T19:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCqEiGSU61pSzOiY_Vg_UH3Rc40s9A7jisvJkP10zysnZZWw-6e36WMF2ki9Q",
+      "category": "기타",
       "news": [
         {
-          "title": "'가요무대' 김다현·빈예서 듀엣부터 배아현·신유·신승태까지 총출동",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753917",
-          "source": "국제뉴스"
+          "title": "美, 26년 만에 '홍역 퇴치국' 지위 잃었다…\"백신 불신 탓\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04775686645646704",
+          "source": "마켓인"
         },
         {
-          "title": "‘가요무대’ 미스김 ‘황홀무대’",
-          "url": "https://sports.khan.co.kr/article/202611171459003",
-          "source": "스포츠경향"
+          "title": "美, 26년 만에 '홍역 퇴치국' 지위 상실…멕시코·볼리비아도",
+          "url": "https://www.news1.kr/world/usa-canada/6357363",
+          "source": "뉴스1"
         },
         {
-          "title": "‘가요무대’ 가수 김범룡·신승태·신유 등 “이름 모를 소녀” 가을에 떠난 사람",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277350",
-          "source": "톱스타뉴스"
+          "title": "'백신 회의론' 美, '홍역 없는 국가' 지위 박탈",
+          "url": "https://www.fnnews.com/news/202611180209295752",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "엔비디아 실적",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T16:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOPKekkJkBV1pR1AkCl4Ikt3P6rLstjoKbEaACjGuLZn0QQzHTfYr6pjSutHo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "9개월 만에 5,000선 붕괴, 코스피에 무슨 일이?",
+          "url": "https://story.pay.naver.com/content/3985_3_C1",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "엔비디아가 누른 코스피, 실적이 만회할까 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/18/2026111719550672404",
+          "source": "머니투데이"
+        },
+        {
+          "title": "젠슨 황 후폭풍에 ‘5000P’ 무너져… 9개월새 최저",
+          "url": "https://www.donga.com/news/Economy/article/all/20261117/135043015/2",
+          "source": "동아일보"
         }
       ]
     },
@@ -253,31 +266,6 @@
           "title": "황희찬 입지는 어떻게 될까… 韓 대표팀 고민거리 ‘왼쪽 윙어’, 송민규·엄지성·정우영과 무한 경쟁?",
           "url": "https://www.besteleven.com/news/articleView.html?idxno=313996",
           "source": "베스트일레븐"
-        }
-      ]
-    },
-    {
-      "keyword": "헝거게임",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nwX7hRFTswijxTZlKjIJybJtK1C3wuXqFVPj-dBA505aT1mLGOqyar4-WxE",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
-          "url": "https://www.yna.co.kr/view/AKR20261114033700005",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "연말 극장가 8천억원 블록버스터 전쟁",
-          "url": "https://www.mk.co.kr/news/culture/12211334",
-          "source": "매일경제"
-        },
-        {
-          "title": "‘헝거게임 50번째 추첨의 날’, 개봉 외화 예매율 1위…18일 출격",
-          "url": "https://www.sportsworldi.com/newsView/20261116519561",
-          "source": "스포츠월드"
         }
       ]
     }
