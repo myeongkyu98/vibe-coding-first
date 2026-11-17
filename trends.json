@@ -1,270 +1,279 @@
 {
-  "updatedAt": "2026-11-17T07:04:56.365Z",
+  "updatedAt": "2026-11-17T08:22:57.550Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "count": 4
     },
     {
       "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 2
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "전남광주통합특별시교육청",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T05:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk_qGBuQnOMcl_wmY40FADgiXsHDIiE-xkbFADx0zzR63g72avnsSvXx-hQBs",
+      "keyword": "카타르 축구 국가대표팀",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-17T06:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQDTwDdRG0Fjb-ehgUhqaBZdMvYnC_9SdVGR8v3FGHQFCbGI44K86nw4lfZmc",
       "category": "스포츠",
       "news": [
         {
-          "title": "수능 감독 교사는 수당 17만원인데···전남광주교육청 간부는 최대 330만원 챙겼다",
-          "url": "https://www.khan.co.kr/article/202611171217001",
-          "source": "경향신문"
+          "title": "‘임시 체제’ 답답했던 황인범…“좋은 상황은 아니라 생각” [현장영상]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714804",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "수능 감독교사는 수당 17만원 받는데…교육감은 330만원 챙겼다",
-          "url": "https://www.mk.co.kr/news/society/12211185",
-          "source": "매일경제"
+          "title": "'손흥민 향한 신뢰' 모레노 감독‥투톱 기용 변화 줄까?",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866093_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "수능 감독수당 교사는 17만원, 교육청 고위직은 수백만원",
-          "url": "https://www.yna.co.kr/view/AKR20261117114400054",
-          "source": "연합뉴스"
+          "title": "태극전사, 오늘 카타르와 올해 마지막 A매치…손흥민 60호골 재도전",
+          "url": "https://www.newsis.com/view/NISX20261116_0003870590",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "고지용",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T05:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo8WkLtZgvZt3o1-xy6iU5zmJ0JgEXwBiw2r5b-UpmMjyMcENKw2V33x501nE",
+      "keyword": "아동수당",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T06:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd7vUQ5c4-SwRdkiCVjhUsbc0yoJdSJ1Ryb2ZXONcx4qSW0SRCmp7n4bmkKwg",
       "category": "기타",
       "news": [
         {
-          "title": "고지용 \"건강 악화로 63㎏까지 빠져…술에 의존해\"",
-          "url": "https://www.newsis.com/view/NISX20261116_0003870556",
-          "source": "뉴시스"
+          "title": "“내년부터 12세까지 월 30만원?”…아동수당 확대 추진, 대상은",
+          "url": "https://www.kyeonggi.com/article/20261117580139",
+          "source": "경기일보"
         },
         {
-          "title": "\"'슈돌'은 시간 맞춰줘\" 고지용, 젝키 불참 해명…팬들 '발끈' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111710464723184",
-          "source": "머니투데이"
+          "title": "군산시, 아동기본수당 단계적 확대…0∼12세에 매달 20만원",
+          "url": "https://www.yna.co.kr/view/AKR20261117040200055",
+          "source": "연합뉴스"
         },
         {
-          "title": "\"아들 더 보고 싶다\" 고지용, 허양임과 법정까지 간 이유보니 [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GEZDQNZTGYYTEZLCGI2GKNRRGI/",
+          "title": "만 12세 이하 아동 월 최대 30만 원...아동수당 확대 추진 나도 대상일까",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754552",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "dplus kia",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T06:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx2lfvmGfiR74WiUhxDLJY9iMp4_x_g2J63q6wk_yu1BRqgWe4VK2FPz6vgcw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Dplus KIA Youth Sweeps Both First and Second-Half LCK Academy League Titles",
+          "url": "https://www.invenglobal.com/articles/28692/dplus-kia-youth-sweeps-both-first-and-second-half-lck-academy-league-titles",
+          "source": "Inven Global"
+        },
+        {
+          "title": "Worlds 2027 Starts in Nagoya, Then Moves to Suwon and Seoul",
+          "url": "https://rg.org/news/esports/worlds-2027-swiss-nagoya-knockouts-suwon-seoul-arena-msi-valencia",
+          "source": "RG.org"
+        },
+        {
+          "title": "MSI 2027 heads to Valencia as Riot reshapes Split 1 with First Stand: All In in China",
+          "url": "https://esportsinsider.com/2026/11/msi-2027-heads-to-valencia-as-riot-reshapes-split-1-with-first-stand-all-in-in-china",
+          "source": "Esports Insider"
+        }
+      ]
+    },
+    {
+      "keyword": "텔레그램",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T06:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFIueritUEXY-U9h8kk54dT3R2i_OgzebrtjsMSzPlLOSgz3J-x6ZF7_Mju-o",
+      "category": "연예",
+      "news": [
+        {
+          "title": "텔레그램 기반 100억원대 물품사기 일당 131명 검거",
+          "url": "https://www.yna.co.kr/view/AKR20261117072000051",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘아이돌 콘서트 티켓·골드바 판매’ 미끼로 148억 가로챈 131명 검거",
+          "url": "https://www.donga.com/news/Society/article/all/20261117/135038207/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "텔레그램 단체 대화방에서 정보 공유하며 온라인 중고물품 사기···경찰, 131명 검거해 26명 구속 송치",
+          "url": "https://www.khan.co.kr/article/202611171427001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "현대자동차",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T06:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeCrJ7v6G9dGYEERIqr7RTVV5_B7x8VyNXuaIhVYX6Hz34Qitfz4D_50vQgtA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "현대차 공장 가동률 94→86% 뚝…국내도 해외도 부진",
+          "url": "https://www.yna.co.kr/view/AKR20261116167800003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘파업 여파’ 현대차 국내 공장 가동률 94%로 하락…車 가격은 3% 안팎 올라",
+          "url": "https://www.chosun.com/economy/auto/2026/11/17/UKLLWAF4RJAM7GK5ENF72JI6RI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "현대차, 국내외 공장 가동률 80%대로 떨어져…기아는 95% 유지",
+          "url": "https://www.sedaily.com/article/20115223",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "kt wiz",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T07:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlj3SSRIZUp68M-4HChT1LIeOLMZ690ggyXVCAGpgRxsBlejfg4mlWRei83AE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "KT Wiz to hold 2026 fan festival at Suwon with player events and band performances",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/17/3RUXIEOIS5G3ZFXPZBWWFB7HNQ/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "KT Wiz Hosts 2026 Fan Festival on 21st at Suwon KT Wiz Park",
+          "url": "https://www.chosun.com/english/sports-en/2026/11/17/LUEKKJE3FVD7LB7Y3SBYPPADLQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "Same blood, different dugouts: Brothers reunite at Korean Series",
+          "url": "https://www.koreajoongangdaily.com/sports/same-blood-different-dugouts-brothers-reunite-at-korean-series/12958480",
+          "source": "Korea JoongAng Daily"
+        }
+      ]
+    },
+    {
+      "keyword": "조국",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T06:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5ydDNv6U6CuYVHZ_QQNPk5ofdmrUV6f2CC1OHTwXQBjH6zO7ZeveXfPWtRuk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "조국, 일본 공항서 입국 거부…독도 방문, 전과 이력 때문? 혁신당 \"초유의 사태 사과해야\"",
+          "url": "https://news.jtbc.co.kr/article/NB12328472",
+          "source": "JTBC"
+        },
+        {
+          "title": "조국, 일본 입국 거부로 방일 무산…혁신 \"일본 정부 사과해야\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611171711511Jd",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문?",
+          "url": "https://www.chosun.com/international/international_general/2026/11/17/KER2C24OIVG3ZCSETFDVF2SEC4/",
           "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "실종자",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSErTmfuZNAMvAbEKYROZhIwx6_eEKPm8C8YMfwg2GoFuuCTD-50gcJS3EM4u4",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "부안 갯벌서 남성 시신 발견…실종자와 신원 대조",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712895",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "갯벌서 발견된 남성 변사체…해경 수사 중",
-          "url": "https://www.nocutnews.co.kr/news/6606902",
-          "source": "노컷뉴스"
-        },
-        {
-          "title": "부안 갯벌서 남성 시신 발견…전날 실종된 60대 추정",
-          "url": "https://www.theonetv.kr/news/articleView.html?idxno=255198",
-          "source": "OBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "한성숙",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T06:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81cwbocLGSWTiJD8TAsbqs6nAT5-NWvFD_sekD4oJUOndwVICKarVvc1XnLw",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "'조작기소 특검' 수사대상 전 검사장들 \"법치 근간 흔들어\" 반발",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866272_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "與 “진실 밝히는 출발점“ 野 “’쿠데타’ 의결“",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117154804Hcd",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "조작기소특검법 공포안, 이 대통령 순방 중 한성숙 총리 주재 국무회의서 의결",
-          "url": "https://www.khan.co.kr/article/202611171134001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "소프트웨어",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T05:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjdJFYsdaLmzFkvbO7SpBkoJpmf3V-al8M09pjK15Hxp9Ur_qvjz6C8MIaCso",
-      "category": "경제",
-      "news": [
-        {
-          "title": "KMS테크놀로지, 테너블·비욘드트러스트와 19일 OT 보안 웨비나",
-          "url": "https://www.ddaily.co.kr/page/view/2026111610152690942",
-          "source": "디지털데일리"
-        },
-        {
-          "title": "앤앤에스피, 'CPS 시큐어 AX 서밋 2026' 개최",
-          "url": "https://www.etnews.com/20261113000267",
-          "source": "전자신문"
-        },
-        {
-          "title": "전망 상향 조정이 포티넷(FTNT) 주가에 있어 중요한 전환점이 될 수 있다",
-          "url": "https://simplywall.st/ko/stocks/us/software/nasdaq-ftnt/fortinet/news/56a22980989bd92e",
-          "source": "Simply Wall St"
-        }
-      ]
-    },
-    {
-      "keyword": "sri lanka vs pakistan",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T05:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjO98TjVEKItmjq-r-qQDJr7fAOUydhwJI92O3F9tp_Tm6Ia_sB7fC_jII-CM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Ball by Ball Commentary & Live Score - PAK vs SL, 2nd Test",
-          "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-2nd-test-1550712/ball-by-ball-commentary",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Pakistan’s gritty Shakeel again misses out on a century in drawn test against Sri Lanka",
-          "url": "https://apnews.com/article/cricket-pakistan-srilanka-wtc-cb5b1fa2559ee037da211b7e06020a09",
-          "source": "AP News"
-        },
-        {
-          "title": "Pakistan Sri Lanka Cricket",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/pakistan-sri-lanka-cricket/image_0f8d40d5-c1ec-51d2-9a7e-2a4cd6608ecc.html",
-          "source": "Corsicana Daily Sun"
-        }
-      ]
-    },
-    {
-      "keyword": "구축함",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T05:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsbtkmgRI4pBsG2YHCBTSSHOTO6koxLysFVFq5Fu63AbdSqVS0mdd9HD58g-I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"北 신형 구축함, 핵·재래무기 동시 탑재…속도 등 한계\"",
-          "url": "https://www.yna.co.kr/view/AKR20261111084300009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[위성+] 5000톤급 구축함 ‘강건호’ 마양도 배치, ‘최현호’ 남포항 계류",
-          "url": "https://www.dailynk.com/20261117-2/",
-          "source": "데일리NK"
-        },
-        {
-          "title": "北 해군도 핵무장… 시급한 ‘해양 킬웹’[포럼]",
-          "url": "https://www.munhwa.com/article/11630506",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "전두환",
+      "keyword": "배충식",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T05:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDvZbU4zqKJ9f7mvdZEDCv-hvJTYAUMVKLWGc3EK3r0N59N5p2Ds735Z1C204",
-      "category": "기타",
-      "news": [
-        {
-          "title": "전두환 일가 비자금 의혹 사건, 중수청이 맡는다…추징 미납 800억대",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1287673.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "[단독] ‘전우원 폭로’ 故 전두환 비자금 의혹 서울중수청이 맡는다…공소청서 이송[세상&]",
-          "url": "https://biz.heraldcorp.com/article/10939286",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "서울중수청, ‘전두환 비자금 의혹’ 넘겨받아 기록 검토 중",
-          "url": "https://www.khan.co.kr/article/202611171054001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "시그니엘 서울",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T04:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_I9H7rip12si3gEv5g8fAPSlanOPJ4rVVneOoCjEyi2ZnioSMFOT6MOckLi0",
-      "category": "경제",
-      "news": [
-        {
-          "title": "84억에 산 메가커피 법인 소유 시그니엘… 오너 일가 주소지로 등재",
-          "url": "https://biz.chosun.com/distribution/food/2026/11/17/UFQAXVG5JRBEXMXPWPSPJNFCUY/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "창업부터 투자·산업까지…시그니엘 서울서 ‘2026 넥스트젠 스타트업 세미나·경제포럼’ 개최",
-          "url": "https://www.ttlnews.com/news/articleView.html?idxno=3163072",
-          "source": "퍼블릭뉴스통신"
-        }
-      ]
-    },
-    {
-      "keyword": "와퍼",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T06:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSw6n1y3kUfqmrF0oZ8xvcKLRTrYsE0G9SFIyfzqsnND7VNP9PZ8x-UTlhP27I",
+      "startedAt": "2026-11-17T06:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1jUHWn1-EvlVyK4v1UtMJ3kBQE3TAXd5myFKC99JRR1GhzjhyN9Ut7ZioGFE",
       "category": "IT·과학",
       "news": [
         {
-          "title": "\"8년 전 만우절 콘텐츠가 현실로\"…버거킹, '초콜릿 와퍼' 출시",
-          "url": "https://www.yna.co.kr/view/AKR20261117028800030",
-          "source": "연합뉴스"
+          "title": "카이스트, 중국 칭화대와 복수학위제 운영한다···기계공학 석사과정 내년 개설",
+          "url": "https://www.khan.co.kr/article/202611171109001",
+          "source": "경향신문"
         },
         {
-          "title": "패티는 브라우니, 피클은 초콜릿…버거킹 '초콜릿 와퍼' 성수서 첫선",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870829",
-          "source": "뉴시스"
+          "title": "KAIST·칭화대, 기계공학 석사 복수학위 과정 개설…내년부터 매년 5명 선발",
+          "url": "https://biz.chosun.com/science-chosun/science/2026/11/17/M3OCBBRGUVFD5K2CFDRUNYUJRE/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "\"당 충전 끝판왕 나왔다\"…버거킹이 내놓은 '단단버거' 뭐길래",
-          "url": "https://www.hankyung.com/article/202611170751g",
-          "source": "한국경제"
+          "title": "KAIST·칭화대 학생들, 양 대학에서 공부하고 석사학위 받는다",
+          "url": "https://www.kmib.co.kr/article/20261117500693",
+          "source": "국민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "상어",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T06:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-SCVg8PE0OTXlYTjXBv3QIIx1pIPy0n3sXI4hnnzPNGNXg_VFWpaQBEOSuY",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘부캉이’ 인기에 명예홍보대사 위촉했던 부산시···“해수욕장 출몰은 안 돼” 상어 퇴치장비 도입 추진",
+          "url": "https://www.khan.co.kr/article/202611171123001",
+          "source": "경향신문"
+        },
+        {
+          "title": "부산시, 해수욕장 사망사고 2년 연속 0건…내년 개장 확대 검토",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722189",
+          "source": "뉴스타운"
+        },
+        {
+          "title": "해파리 쏘임 26% 줄고 2년 연속 사망 ‘0’…부산 해수욕장, 개장기간 늘리나",
+          "url": "https://www.mk.co.kr/news/society/12210922",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "한국은행 기준금리",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T06:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0KWtvDZUGmImSoYv-I6TVx_6mLqkLFB-pqCqKpBnyA4ordPTqH5uTl_wacU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "씨티 \"한은, 11월 만장일치 25bp 인상 전망…내년 성장률 3.3%\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445173",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "한은, 이달 기준금리 0.25%p 인상 가능성 커져",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1287650.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "한은 또 올릴까?...올해 마지막 금통위 앞두고 추가 인상 전망 ‘솔솔’",
+          "url": "https://www.mk.co.kr/news/economy/12209158",
+          "source": "매일경제"
         }
       ]
     }
