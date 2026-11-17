@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-17T16:56:19.013Z",
+  "updatedAt": "2026-11-17T17:55:30.935Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 3
+      "count": 2
     },
     {
       "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "경제",
       "count": 2
     },
     {
@@ -18,7 +18,15 @@
       "count": 1
     },
     {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
       "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
@@ -28,13 +36,13 @@
       "traffic": "20000+",
       "trafficValue": 20000,
       "startedAt": "2026-11-17T14:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYN_5bLMuHkKw2p70XTrQLzo7SH965TGZYjuSdyL_JIos8HylLJMRq7h_uAc4",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWrUlO77PYx9sSH6hPr93UKyJlaf-SBRLDBA3Nsi-byb5co14XPyrK8wjxCOk",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "[속보] 경북 상주시 북서쪽 22km 지역서 규모 3.7 지진 발생",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755162",
-          "source": "국제뉴스"
+          "title": "경북 상주 규모 3.6 지진…유감 신고 16건",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715579",
+          "source": "KBS 뉴스"
         },
         {
           "title": "원안위 \"상주 인근 규모 3.6 지진, 원자로 안전에 영향 없어\"",
@@ -49,77 +57,77 @@
       ]
     },
     {
-      "keyword": "일본 파라과이",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T13:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlOqQ83B3b7dJjrHExfA0sLaCCzpiwq70VFPXlMYYqc_D5rnPcjI5PtuJYKQc",
+      "keyword": "카타르 대 한국",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-17T13:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqhfC27DXgRSo4X9ide1DTuepi7XYLZA1AkbcXv3i3u4EJiUWx-ZgnR4s8IDA",
       "category": "스포츠",
       "news": [
         {
-          "title": "'브라질 잡았다고 신났는데 파라과이에 무너졌다' 일본, FIFA 33위 상대 전반에만 2실점...올해 마지막 경기 1-2 패배 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/18/202611180005779880O",
-          "source": "머니투데이"
+          "title": "모레노 \"다시 맡을 가능성 당연히 생각…시간과 신뢰가 중요\"",
+          "url": "https://www.yna.co.kr/view/AKR20261118004600007",
+          "source": "연합뉴스"
         },
         {
-          "title": "'브라질 잡았다고 신났는데 파라과이에 무너졌다' 일본, FIFA 33위 상대 전반에만 2실점...올해 마지막 경기 1-2 패배",
-          "url": "https://biz.chosun.com/sports/baseball/2026/11/18/HBTGEMBVMQ2TSM3BGE3DKYZTMQ/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "'모리야스 고별전' 일본, 파라과이에 1-2 패배...5경기 연속 무패 마침표",
-          "url": "https://www.newspim.com/news/view/20261118000005",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "권고",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T13:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIDZE-4ElxuTVlxmopqSssRWSKwlZWtJ8hPhkUyph6di6wlwfJHMHV6d0W38I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "국힘, 대구 남구의회 의장·부의장 ‘탈당 권고’",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713243",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "김재겸 대구 남구의장 \"국힘 탈당권고 수용, 이의신청 안 해\"",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869570",
+          "title": "카타르전 결승골 오세훈 \"민규 크로스 믿어…동료들에 너무 미안\"",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872310",
           "source": "뉴시스"
         },
         {
-          "title": "대구 민주당 \"국힘 남구의회 의장단 선출 야합 주장 철회하라\"",
-          "url": "https://www.nocutnews.co.kr/news/6607591",
-          "source": "노컷뉴스"
+          "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715445",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "lg그룹",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T13:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbdhwxDRGU2OZUuHpru88I4Qx5RhSBSzJ-_T_lwtdgbOdHjb58GyuXPk0ILlA",
-      "category": "경제",
+      "keyword": "데블스플랜3",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T16:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSozK_Rgzh9XKB4PFLTxfaYPcOOr6hVd7YtDe9VYxZVhvGooRyCkR5EvhBt9qM",
+      "category": "기타",
       "news": [
         {
-          "title": "[단독] 이상엽 LGU+ CTO 물러난다…LG그룹 임원인사 통보 시작",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006517",
-          "source": "아시아투데이"
+          "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
+          "url": "https://www.mk.co.kr/news/hot-issues/12210932",
+          "source": "매일경제"
         },
         {
-          "title": "[단독] LGU+, 기술 조직 ‘고강도 쇄신’…AI·데이터 임원 교체",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006562",
-          "source": "아시아투데이"
+          "title": "[TF초점] '데블스 플랜3', 5회 만에 빠져든 두뇌 싸움…역시 근본 조합",
+          "url": "https://news.tf.co.kr/read/entertain/2389546.htm",
+          "source": "더팩트"
         },
         {
-          "title": "[리포트 브리핑]LG에너지솔루션, '실적 추이 및 전망' 목표가 460,000원 - 삼성증권",
-          "url": "https://www.newspim.com/news/view/20261117001009",
-          "source": "뉴스핌"
+          "title": "????: 장동민이 누군데??ㅣ⚠️무단복제·재가공 엄금 #데블스플랜3 #장동민 #홍진호 #정현규",
+          "url": "https://korean-vibe.com/article/179586602921155",
+          "source": "K-VIBE"
+        }
+      ]
+    },
+    {
+      "keyword": "탄도 미사일",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T15:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwNlsUvTkbqNrxLHDIEd85yQskCQbFXWIl0vqUcLVhklcmy8DjyROdUHD7d9I",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
+          "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289",
+          "source": "서울Pn"
+        },
+        {
+          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
+          "source": "조선일보"
         }
       ]
     },
@@ -142,9 +150,9 @@
           "source": "스포츠경향"
         },
         {
-          "title": "‘가요무대’ 가수 김범룡·신승태·신유 등 “이름 모를 소녀” 가을에 떠난 사람",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16277350",
-          "source": "톱스타뉴스"
+          "title": "가요무대 오늘(16일) 출연진·곡명...진시몬, 류원정, 박진도, 하루, 윤태화, 신유, 배아현, 풍금, 김다현, 빈예서, 신승태, 최유나, 미스김, 김희진, 김범룡",
+          "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94177",
+          "source": "더페어"
         }
       ]
     },
@@ -187,39 +195,14 @@
           "source": "بوابة الشروق"
         },
         {
+          "title": "موعد عرض توب شيف الموسم العاشر 2026.. انطلاق Top Chef VIP بمشاركة نجوم الفن",
+          "url": "https://roayahnews.com/%D9%85%D9%88%D8%B9%D8%AF-%D8%B9%D8%B1%D8%B6-%D8%AA%D9%88%D8%A8-%D8%B4%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-2026-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82/",
+          "source": "شبكة رؤية الإخبارية"
+        },
+        {
           "title": "بمشاركة نجوم الوطن العربي.. MBC تعلن موعد عرض الموسم الجديد من «توب شيف»",
           "url": "https://www.almasryalyoum.com/news/details/4412587",
           "source": "المصري اليوم"
-        },
-        {
-          "title": "MBC تكشف موعد عرض «توب شيف VIP» بمشاركة نجوم الفن العربي",
-          "url": "https://twaslnews1.twaslnews.com/7826033/",
-          "source": "شبكة تواصل الإخبارية"
-        }
-      ]
-    },
-    {
-      "keyword": "npl",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T13:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8eXbeaoHJgXPFHbluuwJN0otDhxDX1aAwJHMbsLqSBmCP-IE4vZGr96UAbbM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Lumbini Lions vs Sudurpaschim Royals Preview & Prediction | 2026 Nepal Premier League | Qualifier 1",
-          "url": "https://www.thestatszone.com/lumbini-lions-vs-sudurpaschim-royals-preview-prediction-2026-nepal-premier-league-qualifier-1-239426",
-          "source": "The Stats Zone"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://m.cricbuzz.com/player-match-performance/match/177813/player/12140/batting?inningsId=2",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Qualifier 1 (D/N), Nepal Premier League at Kirtipur, Nov 17 2026",
-          "url": "https://www.espn.com/cricket/series/23081/scorecard/1558610/lumbini-lions-npl-vs-sudur-paschim-royals-npl-qualifier-1-nepal-premier-league-2026-27",
-          "source": "ESPN"
         }
       ]
     },
@@ -228,13 +211,13 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-17T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtT1rceH9xx40Y-cOymxjnw2lQZL6IA3_9t_Cuz-Pb6GF3-Kr1grZQd45-CnA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDgKRgmn3ZbMAbuF44V-KBfJpmsNzz85eg3I6Z2rCn655zyEc58B0JiNLmkNs",
       "category": "스포츠",
       "news": [
         {
-          "title": "이강인은 오른쪽 고정 전망… 카타르전 왼쪽은 ‘돌아온 돌격대장’ 정우영이 기회 얻을까?",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216906",
-          "source": "풋볼리스트"
+          "title": "정우영 2년 7개월 만에 복귀…카타르전 대거 로테이션 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1102804",
+          "source": "재경일보"
         },
         {
           "title": "‘엄지성 천금 결승골’...일본 꺾고 AG 축구 4연패",
@@ -270,6 +253,31 @@
           "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
           "url": "https://www.fnnews.com/news/202611171054413817",
           "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "헝거게임",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T15:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nwX7hRFTswijxTZlKjIJybJtK1C3wuXqFVPj-dBA505aT1mLGOqyar4-WxE",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
+          "url": "https://www.yna.co.kr/view/AKR20261114033700005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "연말 극장가 8천억원 블록버스터 전쟁",
+          "url": "https://www.mk.co.kr/news/culture/12211334",
+          "source": "매일경제"
+        },
+        {
+          "title": "‘헝거게임 50번째 추첨의 날’, 개봉 외화 예매율 1위…18일 출격",
+          "url": "https://www.sportsworldi.com/newsView/20261116519561",
+          "source": "스포츠월드"
         }
       ]
     }
