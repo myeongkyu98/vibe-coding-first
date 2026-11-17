@@ -1,271 +1,279 @@
 {
-  "updatedAt": "2026-11-17T20:47:37.403Z",
+  "updatedAt": "2026-11-17T21:47:58.060Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "경제",
       "count": 3
     },
     {
+      "category": "경제",
+      "count": 2
+    },
+    {
       "category": "정치·사회",
-      "count": 1
+      "count": 2
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "경찰",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-17T19:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBBv4cRZkIZCPlIIMhW07uCsc4wJ02XOu2cCnrW_0PT5Z2m6cU2uXpwKFjXqw",
-      "category": "정치·사회",
+      "keyword": "안세영",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T20:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyVPxNL3ebXHirxzKrM_xB3FAUx3kgVF_XwRn9sU5cjvrCb2svto-a_qj057I",
+      "category": "기타",
       "news": [
+        {
+          "title": "[뉴스9 강원 클로징]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713273",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "세계 최강 안세영의 미소",
+          "url": "https://www.yna.co.kr/view/PYH20261116156200013",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "뉴스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T20:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "◇내일의 경기(19일)",
+          "url": "https://www.yna.co.kr/view/AKR20261116168552007",
+          "source": "연합뉴스"
+        },
         {
           "title": "\"이렇게까지 한다고?\" 웃음보인 장관‥\"믿음 깨져\" 냉소 속출",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866389_37004.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "당정, '수능 AI 부정행위' 대책 협의회…입법 과제 등 논의",
-          "url": "https://www.yna.co.kr/view/AKR20261117175800001",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "문과 '士'자 직업이면 뭐하나…수험생 돌변에 '서늘한 경고'",
-          "url": "https://www.hankyung.com/article/2026111727641",
-          "source": "한국경제"
+          "title": "세무냥이 ‘AI 커닝’은 업무방해죄? 시험 부정 엄벌할 특별법 필요할까",
+          "url": "https://www.khan.co.kr/article/202611180600061",
+          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "데블스플랜3",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T16:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgQZ95w7ZmM-AsXHeHiNmlEcDURj0c07ZSVQhA14mpZUzrOtYB1NwFWebvXAg",
-      "category": "기타",
+      "keyword": "가상자산",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOf6-FgjxhoJ32sdysoZBpR4p8sMYNjFQUwlZ9MEUXOjJhnNLBa8U-zebgA18",
+      "category": "경제",
       "news": [
         {
-          "title": "[TF초점] '데블스 플랜3', 5회 만에 빠져든 두뇌 싸움…역시 근본 조합",
-          "url": "https://news.tf.co.kr/read/entertain/2389546.htm",
-          "source": "더팩트"
+          "title": "“디지털자산기본법 임박…가상자산·주식 형평과세 추진해야”",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01285766645647032",
+          "source": "마켓인"
         },
         {
-          "title": "????: 장동민이 누군데??ㅣ⚠️무단복제·재가공 엄금 #데블스플랜3 #장동민 #홍진호 #정현규",
-          "url": "https://korean-vibe.com/article/179586602921155",
-          "source": "K-VIBE"
+          "title": "코인 공제한도 확대 제동 걸리나",
+          "url": "https://biz.heraldcorp.com/article/10939888",
+          "source": "헤럴드경제"
         },
         {
-          "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
-          "url": "https://www.mk.co.kr/news/hot-issues/12210932",
-          "source": "매일경제"
+          "title": "시민사회 “임광현 대통령 비서, 가상자산 과세 입장 밝혀라”",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354871",
+          "source": "녹색경제신문"
         }
       ]
     },
     {
-      "keyword": "국제 통화 기금",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T19:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyCH12fkV0n2i0rOc0y8c1NFY9NovKK3wzNBx8NAyp0IAt1k1j4Rof5ivpB4",
+      "keyword": "수능 예비소집",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk4rV-63rq3On1C7zlB4sAp4mwzYaDWUycagnRu8YFIkGnWPin-TgrLQ2tuvA",
       "category": "기타",
       "news": [
         {
-          "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912",
+          "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450",
           "source": "대한민국 정책브리핑"
         },
         {
-          "title": "IMF, 올해 경제 성장률 3.9%로 상향…’통화 긴축’ 주문",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118044902M56",
-          "source": "연합뉴스TV"
+          "title": "[수능 D-1] 전자기기 미제출 땐 시험 무효…단추 달린 옷도 피해야",
+          "url": "https://stock.mk.co.kr/news/view/1201065",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "기자 질문 받는 코린 들레샤 단장",
-          "url": "https://www.newsis.com/view/NISI20261117_0021535578",
+          "title": "오늘은 새 문제보다 오답노트 집중…수험표 받으면 선택과목 확인",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.22012005404",
+          "source": "국제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T20:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8fO5XKi0e1Nxk8n0N73TL7qCcrIMT8Q_ZIqLqn2Gn9Lm_72LCk_xXUGqTTnA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'세계 랭킹 1위' 트로피에 입 맞추는 즈베레프",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261117_0002293855&pID=1&cID=&sID=1&type=photoMain&idx=7",
           "source": "뉴시스"
+        },
+        {
+          "title": "2027 호주오픈, 시너가 있고 없고의 차이",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19848",
+          "source": "테니스피플"
+        },
+        {
+          "title": "[박준용 인앤아웃] 당뇨병도 꺾지 못한 꿈... 즈베레프 마침내 세계 1위에 서다",
+          "url": "https://sports.khan.co.kr/article/202611101026003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "gta6",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T18:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBrf4yTGQirVtujHRSV9TYoVesz63WtyOh4TysPuYuMSUkiqOXmC_txqCuEm0",
-      "category": "기타",
+      "keyword": "wales vs portugal",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T20:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0YPk0SLq2XI5brL2ay_YO2jO9bW6cnsi4jTfojhRK3XQCvvalftG79ISETN0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Lucía Caminos is the first Latina ‘Grand Theft Auto’ lead – these video game characters paved the way",
-          "url": "https://theconversation.com/lucia-caminos-is-the-first-latina-grand-theft-auto-lead-these-video-game-characters-paved-the-way-290289",
-          "source": "The Conversation"
+          "title": "Bruno Fernandes and David Brooks score goals in Wales v Portugal",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmn80yjw6v2wo",
+          "source": "BBC"
         },
         {
-          "title": "GTA 6 is making history with its female lead, and women gamers are here for it",
-          "url": "https://tech.yahoo.com/gaming/article/gta-6-is-making-history-with-its-female-lead-and-women-gamers-are-here-for-it-173554427.html",
-          "source": "Yahoo Tech"
+          "title": "Bruno Fernandes stunner lights up Wales v Portugal amid fresh twist in Man Utd future",
+          "url": "https://football360.com.au/wales-vs-portugal-bruno-fernandes-goal-man-utd-transfer-news/",
+          "source": "football360.com.au"
         },
         {
-          "title": "GTA VI’s voice actor for Lucia was revealed by… The Game Awards.",
-          "url": "https://www.theverge.com/games/1035602/gta-vis-voice-actor-for-lucia-was-revealed-by-the-game-awards",
-          "source": "The Verge"
+          "title": "Wales vs Portugal LIVE! Nations League Group A4 match updates, score, line-ups and commentary",
+          "url": "https://www.skysports.com/football/live-blog/13613359/wales-vs-portugal-live-nations-league-group-a4-match-updates-score-line-ups-and-commentary",
+          "source": "Sky Sports"
         }
       ]
     },
     {
-      "keyword": "애플",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T17:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMBPQrQlIwtOdYf1FE7toxJlToVFMNdk8OxGmk2Nl6HKE2SvHhHeshK3fb1xU",
-      "category": "IT·과학",
+      "keyword": "김장",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T20:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNOsnwDbZF4EeElPVNCbQBzFNXIXgTXgmy4ElORgVHNj5RDu8DmI-riiFAzRg",
+      "category": "경제",
       "news": [
         {
-          "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
-          "url": "https://www.etnews.com/20261116000304",
-          "source": "전자신문"
-        },
-        {
-          "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
-          "url": "https://www.yna.co.kr/view/AKR20261117137300002",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087",
-          "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "데블스플랜",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T17:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIElDDZ6bX4cPO8RiVR8uBYwPXTf10jwHaLWw-9rFXWfdG5XkM9yc5Y_P-zwk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "정현규, 공황 증상으로 '데블스 플랜3' 하차 \"극복했다 생각\"",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525195",
-          "source": "iMBC 연예"
-        },
-        {
-          "title": "정현규, 비난 여론 딛고 '데블스플랜' 새 시즌 합류하더니 공황으로 중도 하차",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020407",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "데블스플랜 정현규 공황으로 하차, 괜찮을 줄 알았는데 아니었다…퇴소 후 공개한 현재 건강 상태와 마지막 고백",
-          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224481199187&redirect=Dlog",
-          "source": "Naver Blog"
-        }
-      ]
-    },
-    {
-      "keyword": "백신",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T19:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCqEiGSU61pSzOiY_Vg_UH3Rc40s9A7jisvJkP10zysnZZWw-6e36WMF2ki9Q",
-      "category": "기타",
-      "news": [
-        {
-          "title": "美, 26년 만에 '홍역 퇴치국' 지위 잃었다…\"백신 불신 탓\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04775686645646704",
-          "source": "마켓인"
-        },
-        {
-          "title": "美, 26년 만에 '홍역 퇴치국' 지위 상실…멕시코·볼리비아도",
-          "url": "https://www.news1.kr/world/usa-canada/6357363",
+          "title": "충북농협, 7400㎏ 김장 행사…취약계층·복지시설에 전달",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6356875",
           "source": "뉴스1"
         },
         {
-          "title": "'백신 회의론' 美, '홍역 없는 국가' 지위 박탈",
-          "url": "https://www.fnnews.com/news/202611180209295752",
-          "source": "파이낸셜뉴스"
+          "title": "충북농협, 김장김치 7.4t 나눔…충청대엔 1000원 점심 지원",
+          "url": "https://www.newspim.com/news/view/20261117000791",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "농협은행, 김장철 맞아 지역 어르신에 온정 나눔 실천",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=757530",
+          "source": "ER 이코노믹리뷰"
         }
       ]
     },
     {
-      "keyword": "엔비디아 실적",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T16:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOPKekkJkBV1pR1AkCl4Ikt3P6rLstjoKbEaACjGuLZn0QQzHTfYr6pjSutHo",
-      "category": "경제",
+      "keyword": "정웅인",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T20:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZqDOPejMgy1WP5SuSdtRrWfmoeysXodMunbCJRxCgr4M2z3MrVhVf2m44L4k",
+      "category": "연예",
       "news": [
         {
-          "title": "9개월 만에 5,000선 붕괴, 코스피에 무슨 일이?",
-          "url": "https://story.pay.naver.com/content/3985_3_C1",
-          "source": "네이버페이 머니스토리"
-        },
-        {
-          "title": "엔비디아가 누른 코스피, 실적이 만회할까 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/18/2026111719550672404",
+          "title": "정웅인, 전 매니저 사기 피해→소속사 대표 사망…\"또 위기\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111706401419953",
           "source": "머니투데이"
         },
         {
-          "title": "젠슨 황 후폭풍에 ‘5000P’ 무너져… 9개월새 최저",
-          "url": "https://www.donga.com/news/Economy/article/all/20261117/135043015/2",
-          "source": "동아일보"
+          "title": "정웅인, 세 딸 근황 공개…\"첫째는 배우 준비, 둘째는 예고 재학\"",
+          "url": "https://www.newsis.com/view/NISX20261116_0003870591",
+          "source": "뉴시스"
+        },
+        {
+          "title": "“어떻게 일 할지”…정웅인, 소속사 대표 사망 언급하며 눈물",
+          "url": "https://www.koreadaily.com/article/20261116095006328",
+          "source": "미주중앙일보"
         }
       ]
     },
     {
-      "keyword": "mbk파트너스",
+      "keyword": "노동자",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-17T15:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLvhMMLsa-FSQZY1VdtJcW5-HNJNAauS6AA5YLotcDuMjJf-th9CaLTKGzg",
-      "category": "경제",
+      "startedAt": "2026-11-17T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnezF5fcJKUXAL0Fwo67rjqbIdC9PodLL_wo43IoerjvjY_wrkHg1SP0RN3Cw",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704",
-          "source": "마켓인"
+          "title": "얼굴 파랗게 질려 숨진 27살…HD현대삼호 하청 ‘장례도 못 치른 보름’",
+          "url": "https://www.hani.co.kr/arti/area/honam/1287732.html",
+          "source": "한겨레"
         },
         {
-          "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
-          "url": "https://www.yna.co.kr/view/AKR20261117056600008",
+          "title": "'노동자 사망' 영암 조선소 협력사들 \"사고 책임 단정해선 안돼\"",
+          "url": "https://www.yna.co.kr/view/AKR20261117122100054",
           "source": "연합뉴스"
         },
         {
-          "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
-          "url": "https://www.fnnews.com/news/202611171054413817",
-          "source": "파이낸셜뉴스"
+          "title": "\"사람이 할 짓인가\"…20대 용접공 유족 사과 요구에 HD현대삼호 협력사들 '규탄 시위'",
+          "url": "https://www.pressian.com/pages/articles/2026111715145583237",
+          "source": "프레시안"
         }
       ]
     },
     {
-      "keyword": "정우영",
+      "keyword": "훈련",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-17T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDgKRgmn3ZbMAbuF44V-KBfJpmsNzz85eg3I6Z2rCn655zyEc58B0JiNLmkNs",
-      "category": "경제",
+      "startedAt": "2026-11-17T20:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_F2VnanG5owtb-LPiwYG7CWvVfP4vffJQmx9OIzSsQd7pqFqpQDMOby98MI",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "정우영 2년 7개월 만에 복귀…카타르전 대거 로테이션 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1102804",
-          "source": "재경일보"
-        },
-        {
-          "title": "모레노 감독이 원하는 높은 '에너지 레벨'에 딱! 분데스서도 '최상위급 고강도' 정우영, 측면 경쟁에 '새바람'",
-          "url": "https://www.chosun.com/sports/football/2026/11/13/MVSWIMRRHBSDAMBVGU4DSNBTMQ/",
+          "title": "러 \"한미 훈련 탓에 한반도 긴장 높아져\" \"푸틴, 李대통령 만날 것\"",
+          "url": "https://www.chosun.com/international/international_general/2026/11/18/D5RLZIK4LJB5HHCCTU5XU74VWY/",
           "source": "조선일보"
         },
         {
-          "title": "황희찬 입지는 어떻게 될까… 韓 대표팀 고민거리 ‘왼쪽 윙어’, 송민규·엄지성·정우영과 무한 경쟁?",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=313996",
-          "source": "베스트일레븐"
+          "title": "러 외무 \"한·미·일 군사훈련 목적은 북한 억제\"",
+          "url": "https://www.yna.co.kr/view/AKR20261117176600109",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "러 외무 \"대북 제재·한미일 핵 군사훈련이 한반도 긴장 고조 원인\"",
+          "url": "https://www.news1.kr/world/europe/6357283",
+          "source": "뉴스1"
         }
       ]
     }
