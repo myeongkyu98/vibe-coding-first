@@ -1,24 +1,20 @@
 {
-  "updatedAt": "2026-11-17T15:51:03.155Z",
+  "updatedAt": "2026-11-17T16:56:19.013Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 3
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "경제",
+      "count": 3
     },
     {
-      "category": "경제",
+      "category": "기타",
       "count": 2
     },
     {
       "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
       "count": 1
     },
     {
@@ -28,77 +24,52 @@
   ],
   "items": [
     {
-      "keyword": "지진",
+      "keyword": "상주 지진",
       "traffic": "20000+",
       "trafficValue": 20000,
       "startedAt": "2026-11-17T14:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD56Lv8ezMAE_zwuVH9pxLFY7HWLqSO9RXCL0QGmo28q-BFG-8TXctYki4IFo",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYN_5bLMuHkKw2p70XTrQLzo7SH965TGZYjuSdyL_JIos8HylLJMRq7h_uAc4",
       "category": "생활·날씨",
       "news": [
-        {
-          "title": "[속보] 기상청 \"경북 상주 북서쪽서 규모 3.7 지진 발생\"",
-          "url": "https://www.hankyung.com/article/2026111731047",
-          "source": "한국경제"
-        },
         {
           "title": "[속보] 경북 상주시 북서쪽 22km 지역서 규모 3.7 지진 발생",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755162",
           "source": "국제뉴스"
         },
         {
-          "title": "수능 연기 가능성 재부상... 수능 앞두고 규모 3.7 지진 발생",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193826",
-          "source": "금강일보"
-        }
-      ]
-    },
-    {
-      "keyword": "t1",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-17T13:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT41lE4khdFmaoGOJUtunphBzOON4DRkv4BvjoIOIP9QCTVym0ly4xYpx_QOsU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "TenZ returns: T1 bring the VALORANT legend back for 2027",
-          "url": "https://www.redbull.com/bg-bg/tenz-joins-t1-valorant-2027",
-          "source": "Red Bull"
+          "title": "원안위 \"상주 인근 규모 3.6 지진, 원자로 안전에 영향 없어\"",
+          "url": "https://www.yna.co.kr/view/AKR20261118002600017",
+          "source": "연합뉴스"
         },
         {
-          "title": "Sacy on joining T1: “I’m basically here because of my dad”",
-          "url": "https://pley.gg/valorant/sacy-on-joining-t1-im-basically-here-because-of-my-dad/",
-          "source": "Pley.gg"
-        },
-        {
-          "title": "T1 Signs TenZ Out of Retirement for VCT Pacific 2027",
-          "url": "https://rg.org/news/esports/t1-brings-tenz-out-of-retirement-vct-pacific-2027",
-          "source": "RG.org"
+          "title": "[속보] 기상청 “경북 상주 북서쪽서 규모 3.6 지진”",
+          "url": "https://www.kyeongin.com/article/1774969",
+          "source": "경인일보"
         }
       ]
     },
     {
       "keyword": "일본 파라과이",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-17T13:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR28ouTE_6f1zJovDyIlTGD5U2Y1jbUNEDOSX6SUf0tOXr_rUObKNvyYifVQBY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlOqQ83B3b7dJjrHExfA0sLaCCzpiwq70VFPXlMYYqc_D5rnPcjI5PtuJYKQc",
       "category": "스포츠",
       "news": [
+        {
+          "title": "'브라질 잡았다고 신났는데 파라과이에 무너졌다' 일본, FIFA 33위 상대 전반에만 2실점...올해 마지막 경기 1-2 패배 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/18/202611180005779880O",
+          "source": "머니투데이"
+        },
         {
           "title": "'브라질 잡았다고 신났는데 파라과이에 무너졌다' 일본, FIFA 33위 상대 전반에만 2실점...올해 마지막 경기 1-2 패배",
           "url": "https://biz.chosun.com/sports/baseball/2026/11/18/HBTGEMBVMQ2TSM3BGE3DKYZTMQ/",
           "source": "Chosunbiz"
         },
         {
-          "title": "'모리야스 고별전' 일본, 파라과이에 1-2 패배…5경기 무패 마감",
-          "url": "https://www.news1.kr/sports/soccer/6357342",
-          "source": "뉴스1"
-        },
-        {
-          "title": "브라질 격파하고 파라과이에는 쩔절...일본, 로테이션 속 파라과이에 전반에만 2실점",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698669",
-          "source": "인터풋볼"
+          "title": "'모리야스 고별전' 일본, 파라과이에 1-2 패배...5경기 연속 무패 마침표",
+          "url": "https://www.newspim.com/news/view/20261118000005",
+          "source": "뉴스핌"
         }
       ]
     },
@@ -107,23 +78,23 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-17T13:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQX7jNwDmDqRKNvkIRo108URNeu4lOysv4jQKHa77leCT-bj0cMT0zZIBkOKuY",
-      "category": "IT·과학",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIDZE-4ElxuTVlxmopqSssRWSKwlZWtJ8hPhkUyph6di6wlwfJHMHV6d0W38I",
+      "category": "기타",
       "news": [
         {
-          "title": "안경테서 불빛이 ‘번쩍’···LEET 시험장서 스마트안경 착용한 20대 입건",
-          "url": "https://www.khan.co.kr/article/202611171911001",
-          "source": "경향신문"
+          "title": "국힘, 대구 남구의회 의장·부의장 ‘탈당 권고’",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713243",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "AI 티 안 나야 팔리는데, 티 안 나서 문제… 스마트안경 ‘딜레마’",
-          "url": "https://www.donga.com/news/Economy/article/all/20261117/135041689/2",
-          "source": "동아일보"
+          "title": "김재겸 대구 남구의장 \"국힘 탈당권고 수용, 이의신청 안 해\"",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869570",
+          "source": "뉴시스"
         },
         {
-          "title": "[단독] 전수 검사도 통과한 스마트 안경‥적발되자 일반 안경으로 바꿔치기",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866382_37004.html",
-          "source": "MBC 뉴스"
+          "title": "대구 민주당 \"국힘 남구의회 의장단 선출 야합 주장 철회하라\"",
+          "url": "https://www.nocutnews.co.kr/news/6607591",
+          "source": "노컷뉴스"
         }
       ]
     },
@@ -182,14 +153,9 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-17T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlmHP-0VrA1Un0GC64pa5wsMhfk8vRK5uLoxhpvuXxweHVnQDCHUgO1pId4k8",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmMNjJu_TFY-H4qAKQaXMHcvdhRELS6gw44wcQznrRXyYEQS3lcTKKiRlsaBc",
       "category": "경제",
       "news": [
-        {
-          "title": "[한국의 CISO-권력지도] 포스코, '이사회 보고체계' 취약…포스코홀딩스 최하점",
-          "url": "https://v.daum.net/v/2rTUAMb0dG",
-          "source": "Daum"
-        },
         {
           "title": "포스코인터내셔널, 거대 분지에서 끌어올린 '천연가스 잭팟'…파이프라인서 2000억 쏟아졌다",
           "url": "https://www.hankyung.com/article/2026111710841",
@@ -199,6 +165,11 @@
           "title": "장인화 “기술력이 성과 원동력”…‘트리플코어’ 역량 강화 주문",
           "url": "https://www.newstomato.com/readnews.aspx?no=1320059",
           "source": "뉴스토마토"
+        },
+        {
+          "title": "[현장] 폐배터리에서 리튬·니켈 뽑아 양극재까지, '16년 담금질' 포스코그룹의 2차전지 소재 사업 본격 도약 채비",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451523",
+          "source": "비즈니스포스트"
         }
       ]
     },
@@ -232,48 +203,73 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-17T13:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaDO3o8t64mGxqQlc4J2fQQTVSm0O_liZy7yTDgP031eDY89neoVAAFv1KPbQ",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8eXbeaoHJgXPFHbluuwJN0otDhxDX1aAwJHMbsLqSBmCP-IE4vZGr96UAbbM",
+      "category": "스포츠",
       "news": [
+        {
+          "title": "Lumbini Lions vs Sudurpaschim Royals Preview & Prediction | 2026 Nepal Premier League | Qualifier 1",
+          "url": "https://www.thestatszone.com/lumbini-lions-vs-sudurpaschim-royals-preview-prediction-2026-nepal-premier-league-qualifier-1-239426",
+          "source": "The Stats Zone"
+        },
         {
           "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
           "url": "https://m.cricbuzz.com/player-match-performance/match/177813/player/12140/batting?inningsId=2",
           "source": "Cricbuzz"
         },
         {
-          "title": "Lumbini Lions Reach Final of Nepal Premier League",
-          "url": "https://english.ratopati.com/story/87032/lumbini-advances-to-finals-after-defeating-sudur",
-          "source": "Ratopati"
-        },
-        {
-          "title": "NPL Playoff equation: Lumbini to face Sudurpaschim in qualifier 1, Chitwan to take on Kathmandu in eliminator",
-          "url": "https://myrepublica.nagariknetwork.com/news/npl-playoff-equation-lumbini-to-face-sudurpaschim-in-qualifier-1-chitwan-to-61-57.html",
-          "source": "myRepublica"
+          "title": "Qualifier 1 (D/N), Nepal Premier League at Kirtipur, Nov 17 2026",
+          "url": "https://www.espn.com/cricket/series/23081/scorecard/1558610/lumbini-lions-npl-vs-sudur-paschim-royals-npl-qualifier-1-nepal-premier-league-2026-27",
+          "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "zimbabwe vs afghanistan",
+      "keyword": "정우영",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-17T13:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST7FFHNtBeIdCTEz1pkHQBngsCs8BuFr6Roe1WiO9KchW17-oxbhMU09zwnEI",
+      "startedAt": "2026-11-17T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtT1rceH9xx40Y-cOymxjnw2lQZL6IA3_9t_Cuz-Pb6GF3-Kr1grZQd45-CnA",
       "category": "스포츠",
       "news": [
         {
-          "title": "Bowlers eye more assistance from Sharjah pitch after runathon in first Test",
-          "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/match-preview",
-          "source": "Cricinfo"
+          "title": "이강인은 오른쪽 고정 전망… 카타르전 왼쪽은 ‘돌아온 돌격대장’ 정우영이 기회 얻을까?",
+          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216906",
+          "source": "풋볼리스트"
         },
         {
-          "title": "Afghanistan vs Zimbabwe 2nd Test Day 5 live streaming, scores and match updates",
-          "url": "https://www.cricketworld.com/afghanistan-vs-zimbabwe-2nd-test-day-5-live-streaming-scores-and-match-updates/114381.htm",
-          "source": "Cricket World"
+          "title": "‘엄지성 천금 결승골’...일본 꺾고 AG 축구 4연패",
+          "url": "https://www.newsyonhap.com/news/137332",
+          "source": "뉴스N연합"
         },
         {
-          "title": "Zimbabwe clinch thriller against Afghanistan to seal Test series",
-          "url": "https://www.icc-cricket.com/news/zimbabwe-clinch-thriller-against-afghanistan-to-seal-test-series",
-          "source": "ICC"
+          "title": "모레노 감독이 원하는 높은 '에너지 레벨'에 딱! 분데스서도 '최상위급 고강도' 정우영, 측면 경쟁에 '새바람'",
+          "url": "https://www.chosun.com/sports/football/2026/11/13/MVSWIMRRHBSDAMBVGU4DSNBTMQ/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "mbk파트너스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T15:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLvhMMLsa-FSQZY1VdtJcW5-HNJNAauS6AA5YLotcDuMjJf-th9CaLTKGzg",
+      "category": "경제",
+      "news": [
+        {
+          "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704",
+          "source": "마켓인"
+        },
+        {
+          "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261117056600008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
+          "url": "https://www.fnnews.com/news/202611171054413817",
+          "source": "파이낸셜뉴스"
         }
       ]
     }
