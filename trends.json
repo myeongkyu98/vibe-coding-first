@@ -1,184 +1,77 @@
 {
-  "updatedAt": "2026-11-16T23:38:02.897Z",
+  "updatedAt": "2026-11-17T00:53:56.116Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "생활·날씨",
-      "count": 2
-    },
-    {
       "category": "스포츠",
-      "count": 2
+      "count": 3
     },
     {
       "category": "경제",
+      "count": 3
+    },
+    {
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "날씨",
-      "traffic": "200000+",
-      "trafficValue": 200000,
-      "startedAt": "2026-11-16T21:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRreSifvLAI4itw-9ieEcxKyIfG_apc42Ju58pi5B8Sldr5hD0QKppUOtdPi0Y",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "“출근길 우산 챙기세요”····전국 대체로 흐리고 비",
-          "url": "https://www.khan.co.kr/article/202611170742001",
-          "source": "경향신문"
-        },
-        {
-          "title": "[날씨] 오후~밤사이 전국 비‥내일 오후부터 추워져",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866183_37012.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "강원, 대체로 흐리고 비…낮 최고 16도",
-          "url": "https://www.yna.co.kr/view/AKR20261117009000062",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "weather",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-16T21:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSg8eNzUWuc0tfhTUphEOcoEfIS6h1FHFLpD7iztnHnsdzeZXkMA30s-pMoAUg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Sunshine returns to Central New York, with a midweek warm-up ahead",
-          "url": "https://cnycentral.com/news/local/sunshine-returns-to-central-new-york-with-a-midweek-warm-up-ahead",
-          "source": "WSTM"
-        },
-        {
-          "title": "Weather Forecast: A quiet warmup takes hold through the week ahead",
-          "url": "https://www.fingerlakesdailynews.com/weather/2026-11-17-evening-a-quiet-warmup-takes-hold-through-the-week-ahead/",
-          "source": "Finger Lakes Daily News"
-        },
-        {
-          "title": "Turning warmer and drier",
-          "url": "https://www.wwnytv.com/2026/11/16/turning-warmer-drier/",
-          "source": "WWNY"
-        }
-      ]
-    },
-    {
-      "keyword": "thời tiết",
+      "keyword": "축구",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-16T21:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQryTie4aFXwnO0VJAGGWEtyidWazh22n8fdmAp2mWYwm0TrYu8Fy3hxf7eXJc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Không khí lạnh tràn về từ 18/11, miền Bắc rét sâu, Trung Bộ mưa rất to",
-          "url": "https://vietnamnet.vn/khong-khi-lanh-tran-ve-mien-bac-ret-sau-trung-bo-mua-lon-2572313.html",
-          "source": "Báo VietNamNet"
-        },
-        {
-          "title": "Thời tiết ngày 17/11: Nhiều nơi có nắng, miền Bắc chuẩn bị chuyển rét",
-          "url": "https://thuonghieucongluan.com.vn/thoi-tiet-ngay-17-11-nhieu-noi-co-nang-mien-bac-chuan-bi-chuyen-ret-a342165.html",
-          "source": "Thuonghieucongluan.com.vn"
-        },
-        {
-          "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
-          "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm",
-          "source": "thethaovanhoa.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "환승",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-16T22:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRidk45kye1ijjPUbrnZfYeQNUogy14ZXYmAiy_vEBU5u5VH_Ai9OnAknD1xqI",
+      "startedAt": "2026-11-16T23:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuYfSAXsKj0IjjPxS7y2mkz4k1qD5n2Sg7TmF55CAzYb3OtfhIDV9tKAofs_c",
       "category": "스포츠",
       "news": [
         {
-          "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "경기도, MBC 예산 보도 반박…조정 신청·고발 예고",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722180",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "[브리핑 하이라이트] 2027년 본예산안 편성 관련 기자회견",
-          "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611161748435016C071&s_code=daily",
-          "source": "경기도뉴스포털"
-        }
-      ]
-    },
-    {
-      "keyword": "nvda",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSawelyU0k-_NKLPhVH_23-zUFcHfsEWm3kRqnKRz4lq971VGTDsFd9IxbXWts",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Retail investors scoop up Nvidia shares, betting 427.1 billion won after Jensen Huang's exit",
-          "url": "https://www.mt.co.kr/en/stock/2026/11/16/2026111611365557170",
-          "source": "머니투데이"
-        },
-        {
-          "title": "As Nvidia's stock price fell to a new 52-week low due to the sudden resignation of Nvidia CEO Jensen..",
-          "url": "https://www.mk.co.kr/en/stock/12210183",
-          "source": "매일경제"
-        },
-        {
-          "title": "iM Securities sees limited Nvidia downside despite Cisco-like pattern; KOSPI lags Japan and Taiwan on foreign selling and strong won",
-          "url": "https://biz.chosun.com/en/en-finance/2026/11/16/TJHYKP4UTZGQBN7BWYFBWI67YE/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "황보라",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-16T21:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASXM5N9v9Sq5T5IOvhpKANLvC76eidZvi8Bqy_qdPij6m9_e2NNzaiPJAiMk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/",
+          "title": "모레노 감독 고별전? 카타르와 올해 마지막 A매치",
+          "url": "https://www.chosun.com/sports/football/2026/11/17/EMNOIJYBCZFXXKQM3SMGWIPUDA/",
           "source": "조선일보"
         },
         {
-          "title": "황보라, 2살 아들 롯데월드서 바지 훌렁…“이건 안 돼” 당황",
-          "url": "https://sports.donga.com/ent/article/all/20261117/135036009/1",
-          "source": "스포츠동아"
+          "title": "카타르전 앞둔 황인범 “올해 많은 일들…선수들이 해결해야 한다”",
+          "url": "https://www.hani.co.kr/arti/sports/soccer/1287652.html",
+          "source": "한겨레"
         },
         {
-          "title": "놀이공원서 바지 탈의..황보라, 子 돌발행동에 백기→내복 차림으로 활보",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100106410009835",
-          "source": "스포츠조선"
+          "title": "손흥민·이강인 반등 실패…’무색무취’ 모레노, 끝이 보인다",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116212054JzE",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "germany vs netherlands",
+      "keyword": "폭싹 속았수다",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-16T21:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+      "startedAt": "2026-11-16T23:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "germany national football team vs netherlands national football team standings",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T23:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCZ3XeHuVafXfu-fsB_rLCIlpyCta2V4qj-wg7h7BDSiSr_sCOypsyRdlxtK0",
       "category": "스포츠",
       "news": [
         {
-          "title": "Germany vs Netherlands: UEFA Nations League stats & head-to-head",
+          "title": "Klopp's Germany Routs Netherlands to Reach Nations League Quarterfinals",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008849001",
+          "source": "news.sbs.co.kr"
+        },
+        {
+          "title": "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League",
           "url": "https://www.bbc.com/sport/football/live/cmly7wxld228t",
           "source": "BBC"
         },
@@ -186,86 +79,181 @@
           "title": "Licensable picture: UEFA Nations League - Group A2 - Greece v Serbia",
           "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a2-greece-v-serbia/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkcxSEpNOFk",
           "source": "Reuters Connect"
-        },
-        {
-          "title": "Germany thrash Netherlands to book quarterfinal spot",
-          "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot",
-          "source": "Al Jazeera"
         }
       ]
     },
     {
-      "keyword": "mu",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-16T22:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7_PDdqWJ3ZTfy6ETbf6lueyuptwZTTR8o2zog9Dfc5LhIZyGKMvLkFgQqXhk",
-      "category": "기타",
+      "keyword": "어벤져스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-16T22:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAR_eDvC3pCEKwN8EUNx0HRjPIjc3LUVxEdrxakyvLsj4KYUNKg70S1cfVogU",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "Licensable video: Video illustrations - CoreWeave reports third-quarter 2026 results - 11/12/2026",
-          "url": "https://www.reutersconnect.com/item/video-illustrations-coreweave-reports-third-quarter-2026-results-11122026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XTlVSQ0JPSVZJTlZJREVPSUxMMjYxMTE1TlBTQ1g",
-          "source": "Reuters Connect"
+          "title": "'어벤져스: 둠스데이', 압도적인 스케일 기대…서로 다른 세계의 히어로들 총집결",
+          "url": "https://www.chosun.com/entertainments/movie/2026/11/16/G4ZDQNRSMQ3DGM3GGJTDQYTCMI/",
+          "source": "조선일보"
         },
         {
-          "title": "Down 62% From All-Time Highs, Here’s How to Play CRWV Stock as CoreWeave Smashes Q3 Estimates",
-          "url": "https://www.barchart.com/story/news/8854897/down-62-from-all-time-highs-heres-how-to-play-crwv-stock-as-coreweave-smashes-q3-estimates",
-          "source": "Barchart.com"
+          "title": "'토르' 헴스워스, 무서워서 못 와? 외국인 눈에 비친 '휴전' 한국 [영화있슈] - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/17/2026111614230524371",
+          "source": "머니투데이"
         },
         {
-          "title": "🚨 Trump open to Jensen Huang's return as Nvidia CEO, says tech boss has 'learned a big lesson' Donald Trump said he would welcome Jensen Huang's return as Nvidia CEO, claiming the former chief executive had “learned a big lesson”. His remarks came",
-          "url": "https://www.linkedin.com/posts/moneycontrol_trump-open-to-jensen-huangs-return-as-activity-7528121676035858432-KeeE",
-          "source": "LinkedIn"
+          "title": "마블과 크록스의 만남, '닥터 둠' 클래식 클로그 출시",
+          "url": "https://hypebeast.kr/2026/11/marvel-crocs-classic-clog-doctor-doom-212995-90h-official-look-release-info",
+          "source": "Hypebeast.KR"
         }
       ]
     },
     {
-      "keyword": "앤트로픽 상장일",
+      "keyword": "변동성",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-16T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvzRSk5G1spr_-Eh4z6-a9cQhprZZkItUFzuYVgsXkSyRQhe8RlNuR25M62s8",
+      "startedAt": "2026-11-16T23:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHZpah3ty11MhHeX-l-4SY9EWECVpE7ka8EvDHNDmKoCnYMH8vRSOk5vbBo7g",
       "category": "경제",
       "news": [
         {
-          "title": "121조 노리는 앤트로픽 IPO...중국·홍콩 기관투자자 청약 배제",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161600490528",
-          "source": "YTN 사이언스"
+          "title": "\"주식시장 변동성, 위기 아닌 기회… 역발상 투자로 손실 만회할 때\"",
+          "url": "https://www.chosun.com/economy/money/2026/11/17/KSINDNN225EURDSORYINN2AUWA/",
+          "source": "조선일보"
         },
         {
-          "title": "美 로펌 앤트로픽 지분 받아 ‘잭팟’… “돈 대신 주식 달라” 국내도 확산",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229146",
-          "source": "법률신문"
+          "title": "\"이런 폭락장 뒤엔 항상 반전 있었다\"…1년 뒤 웃을 종목은 [한경우의 케이스스터디]",
+          "url": "https://www.hankyung.com/article/2026111350516",
+          "source": "한국경제"
         },
         {
-          "title": "몸값 1.4조달러 노리는 앤스로픽…'클로드'로 얼마나 벌까",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645646704",
-          "source": "마켓인"
+          "title": "등락 반복하는 증시...대응 전략도 달라져야 할 때",
+          "url": "https://www.asiae.co.kr/article/2026111613172018519",
+          "source": "아시아경제"
         }
       ]
     },
     {
-      "keyword": "부산날씨",
+      "keyword": "수원 fc",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-16T21:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9Te-Z7-lYvXRO4X2dJz4coqkKjCdEL2MGCJARNCgIZByM0RMNL1A10XUzAE",
-      "category": "생활·날씨",
+      "startedAt": "2026-11-16T23:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv5UH6P4c6Evrf3ikotv9AEUmN1xnPw35h4QguZ12d79jC4Vsjj9Q_jQDsIL4",
+      "category": "스포츠",
       "news": [
         {
-          "title": "부산·울산·경남 흐리고 아침까지 비…밤부터 가끔 비",
-          "url": "https://www.yna.co.kr/view/AKR20261117008900052",
-          "source": "연합뉴스"
+          "title": "[단독]시민구단 아닌 ‘시장님 구단’… 치적 쌓으려 추경까지 받아 돈 댔다",
+          "url": "https://www.chosun.com/national/national_general/2026/11/17/UDECO7N2KVHUVADPGTSE6IMSHY/",
+          "source": "조선일보"
         },
         {
-          "title": "오늘의 날씨- 2026년 11월 17일",
-          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261117.22016004933",
-          "source": "국제신문"
+          "title": "축구단 주요 보직을 선거 전리품으로… 일부 지자체장, 측근들 꽂아넣어",
+          "url": "https://www.chosun.com/national/national_general/2026/11/17/UG6BLDLWSJCSNMMZPZQE7S6EUI/",
+          "source": "조선일보"
         },
         {
-          "title": "부산, 흐리고 가끔 비…예상강수량 5㎜ 안팎",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870644",
-          "source": "뉴시스"
+          "title": "리그 2위에도 홈관중 1,605명…수원FC, 시 지원금은 150억 원",
+          "url": "https://www.youthassembly.kr/news/1034885",
+          "source": "유스연합"
+        }
+      ]
+    },
+    {
+      "keyword": "쇼트트랙",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T22:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRz5EoXB5sIpeWpaRgGg380yphW3tHRfaCkihkw5d23dlBDvwoxEUwMWtbWKA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "‘국대 마지막 시즌’ 최민정, 세계 1위까지 16점…안방서 역전 노린다",
+          "url": "https://view.asiae.co.kr/article/2026110610515768268",
+          "source": "아시아경제"
+        },
+        {
+          "title": "대한빙상경기연맹, KB금융그룹과 함께 'KB금융-ISU 쇼트트랙 월드투어 서울 2026/27'개최",
+          "url": "http://www.eduyonhap.com/news/view.php?no=105458",
+          "source": "교육연합신문"
+        },
+        {
+          "title": "쇼트트랙 월드투어 2026/27: 서울 3차 대회 경기 일정 및 관전 포인트",
+          "url": "https://www.olympics.com/ko/news/team-korea-preview-schedule-isu-short-track-world-tour-seoul-2026",
+          "source": "Olympic Channel"
+        }
+      ]
+    },
+    {
+      "keyword": "수능일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-16T22:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRO6I1_ZpYsN_8QBqj4sFi6ctLqwsfZyMLmf-ZhobNj1ZykOAP8MGAQJOZPQ0o",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "수능 3일 앞으로...시험 문제지·답안지 이송 시작",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611160612338508_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "서울시, 수능일 지하철 27회 증편‥차량 614대 지원",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866000_36974.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "경기도내 지자체·경찰 수능 앞두고 종합대책 시동",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041132",
+          "source": "기호일보"
+        }
+      ]
+    },
+    {
+      "keyword": "한국투자증권",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T23:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-BX6fFqKTP7cYKQOscW_PuQDE1VzfcvvsA6TpNhfb0gB5FBJhIRbtbnWWde8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한국투자증권, 유튜브 '한국인의 연금' 통해 시황 라이브 진행",
+          "url": "https://www.etnews.com/20261117000054",
+          "source": "전자신문"
+        },
+        {
+          "title": "한투증권, 유튜브 '한국인의 연금'서 매주 화요일 시황 라이브",
+          "url": "https://core.asiae.co.kr/article/2026111709111366247",
+          "source": "아시아경제"
+        },
+        {
+          "title": "한국투자증권, 연금 운용에 시장 진단·리밸런싱 접목..매주 라이브 세미나",
+          "url": "https://kpenews.com/View.aspx?No=4315615",
+          "source": "한국정경신문"
+        }
+      ]
+    },
+    {
+      "keyword": "엘리베이터",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-16T22:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT23nWIfZhE6c6ZZy5UgzZQJr7Mr-dwcQSjoF21BRSMOghymu77cYmFuDrSt2A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "승강기 산업, '애프터마켓'으로 무게중심 이동…현대엘리베이터 마진 개선",
+          "url": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=11283",
+          "source": "리드경제"
+        },
+        {
+          "title": "도시화와 현대화가 이끄는 엘리베이터 및 부속품 시장 2035년 전망",
+          "url": "https://www.indexbox.io/ko/blog/elevators-and-accessories-market-forecast-to-2035-driven-by-urbanization-and-modernization/",
+          "source": "IndexBox"
+        },
+        {
+          "title": "엘리베이터에 사과·단호박·감 한가득…봉투까지 놓인 상자의 정체",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261116103504pyM",
+          "source": "연합뉴스TV"
         }
       ]
     }
