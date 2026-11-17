@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T09:56:16.922Z",
+  "updatedAt": "2026-11-17T10:56:21.642Z",
   "summary": [
     {
       "category": "스포츠",
@@ -10,7 +10,7 @@
       "count": 3
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 1
     },
     {
@@ -24,252 +24,220 @@
   ],
   "items": [
     {
-      "keyword": "005930",
+      "keyword": "싱가포르 대 브라질",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-17T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrea5ESZ2It9TKclKpW9zC5TzPekYQS1D6hWlIb-Tn2K_rfHgZk78xWiYOiU",
-      "category": "기타",
+      "startedAt": "2026-11-17T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9uhsY9EoVmOlcaqNNsMyal_os3NdRuZrFpwlJ-S4ZuBBEPZKGEnGi8RjrLFY",
+      "category": "스포츠",
       "news": [
         {
-          "title": "South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment",
-          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-samsung-chip-packaging-expansion-spur-30-billion-2026-11-12/",
-          "source": "Reuters"
+          "title": "싱가포르 대 브라질 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-singapore-vs-brazil-1801560.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "Samsung’s $34 Billion HBM Bet Raises Memory Glut Risks",
-          "url": "https://247wallst.com/investing/2026/11/14/samsungs-34-billion-hbm-bet-raises-memory-glut-risks/",
-          "source": "24/7 Wall St."
+          "title": "싱가포르는 브라질을 위기에 빠뜨릴 계획이다.",
+          "url": "https://www.vietnam.vn/ko/singapore-tinh-chuyen-dim-brazil-vao-khung-hoang",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Weekly Recap: Third-quarter earnings and accelerated Asan plant opening",
-          "url": "https://www.tradingview.com/news/tradingview:58535580ffe63:0-weekly-recap-third-quarter-earnings-and-accelerated-asan-plant-opening/",
-          "source": "TradingView"
+          "title": "싱가포르 대 브라질 경기 예측, 11월 17일 오후 5시: '거인들의 충돌'?",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-singapore-vs-brazil-17h00-ngay-17-11-trung-choi-da",
+          "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "오너",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-17T07:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHF_jjGkRQILHRoElgFZRnTiHagDGR0_Tunpatyx7KRNvHpKlo-fHpEHUFnZk",
+      "keyword": "박선주",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T08:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvUEF3WNo5FO9RffjKM23eNscWJhvzujO3V3AhqrqVN3u15MuqSsrWc_HQkQo",
+      "category": "연예",
+      "news": [
+        {
+          "title": "박선주, 강레오와 7년 별거...\"남친 생겼다\" 정체에 폭소 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111709154313897",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'결혼 16년 차' 박선주, 2년 된 남사친 고백…\"사춘기 딸 고민도 나눠\" (탐비)",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/16/G5SWMNZWGAZDINTFG4YDSZRUGQ/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "'강레오♥' 박선주 \"외로움 달래준 남사친 있다\" 고백",
+          "url": "https://www.newsis.com/view/NISX20261115_0003868341",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "singapore vs brazil",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T09:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQARHimYW9uCy63IDbrdez5CUs8b_ubr7UaZRfIJ5Cd8jYib0F9tdkjxm3Obo",
       "category": "스포츠",
       "news": [
         {
-          "title": "’페이커’의 T1, 월드 챔피언십 4강서 탈락…중국전 불패 신화 깨졌다",
-          "url": "https://www.yonhapnewstv.co.kr/news/akr20261109114147jar",
+          "title": "Preview: Singapore vs Brazil - prediction, team news, lineups",
+          "url": "https://www.sportsmole.co.uk/football/singapore/preview/singapore-vs-brazil-prediction-team-news-lineups_609180.html",
+          "source": "Sports Mole"
+        },
+        {
+          "title": "Lions’ man for big moments Shawal Anuar eyeing ‘dream come true’ run-out against Brazil",
+          "url": "https://www.straitstimes.com/sport/football/lions-man-for-big-moments-shawal-anuar-eyeing-dream-come-true-run-out-against-brazil",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "‘Let Them Play Without Responsibility’ --Vinicius Steps Up To Protect Endrick, Estevao",
+          "url": "https://www.completesports.com/let-them-play-without-responsibility-vinicius-steps-up-to-protect-endrick-estevao/",
+          "source": "Complete Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "원주 db 대 안양 정관장",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T09:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "심정지",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T09:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFlGQF2Z1LPJFmn73cTC0-W9dplsKd2qBvtHRiBxx66pT8sPIfB5xFSzUmeH4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "분유먹고 심정지 생후 6개월 아기…구급대 응급처치로 회복",
+          "url": "https://www.yna.co.kr/view/AKR20261117064500051",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "심정지 6개월 아기, 아빠 CPR·구급대 함께 살려",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117184037HWN",
           "source": "연합뉴스TV"
         },
         {
-          "title": "나이트 \"올해는 내가 이길 만큼 강하다\" vs 페이커 \"BLG에 질 수 없다\"",
-          "url": "https://www.etoday.co.kr/news/view/2645505",
-          "source": "이투데이"
-        },
-        {
-          "title": "[롤드컵] ‘화력’ 칼리스테 vs ‘안정감’ 페이즈…4강으로 가는 마지막 티켓, 색깔 다른 두 원딜의 승부",
-          "url": "https://sports.khan.co.kr/article/202611062125003",
-          "source": "스포츠경향"
+          "title": "분유 먹고 엎드린 아기, 입술 파랗게 변해…아빠 신속 대응이 살렸다",
+          "url": "https://www.donga.com/news/Society/article/all/20261117/135038102/2",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "김우석",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T07:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpmhwc1jPonA8xHlaOyxQndE1EEmpSjqHIrjEQxNBEtcevI62korhPb4x-EmM",
-      "category": "기타",
+      "keyword": "파운드리",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T09:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWo4vbjZxmNWUrC4efzPFAj0QMAZ3VhzXK35Xo0pe7lgvSq2uZPm_DXYJ5WtI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "김우석 \"'환자 바라기'…어떻게든 돕고 싶단 생각만 했죠\"",
-          "url": "https://www.yna.co.kr/view/AKR20261117096200005",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "\"야, 네가 김지원·손현주와 연기를 해?\"…김우석, 친형 멜로망스 김민석의 현실 반응 공개",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849744",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "[인터뷰] ‘닥터X’ 김우석 “‘거기 왜 껴있냐’ 반응도… 예쁨 많이 받아 자신감”",
-          "url": "https://sports.khan.co.kr/article/202611171619003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "최지훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T08:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyxqF310euqWYsy35pb7itn0W3DzAAMtfPdSoMTgzh6YRTZJFLO1eMn2I7AlQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“두산서 은퇴하고 싶었다” 39살 양의지, 2년 최대 55억 FA 계약",
-          "url": "https://www.hani.co.kr/arti/sports/baseball/1287664.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "이제는 대체불가, KIA 예비FA 뉴클로저 마음도 잡아야 한다...연봉 크게 올리고 다년계약 추진하나",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/17/GE2TQOBZGAYGCZRUMFRTSMBWGU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "‘미쳤다’ 구자욱 FA 200억 현실로? 영입 절실한 감독 등장! “모든 분들이 타선 보강 원해, 구단도 최선 다하겠다고…” [오!쎈 미야자키] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/17/202611170848774851O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "이재명 수능",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T08:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTs04uytQRhY6mQBsNUI3r3Hj3h1g3TSzQb0YrmV9tHo1kMT8JDaJcIQ2FjGnk",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "이 대통령 \"아세안+3 새로운 30년 미래에 마땅한 책임과 역할 다할 것\"",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975880",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "[속보] 이 대통령, 필리핀서 ‘수능 비상 점검회의’ 화상 주재",
-          "url": "https://news.jtbc.co.kr/article/NB12328510",
-          "source": "JTBC"
-        },
-        {
-          "title": "마닐라에서 다시 마주한 한일 정상 [현장 화보]",
-          "url": "https://www.khan.co.kr/article/202611171826001",
+          "title": "젠슨 황 스캔들 후폭풍···미, 중국의 AI 반도체 원격 이용까지 통제",
+          "url": "https://www.khan.co.kr/article/202611171149001",
           "source": "경향신문"
+        },
+        {
+          "title": "[중국증시-마감] 美 AI 반도체 규제 여파 속 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445206",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "Nvidia, 중국 기업에 절반 이상 임대하는 데이터센터에 칩 판매 중단",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2179025",
+          "source": "Investing.com 한국어"
         }
       ]
     },
     {
-      "keyword": "신영철",
+      "keyword": "농협은행",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T07:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJr9tF-ezSzU4jNeDnOZSA7Ko7qIXeY_f3x7zuExHlGjqAXXUSr5UPGhNYxL8",
+      "startedAt": "2026-11-17T09:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSb_ls-UX0IGsTtSeGjPJJ3nu23jjoA_0twpxzRPYHqmG1bzsPNyeecgt5Ck38",
+      "category": "경제",
+      "news": [
+        {
+          "title": "NH농협은행, 올원뱅크에 시니어 메뉴 '올원더풀' 오픈 - 머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/17/2026111708391285471",
+          "source": "머니투데이"
+        },
+        {
+          "title": "농협은행, 시니어 금융·생활 서비스 한곳에",
+          "url": "https://www.fnnews.com/news/202611170916139937",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "NH농협은행 시니어 특화 서비스 오픈…10월 'NH올원뱅크' 소비자 관심도 급등",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202611171734244997d0a8833aad_23",
+          "source": "빅데이터뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "축구 감독",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh8bpORJ3n-2vMDbRUknE5DjitR9pnoOdam3MY_Z7ZuVVl_J6pqWDFxLmoDxs",
       "category": "스포츠",
       "news": [
         {
-          "title": "프로배구 OK저축은행 신영철 감독, 건강 문제로 자진 사퇴",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6866271_36946.html",
+          "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "[공식 발표] OK저축은행 신영철 감독, 건강상의 이유로 사임…김재헌 수석코치가 감독대행 맡는다 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/17/202611171233770078O",
-          "source": "머니투데이"
+          "title": "“임시 사령탑 한계” 선수단도 불안한데… 축협, 모레노 ‘연장 딜레마’",
+          "url": "https://sports.khan.co.kr/article/202611171606003",
+          "source": "스포츠경향"
         },
         {
-          "title": "'감독 사퇴' 김재헌 OK저축은행 대행 \"선수들 뭉치는 게 우선\"",
-          "url": "https://www.yna.co.kr/view/AKR20261117162300007",
-          "source": "연합뉴스"
+          "title": "모레노 감독, 카타르전 마친 뒤 고향 스페인으로 귀국",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117153919gK3",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "보안뉴스",
+      "keyword": "พีท พีระ",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T07:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRp38ML7UudaZmBg-R2wYk4j_gHmNhHgD3j8N91WWVzO_ROALBdBONk_lejxtQ",
+      "startedAt": "2026-11-17T09:00:00.000Z",
+      "picture": "",
       "category": "기타",
-      "news": [
-        {
-          "title": "28개 대학 연쇄해킹 충격... 아르텍스 활용해 ‘rERP’ 집중 타격했다",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147326",
-          "source": "보안뉴스"
-        },
-        {
-          "title": "강원대 산학협력단 해킹에 개인정보 유출",
-          "url": "https://www.kwnews.co.kr/article/20261116500090",
-          "source": "강원일보"
-        },
-        {
-          "title": "대구한의대·경일대 뚫렸다…대구권 대학도 무차별 해킹",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261116024370947",
-          "source": "영남일보"
-        }
-      ]
+      "news": []
     },
     {
       "keyword": "bangladesh vs south africa",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-17T08:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-K7_hGUjFvjmWh8fStyMc5hEkCzSMPIExPOHedBmlnlEY_wY0NxQYzY0LxBU",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIL6yTVvTwK3SLLhCdTiF9R83pbdAn9P_AyPwPV631htVdnKig4gWOcQ2Is7I",
       "category": "스포츠",
       "news": [
         {
-          "title": "Ball by Ball Commentary & Live Score - SA vs BAN, 1st Test",
-          "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/ball-by-ball-commentary",
+          "title": "One for dad, one for daughter: Ackerman and Litton find ways to make their hundreds special",
+          "url": "https://www.cricinfo.com/story/sa-vs-ban-marques-ackerman-and-litton-das-find-ways-to-make-their-hundreds-special-1562884",
           "source": "Cricinfo"
         },
         {
-          "title": "A tale of two centuries, a near miss, and two dads",
-          "url": "https://www.cricbuzz.com/cricket-news/140932/a-tale-of-two-centuries-a-near-miss-and-two-dads-cricbuzzcom",
-          "source": "Cricbuzz"
+          "title": "Proteas stumble on their way to Bangladesh’s 400",
+          "url": "https://www.sacricketmag.com/proteas-stumble-on-their-way-to-bangladeshs-400/",
+          "source": "SA Cricket Mag"
         },
         {
-          "title": "Brilliant Ackerman: ‘can do better’",
-          "url": "https://mannersoncricket.substack.com/p/brilliant-ackerman-can-do-better",
-          "source": "Manners-on-Cricket"
-        }
-      ]
-    },
-    {
-      "keyword": "경제성장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T08:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyCH12fkV0n2i0rOc0y8c1NFY9NovKK3wzNBx8NAyp0IAt1k1j4Rof5ivpB4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912&pWise=sub&pWiseSub=C1",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "기자 질문 받는 코린 들레샤 단장",
-          "url": "https://www.newsis.com/view/NISI20261117_0021535578",
-          "source": "뉴시스"
-        },
-        {
-          "title": "3분기 반도체 호황에 IMF도 놀랐다···한국 성장률 3.9%, 한달 만에 또 0.6%P 상향",
-          "url": "https://www.khan.co.kr/article/202611171400001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "관세",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T07:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuGOFL0byQ04tZf8LrfK0G3L092gA5bZRtX3pDKQwlKzCBhhw7Ef6M4TJjgms",
-      "category": "경제",
-      "news": [
-        {
-          "title": "시진핑, 캐나다·베트남 정상과 연쇄 회담…경협·다자주의 강조",
-          "url": "https://www.yna.co.kr/view/AKR20261117147800083",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "시진핑·카니 회담… 中, 캐나다산 돼지고기·수산물 관세 인하",
-          "url": "https://biz.chosun.com/international/international_general/2026/11/17/GH6QU7PV2BGNRIFVQFVZF6YX44/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "‘APEC 맞이’ 시진핑, 캐나다 총리 만나 “다자무역체제 수호”",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04473926645646704",
-          "source": "마켓인"
+          "title": "Bangladesh wins toss and opts to bat against South Africa in first test",
+          "url": "https://abcnews.com/Sports/wireStory/bangladesh-wins-toss-opts-bat-south-africa-test-138154907",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ]
     }
