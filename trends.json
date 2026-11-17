@@ -1,8 +1,12 @@
 {
-  "updatedAt": "2026-11-17T04:53:02.143Z",
+  "updatedAt": "2026-11-17T05:54:38.939Z",
   "summary": [
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
+      "count": 3
+    },
+    {
+      "category": "기타",
       "count": 3
     },
     {
@@ -11,65 +15,61 @@
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 1
     },
     {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김선태",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-17T02:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG3Z_N_oofOz-XzOY-z5rmMoY0RobPwfznJnMWj7MaajnuUCEmvjCMcwy7QZc",
-      "category": "IT·과학",
+      "keyword": "실종자",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSErTmfuZNAMvAbEKYROZhIwx6_eEKPm8C8YMfwg2GoFuuCTD-50gcJS3EM4u4",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
-          "url": "https://www.hankyung.com/article/2026111708667",
-          "source": "한국경제"
+          "title": "부안 갯벌서 남성 시신 발견…실종자와 신원 대조",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712895",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "김선태, 이번엔 ‘충주냥이’…“공무원 국어 시험 라이브로 풀겠다”",
-          "url": "https://www.koreadaily.com/article/20261116060854028",
-          "source": "미주중앙일보"
+          "title": "갯벌서 발견된 남성 변사체…해경 수사 중",
+          "url": "https://www.nocutnews.co.kr/news/6606902",
+          "source": "노컷뉴스"
         },
         {
-          "title": "D-3 수능 '비상'‥교사 82% \"식별 어렵다\"",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865865_37012.html",
-          "source": "MBC 뉴스"
+          "title": "부안 갯벌서 남성 시신 발견…전날 실종된 60대 추정",
+          "url": "https://www.theonetv.kr/news/articleView.html?idxno=255198",
+          "source": "OBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "장동혁",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T02:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapMksdZ6EDGbNism3evziFtzC14mEAHFUlneRwmiJ_ZDz3rpPaSnf2wGL9G4",
+      "keyword": "조작기소 특검법",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T04:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdtNQqkzX1-vClXM3hP5ADv85-_Iqi8lvUSd7E0Auf_bADTNn5uLOkRZmwKQ",
       "category": "정치·사회",
       "news": [
         {
-          "title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
-          "url": "https://www.khan.co.kr/article/202611171042001",
-          "source": "경향신문"
-        },
-        {
-          "title": "한동훈 의원 빙부상 빈소 향하는 노경필",
-          "url": "https://www.news1.kr/photos/8217284",
-          "source": "뉴스1"
-        },
-        {
-          "title": "국힘 '투톱' 장동혁·정점식, 한동훈 장인상 조문",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866218_36911.html",
+          "title": "[속보] 정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866240_36911.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "與, 조작기소 특검법 공포에 \"수사권 남용 진실 밝히는 출발점 돼야\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/17/2026111713424689563",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[속보] 조작기소특검법 공포안, 이 대통령 순방 중 한성숙 총리 주재 국무회의서 의결",
+          "url": "https://www.khan.co.kr/article/202611171134001",
+          "source": "경향신문"
         }
       ]
     },
@@ -99,27 +99,52 @@
       ]
     },
     {
-      "keyword": "장민기",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T02:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeV0ME6bigz1qZ9GjX82E0O6dIudDp1jWsfLQlLXLTNxDpWK013uHo7Rdc1rw",
-      "category": "스포츠",
+      "keyword": "잠실 래미안 아이파크",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T04:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXaJoLioHbUePKnljyx2ACCTkjoFuWQ9MXgE36KfHKjUNpglmZOE2tJOQovIk",
+      "category": "기타",
       "news": [
         {
-          "title": "'9위 추락' KIA 마운드의 희망이었는데…방출 칼바람에 야구공 놓는다 \"인생에서 가장 빛나는 추억\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019982",
-          "source": "SPOTV NEWS"
+          "title": "잠실서 '20억 로또' 나온다…'잠실래미안아이파크' 3가구 줍줍",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/17/2026111700960.html",
+          "source": "땅집고"
         },
         {
-          "title": "[오피셜] \"타이거즈라는 멋진 팀에서 야구를 할 수 있어 언제나 행복했습니다\" 국대 마무리 조병현보다 먼저 뽑혔던 2001년생 좌완 유망주 장민기, 은퇴 선언",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553702539",
-          "source": "스포탈코리아"
+          "title": "잠실 래미안아이파크 3가구 재공급…시세 차익 최대 24억",
+          "url": "https://www.news1.kr/realestate/general/6356521",
+          "source": "뉴스1"
         },
         {
-          "title": "KIA 투수 장민기 타이거즈 선수여서 행복…평생 잊지 않겠다",
-          "url": "https://www.ajunews.com/view/20261116062601922",
-          "source": "아주경제"
+          "title": "잠실 래미안아이파크 불법행위재공급 줍줍 (’26. 11/23~24)",
+          "url": "https://homedubu.com/12996/",
+          "source": "홈두부"
+        }
+      ]
+    },
+    {
+      "keyword": "삼양식품",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T04:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjWtHrlcjBmMATVWf_pSIu5gNpMXgvWoEQ53VVHSLHHj-lFeCGWo5R0eUPO00",
+      "category": "기타",
+      "news": [
+        {
+          "title": "급락장에도 홀로 불기둥…'통 큰 베팅'에 증권가도 주목",
+          "url": "https://www.hankyung.com/article/202611169651i",
+          "source": "한국경제"
+        },
+        {
+          "title": "\"이빨이 아파\" 불닭 미국·유럽 확장…삼양식품 장 초반 5% 강세[핫종목]",
+          "url": "https://www.news1.kr/finance/market-exr/6354875",
+          "source": "뉴스1"
+        },
+        {
+          "title": "[특징주]삼양식품, 외국인 순매수에 6.20% 상승마감…중국 신공장 성장 기대",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=929378",
+          "source": "남도일보"
         }
       ]
     },
@@ -149,127 +174,102 @@
       ]
     },
     {
-      "keyword": "면세점",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T03:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9imXoPc6syN1uMEIOCZFKzoXxeRIIVYc7HquhcNeFsQ085sSyt39x5cXetE",
+      "keyword": "파업",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKBFnRTelA1yQXWLUpNcrnbcugpDJT3PNcbO1wZXYVleVBVcwDNLAy3SBZ6jU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'25일 서울 지하철 총파업' 예고한 노조 \"인력감축 철회·임금 인상\"",
+          "url": "https://www.yna.co.kr/view/AKR20261117078100004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "SR 노조도 “교섭 결렬 땐 파업”…통합 서두른 고속철도 ‘비상’",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006161",
+          "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "메디게이트뉴스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T04:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj96exEBgkPhCAPVwuL02CRO77arXM0W2wIgQu4228lv-30i6h1j9woAyV8D0",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "무면허 음주운전으로 면허 잃은 의사, 1심 패소…법원, 위헌 제청 신청도 기각",
+          "url": "https://www.medigatenews.com/news/1491780453",
+          "source": "MEDI:GATE NEWS"
+        },
+        {
+          "title": "[판결] 법원, “음주·무면허운전으로 징역 확정 의사 면허취소는 정당”",
+          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229520",
+          "source": "법률신문"
+        },
+        {
+          "title": "음주운전 의사 면허 취소에 법원 “정당”…개정 의료법 첫 판단",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713822",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "농구",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T04:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQZMG1_Nc_eFSxetFNmFkt7uYiM7BS1ILSh_WENr7eaWacPXf90liZmxMltWA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“승부보다 뜨거운 농구 열정”…김포 농구 동호인 900여 명 한자리에",
+          "url": "http://www.joongboo.com/news/articleView.html?idxno=363742724",
+          "source": "중부일보"
+        },
+        {
+          "title": "김포시,제21회 김포시장기 금쌀사랑 종별 생활체육 농구대회 성황리 개최",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804146",
+          "source": "일간투데이"
+        },
+        {
+          "title": "김포시, 생활체육관서 탁구대회 개최…450여 명 동호인 참가",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747222",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "롤 도벽",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT1ZUPpYIosm0zrDkgddB7f2Rqz8Mra67KtWF-dGJaxb4F80is1lX5Y1ga3Fs",
       "category": "IT·과학",
       "news": [
         {
-          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
-          "url": "https://www.etnews.com/20261117000220",
+          "title": "요약 문서: 2027 시즌 1 개발 업데이트",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/dev/tldw-season-1-2027-dev-update---lol-website-article-lollol27-s1225r001/",
+          "source": "League of Legends"
+        },
+        {
+          "title": "라이엇게임즈, LoL 출시 후 최대 규모 '차세대 업데이트'…2027년 도입 목표",
+          "url": "https://www.etnews.com/20261116000256",
           "source": "전자신문"
         },
         {
-          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 면세점 최초 출시",
-          "url": "https://stock.mk.co.kr/news/view/1200339",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "신라면세점, 버번 위스키 ‘블랑톤’ 단독 출시…주류 상품 강화",
-          "url": "https://www.viva100.com/article/20261117500121",
+          "title": "[게임업계 소식] 라이엇 게임즈, LoL 2027년 첫 콘텐츠 공개 外",
+          "url": "https://www.viva100.com/article/20261117500407",
           "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "embassy",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T02:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG1mwBXXYDUjHjNNF6OYEv0m8MZUHS5tCOSc7yexWezsgvSFGvvX41-iMsXrc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "(LEAD) S. Korea seeks to reconstruct aging embassy in U.S. amid uncertainty over funding",
-          "url": "https://en.yna.co.kr/view/AEN20261116007951315",
-          "source": "Yonhap News Agency"
-        },
-        {
-          "title": "South Korea to rebuild Washington embassy for first time in 70 years at estimated cost of W300b",
-          "url": "https://mbiz.heraldcorp.com/article/10938808",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "Korea Moves to Rebuild 72-Year-Old Embassy in Washington",
-          "url": "https://en.sedaily.com/politics/2026/11/16/korea-moves-to-rebuild-72-year-old-embassy-in-washington",
-          "source": "Seoul Economic Daily"
-        }
-      ]
-    },
-    {
-      "keyword": "마이클 버리",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T03:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD1Q2mK58TMg_vxsEEt-gB9xxbLrpGAfoHpxaTsJCVmQ1Vj1CBmucu8lLrRRA",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "'빅쇼트' 버리 \"나스닥 약세 베팅 확대…내년 반도체주 하락 전망\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444844",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "‘빅 쇼트’ 버리 “엔비디아 '숏 베팅' 확대…젠슨 황 퇴임 승자는 AMD·브로드컴”",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611151346317386e250e8e188_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "'빅쇼트' 버리 \"엔비디아, 당분간 어떤 가격에도 안사…여전히 잘못돼\"",
-          "url": "https://kbthink.com/news-list/view.html?newsId=20261117074444916",
-          "source": "KB Think"
-        }
-      ]
-    },
-    {
-      "keyword": "자오창펑",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5RDHYQ7xdvfigvodvhx1vVdeIjyxJmDJF0oxYQJkeR2Dr4mKQDK6TjnjiPQ4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "자오창펑 바이낸스 CEO \"우린 비트코인 안 팔았다\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03581766645646376",
-          "source": "마켓인"
-        },
-        {
-          "title": "비트코인 추가 폭락 가능성? 지금 시장에서 벌어지는 수상한 움직임",
-          "url": "https://contents.premium.naver.com/net/go/contents/261116154239161xy",
-          "source": "네이버 프리미엄콘텐츠"
-        },
-        {
-          "title": "비트코인 6만 2,000달러 폭락, 바이낸스가 팔았나? CZ 직접 입 열었다",
-          "url": "https://www.coinreaders.com/270458",
-          "source": "코인리더스"
-        }
-      ]
-    },
-    {
-      "keyword": "김준호",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T02:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF-5X5OOKy3POFacXJLpBZED2qljfgBjj-hh1FY20IJ3_Pp1Hsi0JlIDOl5us",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'만삭' 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
-          "url": "https://www.newsis.com/view/NISX20261116_0003868998",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'만삭' 김지민이 운전하고 김준호는 조수석에 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111607243073022",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘임신’ 김지민, 해외 촬영 다녀온 ♥김준호 위해 거한 한식 상차림 “귀한 자연산 송이도”",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/MZRDOYLEMFQTEMTBMVTDQYRVGM/",
-          "source": "Chosunbiz"
         }
       ]
     }
