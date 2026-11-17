@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T03:48:44.048Z",
+  "updatedAt": "2026-11-17T04:53:02.143Z",
   "summary": [
     {
       "category": "IT·과학",
@@ -10,7 +10,7 @@
       "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 2
     },
     {
@@ -18,15 +18,15 @@
       "count": 2
     },
     {
-      "category": "경제",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "김선태",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-17T02:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG3Z_N_oofOz-XzOY-z5rmMoY0RobPwfznJnMWj7MaajnuUCEmvjCMcwy7QZc",
       "category": "IT·과학",
@@ -42,34 +42,9 @@
           "source": "미주중앙일보"
         },
         {
-          "title": "’수학 7등급’인데 AI 안경 썼더니…결과 충격적",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261115231402nwH",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "미스터트롯4",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T01:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR70LX1vyO5zY7-bWQayXa40SsdqWBWA5jy6Pr7Z31t3BELQaZf0m8ONEb1Zug",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘미스터트롯4′ 12월 17일 첫 방송...김중연, 양지원, 박지후, 남궁진 등 티저로 베일 벗어",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "‘미스터트롯4’, 현역 vs 비현역 제대로 붙는다…12월 17일 첫 방송",
-          "url": "https://sports.donga.com/ent/article/all/20261117/135036727/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "TV CHOSUN [미스터트롯4] 진성X김용임X박선주X이소나, 첫 녹화부터 감탄 폭발! “이 정도까지 잘한다고?”",
-          "url": "https://www.ggpyeonghwa.com/628474",
-          "source": "경기평화신문"
+          "title": "D-3 수능 '비상'‥교사 82% \"식별 어렵다\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865865_37012.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
@@ -78,73 +53,48 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-17T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScI0o5tOOogjd-lEP70j1zIEPBN2vWrz0JkYJ7ODMvGxt5hxxfob-Y1a0Y_H8",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRapMksdZ6EDGbNism3evziFtzC14mEAHFUlneRwmiJ_ZDz3rpPaSnf2wGL9G4",
       "category": "정치·사회",
       "news": [
         {
-          "title": "장동혁, 한동훈 장인상 조문… 7분간 머물러",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/17/FKM4AA2WCFCCFPYATWVGRER5PI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[여적] ‘최초 특검’ 피의자의 별세",
-          "url": "https://www.khan.co.kr/article/202611161903011",
+          "title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
+          "url": "https://www.khan.co.kr/article/202611171042001",
           "source": "경향신문"
         },
         {
-          "title": "장동혁, 한동훈 빙부상 조문…7분여 머물러",
-          "url": "https://www.donga.com/news/Politics/article/all/20261117/135036688/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "피의자",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T01:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-MKDDdw6urDvbNwKc7JwD1JdceWZyp0IqfJ0I-NcSHk-kSpZ_VK4tdreXTI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "제 발 저려 시작된 추격전...6명 다치고 실탄까지 쏴",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611170224472820_005.html",
-          "source": "YTN"
+          "title": "한동훈 의원 빙부상 빈소 향하는 노경필",
+          "url": "https://www.news1.kr/photos/8217284",
+          "source": "뉴스1"
         },
         {
-          "title": "성범죄자 질주극에 실탄 발사‥경찰관 6명 부상",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6866254_36967.html",
+          "title": "국힘 '투톱' 장동혁·정점식, 한동훈 장인상 조문",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866218_36911.html",
           "source": "MBC 뉴스"
-        },
-        {
-          "title": "성범죄 피의자 7km 추격 끝에 실탄까지…경찰 6명 부상",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714481",
-          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "너구리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T01:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYGI0ueX2RLHUb8L9g6HL7VXuEt07bT6B8Lru223IIAHzrsN8W6S0wELMB_Eo",
-      "category": "IT·과학",
+      "keyword": "김기인",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-17T03:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn2VG5jRXWmsGMSUXAjRMeLSXYJ61689vk4IzZU1w8I-vuzI3B7LWGMurUs38",
+      "category": "스포츠",
       "news": [
         {
-          "title": "농심, '볶음너구리' 정식 판매 전환…신제품 '매콤마요'도 출시",
-          "url": "https://www.yna.co.kr/view/AKR20261117045300030",
-          "source": "연합뉴스"
+          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
+          "url": "https://www.etoday.co.kr/news/view/2649030",
+          "source": "이투데이"
         },
         {
-          "title": "너구리 변신 계속된다…농심, '매콤마요 볶음너구리' 등 라인업 확대",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870880",
-          "source": "뉴시스"
+          "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
+          "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
+          "source": "https://www.standingout.kr/"
         },
         {
-          "title": "농심, '볶음너구리' 다시 정식 판매…매콤마요 신제품도 출시",
-          "url": "https://www.etnews.com/20261117000166",
-          "source": "전자신문"
+          "title": "'기인' 김기인, 젠지 떠나 FA 시장으로",
+          "url": "https://www.dailyesports.com/view.php?ud=20261117095801736374bcc1e038_27",
+          "source": "데일리e스포츠"
         }
       ]
     },
@@ -174,59 +124,59 @@
       ]
     },
     {
-      "keyword": "상장",
+      "keyword": "담보 대출",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T01:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5NvLfFLfNfoBJD3XvGTuyn9OerBVrHyQi1Ygxr_GOA0Yp4DF2Z8BRLb0Gj0",
+      "startedAt": "2026-11-17T03:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvcnJswrVoTsTeBw9zEN_tbvSyLdh_JZijdh5flRB_TYx-A2-D9TulBPzI-9k",
       "category": "경제",
       "news": [
         {
-          "title": "\"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+]",
-          "url": "https://www.hankyung.com/article/2026111695036",
-          "source": "한국경제"
+          "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
+          "url": "https://www.khan.co.kr/article/202611161646001",
+          "source": "경향신문"
         },
         {
-          "title": "AI칩 투자 줄이고 앤스로픽에 50억달러 청약…거스너 “젠슨 황 복귀 서두르지 말라”",
-          "url": "https://www.mk.co.kr/news/it/12210622",
-          "source": "매일경제"
+          "title": "코픽스마저 또 올랐다…짙어지는 ‘고금리의 그늘’",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03276726645646376",
+          "source": "마켓인"
         },
         {
-          "title": "증시 덮친 ‘앤트로픽 수급 공포’···삼전닉스 2차 매물폭탄 쏟아지나",
-          "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425062",
-          "source": "시사저널e"
+          "title": "\"변동금리 더 싸다더니\"…시장금리 내릴 때 또 오른 변동형 주담대 - 머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/16/2026111616275049949",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "2027",
+      "keyword": "면세점",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T01:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfv_7jcJnn96KeZDE98fRXxesPMDprncLz4l2V41oGte5DJzoBDWA81FDt3y0",
-      "category": "기타",
+      "startedAt": "2026-11-17T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9imXoPc6syN1uMEIOCZFKzoXxeRIIVYc7HquhcNeFsQ085sSyt39x5cXetE",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-          "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
-          "source": "The New York Times"
+          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
+          "url": "https://www.etnews.com/20261117000220",
+          "source": "전자신문"
         },
         {
-          "title": "Women lead Grammy nominations as Noah Kahan gets snubbed",
-          "url": "https://www.washingtonpost.com/entertainment/music/2026/11/16/young-women-lead-grammy-nominations-noah-kahan-snubbed/",
-          "source": "The Washington Post"
+          "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 면세점 최초 출시",
+          "url": "https://stock.mk.co.kr/news/view/1200339",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "WA folk-rock hero gets 4 nominations for 2027 Grammy Awards",
-          "url": "https://www.seattletimes.com/entertainment/music/2027-grammys-brandi-carlile-foo-fighters-among-nominees-with-wa-ties/",
-          "source": "The Seattle Times"
+          "title": "신라면세점, 버번 위스키 ‘블랑톤’ 단독 출시…주류 상품 강화",
+          "url": "https://www.viva100.com/article/20261117500121",
+          "source": "브릿지경제"
         }
       ]
     },
     {
       "keyword": "embassy",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-17T02:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG1mwBXXYDUjHjNNF6OYEv0m8MZUHS5tCOSc7yexWezsgvSFGvvX41-iMsXrc",
       "category": "기타",
@@ -249,27 +199,77 @@
       ]
     },
     {
-      "keyword": "예비소집일",
+      "keyword": "마이클 버리",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-17T02:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk4rV-63rq3On1C7zlB4sAp4mwzYaDWUycagnRu8YFIkGnWPin-TgrLQ2tuvA",
+      "startedAt": "2026-11-17T03:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD1Q2mK58TMg_vxsEEt-gB9xxbLrpGAfoHpxaTsJCVmQ1Vj1CBmucu8lLrRRA",
       "category": "IT·과학",
       "news": [
         {
-          "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450",
-          "source": "대한민국 정책브리핑"
+          "title": "'빅쇼트' 버리 \"나스닥 약세 베팅 확대…내년 반도체주 하락 전망\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444844",
+          "source": "연합인포맥스"
         },
         {
-          "title": "[지지대] 흔들리지 말고 당당하게",
-          "url": "https://www.kyeonggi.com/article/20261116580050",
-          "source": "경기일보"
+          "title": "‘빅 쇼트’ 버리 “엔비디아 '숏 베팅' 확대…젠슨 황 퇴임 승자는 AMD·브로드컴”",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/202611151346317386e250e8e188_1",
+          "source": "글로벌이코노믹"
         },
         {
-          "title": "N수생 최대·AI 안경까지···‘현행 마지막 시험’ 올 수능 변수는?",
-          "url": "https://www.khan.co.kr/article/202611151412011",
-          "source": "경향신문"
+          "title": "'빅쇼트' 버리 \"엔비디아, 당분간 어떤 가격에도 안사…여전히 잘못돼\"",
+          "url": "https://kbthink.com/news-list/view.html?newsId=20261117074444916",
+          "source": "KB Think"
+        }
+      ]
+    },
+    {
+      "keyword": "자오창펑",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T02:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5RDHYQ7xdvfigvodvhx1vVdeIjyxJmDJF0oxYQJkeR2Dr4mKQDK6TjnjiPQ4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "자오창펑 바이낸스 CEO \"우린 비트코인 안 팔았다\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03581766645646376",
+          "source": "마켓인"
+        },
+        {
+          "title": "비트코인 추가 폭락 가능성? 지금 시장에서 벌어지는 수상한 움직임",
+          "url": "https://contents.premium.naver.com/net/go/contents/261116154239161xy",
+          "source": "네이버 프리미엄콘텐츠"
+        },
+        {
+          "title": "비트코인 6만 2,000달러 폭락, 바이낸스가 팔았나? CZ 직접 입 열었다",
+          "url": "https://www.coinreaders.com/270458",
+          "source": "코인리더스"
+        }
+      ]
+    },
+    {
+      "keyword": "김준호",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T02:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF-5X5OOKy3POFacXJLpBZED2qljfgBjj-hh1FY20IJ3_Pp1Hsi0JlIDOl5us",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'만삭' 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
+          "url": "https://www.newsis.com/view/NISX20261116_0003868998",
+          "source": "뉴시스"
+        },
+        {
+          "title": "'만삭' 김지민이 운전하고 김준호는 조수석에 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111607243073022",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘임신’ 김지민, 해외 촬영 다녀온 ♥김준호 위해 거한 한식 상차림 “귀한 자연산 송이도”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/MZRDOYLEMFQTEMTBMVTDQYRVGM/",
+          "source": "Chosunbiz"
         }
       ]
     }
