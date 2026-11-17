@@ -1,16 +1,12 @@
 {
-  "updatedAt": "2026-11-17T12:55:51.582Z",
+  "updatedAt": "2026-11-17T14:12:36.372Z",
   "summary": [
     {
-      "category": "연예",
-      "count": 2
-    },
-    {
       "category": "정치·사회",
-      "count": 2
+      "count": 3
     },
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 2
     },
     {
@@ -18,7 +14,11 @@
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "기타",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
@@ -28,119 +28,19 @@
   ],
   "items": [
     {
-      "keyword": "최희",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-17T10:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ46jlUcPzuJcYWII-p1TVX-1DCgoWy2lDS2TPt6Lnybq55_6wLH3VnXu6FMzM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "“아이들 두고 어떻게 떠나나”…최희 장기기증 결심, 무슨 일?",
-          "url": "https://www.mk.co.kr/news/culture/12211368",
-          "source": "매일경제"
-        },
-        {
-          "title": "‘사업가♥’ 최희, 사후 장기기증 서약했다..“슬프고 무섭지만 용기내”",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MM4GINJRHAYDQYJXMQ3TGOBQGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "“장기기증 희망자 등록했다” 1남 1녀 둔 방송인, 갑작스레 SNS에 남긴 말",
-          "url": "https://www.wikitree.co.kr/articles/1175379",
-          "source": "위키트리"
-        }
-      ]
-    },
-    {
-      "keyword": "로베르트 모레노",
+      "keyword": "t1",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-17T10:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrIKC1GGM8OOrrnw4Mxxn_UBScYf2eNAQTKBw9vU_HNgnKuh8KLuMYYXKwRsk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "모레노 감독, 카타르전 끝으로 스페인행…한국 대표팀 복귀 불투명",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04660886645646704&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "올해 마지막 A매치…\"오늘 밤, 반등의 시작점\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850431",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "눈물 글썽이던 韓 중원의 핵심 황인범, 또 한번 '작심 발언'…\"임시 감독 체제, 대표팀에 긍정적이지 않다\"",
-          "url": "https://www.chosun.com/sports/football/2026/11/17/G5QTGOJXGYYTKNZVMNQTQNTGHA/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "박정훈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T10:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuBp0HCJtqTNZt7TuiTOatP1_ZraWTKGyYtZT41QFc32V8CJDhKkPosA5GXts",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘박정훈 처벌받게 하려고 위증 혐의’ 해병대 김화동 대령 무죄···법원 “허위진술 아냐”",
-          "url": "https://www.khan.co.kr/article/202611171703011",
-          "source": "경향신문"
-        },
-        {
-          "title": "'채 상병 수사외압 모해위증' 김화동 대령 1심 선고공판 출석",
-          "url": "https://www.newsis.com/view/NISI20261117_0021535460",
-          "source": "뉴시스"
-        },
-        {
-          "title": "‘채해병 사건 위증 혐의’ 김화동 대령, 1심서 무죄",
-          "url": "https://www.seoul.co.kr/news/society/law/2026/11/17/20261117500238",
-          "source": "서울신문"
-        }
-      ]
-    },
-    {
-      "keyword": "심우정",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T10:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWEjmt1k_hdFgHCiNl7ozzNCVJcPhwCBszl8yFoscaWG2LxoOFF3C9tdtQ55c",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "노만석 \"尹 구속 취소, 법원 결정에 불만 있어도 석방하자는 게 검찰 다수 의견\"",
-          "url": "https://www.chosun.com/national/court_law/2026/11/17/GXOJ6QZHIZELZACVJNNH3NKK7Q/",
-          "source": "조선일보"
-        },
-        {
-          "title": "노만석 “윤석열 구속취소 즉시 항고 포기, 심우정이 최종 결정”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715122",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "공소장 보완에만 석 달 쓴 종합특검…내란 재판 ‘가시밭길’",
-          "url": "https://www.khan.co.kr/article/202611162101025",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "권순우",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T10:10:00.000Z",
+      "startedAt": "2026-11-17T13:00:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "미스터트롯3",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T10:00:00.000Z",
+      "keyword": "미스터트롯",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T11:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7De8upScZ93-HlihdC6XwZUuzVnO0eECAbpUcXil8j8wIhoapWl9HPucEiGk",
       "category": "연예",
       "news": [
@@ -158,6 +58,131 @@
           "title": "‘미스터트롯3’ TOP7, 서울 공연 성료",
           "url": "https://www.bntnews.co.kr/article/view/bnt202611170023",
           "source": "BNT뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "미사일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T13:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwNlsUvTkbqNrxLHDIEd85yQskCQbFXWIl0vqUcLVhklcmy8DjyROdUHD7d9I",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
+          "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289",
+          "source": "서울Pn"
+        },
+        {
+          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "배정혜",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T12:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfdg9-S_xc8VIj-ZDfEuDck8a3fsLoHTsy_1OG_bJMVC6zYwkmutH3A-v_DKk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "원로 무용가 배정혜 리틀엔젤스예술단 명예예술감독 별세",
+          "url": "https://www.donga.com/news/People/article/all/20261117/135040268/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "“나는 지금도 무대 막이 열릴 때 죽을 것처럼 떨려요” ‘한국 창작춤의 선구자’ 배정혜 무용가 별세",
+          "url": "https://www.segye.com/newsView/20261117509155",
+          "source": "세계일보"
+        },
+        {
+          "title": "'한국 창작춤 선구자' 원로 안무가 배정혜, 향년 82세로 별세(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261117065951005",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "가덕도신공항",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T12:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQe25wjoh1DNmz0G_GcxAAZP0NpCUCApHyueubXA90sj_1TUnOtS1GBAgTNbQ",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "국힘 부산시당, 내일 가덕도신공항 공사비 현실화 간담회",
+          "url": "https://www.yna.co.kr/view/AKR20261116121000051",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299",
+          "source": "국제신문"
+        },
+        {
+          "title": "“공사비 증액 없인 적기개항 위태”… 국민의힘 부산시당, 정부에 ‘확약’ 압박",
+          "url": "https://sports.donga.com/region/article/all/20261116/135032409/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "최저임금",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T12:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYkvxALN-3e56HgVaG7Sx2N69xKxRJHzKuXXf3pagNRMGnlCf_Hr7k6_n32Kk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "간호조무사 임금 \"수가 체계와 연동해야\"",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200078",
+          "source": "의협신문"
+        },
+        {
+          "title": "간무협, 국회 입법박람회서 정책 부스 운영",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044369",
+          "source": "청년의사"
+        },
+        {
+          "title": "대한간호조무사협회, “벼랑 끝 간호조무사 처우, 이대로 괜찮은가”… 11월17일 국회 토론회",
+          "url": "https://www.kmpnews.co.kr/news/articleView.html?idxno=74237",
+          "source": "한국의약통신"
+        }
+      ]
+    },
+    {
+      "keyword": "디지털 자산",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T12:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2Lz-ZtQxIpZKXbvpIbsM-l0dbM2BdUEbAnD5702w9spWlH90LjkGNgl5OBM4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "빗썸 매출 99.99%가 수수료 수입…두나무와 격차 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261117085400002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "두나무, 3분기 영업손실 35억원⋯코인거래 위축에 적자 전환",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611161655198Qh",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "기약없는 디지털자산법에… 국내 톱2 거래소, 거래절벽 신음",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001202",
+          "source": "IT조선"
         }
       ]
     },
@@ -187,13 +212,29 @@
       ]
     },
     {
-      "keyword": "엔비디아 우회 수출 의혹 및 젠슨 황 복귀 논의에 대한 최신 뉴스 알려줘",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T11:00:00.000Z",
-      "picture": "",
-      "category": "경제",
-      "news": []
+      "keyword": "비니시우스 주니오르",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T12:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt-UAv37Q9cZT17HzjEzBvOv4_gxwjb9q64kM0fYaVy6XTeqz5CPRNoqrT7qQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'레알서 12경기 1골 극도의 부진' 비니시우스 또 핑계 댄다 \"아스날 이적설 때문에 부담감 컸다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/17/202611171835775620O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "브라질 비니시우스가 밝힌 부진 이유…\"월드컵 탈락 충격\"",
+          "url": "https://www.newsis.com/view/NISX20261117_0003872197",
+          "source": "뉴시스"
+        },
+        {
+          "title": "너무 못해서 ‘외계인 납치설’까지 나온 비니시우스, 드디어 입 열었다…“월드컵 탈락+이적설 때문에”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698583",
+          "source": "인터풋볼"
+        }
+      ]
     },
     {
       "keyword": "mbk 파트너스",
@@ -217,31 +258,6 @@
           "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
           "url": "https://www.fnnews.com/news/202611171054413817",
           "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "singapore đấu với brasil",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-17T10:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCtctZR8XCddYwn3KFMepfpoZ57c9rohk1Y0Bs5br400m5PHiS8dOsJ1tWsEo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Video bóng đá Singapore - Brazil: Màn \"hủy diệt\" nhanh gọn",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-singapore-brazil-man-huy-diet-nhanh-gon-c48a1811874.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Vinicius lập hat-trick trong 12 phút",
-          "url": "https://znews.vn/vinicius-lap-hat-trick-trong-12-phut-post1697159.html",
-          "source": "Znews"
-        },
-        {
-          "title": "Trực tiếp bóng đá Singapore - Brazil: Vũ công samba phô diễn sức mạnh",
-          "url": "https://tin.skydoor.net/news/the-thao-truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-8438021",
-          "source": "tin.skydoor.net"
         }
       ]
     }
