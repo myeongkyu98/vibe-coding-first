@@ -1,28 +1,107 @@
 {
-  "updatedAt": "2026-11-17T11:45:18.478Z",
+  "updatedAt": "2026-11-17T12:55:51.582Z",
   "summary": [
     {
-      "category": "정치·사회",
-      "count": 3
-    },
-    {
-      "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "스포츠",
+      "category": "연예",
       "count": 2
     },
     {
-      "category": "연예",
-      "count": 1
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 2
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "최희",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-17T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ46jlUcPzuJcYWII-p1TVX-1DCgoWy2lDS2TPt6Lnybq55_6wLH3VnXu6FMzM",
+      "category": "연예",
+      "news": [
+        {
+          "title": "“아이들 두고 어떻게 떠나나”…최희 장기기증 결심, 무슨 일?",
+          "url": "https://www.mk.co.kr/news/culture/12211368",
+          "source": "매일경제"
+        },
+        {
+          "title": "‘사업가♥’ 최희, 사후 장기기증 서약했다..“슬프고 무섭지만 용기내”",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MM4GINJRHAYDQYJXMQ3TGOBQGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "“장기기증 희망자 등록했다” 1남 1녀 둔 방송인, 갑작스레 SNS에 남긴 말",
+          "url": "https://www.wikitree.co.kr/articles/1175379",
+          "source": "위키트리"
+        }
+      ]
+    },
+    {
+      "keyword": "로베르트 모레노",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-17T10:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrIKC1GGM8OOrrnw4Mxxn_UBScYf2eNAQTKBw9vU_HNgnKuh8KLuMYYXKwRsk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "모레노 감독, 카타르전 끝으로 스페인행…한국 대표팀 복귀 불투명",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04660886645646704&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "올해 마지막 A매치…\"오늘 밤, 반등의 시작점\"",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850431",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "눈물 글썽이던 韓 중원의 핵심 황인범, 또 한번 '작심 발언'…\"임시 감독 체제, 대표팀에 긍정적이지 않다\"",
+          "url": "https://www.chosun.com/sports/football/2026/11/17/G5QTGOJXGYYTKNZVMNQTQNTGHA/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "박정훈",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-17T10:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuBp0HCJtqTNZt7TuiTOatP1_ZraWTKGyYtZT41QFc32V8CJDhKkPosA5GXts",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘박정훈 처벌받게 하려고 위증 혐의’ 해병대 김화동 대령 무죄···법원 “허위진술 아냐”",
+          "url": "https://www.khan.co.kr/article/202611171703011",
+          "source": "경향신문"
+        },
+        {
+          "title": "'채 상병 수사외압 모해위증' 김화동 대령 1심 선고공판 출석",
+          "url": "https://www.newsis.com/view/NISI20261117_0021535460",
+          "source": "뉴시스"
+        },
+        {
+          "title": "‘채해병 사건 위증 혐의’ 김화동 대령, 1심서 무죄",
+          "url": "https://www.seoul.co.kr/news/society/law/2026/11/17/20261117500238",
+          "source": "서울신문"
+        }
+      ]
+    },
     {
       "keyword": "심우정",
       "traffic": "1000+",
@@ -49,29 +128,13 @@
       ]
     },
     {
-      "keyword": "로베르트 모레노",
+      "keyword": "권순우",
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-17T10:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh8bpORJ3n-2vMDbRUknE5DjitR9pnoOdam3MY_Z7ZuVVl_J6pqWDFxLmoDxs",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "모레노 감독, 카타르전 마친 뒤 고향 스페인으로 귀국",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117153919gK3",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "한국만 이강인 딜레마? 카타르도 아피프 활용법에 고심",
-          "url": "https://sports.khan.co.kr/article/202611161619003",
-          "source": "스포츠경향"
-        }
-      ]
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "미스터트롯3",
@@ -99,136 +162,61 @@
       ]
     },
     {
-      "keyword": "권순우",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNv54lx85RhD6CR2RIK05EVWcJMMiCStQudjuSo_JkjRxAeJX60d3ndmO5kY",
-      "category": "기타",
+      "keyword": "gta6 출시일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T11:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1Dj0mL54VVcdeK2CCw-KwpRG5zz6Yl5Y0pCjJroXMDF6BL-zbIsRiF-M5G3g",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "8년 전처럼…정현, 데이비스컵 파이널8에서도 ‘신데렐라의 기적’ 도전",
-          "url": "https://www.donga.com/news/Sports/article/all/20261117/135039042/1",
-          "source": "동아일보"
+          "title": "출시 이틀 앞둔 ‘GTA6’, 사전예약 1500만장 육박…매출 2조원 달해",
+          "url": "https://biz.chosun.com/it-science/ict/2026/11/17/Y2MS2PYBSVAT7KRSMUY6X7BCSI/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "조코비치 꺾었던 정현, 태극마크 달고 또 이변 꿈꾼다... \"팬들이 기억하는 모습 다시\" [데이비스컵 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/17/2026111716075189369",
-          "source": "머니투데이"
+          "title": "“이게 게임이라고?”…실사 같은 'GTA 6' 영상",
+          "url": "https://www.etnews.com/20261113000179",
+          "source": "전자신문"
         },
         {
-          "title": "세계 8강 첫 역사 쓴 남자 테니스 “달려든다는 마음으로 붙겠다” 4강 도전장···코볼리·무세티 앞세운 최강팀 ...",
-          "url": "https://sports.khan.co.kr/article/202611171610003",
-          "source": "스포츠경향"
+          "title": "싱가포르 기차역에 걸린 미국 게임사 락스타 게임즈 광고판",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755071",
+          "source": "국제뉴스"
         }
       ]
     },
     {
-      "keyword": "원주 db 대 안양 정관장",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T09:50:00.000Z",
+      "keyword": "엔비디아 우회 수출 의혹 및 젠슨 황 복귀 논의에 대한 최신 뉴스 알려줘",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-17T11:00:00.000Z",
       "picture": "",
-      "category": "기타",
+      "category": "경제",
       "news": []
     },
     {
-      "keyword": "심정지",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T09:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnq-Z3kUFe9IRzNft1rLFaZPOTflJfVgO_fhMN-i0pN_Q-dKr2eeIlxK5P_v0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "심정지 6개월 아기, 아빠 심폐소생술과 구급대가 함께 살렸다",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611171130221P4",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "분유먹고 심정지 생후 6개월 아기…구급대 응급처치로 회복",
-          "url": "https://www.yna.co.kr/view/AKR20261117064500051",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "분유 먹고 엎드린 아기, 입술 파랗게 변해…아빠 신속 대응이 살렸다",
-          "url": "https://www.donga.com/news/Society/article/all/20261117/135038102/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "이재명",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-17T09:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9TfmL2rzxwcAOZBklZRFPM2Vs14LnFZULSZ9Exvl_sMIPxto2zGoTpCQHh4Q",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "이 대통령, 필리핀 현지에서 '수능시험 비상 점검 회의' 주재",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866357_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "이 대통령 \"아세안+3 새로운 30년 미래에 마땅한 책임과 역할 다할 것\"",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975880",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "마닐라에서 다시 마주한 한일 정상 [현장 화보]",
-          "url": "https://www.khan.co.kr/article/202611171826001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "박정훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T10:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuBp0HCJtqTNZt7TuiTOatP1_ZraWTKGyYtZT41QFc32V8CJDhKkPosA5GXts",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘박정훈 처벌받게 하려고 위증 혐의’ 해병대 김화동 대령 무죄···법원 “허위진술 아냐”",
-          "url": "https://www.khan.co.kr/article/202611171703011",
-          "source": "경향신문"
-        },
-        {
-          "title": "'채 해병 수사 외압 관여' 김화동 대령 1심 무죄…\"허위진술 아니다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/17/2026111714034019151",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'채 상병 수사외압 모해위증' 김화동 대령 1심 선고공판 출석",
-          "url": "https://www.newsis.com/view/NISI20261117_0021535460",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "농협은행",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSb_ls-UX0IGsTtSeGjPJJ3nu23jjoA_0twpxzRPYHqmG1bzsPNyeecgt5Ck38",
+      "keyword": "mbk 파트너스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-17T11:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLvhMMLsa-FSQZY1VdtJcW5-HNJNAauS6AA5YLotcDuMjJf-th9CaLTKGzg",
       "category": "경제",
       "news": [
         {
-          "title": "NH농협은행, 올원뱅크에 시니어 메뉴 '올원더풀' 오픈 - 머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/17/2026111708391285471",
-          "source": "머니투데이"
+          "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704",
+          "source": "마켓인"
         },
         {
-          "title": "농협은행, 시니어 금융·생활 서비스 한곳에",
-          "url": "https://www.fnnews.com/news/202611170916139937",
+          "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
+          "url": "https://www.yna.co.kr/view/AKR20261117056600008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "한국 노인 2050년 39.7%...MBK \"고령화사회 필요섹터에 투자하겠다\"",
+          "url": "https://www.fnnews.com/news/202611171054413817",
           "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "NH농협은행 시니어 특화 서비스 오픈…10월 'NH올원뱅크' 소비자 관심도 급등",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=202611171734244997d0a8833aad_23",
-          "source": "빅데이터뉴스"
         }
       ]
     },
@@ -237,23 +225,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-17T10:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeZEyc1PI0Sho_MxsqSXPZT5k2STeiL8z3O-sLMYImTz11UxalMb7iSRm3liE",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCtctZR8XCddYwn3KFMepfpoZ57c9rohk1Y0Bs5br400m5PHiS8dOsJ1tWsEo",
+      "category": "기타",
       "news": [
         {
-          "title": "Trực tiếp bóng đá Singapore - Brazil: Endrick - Vinicius - Estevao xuất phát",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-suc-manh-c48a1811740.html",
+          "title": "Video bóng đá Singapore - Brazil: Màn \"hủy diệt\" nhanh gọn",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-singapore-brazil-man-huy-diet-nhanh-gon-c48a1811874.html",
           "source": "Tin tức 24h"
         },
         {
-          "title": "Nhận định bóng đá Singapore vs Brazil, 17h00 ngày 17/11: Bẻ nanh sư tử",
-          "url": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-singapore-vs-brazil-17h00-ngay-17-11-be-nanh-su-tu--5290612611.html",
-          "source": "Tạp chí Bóng đá"
+          "title": "Vinicius lập hat-trick trong 12 phút",
+          "url": "https://znews.vn/vinicius-lap-hat-trick-trong-12-phut-post1697159.html",
+          "source": "Znews"
         },
         {
-          "title": "Trực tiếp Singapore vs Brazil: Brazil nới rộng cách biệt 0-4",
-          "url": "https://baonghean.vn/truc-tiep-singapore-vs-brazil-brazil-noi-rong-cach-biet-0-4-10356002.html",
-          "source": "Báo Nghệ An"
+          "title": "Trực tiếp bóng đá Singapore - Brazil: Vũ công samba phô diễn sức mạnh",
+          "url": "https://tin.skydoor.net/news/the-thao-truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-8438021",
+          "source": "tin.skydoor.net"
         }
       ]
     }
