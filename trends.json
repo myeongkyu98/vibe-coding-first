@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:54:25.211Z",
+  "updatedAt": "2026-11-18T16:57:59.759Z",
   "summary": [
     {
       "category": "기타",
@@ -10,11 +10,11 @@
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "경제",
       "count": 1
     },
     {
@@ -28,23 +28,23 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-11-18T14:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP3otWVbV1r58W1cHXd0j1u6NHNem0B8qldqiT6kBNxKmqoJfnZJ-QnxMb724",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVLS1cUXnevN_GAy3zqy9hzSzyE99qpi-LtYhfH2wcWkQjez4Dt6CzHt2kqMY",
       "category": "IT·과학",
       "news": [
-        {
-          "title": "[단독] \"계산기 안에 키보드\" \"쿠팡·알리서 구매\" 세무사 수석 어떻게 뚫었나",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866705_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "고3 딸 둔 박명수 “추접스러운 인간들”…수능 앞두고 AI 부정행위에 일침",
-          "url": "https://www.donga.com/news/Culture/article/all/20261118/135051043/1",
-          "source": "동아일보"
-        },
         {
           "title": "이 대통령 \"수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단\"",
           "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975944",
           "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "[신문은 선생님] [뉴스 속의 한국사] 콧속에 사서삼경 숨기고 대나무 관으로 답안 전달했대요",
+          "url": "https://www.chosun.com/national/nie/2026/11/19/O55IUGDKKVAZPFZMBAET2SKNE4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[단독] \"계산기 안에 키보드\" \"쿠팡·알리서 구매\" 세무사 수석 어떻게 뚫었나",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866705_37004.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
@@ -62,9 +62,9 @@
           "source": "한국경제"
         },
         {
-          "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032",
-          "source": "마켓인"
+          "title": "佛 대선 1·2위 후보 \"정년 60세로 낮출 것\"… 마크롱 연금 개혁에 반기",
+          "url": "https://www.chosun.com/international/international_general/2026/11/19/CP4WA5FVJBGB5MSHW57VAVTM3E/",
+          "source": "조선일보"
         },
         {
           "title": "프랑스 극우 르펜도 극좌 멜랑숑도 \"은퇴 60세로 낮추겠다\"",
@@ -99,56 +99,6 @@
       ]
     },
     {
-      "keyword": "kamil mishara",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-18T12:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJsjqu_cT22BXqjWyn6QP2PrxvwXU8wjUYxoFFl1m21jWTNJ_JaPhqCgQSDdw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Kamil Mishra Prioritizes Team Victory Over Personal Records",
-          "url": "https://english.ratopati.com/story/87194/it-doesnt-really-matter-who-the-opponent-is-in-the-qualifiers-kamil-mishra",
-          "source": "Ratopati"
-        },
-        {
-          "title": "Chitwan Rhinos and Kathmandu Gurkhas to Compete in NPL Eliminator",
-          "url": "https://english.ratopati.com/story/87126/chitwan-and-kathmandu-in-the-eliminator-today-why-is-the-npl-pitch-slow-video",
-          "source": "Ratopati"
-        },
-        {
-          "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
-          "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl",
-          "source": "Ratopati"
-        }
-      ]
-    },
-    {
-      "keyword": "교통 사고",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-18T12:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmrfNquh42_Qu9h3drGonUIiJ2i0zcHhytqpy_un_oSCP8FqLKuI2dHXFceSc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "김포 선진버스, ‘교통사고 50% 줄이기’ 과제 조기 달성",
-          "url": "https://www.newswire.co.kr/newsRead.php?no=1047435",
-          "source": "뉴스와이어"
-        },
-        {
-          "title": "선진버스, 교통사고 감축 목표 조기 달성…안전관리 강화",
-          "url": "https://www.cvinfo.com/news/articleView.html?idxno=32047",
-          "source": "상용차매거진"
-        },
-        {
-          "title": "인천 미추홀구에서 SUV 차량 중앙선 침범해 승용차와 충돌‥3명 부상",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866631_36918.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "김명민",
       "traffic": "500+",
       "trafficValue": 500,
@@ -170,6 +120,31 @@
           "title": "김명민, '불멸의 이순신'으로 대상 수상 비하인드 \"퍼머를 심하게 하고 갔다\"('유퀴즈')",
           "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MJTGGOBQGVSGCOLDGMZTSZRTMY/",
           "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "신세계",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T14:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAC90nekSCaGtaAqLCDNr0fnRG6jVqHfADUWVQT3-cFP0lljlt_VDBHV3K7hY",
+      "category": "경제",
+      "news": [
+        {
+          "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
+          "url": "https://www.newspim.com/news/view/20261111000117",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "'적자 꼬리표' 떼어낼까…롯데·신세계, 편의점·이커머스 실적 개선 '주목'",
+          "url": "https://news.tf.co.kr/read/economy/2389287.htm",
+          "source": "더팩트"
         }
       ]
     },
@@ -212,18 +187,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-18T12:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6-CPAdLQmDdoMgskieqUQx0zoHrnRu8Uk9gLcDvnA_yKdvDg0z8VbPdBeLA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYWM8yfAm0-c5AKSLh9lDVogAQ60FffzPQImEu-plZasidP9CsYgNtcaVCrk8",
       "category": "기타",
       "news": [
+        {
+          "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8716239",
+          "source": "KBS 뉴스"
+        },
         {
           "title": "누리호가 가리키는 7대 시드의 길[기고/배경훈]",
           "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050513/2",
           "source": "동아일보"
-        },
-        {
-          "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
-          "source": "KBS 뉴스"
         },
         {
           "title": "누리호 5차 발사 성공 최종 확인…위성 1기 미사출 원인은 미궁",
@@ -254,6 +229,31 @@
           "title": "'35세' 그리스만, MLS 신인왕…4개월 뛰고 '14골 8도움'",
           "url": "https://www.newsis.com/view/NISX20261118_0003873740",
           "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "ps5 pro",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T14:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuD9cClxL--xDxwvoubUcC1azArHMmNMr7jhsqg_-kbZnun03z8U4JtstG8mU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "PlayStation 5 — GTA 6 Launch Triggers Global Console Shortages",
+          "url": "https://en.koreadaily.com/playstation-5-gta-6-launch-shortages/",
+          "source": "The Korea Daily"
+        },
+        {
+          "title": "GTA VI Stresses Out the Base PS5, and the PS5 Pro Is Suddenly Hard to Find",
+          "url": "https://www.vice.com/en/via/ps5-pro-for-gta-vi/",
+          "source": "VICE"
+        },
+        {
+          "title": "GTA 6 release sparks massive boom in Xbox and PS5 sales",
+          "url": "https://www.independent.co.uk/tech/gta-6-ps5-xbox-buy-release-b3087314.html",
+          "source": "The Independent"
         }
       ]
     }
