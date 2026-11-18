@@ -1,28 +1,82 @@
 {
-  "updatedAt": "2026-11-18T07:04:47.682Z",
+  "updatedAt": "2026-11-18T08:20:47.394Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
+      "category": "경제",
+      "count": 3
     },
     {
       "category": "스포츠",
+      "count": 3
+    },
+    {
+      "category": "연예",
       "count": 2
     },
     {
-      "category": "경제",
-      "count": 2
+      "category": "IT·과학",
+      "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "기타",
       "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "솔비",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-18T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSajGM1aoBF0E28_34gqp8To2z77VXD96X_-VtlRzCjO9zDmST-yFn6rwzwNmc",
+      "category": "연예",
+      "news": [
+        {
+          "title": "“결혼선물…” 솔비♥이규한, 결혼 5개월 앞두고 ‘겹경사’",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/11/18/20261118500036",
+          "source": "서울신문"
+        },
+        {
+          "title": "이규한♥출연은 신의 한수?..솔비 경사터졌다! '사랑의 힘' [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MJRWEZDCMEZWEN3GMVSGCOBRGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'이규한♥' 솔비, 결혼 이어 실버버튼까지 겹경사!...\"가죽 재킷 선물, 골드버튼까지\"",
+          "url": "https://www.koreadaily.com/article/20261116184949540",
+          "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "cve 2026 114938",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-18T06:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrsEPhOTdHEvfRq55PQYuh6uf0ZZPgjFT9bvlvt7oOIXrWVUF-y4YvEQ-lNuo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
+          "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now",
+          "source": "Qualys"
+        },
+        {
+          "title": "After a serious security vulnerability was recently discovered in the web development language PHP",
+          "url": "https://www.mk.co.kr/en/world/12212631",
+          "source": "매일경제"
+        },
+        {
+          "title": "AI-Discovered Java Flaw Prompts Government Emergency Checks",
+          "url": "https://www.chosun.com/english/industry-en/2026/11/18/UHWLKDT4YZFBNIM4TBXPMJ6RLI/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
       "keyword": "네이버 뉴스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-18T06:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROEzeMPe5fCGi1C6lV6ZnRNNYvpaLhPoqVhThuxGf90bLN-Uu7JEaprcvXGdc",
       "category": "기타",
@@ -45,84 +99,9 @@
       ]
     },
     {
-      "keyword": "병무청",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-18T04:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_4oLe-gx52z_lJxyS5opKpShsbe583jLlmv18Dcq8PgrXfHNfuJxAmsCE6G0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "병무청, 19일 수능날 병역판정검사 미실시…20일부터 재개",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6357747",
-          "source": "뉴스1"
-        },
-        {
-          "title": "경인지방병무청,수능시험 19일 병역판정검사 휴무",
-          "url": "https://sports.donga.com/region/article/all/20261118/135045691/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "부산울산병무청, 수능일 병역판정검사 휴무…20일 재개",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755771",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "에레디 아",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-18T04:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQRdLl2Mg_PIIk-kb2ub_nVWdh1at_N16fiLhNgsnw24NSdmfyD2NoLniXv_A",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘SSG 외인타자 교체 확정인가’ 602안타 장수 외인타자, SNS에 작별인사 “함께했던 모든 순간에 감사” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/18/202611181223779491O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "[단독] SSG, 에레디아와 결별…‘트리플A 24홈런·21도루’ 리스 하인즈 영입한다",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=132194",
-          "source": "더게이트"
-        },
-        {
-          "title": "'MLB 계약까지 합의했는데 한국이 더 낫다고?' 2R 출신 100홈런 슬러거, 돌연 KBO행...어디로 갈까?",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/18/MUZTKNZWHE4TQZRZHA2GGYRXMU/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "로또",
+      "keyword": "이혜훈",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-18T05:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxBW1r7xyzQibUkUgESxkdNosvoDlXlJVhI5D0QKbLbN94K06boYtCEjtlYJo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"회사에서 확인한 로또, 1등 31억 당첨\"…인증글 올린 직장인",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645647032&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "\"2등 당첨되는 꿈\" 회사에서 확인한 로또, 31억 대박...'음소거 환호' - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/society/2026/11/18/2026111805495346241",
-          "source": "머니투데이"
-        },
-        {
-          "title": "제1250회 로또 1등 9명···당첨금 31억원",
-          "url": "https://www.khan.co.kr/article/202611142052001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "이혜훈",
-      "traffic": "200+",
-      "trafficValue": 200,
       "startedAt": "2026-11-18T06:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTC_6o_JcT7kSLnETYD3E60afXcUTKi5MmNGOvgS2S4Duk0XmMg7QFGAkJpcpc",
       "category": "경제",
@@ -133,14 +112,64 @@
           "source": "경향신문"
         },
         {
-          "title": "[속보] 이혜훈 ‘부정 청약’ 로또 아파트, 취소되나?…국토부, 분양계약 취소 ‘공문’ 보내",
-          "url": "https://biz.heraldcorp.com/article/10941195",
-          "source": "헤럴드경제"
+          "title": "[자막뉴스] \"장관 낙마에 아파트까지 물거품?\"…국토부, 이혜훈 '40억 로또' 아파트 취소 요청",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852162",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "국토부, 이혜훈 부부 ‘래미안 원펜타스’ 분양계약 취소 요청",
-          "url": "https://www.donga.com/news/Economy/article/all/20261118/135044590/1",
-          "source": "동아일보"
+          "title": "국토부, 이혜훈 위장전입 의혹 '래미안 원펜타스' 계약 취소 요청",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02266486645647032&mediaCodeNo=257",
+          "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "허훈",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T06:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_hjA2Qhul_Qcrlkbm4S51IamQ1dihtsS877agTb5Vj7qKSTfYwo8FP_vLhJg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "남자대표팀, 2027 FIBA 농구월드컵 아시아예선 윈도우5 대비 최종 엔트리 변경 ... - 이규태-이동근, - 5대5 성인남자 국가대표팀 첫 발탁",
+          "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065616676256801",
+          "source": "바스켓코리아"
+        },
+        {
+          "title": "‘하윤기·이우석 부상 낙마’ 마줄스호, 이규태·이동근 수혈···월드컵 예선 ‘조직력·컨디션 관리’ 과제",
+          "url": "https://sports.khan.co.kr/article/202611181527003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "진단서 제출 계획, 허훈도 대표팀 제외. AG 금메달 주역 이현중 여준석 이우석, 그리고 하윤기에 이어 합류 불발. 마줄스 호 초비상",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/18/GZRDSMBZGNTDEODCHEYWGZJUMY/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "lakers vs hornets",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T06:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-H0auZUTDhfSRmz0jwaQasga6bkIC1Yu02UiSG4lZyJkhFPvlIIFL0A4Cjm0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Charlotte Hornets vs Los Angeles Lakers Nov 17, 2026 Box Scores",
+          "url": "https://www.nba.com/game/cha-vs-lal-0022600256/box-score",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Tim Connelly's bargain-bin moves are paying off for the Timberwolves",
+          "url": "https://dunkingwithwolves.com/tim-connelly-s-bargain-bin-moves-are-paying-off-for-the-timberwolves",
+          "source": "Dunking with Wolves"
+        },
+        {
+          "title": "Analyzing Timberwolves’ Biggest Strength and Weakness After First 11 Games",
+          "url": "https://sports.yahoo.com/articles/analyzing-timberwolves-biggest-strength-weakness-020044705.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
@@ -171,26 +200,51 @@
     },
     {
       "keyword": "전국민주노동조합총연맹",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-18T05:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7iS3x0RPeYjITW6XB4ZvzVNpa7uyE35I51aP0a7VNPDAmZyD4DJeFKuhu_cg",
-      "category": "정치·사회",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jGh3nd290pmTPW4hcxrtcdaPUuJ9lU7ZCyKCtRW1ndGfvN69jPTIrmql_lI",
+      "category": "경제",
       "news": [
         {
-          "title": "[민주노총 선거 공약 보니] 최대 쟁점 ‘사회적 대화’ 후보조 각양각색",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237764",
-          "source": "매일노동뉴스"
+          "title": "“주 52시간 예외 없어도 투자할 기업은 투자”…여권 주최 토론회에서 초광역특구법 비판",
+          "url": "https://www.khan.co.kr/article/202611181613001",
+          "source": "경향신문"
         },
         {
-          "title": "산업격변 속 노동계 새 수장 누구?",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336861",
-          "source": "인천일보"
+          "title": "\"노동자 희생 강요\" vs \"유연성 필요\"…초광역특구법 노동특례 공방 - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/18/2026111815461079818",
+          "source": "머니투데이"
         },
         {
-          "title": "다시, 국민과 함께하는 노동운동을 기대한다",
-          "url": "https://www.midamplus.com/news/article.html?no=31484",
-          "source": "미담플러스"
+          "title": "‘초광역특구’ 노동특례 놓고...산업부·노동부 여전히 평행선",
+          "url": "https://www.chosun.com/national/labor/2026/11/18/4QNEE6YUZJB3NMP2XAJYXKNLKM/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "계약결혼",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T06:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlaOBc0posF_-nHowo-3Hr5j6jS7YqULAYVXm-NjDqjz90G8zK5PyzoOMeOFg",
+      "category": "연예",
+      "news": [
+        {
+          "title": "최정현 프러포즈, 정민현에 “결혼하고 싶다” (계약결혼)",
+          "url": "https://sports.donga.com/ent/article/all/20261116/135032862/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'계약결혼' 32기 영수, 국화에 \"결혼하고 싶다\" 고백…금연 결심까지",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6355055",
+          "source": "뉴스1"
+        },
+        {
+          "title": "'계약결혼' 정현, 민현에 \"결혼하고 싶어\" 직진 고백…금연 선언까지",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524973",
+          "source": "iMBC 연예"
         }
       ]
     },
@@ -199,73 +253,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-18T05:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2q9JSXhHd0rNLbkcxzWafgXVrKKXZgbP864rXJd5GPq-m4FpFhrLe5KWFPuI",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4OwWZWlI3uNN8G6AB8eycP6VcrQXbHgtupydeQfXHvOoPfFWo46rOn8OB9lA",
       "category": "경제",
       "news": [
         {
-          "title": "소진공, 신한카드·KCB와 소상공인 AI서비스 지원 업무협약 체결",
-          "url": "https://www.etnews.com/20261118000322",
-          "source": "전자신문"
+          "title": "KB금융그룹, 미래 산업 힘 싣는 '세상을 바꾸는 금융'",
+          "url": "https://www.mk.co.kr/news/special-edition/12212576",
+          "source": "매일경제"
         },
         {
-          "title": "소상공인 부담 낮추고 취약계층 보호…금융권 포용금융 확대",
-          "url": "https://www.newsis.com/view/NISX20261118_0003872784",
-          "source": "뉴시스"
+          "title": "KB금융, 110조원 생산적·포용금융 추진 순항",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=86611",
+          "source": "PRESS9"
         },
         {
-          "title": "신한카드, 소상공인 경영 지원 AI 접목…소비 데이터 제공",
-          "url": "https://news.tf.co.kr/read/economy/2390205.htm",
-          "source": "더팩트"
-        }
-      ]
-    },
-    {
-      "keyword": "경정",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T05:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSudla84mcPfDL-9uuoxamdHSpRK8W0-Tu2_EDcVKjWjMrVvVrEa_yCSVzcFVo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "경정 시즌 막바지, 다승왕과 그랑프리 향한 질주로 수면이 뜨겁다",
-          "url": "https://sports.donga.com/sports/article/all/20261117/135028450/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "경정 시즌 막바지 다승왕 경쟁 치열…심상철·박원규 선두 다툼",
-          "url": "https://www.sportschosun.com/life/2026-11-18/202611170100110770010201",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "경정 다승왕·그랑프리 주인공은 누구… 심상철 45승 선두, 박원규 맹추격",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20261116173124326707f28b58b8_12",
-          "source": "로이슈"
-        }
-      ]
-    },
-    {
-      "keyword": "조태용",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T04:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQp0lkKGyHqGJcGoFLQQVmKR67dT703fHbjt7JCnLlSU2Xi_uleEMZCS2-e3lY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'체포 지시 부인' 조태용 전 국정원장 징역 2년 6개월 확정",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866573_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "‘정치인 체포지시 없었다’ 허위 발언…조태용, 징역 2년 6개월 확정",
-          "url": "https://news.jtbc.co.kr/article/NB12328624",
-          "source": "JTBC"
-        },
-        {
-          "title": "대법 “조태용, 윤석열 정치인 체포 지시 보고받아”…징역 2년 6개월 확정",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716000",
-          "source": "KBS 뉴스"
+          "title": "[게시판] 장병호 한화투자증권 대표이사, '사람 살리는 금융' 캠페인 동참",
+          "url": "https://www.yna.co.kr/view/AKR20261118051200008",
+          "source": "연합뉴스"
         }
       ]
     }
