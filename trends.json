@@ -1,38 +1,125 @@
 {
-  "updatedAt": "2026-11-18T12:59:40.386Z",
+  "updatedAt": "2026-11-18T14:14:17.616Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 5
+    },
+    {
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "연예",
+      "count": 1
     },
     {
       "category": "IT·과학",
-      "count": 4
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "gta6 메타 크리틱",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-18T11:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw",
-      "category": "IT·과학",
+      "keyword": "마린 르펜",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-18T12:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpY7I4LVJtXd5FmOKFDB3FUezLG3r1fe9Dd6y5lqaYRGs6clg33PXjlfwZy14",
+      "category": "기타",
       "news": [
         {
-          "title": "‘GTA 6’ 예약판매량 1500만장…콘솔게임 시장 살리나",
-          "url": "https://www.khan.co.kr/article/202611182036015",
-          "source": "경향신문"
+          "title": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수",
+          "url": "https://www.hankyung.com/article/2026111855181",
+          "source": "한국경제"
         },
         {
-          "title": "[리뷰] 드디어 나온 'GTA 6' 락스타는 게임이 아닌 세계를 빚어냈다",
-          "url": "https://www.thisisgame.com/articles/432817",
-          "source": "디스이즈게임"
+          "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032",
+          "source": "마켓인"
         },
         {
-          "title": "GTA 6 하려고 회사 쉰다?…직장인들을 위한 '장례식'",
-          "url": "https://www.etnews.com/20261117000373",
-          "source": "전자신문"
+          "title": "프랑스 극우 르펜도 극좌 멜랑숑도 \"은퇴 60세로 낮추겠다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261117178100085",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "교통 사고",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-18T12:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmrfNquh42_Qu9h3drGonUIiJ2i0zcHhytqpy_un_oSCP8FqLKuI2dHXFceSc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "김포 선진버스, ‘교통사고 50% 줄이기’ 과제 조기 달성",
+          "url": "https://www.newswire.co.kr/newsRead.php?no=1047435",
+          "source": "뉴스와이어"
+        },
+        {
+          "title": "선진버스, 교통사고 감축 목표 조기 달성…안전관리 강화",
+          "url": "https://www.cvinfo.com/news/articleView.html?idxno=32047",
+          "source": "상용차매거진"
+        },
+        {
+          "title": "한국도로교통공단 강원지부, 교통사고 줄이기 한마음대회",
+          "url": "https://www.yna.co.kr/view/AKR20261117155800062",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김명민",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T13:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81RSdArRaaIFWuemGn4UGAFF3kSoutMSg1IYjOlY-woZXC8Vl5NYpYZjZVic",
+      "category": "연예",
+      "news": [
+        {
+          "title": "배우 김명민, 데뷔 첫 예능 출연 \"유퀴즈 관계자 여러분 감사\" 수상 소감 같은 인사('유퀴즈')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MFQWKNLDHEYGMNDCGUYGGMDEME/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'유퀴즈' 김명민, 동갑 동문 유재석 만나 터진 입담…\"머리털 나고 처음\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111817057240149",
+          "source": "머니투데이"
+        },
+        {
+          "title": "김명민, 아내 임신 중 배우 은퇴 고민…뉴질랜드 이민까지 준비 (유퀴즈)",
+          "url": "https://sports.donga.com/ent/article/all/20261118/135044604/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "kamil mishara",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T12:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfCL3wfZLW-lwGWg7zOAWjFYIkPuslSYcgI0L5q7PwD1AHnoyOMdncKzbAF-I",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Chitwan Rhinos set 205-run target for Kathmandu Gorkhas",
+          "url": "https://english.nepalnews.com/s/sports/chitwan-rhinos-set-205-run-target-for-kathmandu-gorkhas/",
+          "source": "Nepalnews.com"
+        },
+        {
+          "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
+          "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl",
+          "source": "Ratopati"
+        },
+        {
+          "title": "Match Predictions: Nepal Premier League 2026 - 30th Match (Eliminator) - Kathmandu Gorkhas vs Chitwan Rhinos - 18th November",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-30th-match-eliminator-kathmandu-gorkhas-vs-chitwan-rhinos-18th-november/114390.htm",
+          "source": "Cricket World"
         }
       ]
     },
@@ -41,206 +128,81 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-18T11:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxs9p9n-F_3N_18OpuQE8iVpY6Cz_44FL3JKi6SHwG3b8oex_5DKBAdhwpqKo",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY32B3o3wmrUqeDn-JH0IWTVfhfbTjWvk0v3WuveFLbVkxuebjqQo8C5pEo0Y",
       "category": "기타",
       "news": [
         {
-          "title": "BMKG Ungkap 34 Wilayah Indonesia Berpotensi Diguyur Hujan Hari Ini",
-          "url": "https://www.cnnindonesia.com/teknologi/20261117205536-641-1428298/bmkg-ungkap-34-wilayah-indonesia-berpotensi-diguyur-hujan-hari-ini",
-          "source": "CNN Indonesia"
+          "title": "Enam Daerah di Sulsel Berstatus Awas Bencana, BPBD Beri Atensi Khusus",
+          "url": "https://rakyatsulsel.fajar.co.id/2026/11/18/enam-daerah-di-sulsel-berstatus-awas-bencana-bpbd-beri-atensi-khusus/",
+          "source": "Rakyat Sulsel"
         },
         {
-          "title": "Waspada Cuaca Ekstrem Akhir Tahun! BMKG Sebut Siklon AKVAN, MJO, dan Monsun Asia Picu Hujan Lebat",
-          "url": "https://www.kompas.tv/info-publik/702326/waspada-cuaca-ekstrem-akhir-tahun-bmkg-sebut-siklon-akvan-mjo-dan-monsun-asia-picu-hujan-lebat",
-          "source": "Kompas.tv"
+          "title": "BMKG Peringatkan Hujan Lebat Disertai Petir di 10 Kecamatan Sulawesi Selatan Malam Ini, Mulai Pukul 18.00 WIB",
+          "url": "https://databoks.katadata.co.id/demografi/statistik/b4e5097913d637c/bmkg-peringatkan-hujan-lebat-disertai-petir-di-10-kecamatan-sulawesi-selatan-malam-ini-mulai-pukul-18-00-wib",
+          "source": "Databoks"
         },
         {
-          "title": "Tenang Berkendara Saat Hujan Deras dengan Checklist SIAP BERKENDARA!",
-          "url": "https://oto.detik.com/advertorial-news-block/d-8757081/tenang-berkendara-saat-hujan-deras-dengan-checklist-siap-berkendara",
-          "source": "detikOto"
+          "title": "Wajib Tahu Zona Rawan, Daftar Wilayah di Kota Palopo dengan Potensi Curah Hujan Tertinggi",
+          "url": "https://makassar.kompas.com/read/2026/11/17/203110878/wajib-tahu-zona-rawan-daftar-wilayah-di-kota-palopo-dengan-potensi-curah",
+          "source": "Kompas.com"
         }
       ]
     },
     {
-      "keyword": "유칼",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T10:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQHbTaQIU7upJtuBMQHVm3BX7Hh0m8epZdF05-Rr4sPVhdjs0HwlFGsLdUJ8o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
-          "url": "https://www.koreadaily.com/article/20261118031442027",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "'커즈' 문우찬, DN 수퍼스 복귀⋯\"월즈 진출해 좋은 성적 내고 싶다\" [공식]",
-          "url": "https://www.etoday.co.kr/news/view/2649574",
-          "source": "이투데이"
-        },
-        {
-          "title": "'유칼' 손우현, 2027 LCK 시즌 DN 수퍼스 합류",
-          "url": "https://www.sheepesports.com/kr/articles/ucal-joins-dn-soopers-for-the-2027-lck-season/kr",
-          "source": "Sheep Esports"
-        }
-      ]
-    },
-    {
-      "keyword": "twitch",
+      "keyword": "누리호",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-18T11:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbtpO_dfiMRFQhKvZroYWuSH5hpURQG_pdWSmpkpOzBgkmRf6--el6WniArFI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
-          "url": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
-          "source": "NBC News"
-        },
-        {
-          "title": "OpenAI booth draws criticism at TwitchCon over AI’s role in creative work",
-          "url": "https://mezha.net/eng/news/mezha-1faf375a815f4ed495df72e9_openai_booth_draws/",
-          "source": "Mezha.net"
-        },
-        {
-          "title": "OpenAI TwitchCon 2026 controversy explained: Why streamers are angry over AI training",
-          "url": "https://www.geo.tv/latest/691658-openai-twitchcon-2026-controversy-explained-why-streamers-are-angry-over-ai-training",
-          "source": "Geo News"
-        }
-      ]
-    },
-    {
-      "keyword": "sxmb",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T11:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAoTuMOq8kYYMdZes4VUb3rZp-GMCKT01_QMxP6YpSU23h7745B_HvEmQtRXk",
+      "startedAt": "2026-11-18T12:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYWM8yfAm0-c5AKSLh9lDVogAQ60FffzPQImEu-plZasidP9CsYgNtcaVCrk8",
       "category": "기타",
       "news": [
         {
-          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
-          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
-          "source": "homeup.vn"
+          "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm",
-          "source": "Thanh Niên"
+          "title": "누리호가 가리키는 7대 시드의 길[기고/배경훈]",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050513/2",
+          "source": "동아일보"
         },
         {
-          "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
-          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802700.ldo",
-          "source": "Laodong.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "삼양식품",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T11:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_O6Ujn2cNHsaJ9ng3jv4eFJsGvoJ8h5gEuB2BPfMBtVGBgzoQRmZ8COmwAe8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“100일 만에 1000만개 판매”…삼양식품 '짜르르', 코스트코 전국 입점",
-          "url": "https://www.etnews.com/20261118000405",
-          "source": "전자신문"
-        },
-        {
-          "title": "[똑똑한한끼] 삼양식품 짜르르 코스트코 입점, 롯데관광개발 흑돼지 자장면 세트…대상웰라이프·잠바·페르노리카",
-          "url": "https://m.ekn.kr/view.php?key=20261118023231648",
-          "source": "에너지경제신문"
-        },
-        {
-          "title": "삼양식품, 우지 짜장라면 ‘짜르르’ 코스트코 전국 매장서 선봬",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3449887",
-          "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "gta5",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJIQjTbKuXaWXwgZeqVko85hFmnvC7iz5s8M-rdSwsFzO9TNQdAuI1Kec9xFQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "GTA 5 Last Ride Community Event Leads to Emotional Goodbyes From Fans After 13 Years of Mayhem",
-          "url": "https://www.ign.com/articles/gta-5-fans-make-one-last-emotional-ride-through-los-santos-before-heading-to-vice-city",
-          "source": "IGN"
-        },
-        {
-          "title": "Grand Theft Auto fan is organizing an in-game ‘Last Ride’ event in GTA Online ahead of GTA 6’s release",
-          "url": "https://massivelyop.com/2026/11/16/grand-theft-auto-fan-is-organizing-an-in-game-last-ride-event-in-gta-online-ahead-of-gta-6s-release/",
-          "source": "Massively Overpowered"
-        },
-        {
-          "title": "Fear And Loathing In Los Santos: How It Feels To Leave GTA 5 Behind",
-          "url": "https://www.gamespot.com/articles/fear-and-loathing-in-los-santos-how-it-feels-to-leave-gta-5-behind/",
-          "source": "GameSpot"
-        }
-      ]
-    },
-    {
-      "keyword": "국제신문",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T11:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgaBFW_7bL57yY0UKtnQgrQsFwBL_kqzwt919LhesLKc6oVNyRIaDoE8OVoA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "소각장 멈추면 쓰레기 대신 처리…부산·김해시 손 잡았다",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.22006005238",
-          "source": "국제신문"
-        },
-        {
-          "title": "부산시*경남 김해시 폐기물 교차 소각 추진",
-          "url": "https://news.knn.co.kr/news/article/194487",
-          "source": "부산경남대표방송 KNN 뉴스"
-        },
-        {
-          "title": "부산시·김해시, 폐기물 교차소각 협약 추진…연간 3천t씩 처리",
-          "url": "https://www.yna.co.kr/view/AKR20261113137300051",
+          "title": "누리호 5차 발사 성공 최종 확인…위성 1기 미사출 원인은 미궁",
+          "url": "https://www.yna.co.kr/view/AKR20261118110600017",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "헝거게임",
+      "keyword": "앙투안 그리즈만",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-18T10:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRTsJos7ir35nfPJg9AOR6j-4xYlcfS1pNIj15xp3z_wDUnlCMhCVR3Q_Uv98",
-      "category": "IT·과학",
+      "startedAt": "2026-11-18T12:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsH8z9htcJcr1jYHF4JSZuIATYL1vtg5pfTCK4z5lzu7FR-ox3nA-itQkJ9D0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[포토] 엘 패닝 ‘동화 속 비주얼’",
-          "url": "https://www.seoul.co.kr/news/entertainment/foreigncountryN/2026/11/17/20261117500296",
-          "source": "서울신문"
+          "title": "35세 그리에즈만, 4개월 뛰고 MLS 신인왕…14골 8도움",
+          "url": "https://www.yna.co.kr/view/AKR20261118077500007",
+          "source": "연합뉴스"
         },
         {
-          "title": "네자, 뉴욕 앨리스 털리 홀서 '헝거 게임' 프리미어 참석",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755325",
-          "source": "국제뉴스"
+          "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/18/MZSGGYZTGVSWEMRUGFQTENZQGQ/",
+          "source": "조선일보"
         },
         {
-          "title": "빈티지 콤팩트로 뒤덮인 드레스! 엘르 패닝의 ‘헝거 게임’ 프리미어 룩",
-          "url": "https://www.vogue.co.kr/2026/11/18/%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%BD%A4%ED%8C%A9%ED%8A%B8%EB%A1%9C-%EB%92%A4%EB%8D%AE%EC%9D%B8-%EB%93%9C%EB%A0%88%EC%8A%A4-%EC%97%98%EB%A5%B4-%ED%8C%A8%EB%8B%9D%EC%9D%98-%ED%97%9D%EA%B1%B0-%EA%B2%8C/",
-          "source": "Vogue korea"
+          "title": "[오피셜] '35살에 14골 7도움→신인왕 등극' 이강인에게 자리 넘기고 미국으로 향한 그리즈만, 2026 MLS 신인왕 등극",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020491",
+          "source": "SPOTV NEWS"
         }
       ]
     },
     {
-      "keyword": "gta6 출시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T11:00:00.000Z",
+      "keyword": "gta6 메타",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T11:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkZXhRSdTPFzXiX5x7l2N1WMWxHEyvqUQQU3l1DWuAsY0IBn-HhI_0IArz-7A",
       "category": "IT·과학",
       "news": [
@@ -256,8 +218,58 @@
         },
         {
           "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
-          "url": "https://www.yna.co.kr/view/AKR20261118015500017",
-          "source": "연합뉴스"
+          "url": "https://stock.mk.co.kr/news/view/1201157",
+          "source": "매일경제 마켓"
+        }
+      ]
+    },
+    {
+      "keyword": "sxmb",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T11:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA1DqEHhfxnSOPZSdllbj-Avv8mYTTkWckFr7ZgrYxoIEoi6MNsq7pLGY2EMQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
+          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802699.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
+          "source": "homeup.vn"
+        },
+        {
+          "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm",
+          "source": "Thanh Niên"
+        }
+      ]
+    },
+    {
+      "keyword": "kick",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T11:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
+          "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
+          "source": "About Amazon"
+        },
+        {
+          "title": "Black Friday 2026 is Nov. 27: what forecasters expect shoppers to spend, and where the discounts are",
+          "url": "https://mlq.ai/news/black-friday-2026-is-nov-27-what-forecasters-expect-shoppers-to-spend-and-where-the-discounts-are/",
+          "source": "MLQ.ai"
+        },
+        {
+          "title": "Amazon Offering Early Black Friday Discounts on TVs, Headphones, and Charging Devices",
+          "url": "https://www.macrumors.com/2026/11/17/amazon-black-friday-discounts-on-tvs-headphones/",
+          "source": "MacRumors"
         }
       ]
     }
