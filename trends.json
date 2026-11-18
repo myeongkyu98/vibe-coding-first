@@ -1,255 +1,255 @@
 {
-  "updatedAt": "2026-11-18T04:55:04.362Z",
+  "updatedAt": "2026-11-18T05:57:19.291Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
-    },
-    {
-      "category": "연예",
-      "count": 2
+      "count": 5
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 3
     },
     {
       "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "국제 a 매치",
+      "keyword": "김치",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-18T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWj7lWKpOifX77DK1rgfKKeS7ktpl1L2txaHP-7UAVqtt5AU1OMPPqz-qSHH4",
-      "category": "스포츠",
+      "startedAt": "2026-11-18T04:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxXidQZsJZlNMKEqoiq4F1QPR_G4yyA6l11HoupiqdLB1PoXXhNdNcU6hl57A",
+      "category": "기타",
       "news": [
         {
-          "title": "축구 A매치에서 \"대~한민국\" 구호가 사라졌다",
-          "url": "https://www.chosun.com/sports/football/2026/11/18/PEHQPEUKWNCQFIKOJ6PWL4TNUQ/",
-          "source": "조선일보"
+          "title": "올해 4인 가족 김장비용 28만8500원 - 포토 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74296&pageIndex=1",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "한국 축구, 올해 A매치 '승률 46.2%'…2019년 이후 최저",
-          "url": "https://www.news1.kr/sports/soccer/6357921",
-          "source": "뉴스1"
+          "title": "\"김치 사 먹으면 담글 때보다 2.3배 비싸…4인 가족 77만원\"",
+          "url": "https://www.yna.co.kr/view/AKR20261117142800030",
+          "source": "연합뉴스"
         },
         {
-          "title": "[데스크 시각] 축구협회에 ‘농협룰’ 가져온 문체부",
-          "url": "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/11/16/20261116027008",
-          "source": "서울신문"
+          "title": "김장비 20만원이라는데…실제 장바구니와 통계 사이의 간극",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=354862",
+          "source": "녹색경제신문"
         }
       ]
     },
     {
-      "keyword": "영화",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-18T03:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLW-w9KiFsarsyTTxq4fLxZTy2Q7u8pUPQILB2FnnBlo_FMaNfrX8Q6r-rxJ4",
-      "category": "연예",
-      "news": [
-        {
-          "title": "CGV, 11월 기술 특별관 라인업 공개…공연 실황·애니메이션·스릴러 등 6편 – CJ 뉴스룸",
-          "url": "https://cjnews.cj.net/cgv-11%EC%9B%94-%EA%B8%B0%EC%88%A0-%ED%8A%B9%EB%B3%84%EA%B4%80-%EB%9D%BC%EC%9D%B8%EC%97%85-%EA%B3%B5%EA%B0%9C%EA%B3%B5%EC%97%B0-%EC%8B%A4%ED%99%A9%C2%B7%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4/",
-          "source": "CJ 뉴스룸"
-        },
-        {
-          "title": "임영웅 고양 콘서트, 스크린으로 만난다",
-          "url": "https://www.seoul.co.kr/news/life/pop-culture/2026/11/18/20261118500068",
-          "source": "서울신문"
-        },
-        {
-          "title": "임영웅, 오늘(18일) 극장 접수…CGV 단독 개봉에도 전체 예매율 1위 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111808357253755",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "북한이탈주민",
+      "keyword": "부산광역시",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-18T03:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXQr8PkUUfcm5JbCqfrwsy0J1Uapycl9rc-q0TG9V620ScHQZdLdqDccvf1PY",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[단독] 탈북민 주거지원금 12억 못받았다…706세대에 ‘추가신청’ 안내없어",
-          "url": "https://www.mk.co.kr/news/politics/12212193",
-          "source": "매일경제"
-        },
-        {
-          "title": "북한이탈주민 겨울나기 돕는다…시흥서 김장김치 100통 나눔",
-          "url": "https://www.kyeonggi.com/article/20261117580169",
-          "source": "경기일보"
-        },
-        {
-          "title": "달성군자원봉사센터·대구하나센터, 북한이탈주민 위해 김장 나눔",
-          "url": "https://www.imaeil.com/page/view/2026111717203890008",
-          "source": "매일신문"
-        }
-      ]
-    },
-    {
-      "keyword": "대한민국 해군",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-18T03:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw91eBZ2dFOC1I2Pr8q40hlvshpfPk4nRDF5mf6-3EvIiaJ0CDDHkxngdD7h4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "무신사 “해군과 컬래버”… ‘네이비 짐’ 컬렉션 선봬[금주의 핫딜]",
-          "url": "https://www.munhwa.com/article/11632133",
-          "source": "문화일보"
-        },
-        {
-          "title": "젊은 여자도 입고 다니네…예상밖 인기에 '군대 콜라보' 티셔츠 나온다",
-          "url": "https://www.hankyung.com/article/202611106360g",
-          "source": "한국경제"
-        },
-        {
-          "title": "[유통24시] GS25, '네이비 짐' 컬렉션 공개 外",
-          "url": "https://news.dealsitetv.com/articles/178360",
-          "source": "DealSite경제TV"
-        }
-      ]
-    },
-    {
-      "keyword": "우원식",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KCYzU9qB09r1XUI0RBpaAGY0S83EWEdXNW__U36dwFMKMMtKqgjzo4b0ARE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "추미애, ’최민희 징계’ 갈등 참전…“김민석 문제부터 엄중 판단해야“",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118091300D51",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "\"최민희 아웃\" \"김민석 쇄신\"…공천룰 제정前 불붙은 與집안싸움 - 머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/11/18/2026111809383963604",
-          "source": "머니투데이"
-        },
-        {
-          "title": "우원식 \"김민석, 신천지 조치 잘못‥추미애도 말 얹지 말아야\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866551_36911.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "표절",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T03:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0MnbF0k0UOuo6Z1INVveOiN-pbe92_Gl9v4AxymLG0oYy1kgFPNDfKV1BZTc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"카피라니 속상해\" 최예나 측, '사브리나 카펜터 표절 의혹'에 꺼내 든 결정적 증거",
-          "url": "https://busan.fnnews.com/news/202611171519491481",
-          "source": "부산파이낸셜뉴스"
-        },
-        {
-          "title": "[포토]레이, 뿔테의 정석",
-          "url": "https://www.mk.co.kr/news/photos/12209495",
-          "source": "매일경제"
-        },
-        {
-          "title": "최예나, MMA 베스트 솔로 여자 수상 후 근황…인형 비주얼 [N샷]",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6354600",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "윤혜진",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T03:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXp0QYNzDxU9OCd6E2afv7U59d6tm2ozp2GDsgei_3D0yKPynFA3YCvRiMV8k",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘엄태웅♥’ 윤혜진, 몸 상태 어떻길래..발레 금지령 “골반 물 차고 연골 상해”(왓씨티비)",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/HAYGKNBWGM4WMNBSGUZDCNJXGM/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "윤혜진 골반 이상으로 재활 치료…“발레 중단 상태” : 연예",
-          "url": "https://news.jkn.co.kr/post/1104399",
-          "source": "재경일보"
-        },
-        {
-          "title": "`엄태웅♥` 윤혜진, 평생 함께 한 발레 이제 못 해…\"골반에 물이 차 재활 중\" [마데핫리뷰]",
-          "url": "https://mydaily.co.kr/page/view/2026111311284776741",
-          "source": "마이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "xrp",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-0eH5VAiQFl3NMI8mjyiQsye1HJXz2v-alenL1nfi0d2--znebMJ5BgI59Wg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "XRP technical indicators signal rebound; can it regain $1",
-          "url": "https://www.digitaltoday.co.kr/en/view/127361/xrp-technical-indicators-signal-rebound-can-it-regain-1-dollar",
-          "source": "디지털투데이"
-        },
-        {
-          "title": "Analyzing XRP’s $44M liquidation imbalance – Is a market reset underway?",
-          "url": "https://ambcrypto.com/analyzing-xrps-44m-liquidation-imbalance-is-a-market-reset-underway/",
-          "source": "AMBCrypto"
-        },
-        {
-          "title": "US Spot XRP ETFs See Largest Weekly Outflows in 8 Months as XRP Falls Below $1",
-          "url": "https://www.kucoin.com/blog/xrp-etf-outflows-8-month-high-2026",
-          "source": "KuCoin"
-        }
-      ]
-    },
-    {
-      "keyword": "중도일보",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T03:00:00.000Z",
+      "startedAt": "2026-11-18T04:10:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "아이돌",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T03:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShk7HSsmh1eEZmqsGdJM6Qzj4I05lkyNrzwAdG7_rSZNgAcIlHothtqwchiSc",
-      "category": "연예",
+      "keyword": "건설",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-18T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyUa7Uhca2jKeO-tE9h9g4WeT0P0W1fZ126rivxJD6f2x32xtBhJvFrLVoiW8",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "K-팝 아이돌, 올해도 수능 치르지 않는 이유",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/IQGY3IPRJ5ALDABS47V25X3IXE/",
-          "source": "조선일보"
+          "title": "내 건물 안전하고 쾌적하게, 내가 점검한다! - 전체 | 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975878&pWise=sub&pWiseSub=C1",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "이즈나 정세비는 서울예대 수시 합격···바쁜 와중에 수능 치르는 08년생 아이돌은 누구?",
-          "url": "https://www.khan.co.kr/article/202611181031001",
+          "title": "올 들어 건설 현장서 106명 숨져…절반 가량이 ‘추락’ 사망",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715993",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "국토부, 사망사고 발생 대형건설사 12곳 안전관리 점검",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374930",
+          "source": "전기신문"
+        }
+      ]
+    },
+    {
+      "keyword": "병무청",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T04:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_4oLe-gx52z_lJxyS5opKpShsbe583jLlmv18Dcq8PgrXfHNfuJxAmsCE6G0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "병무청, 19일 수능날 병역판정검사 미실시…20일부터 재개",
+          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6357747",
+          "source": "뉴스1"
+        },
+        {
+          "title": "경인지방병무청,수능시험 19일 병역판정검사 휴무",
+          "url": "https://sports.donga.com/region/article/all/20261118/135045691/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "부산울산병무청, 수능일 병역판정검사 휴무…20일 재개",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755771",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "에레디 아",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T04:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcoeYvmMMkuQBFcyyQjkhylUZjqikdwcwUYPaeY9s4ScliLECqyBlCUISBWV4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘45홈런’ 김도영, 3루 수비도 1위…데뷔 첫 KBO 수비상",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716061",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "KIA 김도영, 데뷔 첫 KBO 3루수 수비상‥LG 구본혁은 초대 유틸리티 수상자",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6866605_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "프로야구 kt 위즈, 4년 연속 KBO 수비상 수상자 배출 실패",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041332",
+          "source": "기호일보"
+        }
+      ]
+    },
+    {
+      "keyword": "조태용",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T04:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQp0lkKGyHqGJcGoFLQQVmKR67dT703fHbjt7JCnLlSU2Xi_uleEMZCS2-e3lY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'체포 지시 부인' 조태용 전 국정원장 징역 2년 6개월 확정",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866573_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보]조태용 전 국정원장 ‘계엄 위증·정치관여’ 2년6개월 실형 확정",
+          "url": "https://www.khan.co.kr/article/202611181112001",
           "source": "경향신문"
         },
         {
-          "title": "수능 대신 무대 오르는 08년생 아이돌들…코르티스·리센느 등",
-          "url": "https://www.yna.co.kr/view/AKR20261117153900005",
-          "source": "연합뉴스"
+          "title": "조태용, 징역 2년6개월 확정…내란 때 “정치인 체포 지시 없었다” 위증",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1287893.html",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
+      "keyword": "중국 축구 국가대표팀",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp8kw1dOhbCkgIzC4VuaUzxftgH2Ad5L-tfNnyXtob8ecN882v3XFd6e4PSc8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "한국 U-19 축구, 판다컵 최종전서 중국에 1-2 패배",
+          "url": "https://mobile.newsis.com/photo/NISI20261118_0002294905",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"더 이상 공한증은 없다\" 韓 축구 대굴욕! 중국 U-19 대표팀에 또 1-2 충격패...\"한중 격차 눈에 띄게 줄어들고 있어\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/18/202611180936776100O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "한국 U-19, 중국에 1-2 ‘충격패’ 판다컵 우승 놓쳤다···중국팬 “7년 전 한국 소변 세리머니 설욕”",
+          "url": "https://sports.khan.co.kr/article/202611180936013",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "수성구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T04:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPJeMGtdWefoU7X7eDbILD99yzn1xf7LN1-cMVRLXGO3CTniPGHOzNYb4ruM8",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "수능 코앞인데…中 AI 커닝업체 \"韓 주문 밀려 바쁘다\"",
+          "url": "https://www.hankyung.com/article/202611184572i",
+          "source": "한국경제"
+        },
+        {
+          "title": "세무사 부정행위 홍보 활용하는 中업체들 \"상당수 사기 가능성\"",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/18/GGYP64OPAVFJJIHNQKFW34N7NE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "“대구 수성구죠? 내일 ‘총잡이’와 모의연습”…SNS 확산 ‘수능 커닝 대화’ 파문",
+          "url": "https://www.idaegu.com/news/articleView.html?idxno=667073",
+          "source": "대구일보"
+        }
+      ]
+    },
+    {
+      "keyword": "세종역",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkd6MmOSdDJjFQmEqZNWzlRa_2_k-I7-2XDzUGGSzi2aUwt88UHttNYIKTUtY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“세종에 KTX 세워달라”···선로 바꾼 세종시, 충북과 10년 갈등 다시 불 붙나",
+          "url": "https://www.khan.co.kr/article/202611171416001",
+          "source": "경향신문"
+        },
+        {
+          "title": "5차 철도망 의견수렴 현장 가봤더니... 전국 각지 응원 열기 '후끈' [영상]",
+          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18215",
+          "source": "철도경제신문"
+        },
+        {
+          "title": "KTX 세종중앙역 갈등 확산…충청권 상생 ‘흔들’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715320",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "england vs australia",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T04:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgGu4m7b67Sq1eiRWf2jMJPHE1lQdp6ycnFXUXuC5_Al58pYfXG4d0t1YT9VM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Australia v England: third and deciding men’s cricket one-day international – live",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/18/australia-vs-england-cricket-third-odi-mens-one-day-international-hobart-aus-v-eng-live-scores-updates",
+          "source": "The Guardian"
+        },
+        {
+          "title": "AUS vs ENG 2026/27, AUS vs ENG 3rd ODI Match Preview - Beardman back for rare ODI series decider in Hobart",
+          "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-3rd-odi-1528705/match-preview",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Mahli Beardman’s ODI historic debut was one to savour",
+          "url": "https://www.swtimes.com.au/news/south-western-times/mahli-beardmans-historic-odi-debut-was-one-to-savour-as-the-south-west-fast-bowler-made-a-name-for-himself-c-23168578",
+          "source": "South Western Times"
         }
       ]
     }
