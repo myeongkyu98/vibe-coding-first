@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T14:14:17.616Z",
+  "updatedAt": "2026-11-18T15:54:25.211Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 6
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "IT·과학",
+      "count": 1
     },
     {
       "category": "정치·사회",
@@ -18,15 +18,40 @@
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "수능 재난문자 시간",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-18T14:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP3otWVbV1r58W1cHXd0j1u6NHNem0B8qldqiT6kBNxKmqoJfnZJ-QnxMb724",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[단독] \"계산기 안에 키보드\" \"쿠팡·알리서 구매\" 세무사 수석 어떻게 뚫었나",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866705_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "고3 딸 둔 박명수 “추접스러운 인간들”…수능 앞두고 AI 부정행위에 일침",
+          "url": "https://www.donga.com/news/Culture/article/all/20261118/135051043/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "이 대통령 \"수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975944",
+          "source": "대한민국 정책브리핑"
+        }
+      ]
+    },
+    {
       "keyword": "마린 르펜",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-18T12:30:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpY7I4LVJtXd5FmOKFDB3FUezLG3r1fe9Dd6y5lqaYRGs6clg33PXjlfwZy14",
       "category": "기타",
@@ -49,6 +74,56 @@
       ]
     },
     {
+      "keyword": "강형욱",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-18T12:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZ3oNRZ6lOZMtiBt3HSLRPd-f2mgvUqIdwMe1hIE_TPCVkCU04a9TxcMc7Ys",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[오늘의 채널A] 가족 물어대는 두살 몰티즈, 공존 해결책은",
+          "url": "https://www.donga.com/news/article/all/20261117/135042032/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "강형욱, 입질견에 초강수 경고…\"이런 개체는 없어져야\" (개늑시2)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525234",
+          "source": "iMBC 연예"
+        },
+        {
+          "title": "마음처럼 되지 않는 셀프 훈련에 눈물을 보이는 보호자ㅠㅠ",
+          "url": "https://ichannela.com/program/clip/000000560654.do",
+          "source": "채널A"
+        }
+      ]
+    },
+    {
+      "keyword": "kamil mishara",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-18T12:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJsjqu_cT22BXqjWyn6QP2PrxvwXU8wjUYxoFFl1m21jWTNJ_JaPhqCgQSDdw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Kamil Mishra Prioritizes Team Victory Over Personal Records",
+          "url": "https://english.ratopati.com/story/87194/it-doesnt-really-matter-who-the-opponent-is-in-the-qualifiers-kamil-mishra",
+          "source": "Ratopati"
+        },
+        {
+          "title": "Chitwan Rhinos and Kathmandu Gurkhas to Compete in NPL Eliminator",
+          "url": "https://english.ratopati.com/story/87126/chitwan-and-kathmandu-in-the-eliminator-today-why-is-the-npl-pitch-slow-video",
+          "source": "Ratopati"
+        },
+        {
+          "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
+          "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl",
+          "source": "Ratopati"
+        }
+      ]
+    },
+    {
       "keyword": "교통 사고",
       "traffic": "1000+",
       "trafficValue": 1000,
@@ -67,9 +142,9 @@
           "source": "상용차매거진"
         },
         {
-          "title": "한국도로교통공단 강원지부, 교통사고 줄이기 한마음대회",
-          "url": "https://www.yna.co.kr/view/AKR20261117155800062",
-          "source": "연합뉴스"
+          "title": "인천 미추홀구에서 SUV 차량 중앙선 침범해 승용차와 충돌‥3명 부상",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866631_36918.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
@@ -78,73 +153,57 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-18T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81RSdArRaaIFWuemGn4UGAFF3kSoutMSg1IYjOlY-woZXC8Vl5NYpYZjZVic",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyfYjfqp8y1tSQLPgOQVzyxCq0EiMNxMRKcZOZ01GqvxcR0Sx-6bHp1Rhg23w",
       "category": "연예",
       "news": [
         {
-          "title": "배우 김명민, 데뷔 첫 예능 출연 \"유퀴즈 관계자 여러분 감사\" 수상 소감 같은 인사('유퀴즈')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MFQWKNLDHEYGMNDCGUYGGMDEME/",
+          "title": "김명민 “스키복 팔다 경찰서까지”…20대 시절 회상",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261118/135051018/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "‘데뷔 30년만 첫 예능’ 김명민, 오늘‘유 퀴즈’ 출격…알고보니 유재석 대학 동기",
+          "url": "https://www.viva100.com/article/20261118500603",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "김명민, '불멸의 이순신'으로 대상 수상 비하인드 \"퍼머를 심하게 하고 갔다\"('유퀴즈')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MJTGGOBQGVSGCOLDGMZTSZRTMY/",
           "source": "조선일보"
-        },
-        {
-          "title": "'유퀴즈' 김명민, 동갑 동문 유재석 만나 터진 입담…\"머리털 나고 처음\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111817057240149",
-          "source": "머니투데이"
-        },
-        {
-          "title": "김명민, 아내 임신 중 배우 은퇴 고민…뉴질랜드 이민까지 준비 (유퀴즈)",
-          "url": "https://sports.donga.com/ent/article/all/20261118/135044604/1",
-          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "kamil mishara",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T12:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfCL3wfZLW-lwGWg7zOAWjFYIkPuslSYcgI0L5q7PwD1AHnoyOMdncKzbAF-I",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Chitwan Rhinos set 205-run target for Kathmandu Gorkhas",
-          "url": "https://english.nepalnews.com/s/sports/chitwan-rhinos-set-205-run-target-for-kathmandu-gorkhas/",
-          "source": "Nepalnews.com"
-        },
-        {
-          "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
-          "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl",
-          "source": "Ratopati"
-        },
-        {
-          "title": "Match Predictions: Nepal Premier League 2026 - 30th Match (Eliminator) - Kathmandu Gorkhas vs Chitwan Rhinos - 18th November",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-30th-match-eliminator-kathmandu-gorkhas-vs-chitwan-rhinos-18th-november/114390.htm",
-          "source": "Cricket World"
-        }
-      ]
+      "keyword": "김간지",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T14:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
-      "keyword": "cuaca besok",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T11:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY32B3o3wmrUqeDn-JH0IWTVfhfbTjWvk0v3WuveFLbVkxuebjqQo8C5pEo0Y",
+      "keyword": "김소희",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T13:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1xk-f3YRj-hjkEubAnjTcqc1jIwHINMrlml4clK5qs4KTca5wXyTPWs0yrSE",
       "category": "기타",
       "news": [
         {
-          "title": "Enam Daerah di Sulsel Berstatus Awas Bencana, BPBD Beri Atensi Khusus",
-          "url": "https://rakyatsulsel.fajar.co.id/2026/11/18/enam-daerah-di-sulsel-berstatus-awas-bencana-bpbd-beri-atensi-khusus/",
-          "source": "Rakyat Sulsel"
+          "title": "[전문] 김소희 루머 가해자 징역형 “타인 삶 짓밟는 행위, 책임 뒤따라”",
+          "url": "https://sports.donga.com/ent/article/all/20261117/135039372/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "BMKG Peringatkan Hujan Lebat Disertai Petir di 10 Kecamatan Sulawesi Selatan Malam Ini, Mulai Pukul 18.00 WIB",
-          "url": "https://databoks.katadata.co.id/demografi/statistik/b4e5097913d637c/bmkg-peringatkan-hujan-lebat-disertai-petir-di-10-kecamatan-sulawesi-selatan-malam-ini-mulai-pukul-18-00-wib",
-          "source": "Databoks"
+          "title": "\"술집서 일하다 남편 만나\"…앨리스 소희, 소문 유포자 징역 1년 6개월 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111714403611889",
+          "source": "머니투데이"
         },
         {
-          "title": "Wajib Tahu Zona Rawan, Daftar Wilayah di Kota Palopo dengan Potensi Curah Hujan Tertinggi",
-          "url": "https://makassar.kompas.com/read/2026/11/17/203110878/wajib-tahu-zona-rawan-daftar-wilayah-di-kota-palopo-dengan-potensi-curah",
-          "source": "Kompas.com"
+          "title": "\"술집서 15살 연상 남편을…\" 앨리스 소희에 '루머'…잇단 '사이버 악행' 어디까지",
+          "url": "https://economist.co.kr/article/view/ecn202611180027",
+          "source": "이코노미스트"
         }
       ]
     },
@@ -153,18 +212,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-18T12:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYWM8yfAm0-c5AKSLh9lDVogAQ60FffzPQImEu-plZasidP9CsYgNtcaVCrk8",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6-CPAdLQmDdoMgskieqUQx0zoHrnRu8Uk9gLcDvnA_yKdvDg0z8VbPdBeLA",
       "category": "기타",
       "news": [
-        {
-          "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
-          "source": "KBS 뉴스"
-        },
         {
           "title": "누리호가 가리키는 7대 시드의 길[기고/배경훈]",
           "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050513/2",
           "source": "동아일보"
+        },
+        {
+          "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
+          "source": "KBS 뉴스"
         },
         {
           "title": "누리호 5차 발사 성공 최종 확인…위성 1기 미사출 원인은 미궁",
@@ -178,13 +237,13 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-18T12:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsH8z9htcJcr1jYHF4JSZuIATYL1vtg5pfTCK4z5lzu7FR-ox3nA-itQkJ9D0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2v1EzFiumvn2flgD0HoC_CgMxh3a82sVREajvUi9-K0KEGFEZCGXs1iHXbkU",
       "category": "스포츠",
       "news": [
         {
-          "title": "35세 그리에즈만, 4개월 뛰고 MLS 신인왕…14골 8도움",
-          "url": "https://www.yna.co.kr/view/AKR20261118077500007",
-          "source": "연합뉴스"
+          "title": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181347499bG",
+          "source": "연합뉴스TV"
         },
         {
           "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
@@ -192,84 +251,9 @@
           "source": "조선일보"
         },
         {
-          "title": "[오피셜] '35살에 14골 7도움→신인왕 등극' 이강인에게 자리 넘기고 미국으로 향한 그리즈만, 2026 MLS 신인왕 등극",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020491",
-          "source": "SPOTV NEWS"
-        }
-      ]
-    },
-    {
-      "keyword": "gta6 메타",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T11:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkZXhRSdTPFzXiX5x7l2N1WMWxHEyvqUQQU3l1DWuAsY0IBn-HhI_0IArz-7A",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
-          "url": "https://www.khan.co.kr/article/202611180744001",
-          "source": "경향신문"
-        },
-        {
-          "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
-          "url": "https://zdnet.co.kr/view/?no=20261118090703",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
-          "url": "https://stock.mk.co.kr/news/view/1201157",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "sxmb",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T11:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA1DqEHhfxnSOPZSdllbj-Avv8mYTTkWckFr7ZgrYxoIEoi6MNsq7pLGY2EMQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
-          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802699.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
-          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
-          "source": "homeup.vn"
-        },
-        {
-          "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm",
-          "source": "Thanh Niên"
-        }
-      ]
-    },
-    {
-      "keyword": "kick",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T11:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0i6ZLTgdg8ioZjJEqti3Z7K0A5QyXfLTYDJG-mxYGIuEz7spUYOw0A4DwC3I",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
-          "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
-          "source": "About Amazon"
-        },
-        {
-          "title": "Black Friday 2026 is Nov. 27: what forecasters expect shoppers to spend, and where the discounts are",
-          "url": "https://mlq.ai/news/black-friday-2026-is-nov-27-what-forecasters-expect-shoppers-to-spend-and-where-the-discounts-are/",
-          "source": "MLQ.ai"
-        },
-        {
-          "title": "Amazon Offering Early Black Friday Discounts on TVs, Headphones, and Charging Devices",
-          "url": "https://www.macrumors.com/2026/11/17/amazon-black-friday-discounts-on-tvs-headphones/",
-          "source": "MacRumors"
+          "title": "'35세' 그리스만, MLS 신인왕…4개월 뛰고 '14골 8도움'",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873740",
+          "source": "뉴시스"
         }
       ]
     }
