@@ -1,229 +1,250 @@
 {
-  "updatedAt": "2026-11-18T00:59:53.350Z",
+  "updatedAt": "2026-11-18T02:12:59.614Z",
   "summary": [
+    {
+      "category": "IT·과학",
+      "count": 3
+    },
     {
       "category": "기타",
       "count": 3
     },
     {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
       "category": "경제",
       "count": 2
     },
     {
-      "category": "IT·과학",
-      "count": 2
+      "category": "연예",
+      "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "북한산",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T22:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCEGfHJrdQtbIV_q8IBa6NJK-W1PUa3cfdq9Y8yC52T3rJJfQ3gFg_WtX2Eq0",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "모노레일 타고 단풍 구경, 유모차로도 가기 편한 서울 가을 명소 2곳",
-          "url": "https://mediahub.seoul.go.kr/archives/2020060",
-          "source": "내 손안에 서울"
-        },
-        {
-          "title": "비 내리는 북한산둘레길 67㎞…발길마다 늦가을이 머물렀다",
-          "url": "https://www.donga.com/news/Society/article/all/20261115/135028376/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[르포] “멀리 갈 필요 없네”… 서울 단풍길서 만난 늦가을",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3448917",
-          "source": "천지일보"
-        }
-      ]
-    },
-    {
-      "keyword": "상속",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T22:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW_aJHk6naEfkt8q6YWiYvVSO9kKjKoszXv-iKpfat7MLl5cL3QwtNmqd60SM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "안산시, 상하수도료 체납액 집중 징수",
-          "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160287287797498",
-          "source": "시민일보"
-        },
-        {
-          "title": "안산시, 상속·신탁재산 끝까지 추적… 체납 지방세 3억 원 징수",
-          "url": "https://www.dailian.co.kr/news/view/1716401/%EC%95%88%EC%82%B0%EC%8B%9C-%EC%83%81%EC%86%8D%EC%8B%A0%ED%83%81%EC%9E%AC%EC%82%B0-%EB%81%9D-%EC%B6%94%EC%A0%81-%EC%B2%B4%EB%82%A9-%EC%A7%80-2026",
-          "source": "데일리안"
-        },
-        {
-          "title": "수도요금 3번 밀리면 단수… 합천군, 체납 일제정리",
-          "url": "https://www.imaeil.com/page/view/2026111210262946752",
-          "source": "매일신문"
-        }
-      ]
-    },
-    {
-      "keyword": "argentina vs costa rica",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-17T22:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT51hzhczPfMakfhlG07i10I6LmHMo-3M9kZdXRMFYkL6lAA-9ztjgjZA1Pia0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Julián Álvarez disfruta con la camiseta argentina: metió un doblete ante Costa Rica",
-          "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17528102/julian-alvarez-disfruta-camiseta-argentina-metio-doblete-costa-rica",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "Dibu Martínez vuelve a atajar a un mes exacto de su fractura de mandíbula",
-          "url": "https://es-us.noticias.yahoo.com/deportes/dibu-mart%C3%ADnez-vuelve-atajar-mes-230500323.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Los golazos de Nico Paz contra Costa Rica: jugó para un \"10\" y recibió la ovación de bendición de los hinchas en Córdoba",
-          "url": "https://www.clarin.com/deportes/golazos-nico-paz-costa-rica-jugo-10-recibio-ovacion-bendicion-hinchas-cordoba_0_Z3WC38mZvJ.html",
-          "source": "Clarin.com"
-        }
-      ]
-    },
-    {
-      "keyword": "우루과이 대 도미니카 공화국",
+      "keyword": "음료",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-17T23:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkuBIigz7PooHgzwLjBd3gZudXSUI8ZPnGZ0S8mL6bv_vLZQqM154lhGpMgjc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "우루과이 대 도미니카 공화국 경기 예측: 다득점 경기가 예상됩니다.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-uruguay-vs-dominican-republic-hua-hen-man-doi-cong",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "우루과이 vs 도미니카 공화국 생중계: 선발 라인업",
-          "url": "https://www.vietnam.vn/ko/truc-tieptruc-tiep-uruguay-vs-dominican-republic-doi-hinh-xuat-phat",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "앤트로픽 상장",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-17T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZykbSdK1c2NjpZJYzhMcZxnFwGg1gZc0RUlyZOVh4gbjdpaJ6MwkSYGzjETw",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"앤트로픽 매출 2026년 71조원→2030년 676조원 예상\"",
-          "url": "https://www.yna.co.kr/view/AKR20261118028500009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "앤트로픽 공모가, 희망범위 넘을 수도…상장 흥행 조짐 - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/18/2026111806252986659",
-          "source": "머니투데이"
-        },
-        {
-          "title": "AI거품론 무색…앤스로픽 공모주에 6배 넘는 주문 몰려",
-          "url": "https://www.hankyung.com/article/202611173114i",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "록히드 마틴",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf6U4TnVkaNCCZVgNCQL5jANYr6_CZf9l9GX9exnuxLBLqS4TKSPD62LznjFY",
-      "category": "경제",
-      "news": [
-        {
-          "title": "록히드마틴, 韓에 10억달러 투자…\"차세대 헬기 공동 개발하자\"",
-          "url": "https://www.hankyung.com/article/2026111727171",
-          "source": "한국경제"
-        },
-        {
-          "title": "군수 지원서 첨단 무기 공동 개발까지…방산업계, ‘프리덤 250’서 한·미 동맹 미래 그렸다",
-          "url": "https://m.ekn.kr/view.php?key=20261117024181035",
-          "source": "에너지경제신문"
-        },
-        {
-          "title": "스틸 美대사, 한미 法집행기관 협력 당부..안보 협력 일환",
-          "url": "https://www.fnnews.com/news/202611161601185624",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "gpt 6.2",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T23:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvcerzpxhIl7SEw5yprbkeMEQIOgVn_tw8BH0argY1_4PTqhJ8l-iIkZAfuC4",
+      "startedAt": "2026-11-18T00:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk15jlbK_EFXMjFVTGj9fZADJFfN2t0kp8HKaokSatu3g34ETBsCdZfCabcbE",
       "category": "IT·과학",
       "news": [
         {
-          "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available/",
-          "source": "The GitHub Blog"
+          "title": "이마트24, '옐로우' 차음료 2종 출시…헬시 플레저 수요 공략",
+          "url": "https://www.etnews.com/20261118000110",
+          "source": "전자신문"
         },
         {
-          "title": "Astra for Law leads in legal intelligence",
-          "url": "https://openai.com/index/astra-law-6-2/",
-          "source": "OpenAI"
+          "title": "이마트24, '옐로우' 차음료 2종 출시…기능성 차 매출 38.8%↑",
+          "url": "https://www.news1.kr/industry/distribution/6357583",
+          "source": "뉴스1"
         },
         {
-          "title": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release",
-          "source": "Bloomberg.com"
+          "title": "이마트24, 겨울 음료 1000원대로 즐긴다…자허블·배도라지로 상품군 확대",
+          "url": "https://www.newsis.com/view/NISX20261118_0003872444",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "뉴시스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-17T23:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "keyword": "탄약",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T00:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc_gnfw5P3uLPMYwrjp28BqXVmqC0hAMkRRVv2TQGa27otEN3tG1y0_Uz5LGI",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "인니 방산 컨설턴트, KF-21 계약 지연과 풍산 탄약 미납이 양국 신뢰 흔든다고 진단",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180348057973fbbec65dfb_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "KAI, 민항기로 글로벌 시장 진출한다",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=598709",
+          "source": "경남매일"
+        },
+        {
+          "title": "KAI, 인도네시아 PTDI와 항공산업협력 확대…MOU 3건",
+          "url": "https://m.dnews.co.kr/m_home/view.jsp?idxno=202611131459398630961",
+          "source": "대한경제"
+        }
+      ]
     },
     {
-      "keyword": "대학수학능력시험",
+      "keyword": "금양",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T00:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr00PlHbsAhONsT4ETVD45XhPlcCRd8kellBXhfAe8P7fN2EKJH4OKFikfTQ",
+      "category": "경제",
+      "news": [
+        {
+          "title": "금양, 분기보고서 미제출로 상장폐지 사유 추가…가처분 결과까지 절차 보류",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=627441",
+          "source": "CBC뉴스"
+        },
+        {
+          "title": "[상폐 호흡기] 120억 떼먹고 \"할말 없다\"…류광지 금양, 끝없는 추락",
+          "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=884225",
+          "source": "한스경제"
+        },
+        {
+          "title": "피씨엘, 정기보고서 잇단 미제출에도 상장폐지 절차 보류 상태 유지",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16278031",
+          "source": "톱스타뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "변요한",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-17T22:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTk4rV-63rq3On1C7zlB4sAp4mwzYaDWUycagnRu8YFIkGnWPin-TgrLQ2tuvA",
+      "startedAt": "2026-11-18T00:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWC7JBuk9xoOjSpIPS9UD5dTwSX-t9RytlQzuB2Vn-vSA8OZKkHEUQAKgUWbg",
+      "category": "연예",
+      "news": [
+        {
+          "title": "'신혼' 티파니, 변요한 팔짱 끼고 브이…듬직한 남편",
+          "url": "https://www.newsis.com/view/NISX20261117_0003871619",
+          "source": "뉴시스"
+        },
+        {
+          "title": "‘혼인신고만 한’ 변요한♥티파니, 시상식이 결혼식장인 줄…부부 첫 공식활동[Oh!쎈 이슈]",
+          "url": "https://www.koreadaily.com/article/20261115152613295",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "티파니 영, ♥변요한 손 잡은 비하인드컷 \"특별한 순간을 함께할 수 있어 감사\"",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/17/MI4DGNJTG5QTEN3CGJRTOYJWGU/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "argentina đấu với costa rica",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T00:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqUlDNcqs_7e-ZL4DYVsGd1mvGdQvs3OJ51zhrLkbORg2CC7Ftgd9OyMpVOYg",
       "category": "기타",
       "news": [
         {
-          "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450",
-          "source": "대한민국 정책브리핑"
+          "title": "Nico Paz trở thành họng pháo số một của tuyển Argentina",
+          "url": "https://yeuthethao.net.vn/nico-paz-tro-thanh-hong-phao-so-mot-cua-tuyen-argentina-d902936.html",
+          "source": "yeuthethao.net.vn"
         },
         {
-          "title": "수험생 집중력 갉아먹는 건 수면 부족",
-          "url": "https://weekly.donga.com/List/article/all/11/6462856/1",
-          "source": "주간동아"
+          "title": "Argentina tìm thấy lời giải cho bài toán hậu Lionel Messi",
+          "url": "https://bongda.com.vn/argentina-tim-thay-loi-giai-cho-bai-toan-hau-lionel-messi-d855433.html",
+          "source": "bongda.com.vn"
         },
         {
-          "title": "[이도경의 에듀 서치] 유독 지독했던 입시의 시간⋯ 예비 27학번에 보내는 응원",
-          "url": "https://www.kmib.co.kr/article/20261117501974",
-          "source": "국민일보"
+          "title": "Nico Paz và Alvarez cùng lập cú đúp, Argentina hủy diệt Costa Rica",
+          "url": "https://bongdaplus.vn/giao-huu-bong-da/nico-paz-va-alvarez-cung-lap-cu-dup-argentina-huy-diet-costa-rica-5293122611.html",
+          "source": "Tạp chí Bóng đá"
+        }
+      ]
+    },
+    {
+      "keyword": "argentina vs kosta rika",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T00:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gUaJpxHExUiXcBS-oLC5bKPDcMqmLCJM5_GOpOTtw0WdlL4t4SsJT68JKeM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Licensable picture: International Friendly - Argentina v Costa Rica",
+          "url": "https://www.reutersconnect.com/item/international-friendly-argentina-v-costa-rica/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkgxUkQ1VEE",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "‍‍‍$Costa Rica vs Argentina – Argentina vs Costa Rica, Costa Rica vs Argentina – Costa Rica vs Argentina live: Costa Rica vs Argentina...",
+          "url": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=costa-rica-vs-argentina-argentina-vs-costa-14iin",
+          "source": "Comité Asesor de Vacunas de la AEP"
+        },
+        {
+          "title": "[Soccer-Live]@!~Costa Rica vs ArgentinaIn Diretta Streaming",
+          "url": "https://vacunasaep.org/sites/all/libraries/fckeditor/editor/filemanager/browser/default/browser.html?Type=File&CONNECTOR=/%5C/keeplearningeveryday.xyz%2Ffc%2Fconnector.php/&GetFoldersAndFiles=soccer-live-costa-rica-vs-argentinain-diretta-4gco7",
+          "source": "Comité Asesor de Vacunas de la AEP"
+        }
+      ]
+    },
+    {
+      "keyword": "공무원연금공단",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T00:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSV0sFemm_n8CGDLC1fzStGVw4ntFn_yy5pl4p8x2rUQHbGm4SA0-7a9seB8g",
+      "category": "기타",
+      "news": [
+        {
+          "title": "공무원연금공단, 제주 ‘런케이션’ 프로그램 운영",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=847518",
+          "source": "제민일보"
+        },
+        {
+          "title": "공무원연금공단, 임직원 대상 제주4·3 역사·문화 교육 실시...\"지역상생 의식 강화\"",
+          "url": "https://www.thefirstmedia.net/news/articleView.html?idxno=213973",
+          "source": "더퍼스트미디어"
+        },
+        {
+          "title": "공무원 성공적 퇴직 준비·사회 참여 적극 지원",
+          "url": "https://www.jejumaeil.net/news/articleView.html?idxno=406794",
+          "source": "제주매일"
+        }
+      ]
+    },
+    {
+      "keyword": "카르다노",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T00:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi6oG4E65IRihJl8tgUiRKh1vfPQ81af31cKtD37WXBsqvIiwiyFiVvTtnAEA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"내년엔 모두 행복해질 것\"…ADA 95% 폭락에도 카르다노 창업자의 자신감",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715601",
+          "source": "디지털투데이"
+        },
+        {
+          "title": "에이다, 최고가 대비 95%↓…창립자는 \"가격 상승 보장한 적 없어\"",
+          "url": "https://bloomingbit.io/feed/news/124439",
+          "source": "블루밍비트"
+        },
+        {
+          "title": "카르다노(ADA) 0.153달러 지지선 지킬까…ETF 자금 유출·기술주 약세 부담",
+          "url": "https://www.coinreaders.com/270917",
+          "source": "코인리더스"
+        }
+      ]
+    },
+    {
+      "keyword": "메가커피",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeFsvQa_1woXp82oAjdKYfvE6BOe542nmXFvvuFPxHXpLEskn34f4D24ywYPM",
+      "category": "경제",
+      "news": [
+        {
+          "title": "메가MGC커피 “고객센터 위탁업체 해킹…고객 30명 전화번호 유출”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714831",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "코인 거래소 줄줄이 해킹… “외부 수탁사·업무망 관리 강화해야”",
+          "url": "https://biz.chosun.com/stock/finance/2026/11/17/63P64UUNEFFZDCP4DYRZ7QA5WI/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147307",
+          "source": "보안뉴스"
         }
       ]
     },
@@ -241,9 +262,9 @@
           "source": "세계일보"
         },
         {
-          "title": "'AI 커닝' 비상인데 시험 감독 없는 학교? '동문'인 교감에게 물었다",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285844",
-          "source": "OhmyNews"
+          "title": "\"부정의 100점보다\" 시험 전 외친다…70년째 이어온 전통",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851415",
+          "source": "SBS 뉴스"
         },
         {
           "title": "시험 부정행위 논란 속…인천 제물포고 70년째 무감독 시험",
