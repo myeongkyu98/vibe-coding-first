@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-11-18T16:57:59.759Z",
+  "updatedAt": "2026-11-18T17:52:27.422Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     },
     {
@@ -15,10 +23,6 @@
     },
     {
       "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
       "count": 1
     }
   ],
@@ -37,14 +41,14 @@
           "source": "대한민국 정책브리핑"
         },
         {
-          "title": "[신문은 선생님] [뉴스 속의 한국사] 콧속에 사서삼경 숨기고 대나무 관으로 답안 전달했대요",
-          "url": "https://www.chosun.com/national/nie/2026/11/19/O55IUGDKKVAZPFZMBAET2SKNE4/",
-          "source": "조선일보"
-        },
-        {
           "title": "[단독] \"계산기 안에 키보드\" \"쿠팡·알리서 구매\" 세무사 수석 어떻게 뚫었나",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866705_37004.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "서울대, 수시 면접서 ‘일회용 가운’ 입힌다…스마트기기 소지 땐 즉각 부정행위로 간주",
+          "url": "https://www.khan.co.kr/article/202611181805001",
+          "source": "경향신문"
         }
       ]
     },
@@ -53,7 +57,7 @@
       "traffic": "10000+",
       "trafficValue": 10000,
       "startedAt": "2026-11-18T12:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpY7I4LVJtXd5FmOKFDB3FUezLG3r1fe9Dd6y5lqaYRGs6clg33PXjlfwZy14",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqS96eEdmgSvuN-4ugn6FHro1W2jxCZy6e1MDc5rTdhHUFrqGrFEt3X1_Le9U",
       "category": "기타",
       "news": [
         {
@@ -62,9 +66,9 @@
           "source": "한국경제"
         },
         {
-          "title": "佛 대선 1·2위 후보 \"정년 60세로 낮출 것\"… 마크롱 연금 개혁에 반기",
-          "url": "https://www.chosun.com/international/international_general/2026/11/19/CP4WA5FVJBGB5MSHW57VAVTM3E/",
-          "source": "조선일보"
+          "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032",
+          "source": "마켓인"
         },
         {
           "title": "프랑스 극우 르펜도 극좌 멜랑숑도 \"은퇴 60세로 낮추겠다\"",
@@ -78,22 +82,22 @@
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-18T12:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZ3oNRZ6lOZMtiBt3HSLRPd-f2mgvUqIdwMe1hIE_TPCVkCU04a9TxcMc7Ys",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyRfnxT5R2h5Ae8jNH4hF9-_6AMV4Vuw-ZuBxPXggKWXRI-eFs0rGRAgwdFSc",
+      "category": "정치·사회",
       "news": [
+        {
+          "title": "강형욱, 분노 터졌다 “이런 개는 죽어도 돼”…보호자만 16번 물어",
+          "url": "http://www.atstar1.com/news/articleView.html?idxno=6040900",
+          "source": "앳스타일"
+        },
         {
           "title": "[오늘의 채널A] 가족 물어대는 두살 몰티즈, 공존 해결책은",
           "url": "https://www.donga.com/news/article/all/20261117/135042032/2",
           "source": "동아일보"
         },
         {
-          "title": "강형욱, 입질견에 초강수 경고…\"이런 개체는 없어져야\" (개늑시2)",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525234",
-          "source": "iMBC 연예"
-        },
-        {
-          "title": "마음처럼 되지 않는 셀프 훈련에 눈물을 보이는 보호자ㅠㅠ",
-          "url": "https://ichannela.com/program/clip/000000560654.do",
+          "title": "첫 반려견을 불의의 사고로 잃고 새롭게 맞이한 강아지 ’윌리’?! 그런 윌리가 왜 이곳에?!",
+          "url": "https://ichannela.com/program/clip/000000560649.do",
           "source": "채널A"
         }
       ]
@@ -117,9 +121,59 @@
           "source": "브릿지경제"
         },
         {
-          "title": "김명민, '불멸의 이순신'으로 대상 수상 비하인드 \"퍼머를 심하게 하고 갔다\"('유퀴즈')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MJTGGOBQGVSGCOLDGMZTSZRTMY/",
+          "title": "'유퀴즈' 김명민, 동갑 동문 유재석 만나 터진 입담…\"머리털 나고 처음\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111817057240149",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "앙투안 그리즈만",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T12:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2v1EzFiumvn2flgD0HoC_CgMxh3a82sVREajvUi9-K0KEGFEZCGXs1iHXbkU",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181347499bG",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/18/MZSGGYZTGVSWEMRUGFQTENZQGQ/",
           "source": "조선일보"
+        },
+        {
+          "title": "'35세' 그리스만, MLS 신인왕…4개월 뛰고 '14골 8도움'",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873740",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "ps5 pro",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T14:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8AMqKOkopU6mi5ahjy2oGDadqeUTOb08fkwa1HeGMkCIw09-d26qrtECsl7s",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+          "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
+          "source": "Wccftech"
+        },
+        {
+          "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
+          "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
+          "source": "Digital Foundry"
+        },
+        {
+          "title": "Lucia Caminos in Grand Theft Auto VI at 4K with DLSS 5 and MFG 6X at 280 FPS on an RTX 5090",
+          "url": "https://en.gamegpu.com/news/igry/lyusiya-kaminos-v-grand-theft-auto-vi-v-4k-s-dlss-5-i-mfg-6x-pri-280-fps-na-rtx-5090",
+          "source": "GameGPU"
         }
       ]
     },
@@ -176,9 +230,9 @@
           "source": "머니투데이"
         },
         {
-          "title": "\"술집서 15살 연상 남편을…\" 앨리스 소희에 '루머'…잇단 '사이버 악행' 어디까지",
-          "url": "https://economist.co.kr/article/view/ecn202611180027",
-          "source": "이코노미스트"
+          "title": "김소희, 유흥업소 루머 유포자 상대로 승소 \"징역 1년 6개월…경각심 일깨우는 계기 되길\"",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/GM2WKNRQGJRGEZRTGY3TMZDFHE/",
+          "source": "Chosunbiz"
         }
       ]
     },
@@ -204,56 +258,6 @@
           "title": "누리호 5차 발사 성공 최종 확인…위성 1기 미사출 원인은 미궁",
           "url": "https://www.yna.co.kr/view/AKR20261118110600017",
           "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "앙투안 그리즈만",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T12:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2v1EzFiumvn2flgD0HoC_CgMxh3a82sVREajvUi9-K0KEGFEZCGXs1iHXbkU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181347499bG",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/18/MZSGGYZTGVSWEMRUGFQTENZQGQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'35세' 그리스만, MLS 신인왕…4개월 뛰고 '14골 8도움'",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873740",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "ps5 pro",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T14:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuD9cClxL--xDxwvoubUcC1azArHMmNMr7jhsqg_-kbZnun03z8U4JtstG8mU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "PlayStation 5 — GTA 6 Launch Triggers Global Console Shortages",
-          "url": "https://en.koreadaily.com/playstation-5-gta-6-launch-shortages/",
-          "source": "The Korea Daily"
-        },
-        {
-          "title": "GTA VI Stresses Out the Base PS5, and the PS5 Pro Is Suddenly Hard to Find",
-          "url": "https://www.vice.com/en/via/ps5-pro-for-gta-vi/",
-          "source": "VICE"
-        },
-        {
-          "title": "GTA 6 release sparks massive boom in Xbox and PS5 sales",
-          "url": "https://www.independent.co.uk/tech/gta-6-ps5-xbox-buy-release-b3087314.html",
-          "source": "The Independent"
         }
       ]
     }
