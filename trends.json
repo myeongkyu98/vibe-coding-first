@@ -1,59 +1,213 @@
 {
-  "updatedAt": "2026-11-18T11:54:31.738Z",
+  "updatedAt": "2026-11-18T12:59:40.386Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 6
     },
     {
       "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "count": 4
     }
   ],
   "items": [
     {
-      "keyword": "축산신문",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T09:20:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "보험 사기",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxoBZ5QDDjX09DSuKntoCkCgV5m7PJroCzPVoWJ3x-Lvk5ctQSgo6VkhCfIs",
-      "category": "정치·사회",
+      "keyword": "gta6 메타 크리틱",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-18T11:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "전동킥보드로 80번 고의 사고‥금감원 \"車 보험사기 주의\"",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6866620_36932.html",
-          "source": "MBC 뉴스"
+          "title": "‘GTA 6’ 예약판매량 1500만장…콘솔게임 시장 살리나",
+          "url": "https://www.khan.co.kr/article/202611182036015",
+          "source": "경향신문"
         },
         {
-          "title": "음주 차량 노려 ’쾅’…보험금 노린 위험한 질주",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118201308RHc",
-          "source": "연합뉴스TV"
+          "title": "[리뷰] 드디어 나온 'GTA 6' 락스타는 게임이 아닌 세계를 빚어냈다",
+          "url": "https://www.thisisgame.com/articles/432817",
+          "source": "디스이즈게임"
         },
         {
-          "title": "킥보드로 80차례 고의 충돌, 음주운전 차량까지 노렸다…교묘해지는 자동차 보험사기",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/18/RESGRP25ZFAOBOIQRVXJ274DNA/",
-          "source": "조선일보"
+          "title": "GTA 6 하려고 회사 쉰다?…직장인들을 위한 '장례식'",
+          "url": "https://www.etnews.com/20261117000373",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "cuaca besok",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T11:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxs9p9n-F_3N_18OpuQE8iVpY6Cz_44FL3JKi6SHwG3b8oex_5DKBAdhwpqKo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "BMKG Ungkap 34 Wilayah Indonesia Berpotensi Diguyur Hujan Hari Ini",
+          "url": "https://www.cnnindonesia.com/teknologi/20261117205536-641-1428298/bmkg-ungkap-34-wilayah-indonesia-berpotensi-diguyur-hujan-hari-ini",
+          "source": "CNN Indonesia"
+        },
+        {
+          "title": "Waspada Cuaca Ekstrem Akhir Tahun! BMKG Sebut Siklon AKVAN, MJO, dan Monsun Asia Picu Hujan Lebat",
+          "url": "https://www.kompas.tv/info-publik/702326/waspada-cuaca-ekstrem-akhir-tahun-bmkg-sebut-siklon-akvan-mjo-dan-monsun-asia-picu-hujan-lebat",
+          "source": "Kompas.tv"
+        },
+        {
+          "title": "Tenang Berkendara Saat Hujan Deras dengan Checklist SIAP BERKENDARA!",
+          "url": "https://oto.detik.com/advertorial-news-block/d-8757081/tenang-berkendara-saat-hujan-deras-dengan-checklist-siap-berkendara",
+          "source": "detikOto"
+        }
+      ]
+    },
+    {
+      "keyword": "유칼",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T10:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQHbTaQIU7upJtuBMQHVm3BX7Hh0m8epZdF05-Rr4sPVhdjs0HwlFGsLdUJ8o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
+          "url": "https://www.koreadaily.com/article/20261118031442027",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "'커즈' 문우찬, DN 수퍼스 복귀⋯\"월즈 진출해 좋은 성적 내고 싶다\" [공식]",
+          "url": "https://www.etoday.co.kr/news/view/2649574",
+          "source": "이투데이"
+        },
+        {
+          "title": "'유칼' 손우현, 2027 LCK 시즌 DN 수퍼스 합류",
+          "url": "https://www.sheepesports.com/kr/articles/ucal-joins-dn-soopers-for-the-2027-lck-season/kr",
+          "source": "Sheep Esports"
+        }
+      ]
+    },
+    {
+      "keyword": "twitch",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T11:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbtpO_dfiMRFQhKvZroYWuSH5hpURQG_pdWSmpkpOzBgkmRf6--el6WniArFI",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
+          "url": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
+          "source": "NBC News"
+        },
+        {
+          "title": "OpenAI booth draws criticism at TwitchCon over AI’s role in creative work",
+          "url": "https://mezha.net/eng/news/mezha-1faf375a815f4ed495df72e9_openai_booth_draws/",
+          "source": "Mezha.net"
+        },
+        {
+          "title": "OpenAI TwitchCon 2026 controversy explained: Why streamers are angry over AI training",
+          "url": "https://www.geo.tv/latest/691658-openai-twitchcon-2026-controversy-explained-why-streamers-are-angry-over-ai-training",
+          "source": "Geo News"
+        }
+      ]
+    },
+    {
+      "keyword": "sxmb",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T11:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAoTuMOq8kYYMdZes4VUb3rZp-GMCKT01_QMxP6YpSU23h7745B_HvEmQtRXk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
+          "source": "homeup.vn"
+        },
+        {
+          "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
+          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm",
+          "source": "Thanh Niên"
+        },
+        {
+          "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
+          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802700.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "삼양식품",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T11:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_O6Ujn2cNHsaJ9ng3jv4eFJsGvoJ8h5gEuB2BPfMBtVGBgzoQRmZ8COmwAe8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“100일 만에 1000만개 판매”…삼양식품 '짜르르', 코스트코 전국 입점",
+          "url": "https://www.etnews.com/20261118000405",
+          "source": "전자신문"
+        },
+        {
+          "title": "[똑똑한한끼] 삼양식품 짜르르 코스트코 입점, 롯데관광개발 흑돼지 자장면 세트…대상웰라이프·잠바·페르노리카",
+          "url": "https://m.ekn.kr/view.php?key=20261118023231648",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "삼양식품, 우지 짜장라면 ‘짜르르’ 코스트코 전국 매장서 선봬",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3449887",
+          "source": "천지일보"
+        }
+      ]
+    },
+    {
+      "keyword": "gta5",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T11:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJIQjTbKuXaWXwgZeqVko85hFmnvC7iz5s8M-rdSwsFzO9TNQdAuI1Kec9xFQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "GTA 5 Last Ride Community Event Leads to Emotional Goodbyes From Fans After 13 Years of Mayhem",
+          "url": "https://www.ign.com/articles/gta-5-fans-make-one-last-emotional-ride-through-los-santos-before-heading-to-vice-city",
+          "source": "IGN"
+        },
+        {
+          "title": "Grand Theft Auto fan is organizing an in-game ‘Last Ride’ event in GTA Online ahead of GTA 6’s release",
+          "url": "https://massivelyop.com/2026/11/16/grand-theft-auto-fan-is-organizing-an-in-game-last-ride-event-in-gta-online-ahead-of-gta-6s-release/",
+          "source": "Massively Overpowered"
+        },
+        {
+          "title": "Fear And Loathing In Los Santos: How It Feels To Leave GTA 5 Behind",
+          "url": "https://www.gamespot.com/articles/fear-and-loathing-in-los-santos-how-it-feels-to-leave-gta-5-behind/",
+          "source": "GameSpot"
+        }
+      ]
+    },
+    {
+      "keyword": "국제신문",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T11:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgaBFW_7bL57yY0UKtnQgrQsFwBL_kqzwt919LhesLKc6oVNyRIaDoE8OVoA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "소각장 멈추면 쓰레기 대신 처리…부산·김해시 손 잡았다",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.22006005238",
+          "source": "국제신문"
+        },
+        {
+          "title": "부산시*경남 김해시 폐기물 교차 소각 추진",
+          "url": "https://news.knn.co.kr/news/article/194487",
+          "source": "부산경남대표방송 KNN 뉴스"
+        },
+        {
+          "title": "부산시·김해시, 폐기물 교차소각 협약 추진…연간 3천t씩 처리",
+          "url": "https://www.yna.co.kr/view/AKR20261113137300051",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -83,176 +237,26 @@
       ]
     },
     {
-      "keyword": "유칼",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T10:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQHbTaQIU7upJtuBMQHVm3BX7Hh0m8epZdF05-Rr4sPVhdjs0HwlFGsLdUJ8o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
-          "url": "https://www.koreadaily.com/article/20261118031442027",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "'커즈' 문우찬, DN 수퍼스 복귀⋯\"월즈 진출해 좋은 성적 내고 싶다\" [공식]",
-          "url": "https://www.etoday.co.kr/news/view/2649574",
-          "source": "이투데이"
-        },
-        {
-          "title": "'유칼' 손우현, 2027 LCK 시즌 DN 수퍼스 합류",
-          "url": "https://www.sheepesports.com/kr/articles/ucal-joins-dn-soopers-for-the-2027-lck-season/kr",
-          "source": "Sheep Esports"
-        }
-      ]
-    },
-    {
-      "keyword": "이정재",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T09:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHWDCsDdN8SptI_hsCRzF2U_dP773C4cj9aGadlzkLjJzCcmN7PH4T6eDJrhk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "200억 벌어도 회사엔 4억만?…이정재 '10대 0' 계약 파장",
-          "url": "https://www.hankyung.com/article/202611185076H",
-          "source": "한국경제"
-        },
-        {
-          "title": "'최대주주 특혜 논란' 아티스트컴퍼니 측 \"이정재만 9대1? 떠난 정우성도 동일 조건\"",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852239",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "이정재 200억 벌면 회사 몫 4억?…아컴 측 \"정우성도 같은 조건\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03965526645647032",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "ces",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T09:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC1pxispblLg_3j1ZvOLaDyKwvHGgNEYTTjUOqSLVtWxRebnfxPrOmeepmX1c",
-      "category": "기타",
-      "news": [
-        {
-          "title": "SDVerse named CES Innovation Awards 2027 Honore...",
-          "url": "https://pluang.com/en/news-feed/sdverse-penerima-penghargaan-ces-innovation-2027-pasar-perangkat-lunak-otomotif",
-          "source": "Pluang"
-        },
-        {
-          "title": "SDVerse Named CES Innovation Awards® 2027 Honoree",
-          "url": "https://markets.businessinsider.com/news/stocks/sdverse-named-ces-innovation-awards-2027-honoree-1036778483",
-          "source": "markets.businessinsider.com"
-        },
-        {
-          "title": "Heru PretestPro™ Named CES® Innovation Awards 2027 Honoree as Heru Surpasses 2 Million Eyes Tested",
-          "url": "https://finance.yahoo.com/healthcare/articles/heru-pretestpro-named-ces-innovation-123000552.html",
-          "source": "Yahoo Finance"
-        }
-      ]
-    },
-    {
-      "keyword": "sri lanka vs pakistan",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T09:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn49mf2N4D5nmIg-V5_-PPeIWw9RdBy1dGCzSijmXkQso09oaYNXYFmBZPwqA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "A morning that reminded Pakistan of what they once were",
-          "url": "https://www.cricinfo.com/story/pak-vs-sl-2ndtest-rawalpindi-a-morning-that-reminded-pakistan-of-what-they-once-were-1562980",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Pakistan's Saqib Khan in action on day two against Sri Lanka",
-          "url": "https://en.yenisafak.com/sports/pakistans-saqib-khan-in-action-on-day-two-against-sri-lanka-3725716",
-          "source": "Yeni Safak English"
-        },
-        {
-          "title": "PAK vs SL, 2nd Test Day 2 LIVE updates: Latest scores, ball-by-ball commentary",
-          "url": "https://sportstar.thehindu.com/cricket/pakistan-vs-sri-lanka-pak-sl-2nd-test-day-2-live-updates-commentary-scores/article71714752.ece",
-          "source": "Sportstar"
-        }
-      ]
-    },
-    {
-      "keyword": "포스코노동조합",
+      "keyword": "gta6 출시",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-18T10:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGgan-sjERFs7ek-ZueMgJ53q4v-gNPpktEADyqD2WR-tPb8ywMSGyAkPGpQ8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "포스코 노사, 임단협 돌파구 찾나…포스코, 노조에 대화 요청",
-          "url": "https://www.etnews.com/20261117000252",
-          "source": "전자신문"
-        },
-        {
-          "title": "포스코 노사, 총파업 앞두고 '막판 담판'…이희근 대표 대화 요청",
-          "url": "https://zdnet.co.kr/view/?no=20261117142359",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "“거대 산별 정치 투쟁과 조합비 상납 끝냈다…현장 중심 진짜 노동운동 길 열 것”",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194181",
-          "source": "주간한국"
-        }
-      ]
-    },
-    {
-      "keyword": "미래에셋생명",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T10:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCnTcHlaPNAlnJXMCGXF0Ih6B_nOhBUTWCojPn3hFRZ1OfE14RwapsAp272Q",
-      "category": "경제",
-      "news": [
-        {
-          "title": "미래에셋생명 해킹 유출 1만 명 넘어‥스트리미 2천 명으로 늘어",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6866619_36932.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "미래에셋생명 해킹 피해 1만명 넘어…피해 규모 추가 확인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03863846645647032",
-          "source": "마켓인"
-        },
-        {
-          "title": "미래에셋생명 개인정보 유출 규모 1만418명... 금융당국 신고",
-          "url": "https://www.boannews.com/news/articleView.html?idxno=147356",
-          "source": "보안뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "게임대상",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T09:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGpLOojbEul9wElIO6hTP8QTL7VhAkAVdA7G-ZCf9v0FHjzppohysrU2iyE8M",
+      "startedAt": "2026-11-18T11:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkZXhRSdTPFzXiX5x7l2N1WMWxHEyvqUQQU3l1DWuAsY0IBn-HhI_0IArz-7A",
       "category": "IT·과학",
       "news": [
         {
-          "title": "펄어비스 '붉은사막', 대한민국 게임대상 8관왕‥역대 최다",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866685_36918.html",
-          "source": "MBC 뉴스"
+          "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
+          "url": "https://www.khan.co.kr/article/202611180744001",
+          "source": "경향신문"
         },
         {
-          "title": "[포토] 최우수상 수상한 엔씨",
-          "url": "https://www.etnews.com/20261118000487",
-          "source": "전자신문"
+          "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
+          "url": "https://zdnet.co.kr/view/?no=20261118090703",
+          "source": "지디넷코리아"
         },
         {
-          "title": "'붉은사막' 대한민국 게임대상 석권…'아이온2'도 수상(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261118164651017",
+          "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
+          "url": "https://www.yna.co.kr/view/AKR20261118015500017",
           "source": "연합뉴스"
         }
       ]
