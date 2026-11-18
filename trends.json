@@ -1,271 +1,275 @@
 {
-  "updatedAt": "2026-11-18T20:49:12.007Z",
+  "updatedAt": "2026-11-18T21:47:15.973Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 4
-    },
-    {
       "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "count": 5
     },
     {
       "category": "정치·사회",
       "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼전 닉스",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-18T19:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmvooY-7TlTd32XkKDCnieapvrRbKWAuRPJb5bnWGFgNKBJX_JkqG9DFbPzdI",
+      "keyword": "한화 이글스",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-18T20:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNLTWxBtmljRpkyueiE2g8mEt-sNynXQDysmwOshtdtTGB1Yi0MSNijv4Cedg",
       "category": "경제",
       "news": [
         {
-          "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
-          "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih",
-          "source": "네이버 프리미엄콘텐츠"
+          "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
-          "source": "머니투데이"
+          "title": "한화 전방위 투자, FA만 하는 게 아니다… 이렇게 팍팍 밀어주는데 성적 나야 한다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020374",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261118045151008",
-          "source": "연합뉴스"
+          "title": "한화 78억 투자, 이제는 웃을 수 있나… 2년간 2승 악몽 털어낸다, 류지현 구상은 어떻게 되나",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020171",
+          "source": "SPOTV NEWS"
         }
       ]
     },
     {
-      "keyword": "한화오션",
+      "keyword": "롯데 자이언츠",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-18T18:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjBkYCbdW74gszYdh-6cSJNpAlqPBq_2y_43g2qc-w1gqwMNDFMH77-6gHwl4",
+      "startedAt": "2026-11-18T20:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9Z4EeMGxDnDI6pzwBFTuMkNRID5aOajpwFva2gaif5Z4hKxcn7oL9e-JFOt0",
       "category": "기타",
       "news": [
         {
-          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-          "url": "https://www.yna.co.kr/view/AKR20261118170400704",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
+          "title": "롯데 한동희, 중수골 골절…\"회복까지 6주 소요\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118232110Z1r",
           "source": "연합뉴스TV"
         },
         {
-          "title": "평택함 한화오션에서 진수",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
-          "source": "뉴시스"
+          "title": "롯데 캠프에 충격 비보…'리틀 이대호' 4번타자 골절 날벼락, '4일 150구' 국대 필승조 듀오 괜찮을까 [오!쎈 미야자키]",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/18/GA4TKMJWGVSGGMJSGU4WEMJVMU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "뼈에는 이상 없다더니…APBC 다녀온 롯데 한동희, 귀국 후 검진 결과 우측 중수골 골절 진단 ‘회복까지 6주 ...",
+          "url": "https://sports.khan.co.kr/article/202611181715003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "기인",
+      "keyword": "택시",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-18T16:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYbL7ItveUlGJ2u1Ksk48vf2cUOmsYMMyEeqPSCI79fCYUO2wIcDr0noAHTU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
-          "url": "https://www.kmib.co.kr/article/20261119500020",
-          "source": "국민일보"
-        },
-        {
-          "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
-          "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
-          "source": "중부매일"
-        },
-        {
-          "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816",
-          "source": "진일보 | 전남일보"
-        }
-      ]
-    },
-    {
-      "keyword": "무역수지",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T19:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs0bhyTZqVhmdhRe0yGAhaaow1QnPtk9zZNiWrnZDTRK-ILGk1E0cCQH8zoTE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "수출 최전선인 인천신항 방문 - 사진 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74341&pageIndex=1",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "다음 과제는 시장 다변화… 美-中 넘어 ‘글로벌 사우스’로 넓혀야",
-          "url": "https://www.donga.com/news/Economy/article/all/20261118/135043055/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "세계 4번째 수출 1조달러 초읽기…돼지털 팔던 나라의 기적",
-          "url": "https://www.yna.co.kr/view/AKR20261117142400003",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김정은",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T17:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8L4AWaDtGFvtLZOntA6P6bNU_84kl2fGC7wb3YpYPKGRONI0eQV4mTcB05To",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
-          "url": "https://www.yna.co.kr/view/AKR20261118159000083",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
-          "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "[경향의 눈]미 중간선거 이후 북·미, 그리고 한국",
-          "url": "https://www.khan.co.kr/article/202611182009025",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "자영업",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T18:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaUajfa5rrSf4G6rzxZsDkFEt2yIHqSwtURqVn0OLwN-y02aX7-csKGa_jB_M",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
-          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808",
-          "source": "울산종합일보"
-        },
-        {
-          "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072977",
-          "source": "경상일보"
-        },
-        {
-          "title": "이은주 울산시의원 “골목상권 소상공인 자생력 향상 방안 적극 추진해야”",
-          "url": "http://www.ujeil.com/news/articleView.html?idxno=395520",
-          "source": "울산제일일보"
-        }
-      ]
-    },
-    {
-      "keyword": "승리",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T17:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRkQ0QndbJbwvtUbGfwPm_blE-2YDEryvZDuoJDg83Tn0FkbogPSM3ZX5IehU",
+      "startedAt": "2026-11-18T20:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SJlmmMGLWjv5NQWK6joT4cC6u9vfsFrIoKPoGxHTzWsiaH25gG8kS-tdOc8",
       "category": "기타",
       "news": [
         {
-          "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
-          "source": "TV조선뉴스"
+          "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
+          "source": "주간조선"
         },
         {
-          "title": "승리 '임신한 부인과 함께 귀국'",
-          "url": "https://www.mt.co.kr/photo/202611182305239152",
-          "source": "머니투데이"
+          "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611180100121320011250",
-          "source": "스포츠조선"
+          "title": "요금 더 내고 간 승객에 전화해 돈 돌려준 택시 기사",
+          "url": "https://www.koreadaily.com/article/20261117072332525",
+          "source": "미주중앙일보"
         }
       ]
     },
     {
-      "keyword": "한화생명",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T17:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoqXur8yjcKvfUax1rExPH8pKwInkGLBHQwF6-cqW3CMghnxO6pbQO-jpL_Lc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "'350조 운용' KIC 차기 CIO에 신민식…다음주 초 인사 발표",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=03178326645647032",
-          "source": "마켓인"
-        },
-        {
-          "title": "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식",
-          "url": "https://view.asiae.co.kr/article/2026111818335608440",
-          "source": "아시아경제"
-        },
-        {
-          "title": "KIC 신임 CIO에 신민식·COO에 신용선 내정",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445349",
-          "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "한화",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T17:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQu6nf7JVk7OVlTPixZiuetPUAgjhqLeK7R5-xz6YOT2kWBsTbHk6aX5n3NHTc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
-          "url": "https://v.daum.net/v/1WNhADiPof",
-          "source": "Daum"
-        },
-        {
-          "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
-          "url": "https://dealsite.co.kr/articles/172804",
-          "source": "딜사이트"
-        },
-        {
-          "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
-          "source": "마켓인"
-        }
-      ]
-    },
-    {
-      "keyword": "한화생명 e스포츠",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T16:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HNXbizypqSvlKZ88Pm3imayfgoCOSuOp3Nj0FqFM4y13MZqMfm2ERpZjhI4",
+      "keyword": "김상식",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-18T20:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG5z-dJtDWVkrML9yOTJI1vT4TEqkIgGg6r4r-6agaKmLbvNOG9Qz5eD1darQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "[오피셜] '옴므' 떠난 한화생명, '모글리' 이재하 감독 승격",
-          "url": "https://www.koreadaily.com/article/20261117145658079",
-          "source": "미주중앙일보"
+          "title": "'4명 두 자릿수 득점' 프로농구 삼성, 단독 1위로 휴식기 맞이",
+          "url": "https://www.yna.co.kr/view/AKR20261118185700007",
+          "source": "연합뉴스"
         },
         {
-          "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
-          "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27",
-          "source": "데일리e스포츠"
+          "title": "'삼성은 선두 굳히고, 신한은행은 3초의 기적 썼다' LG 94-88 제압, KB스타즈 62-61 역전승 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/202611190009777279O",
+          "source": "머니투데이"
         },
         {
-          "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
-          "source": "STN SPORTS"
+          "title": "[현장인터뷰]'국가대표 배출' 김상식 감독 \"지도자로서 뿌듯\" vs '부상 병동' 조상현 감독 \"마레이 치골 염증, 경기 양상 봐야한다\"",
+          "url": "https://www.chosun.com/sports/basketball/2026/11/18/GQ2DEYRQMVTGKZBUHBQWKNZZMM/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "미사일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T20:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJocs55IWzQxDzpf_QOmJ0KAbtMI_3d7HZxU-g_603dAWAwcMZHYt_dvrBRtc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "젤렌스키 “러, 북한 미사일 의존…우크라이나에 무기·기술 지원 정당”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715628",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+          "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "미·중·러 회담 앞두고 북·러 밀착 강조한 젤렌스키⋯ 美·유럽, 우크라 작전 놓고 공개 충돌",
+          "url": "https://www.kmib.co.kr/article/20261118501969",
+          "source": "국민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "레인보우로보틱스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T19:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoOkXax_XcbGcYGdA7v8e8OORPaz0CfT6Af5tWN1c0WUGl_MrRFXoOd8JzAQ",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "아틀라스 이어 또 CES 주인공?…급등한 로봇주, 더 오를까",
+          "url": "https://www.hankyung.com/article/202611185064i",
+          "source": "한국경제"
+        },
+        {
+          "title": "[종목상담 주식민원처리반] 삼성전자와 휴머노이드 공동개발 모멘텀 '레인보우로보틱스' - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/18/2026111818287034428",
+          "source": "머니투데이"
+        },
+        {
+          "title": "미라콤아이앤씨, 레인보우로보틱스와 제조 RX 사업 확대 맞손",
+          "url": "https://zdnet.co.kr/view/?no=20261118104941",
+          "source": "지디넷코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "채무",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSE7NYPZtmIrrKhF6hmkSulcFfJ1MFI6lfhiqG_XaS_e9bGR27H-oM0s9_KXz0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "중앙일보, 1370억원 공모채 채무조정안 모두 가결… 매각 작업 탄력",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/TAU5FXBYMZHIDLLFDWUUW6HBK4/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "인지디스플레, 계열사 넥스플러스에 132억원 채무보증 결정",
+          "url": "https://www.datatooza.com/article/20261117151927849652ef3f6da6_80",
+          "source": "데이터투자"
+        },
+        {
+          "title": "인지디스플레, 넥스플러스 채무보증 132억원으로 감액 연장",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=407441",
+          "source": "비건뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김건희",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T20:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSui3yiEEPvSnI17jMyLXFkq74So9jK1q-H1JIRt7xroElSzl_Qe8db_QR_KOA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "한덕수 대법 선고 D-1···“12·3은 내란” 여부 첫 판단 나온다",
+          "url": "https://www.khan.co.kr/article/202611181655001",
+          "source": "경향신문"
+        },
+        {
+          "title": "’한덕수 내란·김건희 3대 의혹’…오늘 나란히 대법 선고",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119044431Z5i",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "조국혁신당 경기도당 “19일 본회의서 민주유공자법 반드시 처리해야”",
+          "url": "https://www.kyeonggi.com/article/20261118580085",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이재명",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T20:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT18YzhUvznoodQbqV0TH8cd_Cx1tXeeW5m1-Eevu2bsexh5pfHM003Aom0fFA",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "1년 대기가 기본, 신청 못하는 지원금... 다문화 혜택의 실상",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285398",
+          "source": "OhmyNews"
+        },
+        {
+          "title": "'내국인 역차별'의 의제화, 이재명 대통령의 의도는?[숫자로 본 대한민국]",
+          "url": "https://www.hankookilbo.com/news/article/A2026111812590002443",
+          "source": "한국일보"
+        },
+        {
+          "title": "‘보수 의제’ 사회·문화로 확장하는 이 대통령…독될까 약될까",
+          "url": "https://weekly.khan.co.kr/article/202611170600001",
+          "source": "주간경향"
+        }
+      ]
+    },
+    {
+      "keyword": "김해국제공항",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T19:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTU-1S7QA09SmAI3tgUcEISOrC7VQE07ZeGknVILq3XW-15y7p5Yn9-bR6p_U",
+      "category": "기타",
+      "news": [
+        {
+          "title": "새 쫓으랬더니 ‘낮잠·유튜브’…김해공항 무더기 징계 뒤 또 해임",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716264",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "엽총탄 소지에 공포탄 발사까지…기강 해이 심각",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716345",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "‘조류 퇴치’ 총기 출고 전 음주 감지…동료 향해 공포탄까지",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716416",
+          "source": "KBS 뉴스"
         }
       ]
     }
