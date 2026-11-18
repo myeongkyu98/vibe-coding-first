@@ -1,271 +1,255 @@
 {
-  "updatedAt": "2026-11-18T03:50:32.837Z",
+  "updatedAt": "2026-11-18T04:55:04.362Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
-    },
-    {
       "category": "기타",
-      "count": 3
+      "count": 6
     },
     {
-      "category": "경제",
+      "category": "연예",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "삼전닉스",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-18T01:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM1wUsvWPl0uiqGHCj8DTd1-tsdCD6Rdya7A0MoiJDieammttA21SaIxP2Ce0",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[속보]코스피 다시 5000선 하회, 하루 만에 4000대로 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/18/2026111810424711532",
-          "source": "머니투데이"
-        },
-        {
-          "title": "엔비디아 훈풍에…코스피 5,000선 탈환",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118102206Qaf",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "상승 개장한 국내 증시",
-          "url": "https://www.newsis.com/view/NISI20261118_0021536475",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "혈당",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-18T02:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUD4ILz0capHNJea1CbQslqxuMvI8xB4gpzjmMR2dLfuFfUY7seNp56bTRMj8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "당뇨병 환자들, 혈당 데이터 통제권 강화 요구…국제 디지털 권리 헌장 발표",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625863",
-          "source": "메디컬투데이"
-        },
-        {
-          "title": "단 한 끗 차이로 '정상'·'전당뇨' 나뉜다?…알쏭달쏭 혈당 수치의 진실",
-          "url": "https://www.koreahealthlog.com/news/articleView.html?idxno=59997",
-          "source": "코리아헬스로그"
-        },
-        {
-          "title": "\"갑자기 혈당 확 오르다면\"…생존율 최악 '이 암'?",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871362",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "한화 이글스",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-18T01:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNLTWxBtmljRpkyueiE2g8mEt-sNynXQDysmwOshtdtTGB1Yi0MSNijv4Cedg",
+      "keyword": "국제 a 매치",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-18T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWj7lWKpOifX77DK1rgfKKeS7ktpl1L2txaHP-7UAVqtt5AU1OMPPqz-qSHH4",
       "category": "스포츠",
       "news": [
         {
-          "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "류지현 감독의 생각을 깬 한화 선수가 있다! → 도대체 누구야 \"솔직히 열정적으로 하는 선수로 보이지는 않았다\"",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/18/GU2DGZLFGRTGIYJSMY2TGNRYMM/",
+          "title": "축구 A매치에서 \"대~한민국\" 구호가 사라졌다",
+          "url": "https://www.chosun.com/sports/football/2026/11/18/PEHQPEUKWNCQFIKOJ6PWL4TNUQ/",
           "source": "조선일보"
         },
         {
-          "title": "'한화 최초 GG 2루수' 성실함에 신임 감독 놀랐다…\"들어와서 보니 내 생각을 깼다\"→日 코치들 호평까지, 부활 시동 걸었다 [미야자키 현장]",
-          "url": "https://www.xportsnews.com/article/2220164",
-          "source": "엑스포츠뉴스"
+          "title": "한국 축구, 올해 A매치 '승률 46.2%'…2019년 이후 최저",
+          "url": "https://www.news1.kr/sports/soccer/6357921",
+          "source": "뉴스1"
+        },
+        {
+          "title": "[데스크 시각] 축구협회에 ‘농협룰’ 가져온 문체부",
+          "url": "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/11/16/20261116027008",
+          "source": "서울신문"
         }
       ]
     },
     {
-      "keyword": "10억",
+      "keyword": "영화",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-18T02:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT66BOCS5fOaimda-Xs2X05Qt5wEZ2x2QxsBgH0pEP96szWcAJLm7xTrnrqiMc",
-      "category": "경제",
+      "startedAt": "2026-11-18T03:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLW-w9KiFsarsyTTxq4fLxZTy2Q7u8pUPQILB2FnnBlo_FMaNfrX8Q6r-rxJ4",
+      "category": "연예",
       "news": [
         {
-          "title": "'아빠, 이 집 나 줄 거지?'…10억 있는 3040 부모들 '뜻밖의 대답'",
-          "url": "https://www.hankyung.com/article/2026111727421",
-          "source": "한국경제"
+          "title": "CGV, 11월 기술 특별관 라인업 공개…공연 실황·애니메이션·스릴러 등 6편 – CJ 뉴스룸",
+          "url": "https://cjnews.cj.net/cgv-11%EC%9B%94-%EA%B8%B0%EC%88%A0-%ED%8A%B9%EB%B3%84%EA%B4%80-%EB%9D%BC%EC%9D%B8%EC%97%85-%EA%B3%B5%EA%B0%9C%EA%B3%B5%EC%97%B0-%EC%8B%A4%ED%99%A9%C2%B7%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4/",
+          "source": "CJ 뉴스룸"
         },
         {
-          "title": "자산 30억 넘는 3040 절반 이상 “현금·부동산 이미 물려받았다”",
-          "url": "https://www.khan.co.kr/article/202611171102001",
-          "source": "경향신문"
+          "title": "임영웅 고양 콘서트, 스크린으로 만난다",
+          "url": "https://www.seoul.co.kr/news/life/pop-culture/2026/11/18/20261118500068",
+          "source": "서울신문"
         },
         {
-          "title": "\"자녀 성인 되기 전에 물려주겠다\"…유자녀 3040 자산가 40%, '조기 증여' 원해",
-          "url": "https://www.fnnews.com/news/202611180851556738",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "선수",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-18T02:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoO9GQvIYPs1KwlMnNP4LfLSA8pHvGiYhNm1Be7PGEJCrlC5lAAcYfD8Zy1c0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "러시아 피겨 선수 7명, 핀란드 입국 금지로 그랑프리 출전 무산",
-          "url": "https://www.yna.co.kr/view/AKR20261118082900007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "캐나다 세계 주니어 선수권대회에서 러시아가 배제된 뒤 해킹 보도…IIHF 웹사이트 접속 불가",
-          "url": "https://mezha.net/ko/news/mezha-ee3b03f57aa84a08d430dc88_iihf-website-offline-after-reported-hack/",
-          "source": "Mezha.net"
-        },
-        {
-          "title": "5전 전승으로 1부 승격했는데…러시아 복귀에 노르웨이 U20 하키 2부로",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860298",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "고발",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T02:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSK2OaotM9TTvIlg6PMH8Z8zR0A6aPTk-lPVGsSk2DRXGP41zUxJ3Hf73D87kA",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독] 리트 만점자 \"AI 안 썼지만 확률 희박은 인정\"",
-          "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6866434_36989.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "‘리트 만점자’ 광수단·관악서 등에서 고발 이어져…수능 고득점 수사도 이뤄질 듯",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1287898.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "[단독] ‘리트 만점자’ 이진우 결국 ‘공무집행방해’ 혐의 형사고발 수순",
-          "url": "https://news.jtbc.co.kr/article/NB12328614",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "lpga",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T02:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMwtlfS2vd6hlbgC8pFVUGeJ88-TsLBBkRP8PZdqayIqJERh4wr-8WJYUn7hI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "LPGA Tour season ends with $4 million prize and PGA Tour season ends with 100 players earning cards",
-          "url": "https://www.mdjonline.com/sports/wire/lpga-tour-season-ends-with-4-million-prize-and-pga-tour-season-ends-with-100/article_09a22a02-8aa0-5686-bdd3-a3fcf720223d.html",
-          "source": "Marietta Daily Journal"
-        },
-        {
-          "title": "Golf Glance: PGA, LPGA return to U.S.; DP, Champions set for finales",
-          "url": "https://www.thesportsleader.com/2026/11/11/golf-glance-pga-lpga-return-to-u-s-dp-champions-set-for-finales/",
-          "source": "KNBR"
-        },
-        {
-          "title": "LPGA Tour season ends with $2 million prize and PGA Tour season ends with 100 players earning cards",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/lpga-tour-season-ends-with-2-million-prize-and-pga-tour-season-ends-with-100/article_feb1b705-2e71-53dc-b316-21c32bbf33e7.html",
-          "source": "Corsicana Daily Sun"
-        }
-      ]
-    },
-    {
-      "keyword": "기예르모 에레디아",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T02:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB9p9XWc-NaLXl18ehD88S_W5ay44nlVuXabMGpb4Mx52OcxfS8EdF3U6h0tE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[단독] SSG, 에레디아와 결별…‘트리플A 24홈런·21도루’ 리스 하인즈 영입한다",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=132194",
-          "source": "더게이트"
-        },
-        {
-          "title": "'MLB 계약까지 합의했는데 한국이 더 낫다고?' 2R 출신 100홈런 슬러거, 돌연 KBO행...어디로 갈까? - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/18/202611180814778671O",
+          "title": "임영웅, 오늘(18일) 극장 접수…CGV 단독 개봉에도 전체 예매율 1위 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111808357253755",
           "source": "머니투데이"
-        },
-        {
-          "title": "'4년만에 결별 통보 받았나' 선수가 직접 굿바이 오피셜 띄웠다 \"고마웠어요\"",
-          "url": "https://www.sportschosun.com/baseball/2026-11-18/202611180100116540010734",
-          "source": "스포츠조선"
         }
       ]
     },
     {
-      "keyword": "폭설",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T02:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn7OX_kNe8sriVl7TGNiovbo3WZ8nxDnFcHXs1g9TwSZjsjlqSZeUADpvO0-8",
-      "category": "스포츠",
+      "keyword": "북한이탈주민",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-18T03:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXQr8PkUUfcm5JbCqfrwsy0J1Uapycl9rc-q0TG9V620ScHQZdLdqDccvf1PY",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "뒤통수 얼얼한 영화 ‘폭설’…진실이 드러난 순간, 선악은 모호해진다",
-          "url": "https://www.donga.com/news/Culture/article/all/20261117/135040081/1",
-          "source": "동아일보"
+          "title": "[단독] 탈북민 주거지원금 12억 못받았다…706세대에 ‘추가신청’ 안내없어",
+          "url": "https://www.mk.co.kr/news/politics/12212193",
+          "source": "매일경제"
         },
         {
-          "title": "폭설에 갇힌 두 남자 이야기 vs 청춘생존 로맨스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866517_37012.html",
-          "source": "MBC 뉴스"
+          "title": "북한이탈주민 겨울나기 돕는다…시흥서 김장김치 100통 나눔",
+          "url": "https://www.kyeonggi.com/article/20261117580169",
+          "source": "경기일보"
         },
         {
-          "title": "[인터뷰②] 구교환 “김윤석과 함께한 ‘폭설’, 겨울 연기학교 같았다”",
-          "url": "https://sports.khan.co.kr/article/202611181212003",
-          "source": "스포츠경향"
+          "title": "달성군자원봉사센터·대구하나센터, 북한이탈주민 위해 김장 나눔",
+          "url": "https://www.imaeil.com/page/view/2026111717203890008",
+          "source": "매일신문"
         }
       ]
     },
     {
-      "keyword": "양주시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T02:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQcXv-H3t_BcpnVPhRfC7MgxM7Lwf-0HQWfzbrw6kqhNXDhQWT4vZqsDjNxDs",
+      "keyword": "대한민국 해군",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-18T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw91eBZ2dFOC1I2Pr8q40hlvshpfPk4nRDF5mf6-3EvIiaJ0CDDHkxngdD7h4",
       "category": "기타",
       "news": [
         {
-          "title": "양주시, 버스노선 체계 개선 설문… 30일까지 시민 의견 수렴",
-          "url": "https://www.munhwa.com/article/11632083",
+          "title": "무신사 “해군과 컬래버”… ‘네이비 짐’ 컬렉션 선봬[금주의 핫딜]",
+          "url": "https://www.munhwa.com/article/11632133",
           "source": "문화일보"
         },
         {
-          "title": "[양주 소식]버스노선 체계 개선 설문조사 등",
-          "url": "https://www.pressian.com/pages/articles/2026111717361407420",
-          "source": "프레시안"
+          "title": "젊은 여자도 입고 다니네…예상밖 인기에 '군대 콜라보' 티셔츠 나온다",
+          "url": "https://www.hankyung.com/article/202611106360g",
+          "source": "한국경제"
         },
         {
-          "title": "양주시, 버스노선 개선 시민 설문…11월 30일까지 이용객 참여",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754895",
-          "source": "국제뉴스"
+          "title": "[유통24시] GS25, '네이비 짐' 컬렉션 공개 外",
+          "url": "https://news.dealsitetv.com/articles/178360",
+          "source": "DealSite경제TV"
+        }
+      ]
+    },
+    {
+      "keyword": "우원식",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T03:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KCYzU9qB09r1XUI0RBpaAGY0S83EWEdXNW__U36dwFMKMMtKqgjzo4b0ARE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "추미애, ’최민희 징계’ 갈등 참전…“김민석 문제부터 엄중 판단해야“",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118091300D51",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "\"최민희 아웃\" \"김민석 쇄신\"…공천룰 제정前 불붙은 與집안싸움 - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/18/2026111809383963604",
+          "source": "머니투데이"
+        },
+        {
+          "title": "우원식 \"김민석, 신천지 조치 잘못‥추미애도 말 얹지 말아야\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866551_36911.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "표절",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T03:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0MnbF0k0UOuo6Z1INVveOiN-pbe92_Gl9v4AxymLG0oYy1kgFPNDfKV1BZTc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"카피라니 속상해\" 최예나 측, '사브리나 카펜터 표절 의혹'에 꺼내 든 결정적 증거",
+          "url": "https://busan.fnnews.com/news/202611171519491481",
+          "source": "부산파이낸셜뉴스"
+        },
+        {
+          "title": "[포토]레이, 뿔테의 정석",
+          "url": "https://www.mk.co.kr/news/photos/12209495",
+          "source": "매일경제"
+        },
+        {
+          "title": "최예나, MMA 베스트 솔로 여자 수상 후 근황…인형 비주얼 [N샷]",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6354600",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "윤혜진",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-18T03:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXp0QYNzDxU9OCd6E2afv7U59d6tm2ozp2GDsgei_3D0yKPynFA3YCvRiMV8k",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘엄태웅♥’ 윤혜진, 몸 상태 어떻길래..발레 금지령 “골반 물 차고 연골 상해”(왓씨티비)",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/HAYGKNBWGM4WMNBSGUZDCNJXGM/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "윤혜진 골반 이상으로 재활 치료…“발레 중단 상태” : 연예",
+          "url": "https://news.jkn.co.kr/post/1104399",
+          "source": "재경일보"
+        },
+        {
+          "title": "`엄태웅♥` 윤혜진, 평생 함께 한 발레 이제 못 해…\"골반에 물이 차 재활 중\" [마데핫리뷰]",
+          "url": "https://mydaily.co.kr/page/view/2026111311284776741",
+          "source": "마이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "xrp",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T03:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-0eH5VAiQFl3NMI8mjyiQsye1HJXz2v-alenL1nfi0d2--znebMJ5BgI59Wg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "XRP technical indicators signal rebound; can it regain $1",
+          "url": "https://www.digitaltoday.co.kr/en/view/127361/xrp-technical-indicators-signal-rebound-can-it-regain-1-dollar",
+          "source": "디지털투데이"
+        },
+        {
+          "title": "Analyzing XRP’s $44M liquidation imbalance – Is a market reset underway?",
+          "url": "https://ambcrypto.com/analyzing-xrps-44m-liquidation-imbalance-is-a-market-reset-underway/",
+          "source": "AMBCrypto"
+        },
+        {
+          "title": "US Spot XRP ETFs See Largest Weekly Outflows in 8 Months as XRP Falls Below $1",
+          "url": "https://www.kucoin.com/blog/xrp-etf-outflows-8-month-high-2026",
+          "source": "KuCoin"
+        }
+      ]
+    },
+    {
+      "keyword": "중도일보",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-18T03:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "아이돌",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-18T03:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShk7HSsmh1eEZmqsGdJM6Qzj4I05lkyNrzwAdG7_rSZNgAcIlHothtqwchiSc",
+      "category": "연예",
+      "news": [
+        {
+          "title": "K-팝 아이돌, 올해도 수능 치르지 않는 이유",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/IQGY3IPRJ5ALDABS47V25X3IXE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "이즈나 정세비는 서울예대 수시 합격···바쁜 와중에 수능 치르는 08년생 아이돌은 누구?",
+          "url": "https://www.khan.co.kr/article/202611181031001",
+          "source": "경향신문"
+        },
+        {
+          "title": "수능 대신 무대 오르는 08년생 아이돌들…코르티스·리센느 등",
+          "url": "https://www.yna.co.kr/view/AKR20261117153900005",
+          "source": "연합뉴스"
         }
       ]
     }
