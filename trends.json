@@ -1,32 +1,87 @@
 {
-  "updatedAt": "2026-11-18T19:53:18.502Z",
+  "updatedAt": "2026-11-18T20:49:12.007Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 3
-    },
-    {
       "category": "경제",
-      "count": 3
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "count": 4
     },
     {
       "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
       "count": 2
     }
   ],
   "items": [
     {
+      "keyword": "삼전 닉스",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-18T19:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmvooY-7TlTd32XkKDCnieapvrRbKWAuRPJb5bnWGFgNKBJX_JkqG9DFbPzdI",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
+          "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih",
+          "source": "네이버 프리미엄콘텐츠"
+        },
+        {
+          "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
+          "source": "머니투데이"
+        },
+        {
+          "title": "삼성전자, 2.3% 상승 마감…하닉은 4.2%↑(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261118045151008",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "한화오션",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-18T18:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjBkYCbdW74gszYdh-6cSJNpAlqPBq_2y_43g2qc-w1gqwMNDFMH77-6gHwl4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+          "url": "https://www.yna.co.kr/view/AKR20261118170400704",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "평택함 한화오션에서 진수",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "기인",
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-18T16:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIEt4f5o_TApU4bdrJIR4--xlJ8scxq-lciPCwGerqGNalE7ebg_91v4H-IWQ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYbL7ItveUlGJ2u1Ksk48vf2cUOmsYMMyEeqPSCI79fCYUO2wIcDr0noAHTU",
       "category": "스포츠",
       "news": [
+        {
+          "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+          "url": "https://www.kmib.co.kr/article/20261119500020",
+          "source": "국민일보"
+        },
         {
           "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
           "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
@@ -36,36 +91,31 @@
           "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
           "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816",
           "source": "진일보 | 전남일보"
-        },
-        {
-          "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
-          "url": "https://www.etoday.co.kr/news/view/2649030",
-          "source": "이투데이"
         }
       ]
     },
     {
-      "keyword": "한화오션",
+      "keyword": "무역수지",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-18T18:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2GQ4s_gzBz0FQCk9mEwxJV9D-isvfTxUXOMfcfSjUh9BxQ9rMYajnb0OUdA",
-      "category": "정치·사회",
+      "startedAt": "2026-11-18T19:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTs0bhyTZqVhmdhRe0yGAhaaow1QnPtk9zZNiWrnZDTRK-ILGk1E0cCQH8zoTE",
+      "category": "경제",
       "news": [
         {
-          "title": "거제 바다숲 조성, 민·관 업무협약…4년간 1.59㎢ 규모",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873559",
-          "source": "뉴시스"
+          "title": "수출 최전선인 인천신항 방문 - 사진 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74341&pageIndex=1",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "해수부·한화오션, 거제 해역에 바다숲 조성 추진",
-          "url": "https://www.yna.co.kr/view/AKR20261117033200030",
+          "title": "다음 과제는 시장 다변화… 美-中 넘어 ‘글로벌 사우스’로 넓혀야",
+          "url": "https://www.donga.com/news/Economy/article/all/20261118/135043055/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "세계 4번째 수출 1조달러 초읽기…돼지털 팔던 나라의 기적",
+          "url": "https://www.yna.co.kr/view/AKR20261117142400003",
           "source": "연합뉴스"
-        },
-        {
-          "title": "변광용 거제시장, 현안 해결 위해 국회로 잰걸음",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026111813421532899",
-          "source": "부산일보"
         }
       ]
     },
@@ -74,55 +124,30 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-18T17:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzXLO2Q1wfG4CsFGjJOrFiv29eKKCPqOftyaK3TnbdOjNz0JWjqN97UkIKxMg",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8L4AWaDtGFvtLZOntA6P6bNU_84kl2fGC7wb3YpYPKGRONI0eQV4mTcB05To",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "[속보] \"미중러 정상, APEC 환영만찬서 첫 인사 나눠\" AFP",
-          "url": "https://news.jtbc.co.kr/article/NB12328748",
-          "source": "JTBC"
+          "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
+          "url": "https://www.yna.co.kr/view/AKR20261118159000083",
+          "source": "연합뉴스"
         },
         {
-          "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU",
-          "source": "연합뉴스TV"
+          "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
+          "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
+          "source": "동아일보"
         },
         {
-          "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "신세계",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T14:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAC90nekSCaGtaAqLCDNr0fnRG6jVqHfADUWVQT3-cFP0lljlt_VDBHV3K7hY",
-      "category": "경제",
-      "news": [
-        {
-          "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
-          "url": "https://www.newspim.com/news/view/20261111000117",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "'적자 꼬리표' 떼어낼까…롯데·신세계, 편의점·이커머스 실적 개선 '주목'",
-          "url": "https://news.tf.co.kr/read/economy/2389287.htm",
-          "source": "더팩트"
+          "title": "[경향의 눈]미 중간선거 이후 북·미, 그리고 한국",
+          "url": "https://www.khan.co.kr/article/202611182009025",
+          "source": "경향신문"
         }
       ]
     },
     {
       "keyword": "자영업",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-18T18:00:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaUajfa5rrSf4G6rzxZsDkFEt2yIHqSwtURqVn0OLwN-y02aX7-csKGa_jB_M",
       "category": "정치·사회",
@@ -149,18 +174,18 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-18T17:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgtmgfZgGOsjAHy8_32nIoqb6uCgM8V6PK_cIY1CLSL8rQSePDIcyG1wyU6o",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRkQ0QndbJbwvtUbGfwPm_blE-2YDEryvZDuoJDg83Tn0FkbogPSM3ZX5IehU",
       "category": "기타",
       "news": [
-        {
-          "title": "승리 '임신한 부인과 함께 귀국'",
-          "url": "https://www.mt.co.kr/photo/202611182305239152",
-          "source": "머니투데이"
-        },
         {
           "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
           "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
           "source": "TV조선뉴스"
+        },
+        {
+          "title": "승리 '임신한 부인과 함께 귀국'",
+          "url": "https://www.mt.co.kr/photo/202611182305239152",
+          "source": "머니투데이"
         },
         {
           "title": "승리, ♥임신한 20대 아내와 동반 입국..\"여기까지 찍어라\" 취재진 경계",
@@ -199,14 +224,9 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-18T17:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP7tK1pUxOgCXKVfr7AZKFiZZvqJQcpRnRKnRXCpxGF-W652RL89HUC51APg",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQu6nf7JVk7OVlTPixZiuetPUAgjhqLeK7R5-xz6YOT2kWBsTbHk6aX5n3NHTc",
       "category": "경제",
       "news": [
-        {
-          "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
-          "source": "마켓인"
-        },
         {
           "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
           "url": "https://v.daum.net/v/1WNhADiPof",
@@ -216,6 +236,11 @@
           "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
           "url": "https://dealsite.co.kr/articles/172804",
           "source": "딜사이트"
+        },
+        {
+          "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
+          "source": "마켓인"
         }
       ]
     },
@@ -233,39 +258,14 @@
           "source": "미주중앙일보"
         },
         {
-          "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
-          "source": "STN SPORTS"
-        },
-        {
           "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
           "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27",
           "source": "데일리e스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "흰수마자",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-18T15:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-vI-O_wtMFA-0CEsJ-_hOi2T7glOqh9HvJCbW0_Hhso35Md_ZXtlxpAA53FU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "경기 문산천에 멸종위기 1급 '흰수마자' 서식",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337070",
-          "source": "인천일보"
         },
         {
-          "title": "한반도 고유종 멸종위기Ⅰ급 ‘흰수마자’, 파주 문산천서 발견",
-          "url": "https://www.kyeonggi.com/article/20261117580015",
-          "source": "경기일보"
-        },
-        {
-          "title": "경기도, 파주 문산천서 멸종위기야생생물 ‘흰수마자’ 서식 확인",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=S017&number=71991",
-          "source": "경기도뉴스포털"
+          "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
+          "source": "STN SPORTS"
         }
       ]
     }
