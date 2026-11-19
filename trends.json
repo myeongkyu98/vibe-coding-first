@@ -1,157 +1,112 @@
 {
-  "updatedAt": "2026-11-19T11:53:33.891Z",
+  "updatedAt": "2026-11-19T13:03:35.589Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 6
     },
     {
-      "category": "스포츠",
+      "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "경제",
+      "category": "스포츠",
       "count": 1
     },
     {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "안양 정관장 대 부산 kcc",
+      "keyword": "정부24",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-19T09:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDFTFXzH-Wa-lbwDUxYzqhuWWQ4rqPwuWzradY9ZHzfNM3U3jJY_idXohKcTQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[핌in안양] KCC전 홈 8연승 도전, 정관장 유도훈 감독 \"변준형 발목, 박지훈 허리 부담\"",
-          "url": "https://www.newspim.com/news/view/20261119001422",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "[부상] ‘감기 증세’ 정관장 문유현, DB전 이어 KCC전도 결장···男대표팀은 정상 합류",
-          "url": "http://www.jumpball.co.kr/news/newsview.php?ncode=1065602737425283",
-          "source": "점프볼"
-        },
-        {
-          "title": "[영상] 두 얼굴의 변준형 ‘병 주고 약 주고’",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716130",
-          "source": "KBS 뉴스"
-        }
-      ]
+      "startedAt": "2026-11-19T11:20:00.000Z",
+      "picture": "",
+      "category": "정치·사회",
+      "news": []
     },
     {
       "keyword": "한진칼",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-19T10:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWmk4VnwMXiKoNKye3vlsapSL7haZfMM5aj_kCFZsYy43FKU8zQAqyoik3TEc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[장중수급포착] 한진칼, 기관 7일 연속 순매수행진... 주가 +3.82%",
-          "url": "https://www.newspim.com/news/view/20261119000693",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "한진칼 주가 6,500원 하락 후 장마감",
-          "url": "https://www.anewsa.com/detail.php?number=3219830",
-          "source": "아시아뉴스통신"
-        },
-        {
-          "title": "[장중수급포착] 한진칼, 외국인/기관 동시 순매수… 주가 +5.41%",
-          "url": "https://www.newspim.com/news/view/20261116000635",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "김다현",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-19T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AgEAIZVPPh9Gfu2Yp1uh7PilUM5NlVb8YwFBrzb9wTSo2GjQfzuWyFnzZMk",
-      "category": "연예",
-      "news": [
-        {
-          "title": "김다현, 대한민국예술문화대상 ‘특별공로상’ 수상 “더 큰 문화예술인으로 성장할 것”",
-          "url": "https://www.mk.co.kr/news/musics/12212150",
-          "source": "매일경제"
-        },
-        {
-          "title": "심수봉 ‘저격’에 마음 다쳤지만…김다현, 대한민국예술문화대상 특별공로상 예술계 인정받았다",
-          "url": "https://sports.khan.co.kr/article/202611181537003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "‘국악 신동’에서 대한민국 대표 가수로…김다현, 예술문화대상 ‘특별공로상’ 영예",
-          "url": "https://www.sportsseoul.com/news/read/1650499",
-          "source": "스포츠서울"
-        }
-      ]
-    },
-    {
-      "keyword": "데프트",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-19T10:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjsR6xEHObL-JIp6NfJif2-IsgXq455OL82hzn94TKb60fBbNlTb_VN0JGGV0",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7QNRGwc8xxm9NMaBeEROsKp3qMFv23AqKZU9zS2st-xAY89-LkF8uKTj5WI",
       "category": "기타",
       "news": [
         {
-          "title": "'중꺾마' 주인공 '데프트' 김혁규가 돌아왔다… 농심 입단",
-          "url": "https://www.dailyesports.com/view.php?ud=20261119191919733974bcc1e038_27",
-          "source": "데일리e스포츠"
+          "title": "호반의 한진칼 평가차익 1조5700억··· 현금화 전략 '고심'",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720237",
+          "source": "뉴스프리존"
         },
         {
-          "title": "[단독] '데프트' 김혁규 \"농심의 진심에 합류 결심, 독기 품고 할 것\" (인터뷰)",
-          "url": "https://www.xportsnews.com/article/2221223",
-          "source": "www.xportsnews.com"
+          "title": "M&A로 리솜리조트·대한전선 등 인수… ‘자산 20조’ 몸집 키워 재계 33위[Who, What, Why]",
+          "url": "https://www.munhwa.com/article/11632128",
+          "source": "문화일보"
         },
         {
-          "title": "[오피셜] 돌아온 '데프트', 농심에서 LCK 복귀",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323613",
-          "source": "인벤"
+          "title": "조원태 우호펀드, 만기 없앴다…한진칼 경영권 분쟁 장기전 대비",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/15/2026111580037.html",
+          "source": "인베스트조선"
         }
       ]
     },
     {
-      "keyword": "수원 kt 대 서울 sk",
+      "keyword": "cuaca besok",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-19T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3HhLsTdj8C9N3wVDY8OCXlVRDCHMCvED7P2dAQe6oMnYefXO4T11vXoUDxbA",
+      "startedAt": "2026-11-19T11:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkNzWBKEz-AboIXfv--CGK0GP0UyZEk7BcKFBb6zdP9l0Lr181Gd5BkQQpwVM",
       "category": "기타",
       "news": [
         {
-          "title": "KBL, 항의 이유로 T파울 받았던 kt 포터 반칙금 철회",
-          "url": "https://www.yna.co.kr/view/AKR20261119166300007",
-          "source": "연합뉴스"
+          "title": "BMKG: Cuaca Jakarta Besok, Hujan Ringan Berpotensi Turun di 6 Wilayah",
+          "url": "https://megapolitan.kompas.com/read/2026/11/19/18184651/bmkg-cuaca-jakarta-besok-hujan-ringan-berpotensi-turun-di-6-wilayah",
+          "source": "Kompas.com"
         },
         {
-          "title": "KBL, '판정 항의 테크니컬 파울' KT 포터 반칙금 부과 철회",
-          "url": "https://www.newsis.com/view/NISX20261119_0003875791",
+          "title": "Hari Ini Jakarta Diprediksi Hujan Ringan Hingga Petir",
+          "url": "https://metropolitan.tvrinews.com/berita/tk5la8m-hari-ini-jakarta-diprediksi-hujan-ringan-hingga-petir",
+          "source": "TVRI News"
+        },
+        {
+          "title": "Waspadai Hujan Lebat Disertai Petir di Sejumlah Wilayah Jabodetabek hingga Sore Ini - kumparan.com",
+          "url": "https://kumparan.com/kumparannews/waspadai-hujan-lebat-disertai-petir-di-sejumlah-wilayah-jabodetabek-hingga-sore-ini-28bTvQBQzi9",
+          "source": "kumparan"
+        }
+      ]
+    },
+    {
+      "keyword": "이재시",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T11:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-qpbfn7vCymB723Lcf4dnemXrCYEhnQeSedC_Zi53e_fC03IuV7u7YK5Ayuc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "이동국 딸 이재시, ‘초강력 메기녀’ 됐다... 얼마나 예쁘면 “몸이 반응해”",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRSDKZJSME4GEOBVGUYDEMBRGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "최수린 아들, 185㎝ 메기남 등판 \"짝사랑 해본 적 없어…결국 다 사귀더라\"",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874149",
           "source": "뉴시스"
         },
         {
-          "title": "“구단에서 요청했다” KBL, 재정위원회 통해 KT 포터 T파울 재심의 예정",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065599303667856",
-          "source": "점프볼"
+          "title": "전지우, 메기남 이승훈에 호감…\"이준수보다 이상형에 가까워\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6358647",
+          "source": "뉴스1"
         }
       ]
     },
     {
       "keyword": "김지훈",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-19T10:50:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAOx7NSVbh1NfR_FtBnwNYReMjetjlFD7ghrQ9GCdiy1pDoNbpdQQQDf40rmg",
       "category": "기타",
@@ -174,27 +129,52 @@
       ]
     },
     {
-      "keyword": "이지영",
+      "keyword": "야구 경기장",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T11:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8yT43m4qnQJq3_dun501tsHNMyuaWfhYI5-hcJyxq0YZuqHfxSDGOGQmCBw0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"프로야구 못하는데 관람석 8천석\"…전주시 신축 야구장 '도마'",
+          "url": "https://www.yna.co.kr/view/AKR20261119068900055",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "누구를 위한 야구장인가…진예찬 전주시의원, 전주 야구장 활용계획 질타",
+          "url": "https://www.ajunews.com/view/20261119111717653",
+          "source": "아주경제"
+        },
+        {
+          "title": "진예찬 전주시의원 “프로야구 못 하는 야구장, 활용계획 재검토해야”",
+          "url": "https://www.jbjnews.com/news/articleView.html?idxno=331748",
+          "source": "전북제일신문"
+        }
+      ]
+    },
+    {
+      "keyword": "강지환",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-19T10:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSuEI2xi0TiUc3KSXKd3R9stz2uOlV1PjYy2rEKE8nrl00pkj0EkTgvRVKCAw",
-      "category": "IT·과학",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGJyseLjpTx7ekn44Cr5YKnEKSF55DlavqF6YihH-xiSEPRhfi7Tt5ehpcV7E",
+      "category": "기타",
       "news": [
         {
-          "title": "이지혜, ‘AI 부정행위’ 논란 속 세무사 남편 언급…“더 대단하게 느껴져”",
-          "url": "https://www.mk.co.kr/news/hot-issues/12213453",
-          "source": "매일경제"
+          "title": "'스태프 성폭행→34억 배상' 강지환, 틱톡커 된 근황…팬들은 후원 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/19/2026111920065169466",
+          "source": "머니투데이"
         },
         {
-          "title": "[문화와 삶]수능 트라우마에서 벗어나기",
-          "url": "https://www.khan.co.kr/article/202611182006015",
-          "source": "경향신문"
+          "title": "‘스태프 성추행’ 강지환 틱톡커 전향? 뜨개질 라방 [DA피플]",
+          "url": "https://sports.donga.com/ent/article/all/20261119/135055909/2",
+          "source": "스포츠동아"
         },
         {
-          "title": "정승제 수능전날 올린 글 “단추 무조건 빼고, 안경 안 써도 되면 그냥 빼고”",
-          "url": "https://biz.heraldcorp.com/article/10941789",
-          "source": "헤럴드경제"
+          "title": "'스태프 성폭행' 강지환, 뜨개질 틱토커 됐다..7년 만의 근황 공개 [Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/G42GIZTCGQZTEZBTGRSDQYLDGA/",
+          "source": "조선일보"
         }
       ]
     },
@@ -212,64 +192,64 @@
           "source": "전기신문"
         },
         {
+          "title": "한수원, 발전소 동료가 지키는 마음건강 안전망…'마인드키퍼' 출범",
+          "url": "https://www.etnews.com/20261119000455",
+          "source": "전자신문"
+        },
+        {
           "title": "동료의 마음건강 내가 지킨다…한수원, 마음건강 안전망 ʻ마인드키퍼ʼ 출범",
           "url": "https://zdnet.co.kr/view/?no=20261119192053",
           "source": "지디넷코리아"
-        },
-        {
-          "title": "산간오지 발전소 직원 마음건강 지키는 ‘한수원 마인드키퍼’ 출범",
-          "url": "https://biz.chosun.com/industry/company/2026/11/19/H47VTZ6V6FESBJPXJUSUIRYUJQ/",
-          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "강지환",
+      "keyword": "하나로마트",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-19T10:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTljQqElzO8DPHmTwtTBcR9pshuY-X7G0yPEKkUN3O-AXAznZnsdaZkv06cPX4",
-      "category": "기타",
+      "startedAt": "2026-11-19T11:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhbC0vxa89mWrwXi1_0HaccUjkJ_Ksu1goHR2EDIqI6wO8pvwwm7wwA4GbRlQ",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "‘스태프 성추행’ 강지환 틱톡커 전향? 뜨개질 라방 [DA피플]",
-          "url": "https://sports.donga.com/ent/article/all/20261119/135055909/2",
-          "source": "스포츠동아"
+          "title": "영주시, 부산 소비시장 진출로 농특산물 판로 확대",
+          "url": "https://www.viva100.com/article/20261119501072",
+          "source": "브릿지경제"
         },
         {
-          "title": "'스태프 성폭행' 강지환, 뜨개질 틱토커 됐다..7년 만의 근황 공개 [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/G42GIZTCGQZTEZBTGRSDQYLDGA/",
+          "title": "영주 사과·고구마·생강 72톤, 부산 하나로마트서 특판",
+          "url": "https://www.imaeil.com/page/view/2026111910530677533",
+          "source": "매일신문"
+        },
+        {
+          "title": "영주사과, 청계광장 축제 넘어 홈쇼핑·대형마트로 판로 확대",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090856",
+          "source": "경북일보"
+        }
+      ]
+    },
+    {
+      "keyword": "푸틴",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T11:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNTNNJKK6TjYfKdSipY2Z0KdwHoirXzglQgg80-gM_WqRtLTNprgZbWvYnnnk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[속보] 미·중·러 정상, 유엔 개혁 및 핵전쟁 방지 등 합의",
+          "url": "https://www.chosun.com/international/us/2026/11/19/Z26ERGLQUVFW7LVRUZK665GGMY/",
           "source": "조선일보"
         },
         {
-          "title": "‘성폭행 유죄’ 강지환, 틱톡커 변신…뜨개질하며 “보고 싶었다”",
-          "url": "https://www.mk.co.kr/news/society/12213945",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "bangladesh vs south africa",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1J4jRynajrdgJmMJH9EA7ZGJyTOzP9Uymt7WBqCTSYvZzPIBo1jKcJZPxO70",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Bad light stops play early with Bangladesh under the pump",
-          "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-report",
-          "source": "Cricinfo"
+          "title": "[미중러 정상회담] 강대국들의 국제질서 거래외교 신호탄되나…'승자는 푸틴'",
+          "url": "https://www.yna.co.kr/view/AKR20261119177500071",
+          "source": "연합뉴스"
         },
         {
-          "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
-          "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-report-5",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Mahmud: We couldn't create pressure against South Africa's tailenders",
-          "url": "https://www.cricbuzz.com/cricket-news/140963/mahmud-we-couldnt-create-pressure-against-south-africas-tailenders-cricbuzzcom",
-          "source": "Cricbuzz"
+          "title": "[속보] 푸틴 “미·중·러, 우크라이나 분쟁 해결에 공통 이해관계 많아”",
+          "url": "https://www.khan.co.kr/article/202611191838001",
+          "source": "경향신문"
         }
       ]
     }
