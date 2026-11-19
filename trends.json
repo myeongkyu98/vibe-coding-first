@@ -1,21 +1,25 @@
 {
-  "updatedAt": "2026-11-19T09:57:35.586Z",
+  "updatedAt": "2026-11-19T10:56:01.986Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "count": 3
     },
     {
       "category": "스포츠",
-      "count": 2
+      "count": 3
     },
     {
       "category": "IT·과학",
       "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
     }
   ],
   "items": [
@@ -24,68 +28,68 @@
       "traffic": "50000+",
       "trafficValue": 50000,
       "startedAt": "2026-11-19T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqJYthMGsIdi850IopxlmRpstjamyporhznVdCobZeolSxV_tFbNDpPN55LxA",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYLDfhIjNKc0Sjs70TZwVQXpHt2UXwn2IIxVE1As9tLAHj_z0BG5nqu1j5pes",
       "category": "기타",
       "news": [
         {
-          "title": "EBS “국어·수학 난이도, 작년 수능과 비슷…중상위권 변별 강화”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717361",
-          "source": "KBS 뉴스"
+          "title": "EBS \"올해 수능, 작년보다 다소 쉽게 출제...국어·영어 쉬워지고 수학은 비슷\"",
+          "url": "https://www.chosun.com/national/education/2026/11/19/FNMLZGF3LFGTTJ4JETUBEXMCDA/",
+          "source": "조선일보"
         },
         {
-          "title": "[수능] EBS \"영어, 작년 수능보다 쉽고 9월 모평보다 어려워\"",
-          "url": "https://www.yna.co.kr/view/AKR20261119161700530",
-          "source": "연합뉴스"
+          "title": "국어·영어 쉬워지고 수학은 비슷…수학·탐구 변별력 커질 듯",
+          "url": "https://www.khan.co.kr/article/202611191903011",
+          "source": "경향신문"
         },
         {
-          "title": "올해 수능, 제주서도 'N수생' 몰린 이유는?",
-          "url": "https://app.ihalla.com/article.php?aid=1795079803793012014",
-          "source": "한라일보"
+          "title": "“수능, 지난해보다 대체로 평이”…수험생이 전하는 난이도",
+          "url": "https://www.donga.com/news/Society/article/all/20261119/135056809/1",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "사건",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-19T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROacwCEneMfaeelwZU0xaDfjAjCdnlSbjGVU5nFs3bukK1of_VYtADaFSmLXI",
-      "category": "정치·사회",
+      "keyword": "수능 답지 공개 시간",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-19T08:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNfAsrhxD2pVZfSgaGJIChJCzWPV8vyd9EHjd7gpc67SNuehe3-36tmyDT7hw",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
-          "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/",
-          "source": "조선일보"
+          "title": "교문 밖에서부터 단추 떼고 휴대전화 반납...\"민무늬 옷 입었다\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611191528151372_005.html",
+          "source": "YTN"
         },
         {
-          "title": "[속보] 대법, 한덕수 구속기간 연장 결정…2개월 늘어",
-          "url": "https://news.jtbc.co.kr/article/NB12328879",
-          "source": "JTBC"
+          "title": "고생했어, 딸!",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041555",
+          "source": "기호일보"
         },
         {
-          "title": "대법 전원합의체, 한덕수 전 총리 일부 무죄취지 파기환송",
-          "url": "https://www.joongang.co.kr/article/25480224",
-          "source": "중앙일보"
+          "title": "[수능] 아쉬움·해방감 교차한 수험생들 \"여행가고 게임도 실컷\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119166200057",
+          "source": "연합뉴스"
         }
       ]
     },
     {
       "keyword": "수능 등급컷",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-19T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrzr8hDrJySHCVJcvaN1y8espZoxaUlbBPcYkf0ukZalGuZjQsnLXbALrzVOw",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAJSlfyGQ0IwtUrHjIOnGYsMv8ChX9UlQbFTx6f_Rs0QTGaoPkH6VV4sFgLdY",
+      "category": "기타",
       "news": [
         {
-          "title": "[수능] 내 점수로 어디 갈까…오늘 저녁부터 입시학원 설명회",
-          "url": "https://www.yna.co.kr/view/AKR20261118182700530",
-          "source": "연합뉴스"
+          "title": "올해 수능 가채점부터 대학 합격 예측까지…'입시캐스트' 오픈 - 머니투데이",
+          "url": "https://www.mt.co.kr/future/2026/11/19/2026111916281482762",
+          "source": "머니투데이"
         },
         {
-          "title": "고득점땐 ‘수시 납치’ 주의…정시는 대학별 가산점 체크를[2027 대학수학능력시험]",
-          "url": "https://www.sedaily.com/article/20116661",
-          "source": "서울경제"
+          "title": "오디바이스, 2027학년도 정시 합격예측 서비스 ‘입시캐스트’ 오픈",
+          "url": "https://zdnet.co.kr/view/?no=20261119172357",
+          "source": "지디넷코리아"
         },
         {
           "title": "수능 이후 대학입시 대비전략은?[2027 수능]",
@@ -95,77 +99,102 @@
       ]
     },
     {
-      "keyword": "주얼리",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-19T06:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAMb2i3zRBAEobiqCOUKb7aJN8QA54dHAykUDJJOHs3rAq6UHvcsmWXPEPyMs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
-          "url": "https://www.handmk.com/news/articleView.html?idxno=45236",
-          "source": "핸드메이커"
-        },
-        {
-          "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
-          "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30",
-          "source": "비욘드포스트"
-        },
-        {
-          "title": "논논, 하츠투하츠와 협업한 ‘Lemon Tang’ 주얼리 컬렉션 공개",
-          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602616",
-          "source": "스타데일리뉴스"
-        }
-      ]
-    },
-    {
       "keyword": "시험장",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-19T07:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsetP0LSYMMFyU4aSYGoEatfif2QMVAvS8wRpeQ3ydVvzWDOiqYLNVOf_VyPg",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60zQZBchIOr7p6WAwsrt-7jv6J8HLgDW3e-QMnGFDWzf6nq2mVEmtypfPf6k",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "수능 시험장 와이파이 차단 종료…24시간 만에 정상화",
-          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04244326645647360",
-          "source": "마켓인"
+          "title": "따뜻한 응원 속 수험생들 입실...경찰·소방 구조도",
+          "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611191600559677&s_hcd=",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "[수능] 시험장 주변 와이파이 차단 해제…24시간 만에 정상화",
-          "url": "https://www.yna.co.kr/view/AKR20261119158500017",
-          "source": "연합뉴스"
+          "title": "신분증 깜빡하고 시험장 착각도…수험생 수송 작전",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119192435gr7",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "공공와이파이 끊긴 수능장에 학교 안테나 뜬 까닭",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874883",
-          "source": "뉴시스"
+          "title": "수능 문답지 보관소에 무장 경찰관…순찰차 호위 받아 이송",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716170",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "lg 임원인사",
+      "keyword": "안양 정관장 대 부산 kcc",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-19T07:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuMQQ_j4z_elosbTO7UzuS9HpvMTi0mbr--l55fMu1IoWrLVKklQbZ-WDiDzo",
+      "startedAt": "2026-11-19T09:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDFTFXzH-Wa-lbwDUxYzqhuWWQ4rqPwuWzradY9ZHzfNM3U3jJY_idXohKcTQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[핌in안양] KCC전 홈 8연승 도전, 정관장 유도훈 감독 \"변준형 발목, 박지훈 허리 부담\"",
+          "url": "https://www.newspim.com/news/view/20261119001422",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "[스경X현장]‘독감’ 정관장 문유현, 대표팀 합류도 미룬다",
+          "url": "https://sports.khan.co.kr/article/202611191849003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "[부상] ‘감기 증세’ 정관장 문유현, DB전 이어 KCC전도 결장···男대표팀은 정상 합류",
+          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065602737425283",
+          "source": "점프볼"
+        }
+      ]
+    },
+    {
+      "keyword": "셀트리온",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T09:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm0xpzXl_XDnf6ZgswJGTMPo8YGE_ASlpJj7aJrmPr5qPtd7n4ui8mkeHa64",
       "category": "IT·과학",
       "news": [
         {
-          "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
-          "url": "https://zdnet.co.kr/view/?no=20261119162858",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "LG, 주요 계열사 CEO 유임…경영 안정 속 기술인재 중용",
-          "url": "https://www.yna.co.kr/view/AKR20261119158400003",
+          "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119039100017",
           "source": "연합뉴스"
         },
         {
-          "title": "\"미래 경쟁\" LG전자, 임원 승부수…사장 2명 등 44명 승진",
-          "url": "https://www.hankyung.com/article/202611197795g",
-          "source": "한국경제"
+          "title": "셀트리온, 바이오시밀러 亞 시장 '승승장구'",
+          "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1337310",
+          "source": "인천일보"
+        },
+        {
+          "title": "셀트리온, 亞 시장 점유율 '탄탄'…\"홍콩·태국 등 후속 제품 순차 출시\" - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/19/2026111909222440183",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "fifa 랭킹",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T09:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNAZCT8ZMhj22OFUxWfcxDX_YSWx08kXaFJcMf_jBjm4HVBAF9ftx8DFIvbvE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'사우디전 42년만 3실점 충격에도...' 한국, FIFA 랭킹 2계단 깜짝 상승 30위 \"아시아 4위 유지\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111913460673471",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'1승 1패' 한국 축구, FIFA 랭킹 2계단 뛰어 30위…일본 17위",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874906",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"사우디에 졌는데 오히려 2계단 껑충?\" 모레노호, FIFA 랭킹 30위 도약… 브라질 잡은 일본은 17위",
+          "url": "https://www.fnnews.com/news/202611190923332388",
+          "source": "파이낸셜뉴스"
         }
       ]
     },
@@ -188,84 +217,59 @@
           "source": "Yeni Safak English"
         },
         {
-          "title": "Sri Lanka on verge of embarrassing double blow following 'costly' WTC deductions",
-          "url": "https://www.foxsports.com.au/en-AU/news/cricket/cricket-sri-lanka-pakistan-match-report-scores/vrk38s6oex4714r5n0yi159cg",
-          "source": "Fox Sports"
+          "title": "Recent Match Report - Pakistan vs Sri Lanka, Sri Lanka tour of Pakistan, 2nd Test | ESPN.com",
+          "url": "https://www.espn.com/cricket/series/19430/report/1550712/day/3/pakistan-vs-sri-lanka-2nd-test-19430",
+          "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "해군",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T06:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBJvtuT7gHzwTLRCMoARKpABb47U6Ztm_YD2x1Y0jSi193Sk5VcXIBw3s1k4E",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
-          "url": "https://www.hankyung.com/article/2026111972367",
-          "source": "한국경제"
-        },
-        {
-          "title": "트럼프 구애에도 김정은 '마이웨이'…북미 정상회담 멀어지나",
-          "url": "https://www.yna.co.kr/view/AKR20261119066600504",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "라미란",
+      "keyword": "수험표 할인",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-19T07:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ6IBWbgmGSyNEorPXP_05IahOfVx7YdOEr6CBB9aQxusFxPyfdYKrK1JLaIQ",
-      "category": "IT·과학",
+      "startedAt": "2026-11-19T09:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScTJ7_xO4u_PscBjBKBZJ_fv6vx5S5VZf5DK9-bW1Phj6v5bq_ACmm3UEmAqQ",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
-          "url": "https://www.yna.co.kr/view/AKR20261118043900005",
-          "source": "연합뉴스"
+          "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
+          "url": "https://www.khan.co.kr/article/202611191716001",
+          "source": "경향신문"
         },
         {
-          "title": "유아인 마약에 3년 기다렸는데... 라미란, 고경표 음주운전에 차기작 날벼락",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MVRTEMZXMQZGMZTFGQ2GMOJWGU/",
+          "title": "[경제 뉴스로 배우는 한입 한자 29화] 수능 끝! 수험생 노린 ‘수능 특수’ 시작됐어요",
+          "url": "https://www.chosun.com/kid/kid_economy/2026/11/19/73K4Q44IUZHR3GBAUKN7CXA2WM/",
           "source": "조선일보"
         },
         {
-          "title": "AI 부정행위 논란 속 고경표가 '최대 수혜자'? [앵커리포트]",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611181435551476",
-          "source": "YTN"
+          "title": "“목탁 스트레스볼에 퍼스널컬러까지”...‘합격 기원’에서 ‘경험·가족 소비’로 진화",
+          "url": "https://www.kyeonggi.com/article/20261118580425",
+          "source": "경기일보"
         }
       ]
     },
     {
-      "keyword": "이병철",
+      "keyword": "lg디스플레이",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-19T07:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNM8utw-ImqmdZcKMQmkiGbrwp2NCoXIZynEbKffbGCJYckKU5owzrxS8H_ZI",
+      "startedAt": "2026-11-19T09:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCAFjJw5UZ8L5pfUGHR9-MFAHoar_Qb6FmbJDPMPCGvOvt73VVx06q_xCTq3Y",
       "category": "기타",
       "news": [
         {
-          "title": "이병철 창업 회장 39주기, 범삼성가 선영 참배",
-          "url": "https://www.donga.com/news/Economy/article/all/20261119/135054236/1",
-          "source": "동아일보"
+          "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360",
+          "source": "마켓인"
         },
         {
-          "title": "이병철 삼성 창업회장 39주기… 범삼성家 용인서 추도식",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/19/MTYMXXQ5DVEJDOUZDPRMHKWE2Q/",
-          "source": "조선일보"
+          "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
+          "url": "https://www.hankyung.com/article/202611197955g",
+          "source": "한국경제"
         },
         {
-          "title": "이병철 삼성 회장 추도식 참석한 홍라희",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261119_0021538710&pID=1&cID=&sID=1&type=photoMain&idx=5",
-          "source": "뉴시스"
+          "title": "LG디스플레이, 전무 6명·상무 11명 승진…사업부 2개로 재편",
+          "url": "https://www.yna.co.kr/view/AKR20261119143900003",
+          "source": "연합뉴스"
         }
       ]
     }
