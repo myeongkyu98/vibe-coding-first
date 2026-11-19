@@ -1,32 +1,103 @@
 {
-  "updatedAt": "2026-11-19T08:26:12.162Z",
+  "updatedAt": "2026-11-19T09:57:35.586Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "IT·과학",
       "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "경제",
-      "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "수능 답지",
+      "traffic": "50000+",
+      "trafficValue": 50000,
+      "startedAt": "2026-11-19T07:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqJYthMGsIdi850IopxlmRpstjamyporhznVdCobZeolSxV_tFbNDpPN55LxA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "EBS “국어·수학 난이도, 작년 수능과 비슷…중상위권 변별 강화”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717361",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "[수능] EBS \"영어, 작년 수능보다 쉽고 9월 모평보다 어려워\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119161700530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "올해 수능, 제주서도 'N수생' 몰린 이유는?",
+          "url": "https://app.ihalla.com/article.php?aid=1795079803793012014",
+          "source": "한라일보"
+        }
+      ]
+    },
+    {
+      "keyword": "사건",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-19T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROacwCEneMfaeelwZU0xaDfjAjCdnlSbjGVU5nFs3bukK1of_VYtADaFSmLXI",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
+          "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[속보] 대법, 한덕수 구속기간 연장 결정…2개월 늘어",
+          "url": "https://news.jtbc.co.kr/article/NB12328879",
+          "source": "JTBC"
+        },
+        {
+          "title": "대법 전원합의체, 한덕수 전 총리 일부 무죄취지 파기환송",
+          "url": "https://www.joongang.co.kr/article/25480224",
+          "source": "중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "수능 등급컷",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-19T07:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrzr8hDrJySHCVJcvaN1y8espZoxaUlbBPcYkf0ukZalGuZjQsnLXbALrzVOw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[수능] 내 점수로 어디 갈까…오늘 저녁부터 입시학원 설명회",
+          "url": "https://www.yna.co.kr/view/AKR20261118182700530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "고득점땐 ‘수시 납치’ 주의…정시는 대학별 가산점 체크를[2027 대학수학능력시험]",
+          "url": "https://www.sedaily.com/article/20116661",
+          "source": "서울경제"
+        },
+        {
+          "title": "수능 이후 대학입시 대비전략은?[2027 수능]",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875583",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "주얼리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-19T06:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAMb2i3zRBAEobiqCOUKb7aJN8QA54dHAykUDJJOHs3rAq6UHvcsmWXPEPyMs",
       "category": "기타",
@@ -49,27 +120,77 @@
       ]
     },
     {
+      "keyword": "시험장",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T07:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsetP0LSYMMFyU4aSYGoEatfif2QMVAvS8wRpeQ3ydVvzWDOiqYLNVOf_VyPg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "수능 시험장 와이파이 차단 종료…24시간 만에 정상화",
+          "url": "https://marketin.edaily.co.kr/News/Read?newsId=04244326645647360",
+          "source": "마켓인"
+        },
+        {
+          "title": "[수능] 시험장 주변 와이파이 차단 해제…24시간 만에 정상화",
+          "url": "https://www.yna.co.kr/view/AKR20261119158500017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "공공와이파이 끊긴 수능장에 학교 안테나 뜬 까닭",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874883",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "lg 임원인사",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-19T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyh1SFsVCsVEbM0jDoPpmKERXvqq73Dxh8TdFB4tqTQpZXZiG61Q5edGG0Pis",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuMQQ_j4z_elosbTO7UzuS9HpvMTi0mbr--l55fMu1IoWrLVKklQbZ-WDiDzo",
       "category": "IT·과학",
       "news": [
         {
-          "title": "LG경영개발원 신임 대표에 하범종 ㈜LG 경영지원부문장",
-          "url": "https://www.yna.co.kr/view/AKR20261119137600003",
+          "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+          "url": "https://zdnet.co.kr/view/?no=20261119162858",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "LG, 주요 계열사 CEO 유임…경영 안정 속 기술인재 중용",
+          "url": "https://www.yna.co.kr/view/AKR20261119158400003",
           "source": "연합뉴스"
         },
         {
-          "title": "LG 주요 계열사 사장단 유임…부회장 승진 없이 '안정' 방점",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03870406645647360",
-          "source": "마켓인"
+          "title": "\"미래 경쟁\" LG전자, 임원 승부수…사장 2명 등 44명 승진",
+          "url": "https://www.hankyung.com/article/202611197795g",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "sri lanka vs pakistan",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T08:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKG38yEjzvUDps1gYFwAtuHrD3aBoarlAXko_sIO98vR_Y7ult9YEX4bZx7c8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
+          "url": "https://www.cricbuzz.com/cricket-news/140960/ghori-razaullah-push-pakistan-to-commanding-position-in-rawalpindi-cricbuzzcom",
+          "source": "Cricbuzz"
         },
         {
-          "title": "LG그룹 주요 계열사 대표 유임 속 'AI·로보틱스' 인재 발탁, 신규 임원 89명",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452445",
-          "source": "비즈니스포스트"
+          "title": "Pakistan's Saqib Khan in action on day two against Sri Lanka",
+          "url": "https://en.yenisafak.com/sports/pakistans-saqib-khan-in-action-on-day-two-against-sri-lanka-3725716",
+          "source": "Yeni Safak English"
+        },
+        {
+          "title": "Sri Lanka on verge of embarrassing double blow following 'costly' WTC deductions",
+          "url": "https://www.foxsports.com.au/en-AU/news/cricket/cricket-sri-lanka-pakistan-match-report-scores/vrk38s6oex4714r5n0yi159cg",
+          "source": "Fox Sports"
         }
       ]
     },
@@ -78,198 +199,73 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-19T06:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHnxEBRCB1oXHKsuCDVYri0mTEUryyKesjdnRxRFvfBOg4MtgrxbXfBcPsiyg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "3천600톤급 호위함 ‘평택함’ 진수…시운전 거쳐 내년 해군 인도",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715888",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "평택함 한화오션에서 진수",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-          "url": "https://www.yna.co.kr/view/AKR20261118170400704",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "수능 결시율",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T06:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrErrFrQeooNjAn5R_JaM9AgOjH70ydXzF4g14RvUmy4aw-zGTk_skPtX2WTo",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
-          "url": "https://www.news1.kr/society/education/6359569",
-          "source": "뉴스1"
-        },
-        {
-          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[2027 수능] 전국 평균 시험 응시율 90.03%… 부산 93.16% 최고",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/XRVCATVQS5G6ZGQPOBSORFZ55M/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "민주유공자법",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T05:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWzvYbKKSMdvcrqcKkGv_2DjX8jUlWXkNQZ19YqMhF8HxNpefKJ_fPjiaETFg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBJvtuT7gHzwTLRCMoARKpABb47U6Ztm_YD2x1Y0jSi193Sk5VcXIBw3s1k4E",
       "category": "정치·사회",
       "news": [
         {
-          "title": "'민주유공자법' 본회의 상정‥국힘 \"운동권 노후 특혜법\" 반발",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6866971_36911.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "민주유공자법, 국힘 필리버스터에도 민주당 주도로 본회의 상정",
-          "url": "https://www.donga.com/news/Politics/article/all/20261119/135055192/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[속보] ‘민주유공자법’ 국회 본회의 상정…국민의힘, 무제한 토론(필리버스터) 돌입",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717337",
+          "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260",
           "source": "KBS 뉴스"
+        },
+        {
+          "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
+          "url": "https://www.hankyung.com/article/2026111972367",
+          "source": "한국경제"
+        },
+        {
+          "title": "트럼프 구애에도 김정은 '마이웨이'…북미 정상회담 멀어지나",
+          "url": "https://www.yna.co.kr/view/AKR20261119066600504",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "예비타당성조사",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T05:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwmGSGzDqrwY5LEP5ahed99ZB3dq-A4c45QmIJ1N3rDCIhuztgPKB0qykzOg",
-      "category": "스포츠",
+      "keyword": "라미란",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T07:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ6IBWbgmGSyNEorPXP_05IahOfVx7YdOEr6CBB9aQxusFxPyfdYKrK1JLaIQ",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "복지부, 20일 경기 동북부 공공의료원 예비타당성 조사 신청",
-          "url": "https://www.yna.co.kr/view/AKR20261119039300060",
+          "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
+          "url": "https://www.yna.co.kr/view/AKR20261118043900005",
           "source": "연합뉴스"
         },
         {
-          "title": "경기 동북부 의료 공백 메울까…남양주 공공의료원 건립 ‘청신호’",
-          "url": "https://www.kyeonggi.com/article/20261119580141",
-          "source": "경기일보"
-        },
-        {
-          "title": "남양주 공공의료원, 예타 신청사업 선정…400병상 공공병원 추진 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111914075910645",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "수능 샤프",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T05:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBFSruefw15t3Ceb3Ask6D3mSv_rDn_Ti-KfqyGhcAFIY1puGMIz6b1KksIs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "연필은 불티, 사인펜은 쌓였다...편의점업계, 수능 특수 김샜다 - 머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/19/2026111915033666154",
-          "source": "머니투데이"
-        },
-        {
-          "title": "올해 수능 샤프는 ‘무궁화보라색’…기본 샤프심은 5개",
-          "url": "https://www.donga.com/news/Society/article/all/20261119/135052284/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
-          "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "버거킹 초콜릿와퍼",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T06:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprEAsQW9m4mIrJXQzdSnXBum9BuzE39ZRUD6hs9MrDGiaYuoBnymmq4xtOkU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"만우절 거짓말인 줄 알았는데\"…버거킹, 진짜 '초콜릿 와퍼' 내놓는다 - 머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/11/17/2026111708270380871",
-          "source": "머니투데이"
-        },
-        {
-          "title": "고기 대신 브라우니? 만우절 농담 ‘초콜릿 와퍼’ 현실로!",
-          "url": "https://kids.donga.com/news/articleView.html?idxno=170338",
-          "source": "어린이동아"
-        },
-        {
-          "title": "패티는 브라우니, 피클은 초콜릿…버거킹 '초콜릿 와퍼' 성수서 첫선",
-          "url": "https://www.newsis.com/view/NISX20261117_0003870829",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "디 에이치 반포 124",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg_u4PVmKXSOuDOwh3HU-532OyeZPqBGYvZwZNxTqQhUrEyY1FFLSBtHvs0_Y",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[단독] “평당 분양가 1억 넘기면 안된다”…디에이치 반포124 제동",
-          "url": "https://www.mk.co.kr/news/realestate/12213314",
-          "source": "매일경제"
-        },
-        {
-          "title": "반포 한강 바로 앞… ‘압도적 하이엔드 대단지’ 내달 분양한다",
-          "url": "https://www.chosun.com/special/special_section/2026/11/19/FO7UFD3IAZCRBAGOMOX37Z34P4/",
+          "title": "유아인 마약에 3년 기다렸는데... 라미란, 고경표 음주운전에 차기작 날벼락",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MVRTEMZXMQZGMZTFGQ2GMOJWGU/",
           "source": "조선일보"
         },
         {
-          "title": "'30억 로또' 디에이치 반포124 청약 일정 밀린다",
-          "url": "https://www.hankyung.com/article/2026111857156",
-          "source": "한국경제"
+          "title": "AI 부정행위 논란 속 고경표가 '최대 수혜자'? [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611181435551476",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "서울교통공사",
+      "keyword": "이병철",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-19T05:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtUSdAIFaHKEiVfZAqZgeb62uupDDYJGnrCYnK5b17RzgiiUCY0I4Fj-Cty8E",
+      "startedAt": "2026-11-19T07:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNM8utw-ImqmdZcKMQmkiGbrwp2NCoXIZynEbKffbGCJYckKU5owzrxS8H_ZI",
       "category": "기타",
       "news": [
         {
-          "title": "출퇴근 대란 오나… 서울 지하철 노조, 내일부터 ‘준법투쟁’",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/TGJDBU42RBF6RM7VE35YG6A5FU/",
-          "source": "Chosunbiz"
+          "title": "이병철 창업 회장 39주기, 범삼성가 선영 참배",
+          "url": "https://www.donga.com/news/Economy/article/all/20261119/135054236/1",
+          "source": "동아일보"
         },
         {
-          "title": "열차 지연 가능성…서울지하철 노조, 20일 아침부터 준법투쟁",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854255",
-          "source": "SBS 뉴스"
+          "title": "이병철 삼성 창업회장 39주기… 범삼성家 용인서 추도식",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/19/MTYMXXQ5DVEJDOUZDPRMHKWE2Q/",
+          "source": "조선일보"
         },
         {
-          "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
-          "url": "https://www.yna.co.kr/view/AKR20261118090900004",
-          "source": "연합뉴스"
+          "title": "이병철 삼성 회장 추도식 참석한 홍라희",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261119_0021538710&pID=1&cID=&sID=1&type=photoMain&idx=5",
+          "source": "뉴시스"
         }
       ]
     }
