@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-19T17:51:21.447Z",
+  "updatedAt": "2026-11-19T18:53:44.044Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 6
     },
     {
       "category": "경제",
-      "count": 4
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 1
     },
     {
       "category": "IT·과학",
@@ -16,9 +20,9 @@
   ],
   "items": [
     {
-      "keyword": "앤트로픽",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "keyword": "앤트로픽 주가",
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-19T14:20:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5vNCtA0NQvOtu5ggeazwfckWWadqGqz__TfdVs5XjFt1DERVx2XKbskBCOto",
       "category": "경제",
@@ -29,39 +33,14 @@
           "source": "연합뉴스"
         },
         {
-          "title": "앤트로픽 상장에 백만장자 수천명 탄생…1인평균 580억원 '잭팟'",
-          "url": "https://stock.mk.co.kr/news/view/1202798",
-          "source": "매일경제 마켓"
+          "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
+          "source": "연합인포맥스"
         },
         {
-          "title": "외신 “앤트로픽, 공모가 83달러”…스페이스X 조달액 기록 넘어설듯",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716816",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "anthropic stock",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-19T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk",
-      "category": "경제",
-      "news": [
-        {
-          "title": "Anthropic IPO live: Anthropic stock begins trading at $111.50 per share in record offering",
-          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Anthropic Surges to $2 Trillion Valuation After Nasdaq Debut",
-          "url": "https://www.chosun.com/english/industry-en/2026/11/20/JS6LNDTYBFD53ELABY77E2NZIQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Dow dives 600 points as Anthropic IPO milestone causes investors to take profits: Live updates",
-          "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-          "source": "CNBC"
+          "title": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장",
+          "url": "https://www.khan.co.kr/article/202611192045005",
+          "source": "경향신문"
         }
       ]
     },
@@ -70,23 +49,23 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-19T14:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzxI0asjzzLrHIdIee7WtZmC4NltQf9n8slhJrDaMC_AmTJvmQbBUHgMbMDO4",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSUTIZhSVFWF9EBNyga9kNjGWzgvcN8-h_60ULtyyx_B5i4F_IksqvzJawmmQ",
       "category": "기타",
       "news": [
         {
-          "title": "“설탕 안 들었어도 혈당 수직 상승”… 의사가 경고한 ‘혈당 폭탄 재료’",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/11/19/2026111902752.html",
-          "source": "헬스조선"
+          "title": "연천군, 스마트경로당 112개소서 어르신 건강 강좌…수분 섭취 강조",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757520",
+          "source": "국제뉴스"
         },
         {
-          "title": "각설탕 9개 먹은 거나 마찬가지… 의사가 경고한 당 폭탄 '음료'",
-          "url": "https://www.wikitree.co.kr/articles/1175864",
-          "source": "위키트리"
+          "title": "연천군, 스마트경로당 112곳 대상 어르신 건강강좌 운영",
+          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1071565",
+          "source": "내외뉴스통신"
         },
         {
-          "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
-          "url": "https://kormedi.com/2904583/",
-          "source": "코메디닷컴"
+          "title": "연천군, 스마트경로당 112곳 연결해 어르신 건강관리 교육",
+          "url": "https://www.pressian.com/pages/articles/2026111914370018698",
+          "source": "프레시안"
         }
       ]
     },
@@ -116,17 +95,42 @@
       ]
     },
     {
+      "keyword": "웹툰",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T17:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB9r9DhZmsPlyMpEZCGzEq2LN26tFRpmZ1MVDy4_7qYrCTGv9xFXbbkqz-Vk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
+          "url": "https://cine21.com/news/view/?mag_id=111294",
+          "source": "씨네21"
+        },
+        {
+          "title": "\"압도적\"…'재혼 황후' 신민아, 외신 찬사 쏟아진 '퀸민아' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111913307297613",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'재혼 황후' 인기에 웹툰 글로벌 조회수 35배 증가",
+          "url": "https://www.yna.co.kr/view/AKR20261119119100005",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
       "keyword": "amd",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-19T15:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRspOoN6rkQ9Auij6pdXNxvXj9ATATMg6wCoBHlSljtqOUHpOW6V-5TEAnhzko",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZVomiXE3RFkNiWXaycPdqzeBYFI7YDG7CyvK8I84qx40CNMZ3ovLl6MVmvQk",
       "category": "기타",
       "news": [
         {
-          "title": "AMD falls on short-seller report of alleged China exposure",
-          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-          "source": "CNBC"
+          "title": "Problems at AMD (AMD)",
+          "url": "https://hntrbrk.com/investigations/bank-of-amd",
+          "source": "Hunterbrook"
         },
         {
           "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
@@ -134,9 +138,34 @@
           "source": "www.tokenpost.com"
         },
         {
-          "title": "AMD Slides After Hunterbrook Shorts Stock, Cites Circular Deals",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
-          "source": "Bloomberg.com"
+          "title": "Hunterbrook Takes Short Position in AMD, Alleges Blacklisted Chinese Server Maker Kept Receiving New Firmware",
+          "url": "https://finance.biggo.com/news/88c1bf42-fd44-48ff-89f1-58f7f20bffb1",
+          "source": "BigGo Finance"
+        }
+      ]
+    },
+    {
+      "keyword": "플라비오 코볼리",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T15:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJuZ27mblBb2q7aNYaea-EO03DIb4hy8ZmUlEHUSr1fPOXttKF_BCK5AVGqnA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757758",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "코볼리, 눈물의 기자회견...\"내 커리어에서 가장 슬픈 경기\"",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54330",
+          "source": "테니스코리아"
+        },
+        {
+          "title": "[ATP 파이널스] 리턴하는 코볼리",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757438",
+          "source": "국제뉴스"
         }
       ]
     },
@@ -179,8 +208,8 @@
           "source": "중도일보"
         },
         {
-          "title": "호남대 앵커사업단, ‘2026 호남 e스포츠 시리즈’ 성료",
-          "url": "http://m.newstoktok.com/article.php?aid=27184892173",
+          "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
+          "url": "http://newstoktok.com/article.php?aid=27315247155",
           "source": "톡톡뉴스"
         },
         {
@@ -191,52 +220,27 @@
       ]
     },
     {
-      "keyword": "플라비오 코볼리",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T15:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDoqZtrhQ0sk4V01S1f1YNWg-tRzOFM-57ZnLyekBi22GxiFy38zWY3ufQCo",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"韓 충격 안겼다\" 이변에 익숙한 한국, 이미 아르헨→인도 넘었다... 伊 만나도 주눅 들지 않는 이유 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111914011325855",
-          "source": "머니투데이"
-        },
-        {
-          "title": "정현 “팬들이 기억하는 ‘신데렐라의 기적’ 한번 더”",
-          "url": "https://www.donga.com/news/Sports/article/all/20261118/135042481/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "이제, 반란 꿈꾸는 남자들",
-          "url": "https://www.seoul.co.kr/news/sport/tennis/2026/11/18/20261118034002",
-          "source": "서울신문"
-        }
-      ]
-    },
-    {
       "keyword": "회계사",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-19T14:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsO6ZVL2zeRqvJeA-GTQXe6tLoR-Ho1CaTtBymLHx4kDMwTrfhpo8t3jXSwg",
-      "category": "경제",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuggleTY9atYY60zXuOAUNOFln9JDZ-qDs7bWcWAuc7EzU7OuEF9GDn9vQkLk",
+      "category": "기타",
       "news": [
         {
-          "title": "회계사 합격해도 수습처 없다…금융위, 내년 선발 1100명으로 감축 전망",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874868",
-          "source": "뉴시스"
+          "title": "한국만의 독특한 감사인 지정제…감사품질 높였나",
+          "url": "https://core.asiae.co.kr/article/2026111915554393113",
+          "source": "아시아경제"
         },
         {
-          "title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
-          "url": "https://stock.mk.co.kr/news/view/1201525",
-          "source": "매일경제 마켓"
+          "title": "최운열 한공회장 “지정감사 끝나자 가격경쟁 재점화…품질로 경쟁해야” [시그널]",
+          "url": "https://www.sedaily.com/article/20116635",
+          "source": "서울경제"
         },
         {
-          "title": "시험 합격해도 수습할 곳 없다…공인회계사 선발 인원 감축 검토",
-          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=108029",
-          "source": "코리아이글뉴스"
+          "title": "최운열 한공회장, 세계에 신외감법 성과 알려…\"韓 회계투명성 껑충\"",
+          "url": "https://www.news1.kr/finance/general-stock/6360144",
+          "source": "뉴스1"
         }
       ]
     },
