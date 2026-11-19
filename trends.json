@@ -1,16 +1,20 @@
 {
-  "updatedAt": "2026-11-19T13:03:35.589Z",
+  "updatedAt": "2026-11-19T14:22:01.409Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "count": 5
     },
     {
       "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     },
     {
@@ -20,68 +24,59 @@
   ],
   "items": [
     {
-      "keyword": "정부24",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T11:20:00.000Z",
-      "picture": "",
-      "category": "정치·사회",
-      "news": []
-    },
-    {
-      "keyword": "한진칼",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T10:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7QNRGwc8xxm9NMaBeEROsKp3qMFv23AqKZU9zS2st-xAY89-LkF8uKTj5WI",
+      "keyword": "thời tiết ngày mai",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-19T11:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRli_SBsPD2DhOo7GruGy2LW7cIvoaReeDMbXuuZGH2HGsyb76Khp_WAnPVI6M",
       "category": "기타",
       "news": [
         {
-          "title": "호반의 한진칼 평가차익 1조5700억··· 현금화 전략 '고심'",
-          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720237",
-          "source": "뉴스프리존"
+          "title": "Dự báo thời tiết đêm nay, ngày mai - 20/11/2026: Không khí lạnh tăng cường nhiệt độ giảm sâu hơn",
+          "url": "https://truyenhinhnghean.vn/media/chuyen-muc/ban-tin-thoi-tiet/202611/du-bao-thoi-tiet-dem-nay-ngay-mai-20112026-khong-khi-lanh-tang-cuong-nhiet-do-giam-sau-hon-0e23669/",
+          "source": "Báo và Phát thanh, Truyền hình Nghệ An"
         },
         {
-          "title": "M&A로 리솜리조트·대한전선 등 인수… ‘자산 20조’ 몸집 키워 재계 33위[Who, What, Why]",
-          "url": "https://www.munhwa.com/article/11632128",
-          "source": "문화일보"
+          "title": "Không khí lạnh tăng cường, dự báo khu vực có mưa rất to trên 250mm",
+          "url": "https://laodong.vn/video/khong-khi-lanh-tang-cuong-du-bao-khu-vuc-co-mua-rat-to-tren-250mm-1803318.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "조원태 우호펀드, 만기 없앴다…한진칼 경영권 분쟁 장기전 대비",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/15/2026111580037.html",
-          "source": "인베스트조선"
+          "title": "Thời tiết đêm 19 ngày 20-11: Không khí lạnh tăng cường, Bắc Bộ rét đậm, Trung Bộ chuyển lạnh",
+          "url": "https://tuoitre.vn/video/thoi-tiet-dem-19-ngay-20-11-khong-khi-lanh-tang-cuong-bac-bo-ret-dam-trung-bo-chuyen-lanh-204531.htm",
+          "source": "Báo Tuổi Trẻ"
         }
       ]
     },
     {
-      "keyword": "cuaca besok",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-19T11:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkNzWBKEz-AboIXfv--CGK0GP0UyZEk7BcKFBb6zdP9l0Lr181Gd5BkQQpwVM",
-      "category": "기타",
+      "keyword": "정부24",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T11:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6LHH9f0iO3BYvexzffxaZ3WxGeGU_T6tJYosZHnLc93ILtAcHZ8Ilfz_TSck",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "BMKG: Cuaca Jakarta Besok, Hujan Ringan Berpotensi Turun di 6 Wilayah",
-          "url": "https://megapolitan.kompas.com/read/2026/11/19/18184651/bmkg-cuaca-jakarta-besok-hujan-ringan-berpotensi-turun-di-6-wilayah",
-          "source": "Kompas.com"
+          "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "Hari Ini Jakarta Diprediksi Hujan Ringan Hingga Petir",
-          "url": "https://metropolitan.tvrinews.com/berita/tk5la8m-hari-ini-jakarta-diprediksi-hujan-ringan-hingga-petir",
-          "source": "TVRI News"
+          "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
+          "url": "https://www.ggpyeonghwa.com/631243",
+          "source": "경기평화신문"
         },
         {
-          "title": "Waspadai Hujan Lebat Disertai Petir di Sejumlah Wilayah Jabodetabek hingga Sore Ini - kumparan.com",
-          "url": "https://kumparan.com/kumparannews/waspadai-hujan-lebat-disertai-petir-di-sejumlah-wilayah-jabodetabek-hingga-sore-ini-28bTvQBQzi9",
-          "source": "kumparan"
+          "title": "“이제 검진서류 떼러 병원 갈 필요 없네”",
+          "url": "https://www.k-health.com/news/articleView.html?idxno=102344",
+          "source": "헬스경향"
         }
       ]
     },
     {
       "keyword": "이재시",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-19T11:00:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-qpbfn7vCymB723Lcf4dnemXrCYEhnQeSedC_Zi53e_fC03IuV7u7YK5Ayuc",
       "category": "기타",
@@ -92,39 +87,139 @@
           "source": "조선일보"
         },
         {
-          "title": "최수린 아들, 185㎝ 메기남 등판 \"짝사랑 해본 적 없어…결국 다 사귀더라\"",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874149",
-          "source": "뉴시스"
+          "title": "최수린 아들 이승훈, ‘메기남’ 등장…이동국 딸 이재시에 직진 (내 새끼의 연애3)",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12213251",
+          "source": "매일경제"
         },
         {
-          "title": "전지우, 메기남 이승훈에 호감…\"이준수보다 이상형에 가까워\"",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6358647",
-          "source": "뉴스1"
+          "title": "'이동국 딸' 이재아, 쌍둥이 언니 인기에 밀렸다..\"이재시 없으면 나도 괜찮아\"('내새연3')",
+          "url": "https://www.koreadaily.com/article/20261118053149563",
+          "source": "미주중앙일보"
         }
       ]
     },
     {
-      "keyword": "김지훈",
+      "keyword": "lg화학",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-19T10:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAOx7NSVbh1NfR_FtBnwNYReMjetjlFD7ghrQ9GCdiy1pDoNbpdQQQDf40rmg",
+      "startedAt": "2026-11-19T13:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfREDWZw3zwbGqCG8OvcUxc6tIoifVoFyer9M6avoapZezcdoaBM-WKwrGtko",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
+          "url": "https://www.khan.co.kr/article/202611192045025",
+          "source": "경향신문"
+        },
+        {
+          "title": "LG, 주요 계열사 CEO 유임…권봉석 '1인 부회장' 체제 유지(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119158401003",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "cuaca besok",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T11:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobXAzeV5_BhzyuGv1zs9FrRUc9c32qEiKG1bTAVj5d08N7il6l1HOdhClckU",
       "category": "기타",
       "news": [
         {
-          "title": "LG헬로비전 신임 CEO에 김지훈 사업총괄",
-          "url": "https://www.yna.co.kr/view/AKR20261119146700017?section=people/personnel",
+          "title": "BMKG Ungkap 37 Daerah di Indonesia Berpotensi Hujan Hari Ini",
+          "url": "https://www.cnnindonesia.com/teknologi/20261119042759-641-1428762/bmkg-ungkap-37-daerah-di-indonesia-berpotensi-hujan-hari-ini",
+          "source": "CNN Indonesia"
+        },
+        {
+          "title": "BNPB imbau sejumlah provinsi khususnya Kalbar siaga cuaca ekstrem",
+          "url": "https://jambi.antaranews.com/video/5863511/bnpb-imbau-sejumlah-provinsi-khususnya-kalbar-siaga-cuaca-ekstrem",
+          "source": "ANTARA News Jambi"
+        },
+        {
+          "title": "BMKG Prakirakan Hujan Lebat Disertai Petir dan Angin Kencang di Pontianak",
+          "url": "https://pontianakpost.jawapos.com/nasional/2611190078/bmkg-prakirakan-hujan-lebat-disertai-petir-dan-angin-kencang-di-pontianak",
+          "source": "Pontianak Post"
+        }
+      ]
+    },
+    {
+      "keyword": "변상일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T12:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8YveAS2CA82eeapL1W-EbAEnGSDJT7DQQgLJMD_TOA-AUDFl9RYvT8hsGVmE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "변상일, 삼성화재배 결승 2국 리친청에 불계승…승부 원점",
+          "url": "https://www.yna.co.kr/view/AKR20261119134500007",
           "source": "연합뉴스"
         },
         {
-          "title": "LG헬로비전, 7년 만에 수장 교체…김지훈의 과제는 ‘수익성 회복’",
-          "url": "https://www.donga.com/news/Economy/article/all/20261119/135056326/1",
-          "source": "동아일보"
+          "title": "바둑 변상일, 삼성화재배 2국서 리친청에 반격 성공…내일 최종국",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875403",
+          "source": "뉴시스"
         },
         {
-          "title": "LG헬로비전, 김지훈 신임 CEO 선임…7년 만에 수장 교체",
-          "url": "https://www.etnews.com/20261119000404",
-          "source": "전자신문"
+          "title": "'세계 1위 신진서 잡은 저력' 부활…변상일, 우승까지 -1승",
+          "url": "https://www.nocutnews.co.kr/news/6609789",
+          "source": "노컷뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "금오산",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T12:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlalARBX0Iu16tqxArINp63Z-SXHa0C2HmH5pp78iBXmyiqQgEcJfg6v95jRc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "구름에 달 가듯이… 전국 곳곳 ‘공중 산책로’ 뜬다",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261118019009",
+          "source": "서울Pn"
+        },
+        {
+          "title": "경북 구미시, 금오산에 '하늘다리' 놓았다…길이 35m·폭 3.5m",
+          "url": "https://www.yna.co.kr/view/AKR20261117008800053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "구미 금오산 ‘효자봉~대관정 등산로’ 잇는 하늘다리 개통",
+          "url": "https://www.donga.com/news/Society/article/all/20261116/135034592/2",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "하나로마트",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T11:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhbC0vxa89mWrwXi1_0HaccUjkJ_Ksu1goHR2EDIqI6wO8pvwwm7wwA4GbRlQ",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "영주시, 부산 소비시장 진출로 농특산물 판로 확대",
+          "url": "https://www.viva100.com/article/20261119501072",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "영주 사과·고구마·생강 72톤, 부산 하나로마트서 특판",
+          "url": "https://www.imaeil.com/page/view/2026111910530677533",
+          "source": "매일신문"
+        },
+        {
+          "title": "영주사과축제, 서울 청계광장에서 만나는 영주사과의 달콤한 매력",
+          "url": "https://ja-media.kr/news/article.html?no=1963813",
+          "source": "중앙뉴스미디어"
         }
       ]
     },
@@ -154,102 +249,27 @@
       ]
     },
     {
-      "keyword": "강지환",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T10:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGJyseLjpTx7ekn44Cr5YKnEKSF55DlavqF6YihH-xiSEPRhfi7Tt5ehpcV7E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'스태프 성폭행→34억 배상' 강지환, 틱톡커 된 근황…팬들은 후원 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/19/2026111920065169466",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘스태프 성추행’ 강지환 틱톡커 전향? 뜨개질 라방 [DA피플]",
-          "url": "https://sports.donga.com/ent/article/all/20261119/135055909/2",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "'스태프 성폭행' 강지환, 뜨개질 틱토커 됐다..7년 만의 근황 공개 [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/G42GIZTCGQZTEZBTGRSDQYLDGA/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "한국수력원자력",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T10:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwu5JWNn6qcydLWtBlNeFSEqzQikB_9cWENWVpkwiH4ej_EjzQpDRNwOfx3vg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "한수원, 동료가 동료 지키는 ‘마인드키퍼’ 출범",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375030",
-          "source": "전기신문"
-        },
-        {
-          "title": "한수원, 발전소 동료가 지키는 마음건강 안전망…'마인드키퍼' 출범",
-          "url": "https://www.etnews.com/20261119000455",
-          "source": "전자신문"
-        },
-        {
-          "title": "동료의 마음건강 내가 지킨다…한수원, 마음건강 안전망 ʻ마인드키퍼ʼ 출범",
-          "url": "https://zdnet.co.kr/view/?no=20261119192053",
-          "source": "지디넷코리아"
-        }
-      ]
-    },
-    {
-      "keyword": "하나로마트",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T11:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhbC0vxa89mWrwXi1_0HaccUjkJ_Ksu1goHR2EDIqI6wO8pvwwm7wwA4GbRlQ",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "영주시, 부산 소비시장 진출로 농특산물 판로 확대",
-          "url": "https://www.viva100.com/article/20261119501072",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "영주 사과·고구마·생강 72톤, 부산 하나로마트서 특판",
-          "url": "https://www.imaeil.com/page/view/2026111910530677533",
-          "source": "매일신문"
-        },
-        {
-          "title": "영주사과, 청계광장 축제 넘어 홈쇼핑·대형마트로 판로 확대",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090856",
-          "source": "경북일보"
-        }
-      ]
-    },
-    {
       "keyword": "푸틴",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-19T11:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNTNNJKK6TjYfKdSipY2Z0KdwHoirXzglQgg80-gM_WqRtLTNprgZbWvYnnnk",
-      "category": "정치·사회",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZFoEoOxU8_04Axy1wduAA2bAva45rUSI0wJDrmIZHr3nj-j8mNtR6SmljPEI",
+      "category": "기타",
       "news": [
         {
-          "title": "[속보] 미·중·러 정상, 유엔 개혁 및 핵전쟁 방지 등 합의",
-          "url": "https://www.chosun.com/international/us/2026/11/19/Z26ERGLQUVFW7LVRUZK665GGMY/",
-          "source": "조선일보"
+          "title": "미·중·러, 핵무기 감축 대원칙 합의…우크라戰 종식도 논의",
+          "url": "https://www.hankyung.com/article/2026111985011",
+          "source": "한국경제"
         },
         {
-          "title": "[미중러 정상회담] 강대국들의 국제질서 거래외교 신호탄되나…'승자는 푸틴'",
-          "url": "https://www.yna.co.kr/view/AKR20261119177500071",
+          "title": "트럼프·시진핑·푸틴 사상 첫 회동…“핵전쟁은 승자 없다”",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57276",
+          "source": "주간조선"
+        },
+        {
+          "title": "[미중러 정상회담] 한반도 어떤 논의했나…美 \"핵확산\" 언급 주목",
+          "url": "https://www.yna.co.kr/view/AKR20261119182600504",
           "source": "연합뉴스"
-        },
-        {
-          "title": "[속보] 푸틴 “미·중·러, 우크라이나 분쟁 해결에 공통 이해관계 많아”",
-          "url": "https://www.khan.co.kr/article/202611191838001",
-          "source": "경향신문"
         }
       ]
     }
