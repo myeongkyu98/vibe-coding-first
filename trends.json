@@ -1,271 +1,271 @@
 {
-  "updatedAt": "2026-11-19T22:43:50.277Z",
+  "updatedAt": "2026-11-19T23:39:14.547Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 6
     },
     {
       "category": "경제",
-      "count": 3
-    },
-    {
-      "category": "연예",
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "아파트",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-19T21:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-FZD5xMsLnU1-G2YhcN3mTO3iRmaPtNh_ZUMQmGmeYQ5_QIN1lPCam_k8ff0",
-      "category": "경제",
-      "news": [
-        {
-          "title": "\"시공사 먼저 본다\"…분양가 뛰자 청약통장 70% 대형 건설사로",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873039",
-          "source": "뉴시스"
-        },
-        {
-          "title": "지방 분양시장 브랜드 대단지에 관심… 888세대 ‘고창 데시앙’ 공급 예정",
-          "url": "https://biz.heraldcorp.com/article/10942233",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "공급 적은 지역 ‘새 아파트’… 수년 만의 신규 분양에 대기수요 ‘반색’",
-          "url": "https://www.seoul.co.kr/news/economy/2026/11/18/20261118500140",
-          "source": "서울신문"
-        }
-      ]
-    },
-    {
-      "keyword": "weather",
+      "keyword": "기아",
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-19T21:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNRzJVcKD69uaNtwamhZ-ijzdzuZoDUBs2ITQvcG9T98wD6C6D5FEiNRDdQvI",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT1x0vSWPIaFJ4vC9_FzeGWAj0dGNCOqAtS53ZhmQAlCShti01Hhb6nEDmVhY",
       "category": "기타",
       "news": [
         {
-          "title": "Weather outlook points to snowy winter in Colorado, per NOAA mapping",
-          "url": "https://www.denvergazette.com/outtherecolorado/2026/11/19/weather-outlook-points-to-snowy-winter-in-colorado-per-noaa-mapping/",
-          "source": "Denver Gazette"
+          "title": "기아 노사, 사회복지 단체에 레이·장학금 기부",
+          "url": "https://www.yna.co.kr/view/AKR20261119030900003",
+          "source": "연합뉴스"
         },
         {
-          "title": "‘We’ve really liked what we’ve gotten so far’: Snowpack in southwest Colorado sees significant increase from last year, according to USDA",
-          "url": "https://www.kktv.com/2026/11/13/weve-really-liked-what-weve-gotten-so-far-snowpack-southwest-colorado-sees-significant-increase-last-year-according-usda/",
-          "source": "KKTV"
+          "title": "‘사회공헌 나선 기아’⋯ 기아 노사, 복지단체에 레이 22대 등 기부 진행",
+          "url": "https://www.viva100.com/article/20261119500304",
+          "source": "브릿지경제"
         },
         {
-          "title": "#Snowpack news November 15, 2026",
-          "url": "https://coyotegulch.blog/2026/11/15/snowpack-news-november-15-2026/",
-          "source": "coyotegulch.blog"
-        }
-      ]
-    },
-    {
-      "keyword": "thời tiết",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-19T21:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNSeONwUc4pTMMU82oYh3IxDbH14uppCdnIzAkG_rZ30U_7eLED_KvMJ-vx0g",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Dự báo thời tiết 10 ngày tới từ đêm 19.11 đến 29.11 trên cả nước",
-          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-dem-1911-den-2911-tren-ca-nuoc-1802897.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "[Video]Không khí lạnh tăng cường, miền trung mưa lớn, có nơi trên 250mm",
-          "url": "https://nhandan.vn/videokhong-khi-lanh-tang-cuong-mien-trung-mua-lon-co-noi-tren-250mm-post1004052.html",
-          "source": "Báo Nhân Dân điện tử"
-        },
-        {
-          "title": "Dự báo thời tiết đêm 19 và ngày 20/11",
-          "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-19-va-ngay-2011-post914965.html",
-          "source": "Báo Lào Cai điện tử"
-        }
-      ]
-    },
-    {
-      "keyword": "택시",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-19T20:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SJlmmMGLWjv5NQWK6joT4cC6u9vfsFrIoKPoGxHTzWsiaH25gG8kS-tdOc8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
-          "source": "주간조선"
-        },
-        {
-          "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852786",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "경제",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-19T21:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe-huSU9XgzJoBhTIeK3rirMbfieQAzdM490BRO-nMjLzOmR50K-Nu5BOO7so",
-      "category": "경제",
-      "news": [
-        {
-          "title": "KDI \"올해 성장률 3.8%, 내년엔 3.9%...내년 수출액 1조4천억 달러\"",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611191105320724",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "'반도체 산유국' 현실 되나…내년 GDP의 3분의 1 육박 전망도",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04001606645647360",
+          "title": "기아 노사, 14년째 소외계층에 온정…복지차량 22대·기부금 전달",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02092646645647360",
           "source": "마켓인"
-        },
-        {
-          "title": "靑 \"국민소득 5만불, 임기 내 가능…수출 4강, 이제 현실화\"",
-          "url": "https://www.newsis.com/view/NISX20261119_0003875769",
-          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "한강 벨트",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-19T20:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW07Rg9EUVwryBa_wWKd2GqutP8250r7uwb3fWcqXlpbfYvyk-PD_HyDpaKS0",
+      "keyword": "파운드리",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ16wK-o13tfVbKE6j6Yak1UR8y-o_bR4oZcT8bCz4AiPAgC-_C1RcRS2SsAM",
       "category": "경제",
       "news": [
         {
-          "title": "‘한강벨트’ 용산·동작도 집값 하락",
-          "url": "https://www.khan.co.kr/article/202611192049035",
-          "source": "경향신문"
+          "title": "삼성 파운드리 심사 소문에 중국 인공지능 칩주 급락…정식 규정은 미발표",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611192007264489fbbec65dfb_1",
+          "source": "글로벌이코노믹"
         },
         {
-          "title": "같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석]",
-          "url": "https://www.hankyung.com/article/202611172505Q",
+          "title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 13일)",
+          "url": "https://www.hankyung.com/article/202611135556i",
           "source": "한국경제"
         },
         {
-          "title": "서울 아파트값 93주째 상승에도 오름폭 축소‥하락 지역 확대",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6866925_36932.html",
-          "source": "MBC 뉴스"
+          "title": "11/13(금), 오늘의 투자전략",
+          "url": "https://contents.premium.naver.com/finlit/wfpm/contents/261113081049782md",
+          "source": "네이버 프리미엄콘텐츠"
         }
       ]
     },
     {
       "keyword": "미스터트롯",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-19T21:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZxpC3cUpWUHu_gUGe2hkeGQvYGP5CLLlHwh71NWjckQJBO77zWY26cDMC-0c",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7De8upScZ93-HlihdC6XwZUuzVnO0eECAbpUcXil8j8wIhoapWl9HPucEiGk",
       "category": "연예",
       "news": [
         {
-          "title": "[강일홍의 이슈토크] 트롯 오디션도 베끼기 경쟁? '미트4' 원조의 위기",
-          "url": "https://news.tf.co.kr/read/entertain/2390694.htm",
-          "source": "더팩트"
+          "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
+          "url": "https://www.mk.co.kr/news/musics/12211506",
+          "source": "매일경제"
         },
         {
-          "title": "‘미스터트롯4′ 12월 17일 첫 방송... “어린 최백호를 만났다”",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/",
-          "source": "조선일보"
+          "title": "‘미스터트롯3’ TOP7 콘서트 성료…서울서 투어 마무리 : 연예",
+          "url": "https://news.jkn.co.kr/post/1108804",
+          "source": "재경일보"
         },
         {
-          "title": "'미스터트롯4' 12월 17일 첫 방송…현역·비현역 맞대결 예고",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083822",
-          "source": "진일보 | 전남일보"
+          "title": "'미스터트롯3' TOP7 콘서트, 눈물의 피날레…완전체 꽃피울 '다시, 우리' 기약하며 (MHN현장)[종합]",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1700829",
+          "source": "MHN스포츠"
         }
       ]
     },
     {
-      "keyword": "육아휴직",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T21:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoaa1-ot2KS2NVcZ6dDa-ueO5TI4WzakTyl7YEojnxDF_DX-B2x5DPLMiwq5E",
-      "category": "연예",
+      "keyword": "중산층",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T22:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSApbknsZ47-Nz4WMAuOilfHHBD-cvZwhXUkUKbDlQs_bib3mIXNwW2WXu3I0",
+      "category": "기타",
       "news": [
         {
-          "title": "임현주, 육아휴직 후 퇴사 논란에 \"내 자리에서 최선 다해\"",
-          "url": "https://www.ytn.co.kr/_sn/0117_202611171034289308",
-          "source": "YTN"
+          "title": "월급은 470만원 비슷한데도 남는 돈은 53만원 차이…중산층 저축 가른 ‘빚의 무게’ [데이터로 보는 머니무브]",
+          "url": "https://stock.mk.co.kr/news/view/1202608",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "'노브라 방송' '안경 뉴스' 임현주 아나, 13년 만에 MBC 떠난다 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111618310346981",
-          "source": "머니투데이"
+          "title": "[경제전망대] 외면받는 중산층, 얇아지는 허리",
+          "url": "https://www.kyeongin.com/article/1775041",
+          "source": "경인일보"
         },
         {
-          "title": "\"두 번 육아휴직 후 먹튀 퇴사? 사실 아냐\"… 임현주 전 아나운서, 작심 해명",
-          "url": "https://www.fnnews.com/news/202611172204230700",
+          "title": "[데이터로 읽는 사회] 중산층 52.9%, 진짜 중산층은 8%",
+          "url": "https://www.newsnnet.com/news/articleView.html?idxno=31151",
+          "source": "뉴스앤넷"
+        }
+      ]
+    },
+    {
+      "keyword": "vix",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T22:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BsT5NONHh7bH6FK5-Pa-2kjt04IOmT4jdEccffvu37LjQZF_JcXzmQ-F3Q4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Bitcoin drops 2.6% amid major U.S. stock market sell-off and rising volatility index",
+          "url": "https://pluang.com/en/news-feed/bitcoin-turun-dow-jatuh-vix-mencapai-28-21-pembaruan-pasar-19-nov",
+          "source": "Pluang"
+        },
+        {
+          "title": "VIX drops 32% since November peak as Bitcoin cr...",
+          "url": "https://pluang.com/en/news-feed/vix-turun-32-persen-puncak-november-bitcoin-jatuh-62k",
+          "source": "Pluang"
+        },
+        {
+          "title": "Dow Drops 1,000 Points as Bitcoin Falls 2.6% Amid Market Volatility",
+          "url": "https://www.kucoin.com/news/flash/dow-drops-1-000-points-as-bitcoin-falls-2-6-amid-market-volatility",
+          "source": "KuCoin"
+        }
+      ]
+    },
+    {
+      "keyword": "ai 데이터 센터",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhJd8ougb8Hx1PYrnE5LTg3_xcncwRd38f8iOpLj62Y_xzO-gv1PGjJmOtfUk",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "춘천기업혁신파크, AI데이터센터로 의료·바이오 생태계 모색",
+          "url": "https://www.yna.co.kr/view/AKR20261119147700062",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "춘천시, 2027~2029년 AI 기본계획 발표…4대 전략·31개 세부과제 추진",
+          "url": "https://www.viva100.com/article/20261117500359",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "춘천기업혁신파크, AI데이터센터 기반 바이오 혁신생태계 구축 본격화",
+          "url": "https://www.etnews.com/20261119000457",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "노화",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWYSqGbRQkvePHrlIBDmONXvbaKyxYta08rZjfDF7-6gW_9E_74m1piTzVvdw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“‘반찬 개수’에서 노화 속도가 보인다”… 노쇠 늦게 온 이들의 공통점",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701777.html",
+          "source": "헬스조선"
+        },
+        {
+          "title": "“나이 들면 심장 어디가 가장 많이 늙을까?”…노화 더 집중된 부위 보니",
+          "url": "https://kormedi.com/2907340/",
+          "source": "코메디닷컴"
+        },
+        {
+          "title": "100세 넘긴 장수인 '장내 미생물' 달랐다…노화 늦추는 비밀?",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549370",
+          "source": "약사공론"
+        }
+      ]
+    },
+    {
+      "keyword": "spcx",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuV26iiyzCf4aOF_6vT2TmDyfuxOPGB4SgSlIDLci8w5fDv5P2W_BkSyJ30cw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "SpaceX Aims to Be World’s Biggest AI Infrastructure Player in 2027",
+          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-aims-world-biggest-ai-160006488.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Wall Street is bullish on the growth prospects of SpaceX's (SPCX.US) two major businesses! The economic benefits of Starship launches are remarkable, and investments in AI data centers are expected to break even within a year.",
+          "url": "https://www.moomoo.com/news/post/1005202011/wall-street-is-bullish-on-the-growth-prospects-of-spacex",
+          "source": "Moomoo"
+        },
+        {
+          "title": "SpaceX stock trades near IPO price despite Star...",
+          "url": "https://pluang.com/en/news-feed/alasan-membeli-saham-spacex-spcx-dan-alasan-menunggu-2",
+          "source": "Pluang"
+        }
+      ]
+    },
+    {
+      "keyword": "대학 순위",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T22:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqS1LJTMuC8_iOsMY_ngO7NybMDCwkUGKlN-nfZ20VvyOsvaMHmCx8Mj5Td-A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "모나쉬 대학교는 지속가능성 분야에서 세계 21위를 차지했습니다.",
+          "url": "https://www.vietnam.vn/ko/dai-hoc-monash-dung-thu-21-the-gioi-ve-phat-trien-ben-vung",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "인천대, QS 세계대학 지속가능성 평가 2년 연속 상승…국내 25위",
+          "url": "https://www.kyeonggi.com/article/20261118580262",
+          "source": "경기일보"
+        },
+        {
+          "title": "한양대, QS 지속가능성평가 세계 133위…28계단 상승",
+          "url": "https://www.fnnews.com/news/202611191654527119",
           "source": "파이낸셜뉴스"
         }
       ]
     },
     {
-      "keyword": "지방세",
+      "keyword": "lisa leave with me (featured in always lalisa)",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-19T21:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-aB0Gf2S0XGPpCFWH0iJgBFDuECzmafhvn-o11iylbXMF-NonirisxGCyZ-g",
+      "startedAt": "2026-11-19T21:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMfaj4_cpzBG8Kl_SMr8yUiUHG6FG23ri0j5Ys9RuBL_Cd87Dtl2c8R54QnQY",
       "category": "기타",
       "news": [
         {
-          "title": "고액-상습체납자 1년새 29% 늘어 1만3697명",
-          "url": "https://www.donga.com/news/Society/article/all/20261118/135050552/2",
-          "source": "동아일보"
+          "title": "LISA Drops Emotional New Single ‘Leave With Me’ From ‘Always Lalisa’ Movie: Listen",
+          "url": "https://www.billboard.com/music/pop/lisa-new-single-leave-with-me-always-lalisa-movie-watch-video-1236384860/",
+          "source": "Billboard"
         },
         {
-          "title": "안산시, 세금 79억8천만 원 체납 203명 홈피에 공개",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041441",
-          "source": "기호일보"
+          "title": "BLACKPINK’s Lisa’s New Song Thanks Former Lover for Letting Her Go",
+          "url": "https://zapzee.net/2026/11/19/lisas-leave-with-me-sparks-breakup-song-buzz/",
+          "source": "ZAPZEE"
         },
         {
-          "title": "‘아! 이 사람이었어?’…서울시가 공개한 올해 지방세 고액체납자 1위는...",
-          "url": "https://www.munhwa.com/article/11632635",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "마우리시오 포체티노",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T20:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaWoN7jkVAwqOXgZtp8GU78E5P9j4AkHHibrv2Y_YzwAvdHAgB3a_a_vMX9To",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
-          "url": "https://www.yna.co.kr/view/AKR20261119020100007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "축구의 묘미는 역시 ‘바이시클킥’",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "표류하는 맨유… 퍼거슨 이후 감독한테만 1700억 썼다",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/20/LKLFPOHWQZARJLO45OWBXBZGGA/",
-          "source": "조선일보"
+          "title": "Watch the 'Always Lalisa' documentary with YouTube Premium on November 18",
+          "url": "https://blog.youtube/culture-and-trends/youtube-premium-always-lalisa-documentary/",
+          "source": "YouTube Official Blog"
         }
       ]
     }
