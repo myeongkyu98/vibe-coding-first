@@ -1,28 +1,99 @@
 {
-  "updatedAt": "2026-11-19T21:45:08.567Z",
+  "updatedAt": "2026-11-19T22:43:50.277Z",
   "summary": [
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 4
     },
     {
-      "category": "기타",
+      "category": "경제",
       "count": 3
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
       "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "아파트",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-19T21:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-FZD5xMsLnU1-G2YhcN3mTO3iRmaPtNh_ZUMQmGmeYQ5_QIN1lPCam_k8ff0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"시공사 먼저 본다\"…분양가 뛰자 청약통장 70% 대형 건설사로",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873039",
+          "source": "뉴시스"
+        },
+        {
+          "title": "지방 분양시장 브랜드 대단지에 관심… 888세대 ‘고창 데시앙’ 공급 예정",
+          "url": "https://biz.heraldcorp.com/article/10942233",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "공급 적은 지역 ‘새 아파트’… 수년 만의 신규 분양에 대기수요 ‘반색’",
+          "url": "https://www.seoul.co.kr/news/economy/2026/11/18/20261118500140",
+          "source": "서울신문"
+        }
+      ]
+    },
+    {
+      "keyword": "weather",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-19T21:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNRzJVcKD69uaNtwamhZ-ijzdzuZoDUBs2ITQvcG9T98wD6C6D5FEiNRDdQvI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Weather outlook points to snowy winter in Colorado, per NOAA mapping",
+          "url": "https://www.denvergazette.com/outtherecolorado/2026/11/19/weather-outlook-points-to-snowy-winter-in-colorado-per-noaa-mapping/",
+          "source": "Denver Gazette"
+        },
+        {
+          "title": "‘We’ve really liked what we’ve gotten so far’: Snowpack in southwest Colorado sees significant increase from last year, according to USDA",
+          "url": "https://www.kktv.com/2026/11/13/weve-really-liked-what-weve-gotten-so-far-snowpack-southwest-colorado-sees-significant-increase-last-year-according-usda/",
+          "source": "KKTV"
+        },
+        {
+          "title": "#Snowpack news November 15, 2026",
+          "url": "https://coyotegulch.blog/2026/11/15/snowpack-news-november-15-2026/",
+          "source": "coyotegulch.blog"
+        }
+      ]
+    },
+    {
+      "keyword": "thời tiết",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-19T21:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNSeONwUc4pTMMU82oYh3IxDbH14uppCdnIzAkG_rZ30U_7eLED_KvMJ-vx0g",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Dự báo thời tiết 10 ngày tới từ đêm 19.11 đến 29.11 trên cả nước",
+          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-tu-dem-1911-den-2911-tren-ca-nuoc-1802897.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "[Video]Không khí lạnh tăng cường, miền trung mưa lớn, có nơi trên 250mm",
+          "url": "https://nhandan.vn/videokhong-khi-lanh-tang-cuong-mien-trung-mua-lon-co-noi-tren-250mm-post1004052.html",
+          "source": "Báo Nhân Dân điện tử"
+        },
+        {
+          "title": "Dự báo thời tiết đêm 19 và ngày 20/11",
+          "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-19-va-ngay-2011-post914965.html",
+          "source": "Báo Lào Cai điện tử"
+        }
+      ]
+    },
     {
       "keyword": "택시",
       "traffic": "2000+",
@@ -49,134 +120,34 @@
       ]
     },
     {
-      "keyword": "알렉산더 즈베레프",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T20:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbQG8HB5ohpi_-rN4Y44u_vNmGkpDRSGAd700bxhiwb1V2cAR5yABXZPbDF-0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "즈베레프, 셸턴 꺾고 ATP 파이널스 준결승 진출",
-          "url": "https://mobile.newsis.com/photo/NISI20261118_0002294924",
-          "source": "뉴시스"
-        },
-        {
-          "title": "테니스 세계 1위 츠베레프, 셸턴 꺾고 ATP 파이널스 4강 선착",
-          "url": "https://www.news1.kr/sports/general-sport/6357509",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[테니스] ATP 파이널스 조별리그 결과",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755289",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김연경",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T20:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbRX1xRoMohcajUBlvspeO51Yz4vTSSebfJUr8gzQeE4m4y1BdEfsrkD9nq8o",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "김연경 사단 '필승 원더독스', 실업팀 전통강호 포항시체육회 상대로 셧아웃 승리 도전('신인감독2')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GNRTCMDCGA4TCMZYG42WENDBGY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6359485",
-          "source": "뉴스1"
-        },
-        {
-          "title": "\"드래프트 2번 낙방→배구 그만두려 했다\"…프로 한번 못가본 27세 아포짓,주저앉았다→김연경의 뼈아픈 독설, 일으켜 세울까",
-          "url": "https://www.sportschosun.com/volleyball/2026-11-18/202611180100115400010621",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "천위페이",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T18:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZoibpe8KX8NSQc-HgzOQwXpYj51r_vXIcM02UspeU-cRlhtu50NeOB3zU4bI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'안세영만 없으면 우승하겠다더니?' 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/19/MVQTCNTDGYYDOYZSME2DONDDGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8714321",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "안세영·야마구치 모두 없는데, '中 대굴욕' 여자 단식 줄줄이 탈락... 벌써 왕즈이 혼자 남았다 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111920591363907",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "웹툰",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T17:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB9r9DhZmsPlyMpEZCGzEq2LN26tFRpmZ1MVDy4_7qYrCTGv9xFXbbkqz-Vk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
-          "url": "https://cine21.com/news/view/?mag_id=111294",
-          "source": "씨네21"
-        },
-        {
-          "title": "\"압도적\"…'재혼 황후' 신민아, 외신 찬사 쏟아진 '퀸민아' - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111913307297613",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'재혼 황후' 인기에 웹툰 글로벌 조회수 35배 증가",
-          "url": "https://www.yna.co.kr/view/AKR20261119119100005",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "amd",
+      "keyword": "경제",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-19T15:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRspOoN6rkQ9Auij6pdXNxvXj9ATATMg6wCoBHlSljtqOUHpOW6V-5TEAnhzko",
-      "category": "기타",
+      "startedAt": "2026-11-19T21:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe-huSU9XgzJoBhTIeK3rirMbfieQAzdM490BRO-nMjLzOmR50K-Nu5BOO7so",
+      "category": "경제",
       "news": [
         {
-          "title": "AMD dives on short-seller report of alleged China exposure",
-          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-          "source": "CNBC"
+          "title": "KDI \"올해 성장률 3.8%, 내년엔 3.9%...내년 수출액 1조4천억 달러\"",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611191105320724",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "‘China Risk’ Spreads Across U.S. Semiconductor Industry; AMD Plunges 9%",
-          "url": "https://en.fnnews.com/news/202611200329388178",
-          "source": "파이낸셜뉴스"
+          "title": "'반도체 산유국' 현실 되나…내년 GDP의 3분의 1 육박 전망도",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04001606645647360",
+          "source": "마켓인"
         },
         {
-          "title": "Problems at AMD (AMD)",
-          "url": "https://hntrbrk.com/investigations/bank-of-amd",
-          "source": "Hunterbrook"
+          "title": "靑 \"국민소득 5만불, 임기 내 가능…수출 4강, 이제 현실화\"",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875769",
+          "source": "뉴시스"
         }
       ]
     },
     {
       "keyword": "한강 벨트",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-19T20:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW07Rg9EUVwryBa_wWKd2GqutP8250r7uwb3fWcqXlpbfYvyk-PD_HyDpaKS0",
       "category": "경제",
@@ -187,89 +158,114 @@
           "source": "경향신문"
         },
         {
-          "title": "강남 급매물 쌓이고 한강벨트 '뚝'…\"집값 드디어 꺾이나\" 전망 갈렸다 - 머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/11/20/2026111920211718916",
-          "source": "머니투데이"
+          "title": "같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석]",
+          "url": "https://www.hankyung.com/article/202611172505Q",
+          "source": "한국경제"
         },
         {
-          "title": "[그래픽] 서울 아파트 매매가격지수 변동률 추이",
-          "url": "https://www.news1.kr/photos/8222999",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "축구 감독",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T19:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr4TtvQu4mazJQf7q1GMvzCZhw94axaCGL04HijgrLVhDuPSf04n72fswBWu4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
-          "url": "https://www.chosun.com/sports/football/2026/11/19/IMTHHH2XRBGUDDXWFULQ65XX6I/",
-          "source": "조선일보"
-        },
-        {
-          "title": "모레노 감독 '임기 연장?'‥내부 '긍정적 기류'도",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867069_37004.html",
+          "title": "서울 아파트값 93주째 상승에도 오름폭 축소‥하락 지역 확대",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6866925_36932.html",
           "source": "MBC 뉴스"
-        },
-        {
-          "title": "96라인 갈등에 침체된 국대…‘이강인 친구들’이 분위기 바꿨다",
-          "url": "https://www.joongang.co.kr/article/25479997",
-          "source": "중앙일보"
         }
       ]
     },
     {
-      "keyword": "해상 풍력 발전",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T19:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPAPvvUh2-nI9ONzCPQbojqYhoyhLaDGcvN9X-r-jVI6Mn0QQYU3u4-nn1lg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
-          "source": "머니투데이"
-        },
-        {
-          "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
-          "source": "전기신문"
-        },
-        {
-          "title": "신민호 전남광주시의원 \"해상풍력 조성에 지역기업 참여해야\"",
-          "url": "https://www.yna.co.kr/view/AKR20261118143600054",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "이정현",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T19:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSS7kcd-8UnvGaUd8-Z5KV0dKp0C-jtgyc7foIoYQ-zinvu2WtKyRaaFJdxY",
+      "keyword": "미스터트롯",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T21:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZxpC3cUpWUHu_gUGe2hkeGQvYGP5CLLlHwh71NWjckQJBO77zWY26cDMC-0c",
       "category": "연예",
       "news": [
         {
-          "title": "이정현, 가수로 13년 만에 돌아온다…'테크노 여전사' 내년 초 컴백 예고",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GYZWMY3EMFSWIODEGM2WEODGGA/",
+          "title": "[강일홍의 이슈토크] 트롯 오디션도 베끼기 경쟁? '미트4' 원조의 위기",
+          "url": "https://news.tf.co.kr/read/entertain/2390694.htm",
+          "source": "더팩트"
+        },
+        {
+          "title": "‘미스터트롯4′ 12월 17일 첫 방송... “어린 최백호를 만났다”",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/",
           "source": "조선일보"
         },
         {
-          "title": "이정현, 13년 만의 신곡 녹음 돌입…‘테크노 여전사’도 돌아올까",
-          "url": "https://sports.khan.co.kr/article/202611191728003",
-          "source": "스포츠경향"
+          "title": "'미스터트롯4' 12월 17일 첫 방송…현역·비현역 맞대결 예고",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083822",
+          "source": "진일보 | 전남일보"
+        }
+      ]
+    },
+    {
+      "keyword": "육아휴직",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T21:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoaa1-ot2KS2NVcZ6dDa-ueO5TI4WzakTyl7YEojnxDF_DX-B2x5DPLMiwq5E",
+      "category": "연예",
+      "news": [
+        {
+          "title": "임현주, 육아휴직 후 퇴사 논란에 \"내 자리에서 최선 다해\"",
+          "url": "https://www.ytn.co.kr/_sn/0117_202611171034289308",
+          "source": "YTN"
         },
         {
-          "title": "이정현 194억 병원 건물주도, 애엄마도 아니다…‘테크노 여전사’ 내년 컴백 준비 활활",
-          "url": "https://m.newsen.com/news_view.php?uid=202611191358492110",
-          "source": "뉴스엔"
+          "title": "'노브라 방송' '안경 뉴스' 임현주 아나, 13년 만에 MBC 떠난다 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111618310346981",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"두 번 육아휴직 후 먹튀 퇴사? 사실 아냐\"… 임현주 전 아나운서, 작심 해명",
+          "url": "https://www.fnnews.com/news/202611172204230700",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "지방세",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T21:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-aB0Gf2S0XGPpCFWH0iJgBFDuECzmafhvn-o11iylbXMF-NonirisxGCyZ-g",
+      "category": "기타",
+      "news": [
+        {
+          "title": "고액-상습체납자 1년새 29% 늘어 1만3697명",
+          "url": "https://www.donga.com/news/Society/article/all/20261118/135050552/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "안산시, 세금 79억8천만 원 체납 203명 홈피에 공개",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041441",
+          "source": "기호일보"
+        },
+        {
+          "title": "‘아! 이 사람이었어?’…서울시가 공개한 올해 지방세 고액체납자 1위는...",
+          "url": "https://www.munhwa.com/article/11632635",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "마우리시오 포체티노",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T20:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaWoN7jkVAwqOXgZtp8GU78E5P9j4AkHHibrv2Y_YzwAvdHAgB3a_a_vMX9To",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119020100007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "축구의 묘미는 역시 ‘바이시클킥’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "표류하는 맨유… 퍼거슨 이후 감독한테만 1700억 썼다",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/20/LKLFPOHWQZARJLO45OWBXBZGGA/",
+          "source": "조선일보"
         }
       ]
     }
