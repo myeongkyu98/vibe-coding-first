@@ -1,53 +1,57 @@
 {
-  "updatedAt": "2026-11-19T18:53:44.044Z",
+  "updatedAt": "2026-11-19T19:58:20.960Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "경제",
       "count": 2
     },
     {
-      "category": "스포츠",
+      "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "앤트로픽 주가",
+      "keyword": "천위페이",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-19T14:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5vNCtA0NQvOtu5ggeazwfckWWadqGqz__TfdVs5XjFt1DERVx2XKbskBCOto",
-      "category": "경제",
+      "startedAt": "2026-11-19T18:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZoibpe8KX8NSQc-HgzOQwXpYj51r_vXIcM02UspeU-cRlhtu50NeOB3zU4bI",
+      "category": "스포츠",
       "news": [
         {
-          "title": "\"앤트로픽 기관투자자 절반이상 물량 못받아…美위주 배정\"",
-          "url": "https://www.yna.co.kr/view/AKR20261120001400072",
-          "source": "연합뉴스"
+          "title": "'안세영만 없으면 우승하겠다더니?' 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/19/MVQTCNTDGYYDOYZSME2DONDDGA/",
+          "source": "조선일보"
         },
         {
-          "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
-          "source": "연합인포맥스"
+          "title": "안세영·야마구치 모두 없는데, '中 대굴욕' 여자 단식 줄줄이 탈락... 벌써 왕즈이 혼자 남았다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111920591363907",
+          "source": "머니투데이"
         },
         {
-          "title": "앤트로픽 ‘108조원’ IPO 최대어로 나스닥 상장",
-          "url": "https://www.khan.co.kr/article/202611192045005",
-          "source": "경향신문"
+          "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
       "keyword": "습관",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-19T14:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSUTIZhSVFWF9EBNyga9kNjGWzgvcN8-h_60ULtyyx_B5i4F_IksqvzJawmmQ",
       "category": "기타",
@@ -66,6 +70,31 @@
           "title": "연천군, 스마트경로당 112곳 연결해 어르신 건강관리 교육",
           "url": "https://www.pressian.com/pages/articles/2026111914370018698",
           "source": "프레시안"
+        }
+      ]
+    },
+    {
+      "keyword": "앤트로픽",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-19T14:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRygJvqtI7Ub4B4OlKrs6CrzFnm5nPSD_PozVB9Nt9vKOZzNtNh8yN-QYjutHo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
+          "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "앤트로픽, 111.5달러에 거래 시작…시총 2조달러 달성",
+          "url": "https://www.yna.co.kr/view/AKR20261120003100091",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
+          "source": "연합인포맥스"
         }
       ]
     },
@@ -133,14 +162,14 @@
           "source": "Hunterbrook"
         },
         {
-          "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
-          "url": "https://www.tokenpost.com/news/investing/61491",
-          "source": "www.tokenpost.com"
+          "title": "Hunterbrook Says It’s Not Just NVIDIA, ‘AMD Has A China Problem Of Its Own,’ With AMD Firmware Now Traced To Blacklisted IEIT Servers",
+          "url": "https://wccftech.com/hunterbrook-says-its-not-just-nvidia-amd-has-a-china-problem-of-its-own-with-amd-firmware-now-traced-to-blacklisted-ieit-servers/",
+          "source": "Wccftech"
         },
         {
-          "title": "Hunterbrook Takes Short Position in AMD, Alleges Blacklisted Chinese Server Maker Kept Receiving New Firmware",
-          "url": "https://finance.biggo.com/news/88c1bf42-fd44-48ff-89f1-58f7f20bffb1",
-          "source": "BigGo Finance"
+          "title": "AMD Stock Dives 15% Over Shortseller Report Alleging Export Control Violations to China, Rebounds Later",
+          "url": "https://www.techpowerup.com/355036/amd-stock-dives-15-over-shortseller-report-alleging-export-control-violations-to-china-rebounds-later",
+          "source": "TechPowerUp"
         }
       ]
     },
@@ -208,8 +237,8 @@
           "source": "중도일보"
         },
         {
-          "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
-          "url": "http://newstoktok.com/article.php?aid=27315247155",
+          "title": "호남대 앵커사업단, ‘2026 호남 e스포츠 시리즈’ 성료",
+          "url": "http://m.newstoktok.com/article.php?aid=27184892173",
           "source": "톡톡뉴스"
         },
         {
@@ -220,37 +249,12 @@
       ]
     },
     {
-      "keyword": "회계사",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T14:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuggleTY9atYY60zXuOAUNOFln9JDZ-qDs7bWcWAuc7EzU7OuEF9GDn9vQkLk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "한국만의 독특한 감사인 지정제…감사품질 높였나",
-          "url": "https://core.asiae.co.kr/article/2026111915554393113",
-          "source": "아시아경제"
-        },
-        {
-          "title": "최운열 한공회장 “지정감사 끝나자 가격경쟁 재점화…품질로 경쟁해야” [시그널]",
-          "url": "https://www.sedaily.com/article/20116635",
-          "source": "서울경제"
-        },
-        {
-          "title": "최운열 한공회장, 세계에 신외감법 성과 알려…\"韓 회계투명성 껑충\"",
-          "url": "https://www.news1.kr/finance/general-stock/6360144",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
       "keyword": "박하나",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-19T14:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI60mBB--_GRY-i4BzMlpqoMHE8HdcqlyM4r98EwWbrO_U5QzA-QUgOzXESBg",
-      "category": "기타",
+      "category": "연예",
       "news": [
         {
           "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
@@ -258,14 +262,14 @@
           "source": "연합뉴스"
         },
         {
-          "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
-          "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
-          "source": "스포츠동아"
-        },
-        {
           "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
           "url": "https://www.mk.co.kr/news/culture/12213951",
           "source": "매일경제"
+        },
+        {
+          "title": "박하나·김태술 부부, 결혼 1년 만에 부모 된다…쌍둥이 임신",
+          "url": "https://www.newspim.com/news/view/20261119001307",
+          "source": "뉴스핌"
         }
       ]
     }
