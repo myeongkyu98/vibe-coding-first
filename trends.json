@@ -1,28 +1,107 @@
 {
-  "updatedAt": "2026-11-19T20:48:14.554Z",
+  "updatedAt": "2026-11-19T21:45:08.567Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
+      "category": "스포츠",
+      "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "기타",
+      "count": 3
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "천위페이",
+      "keyword": "택시",
       "traffic": "2000+",
       "trafficValue": 2000,
+      "startedAt": "2026-11-19T20:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SJlmmMGLWjv5NQWK6joT4cC6u9vfsFrIoKPoGxHTzWsiaH25gG8kS-tdOc8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
+          "source": "주간조선"
+        },
+        {
+          "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852786",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T20:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbQG8HB5ohpi_-rN4Y44u_vNmGkpDRSGAd700bxhiwb1V2cAR5yABXZPbDF-0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "즈베레프, 셸턴 꺾고 ATP 파이널스 준결승 진출",
+          "url": "https://mobile.newsis.com/photo/NISI20261118_0002294924",
+          "source": "뉴시스"
+        },
+        {
+          "title": "테니스 세계 1위 츠베레프, 셸턴 꺾고 ATP 파이널스 4강 선착",
+          "url": "https://www.news1.kr/sports/general-sport/6357509",
+          "source": "뉴스1"
+        },
+        {
+          "title": "[테니스] ATP 파이널스 조별리그 결과",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755289",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김연경",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T20:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbRX1xRoMohcajUBlvspeO51Yz4vTSSebfJUr8gzQeE4m4y1BdEfsrkD9nq8o",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "김연경 사단 '필승 원더독스', 실업팀 전통강호 포항시체육회 상대로 셧아웃 승리 도전('신인감독2')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GNRTCMDCGA4TCMZYG42WENDBGY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6359485",
+          "source": "뉴스1"
+        },
+        {
+          "title": "\"드래프트 2번 낙방→배구 그만두려 했다\"…프로 한번 못가본 27세 아포짓,주저앉았다→김연경의 뼈아픈 독설, 일으켜 세울까",
+          "url": "https://www.sportschosun.com/volleyball/2026-11-18/202611180100115400010621",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
+      "keyword": "천위페이",
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-19T18:00:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZoibpe8KX8NSQc-HgzOQwXpYj51r_vXIcM02UspeU-cRlhtu50NeOB3zU4bI",
       "category": "스포츠",
@@ -45,59 +124,9 @@
       ]
     },
     {
-      "keyword": "습관",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-19T14:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZkAJ4fNi6bzWOZXuYt4JQOnyXTAReABsyq3MI7RnwRLUmLzerad0ncyzEc0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html",
-          "source": "헬스조선"
-        },
-        {
-          "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
-          "url": "https://kormedi.com/2904583/",
-          "source": "코메디닷컴"
-        },
-        {
-          "title": "김밥이 라면보다 췌장에 독?…환자 676명 분석하니 진짜 주범 따로 있었다",
-          "url": "https://www.segye.com/newsView/20261118501365",
-          "source": "세계일보"
-        }
-      ]
-    },
-    {
-      "keyword": "kt wiz",
+      "keyword": "웹툰",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-19T14:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2v4HPSFjhZ-XtnjGJeXPfKODcJsJg2Tsd1DStUlQT0MMuLV8gWz0P52d_MEw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "KT Wiz's 4.8 Billion Choi Bet Pays Off",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/19/57E6VCLU5RFXBCPGTF3JHMIOAE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "KT Wiz Poised for Another FA Splash After Last Season's Success",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/17/IIAZTSEC6JAXVMDKAA3FLLM35E/",
-          "source": "조선일보"
-        },
-        {
-          "title": "KT's \"Hold King\" Sugimoto Moves to Japan's SoftBank",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008854181",
-          "source": "news.sbs.co.kr"
-        }
-      ]
-    },
-    {
-      "keyword": "웹툰",
-      "traffic": "500+",
-      "trafficValue": 500,
       "startedAt": "2026-11-19T17:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB9r9DhZmsPlyMpEZCGzEq2LN26tFRpmZ1MVDy4_7qYrCTGv9xFXbbkqz-Vk",
       "category": "기타",
@@ -121,12 +150,17 @@
     },
     {
       "keyword": "amd",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-19T15:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpp2hdear6i43oOgcTDikJCnDHBmwaqQl6P6M3aqnJRX8SLi1V16WNrmRwYcY",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRspOoN6rkQ9Auij6pdXNxvXj9ATATMg6wCoBHlSljtqOUHpOW6V-5TEAnhzko",
       "category": "기타",
       "news": [
+        {
+          "title": "AMD dives on short-seller report of alleged China exposure",
+          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+          "source": "CNBC"
+        },
         {
           "title": "‘China Risk’ Spreads Across U.S. Semiconductor Industry; AMD Plunges 9%",
           "url": "https://en.fnnews.com/news/202611200329388178",
@@ -136,136 +170,106 @@
           "title": "Problems at AMD (AMD)",
           "url": "https://hntrbrk.com/investigations/bank-of-amd",
           "source": "Hunterbrook"
-        },
-        {
-          "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
-          "url": "https://www.tokenpost.com/news/investing/61491",
-          "source": "www.tokenpost.com"
         }
       ]
     },
     {
-      "keyword": "플라비오 코볼리",
+      "keyword": "한강 벨트",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-19T15:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJuZ27mblBb2q7aNYaea-EO03DIb4hy8ZmUlEHUSr1fPOXttKF_BCK5AVGqnA",
+      "startedAt": "2026-11-19T20:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW07Rg9EUVwryBa_wWKd2GqutP8250r7uwb3fWcqXlpbfYvyk-PD_HyDpaKS0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "‘한강벨트’ 용산·동작도 집값 하락",
+          "url": "https://www.khan.co.kr/article/202611192049035",
+          "source": "경향신문"
+        },
+        {
+          "title": "강남 급매물 쌓이고 한강벨트 '뚝'…\"집값 드디어 꺾이나\" 전망 갈렸다 - 머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/11/20/2026111920211718916",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[그래픽] 서울 아파트 매매가격지수 변동률 추이",
+          "url": "https://www.news1.kr/photos/8222999",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "축구 감독",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T19:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr4TtvQu4mazJQf7q1GMvzCZhw94axaCGL04HijgrLVhDuPSf04n72fswBWu4",
       "category": "스포츠",
       "news": [
         {
-          "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757758",
-          "source": "국제뉴스"
+          "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
+          "url": "https://www.chosun.com/sports/football/2026/11/19/IMTHHH2XRBGUDDXWFULQ65XX6I/",
+          "source": "조선일보"
         },
         {
-          "title": "코볼리, 눈물의 기자회견...\"내 커리어에서 가장 슬픈 경기\"",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54330",
-          "source": "테니스코리아"
+          "title": "모레노 감독 '임기 연장?'‥내부 '긍정적 기류'도",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867069_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "ATP 파이널 2026 결과: 티아포, 메드베데프 3위로 밀어내",
-          "url": "https://ko.laodong.vn/tennis/ket-qua-atp-finals-2026-tiafoe-day-medvedev-xuong-thu-3-1802858.ldo",
-          "source": "Laodong.vn"
+          "title": "96라인 갈등에 침체된 국대…‘이강인 친구들’이 분위기 바꿨다",
+          "url": "https://www.joongang.co.kr/article/25479997",
+          "source": "중앙일보"
         }
       ]
     },
     {
-      "keyword": "엔화",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T15:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNUyRouZ7mT2XPf-2LkYrNA5fc0CrMeKl0UIpFnOrlTA8-MjkuO1tusTgnDdE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
-          "url": "https://www.newsis.com/view/NISX20261117_0003871124",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "회계사",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T14:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsO6ZVL2zeRqvJeA-GTQXe6tLoR-Ho1CaTtBymLHx4kDMwTrfhpo8t3jXSwg",
-      "category": "경제",
-      "news": [
-        {
-          "title": "회계사 합격해도 수습처 없다…금융위, 내년 선발 1100명으로 감축 전망",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874868",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
-          "url": "https://stock.mk.co.kr/news/view/1201525",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "시험 합격해도 수습할 곳 없다…공인회계사 선발 인원 감축 검토",
-          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=108029",
-          "source": "코리아이글뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "프로게이머",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T14:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfrmO9WDNCJEVj1XFUPmNZMzCWjJGKSqilC_k9YWp1lROglhRF1K3e5IE2388",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399",
-          "source": "중도일보"
-        },
-        {
-          "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
-          "url": "http://newstoktok.com/article.php?aid=27315247155",
-          "source": "톡톡뉴스"
-        },
-        {
-          "title": "서산시 청소년 대상 e스포츠 진로특강 'E-Learn 스포츠(발로란트)' 성료",
-          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380539",
-          "source": "웹이코노미"
-        }
-      ]
-    },
-    {
-      "keyword": "박하나",
+      "keyword": "해상 풍력 발전",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-19T14:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI60mBB--_GRY-i4BzMlpqoMHE8HdcqlyM4r98EwWbrO_U5QzA-QUgOzXESBg",
-      "category": "기타",
+      "startedAt": "2026-11-19T19:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPAPvvUh2-nI9ONzCPQbojqYhoyhLaDGcvN9X-r-jVI6Mn0QQYU3u4-nn1lg",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
-          "url": "https://www.yna.co.kr/view/AKR20261119154100005",
+          "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
+          "source": "전기신문"
+        },
+        {
+          "title": "신민호 전남광주시의원 \"해상풍력 조성에 지역기업 참여해야\"",
+          "url": "https://www.yna.co.kr/view/AKR20261118143600054",
           "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "이정현",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T19:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSS7kcd-8UnvGaUd8-Z5KV0dKp0C-jtgyc7foIoYQ-zinvu2WtKyRaaFJdxY",
+      "category": "연예",
+      "news": [
+        {
+          "title": "이정현, 가수로 13년 만에 돌아온다…'테크노 여전사' 내년 초 컴백 예고",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GYZWMY3EMFSWIODEGM2WEODGGA/",
+          "source": "조선일보"
         },
         {
-          "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
-          "url": "https://www.mk.co.kr/news/culture/12213951",
-          "source": "매일경제"
+          "title": "이정현, 13년 만의 신곡 녹음 돌입…‘테크노 여전사’도 돌아올까",
+          "url": "https://sports.khan.co.kr/article/202611191728003",
+          "source": "스포츠경향"
         },
         {
-          "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
-          "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
-          "source": "스포츠동아"
+          "title": "이정현 194억 병원 건물주도, 애엄마도 아니다…‘테크노 여전사’ 내년 컴백 준비 활활",
+          "url": "https://m.newsen.com/news_view.php?uid=202611191358492110",
+          "source": "뉴스엔"
         }
       ]
     }
