@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-19T19:58:20.960Z",
+  "updatedAt": "2026-11-19T20:48:14.554Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 5
     },
     {
       "category": "스포츠",
@@ -15,10 +15,6 @@
     },
     {
       "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
@@ -37,14 +33,14 @@
           "source": "조선일보"
         },
         {
+          "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8714321",
+          "source": "KBS 뉴스"
+        },
+        {
           "title": "안세영·야마구치 모두 없는데, '中 대굴욕' 여자 단식 줄줄이 탈락... 벌써 왕즈이 혼자 남았다 - 머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/11/19/2026111920591363907",
           "source": "머니투데이"
-        },
-        {
-          "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html",
-          "source": "MBC 뉴스"
         }
       ]
     },
@@ -53,55 +49,30 @@
       "traffic": "2000+",
       "trafficValue": 2000,
       "startedAt": "2026-11-19T14:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSUTIZhSVFWF9EBNyga9kNjGWzgvcN8-h_60ULtyyx_B5i4F_IksqvzJawmmQ",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZkAJ4fNi6bzWOZXuYt4JQOnyXTAReABsyq3MI7RnwRLUmLzerad0ncyzEc0",
       "category": "기타",
       "news": [
         {
-          "title": "연천군, 스마트경로당 112개소서 어르신 건강 강좌…수분 섭취 강조",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757520",
-          "source": "국제뉴스"
+          "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html",
+          "source": "헬스조선"
         },
         {
-          "title": "연천군, 스마트경로당 112곳 대상 어르신 건강강좌 운영",
-          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1071565",
-          "source": "내외뉴스통신"
+          "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
+          "url": "https://kormedi.com/2904583/",
+          "source": "코메디닷컴"
         },
         {
-          "title": "연천군, 스마트경로당 112곳 연결해 어르신 건강관리 교육",
-          "url": "https://www.pressian.com/pages/articles/2026111914370018698",
-          "source": "프레시안"
-        }
-      ]
-    },
-    {
-      "keyword": "앤트로픽",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-19T14:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRygJvqtI7Ub4B4OlKrs6CrzFnm5nPSD_PozVB9Nt9vKOZzNtNh8yN-QYjutHo",
-      "category": "경제",
-      "news": [
-        {
-          "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
-          "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "앤트로픽, 111.5달러에 거래 시작…시총 2조달러 달성",
-          "url": "https://www.yna.co.kr/view/AKR20261120003100091",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
-          "source": "연합인포맥스"
+          "title": "김밥이 라면보다 췌장에 독?…환자 676명 분석하니 진짜 주범 따로 있었다",
+          "url": "https://www.segye.com/newsView/20261118501365",
+          "source": "세계일보"
         }
       ]
     },
     {
       "keyword": "kt wiz",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-19T14:50:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2v4HPSFjhZ-XtnjGJeXPfKODcJsJg2Tsd1DStUlQT0MMuLV8gWz0P52d_MEw",
       "category": "기타",
@@ -125,8 +96,8 @@
     },
     {
       "keyword": "웹툰",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-19T17:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB9r9DhZmsPlyMpEZCGzEq2LN26tFRpmZ1MVDy4_7qYrCTGv9xFXbbkqz-Vk",
       "category": "기타",
@@ -153,23 +124,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-19T15:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZVomiXE3RFkNiWXaycPdqzeBYFI7YDG7CyvK8I84qx40CNMZ3ovLl6MVmvQk",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpp2hdear6i43oOgcTDikJCnDHBmwaqQl6P6M3aqnJRX8SLi1V16WNrmRwYcY",
       "category": "기타",
       "news": [
+        {
+          "title": "‘China Risk’ Spreads Across U.S. Semiconductor Industry; AMD Plunges 9%",
+          "url": "https://en.fnnews.com/news/202611200329388178",
+          "source": "파이낸셜뉴스"
+        },
         {
           "title": "Problems at AMD (AMD)",
           "url": "https://hntrbrk.com/investigations/bank-of-amd",
           "source": "Hunterbrook"
         },
         {
-          "title": "Hunterbrook Says It’s Not Just NVIDIA, ‘AMD Has A China Problem Of Its Own,’ With AMD Firmware Now Traced To Blacklisted IEIT Servers",
-          "url": "https://wccftech.com/hunterbrook-says-its-not-just-nvidia-amd-has-a-china-problem-of-its-own-with-amd-firmware-now-traced-to-blacklisted-ieit-servers/",
-          "source": "Wccftech"
-        },
-        {
-          "title": "AMD Stock Dives 15% Over Shortseller Report Alleging Export Control Violations to China, Rebounds Later",
-          "url": "https://www.techpowerup.com/355036/amd-stock-dives-15-over-shortseller-report-alleging-export-control-violations-to-china-rebounds-later",
-          "source": "TechPowerUp"
+          "title": "Advanced Micro Devices Shares Fall 10.19% to $476.74 Intraday",
+          "url": "https://www.tokenpost.com/news/investing/61491",
+          "source": "www.tokenpost.com"
         }
       ]
     },
@@ -192,9 +163,9 @@
           "source": "테니스코리아"
         },
         {
-          "title": "[ATP 파이널스] 리턴하는 코볼리",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757438",
-          "source": "국제뉴스"
+          "title": "ATP 파이널 2026 결과: 티아포, 메드베데프 3위로 밀어내",
+          "url": "https://ko.laodong.vn/tennis/ket-qua-atp-finals-2026-tiafoe-day-medvedev-xuong-thu-3-1802858.ldo",
+          "source": "Laodong.vn"
         }
       ]
     },
@@ -224,6 +195,31 @@
       ]
     },
     {
+      "keyword": "회계사",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T14:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsO6ZVL2zeRqvJeA-GTQXe6tLoR-Ho1CaTtBymLHx4kDMwTrfhpo8t3jXSwg",
+      "category": "경제",
+      "news": [
+        {
+          "title": "회계사 합격해도 수습처 없다…금융위, 내년 선발 1100명으로 감축 전망",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874868",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
+          "url": "https://stock.mk.co.kr/news/view/1201525",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "시험 합격해도 수습할 곳 없다…공인회계사 선발 인원 감축 검토",
+          "url": "https://www.koreaeaglenews.com/news/articleView.html?idxno=108029",
+          "source": "코리아이글뉴스"
+        }
+      ]
+    },
+    {
       "keyword": "프로게이머",
       "traffic": "200+",
       "trafficValue": 200,
@@ -237,8 +233,8 @@
           "source": "중도일보"
         },
         {
-          "title": "호남대 앵커사업단, ‘2026 호남 e스포츠 시리즈’ 성료",
-          "url": "http://m.newstoktok.com/article.php?aid=27184892173",
+          "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
+          "url": "http://newstoktok.com/article.php?aid=27315247155",
           "source": "톡톡뉴스"
         },
         {
@@ -254,7 +250,7 @@
       "trafficValue": 100,
       "startedAt": "2026-11-19T14:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI60mBB--_GRY-i4BzMlpqoMHE8HdcqlyM4r98EwWbrO_U5QzA-QUgOzXESBg",
-      "category": "연예",
+      "category": "기타",
       "news": [
         {
           "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
@@ -267,9 +263,9 @@
           "source": "매일경제"
         },
         {
-          "title": "박하나·김태술 부부, 결혼 1년 만에 부모 된다…쌍둥이 임신",
-          "url": "https://www.newspim.com/news/view/20261119001307",
-          "source": "뉴스핌"
+          "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
+          "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
+          "source": "스포츠동아"
         }
       ]
     }
