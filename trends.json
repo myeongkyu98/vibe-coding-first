@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T00:58:39.467Z",
+  "updatedAt": "2026-11-19T02:10:34.791Z",
   "summary": [
     {
       "category": "기타",
@@ -7,10 +7,14 @@
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     },
     {
@@ -20,254 +24,238 @@
   ],
   "items": [
     {
-      "keyword": "관광",
+      "keyword": "시즌2",
       "traffic": "10000+",
       "trafficValue": 10000,
-      "startedAt": "2026-11-18T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrpVpMsjr3MEuGIJw01PeCBXKcxDHmWLKLrnMeq16Q5DcsesNAXKIkfhrHWX0",
-      "category": "기타",
+      "startedAt": "2026-11-19T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5sgIyUs07hgyrHv7JfEZ9PQN71J7KQC56txLOz5_tTAQ6TAcoYvksCbUNaFY",
+      "category": "연예",
       "news": [
         {
-          "title": "문체부, '열린 관광지 조성 사업' 30곳 선정…경포해변 등 포함",
-          "url": "https://www.yna.co.kr/view/AKR20261119026100030",
+          "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
+          "url": "https://www.yna.co.kr/view/AKR20261119043100005",
           "source": "연합뉴스"
         },
         {
-          "title": "문체부·관광공사, 2027 열린 관광지 조성 사업 대상지 30곳 선정",
-          "url": "https://www.newspim.com/news/view/20261119000245",
-          "source": "뉴스핌"
+          "title": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
+          "source": "머니투데이"
         },
         {
-          "title": "\"무장애 관광 확대\"… 문체부·관광공사, '열린 관광지' 30곳 선정",
-          "url": "https://www.news1.kr/industry/hotel-tourism/6358941",
-          "source": "뉴스1"
+          "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
+          "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "현금",
+      "keyword": "이혼",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-18T23:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAXGgC_SycfdMWrzESMWJtMino7OXCDZiThJasz75w2xORReKZUjrVw7WnnbE",
+      "startedAt": "2026-11-19T00:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe5-VreU2CyZ6Esi-TQaX2Cle1bcaTwhjG34m92b1raNPqxiN4qdzang5hz-I",
       "category": "기타",
       "news": [
         {
-          "title": "\"현금 결제 안 된다\" 말에 내리려던 할아버지…함께 움직인 승객들",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118171840KHo",
-          "source": "연합뉴스TV"
+          "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948",
+          "source": "머니투데이"
         },
         {
-          "title": "\"현금 안 돼요\" 어르신 버스 못 타게 되자…'감동'의 손길",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852779",
-          "source": "SBS 뉴스"
+          "title": "“박지윤, 최동석에 숨기고 남성과 호텔 투숙” 法, 위자료 지급 판단",
+          "url": "https://www.munhwa.com/article/11632371",
+          "source": "문화일보"
         },
         {
-          "title": "'천 원 두 장' 쥔 할아버지…\"현금 안 됩니다\" 거절에 옆 승객이 나섰다",
-          "url": "https://www.newsis.com/view/NISX20261118_0003874008",
+          "title": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874235",
           "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "weather",
+      "keyword": "수능날 주식",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-18T22:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuStMR6ZNIWwS0cqFC7t58Tl9qAOJqWk03kmYCfIQq6z4Bag2c-lxTugPDSkI",
-      "category": "기타",
+      "startedAt": "2026-11-19T00:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbXtu_0sukNVlnQ-Tzi-ibC3c5X04upWivPXEXcyvtSm-IUkD5KD71zfw-e2E",
+      "category": "경제",
       "news": [
         {
-          "title": "Denver weather: Mild end to the week, much cooler weekend",
-          "url": "https://kdvr.com/weather/weather-forecast/denver-weather-mild-end-to-the-week-much-cooler-weekend/",
-          "source": "KDVR"
-        },
-        {
-          "title": "Sunny and mild as another storm system approaches",
-          "url": "https://krdo.com/video/weather-video-2/2026/11/18/sunny-and-mild-as-another-storm-system-approaches/",
-          "source": "KRDO"
-        },
-        {
-          "title": "Latest forecast | Dense Fog Advisory issued in northern Colorado, wind to increase into Wednesday",
-          "url": "https://www.9news.com/video/weather/forecast/latest-forecast-dense-fog-advisory-issued-northern-colorado-wind/73-c464c743-6a88-4d63-9ff6-fd968a54a526",
-          "source": "9News"
-        }
-      ]
-    },
-    {
-      "keyword": "수원 fc 위민",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-18T23:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK1qYw1Of2smCE7qmhLCCQclwIt_DFcUywdQbXI4NyHHWD7ID0MCB_NCTMrcc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "꼴찌→PO 막차→리그 1위 꺾고 챔피언 등극, '캡틴' 장슬기도 놀랐다 \"감히 우승할 수 있을까 생각했는데...\" [수원 현장] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111817230218434",
-          "source": "머니투데이"
-        },
-        {
-          "title": "10년만의 복귀 감독과 창단 첫 우승…WK리그 한수원 '기쁨 두배'",
-          "url": "https://www.yna.co.kr/view/AKR20261118189000007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "4번이나 준우승했던 한수원, 드디어 해냈다! 정규리그 3위의 대반란...화천KSPO 이어 수원FC위민까지 제압",
-          "url": "https://www.chosun.com/sports/football/2026/11/18/MM4WIZRUHFRDENDEMU4TSY3FGM/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "2027 수능",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T23:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOKuaciH8ZQ61LWXdLdmnjZoN1Gs2WiuvS8xc3AbkkSBlHfg5tIP9sWSVVJc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[수능] 시험장 잘못 찾고 엘리베이터 갇히고…수험생 5명 경찰 도움",
-          "url": "https://www.yna.co.kr/view/AKR20261119042800053",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[수능 이모저모] “아뿔사 신분증” 긴장감 넘친 수송 작전",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=847673",
-          "source": "제민일보"
-        },
-        {
-          "title": "\"수험표 놓고 오고 택시 안 잡히고\"…인천 경찰, 수험생 긴급 수송",
-          "url": "https://www.news1.kr/local/incheon/6359021",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "nz vs ind",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T22:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETpHkH1o6PGI-pAFYQVV4ny67AAw2wk1tnXUIrN5Dp1WCI4ujeZ_hmuYXbzk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "In windy Wellington, India begin new era with history and form against them",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/match-preview",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "New Zealand vs India: Gill wins toss to bowl first at Basin Reserve",
-          "url": "https://sportnation.nz/article/blackcaps-vs-india-gill-wins-toss-to-bowl-first-at-basin-reserve",
-          "source": "Sport Nation"
-        },
-        {
-          "title": "Video | India's WTC Final Hopes On The Line As Gill's Men Face New Zealand Test Challenge",
-          "url": "https://www.ndtv.com/video/india-s-wtc-final-hopes-on-the-line-as-gill-s-men-face-new-zealand-test-challenge-1193735",
-          "source": "NDTV"
-        }
-      ]
-    },
-    {
-      "keyword": "s&p 500",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-18T22:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2KvcHpNc722zf7efmpot7OCdwQ7yY1qoxa65uwYUG_l40cWJfn1HPQQM7HCs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Nasdaq-100 futures surge as traders gear up for Anthropic’s highly anticipated debut: Live updates",
-          "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "S&P 500 Ends Five-Session Win, Dow Drops 561 Points",
-          "url": "https://www.chosun.com/english/market-money-en/2026/11/19/65BTNI5SJ5EOZG4QE5DTNC3CFM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Wall Street Mixed as Rate Hike Anxieties Dampen Sentiment",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008852955",
-          "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "손혁",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T23:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmHY_8R6Q8mgKJjxcGVTqa57onvYlZnEuAvqxQZLw2tfqiBM1QQEXll6XzCLA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"못 쉬니까 더 아팠다\" 투수 부상자 명단 21회 공동 최다 LG, 손혁 신임 코치의 첫 주문은 '잘 쉬어라' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111813573917843",
-          "source": "머니투데이"
-        },
-        {
-          "title": "7선발 육성·불펜 재정비…손혁 코치와 재구축하는 LG 마운드",
-          "url": "https://www.newsis.com/view/NISX20261118_0003874039",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'한화 단장→코치로' LG, 손혁 QC 및 투수 총괄 코치 영입",
-          "url": "https://www.nocutnews.co.kr/news/6607265",
-          "source": "노컷뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "집행유예",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAetf4QE7X3-U31FlNvr-RwjKODX8MSuBsCSiJzgiklOs7rZYCOmpYLfzbI5k",
-      "category": "기타",
-      "news": [
-        {
-          "title": "남태현, '마약 집행유예 중 음주운전' 오늘(19일) 항소심 선고…징역 1년 뒤집힐까",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/19/HFSDMMZXMQ4WCMTFGQ2TQYRVMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "“술 끊고 대중교통 이용”…‘2회 음주운전’ 남태현, 오늘 항소심 선고",
-          "url": "https://www.mk.co.kr/news/society/12212993",
+          "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
+          "url": "https://www.mk.co.kr/news/business/12213210",
           "source": "매일경제"
         },
         {
-          "title": "마약 집유 중 음주운전한 남태현, 실형 위기 속 오늘(19일) 항소심 선고",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525309",
-          "source": "iMBC 연예"
+          "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
+          "url": "https://www.hankyung.com/article/202611185520i",
+          "source": "한국경제"
+        },
+        {
+          "title": "오늘 수능시험으로 증시 1시간 늦게 개장",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716754",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "제미나이 네온",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-18T22:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTL5MiI-VNyk5tp3-WT21ftoWKznObPu_ViE-iktG8r5AXaooFii-5TFyBymCc",
+      "keyword": "nginx",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T00:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_3OEA8CIOJom9F0W5dCeLBzrdjxDbMiG1BxybAOZTXJJfomEWi3BAmV1Gbd8",
       "category": "IT·과학",
       "news": [
         {
-          "title": "구글, 세계 3위 성능 '제미나이 4 네온' 출시…작업 비용 32% 절감",
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217546",
-          "source": "AI타임스"
+          "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
+          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "source": "wiz.io"
         },
         {
-          "title": "‘제미나이 4 하이드로젠(Hydrogen)’을 소개합니다",
-          "url": "https://blog.google/intl/ko-kr/company-news/technology/introducing-gemini-4-hydrogen-kr/",
+          "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
+          "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
+          "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "keyword": "이적 시장",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T00:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVn6YO26C0gOKVfHvVHw7OrDlvsjP8piEeVTccFY-pZDFQl1T-ZBIOfQLiAhs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "축구의 묘미는 역시 ‘바이시클킥’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119020100007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'맨유행' 포체티노 감독 고별전…'풀리식 바이시클킥' 미국, 아이티에 2대 0 승리",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851818",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "네이버뉴스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T00:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwXwuHZqMCCDL5lJrKJYo2ir5tTmjmOT86MqPNGafwafGIkRmW9RTFQBfdhM8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+          "url": "https://www.journalist.or.kr/news/article.html?no=62103",
+          "source": "한국기자협회"
+        },
+        {
+          "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+          "url": "https://www.etnews.com/20261118000308",
+          "source": "전자신문"
+        },
+        {
+          "title": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
+          "url": "https://zdnet.co.kr/view/?no=20261118201654",
+          "source": "지디넷코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "전도연",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7b-v5YX4gYM1inNPQ2wiNxyTXAi5SWEKZjZ65Lg2ceDSFSKhkY4w65Z2-apE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
+          "url": "https://www.koreadaily.com/article/20261118070139540",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "전도연, 오스카 레이스 뛰어드나…데뷔 후 첫 SNS 개설",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873770",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "올랜도 대 필라데피아",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHLFIQvhblL8aI_qvaD6BlXYDvCa0NcgdI7JVEbrJnVNyrcnlYXFtQWoII12U",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Houston 86-76 Florida (Nov 18, 2026) Final Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920514/houston-florida",
+          "source": "ESPN"
+        },
+        {
+          "title": "Kansas vs. West Virginia (Nov 18, 2026) Live Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920515/kansas-west-virginia",
+          "source": "ESPN"
+        },
+        {
+          "title": "Notre Dame 110-100 Rutgers (Nov 18, 2026) Final Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920513/rutgers-notre-dame",
+          "source": "ESPN"
+        }
+      ]
+    },
+    {
+      "keyword": "gemini neon",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpPjm-30CfRCgzv1E9OMsM3oaTs6yz9Qx4Ku0vgc5AOhVEQ4LnxYJeISKw2A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
           "source": "blog.google"
         },
         {
-          "title": "[AI 예측] 구글 11월 최고 AI 모델 확률 92%…하루 새 6%p 상승",
-          "url": "https://www.coinreaders.com/271262",
-          "source": "코인리더스"
+          "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+          "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+          "source": "Google for Developers Blog"
+        },
+        {
+          "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+          "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+          "source": "The Decoder"
         }
       ]
+    },
+    {
+      "keyword": "test alert",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T00:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
