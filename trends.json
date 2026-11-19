@@ -1,100 +1,125 @@
 {
-  "updatedAt": "2026-11-19T14:22:01.409Z",
+  "updatedAt": "2026-11-19T15:52:53.524Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
+      "count": 3
     },
     {
       "category": "IT·과학",
+      "count": 3
+    },
+    {
+      "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "생활·날씨",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "thời tiết ngày mai",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-19T11:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRli_SBsPD2DhOo7GruGy2LW7cIvoaReeDMbXuuZGH2HGsyb76Khp_WAnPVI6M",
-      "category": "기타",
+      "keyword": "앤트로픽 주가",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-19T14:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8N5A0F_12PlaFy6IvHVinQkQqaUt091GKse-VUfiiCuYapqwmCBCe3nJbCpI",
+      "category": "경제",
       "news": [
         {
-          "title": "Dự báo thời tiết đêm nay, ngày mai - 20/11/2026: Không khí lạnh tăng cường nhiệt độ giảm sâu hơn",
-          "url": "https://truyenhinhnghean.vn/media/chuyen-muc/ban-tin-thoi-tiet/202611/du-bao-thoi-tiet-dem-nay-ngay-mai-20112026-khong-khi-lanh-tang-cuong-nhiet-do-giam-sau-hon-0e23669/",
-          "source": "Báo và Phát thanh, Truyền hình Nghệ An"
+          "title": "뉴욕증시, 앤트로픽 나스닥 상장 앞두고 상승 출발",
+          "url": "https://www.yna.co.kr/view/AKR20261119186000009",
+          "source": "연합뉴스"
         },
         {
-          "title": "Không khí lạnh tăng cường, dự báo khu vực có mưa rất to trên 250mm",
-          "url": "https://laodong.vn/video/khong-khi-lanh-tang-cuong-du-bao-khu-vuc-co-mua-rat-to-tren-250mm-1803318.ldo",
-          "source": "Laodong.vn"
+          "title": "앤스로픽, 목표가 155달러도 나와…\"AI 수익창출 가장 유리한 기업\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04792086645647360",
+          "source": "마켓인"
         },
         {
-          "title": "Thời tiết đêm 19 ngày 20-11: Không khí lạnh tăng cường, Bắc Bộ rét đậm, Trung Bộ chuyển lạnh",
-          "url": "https://tuoitre.vn/video/thoi-tiet-dem-19-ngay-20-11-khong-khi-lanh-tang-cuong-bac-bo-ret-dam-trung-bo-chuyen-lanh-204531.htm",
-          "source": "Báo Tuổi Trẻ"
+          "title": "외신 “앤트로픽, 공모가 83달러”…스페이스X 조달액 기록 넘어설듯",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716816",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "정부24",
+      "keyword": "ant",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-19T11:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6LHH9f0iO3BYvexzffxaZ3WxGeGU_T6tJYosZHnLc93ILtAcHZ8Ilfz_TSck",
-      "category": "정치·사회",
+      "startedAt": "2026-11-19T13:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk",
+      "category": "경제",
       "news": [
         {
-          "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
-          "source": "SBS 뉴스"
+          "title": "Anthropic IPO live: Company prices stock at $83, indications point to shares trading at $105",
+          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
-          "url": "https://www.ggpyeonghwa.com/631243",
-          "source": "경기평화신문"
-        },
-        {
-          "title": "“이제 검진서류 떼러 병원 갈 필요 없네”",
-          "url": "https://www.k-health.com/news/articleView.html?idxno=102344",
-          "source": "헬스경향"
-        }
-      ]
-    },
-    {
-      "keyword": "이재시",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-qpbfn7vCymB723Lcf4dnemXrCYEhnQeSedC_Zi53e_fC03IuV7u7YK5Ayuc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "이동국 딸 이재시, ‘초강력 메기녀’ 됐다... 얼마나 예쁘면 “몸이 반응해”",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRSDKZJSME4GEOBVGUYDEMBRGA/",
+          "title": "Anthropic CEO Stresses AI Safety Amid Record Nasdaq Listing",
+          "url": "https://www.chosun.com/english/market-money-en/2026/11/20/TZ5AOWLV5NGXBE3KZ4RGKKDJLI/",
           "source": "조선일보"
         },
         {
-          "title": "최수린 아들 이승훈, ‘메기남’ 등장…이동국 딸 이재시에 직진 (내 새끼의 연애3)",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12213251",
-          "source": "매일경제"
+          "title": "Nasdaq is little changed as early rally fizzles ahead of Anthropic debut: Live updates",
+          "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        }
+      ]
+    },
+    {
+      "keyword": "습관",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T14:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEnrho-pg7zAjw0hLoByG4m_QdSclZvX81_JdhRApu-VfGpr0X5eSo1G3p89U",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“췌장이 비명 지릅니다”… 당장 멈춰야 하는 ‘최악의 습관’ 3가지",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/17/2026111701685.html",
+          "source": "헬스조선"
         },
         {
-          "title": "'이동국 딸' 이재아, 쌍둥이 언니 인기에 밀렸다..\"이재시 없으면 나도 괜찮아\"('내새연3')",
-          "url": "https://www.koreadaily.com/article/20261118053149563",
-          "source": "미주중앙일보"
+          "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
+          "url": "https://kormedi.com/2904583/",
+          "source": "코메디닷컴"
+        },
+        {
+          "title": "각설탕 9개 먹은 거나 마찬가지… 의사가 경고한 당 폭탄 '음료'",
+          "url": "https://www.wikitree.co.kr/articles/1175864",
+          "source": "위키트리"
+        }
+      ]
+    },
+    {
+      "keyword": "김대두",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T14:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVWVG8DFQ8Sp0Sj2X8KaUiHvA39mYWMa3DGZfDvusEbl1CLk6GN7ULSInN6xo",
+      "category": "연예",
+      "news": [
+        {
+          "title": "55일간 17명 살해한 최초 연쇄살인마 김대두…'꼬꼬무', 그가 남긴 '수수께끼 엽서'의 정체는?",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854020",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "나비, 예능 활약 이어간다…19일 '꼬꼬무' 첫 출연",
+          "url": "https://www.hankyung.com/article/202611197356H",
+          "source": "한국경제"
+        },
+        {
+          "title": "1975년 전국 뒤흔든 김대두 사건…‘꼬꼬무’, 사형수의 편지에 담긴 사연 조명",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=847661",
+          "source": "제민일보"
         }
       ]
     },
@@ -103,14 +128,9 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-19T13:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfREDWZw3zwbGqCG8OvcUxc6tIoifVoFyer9M6avoapZezcdoaBM-WKwrGtko",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnu78RAj5IjRu506MhOImyM1sdHtUDSNdm_LicPk7NtAfm8Ko-eZbrOToLHqw",
       "category": "IT·과학",
       "news": [
-        {
-          "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
-          "source": "조선일보"
-        },
         {
           "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
           "url": "https://www.khan.co.kr/article/202611192045025",
@@ -120,156 +140,136 @@
           "title": "LG, 주요 계열사 CEO 유임…권봉석 '1인 부회장' 체제 유지(종합)",
           "url": "https://www.yna.co.kr/view/AKR20261119158401003",
           "source": "연합뉴스"
+        },
+        {
+          "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+          "url": "https://zdnet.co.kr/view/?no=20261119162858",
+          "source": "지디넷코리아"
         }
       ]
     },
     {
-      "keyword": "cuaca besok",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-19T11:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRobXAzeV5_BhzyuGv1zs9FrRUc9c32qEiKG1bTAVj5d08N7il6l1HOdhClckU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "BMKG Ungkap 37 Daerah di Indonesia Berpotensi Hujan Hari Ini",
-          "url": "https://www.cnnindonesia.com/teknologi/20261119042759-641-1428762/bmkg-ungkap-37-daerah-di-indonesia-berpotensi-hujan-hari-ini",
-          "source": "CNN Indonesia"
-        },
-        {
-          "title": "BNPB imbau sejumlah provinsi khususnya Kalbar siaga cuaca ekstrem",
-          "url": "https://jambi.antaranews.com/video/5863511/bnpb-imbau-sejumlah-provinsi-khususnya-kalbar-siaga-cuaca-ekstrem",
-          "source": "ANTARA News Jambi"
-        },
-        {
-          "title": "BMKG Prakirakan Hujan Lebat Disertai Petir dan Angin Kencang di Pontianak",
-          "url": "https://pontianakpost.jawapos.com/nasional/2611190078/bmkg-prakirakan-hujan-lebat-disertai-petir-dan-angin-kencang-di-pontianak",
-          "source": "Pontianak Post"
-        }
-      ]
-    },
-    {
-      "keyword": "변상일",
+      "keyword": "타래",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-19T12:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8YveAS2CA82eeapL1W-EbAEnGSDJT7DQQgLJMD_TOA-AUDFl9RYvT8hsGVmE",
+      "startedAt": "2026-11-19T14:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzKVOCstZStWWyNiMTVNw1H30UJf7HFrz-Dec_Y3twxEJq0zsMhIKdz4P_jhI",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "부산 벡스코에 세계 게임산업 집결…지스타 2026, AI·모빌리티로 영역 확장",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=847773",
+          "source": "제민일보"
+        },
+        {
+          "title": "과녁 쏘고 패드 잡고...경계 허문 '게임 축제' 개막",
+          "url": "https://www.ytn.co.kr/_ln/0106_202611192335011236",
+          "source": "YTN"
+        },
+        {
+          "title": "웹젠 '디겜폭' 제작진 \"디펜스만 하는 게임 아냐…상반기 론칭\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119160000017",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "쇼메이커",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T14:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlFSF0J9tqPFfaUvZ0zNQGhfQK4RBVPDMWf-f6CLcrbfRTwQJJIPT7Hvo4B7c",
       "category": "스포츠",
       "news": [
         {
-          "title": "변상일, 삼성화재배 결승 2국 리친청에 불계승…승부 원점",
-          "url": "https://www.yna.co.kr/view/AKR20261119134500007",
-          "source": "연합뉴스"
+          "title": "DK, '쇼메이커' 허수 재계약…'스매쉬'·김대호 감독도 잔류 [공식]",
+          "url": "https://www.xportsnews.com/article/2221246",
+          "source": "www.xportsnews.com"
         },
         {
-          "title": "바둑 변상일, 삼성화재배 2국서 리친청에 반격 성공…내일 최종국",
-          "url": "https://www.newsis.com/view/NISX20261119_0003875403",
-          "source": "뉴시스"
+          "title": "[오피셜] '쇼메이커', '스매쉬' 그리고 김대호 감독, DK와 함께",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323623&site=lol",
+          "source": "인벤"
         },
         {
-          "title": "'세계 1위 신진서 잡은 저력' 부활…변상일, 우승까지 -1승",
-          "url": "https://www.nocutnews.co.kr/news/6609789",
-          "source": "노컷뉴스"
+          "title": "[오피셜] '쇼메이커', '스매쉬' 그리고 김대호 감독, DK와 함께",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323623",
+          "source": "인벤"
         }
       ]
     },
     {
-      "keyword": "금오산",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T12:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlalARBX0Iu16tqxArINp63Z-SXHa0C2HmH5pp78iBXmyiqQgEcJfg6v95jRc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "구름에 달 가듯이… 전국 곳곳 ‘공중 산책로’ 뜬다",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261118019009",
-          "source": "서울Pn"
-        },
-        {
-          "title": "경북 구미시, 금오산에 '하늘다리' 놓았다…길이 35m·폭 3.5m",
-          "url": "https://www.yna.co.kr/view/AKR20261117008800053",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "구미 금오산 ‘효자봉~대관정 등산로’ 잇는 하늘다리 개통",
-          "url": "https://www.donga.com/news/Society/article/all/20261116/135034592/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "하나로마트",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T11:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhbC0vxa89mWrwXi1_0HaccUjkJ_Ksu1goHR2EDIqI6wO8pvwwm7wwA4GbRlQ",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "영주시, 부산 소비시장 진출로 농특산물 판로 확대",
-          "url": "https://www.viva100.com/article/20261119501072",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "영주 사과·고구마·생강 72톤, 부산 하나로마트서 특판",
-          "url": "https://www.imaeil.com/page/view/2026111910530677533",
-          "source": "매일신문"
-        },
-        {
-          "title": "영주사과축제, 서울 청계광장에서 만나는 영주사과의 달콤한 매력",
-          "url": "https://ja-media.kr/news/article.html?no=1963813",
-          "source": "중앙뉴스미디어"
-        }
-      ]
-    },
-    {
-      "keyword": "야구 경기장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T11:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8yT43m4qnQJq3_dun501tsHNMyuaWfhYI5-hcJyxq0YZuqHfxSDGOGQmCBw0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"프로야구 못하는데 관람석 8천석\"…전주시 신축 야구장 '도마'",
-          "url": "https://www.yna.co.kr/view/AKR20261119068900055",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "누구를 위한 야구장인가…진예찬 전주시의원, 전주 야구장 활용계획 질타",
-          "url": "https://www.ajunews.com/view/20261119111717653",
-          "source": "아주경제"
-        },
-        {
-          "title": "진예찬 전주시의원 “프로야구 못 하는 야구장, 활용계획 재검토해야”",
-          "url": "https://www.jbjnews.com/news/articleView.html?idxno=331748",
-          "source": "전북제일신문"
-        }
-      ]
-    },
-    {
-      "keyword": "푸틴",
+      "keyword": "프로게이머",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-19T11:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZFoEoOxU8_04Axy1wduAA2bAva45rUSI0wJDrmIZHr3nj-j8mNtR6SmljPEI",
+      "startedAt": "2026-11-19T14:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfrmO9WDNCJEVj1XFUPmNZMzCWjJGKSqilC_k9YWp1lROglhRF1K3e5IE2388",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399",
+          "source": "중도일보"
+        },
+        {
+          "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
+          "url": "http://newstoktok.com/article.php?aid=27315247155",
+          "source": "톡톡뉴스"
+        },
+        {
+          "title": "서산시 청소년 대상 e스포츠 진로특강 'E-Learn 스포츠(발로란트)' 성료",
+          "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380539",
+          "source": "웹이코노미"
+        }
+      ]
+    },
+    {
+      "keyword": "박하나",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T14:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI60mBB--_GRY-i4BzMlpqoMHE8HdcqlyM4r98EwWbrO_U5QzA-QUgOzXESBg",
       "category": "기타",
       "news": [
         {
-          "title": "미·중·러, 핵무기 감축 대원칙 합의…우크라戰 종식도 논의",
-          "url": "https://www.hankyung.com/article/2026111985011",
-          "source": "한국경제"
-        },
-        {
-          "title": "트럼프·시진핑·푸틴 사상 첫 회동…“핵전쟁은 승자 없다”",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57276",
-          "source": "주간조선"
-        },
-        {
-          "title": "[미중러 정상회담] 한반도 어떤 논의했나…美 \"핵확산\" 언급 주목",
-          "url": "https://www.yna.co.kr/view/AKR20261119182600504",
+          "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119154100005",
           "source": "연합뉴스"
+        },
+        {
+          "title": "‘김태술♥’ 박하나 임신, 가득 쌓인 난임 치료 주사기 눈길",
+          "url": "https://sports.donga.com/ent/article/all/20261119/135057005/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
+          "url": "https://www.mk.co.kr/news/culture/12213951",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "fifa",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T13:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRKc3Q6-Dd5nZuW6OoHr0HGp1q8Yf07m37NTjcd0lDUgyh-LRDuSwrFAawdqg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "England FA weighs legal challenge to Infantino’s bid for 4th FIFA term",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/19/SZGOIQEGWZG27LE4MIYBTFEOYE/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "Fifa: Football Association explored Gianni Infantino legal challenge",
+          "url": "https://www.bbc.com/sport/football/articles/cm3eg1w4ypz5o",
+          "source": "BBC"
+        },
+        {
+          "title": "South African Enters FIFA Presidential Race",
+          "url": "https://www.soccerladuma.co.za/international/rest-of-world/south-african-peter-auf-der-heyde-launches-bid-to-challenge-gianni-infantino-for-fifa-presidency",
+          "source": "Soccer Laduma"
         }
       ]
     }
