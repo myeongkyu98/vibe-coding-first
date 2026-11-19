@@ -1,150 +1,150 @@
 {
-  "updatedAt": "2026-11-19T07:04:38.146Z",
+  "updatedAt": "2026-11-19T08:26:12.162Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 5
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 2
     },
     {
       "category": "정치·사회",
-      "count": 2
+      "count": 1
     },
     {
       "category": "스포츠",
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "리트 만점자 천호동",
-      "traffic": "200000+",
-      "trafficValue": 200000,
-      "startedAt": "2026-11-19T05:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzrdfldWdOKaV4cTsWw442RyHfle6vEL0gmiMkDDofAz8txLQxfk3bDSNn990",
+      "keyword": "주얼리",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T06:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAMb2i3zRBAEobiqCOUKb7aJN8QA54dHAykUDJJOHs3rAq6UHvcsmWXPEPyMs",
       "category": "기타",
       "news": [
         {
-          "title": "[단독] ’리트 만점자’ 이진우 유서 추정 메모 발견…부정행위 인정·사과는 없어",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611191410192QN",
-          "source": "연합뉴스TV"
+          "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
+          "url": "https://www.handmk.com/news/articleView.html?idxno=45236",
+          "source": "핸드메이커"
         },
         {
-          "title": "리트 만점자 발견된 모텔서 ‘5줄 글’ 발견…수사 관련 언급은 없어",
-          "url": "https://news.jtbc.co.kr/article/NB12328841",
-          "source": "JTBC"
+          "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
+          "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30",
+          "source": "비욘드포스트"
         },
         {
-          "title": "LEET 만점자 사망에 수사 종결 수순…진상조사단 출범할까",
-          "url": "https://www.yna.co.kr/view/AKR20261119112700004",
-          "source": "연합뉴스"
+          "title": "논논, 하츠투하츠와 협업한 ‘Lemon Tang’ 주얼리 컬렉션 공개",
+          "url": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602616",
+          "source": "스타데일리뉴스"
         }
       ]
     },
     {
-      "keyword": "도이치모터스 주가조작 사건",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T04:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwi03SdoKc_J02XN9_GQxMAUL9Cm_0kuRuk9B5N4EH81PLtbLZX6XkIds6OKw",
-      "category": "경제",
+      "keyword": "lg 임원인사",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-19T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyh1SFsVCsVEbM0jDoPpmKERXvqq73Dxh8TdFB4tqTQpZXZiG61Q5edGG0Pis",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "[속보] 대법, 19일 김건희 도이치 주가조작 사건 등 선고",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713560",
+          "title": "LG경영개발원 신임 대표에 하범종 ㈜LG 경영지원부문장",
+          "url": "https://www.yna.co.kr/view/AKR20261119137600003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "LG 주요 계열사 사장단 유임…부회장 승진 없이 '안정' 방점",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03870406645647360",
+          "source": "마켓인"
+        },
+        {
+          "title": "LG그룹 주요 계열사 대표 유임 속 'AI·로보틱스' 인재 발탁, 신규 임원 89명",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452445",
+          "source": "비즈니스포스트"
+        }
+      ]
+    },
+    {
+      "keyword": "해군",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T06:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHnxEBRCB1oXHKsuCDVYri0mTEUryyKesjdnRxRFvfBOg4MtgrxbXfBcPsiyg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "3천600톤급 호위함 ‘평택함’ 진수…시운전 거쳐 내년 해군 인도",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715888",
           "source": "KBS 뉴스"
         },
         {
-          "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
-          "url": "https://www.yna.co.kr/view/AKR20261119022300004",
+          "title": "평택함 한화오션에서 진수",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261118_0021537299&provider_id=&cID=&type=Main&catg=&idx=4",
+          "source": "뉴시스"
+        },
+        {
+          "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+          "url": "https://www.yna.co.kr/view/AKR20261118170400704",
           "source": "연합뉴스"
-        },
+        }
+      ]
+    },
+    {
+      "keyword": "수능 결시율",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T06:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrErrFrQeooNjAn5R_JaM9AgOjH70ydXzF4g14RvUmy4aw-zGTk_skPtX2WTo",
+      "category": "IT·과학",
+      "news": [
         {
-          "title": "대법, 김건희 '명태균 무상 여론조사' 결론…尹·吳 상고심 가늠자",
-          "url": "https://www.news1.kr/society/court-prosecution/6358466",
+          "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
+          "url": "https://www.news1.kr/society/education/6359569",
           "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "kbs",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T04:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi9NqBPdnqflPKduET72tCKLkQ6I0zWcQzDHxL3NrEsuNUyQaupE8xtykNWyc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[Photo] 'Bye, Summer'",
-          "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/18/3MJUMBGPW5HJ7PADZEX5NCL7P4/",
-          "source": "Chosunbiz"
         },
         {
-          "title": "‘Sound:Track’ Joo Jong-hyuk: “One-Act Dramas Are Compelling and Have an Intensity to Them”",
-          "url": "https://www.mk.co.kr/en/broadcasting-service/12212342",
-          "source": "매일경제"
-        },
-        {
-          "title": "A New Take on Korean Broadcasting System (KBS)’s 42-Year Tradition of One-Act Dramas... ‘Sound:Track,’ Featuring Classics by Kim Na-young and Jang Pil-soon, Unveiled",
-          "url": "https://www.sportschosun.com/en/celebrity/2026-11-17/202611170100112550010398",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "양홍원",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T04:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT47IlWpoTL9CRcWiPxRPytFSccJUxMjyv5NtrFTr6v1OVn2KWswRQ4BLGbBGU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "가족 잃은 기분...'불륜의혹' 양홍원, 아내 사진도 삭제 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111810404289464",
-          "source": "머니투데이"
-        },
-        {
-          "title": "“올해도 日 겨울은 보아가” 보아 ‘메리크리’에 시부야 ‘인원제한’ 걸렸다",
-          "url": "https://m.news.zum.com/photo/58287739/108959159?cm=news_edit&r=1&thumb=1",
-          "source": "ZUM 뉴스"
-        },
-        {
-          "title": "'불륜 의혹' 양홍원, 포르쉐 흡연 욕설 운전 누가 찍었나…도로교통법 위반 가능성[SC이슈]",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/19/MIYDSNZYGI4WKMLGMJRTOY3EHE/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "한덕수 선고",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-19T05:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm1rx-RaXVTHeFB4d-sGnspC6VMYXCNpRTb9q_W1kXgLPaFcBw0TMCu1e5Jt8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "김건희·한덕수 대법 선고 'D-DAY'...YTN 생중계",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611191204203334",
-          "source": "YTN"
-        },
-        {
-          "title": "잠시 뒤 한덕수·김건희 상고심‥이 시각 대법원",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866964_36974.html",
+          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "오늘 한덕수 대법판결…김민석 “의외 결과 나오면 즉각 대응”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261119/135051781/1",
+          "title": "[2027 수능] 전국 평균 시험 응시율 90.03%… 부산 93.16% 최고",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/XRVCATVQS5G6ZGQPOBSORFZ55M/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "민주유공자법",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T05:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWzvYbKKSMdvcrqcKkGv_2DjX8jUlWXkNQZ19YqMhF8HxNpefKJ_fPjiaETFg",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "'민주유공자법' 본회의 상정‥국힘 \"운동권 노후 특혜법\" 반발",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6866971_36911.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "민주유공자법, 국힘 필리버스터에도 민주당 주도로 본회의 상정",
+          "url": "https://www.donga.com/news/Politics/article/all/20261119/135055192/1",
           "source": "동아일보"
+        },
+        {
+          "title": "[속보] ‘민주유공자법’ 국회 본회의 상정…국민의힘, 무제한 토론(필리버스터) 돌입",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717337",
+          "source": "KBS 뉴스"
         }
       ]
     },
@@ -178,48 +178,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-19T05:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAqy2FoGg_PSYuk-6yPJGe6AKTysqXIFjEFI9rEa0T-1hTzNM8rKzKwlFWa38",
-      "category": "IT·과학",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBFSruefw15t3Ceb3Ask6D3mSv_rDn_Ti-KfqyGhcAFIY1puGMIz6b1KksIs",
+      "category": "기타",
       "news": [
-        {
-          "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
-          "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html",
-          "source": "한겨레"
-        },
         {
           "title": "연필은 불티, 사인펜은 쌓였다...편의점업계, 수능 특수 김샜다 - 머니투데이",
           "url": "https://www.mt.co.kr/living/2026/11/19/2026111915033666154",
           "source": "머니투데이"
         },
         {
-          "title": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874383",
-          "source": "뉴시스"
+          "title": "올해 수능 샤프는 ‘무궁화보라색’…기본 샤프심은 5개",
+          "url": "https://www.donga.com/news/Society/article/all/20261119/135052284/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html",
+          "source": "한겨레"
         }
       ]
     },
     {
-      "keyword": "의장대",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T05:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPZovw8SvmEkEQegL6ZdbbewtXKlsl9w9eqTzw1QjXVyCQIiQuQ0yfAS3Lg1o",
+      "keyword": "버거킹 초콜릿와퍼",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T06:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprEAsQW9m4mIrJXQzdSnXBum9BuzE39ZRUD6hs9MrDGiaYuoBnymmq4xtOkU",
       "category": "기타",
       "news": [
         {
-          "title": "계단 단차부터 환영단까지‥\"한국과 대우 달라\" \"무례\" 日 불쾌감",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6866880_36925.html",
-          "source": "MBC 뉴스"
+          "title": "\"만우절 거짓말인 줄 알았는데\"…버거킹, 진짜 '초콜릿 와퍼' 내놓는다 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/17/2026111708270380871",
+          "source": "머니투데이"
         },
         {
-          "title": "中, 다카이치는 썰렁한 영접... 日측 \"정말 무례하다\" 분노",
-          "url": "https://www.chosun.com/international/international_general/2026/11/18/JD3IWB6EY5CDTMGSUOTYQKMIEA/",
-          "source": "조선일보"
+          "title": "고기 대신 브라우니? 만우절 농담 ‘초콜릿 와퍼’ 현실로!",
+          "url": "https://kids.donga.com/news/articleView.html?idxno=170338",
+          "source": "어린이동아"
         },
         {
-          "title": "中, 다카이치 입장때 “외톨이로 보내는 밤” 연주…선곡 의도 논란",
-          "url": "https://www.donga.com/news/Inter/article/all/20261119/135053503/1",
-          "source": "동아일보"
+          "title": "패티는 브라우니, 피클은 초콜릿…버거킹 '초콜릿 와퍼' 성수서 첫선",
+          "url": "https://www.newsis.com/view/NISX20261117_0003870829",
+          "source": "뉴시스"
         }
       ]
     },
@@ -228,13 +228,13 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-19T05:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcTWzKbbkkE7RebmDJzzF6uzYYrcYdLiJZESPQ39PsGDtJodxS2LUubemcBA",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg_u4PVmKXSOuDOwh3HU-532OyeZPqBGYvZwZNxTqQhUrEyY1FFLSBtHvs0_Y",
       "category": "경제",
       "news": [
         {
-          "title": "'30억 로또' 디에이치 반포124 분양가 심의 보류…청약 일정 연기",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04329606645647032",
-          "source": "마켓인"
+          "title": "[단독] “평당 분양가 1억 넘기면 안된다”…디에이치 반포124 제동",
+          "url": "https://www.mk.co.kr/news/realestate/12213314",
+          "source": "매일경제"
         },
         {
           "title": "반포 한강 바로 앞… ‘압도적 하이엔드 대단지’ 내달 분양한다",
@@ -242,9 +242,9 @@
           "source": "조선일보"
         },
         {
-          "title": "[부동산 특집] 현대건설, '디에이치 반포124'",
-          "url": "https://www.metroseoul.co.kr/article/20261118500060",
-          "source": "메트로신문"
+          "title": "'30억 로또' 디에이치 반포124 청약 일정 밀린다",
+          "url": "https://www.hankyung.com/article/2026111857156",
+          "source": "한국경제"
         }
       ]
     },
@@ -253,23 +253,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-19T05:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8rcdVQCnI4lHmLGCV6v3CwUPkG_YlMcm8GNKRt4T6s9DMaT_OSM_AQx22EAY",
-      "category": "정치·사회",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtUSdAIFaHKEiVfZAqZgeb62uupDDYJGnrCYnK5b17RzgiiUCY0I4Fj-Cty8E",
+      "category": "기타",
       "news": [
         {
-          "title": "서울교통공사, 열차 비상상황 대응 훈련…대외기관 협업체계 강화",
-          "url": "https://www.newspim.com/news/view/20261118001117",
-          "source": "뉴스핌"
+          "title": "출퇴근 대란 오나… 서울 지하철 노조, 내일부터 ‘준법투쟁’",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/11/19/TGJDBU42RBF6RM7VE35YG6A5FU/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "서울교통공사·한국철도공사, 3호선 화재 대응 합동훈련",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873938",
-          "source": "뉴시스"
+          "title": "열차 지연 가능성…서울지하철 노조, 20일 아침부터 준법투쟁",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854255",
+          "source": "SBS 뉴스"
         },
         {
-          "title": "서울교통공사·코레일, 지하철 배터리 화재 대비 합동훈련…구원열차 연결까지 점검",
-          "url": "https://www.mediainnews.com/news/articleView.html?idxno=48986",
-          "source": "미디어인뉴스"
+          "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
+          "url": "https://www.yna.co.kr/view/AKR20261118090900004",
+          "source": "연합뉴스"
         }
       ]
     }
