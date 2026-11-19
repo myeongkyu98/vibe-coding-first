@@ -1,46 +1,75 @@
 {
-  "updatedAt": "2026-11-19T05:57:16.240Z",
+  "updatedAt": "2026-11-19T07:04:38.146Z",
   "summary": [
     {
-      "category": "정치·사회",
-      "count": 5
-    },
-    {
       "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
+      "count": 4
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "박찬종",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-19T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ_UEmY2CTV4EFwd_6pu6DrWhQViGtXh1p-e8A5BlhoHs4O6i5oyKQ209CR88",
-      "category": "정치·사회",
+      "keyword": "리트 만점자 천호동",
+      "traffic": "200000+",
+      "trafficValue": 200000,
+      "startedAt": "2026-11-19T05:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzrdfldWdOKaV4cTsWw442RyHfle6vEL0gmiMkDDofAz8txLQxfk3bDSNn990",
+      "category": "기타",
       "news": [
         {
-          "title": "‘14대 대선 후보’ 지낸 5선 박찬종 前의원 별세…조문 없이 시신 기증",
-          "url": "https://www.donga.com/news/Politics/article/all/20261119/135053704/1",
-          "source": "동아일보"
+          "title": "[단독] ’리트 만점자’ 이진우 유서 추정 메모 발견…부정행위 인정·사과는 없어",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611191410192QN",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "'14대 대선출마' 박찬종 前의원 별세…생전 약속대로 시신기증",
-          "url": "https://www.yna.co.kr/view/AKR20261119083700001",
+          "title": "리트 만점자 발견된 모텔서 ‘5줄 글’ 발견…수사 관련 언급은 없어",
+          "url": "https://news.jtbc.co.kr/article/NB12328841",
+          "source": "JTBC"
+        },
+        {
+          "title": "LEET 만점자 사망에 수사 종결 수순…진상조사단 출범할까",
+          "url": "https://www.yna.co.kr/view/AKR20261119112700004",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "도이치모터스 주가조작 사건",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-19T04:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwi03SdoKc_J02XN9_GQxMAUL9Cm_0kuRuk9B5N4EH81PLtbLZX6XkIds6OKw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[속보] 대법, 19일 김건희 도이치 주가조작 사건 등 선고",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713560",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
+          "url": "https://www.yna.co.kr/view/AKR20261119022300004",
           "source": "연합뉴스"
         },
         {
-          "title": "'무균질 정치인' 박찬종 별세, 향년 87세…세브란스병원에 시신 기증 - 머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/11/19/2026111913504123181",
-          "source": "머니투데이"
+          "title": "대법, 김건희 '명태균 무상 여론조사' 결론…尹·吳 상고심 가늠자",
+          "url": "https://www.news1.kr/society/court-prosecution/6358466",
+          "source": "뉴스1"
         }
       ]
     },
@@ -70,202 +99,177 @@
       ]
     },
     {
-      "keyword": "체포",
+      "keyword": "양홍원",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-19T04:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJs9PEdbzG0_25IPJ3b8iVasskmwTUKvM6Ahh_agsOOx_zEFHjqSVDwyAe_3g",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "하남 아파트 헌옷수거함에 숨진 아기 버린 30대 친모 체포",
-          "url": "https://www.kyeonggi.com/article/20261119580003",
-          "source": "경기일보"
-        },
-        {
-          "title": "[단독]하남시 아파트 헌옷수거함에서 신생아 시신 발견···경찰 수사",
-          "url": "https://www.khan.co.kr/article/202611181856001",
-          "source": "경향신문"
-        },
-        {
-          "title": "하남 아파트 헌옷수거함에 아기 시신 유기…30대 친모 검거",
-          "url": "https://www.yna.co.kr/view/AKR20261119008900061",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "네이버 뉴스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-19T04:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-axAntqoow57m8KzBbNqclK-ipk3Oo6AdcwMYU-NMOI6Zr1Ynrf0IdBt343Y",
+      "startedAt": "2026-11-19T04:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT47IlWpoTL9CRcWiPxRPytFSccJUxMjyv5NtrFTr6v1OVn2KWswRQ4BLGbBGU",
       "category": "기타",
       "news": [
         {
-          "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
-          "url": "https://www.etnews.com/20261118000308",
-          "source": "전자신문"
+          "title": "가족 잃은 기분...'불륜의혹' 양홍원, 아내 사진도 삭제 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111810404289464",
+          "source": "머니투데이"
         },
         {
-          "title": "607곳 전원 탈락 낳은 네이버의 무리수, 정량 확대·합격선 상향이 빚은 폐쇄",
-          "url": "https://www.dhilbo.co.kr/news/articleView.html?idxno=2430",
-          "source": "동행일보"
+          "title": "“올해도 日 겨울은 보아가” 보아 ‘메리크리’에 시부야 ‘인원제한’ 걸렸다",
+          "url": "https://m.news.zum.com/photo/58287739/108959159?cm=news_edit&r=1&thumb=1",
+          "source": "ZUM 뉴스"
         },
         {
-          "title": "올해 네이버 뉴스제휴 심사 통과 언론사 없어...\"내년 심사 기준 완화 논의\"",
-          "url": "https://zdnet.co.kr/view/?no=20261118201654",
-          "source": "지디넷코리아"
+          "title": "'불륜 의혹' 양홍원, 포르쉐 흡연 욕설 운전 누가 찍었나…도로교통법 위반 가능성[SC이슈]",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/19/MIYDSNZYGI4WKMLGMJRTOY3EHE/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "도이치모터스 주가조작 사건",
+      "keyword": "한덕수 선고",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-19T04:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwi03SdoKc_J02XN9_GQxMAUL9Cm_0kuRuk9B5N4EH81PLtbLZX6XkIds6OKw",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[속보] 대법, 19일 김건희 도이치 주가조작 사건 등 선고",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8713560",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
-          "url": "https://www.yna.co.kr/view/AKR20261119022300004",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "대법, 김건희 '명태균 무상 여론조사' 결론…尹·吳 상고심 가늠자",
-          "url": "https://www.news1.kr/society/court-prosecution/6358466",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "kbs 뉴스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T04:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZ3oNRZ6lOZMtiBt3HSLRPd-f2mgvUqIdwMe1hIE_TPCVkCU04a9TxcMc7Ys",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[사설]AI가 뒤흔든 지식노동… 공인시험제도 전면 개편 불가피",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050632/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "전자상가 돌아보니 “기술적으론 가능”…수험생도 혼란",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714486",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "AI가 먼저 지운 건 ‘신입 자리’…3~5년 뒤 한국 일자리 지도는",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20507",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "김진우",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T04:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMboFw-FLv0H39Q5eWx15QGr-rNfFZpJccz9Rq_GmFXNrgy3_J9BY09MrQc-c",
+      "startedAt": "2026-11-19T05:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm1rx-RaXVTHeFB4d-sGnspC6VMYXCNpRTb9q_W1kXgLPaFcBw0TMCu1e5Jt8",
       "category": "정치·사회",
       "news": [
         {
-          "title": "위너 김진우, 붉은 단풍 아래 후드 점퍼로 전한 근황",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280209",
-          "source": "톱스타뉴스"
+          "title": "김건희·한덕수 대법 선고 'D-DAY'...YTN 생중계",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611191204203334",
+          "source": "YTN"
         },
         {
-          "title": "선관위 특검, 선관위 직원 8명 구속영장 청구",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229641",
-          "source": "법률신문"
-        },
-        {
-          "title": "특검, '투표율 허위입력·공문서 위변조' 선관위 8명 구속영장(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261118120352004",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "내란죄",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpaNWzf-iYPl9M7skk-E9nVhp7rt0ppbUcfF6ZCj5OFX38esJBnzhlQI_F8IY",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "한덕수 선고 정치권 전운…與 \"즉응 결정\" 野 \"재판개입\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119133438aSq",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "한덕수 '내란 가담'·김건희 '3대 의혹' 곧 최종심",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866928_36974.html",
+          "title": "잠시 뒤 한덕수·김건희 상고심‥이 시각 대법원",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866964_36974.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "김민석 ‘한덕수 상고심’에 “의외 결과 나오면 그에 즉응하는 결정 바로 할 것”",
-          "url": "https://www.segye.com/newsView/20261119505796",
-          "source": "세계일보"
+          "title": "오늘 한덕수 대법판결…김민석 “의외 결과 나오면 즉각 대응”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261119/135051781/1",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "전국삼성전자노동조합",
+      "keyword": "예비타당성조사",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-19T03:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrx2-epPQBvNGjhu6oNBZFKhCT3baYutR56JeOFYNkDBFOTCYA9DREtiLOPiU",
-      "category": "IT·과학",
+      "startedAt": "2026-11-19T05:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwmGSGzDqrwY5LEP5ahed99ZB3dq-A4c45QmIJ1N3rDCIhuztgPKB0qykzOg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "삼성전자 제7노조 '광주노동조합' 공식 출범…교섭 참여 추진",
-          "url": "https://www.yna.co.kr/view/AKR20261118119200003",
+          "title": "복지부, 20일 경기 동북부 공공의료원 예비타당성 조사 신청",
+          "url": "https://www.yna.co.kr/view/AKR20261119039300060",
           "source": "연합뉴스"
         },
         {
-          "title": "삼성전자 7노조 ’광주노조’ 출범…“임단협 참여 추진“",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118144308jEM",
-          "source": "연합뉴스TV"
+          "title": "경기 동북부 의료 공백 메울까…남양주 공공의료원 건립 ‘청신호’",
+          "url": "https://www.kyeonggi.com/article/20261119580141",
+          "source": "경기일보"
         },
         {
-          "title": "삼성전자 제7노조 출범, 광주사업장 중심으로 조합원 모집",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452328",
-          "source": "비즈니스포스트"
+          "title": "남양주 공공의료원, 예타 신청사업 선정…400병상 공공병원 추진 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111914075910645",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "김민석",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRgVB7agiByndfSBr5GvMrAUh1uW80UOtm1gkCb1EqzjPduMvUq_A2JcYek-0",
-      "category": "정치·사회",
+      "keyword": "수능 샤프",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T05:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAqy2FoGg_PSYuk-6yPJGe6AKTysqXIFjEFI9rEa0T-1hTzNM8rKzKwlFWa38",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "당원주권시대 \"김민석, 불공정 윤리심판 중단하라\"…최민희 징계 반발",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/19/N5YMT5FXKNGMDBOVUJQH2LRXYA/",
+          "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "연필은 불티, 사인펜은 쌓였다...편의점업계, 수능 특수 김샜다 - 머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/11/19/2026111915033666154",
+          "source": "머니투데이"
+        },
+        {
+          "title": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874383",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "의장대",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-19T05:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPZovw8SvmEkEQegL6ZdbbewtXKlsl9w9eqTzw1QjXVyCQIiQuQ0yfAS3Lg1o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "계단 단차부터 환영단까지‥\"한국과 대우 달라\" \"무례\" 日 불쾌감",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6866880_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "中, 다카이치는 썰렁한 영접... 日측 \"정말 무례하다\" 분노",
+          "url": "https://www.chosun.com/international/international_general/2026/11/18/JD3IWB6EY5CDTMGSUOTYQKMIEA/",
           "source": "조선일보"
         },
         {
-          "title": "[사설]이번 국회 2년 반도 안 돼 6건이나 공개 사과한 최민희",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050630/2",
+          "title": "中, 다카이치 입장때 “외톨이로 보내는 밤” 연주…선곡 의도 논란",
+          "url": "https://www.donga.com/news/Inter/article/all/20261119/135053503/1",
           "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "디 에이치 반포 124",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T05:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcTWzKbbkkE7RebmDJzzF6uzYYrcYdLiJZESPQ39PsGDtJodxS2LUubemcBA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "'30억 로또' 디에이치 반포124 분양가 심의 보류…청약 일정 연기",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04329606645647032",
+          "source": "마켓인"
         },
         {
-          "title": "추미애 “김민석, 윤리위 판단 받아야...‘신천지 비밀연합’ 근거 없어”",
-          "url": "https://www.kyeonggi.com/article/20261118580022",
-          "source": "경기일보"
+          "title": "반포 한강 바로 앞… ‘압도적 하이엔드 대단지’ 내달 분양한다",
+          "url": "https://www.chosun.com/special/special_section/2026/11/19/FO7UFD3IAZCRBAGOMOX37Z34P4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[부동산 특집] 현대건설, '디에이치 반포124'",
+          "url": "https://www.metroseoul.co.kr/article/20261118500060",
+          "source": "메트로신문"
+        }
+      ]
+    },
+    {
+      "keyword": "서울교통공사",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-19T05:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8rcdVQCnI4lHmLGCV6v3CwUPkG_YlMcm8GNKRt4T6s9DMaT_OSM_AQx22EAY",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "서울교통공사, 열차 비상상황 대응 훈련…대외기관 협업체계 강화",
+          "url": "https://www.newspim.com/news/view/20261118001117",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "서울교통공사·한국철도공사, 3호선 화재 대응 합동훈련",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873938",
+          "source": "뉴시스"
+        },
+        {
+          "title": "서울교통공사·코레일, 지하철 배터리 화재 대비 합동훈련…구원열차 연결까지 점검",
+          "url": "https://www.mediainnews.com/news/articleView.html?idxno=48986",
+          "source": "미디어인뉴스"
         }
       ]
     }
