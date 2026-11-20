@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-20T16:53:51.141Z",
+  "updatedAt": "2026-11-20T17:52:54.031Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
+      "category": "스포츠",
+      "count": 3
     },
     {
       "category": "경제",
       "count": 2
     },
     {
-      "category": "IT·과학",
+      "category": "기타",
       "count": 2
     },
     {
-      "category": "스포츠",
-      "count": 1
+      "category": "IT·과학",
+      "count": 2
     },
     {
       "category": "연예",
@@ -24,11 +24,36 @@
   ],
   "items": [
     {
+      "keyword": "india a cricket team vs nepal national cricket team standings",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-20T16:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU9iZsSXaomZR-P9I8VK1qkg85IjbMJ4D_c0dJJmy6LVjCzCdA7yi2sQCWZQc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons",
+          "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-nepal-4th-match-group-b-1562345/match-report",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Nepal bowled out for 26 by India A: Why it won't be the lowest ODI total ever",
+          "url": "https://sports.yahoo.com/articles/nepal-bowled-26-india-why-160544669.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "India A vs Nepal Highlights, ACC Men's Asia Cup Rising Stars 2026: India bowl out Nepal for 26, clinch 306-run win",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-nepal-acc-mens-asia-cup-rising-stars-2026-live-score-match-today-scorecard-result-west-end-park-international-cricket-stadium/liveblog/136018863.cms",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    {
       "keyword": "부동산",
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-20T14:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKxpJnoACBDh8rHDrVKV-XKLj5urOPuypyB3PHn0lRtkM-oZQM0knRE01AkYw",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxej_sBmgk5HUlEev3Vq7OGDC93_IwTrFEGTdBU0aDeM5w6uhn3CmTftVyq44",
       "category": "경제",
       "news": [
         {
@@ -37,14 +62,14 @@
           "source": "KBS 뉴스"
         },
         {
-          "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
-          "url": "https://www.chosun.com/economy/real_estate/2026/11/21/T2N6SYATRBDYJOGZ3A4LGNKKGA/",
-          "source": "조선일보"
-        },
-        {
           "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
           "url": "https://www.khan.co.kr/article/202611202007001",
           "source": "경향신문"
+        },
+        {
+          "title": "현실화율 동결에도…서울 고가 단지 '세 부담 확대' 전망",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445813",
+          "source": "연합인포맥스"
         }
       ]
     },
@@ -72,15 +97,6 @@
           "source": "마켓인"
         }
       ]
-    },
-    {
-      "keyword": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-20T13:30:00.000Z",
-      "picture": "",
-      "category": "IT·과학",
-      "news": []
     },
     {
       "keyword": "펍지",
@@ -137,23 +153,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-20T15:20:00.000Z",
-      "picture": "",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSklFgXCLtcXbwO872V8FwZezixXq3GrSG8EH7QEcvZS9V2vW52BKH47YMrbls",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "'나혼산' TXT 연준, 절친 서범준과 '소분메이트'...반반 공동 구매 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014387240316",
-          "source": "머니투데이"
+          "title": "美 국채가, 안전 선호 쏠림에 강세 지속…10년물 6bp↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445824",
+          "source": "연합인포맥스"
         },
         {
-          "title": "TXT 연준, 자취 10년 차 절친 서범준과 '소분메이트' 결성",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758418",
-          "source": "국제뉴스"
+          "title": "美연준 고위인사 \"AI로 경제 과열…모든 선택지 가능\"",
+          "url": "https://www.yna.co.kr/view/AKR20261120031500072",
+          "source": "연합뉴스"
         },
         {
-          "title": "TXT 연준, 절친의 조카 위해 유아차 선물 “아기 너무 좋아해” (나혼산)",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525544",
-          "source": "iMBC 연예"
+          "title": "\"충격 줘야 할지도\"‥또 '빅스텝' 거론",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6866901_36967.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "u17 việt nam",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T14:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUctJrCDLY2K4kRTEy5qHeGry0AITsKtGDOJDIBtDN5Ct1xHeqclcUYi847M",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
+          "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Lịch thi đấu U.17 Việt Nam và U.17 New Zealand mới nhất: Nỗ lực tột độ để chiến thắng",
+          "url": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-moi-nhat-dau-u17-new-zealand-co-hoi-thang-la-day-185261120221110968.htm",
+          "source": "Thanh Niên"
+        },
+        {
+          "title": "Nhận định U17 Cộng hòa Dominican vs U17 Montenegro: Cơ hội lịch sử, 21h30 ngày 21/11/2026",
+          "url": "https://thethao247.vn/63-nhan-dinh-u17-cong-hoa-dominican-vs-u17-montenegro-co-hoi-lich-su-21h30-ngay-21-11-2026-c288-d446411.html",
+          "source": "Thể Thao 247"
         }
       ]
     },
@@ -229,31 +270,6 @@
           "title": "수능 이의신청 국어 18건·세계사 12건…수학·영어는 '0건'",
           "url": "https://www.newsis.com/view/NISX20261120_0003877047",
           "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "u17 việt nam",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T14:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUctJrCDLY2K4kRTEy5qHeGry0AITsKtGDOJDIBtDN5Ct1xHeqclcUYi847M",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
-          "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Bảng xếp hạng U.17 World Cup mới nhất: 2 siêu phẩm giúp Việt Nam thoát đáy, Mali tốp 1 nhờ thắng New Zealand",
-          "url": "https://thanhnien.vn/bang-xep-hang-u17-world-cup-moi-nhat-2-sieu-pham-giup-viet-nam-thoat-day-mali-top-1-nho-thang-new-zealand-185261120222540314.htm",
-          "source": "Thanh Niên"
-        },
-        {
-          "title": "5 bức ảnh trên trang cá nhân của Lê Sỹ Bách - cầu thủ Việt Nam đầu tiên ghi bàn ở World Cup",
-          "url": "https://kenh14.vn/5-buc-anh-tren-trang-ca-nhan-cua-le-sy-bach-cau-thu-viet-nam-dau-tien-ghi-ban-o-world-cup-215261120212333135.chn",
-          "source": "Kenh14.vn"
         }
       ]
     }
