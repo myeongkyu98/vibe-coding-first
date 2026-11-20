@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-20T05:57:14.438Z",
+  "updatedAt": "2026-11-20T07:04:27.566Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 5
     },
     {
-      "category": "IT·과학",
-      "count": 1
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "연예",
@@ -18,65 +18,15 @@
       "count": 1
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "인공지능",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T04:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7w3-AhezoF_LPHHaOIK1rVGpaUvFWHUDMf7UYdx_CiQ0f4SOiLvJCHqzMwsI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "조민경 시의원, \"글로벌 AI 허브, 송도가 최적지\"…유치 촉구 결의안 발의",
-          "url": "https://www.kyeonggi.com/article/20261119580380",
-          "source": "경기일보"
-        },
-        {
-          "title": "조민경 인천시의원, 글로벌 AI 허브 유치 힘 보탠다…“유치 촉구 결의안 발의”",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337313",
-          "source": "인천일보"
-        },
-        {
-          "title": "[경기] 고양시 '글로벌 AI 허브' 서명 7만 명 돌파 눈앞",
-          "url": "https://www.ytn.co.kr/_ln/0115_202611181615279215",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
       "keyword": "빅뱅",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T04:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs_kWKmWHnRUMHfb--itxTyNyh8fwmktwAHq5P8rWkKfg7wwJ1SDwCq5K0ASc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "빅뱅 출신 승리, 만삭 아내와 동반 입국 포착…양손에 캐리어·명품백 직접 챙겨",
-          "url": "https://sports.khan.co.kr/article/202611190925003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "빅뱅 승리, 만삭 아내와 공항서 포착…내년 1월 출산 예정",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119104039UNO",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "승리, '임신 8개월' 아내와 동반 입국…D라인 포착",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874145",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "빅뱅 신곡",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-20T04:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rcy25oY9CRzN6gu7pGWdJNorBkEjjeyqRdTFrUAt407I6BXN7rwI0KZAg5w",
       "category": "연예",
@@ -87,21 +37,121 @@
           "source": "경향신문"
         },
         {
-          "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…내일 ‘마마 어워즈’ 출연",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718128",
+          "title": "빅뱅·씨엘, 같은 날 4시간 차 신곡 컴백…그 시절 'YG 패밀리' 소환[SC초점]",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/20/GU3WKZRYMMYTKNZWGJQTONZRG4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "빅뱅, 오늘(20일) 새 디지털 싱글 기습 공개…데뷔 20주년 대미 장식",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855191",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "유현조",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T06:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ30Nw9DVwEoc1EWGIwvLFgFyrl3ebBhbxgmgyJ7uHiqB8NaBhzLaus4CY1YR8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "유현조, LPGA Q시리즈 최종전 첫날 공동 8위…선두와 3타 차",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718204",
           "source": "KBS 뉴스"
         },
         {
-          "title": "‘데뷔 20주년’ 빅뱅, 오늘 오후 2시 깜짝 신곡 발매…내일 ‘MAMA’ 출격",
-          "url": "https://www.viva100.com/article/20261120500097",
-          "source": "브릿지경제"
+          "title": "2022년 유해란 이후 4년 만에 수석합격자 나올까…유현조 김민선7 이다연, LPGA Q-시리즈 최종전 출격",
+          "url": "https://sports.donga.com/sports/article/all/20261119/135048984/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "LPGA투어 수능 돌입…90홀 Q시리즈 시작",
+          "url": "https://www.mk.co.kr/news/sports/12213745",
+          "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "레미콘",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T05:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPlb5JAvYddh7RtdHo1qWMHa3a6xj8Tel2CijfZqi_mX-pVULdeKlHZuKknUc",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "한국토지주택공사, 3기 신도시 레미콘 품질 전 과정 추적…2028년 전국 확대",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722299",
+          "source": "뉴스타운"
+        },
+        {
+          "title": "LH, 3기 신도시에 ‘레미콘 통합 품질관리 시스템’ 도입",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363742809",
+          "source": "중부일보"
+        },
+        {
+          "title": "소프트자이온, 레미콘 품질업무자동화 플랫폼 '위시드콘(Weseed CON)' 출시",
+          "url": "https://www.etnews.com/20261117000118",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "리사 수",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T05:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzBj5bznnPhmv4ktqTw4RYmu6LxYmvejNU_3Cukv8QGOCH7H998yOG4k2OHY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“기억 못 하면 금붕어?”…젠슨 황 딸, 직원에게 막말 논란",
+          "url": "https://www.donga.com/news/Inter/article/all/20261120/135060075/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
+          "url": "https://www.khan.co.kr/article/202611191250001",
+          "source": "경향신문"
+        },
+        {
+          "title": "젠슨 황의 불륜 스캔들…두 여자의 주얼리를 보면 삶이 보인다 [민은미의 파인주얼리]",
+          "url": "https://www.hankyung.com/article/202611169480i",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "교량 건설",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T04:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhm2lS7tuprogrD1pwVL7_EqhGtM0yOQZqUwvfpntbw-fvADqJA-otUHB4szg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "대우건설, 갠지스강 잇는 19.7㎞ 세계 최장급 교량 완공",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01269366645647688&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "이기형 김포시장, 국무총리에 ‘서울 5호선 연장·교통망 확충’ 촉구",
+          "url": "https://www.kyeonggi.com/article/20261119580283",
+          "source": "경기일보"
+        },
+        {
+          "title": "[김병철 시선①] 한대희 군포시장, 국토부에 2042년 물류터미널 이전계획 요청",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722460",
+          "source": "뉴스타운"
         }
       ]
     },
     {
       "keyword": "하마",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-20T04:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBy8JxG_qyhIds6rjqX5GK1DKOEm4Ul7Hck5pvQtXkWSOnFY9AzXz6L47rC5E",
       "category": "기타",
@@ -112,8 +162,8 @@
           "source": "조선일보"
         },
         {
-          "title": "美동물원 하마, 관광객 모자 삼켜 폐사…“수술 불가능했다”",
-          "url": "https://www.donga.com/news/Inter/article/all/20261120/135058463/1",
+          "title": "美동물원 인기하마 피요나, 관객이 던진 털모자 먹고 사망",
+          "url": "https://www.donga.com/news/Inter/article/all/20261120/135058433/1",
           "source": "동아일보"
         },
         {
@@ -125,8 +175,8 @@
     },
     {
       "keyword": "안개",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-20T04:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMzRtRtuQvwpHR5Vn_Wu4LMscEO5PaFpKSoDtEX5WpjithH5-5SKSoMv16oc",
       "category": "기타",
@@ -149,77 +199,52 @@
       ]
     },
     {
-      "keyword": "한화이글스",
+      "keyword": "수출규제",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-20T04:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt3EyYlDgAoWg2ur2P16AM0Swnk67DXaxN7vFLLMnl0uQHN-22wDmt6gqfzUE",
-      "category": "스포츠",
+      "startedAt": "2026-11-20T05:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9HLVL0ilmYHyr49N-eYhtt_PgcLzC00u-hnJaoXLf4ORgIN1uT82LwJHlIBs",
+      "category": "경제",
       "news": [
         {
-          "title": "초대박! 'WS 준우승팀 우완' 숄텐스, 전격 방출! 美 \"한화행 임박\"→탬파도 \"KBO 도전한다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/20/2026112012055272273",
+          "title": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단",
+          "url": "https://www.hankyung.com/article/2026112088337",
+          "source": "한국경제"
+        },
+        {
+          "title": "中 AI 기업들 '엔비디아 칩 금단 현상'…\"챗봇 문서 길이 제한도\" - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/20/2026112014484673596",
           "source": "머니투데이"
         },
         {
-          "title": "154km 팔색조 투수, ‘WS 준우승’ 탬파베이에서 방출→한국에 온다 “볼넷·장타 억제 뛰어나”",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/20/GZRTONRVMMYDEZDFHE4GMMJXGA/",
+          "title": "美 반도체 수출 통제 요지경… “텐센트 등 ‘중국軍 지원 기업’에 87만개 승인”",
+          "url": "https://www.chosun.com/international/us/2026/11/20/2Z6H5ZKERRBUTHN4AEBO6MRLGA/",
           "source": "조선일보"
-        },
-        {
-          "title": "MLB 탬파베이 우완 숄턴스, 한국 온다…국내 구단과 협상 막바지",
-          "url": "https://www.yna.co.kr/view/AKR20261120059700007",
-          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "웨이모",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJee-wZJ_n_24dzJHVASLm3EDyS9nM2995X6-CB01soH9IrJpzJpZRB9SSYuc",
-      "category": "기타",
+      "keyword": "sk온",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T06:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74D8TT7bKDIZQViDcdwgtzdb5TqZAC7Rr4ckO-3c23kt8i_JoSUrjl-OXx2g",
+      "category": "경제",
       "news": [
         {
-          "title": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단",
-          "url": "https://www.khan.co.kr/article/202611191320011",
-          "source": "경향신문"
+          "title": "[단독] SK온, LFP로 ‘제주 25년 장기계약’ 입찰 참여…초장기 수명 검증 시험대",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375040",
+          "source": "전기신문"
         },
         {
-          "title": "웨이모, 美 전역 고속도로 자율주행 중단 … 반복되는 안전성 논란",
-          "url": "https://www.autoview.co.kr/ko-kr/articles/102581",
-          "source": "오토뷰"
+          "title": "1차는 삼성SDI, 2차는 SK온…2조원 ESS 수주전, 이번 승부처는?",
+          "url": "https://www.dailian.co.kr/news/view/1717295/1%EC%B0%A8-%EC%82%BC%EC%84%B1SDI-2%EC%B0%A8-SK%EC%98%A82%EC%A1%B0%EC%9B%90-E-2026",
+          "source": "데일리안"
         },
         {
-          "title": "손님 태우고 '뚝'…철도 건널목서 아찔한 상황",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854840",
-          "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "대기업",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T04:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqUcOre6vzgtI500xcQXwRXNqhRDBdupnMptld0GUhM-C8jfe_I9ZcoBfId5s",
-      "category": "기타",
-      "news": [
-        {
-          "title": "작년 대기업 본사가 받은 상표권 사용료 역대 ‘최대’···쿠팡, 내부거래 금액 ‘톱5’ 진입",
-          "url": "https://www.khan.co.kr/article/202611191649001",
-          "source": "경향신문"
-        },
-        {
-          "title": "\"공시집단 소속 국내 계열사 매출 약 35%, 내부거래서 발생\" - 머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/19/2026111908081052143",
-          "source": "머니투데이"
-        },
-        {
-          "title": "규제대상 내부거래 비중…10대 그룹이 2배",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445525",
-          "source": "연합인포맥스"
+          "title": "[포스코포럼] 김현수 하나증권 연구위원 \"ESS 키우는 건 친환경 아닌 에너지 안보\"",
+          "url": "https://www.steeldaily.co.kr/news/articleView.html?idxno=204463",
+          "source": "스틸데일리"
         }
       ]
     },
@@ -228,48 +253,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-20T04:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmasQMYt9bFMX5oND8gmvJPdiGXVZ1GHrvuXPTAK5iG9Qew0SBzJZavJUNro",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-mmMrYr-6EUxUnMewzerwx-gX1YJbuyaEzw4cUQx3eprqx_Mkxdfhc772VMw",
       "category": "기타",
       "news": [
-        {
-          "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837",
-          "source": "KBS 뉴스"
-        },
         {
           "title": "창원 빅트리, 몸통 놔두고 꼭대기에 실내조망시설",
           "url": "https://www.idomin.com/news/articleView.html?idxno=2020041",
           "source": "경남도민일보"
         },
         {
+          "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837",
+          "source": "KBS 뉴스"
+        },
+        {
           "title": "‘흉물 논란’ 창원 빅트리, 실내 전망대로 대폭 손질",
           "url": "https://www.khan.co.kr/article/202611191316001",
           "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "발전",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T04:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSh766f340DJzSFNNxLrkna0JCUjv77kjltUcWCCKhPWxpKa1_sTvTgWFN6Q",
-      "category": "경제",
-      "news": [
-        {
-          "title": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대",
-          "url": "https://biz.chosun.com/industry/company/2026/11/20/QTNPOR6PDJCUDARRRJKJWKNHKM/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "서부발전, 국가기술표준원 유휴부지 활용 '태양광' 사업 추진",
-          "url": "https://www.inpnews.kr/news/articleView.html?idxno=8221",
-          "source": "인사이트N파워"
-        },
-        {
-          "title": "서부발전, 태양광·VPP까지 재생에너지 자문체계 확대",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3450678",
-          "source": "천지일보"
         }
       ]
     }
