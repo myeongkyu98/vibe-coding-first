@@ -1,275 +1,271 @@
 {
-  "updatedAt": "2026-11-20T07:04:27.566Z",
+  "updatedAt": "2026-11-20T08:20:44.706Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 4
     },
     {
       "category": "스포츠",
-      "count": 1
+      "count": 3
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "빅뱅",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-20T04:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rcy25oY9CRzN6gu7pGWdJNorBkEjjeyqRdTFrUAt407I6BXN7rwI0KZAg5w",
+      "keyword": "하정우",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-20T06:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMO0q79GtptUyKgPFeWIs5jyBWv7c462_Pt2y4nZtwOpSSxxZBJeQhFrosVo",
       "category": "연예",
       "news": [
         {
-          "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
-          "url": "https://www.khan.co.kr/article/202611201044001",
-          "source": "경향신문"
-        },
-        {
-          "title": "빅뱅·씨엘, 같은 날 4시간 차 신곡 컴백…그 시절 'YG 패밀리' 소환[SC초점]",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/20/GU3WKZRYMMYTKNZWGJQTONZRG4/",
+          "title": "하정우, 결혼 앞두고 안타까운 비보 무슨 일… 반려견과 작별 \"또 만나자\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GQ3TAOJXGNQTAMLDHFSTMY3BGU/",
           "source": "조선일보"
         },
         {
-          "title": "빅뱅, 오늘(20일) 새 디지털 싱글 기습 공개…데뷔 20주년 대미 장식",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855191",
-          "source": "SBS 뉴스"
+          "title": "‘12월 결혼’ 하정우, 10년 함께한 반려견 떠나보냈다",
+          "url": "https://biz.heraldcorp.com/article/10944038",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "하정우, 결혼 앞두고 비보…반려견 땡칠이와 이별 “좋은 데 가서 또 만나자”",
+          "url": "https://sports.khan.co.kr/article/202611200957003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "유현조",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T06:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ30Nw9DVwEoc1EWGIwvLFgFyrl3ebBhbxgmgyJ7uHiqB8NaBhzLaus4CY1YR8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "유현조, LPGA Q시리즈 최종전 첫날 공동 8위…선두와 3타 차",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718204",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "2022년 유해란 이후 4년 만에 수석합격자 나올까…유현조 김민선7 이다연, LPGA Q-시리즈 최종전 출격",
-          "url": "https://sports.donga.com/sports/article/all/20261119/135048984/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "LPGA투어 수능 돌입…90홀 Q시리즈 시작",
-          "url": "https://www.mk.co.kr/news/sports/12213745",
-          "source": "매일경제"
-        }
-      ]
-    },
-    {
-      "keyword": "레미콘",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T05:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPlb5JAvYddh7RtdHo1qWMHa3a6xj8Tel2CijfZqi_mX-pVULdeKlHZuKknUc",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "한국토지주택공사, 3기 신도시 레미콘 품질 전 과정 추적…2028년 전국 확대",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722299",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "LH, 3기 신도시에 ‘레미콘 통합 품질관리 시스템’ 도입",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363742809",
-          "source": "중부일보"
-        },
-        {
-          "title": "소프트자이온, 레미콘 품질업무자동화 플랫폼 '위시드콘(Weseed CON)' 출시",
-          "url": "https://www.etnews.com/20261117000118",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "리사 수",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T05:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzBj5bznnPhmv4ktqTw4RYmu6LxYmvejNU_3Cukv8QGOCH7H998yOG4k2OHY",
+      "keyword": "이부진",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-20T06:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5h6yIfIbU4jrTHUS9knhA3M_V0dzzLgyUxr9sRmcoy_FP-cpn8MAZ3rtI1jQ",
       "category": "기타",
       "news": [
         {
-          "title": "“기억 못 하면 금붕어?”…젠슨 황 딸, 직원에게 막말 논란",
-          "url": "https://www.donga.com/news/Inter/article/all/20261120/135060075/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
-          "url": "https://www.khan.co.kr/article/202611191250001",
-          "source": "경향신문"
-        },
-        {
-          "title": "젠슨 황의 불륜 스캔들…두 여자의 주얼리를 보면 삶이 보인다 [민은미의 파인주얼리]",
-          "url": "https://www.hankyung.com/article/202611169480i",
+          "title": "서울대 간 이부진 아들도 끊었다…하버드 연구 결과 '깜짝'",
+          "url": "https://www.hankyung.com/article/2026112098257",
           "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "교량 건설",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T04:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhm2lS7tuprogrD1pwVL7_EqhGtM0yOQZqUwvfpntbw-fvADqJA-otUHB4szg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "대우건설, 갠지스강 잇는 19.7㎞ 세계 최장급 교량 완공",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01269366645647688&mediaCodeNo=257",
-          "source": "이데일리"
         },
         {
-          "title": "이기형 김포시장, 국무총리에 ‘서울 5호선 연장·교통망 확충’ 촉구",
-          "url": "https://www.kyeonggi.com/article/20261119580283",
-          "source": "경기일보"
-        },
-        {
-          "title": "[김병철 시선①] 한대희 군포시장, 국토부에 2042년 물류터미널 이전계획 요청",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722460",
-          "source": "뉴스타운"
-        }
-      ]
-    },
-    {
-      "keyword": "하마",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T04:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBy8JxG_qyhIds6rjqX5GK1DKOEm4Ul7Hck5pvQtXkWSOnFY9AzXz6L47rC5E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길",
-          "url": "https://www.chosun.com/international/international_general/2026/11/20/D6WXP4E4JZH25GHNTVL5GPUTFA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "美동물원 인기하마 피요나, 관객이 던진 털모자 먹고 사망",
-          "url": "https://www.donga.com/news/Inter/article/all/20261120/135058433/1",
+          "title": "교실서 폰 금지한 학교 성적 향상 뚜렷…“年 2주 수업 더 들은 효과”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261120/135059879/1",
           "source": "동아일보"
         },
         {
-          "title": "\"피오나, 고마웠어\"…美 '스타 하마' 사망에 애도 물결",
-          "url": "https://www.yna.co.kr/view/AKR20261120079900009",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "안개",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T04:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMzRtRtuQvwpHR5Vn_Wu4LMscEO5PaFpKSoDtEX5WpjithH5-5SKSoMv16oc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1288275.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "산 할아버지, 구름모자 썼네…‘올해의 기상 사진’ 후보들",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1287157.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "호남·제주 '겨울 왕국'...현재 눈 상황은? [앵커리포트]",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611200758253794_005.html",
+          "title": "\"교실 내 휴대전화 금지했더니 1년에 2주 치 점수 향상\"...하버드대 연구",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611201338312069",
           "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "수출규제",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9HLVL0ilmYHyr49N-eYhtt_PgcLzC00u-hnJaoXLf4ORgIN1uT82LwJHlIBs",
+      "keyword": "임지열",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-20T07:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyk0Og2AYR3SihJX-X1_3aTNPZaDR0c4wLol7W8owz4ygHS3vN4vokGQBaWtY",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘신인왕 출신’ 정철원, 2년 만에 롯데 떠난다…키움 주장 임지열과 맞트레이드",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/20/I2N6ST2ZT5DCPL6OBCMWR64OGQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "롯데, 키움과 깜짝 트레이드…정철원 내주고 외야수 임지열 영입",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718522",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "프로야구 롯데 정철원-키움 임지열, 1대1 트레이드 성사",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867313_36946.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "이범호",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-20T07:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv_ytKzk4yhUP2bw02xC453204FIluDgygZDb3OWKzezxxbwYeG1UX3sB_xfc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“일본까지 다시 갔는데…” KIA 이의리, 선발 복귀보다 먼저 풀어야 할 숙제",
+          "url": "http://www.ftimes.kr/news/articleView.html?idxno=41243",
+          "source": "FT스포츠"
+        },
+        {
+          "title": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "“박재현 옆에 홍창기라면?” LG 홍창기, KIA 2번 타순의 고질적인 약점을 해결할 카드",
+          "url": "https://v.daum.net/v/yBnfKOaejg",
+          "source": "Daum"
+        }
+      ]
+    },
+    {
+      "keyword": "레버리지",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-20T06:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgsFZurKrBJ1zvM4wWjSXv7t0qxJUH9NlgPy37To25_-npn5Sj-IdiHdotfqU",
       "category": "경제",
       "news": [
         {
-          "title": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단",
-          "url": "https://www.hankyung.com/article/2026112088337",
-          "source": "한국경제"
+          "title": "1000만원 투자했으면 ‘200만원’…하이닉스 레버리지, 개미들의 무덤",
+          "url": "https://www.mk.co.kr/news/economy/12214520",
+          "source": "매일경제"
         },
         {
-          "title": "中 AI 기업들 '엔비디아 칩 금단 현상'…\"챗봇 문서 길이 제한도\" - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/20/2026112014484673596",
+          "title": "“산타 랠리는 무슨?” 겨울옷 살 돈도 없다는 개미들…외신이 짚은 한국 경제의 두 얼굴",
+          "url": "https://www.sedaily.com/article/20117017",
+          "source": "서울경제"
+        },
+        {
+          "title": "\"1000만원 날린 한국 개미, 겨울 코트까지 포기했다\"",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04378806645647032",
+          "source": "마켓인"
+        }
+      ]
+    },
+    {
+      "keyword": "장승수",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T06:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu7CmG9vtnafMksNJjvK3Em_qovhWvdUV1vXmSCwgciUKNYnwaXPp_UuEmsuQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“막노동하다 서울대 법대 수석 입학? 지금이면 의심부터”…장승수 신화 재조명",
+          "url": "https://www.mk.co.kr/news/society/12214516",
+          "source": "매일경제"
+        },
+        {
+          "title": "세무사 시험장마다 금속탐지기 있었는데…단 한 번도 안 썼다",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57314",
+          "source": "주간조선"
+        },
+        {
+          "title": "국가자격시험 관리감독 강화…부정행위 응시제한 10년으로 확대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976081",
+          "source": "대한민국 정책브리핑"
+        }
+      ]
+    },
+    {
+      "keyword": "마마 2026",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T07:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUszlaa6ycukATMCTbuqxUe_jXwLwHKwxi28G9WLGsI7R6yVzSQum2sncftTU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"K팝 좋아하니 젊어져요\"…칼바람도 녹인 오사카의 일본팬 열기",
+          "url": "https://www.yna.co.kr/view/AKR20261120124400073",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[사진]엔하이픈 정원 '퍼스널 컬러가 시상식'",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/GE4DOYLEG4ZTEZRUGQZTSZBTMI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[공식] 패닉·빅뱅·CL 특별 무대, ‘2026 MAMA’ 오늘 개막",
+          "url": "https://sports.donga.com/ent/article/all/20261120/135061089/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "fifa u-17 월드컵",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T07:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4SdYSuVXRi1RJKLYdEP0BDlKbYJw3qbrtE7SdF_GzTcjPlCNRT1V1J_hMhiQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "U-17 축구대표팀, 월드컵 첫 경기서 우간다 3대 0 대승",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718341",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "골도 없는데 '결승골' 김지호보다 평점 높았다... '양민혁보다 일찍 강원 데뷔' 최재혁, 미친 패스에 태클 7회 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/20/2026112012594098527",
           "source": "머니투데이"
         },
         {
-          "title": "美 반도체 수출 통제 요지경… “텐센트 등 ‘중국軍 지원 기업’에 87만개 승인”",
-          "url": "https://www.chosun.com/international/us/2026/11/20/2Z6H5ZKERRBUTHN4AEBO6MRLGA/",
+          "title": "김현준호, FIFA U-17 월드컵 첫 판서 우간다에 3-0 완승",
+          "url": "https://www.donga.com/news/Sports/article/all/20261120/135058294/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "설경구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T06:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgkpycSrzHuLsypHXwvO_0D4t-Zhn0vWp-dnGDCW84e_rH_3i3YrNI0noDEQ",
+      "category": "연예",
+      "news": [
+        {
+          "title": "설경구, 장항준에 개XX 욕설 \"나 매장시킨다고 했다\"",
+          "url": "https://www.newsis.com/view/NISX20261120_0003875998",
+          "source": "뉴시스"
+        },
+        {
+          "title": "이준혁, 장항준 만족시킨 프랑스 극단에서 배웠던 마임극 ‘목수’ 연기!",
+          "url": "https://programs.sbs.co.kr/enter/maestrojang/clip/90397/OC483670444",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "정만식, 천만영화 ‘서울의 봄’..“의지·책임감, 꼭 흥행 되어야만 했다” (거장항준)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GZSDSMDEHA3DAZBRGUYTOYZUGY/",
           "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "sk온",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T06:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74D8TT7bKDIZQViDcdwgtzdb5TqZAC7Rr4ckO-3c23kt8i_JoSUrjl-OXx2g",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[단독] SK온, LFP로 ‘제주 25년 장기계약’ 입찰 참여…초장기 수명 검증 시험대",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375040",
-          "source": "전기신문"
-        },
-        {
-          "title": "1차는 삼성SDI, 2차는 SK온…2조원 ESS 수주전, 이번 승부처는?",
-          "url": "https://www.dailian.co.kr/news/view/1717295/1%EC%B0%A8-%EC%82%BC%EC%84%B1SDI-2%EC%B0%A8-SK%EC%98%A82%EC%A1%B0%EC%9B%90-E-2026",
-          "source": "데일리안"
-        },
-        {
-          "title": "[포스코포럼] 김현수 하나증권 연구위원 \"ESS 키우는 건 친환경 아닌 에너지 안보\"",
-          "url": "https://www.steeldaily.co.kr/news/articleView.html?idxno=204463",
-          "source": "스틸데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "대상 공원 빅 트리",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T04:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-mmMrYr-6EUxUnMewzerwx-gX1YJbuyaEzw4cUQx3eprqx_Mkxdfhc772VMw",
+      "keyword": "mama 2026",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T06:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmyxdiEI25eReQRK-RoslG7-yIFHTJQSV_IE0bc7fNAw_YPwp24YqOko6Oaw4",
       "category": "기타",
       "news": [
         {
-          "title": "창원 빅트리, 몸통 놔두고 꼭대기에 실내조망시설",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2020041",
-          "source": "경남도민일보"
+          "title": "ILLIT departs for Japan to attend 2026 MAMA Awards",
+          "url": "https://biz.chosun.com/en/en-entertainment/2026/11/18/ZI2NTXDLGJFYNMGLKQDRP3SJYA/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837",
-          "source": "KBS 뉴스"
+          "title": "The 2026 MAMA AWARDS (2026 MAMA AWARDS) will begin today (20th) in Osaka, Japan.",
+          "url": "https://www.mk.co.kr/en/entertain/12214335",
+          "source": "매일경제"
         },
         {
-          "title": "‘흉물 논란’ 창원 빅트리, 실내 전망대로 대폭 손질",
-          "url": "https://www.khan.co.kr/article/202611191316001",
-          "source": "경향신문"
+          "title": "What to look out for at the 2026 MAMA Awards",
+          "url": "https://www.koreaherald.com/article/10944052",
+          "source": "The Korea Herald"
         }
       ]
     }
