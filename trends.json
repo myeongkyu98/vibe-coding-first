@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T02:03:31.938Z",
+  "updatedAt": "2026-11-20T02:51:32.472Z",
   "summary": [
     {
       "category": "기타",
@@ -7,26 +7,51 @@
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
     },
     {
       "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
+      "keyword": "영장",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-20T00:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr-6hTHN8fenhvgMiKZj6-SBXGXTRh41e_w-3jHws1JVFsRkk0YohnIBZBW8E",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[속보] 교육부 \"수능 전자기기 부정행위 모두 111건 적발\"",
+          "url": "https://news.jtbc.co.kr/article/NB12329012",
+          "source": "JTBC"
+        },
+        {
+          "title": "[속보]교육부 “수능 스마트기기 부정행위 111건 적발…재난문자로 54건”",
+          "url": "https://www.khan.co.kr/article/202611201108011",
+          "source": "경향신문"
+        },
+        {
+          "title": "성균관대 면접용 가운·앞치마까지 등장…대학들, 이번 주말 수시논술 앞두고 새 지침 마련",
+          "url": "https://www.hani.co.kr/arti/society/schooling/1288299.html",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
       "keyword": "논현동",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "10000+",
+      "trafficValue": 10000,
       "startedAt": "2026-11-20T00:10:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfk3q6Fwc9O3t9CoM4WE2nDYH61DvSvFJPjtlr5YfmUUExxceGrgqoLscfjHI",
       "category": "기타",
@@ -37,14 +62,64 @@
           "source": "뉴시스"
         },
         {
+          "title": "'현금 198억 매입' 유재석 논현동 빌딩 완공…안테나 사옥 2배 규모",
+          "url": "https://www.fnnews.com/news/202611200946586787",
+          "source": "파이낸셜뉴스"
+        },
+        {
           "title": "‘핑계고’ 찍는 그 건물..유재석 ’198억’ 논현동 빌딩 외관 공개됐다 “대출 0원” [Oh!쎈 이슈]",
           "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MIZWGOJWGU3GEZDGMJSTGYRRG4/",
           "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "손흥민",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-20T01:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'149억 원' 손흥민, MLS 연봉 4위‥부동의 1위는 메시",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867190_36946.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "유희열에 ‘연 4.4억’ 내는 안테나…2배 큰 ‘198억’ 유재석 건물로 이사가나?",
-          "url": "https://www.sportsseoul.com/news/read/1651112",
-          "source": "스포츠서울"
+          "title": "'149억원' 손흥민, 10월 기준 MLS 연봉 4위…메시는 부동의 1위",
+          "url": "https://www.yna.co.kr/view/AKR20261120045800007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "‘149억’ 손흥민, MLS 연봉 4위…레반도프스키·그리에즈만 가세에 두 계단 하락",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120094541sky",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "물수리",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T00:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKtgxH-EWK-HM5z7LBjoSPXI4hpm2c8JmqZK0Si9MxZwNYFNG8mEhmrawLkQQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
+          "url": "https://www.khan.co.kr/article/202611191400001",
+          "source": "경향신문"
+        },
+        {
+          "title": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
+          "source": "서울Pn"
         }
       ]
     },
@@ -74,116 +149,16 @@
       ]
     },
     {
-      "keyword": "이의리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-20T00:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdvFdYKv_-KgKbxe_veqhAzYDK7os5HnQI1jSG_9CxSda73z2uyPEGJ8cBOtM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "\"한국은 구속만 의식하는데...\" 충격의 한일전 13연패, '日 유학' 한화 투수 듀오가 깨달은 차이 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111903265961535",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'韓 팬들도 궁금' 대체 일본은 무엇이 다르길래, 이의리-김서현-김진욱이 효과를 봤나…한화 이 선수 솔직속내 \"日 투수 수준 더 높다\"",
-          "url": "https://mydaily.co.kr/page/view/2026111911120848723",
-          "source": "마이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "유니클로",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-20T00:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvfiU0odEsV84uxkAN_YnQA9Jb4ZJEeN2xwS-RiqFlzy7AJn7PAAawr6XE9Fc",
-      "category": "경제",
-      "news": [
-        {
-          "title": "1평 공방서 맨땅에 바느질…이젠 로레알·유니클로서 '러브콜'",
-          "url": "https://www.hankyung.com/article/2026111982391",
-          "source": "한국경제"
-        },
-        {
-          "title": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
-          "url": "https://www.yna.co.kr/view/AKR20261119033100009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "“아무것도 이룬 게 없다” 2주간 통곡한 손정의…“AI에 남은 인생 바친다”",
-          "url": "https://www.joongang.co.kr/article/25479855",
-          "source": "중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "서울 지하철 2호선",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T01:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSihOk1nWo0f8AV3KmC6jIKWlIIVFm0EKTkADvKoUE15ejyNX4tW6IdUc0aNw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "서울 지하철 2호선 성수지선 양방향 운행 중지",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "'운행 중지' 2호선 성수지선 3시간 만에 복구...한 때 운행 중단",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611201037141370",
-          "source": "YTN"
-        },
-        {
-          "title": "서울지하철 노조, 준법투쟁 돌입…출퇴근길 일부 지연 가능성",
-          "url": "https://www.khan.co.kr/article/202611200739001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "물수리",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T00:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKtgxH-EWK-HM5z7LBjoSPXI4hpm2c8JmqZK0Si9MxZwNYFNG8mEhmrawLkQQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
-          "url": "https://www.khan.co.kr/article/202611191400001",
-          "source": "경향신문"
-        },
-        {
-          "title": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
-          "source": "서울Pn"
-        }
-      ]
-    },
-    {
       "keyword": "샌안토니오 대 la 클리퍼스",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-20T01:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY0TIBouFxau2Dc5UqK6aQKMIWSe8KEMP9irf86IJEZ7g_1f9TlzJm9kvFa80",
       "category": "스포츠",
       "news": [
         {
-          "title": "Game Preview: San Antonio Spurs vs. Los Angeles Clippers",
-          "url": "https://www.poundingtherock.com/spurs-game-previews/110399/game-preview-san-antonio-spurs-vs-los-angeles-clippers",
+          "title": "It’s time for Basketball: San Antonio Spurs vs Los Angeles Clippers",
+          "url": "https://www.poundingtherock.com/spurs-discussion-threads/110410/its-time-for-basketball-san-antonio-spurs-vs-los-angeles-clippers",
           "source": "Pounding The Rock"
         },
         {
@@ -192,16 +167,66 @@
           "source": "Sports Illustrated"
         },
         {
-          "title": "Exploit LA's Sluggish Defense With Spurs 1H",
-          "url": "https://sports.yahoo.com/videos/exploit-las-sluggish-defense-spurs-163031800.html",
-          "source": "Yahoo Sports"
+          "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Spurs",
+          "url": "https://www.nba.com/clippers/news/clippers-vs-spurs-preview-2026-11-19",
+          "source": "NBA.com"
+        }
+      ]
+    },
+    {
+      "keyword": "제네시스 g80",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T01:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDhVXTkEcJnT9DskKGydk8SkbcI-AmXpqvMLuQ5yIamzfyrsNerVpwRwkIiag",
+      "category": "연예",
+      "news": [
+        {
+          "title": "제네시스, ‘G80 하이브리드’ LA서 첫 공개…연비 34% 개선",
+          "url": "https://www.khan.co.kr/article/202611200923001",
+          "source": "경향신문"
+        },
+        {
+          "title": "'SUV 다음은 세단' 제네시스의 승부수…G80 하이브리드 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/20/2026112009033343209",
+          "source": "머니투데이"
+        },
+        {
+          "title": "제네시스, LA 오토쇼서 G80 하이브리드 최초 공개... 북미 고급 하이브리드 시장 첫발",
+          "url": "https://www.chosun.com/economy/industry-company/2026/11/20/DESJLW7PAJHYZEWBJMUWCZCCQY/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "검찰",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T01:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7ViZIQWKaoE1tM02RAsJN8PGJAF5MGwXRtWIjH1dpDZcXM7_me_2b_9nfo0A",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "\"검사 200명 수사 부담된다\" 손사래… 與 조작기소 특검 구인난",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/20/3EKVMEIAVBBZLNHCPBUU6JEQO4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "이재명 탈옥법 폐지 촉구 규탄사 하는 정점식",
+          "url": "https://www.newsis.com/view/NISI20261120_0021539949",
+          "source": "뉴시스"
+        },
+        {
+          "title": "국힘, 홍대·신촌 일대서 조작기소 특검법 폐지 촉구 도보행진",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867164_36911.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
       "keyword": "fc 포항 스틸러스",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-20T01:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3fgoLE4BGupViuRo6FU_SBj7YdBo5bteKCDvYxlcYBu5Z6c3zUM9MdYn80VE",
       "category": "스포츠",
@@ -225,8 +250,8 @@
     },
     {
       "keyword": "정부",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-20T01:00:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEB1Z2akBx4j7CPwg2UC2QTH3Gk5djYYT4M1gJNe5Bxmy3sCe18VxOXnmweEk",
       "category": "정치·사회",
@@ -242,34 +267,9 @@
           "source": "경향신문"
         },
         {
-          "title": "李대통령 \"전자정부 세계 1위, 국민 일상의 변화로 이어가겠다\"",
-          "url": "https://www.newspim.com/news/view/20261120000459",
-          "source": "뉴스핌"
-        }
-      ]
-    },
-    {
-      "keyword": "h&m",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T00:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPYK2s1DSZfL_Pka4lL9B8LODipFMsxGj_lxt5-0Cx1xJ9j3w8iDESJv_C-U",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award",
-          "url": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award",
-          "source": "Vogue"
-        },
-        {
-          "title": "MACY GRIMSHAW WINS THE H&M DESIGN AWARD 2026",
-          "url": "https://press.hm.com/newsroom/2026/macy-grimshaw-wins-the-hm-design-award-2026",
-          "source": "H&M"
-        },
-        {
-          "title": "Macy Grimshaw Takes Home This Year’s H&M Design Award",
-          "url": "https://sg.news.yahoo.com/macy-grimshaw-takes-home-h-200532580.html",
-          "source": "Yahoo News Singapore"
+          "title": "李대통령, 전자정부 1위 탈환에 \"국민 체감이 중요…개인정보보호 철저\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445734",
+          "source": "연합인포맥스"
         }
       ]
     }
