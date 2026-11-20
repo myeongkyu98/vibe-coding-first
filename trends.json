@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-20T02:51:32.472Z",
+  "updatedAt": "2026-11-20T03:48:06.574Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 5
     },
     {
-      "category": "스포츠",
+      "category": "연예",
       "count": 2
     },
     {
@@ -14,71 +14,17 @@
       "count": 2
     },
     {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "연예",
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "영장",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-20T00:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr-6hTHN8fenhvgMiKZj6-SBXGXTRh41e_w-3jHws1JVFsRkk0YohnIBZBW8E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[속보] 교육부 \"수능 전자기기 부정행위 모두 111건 적발\"",
-          "url": "https://news.jtbc.co.kr/article/NB12329012",
-          "source": "JTBC"
-        },
-        {
-          "title": "[속보]교육부 “수능 스마트기기 부정행위 111건 적발…재난문자로 54건”",
-          "url": "https://www.khan.co.kr/article/202611201108011",
-          "source": "경향신문"
-        },
-        {
-          "title": "성균관대 면접용 가운·앞치마까지 등장…대학들, 이번 주말 수시논술 앞두고 새 지침 마련",
-          "url": "https://www.hani.co.kr/arti/society/schooling/1288299.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "논현동",
+      "keyword": "손흥민",
       "traffic": "10000+",
       "trafficValue": 10000,
-      "startedAt": "2026-11-20T00:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfk3q6Fwc9O3t9CoM4WE2nDYH61DvSvFJPjtlr5YfmUUExxceGrgqoLscfjHI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874712",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'현금 198억 매입' 유재석 논현동 빌딩 완공…안테나 사옥 2배 규모",
-          "url": "https://www.fnnews.com/news/202611200946586787",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "‘핑계고’ 찍는 그 건물..유재석 ’198억’ 논현동 빌딩 외관 공개됐다 “대출 0원” [Oh!쎈 이슈]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MIZWGOJWGU3GEZDGMJSTGYRRG4/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "손흥민",
-      "traffic": "5000+",
-      "trafficValue": 5000,
       "startedAt": "2026-11-20T01:40:00.000Z",
-      "picture": "",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_TzlQCOt97iHAXtoQq-Wo4fCuXI0EDNZJ9IyC68khlbpGurT4FFUqua9GbE",
       "category": "기타",
       "news": [
         {
@@ -99,84 +45,109 @@
       ]
     },
     {
-      "keyword": "물수리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-20T00:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKtgxH-EWK-HM5z7LBjoSPXI4hpm2c8JmqZK0Si9MxZwNYFNG8mEhmrawLkQQ",
+      "keyword": "배치표",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-20T02:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3OCXha515B5Js2G2_m8N-ImWDD0-JjUAEwVUCy2m27j1bmM7DtWARfAkNbXU",
       "category": "기타",
       "news": [
         {
-          "title": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
-          "source": "KBS 뉴스"
+          "title": "‘불수능’ 사라지자 SKY 문턱 껑충… 서울대 의예 298점·경영 287점 전망",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135059516/1",
+          "source": "동아일보"
         },
         {
-          "title": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
-          "url": "https://www.khan.co.kr/article/202611191400001",
-          "source": "경향신문"
+          "title": "[단독][2027수능 가채점배치표] 빅5 의대, 고대 의대 298점 '최고' (종로)",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=638289",
+          "source": "베리타스알파"
         },
         {
-          "title": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
-          "source": "서울Pn"
+          "title": "SKY 의대 합격선 ‘298점’… 작년보다 최고 10점 올라",
+          "url": "https://www.munhwa.com/article/11632917",
+          "source": "문화일보"
         }
       ]
     },
     {
-      "keyword": "경기도교육청",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-20T00:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCmwC2Bx-QEtoKjElZJxhYrW1JlxUJ3yVsq4lSrx3Jk3XFw5DpIxgJSrDNZUQ",
-      "category": "IT·과학",
+      "keyword": "시애틀 사운더스 대 솔트레이크",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-20T02:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3bPSSARRdB4xLGygx_pXon_JB_X7gouJokCHisTZSO9jhkPviF82wZxkJicc",
+      "category": "기타",
       "news": [
         {
-          "title": "[수능] 전북 'AI부정행위' 없어…응시방법 위반 등은 적발(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261119068751055",
-          "source": "연합뉴스"
+          "title": "SEAvRSL 101 Preview: All you need to know when the Sounders host Real Salt Lake in the 2026 Audi MLS Cup Playoffs Wildcard Round, pres. by Ticketmaster",
+          "url": "https://www.soundersfc.com/news/seavrsl-101-preview-all-you-need-to-know-when-the-sounders-host-real-salt-lake-in-the-2026-audi-mls-cup-playoffs-wildcard-round-pres-by-ticketmaster",
+          "source": "Seattle Sounders FC"
         },
         {
-          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
-          "source": "MBC 뉴스"
+          "title": "Expectations be damned: Sounders enter playoffs with something to prove",
+          "url": "https://www.sounderatheart.com/2026/11/expectations-be-damned-sounders-enter-playoffs-with-something-to-prove/",
+          "source": "Sounder at Heart"
         },
         {
-          "title": "2027 대입수능 이모저모, 모두가 한마음…올해 수능도 큰 사고없이 마무리",
-          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073141",
-          "source": "경상일보"
+          "title": "How Sounders can still salvage a disappointing season",
+          "url": "https://www.seattletimes.com/sports/sounders/sounders-try-to-salvage-disappointing-season-in-mls-playoffs/",
+          "source": "The Seattle Times"
         }
       ]
     },
     {
-      "keyword": "샌안토니오 대 la 클리퍼스",
+      "keyword": "키오스크",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-20T01:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY0TIBouFxau2Dc5UqK6aQKMIWSe8KEMP9irf86IJEZ7g_1f9TlzJm9kvFa80",
-      "category": "스포츠",
+      "startedAt": "2026-11-20T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR64mPgapsePwwgjBc-c99FeQoq0pu4Tz266_PoxPYEoAM0GRwkmOySCzDrgDQ",
+      "category": "기타",
       "news": [
         {
-          "title": "It’s time for Basketball: San Antonio Spurs vs Los Angeles Clippers",
-          "url": "https://www.poundingtherock.com/spurs-discussion-threads/110410/its-time-for-basketball-san-antonio-spurs-vs-los-angeles-clippers",
-          "source": "Pounding The Rock"
+          "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
+          "source": "주간조선"
         },
         {
-          "title": "Clippers vs. Spurs Prediction, Odds and Best NBA Prop Bets for Thursday, Nov. 19",
-          "url": "https://www.si.com/betting/clippers-vs-spurs-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-19-2026",
-          "source": "Sports Illustrated"
+          "title": "“카페 키오스크 앞 어르신 손 덜덜…” 직원 날 선 말투 ‘뭇매’",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288156.html",
+          "source": "한겨레"
         },
         {
-          "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Spurs",
-          "url": "https://www.nba.com/clippers/news/clippers-vs-spurs-preview-2026-11-19",
-          "source": "NBA.com"
+          "title": "커피 마시려다 봉변…\"손까지 덜덜\" 카페 영상 확산하자",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854828",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "굿파트너",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T02:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqDUfiI0hmmJMGnu05Y4gtEH9uBKfjeIXluoiq2N7m43WEmgnwnVhuTFMHYSM",
+      "category": "연예",
+      "news": [
+        {
+          "title": "“상간녀 5명 월화수목금 느낌 엄청나” 장나라, 불륜 사건에 ‘경악’",
+          "url": "https://www.twig24.com/news/entertainments/2026/11/18/20261118500099",
+          "source": "TWIG"
+        },
+        {
+          "title": "인연 잇는다…펀치, '굿파트너2' 첫 OST 가창",
+          "url": "https://www.etnews.com/20261120000022",
+          "source": "전자신문"
+        },
+        {
+          "title": "SBS 새 드라마 '굿파트너2', 내일 첫 방송",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852793",
+          "source": "SBS 뉴스"
         }
       ]
     },
     {
       "keyword": "제네시스 g80",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-20T01:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDhVXTkEcJnT9DskKGydk8SkbcI-AmXpqvMLuQ5yIamzfyrsNerVpwRwkIiag",
       "category": "연예",
@@ -187,14 +158,39 @@
           "source": "경향신문"
         },
         {
-          "title": "'SUV 다음은 세단' 제네시스의 승부수…G80 하이브리드 공개 - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/20/2026112009033343209",
-          "source": "머니투데이"
+          "title": "\"주유소 사장님, 저 당분간 못 와요\"…확 달라진 국산차 정체",
+          "url": "https://www.hankyung.com/article/202611209146g",
+          "source": "한국경제"
         },
         {
           "title": "제네시스, LA 오토쇼서 G80 하이브리드 최초 공개... 북미 고급 하이브리드 시장 첫발",
           "url": "https://www.chosun.com/economy/industry-company/2026/11/20/DESJLW7PAJHYZEWBJMUWCZCCQY/",
           "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김아림",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T02:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAMCqwQcU8PTAPqzpmEfR-ylKhi_ej9qVVuhmnttb37V3wU_LMkW5W1jM3AA4",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "김아림, LPGA 시즌 최종전 투어 챔피언십 첫날 공동 선두",
+          "url": "https://www.yna.co.kr/view/AKR20261120018100007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "유해란, 투어 챔피언십 첫날 공동 4위",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261120_0002297379&provider_id=&cID=&type=Main&catg=&idx=7",
+          "source": "뉴시스"
+        },
+        {
+          "title": "유해란·최혜진 출격…LPGA 최종전 우승 정조준",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611192328491Gn",
+          "source": "연합뉴스TV"
         }
       ]
     },
@@ -212,64 +208,64 @@
           "source": "조선일보"
         },
         {
-          "title": "이재명 탈옥법 폐지 촉구 규탄사 하는 정점식",
-          "url": "https://www.newsis.com/view/NISI20261120_0021539949",
-          "source": "뉴시스"
-        },
-        {
-          "title": "국힘, 홍대·신촌 일대서 조작기소 특검법 폐지 촉구 도보행진",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867164_36911.html",
+          "title": "홍대로 간 국민의힘 \"특검법 폐기해야‥조희대 탄핵은 광기\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867200_36911.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "검찰미래위, '李대통령 기소' 위례 개발비리 등 3건 재논의",
+          "url": "https://www.yna.co.kr/view/AKR20261120079000004",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "fc 포항 스틸러스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T01:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3fgoLE4BGupViuRo6FU_SBj7YdBo5bteKCDvYxlcYBu5Z6c3zUM9MdYn80VE",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[공식발표] 5년 만에 파이널B 추락→팬들은 ‘응원 보이콧’ 선언…위기의 포항, 변화 약속 “말이 아닌 행동·결과로 보여드리겠다”",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD-5%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%82%E1%85%A5%E1%86%AFb-%E1%84%8E%E1%85%AE%E1%84%85%E1%85%A1%E1%86%A8%E2%86%92%E1%84%91%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%BA-%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%B1%E1%84%80%E1%85%B5%E1%84%8B%E1%85%B4-%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%86%BC-%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA-%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%89%E1%85%A9%E1%86%A8-%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%86%AB-%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC-%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%85%E1%85%A9-%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A6%E1%86%BB%E1%84%83%E1%85%A1/blt0db667d3c5b727e8",
-          "source": "Goal.com"
-        },
-        {
-          "title": "포항스틸러스 \"달라지는 모습 보여주겠습니다\"",
-          "url": "https://www.imaeil.com/page/view/2026111911042341782",
-          "source": "매일신문"
-        },
-        {
-          "title": "포항, 김성재 체제 첫 승 도전…21일 안양전서 박찬용 100경기 시상식도 진행",
-          "url": "https://m.news.nate.com/view/20261120n00135",
-          "source": "네이트"
-        }
-      ]
-    },
-    {
-      "keyword": "정부",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T01:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEB1Z2akBx4j7CPwg2UC2QTH3Gk5djYYT4M1gJNe5Bxmy3sCe18VxOXnmweEk",
+      "keyword": "한겨레",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T02:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRODyDM7UAoRfwCF-lM2gvXCPumlSIEQfuyXll2z1OTQCUckc2aaStPjXIWK80",
       "category": "정치·사회",
       "news": [
         {
-          "title": "UN 전자정부평가 결과 관련 브리핑",
-          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156790048",
-          "source": "대한민국 정책브리핑"
+          "title": "‘김건희 어좌’ 사진 공개한 측근 “안 말려놓고…악마화” 주장",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288301.html",
+          "source": "한겨레"
         },
         {
-          "title": "한국, 유엔 전자정부평가서 12년 만에 세계 1위 탈환",
-          "url": "https://www.khan.co.kr/article/202611200956001",
-          "source": "경향신문"
+          "title": "김건희 여사 측근, 경복궁 근정전 어좌 착석 사진 공개…“국가유산청도 말리지 않았다”",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=488121",
+          "source": "스페셜타임스"
         },
         {
-          "title": "李대통령, 전자정부 1위 탈환에 \"국민 체감이 중요…개인정보보호 철저\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445734",
-          "source": "연합인포맥스"
+          "title": "尹 최소 무기징역 피하기 어려울 듯⋯ 이상민·박성재 등 재판에도 영향",
+          "url": "https://www.kmib.co.kr/article/20261120500009",
+          "source": "국민일보"
+        }
+      ]
+    },
+    {
+      "keyword": "ราคาทองวันนี้",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T02:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHrxWLk-iklazX9aPv2ZQAuHkt9O_X-1SwrO6wdNEXdFQZ328Gi1ZlDFC0paE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "ทองไทยดิ่งแรง 2,850 บาท ตามทองโลก ตลาดหวั่นเฟดขึ้นดอกเบี้ย ธ.ค.นี้ เตือนระวังราคาลงต่อ",
+          "url": "https://www.efin.finance/th/stock/news/detail/ryp1AA",
+          "source": "efin.finance"
+        },
+        {
+          "title": "ราคาทองคำวันนี้ 20 พฤศจิกายน 2569 ลง 2,800 บาท รูปพรรณขาย 57,900 บาท",
+          "url": "https://readthecloud.co/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-20/",
+          "source": "คลาวด์ปัง"
+        },
+        {
+          "title": "Daily Recap Gold Spot 20-11-2569",
+          "url": "https://www.huasengheng.com/news/daily-recap-gold-spot-20-11-2569/",
+          "source": "ฮั่วเซ่งเฮง"
         }
       ]
     }
