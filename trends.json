@@ -1,121 +1,200 @@
 {
-  "updatedAt": "2026-11-20T10:55:55.549Z",
+  "updatedAt": "2026-11-20T11:52:44.698Z",
   "summary": [
     {
+      "category": "IT·과학",
+      "count": 3
+    },
+    {
       "category": "기타",
-      "count": 7
+      "count": 3
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "스포츠",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김장",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-20T09:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeNdG9LeB7hDNk6Fb61PaRI1iL3xrqkRGI_vgZintaD_KmhA_DA7JWAfS5Jk8",
-      "category": "정치·사회",
+      "keyword": "이진우 부검",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T10:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNnaXFl55-ikk-o1tz8Po4SJzp5b3Yc7zxTpJBNiYLxUG6si2qQ75p8fKJ1Cw",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "경기도북부회 지역 사랑 나눔…의정부서 ‘김장나누기 행복곱하기’ 행사",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375019",
-          "source": "전기신문"
+          "title": "‘리트 만점자’ 사망에…서울대 교수 \"열광하다가 사냥개처럼 몰아붙여\"",
+          "url": "https://news.jtbc.co.kr/article/NB12329002",
+          "source": "JTBC"
         },
         {
-          "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006422",
-          "source": "국제신문"
+          "title": "‘리트 만점자’ 고발 변호사 “AI 부정행위 흔적 끝까지 찾아달라”",
+          "url": "https://biz.chosun.com/topics/law_firm/2026/11/20/5TFBOFZF6VEHDCOIO2YDH3AJGM/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "한성대 ESG센터, 삼선동 저소득 180가구에 김장 김치 전달",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876956",
-          "source": "뉴시스"
+          "title": "‘리트 만점자’ 이진우, 천호동 모텔서 심정지 상태로 발견",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8717283",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "굿파트너2",
+      "keyword": "ind-a vs nep",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-20T09:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYZlFSQz0TzCnR3-xgfamzNvi_-y1tQD3QIcrwY40mLMGZvy4_LtILirV8ut8",
-      "category": "기타",
+      "startedAt": "2026-11-20T10:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3_LYvgMeBAfCdtjUNIo1iWadkgZbwDKer55OSWCjDw65CWzhtWTmueKQJt7s",
+      "category": "스포츠",
       "news": [
         {
-          "title": "'굿파트너2'서 로펌대표 된 장나라 \"전작 재미 유지하려 애썼죠\"",
-          "url": "https://www.yna.co.kr/view/AKR20261120147300005",
-          "source": "연합뉴스"
+          "title": "India v Pakistan: How to watch Rising Stars Asia Cup showdown in UAE?",
+          "url": "https://www.thenationalnews.com/sport/cricket/2026/11/20/india-v-pakistan-how-to-watch-rising-stars-asia-cup-showdown-in-uae/",
+          "source": "www.thenationalnews.com"
         },
         {
-          "title": "스튜디오앤뉴, '굿파트너2' 제작 참여…메가 히트 IP로 연타석 흥행 노린다",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MY2GMYLEHFQWCYZVMY3DOYJRMY/",
-          "source": "조선일보"
+          "title": "India A vs Nepal Asia Cup Rising Stars 2026: Vaibhav Sooryavanshi Included in Playing XI as Nepal Opts to Bowl",
+          "url": "https://www.jagranjosh.com/general-knowledge/india-a-vs-nepal-toss-result-playing-xi-asia-cup-rising-stars-2026-vaibhav-sooryavanshi-abhishek-sharma-1820013990-1",
+          "source": "Jagran Josh"
         },
         {
-          "title": "김혜윤-장나라 '우리는 굿파트너'",
-          "url": "https://www.mt.co.kr/photo/202611201501044796",
-          "source": "머니투데이"
+          "title": "Excitel Broadband steps up as Global Sponsor of the DP World Asia Cup Rising Stars 2026",
+          "url": "https://www.medianews4u.com/excitel-broadband-steps-up-as-global-sponsor-of-the-dp-world-asia-cup-rising-stars-2026/",
+          "source": "MediaNews4U"
         }
       ]
     },
     {
       "keyword": "벼",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-20T09:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnTgspEauQdeVZrcB69zwrWk2P48XAWI9AkHKlpc1Qqpkp4CiFbpQ5OARYCfk",
-      "category": "기타",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN1X3f7kEt_hfjMiQ0Yfx5qwTg7TEXi2WKhA1iP4VYX6Xq1Wqn-TRREYwmEAk",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "경주시, 2026년산 공공비축미 6,006톤 매입…전년 대비 14% 이상 감소",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722655",
-          "source": "뉴스타운"
+          "title": "\"내년 심을 벼종자 신청하세요\"…국립종자원, 정부보급종 보급",
+          "url": "https://www.yna.co.kr/view/AKR20261119055100030",
+          "source": "연합뉴스"
         },
         {
-          "title": "[경주소식]시, 내달까지 공공비축미 건조벼 2988t 매입 등",
-          "url": "https://www.newsis.com/view/NISX20261119_0003875334",
-          "source": "뉴시스"
+          "title": "내년 벼농사 준비 시작…정부보급종 1만8000t 신청 접수",
+          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041502",
+          "source": "기호일보"
         },
         {
-          "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/19/2026111909571992819",
-          "source": "머니투데이"
+          "title": "내년 벼 정부보급종 1만 8000여톤 공급…23일부터 신청",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02597766645647360",
+          "source": "마켓인"
         }
       ]
     },
     {
-      "keyword": "스타벅스",
+      "keyword": "국민연금공단",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-20T09:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDm2jT_R7L24pwaAsI87PLepMTQWSalUdcnKapEh85c3JGoaQrq4mtYRzKIrY",
+      "startedAt": "2026-11-20T10:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4WvCe0wP-MZscva8Zpb_NrfzOKpNk8sfRPODFO3dxo2ITJI7rCeFX4IOvdEY",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "어르신~ '복지로' 간편해졌어요!",
+          "url": "https://news.mtn.co.kr/article/2026112010173722714",
+          "source": "MTN 머니투데이방송"
+        },
+        {
+          "title": "국민연금, 기초연금 온라인 신청 퀴즈 이벤트…400명에게 상품권",
+          "url": "https://www.news1.kr/bio/welfare-medical/6360637",
+          "source": "뉴스1"
+        },
+        {
+          "title": "기초연금 신청 더 간편하게…배우자 동의도 모바일로",
+          "url": "https://www.dailian.co.kr/news/view/1717759/%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B8%88-%EC%8B%A0%EC%B2%AD-%EB%8D%94-%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C%EB%B0%B0%EC%9A%B0%EC%9E%90-%EB%8F%99%EC%9D%98-2026",
+          "source": "데일리안"
+        }
+      ]
+    },
+    {
+      "keyword": "2027 수능 만점자",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPcFlgUCcm8LHudNZ-NieqHsBvoVlzztgAOO15iQ9LbMtLGAqn5ic_V6Uklw",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[단독] 2027수능 자연계 만점자 1명 확인.. 시흥 신천고 출신 삼수생 최씨 '서울대 의대 지망'",
+          "url": "https://www.veritas-a.com/news/articleView.html?idxno=638431",
+          "source": "베리타스알파"
+        },
+        {
+          "title": "[단독]전남광주 수능 만점자의 당부 \"‘AI 커닝’에 불안해 말길\"",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=929621",
+          "source": "남도일보"
+        },
+        {
+          "title": "최근 5년간 ‘수능 만점자’ 21명…만점의 비법은",
+          "url": "https://www.dongbangilbo.co.kr/news/articleView.html?idxno=113801",
+          "source": "동방일보"
+        }
+      ]
+    },
+    {
+      "keyword": "신영수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTErchJFkfPyqgCa-WK1S97L4TEOkdZm0m0e5zyZDWEOwxbog5iB9e7c-X3nzE",
       "category": "기타",
       "news": [
         {
-          "title": "스타벅스, ’부드러운 생크림 카스텔라’ 700원 인상…11년 만",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611201453244Qv",
-          "source": "연합뉴스TV"
+          "title": "'파묘' 자문 고춘자, 한고은에게 \"연예인 안 했으면 무속인 됐을 것\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6360587",
+          "source": "뉴스1"
         },
         {
-          "title": "스타벅스 디저트 ‘부생카’ 11년 만에 첫 가격 인상… 700원 오른다",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3450737",
-          "source": "천지일보"
+          "title": "“자식 없는 팔자”…‘파묘’ 무속인, 한고은♥신영수 부부에 충격 신점",
+          "url": "https://www.mk.co.kr/news/hot-issues/12214276",
+          "source": "매일경제"
         },
         {
-          "title": "스타벅스, '부드러운 생크림 카스텔라' 11년 만에 700원 인상",
-          "url": "https://www.yna.co.kr/view/AKR20261120070800030",
+          "title": "한고은♥신영수, 알고 보니 ‘무당♥스님’ 궁합…“자식 없는 사주”",
+          "url": "https://sports.khan.co.kr/article/202611201444003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "초과근무",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T10:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVmgxg8CQu2ZaLYqkEBSD_VGdSYTmNyvksYLk0gu1WfBFCJ_z4EN8mX6p2irs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[단독] 82억 특활비 부활시킨 靑, 이번엔 \"초과근무수당 2배 올려달라\"",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/20/2026112050066.html",
+          "source": "뉴데일리"
+        },
+        {
+          "title": "여야, 예결소위서 '국무총리 특활비·규제개혁추진단' 예산 공방(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261117043351001",
           "source": "연합뉴스"
+        },
+        {
+          "title": "여야, 예결위 예산소위서 총리 특활비 등 공방…野 \"절반 감액해야\" 與 \"식물 총리 하란 것\"",
+          "url": "https://www.newsis.com/view/NISX20261117_0003872286",
+          "source": "뉴시스"
         }
       ]
     },
@@ -145,127 +224,52 @@
       ]
     },
     {
-      "keyword": "acc emerging teams asia cup",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T09:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSN8A1nnn_8PurI7mUD3arH91rhjZuq90m88ciGsQg53TC_T_xUGuGVSwEhA5A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Excitel becomes Global Sponsor of DP World Asia Cup Rising Stars 2026",
-          "url": "https://www.afaqs.com/news/mktg/excitel-becomes-global-sponsor-of-dp-world-asia-cup-rising-stars-2026-12823784",
-          "source": "afaqs!"
-        },
-        {
-          "title": "Nepal begin Rising Stars campaign against formidable India A",
-          "url": "https://kathmandupost.com/cricket/2026/11/20/nepal-begin-rising-stars-campaign-against-formidable-india-a",
-          "source": "The Kathmandu Post"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/177148/player/1448181/bowling",
-          "source": "Cricbuzz"
-        }
-      ]
-    },
-    {
-      "keyword": "이더리움",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T09:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS31Cyj50pWyfqAAA2YgxzsJnB1ynlXrWhC_K1s-uO5Js7vfT4fmOR9jA1BMw4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "이더리움 가스 개편안에 계약 오작동 신고 4건…19일 재점검",
-          "url": "https://www.coinreaders.com/271415",
-          "source": "코인리더스"
-        },
-        {
-          "title": "ETH 뉴스: 이더리움 차기 대규모 업그레이드, 앱 호환성 문제로 2027년으로 연기",
-          "url": "https://www.coindesk.com/ko/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "이더리움 '글램스테르담' 업데이트, 내년 5월까지 늦춰질 수도",
-          "url": "https://bloomingbit.io/feed/news/124834",
-          "source": "블루밍비트"
-        }
-      ]
-    },
-    {
-      "keyword": "설인아",
+      "keyword": "최미나수",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-20T09:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvAWniw0z_GdOquI1TD7AY9ov-_zoZo5U85OCyrOUr9B1iqY-Vac_6a6XzSk",
+      "startedAt": "2026-11-20T10:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYNWcFOyzDHp-6RXirBNeG5yo6OuvwB8iBHDooQJ1UTsxl8krsWdd9N6NQo4",
       "category": "기타",
       "news": [
         {
-          "title": "[사진]설인아-카니 '잘생쁨과 황후님' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/20/202611201602770982O",
-          "source": "머니투데이"
+          "title": "[사진]리센느 리브 '바람과 함께'",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/20/GVSWGMBTMYYDGNJUHE4WGNRSGU/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "[사진]설인아, '달달한 하트로 출국 인사'",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/19/MMYWINLDG4YDEYJRMM2TCZDGGE/",
+          "title": "[사진]올데이프로젝트, '독보적인 매력'",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/20/MI2DANZYHFRTQNLFGFQWKMZXGE/",
           "source": "조선일보"
         },
         {
-          "title": "'유죄인간' 설인아",
-          "url": "https://www.news1.kr/photos/8225496",
-          "source": "뉴스1"
+          "title": "'2026 MAMA' 간 김혜수, 볼륨 강조한 드레스 자태…'시선 강탈' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112019044436645",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "캐시워크 정답",
+      "keyword": "전북특별자치도지사",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-20T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QkOziPUZ6QxEi19IOQdIShh97V54WHrCnhdgBFR6KkGYghm6GgeW8q3ScY4",
-      "category": "기타",
+      "startedAt": "2026-11-20T10:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIRPo5dB1AHJay4FKenviiiVgcxeBf1opfAR0lJiI-0Q1clxQbSvYJbbE8eFI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "[캐시워크 종합] 11월 19일 목요일 오전 11시 현재 출제되고 있는 모든 문제들의 정답은?",
-          "url": "https://www.bizwnews.com/news/articleView.html?idxno=152388",
-          "source": "비즈월드"
-        },
-        {
-          "title": "오늘 정답 정리… 캐시워크 돈버는퀴즈 '11월 19일' 정답은?",
-          "url": "https://www.wikitree.co.kr/articles/1176108",
-          "source": "위키트리"
-        },
-        {
-          "title": "캐시워크 돈버는퀴즈 19일 정답은?",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=628217",
-          "source": "CBC뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김치의 날",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T08:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsCtT_vn7mRCO_kFhcLl3sYFTGuVejYy0tWnnd2eR6mkB9Vcs28HcA3gC-vds",
-      "category": "기타",
-      "news": [
-        {
-          "title": "김혜경 여사, 제7회 김치의 날 기념식 - 포토 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74425&pageIndex=1",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "김장 양념 질문받은 김혜경 여사 “이건 기밀인데…”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261120/135060404/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "김장체험 나선 金여사…\"김치, 세계인의 식탁에 오래 머물길\"",
-          "url": "https://www.yna.co.kr/view/AKR20261120118200001",
+          "title": "전북도의회 \"전북을 로봇·수소 초광역특구로 지정해야\"",
+          "url": "https://www.yna.co.kr/view/AKR20261120093700055",
           "source": "연합뉴스"
+        },
+        {
+          "title": "\"로봇·수소 초광역특구 전북 지정\"…도의회, 촉구 건의안",
+          "url": "https://www.newsis.com/view/NISX20261120_0003876520",
+          "source": "뉴시스"
+        },
+        {
+          "title": "전북도의회 \"특별법 조속히 제정해 로봇·수소 특구 지정하라\"",
+          "url": "https://www.news1.kr/local/jeonbuk/6360858",
+          "source": "뉴스1"
         }
       ]
     }
