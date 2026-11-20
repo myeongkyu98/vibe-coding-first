@@ -1,16 +1,20 @@
 {
-  "updatedAt": "2026-11-20T15:52:19.895Z",
+  "updatedAt": "2026-11-20T16:53:51.141Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 3
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
       "count": 1
     },
     {
@@ -19,6 +23,31 @@
     }
   ],
   "items": [
+    {
+      "keyword": "부동산",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-20T14:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKxpJnoACBDh8rHDrVKV-XKLj5urOPuypyB3PHn0lRtkM-oZQM0knRE01AkYw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
+          "url": "https://www.chosun.com/economy/real_estate/2026/11/21/T2N6SYATRBDYJOGZ3A4LGNKKGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
+          "url": "https://www.khan.co.kr/article/202611202007001",
+          "source": "경향신문"
+        }
+      ]
+    },
     {
       "keyword": "엔비디아",
       "traffic": "5000+",
@@ -54,59 +83,9 @@
       "news": []
     },
     {
-      "keyword": "컴포즈",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-20T13:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HhP-12AbXfhtNDZOxs_2A7IMHLSMUiTkUEaz1l-eajRGMhDbRv7GmYPHIf4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“부모님이라 생각하니 속상”…키오스크 앞 노인에게 무슨 일? [잇슈#태그]",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718228",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
-          "source": "주간조선"
-        },
-        {
-          "title": "키오스크 쩔쩔맨 어르신한테…“넘기세요! 화살표!” 직원 짜증",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135061382/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "두산",
+      "keyword": "펍지",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-20T13:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuA99NswDdKzozd-LuUtjA6jAT9T05fEukNyVg7M0OJ6m849a681yIbW0gpY0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험 문턱 넘었다",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375052",
-          "source": "전기신문"
-        },
-        {
-          "title": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
-          "url": "https://zdnet.co.kr/view/?no=20261120093351",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "두산에너빌리티 8MW 해상풍력터빈, 글로벌 보험 기준 적용…해외 시장 진출 기반 강화",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315819",
-          "source": "스트레이트뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "펍지",
-      "traffic": "500+",
-      "trafficValue": 500,
       "startedAt": "2026-11-20T13:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqStdBgCTRWljLeXVm_uXZhafFhZj1yN74NO5ped2gGIplczmhGzyoO64-Dcw",
       "category": "스포츠",
@@ -125,6 +104,56 @@
           "title": "히마스-탄부 사건 이후 타격을 입은 PUBG가 한국 최고의 인기 K팝 그룹에 '도움'을 요청했다.",
           "url": "https://www.vietnam.vn/ko/sa-sut-sau-vu-himass-tanvuu-pubg-cau-cuu-nhom-nhac-hot-nhat-han-quoc",
           "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "공포지수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T15:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaolmMHTkY8xs-FRFvtk1uN2njZRqlj-gdrQRoNa-62w1ZpM5DGnTtyHmM_XA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조",
+          "url": "https://story.pay.naver.com/content/3999_2_C1",
+          "source": "네이버페이 머니스토리"
+        },
+        {
+          "title": "닷컴버블·리먼사태 한꺼번에 온다?…AI 거품론에 더 거세진 '닥터둠'의 경고",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874497",
+          "source": "뉴시스"
+        },
+        {
+          "title": "Nvidia, 알파벳에 밀려 미국 시가총액 4위로 하락",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2185671",
+          "source": "Investing.com 한국어"
+        }
+      ]
+    },
+    {
+      "keyword": "연준",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T15:20:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'나혼산' TXT 연준, 절친 서범준과 '소분메이트'...반반 공동 구매 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014387240316",
+          "source": "머니투데이"
+        },
+        {
+          "title": "TXT 연준, 자취 10년 차 절친 서범준과 '소분메이트' 결성",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758418",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "TXT 연준, 절친의 조카 위해 유아차 선물 “아기 너무 좋아해” (나혼산)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525544",
+          "source": "iMBC 연예"
         }
       ]
     },
@@ -154,31 +183,6 @@
       ]
     },
     {
-      "keyword": "india a cricket team vs nepal national cricket team match scorecard",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T13:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdK-hBebY-mAFEVe6FrPYONZOWk47klh_MjuZCU-z_e7KMEo77mbAHRL9FEF4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/11290/bowling?inningsId=1",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Tilak Varma and Kumar Kushagra Hit Centuries to Propel India A Total",
-          "url": "https://newsable.asianetnews.com/sports/tilak-varma-and-kumar-kushagra-hit-centuries-to-propel-india-a-total-articleshow-16b1lhq",
-          "source": "Asianet Newsable"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/12144/bowling?inningsId=1",
-          "source": "Cricbuzz"
-        }
-      ]
-    },
-    {
       "keyword": "류효영",
       "traffic": "200+",
       "trafficValue": 200,
@@ -192,8 +196,8 @@
           "source": "매일경제"
         },
         {
-          "title": "두 사람이 키스했던 장소?! 일이 아닌 데이트로 다시 온 촬영 장소에서의 설렘♥",
-          "url": "https://ichannela.com/program/clip/000000560996.do",
+          "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
+          "url": "https://ichannela.com/program/clip/000000560995.do",
           "source": "채널A"
         },
         {
@@ -204,52 +208,52 @@
       ]
     },
     {
+      "keyword": "세계사 2 번",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T15:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2WEyqqcX_U8wl4Vq7RABcTIJ0M912zMRP8OvqI4QUMFFtCk_WC3rdobxAk0",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "수험생 90% 틀린 세계사 2번…“진시황이 아니라고?”",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135061386/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "“챗GPT도 2번이라는데”…수능 세계사 이의 폭주한 ‘이 문항’",
+          "url": "https://www.kyeonggi.com/article/20261120580287",
+          "source": "경기일보"
+        },
+        {
+          "title": "수능 이의신청 국어 18건·세계사 12건…수학·영어는 '0건'",
+          "url": "https://www.newsis.com/view/NISX20261120_0003877047",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "u17 việt nam",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-20T14:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I4xIcmJuQ2gMyYpRqdz4DEk-6NTPVIEdjHoBcBlaE2vxgoPWJhnRwGfjBy4",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUctJrCDLY2K4kRTEy5qHeGry0AITsKtGDOJDIBtDN5Ct1xHeqclcUYi847M",
+      "category": "기타",
       "news": [
         {
-          "title": "Kết quả bóng đá U17 Việt Nam vs U17 Bỉ - U17 World Cup 2026",
-          "url": "https://vietnamnet.vn/ket-qua-bong-da-u17-viet-nam-vs-u17-bi-u17-world-cup-2026-2577062.html",
-          "source": "Báo VietNamNet"
+          "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
+          "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Lịch thi đấu U.17 Việt Nam và U.17 New Zealand mới nhất: Nỗ lực tột độ để chiến thắng",
-          "url": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-moi-nhat-dau-u17-new-zealand-co-hoi-thang-la-day-185261120221110968.htm",
+          "title": "Bảng xếp hạng U.17 World Cup mới nhất: 2 siêu phẩm giúp Việt Nam thoát đáy, Mali tốp 1 nhờ thắng New Zealand",
+          "url": "https://thanhnien.vn/bang-xep-hang-u17-world-cup-moi-nhat-2-sieu-pham-giup-viet-nam-thoat-day-mali-top-1-nho-thang-new-zealand-185261120222540314.htm",
           "source": "Thanh Niên"
         },
         {
           "title": "5 bức ảnh trên trang cá nhân của Lê Sỹ Bách - cầu thủ Việt Nam đầu tiên ghi bàn ở World Cup",
           "url": "https://kenh14.vn/5-buc-anh-tren-trang-ca-nhan-cua-le-sy-bach-cau-thu-viet-nam-dau-tien-ghi-ban-o-world-cup-215261120212333135.chn",
           "source": "Kenh14.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "김대두",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T13:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTysYsueZkWu4mJI0eqPE3PXmtrPB92FsOuq9jVGLtY_f2dsR-5DgRzuyyOz4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[꼬꼬무 찐리뷰]\"갓난아기까지 죽였다\" 55일간 17명 살해…'대한민국 최초 연쇄살인마' 김대두의 소름 돋는 전말",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855694",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "17명 죽이고 뺏은 돈 고작 2만5천원…웃으며 범행 재연한 韓 최초 연쇄살인마",
-          "url": "https://www.newsis.com/view/NISX20261120_0003875968",
-          "source": "뉴시스"
-        },
-        {
-          "title": "표창원, '17명 살해' 김대두 사건에 충격 분석…\"지금 기준으론 기소 못해\" ('꼬꼬무')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GZTDGNJZMVRGCN3EMY3WENDFGU/",
-          "source": "조선일보"
         }
       ]
     }
