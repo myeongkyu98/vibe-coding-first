@@ -1,245 +1,277 @@
 {
-  "updatedAt": "2026-11-20T04:55:02.248Z",
+  "updatedAt": "2026-11-20T05:57:14.438Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 3
-    },
-    {
       "category": "기타",
-      "count": 3
+      "count": 6
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "IT·과학",
+      "count": 1
     },
     {
       "category": "연예",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "로베르트 모레노",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-20T03:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXN2rMpmjMciwkgh-mu5ZMfAwPewikJz16PY0Mv2WRccNgB53rWBqq6bFIJ3k",
-      "category": "스포츠",
+      "keyword": "인공지능",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7w3-AhezoF_LPHHaOIK1rVGpaUvFWHUDMf7UYdx_CiQ0f4SOiLvJCHqzMwsI",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "임시 꼬리표 뗄까? ‘모레노 호’의 운명 결정할 카타르전",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8714500",
-          "source": "KBS 뉴스"
+          "title": "조민경 시의원, \"글로벌 AI 허브, 송도가 최적지\"…유치 촉구 결의안 발의",
+          "url": "https://www.kyeonggi.com/article/20261119580380",
+          "source": "경기일보"
         },
         {
-          "title": "스페인 매체 “이강인, A매치 대미 장식…손흥민과 득점 기회 창출”",
-          "url": "https://www.donga.com/news/Sports/article/all/20261119/135052927/1",
-          "source": "동아일보"
+          "title": "조민경 인천시의원, 글로벌 AI 허브 유치 힘 보탠다…“유치 촉구 결의안 발의”",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337313",
+          "source": "인천일보"
         },
         {
-          "title": "모레노 감독 '임기 연장?'‥내부 '긍정적 기류'도",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867069_37004.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "배구",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-20T03:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtNU9GsZcsHCDG9s8MM-0g6flxpcgc_gGHNtbS7Zxro5Ms2C3OPMLw3Pq10ho",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "여자배구 경기중 관중석서 쓰러진 남성, 끝내 숨져",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135058979/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "KOVO, 흥국생명-GS칼텍스 사망 사고 애도 “사고 매우 엄중하게 받아들여, 경기장 안전·관중 보호 노력” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/20/202611201225775665O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "프로배구 흥국생명 홈경기 중 쓰러진 관중 사망‥KOVO·흥국생명 추모",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867192_36946.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "라이어",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T03:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxusVPUufyBz86Mg3iQ3RzK5Qyj24Po5rky5zcu3ziecPEyP1faL7Epaaxbx8",
-      "category": "연예",
-      "news": [
-        {
-          "title": "'라이어' 빌런 유연석, 경찰에게도 악행…결국 덜미 잡힐까",
-          "url": "https://m.imbc.com/enews/view/525326",
-          "source": "MBC"
-        },
-        {
-          "title": "'라이어' 서현진, 믿었던 사람들 거짓말에 충격 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111915157247121",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'라이어' 백재영 작가 \"유연석, 배우로서 만만치 않은 선택…용기에 감동\"",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611181025594569",
+          "title": "[경기] 고양시 '글로벌 AI 허브' 서명 7만 명 돌파 눈앞",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611181615279215",
           "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "사이드카",
+      "keyword": "빅뱅",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-20T03:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPHqrLOw_Y1odGwUTnX0XBlWCyQMVKNasZRHAYteY1SXdZ6HyQHIN9pMon328",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6867221_36932.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[속보] 코스닥 매도 사이드카…지수 650선 위태 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/20/2026112013190435179",
-          "source": "머니투데이"
-        },
-        {
-          "title": "검은 금요일 맞은 亞증시…韓·日·대만, 일제히 4∼6%대 급락",
-          "url": "https://stock.mk.co.kr/news/view/1203170",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "홍의정",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T03:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "시진핑",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T03:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLgmcFC_1xEqJomJL0a82-WcH1izsEsX20r0vzAB9N7qAbTL2f7iDSYXcX0L8",
+      "startedAt": "2026-11-20T04:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs_kWKmWHnRUMHfb--itxTyNyh8fwmktwAHq5P8rWkKfg7wwJ1SDwCq5K0ASc",
       "category": "기타",
       "news": [
         {
-          "title": "시진핑 중심에 ‘좌 트럼프, 우 푸틴’…미중러 회담이 남긴 것",
-          "url": "https://www.hani.co.kr/arti/international/america/1288270.html",
-          "source": "한겨레"
+          "title": "빅뱅 출신 승리, 만삭 아내와 동반 입국 포착…양손에 캐리어·명품백 직접 챙겨",
+          "url": "https://sports.khan.co.kr/article/202611190925003",
+          "source": "스포츠경향"
         },
         {
-          "title": "\"전문가들, 미중러 합의 실효성에 의구심…핵군축 등 이견 여전\"",
-          "url": "https://www.yna.co.kr/view/AKR20261120087000083",
-          "source": "연합뉴스"
+          "title": "빅뱅 승리, 만삭 아내와 공항서 포착…내년 1월 출산 예정",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119104039UNO",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "‘시진핑 돕는 트럼프’ 공개한 미국, ‘꾸벅 조는 트럼프’ 중계한 중국",
-          "url": "https://www.khan.co.kr/article/202611200903001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "금값",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T03:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQHg363KWSEzOIYNZqJDHmZaxpNQh8OIipXln8t8sDfTl3kqGnnTNz91Vwps",
-      "category": "경제",
-      "news": [
-        {
-          "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
-          "url": "https://www.yna.co.kr/view/AKR20261120083400009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445634",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "금값마저 14개월 만에 최저…사라지는 '투자 피난처'",
-          "url": "https://www.etnews.com/20261119000274",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "살인",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T03:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnQ5fPcUSl8dWfBD6AkkcnUiDoCctvzkl4LnT1JEQ5ICpCZDfNTWJ0TXm60Lg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "'15살 소녀 살해' 50대 남성 구속송치...\"처벌불원서 안 써줘 격분\"",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611200839484884_005.html",
-          "source": "YTN"
-        },
-        {
-          "title": "[단독]“여중생에 KTX표 주며 외할머니댁 순금 훔치게 해”",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135057320/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "'10대 살해' 50대 남성 구속 송치…전 연인도 살인교사 혐의 입건",
-          "url": "https://www.mt.co.kr/society/2026/11/20/2026112010265470672",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "리야드",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T03:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAYps9ESUO3c0JpuyLDRKFRuPSIGmM3UW_ntT26fkwzDW2qogobZk58MfUsb8",
-      "category": "경제",
-      "news": [
-        {
-          "title": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261119155051079",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[이 시각 세계] 후티 반군, 사우디 80층 빌딩에 미사일 공격",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867150_37012.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[속보]후티군, 사우디의 공항 · 은행· 공군기지· 석유시설 보복 공습",
-          "url": "https://www.newsis.com/view/NISX20261120_0003875964",
+          "title": "승리, '임신 8개월' 아내와 동반 입국…D라인 포착",
+          "url": "https://www.newsis.com/view/NISX20261119_0003874145",
           "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "인천일보",
+      "keyword": "빅뱅 신곡",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T04:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rcy25oY9CRzN6gu7pGWdJNorBkEjjeyqRdTFrUAt407I6BXN7rwI0KZAg5w",
+      "category": "연예",
+      "news": [
+        {
+          "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
+          "url": "https://www.khan.co.kr/article/202611201044001",
+          "source": "경향신문"
+        },
+        {
+          "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…내일 ‘마마 어워즈’ 출연",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718128",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "‘데뷔 20주년’ 빅뱅, 오늘 오후 2시 깜짝 신곡 발매…내일 ‘MAMA’ 출격",
+          "url": "https://www.viva100.com/article/20261120500097",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "keyword": "하마",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T04:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBy8JxG_qyhIds6rjqX5GK1DKOEm4Ul7Hck5pvQtXkWSOnFY9AzXz6L47rC5E",
+      "category": "기타",
+      "news": [
+        {
+          "title": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길",
+          "url": "https://www.chosun.com/international/international_general/2026/11/20/D6WXP4E4JZH25GHNTVL5GPUTFA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "美동물원 하마, 관광객 모자 삼켜 폐사…“수술 불가능했다”",
+          "url": "https://www.donga.com/news/Inter/article/all/20261120/135058463/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "\"피오나, 고마웠어\"…美 '스타 하마' 사망에 애도 물결",
+          "url": "https://www.yna.co.kr/view/AKR20261120079900009",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "안개",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMzRtRtuQvwpHR5Vn_Wu4LMscEO5PaFpKSoDtEX5WpjithH5-5SKSoMv16oc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1288275.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "산 할아버지, 구름모자 썼네…‘올해의 기상 사진’ 후보들",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1287157.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "호남·제주 '겨울 왕국'...현재 눈 상황은? [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611200758253794_005.html",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "한화이글스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T04:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRt3EyYlDgAoWg2ur2P16AM0Swnk67DXaxN7vFLLMnl0uQHN-22wDmt6gqfzUE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "초대박! 'WS 준우승팀 우완' 숄텐스, 전격 방출! 美 \"한화행 임박\"→탬파도 \"KBO 도전한다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/20/2026112012055272273",
+          "source": "머니투데이"
+        },
+        {
+          "title": "154km 팔색조 투수, ‘WS 준우승’ 탬파베이에서 방출→한국에 온다 “볼넷·장타 억제 뛰어나”",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/20/GZRTONRVMMYDEZDFHE4GMMJXGA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "MLB 탬파베이 우완 숄턴스, 한국 온다…국내 구단과 협상 막바지",
+          "url": "https://www.yna.co.kr/view/AKR20261120059700007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "웨이모",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T04:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJee-wZJ_n_24dzJHVASLm3EDyS9nM2995X6-CB01soH9IrJpzJpZRB9SSYuc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단",
+          "url": "https://www.khan.co.kr/article/202611191320011",
+          "source": "경향신문"
+        },
+        {
+          "title": "웨이모, 美 전역 고속도로 자율주행 중단 … 반복되는 안전성 논란",
+          "url": "https://www.autoview.co.kr/ko-kr/articles/102581",
+          "source": "오토뷰"
+        },
+        {
+          "title": "손님 태우고 '뚝'…철도 건널목서 아찔한 상황",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854840",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "대기업",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T04:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqUcOre6vzgtI500xcQXwRXNqhRDBdupnMptld0GUhM-C8jfe_I9ZcoBfId5s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "작년 대기업 본사가 받은 상표권 사용료 역대 ‘최대’···쿠팡, 내부거래 금액 ‘톱5’ 진입",
+          "url": "https://www.khan.co.kr/article/202611191649001",
+          "source": "경향신문"
+        },
+        {
+          "title": "\"공시집단 소속 국내 계열사 매출 약 35%, 내부거래서 발생\" - 머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/11/19/2026111908081052143",
+          "source": "머니투데이"
+        },
+        {
+          "title": "규제대상 내부거래 비중…10대 그룹이 2배",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445525",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "대상 공원 빅 트리",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-20T03:10:00.000Z",
-      "picture": "",
+      "startedAt": "2026-11-20T04:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmasQMYt9bFMX5oND8gmvJPdiGXVZ1GHrvuXPTAK5iG9Qew0SBzJZavJUNro",
       "category": "기타",
-      "news": []
+      "news": [
+        {
+          "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "창원 빅트리, 몸통 놔두고 꼭대기에 실내조망시설",
+          "url": "https://www.idomin.com/news/articleView.html?idxno=2020041",
+          "source": "경남도민일보"
+        },
+        {
+          "title": "‘흉물 논란’ 창원 빅트리, 실내 전망대로 대폭 손질",
+          "url": "https://www.khan.co.kr/article/202611191316001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "발전",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T04:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSh766f340DJzSFNNxLrkna0JCUjv77kjltUcWCCKhPWxpKa1_sTvTgWFN6Q",
+      "category": "경제",
+      "news": [
+        {
+          "title": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대",
+          "url": "https://biz.chosun.com/industry/company/2026/11/20/QTNPOR6PDJCUDARRRJKJWKNHKM/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "서부발전, 국가기술표준원 유휴부지 활용 '태양광' 사업 추진",
+          "url": "https://www.inpnews.kr/news/articleView.html?idxno=8221",
+          "source": "인사이트N파워"
+        },
+        {
+          "title": "서부발전, 태양광·VPP까지 재생에너지 자문체계 확대",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3450678",
+          "source": "천지일보"
+        }
+      ]
     }
   ]
 }
