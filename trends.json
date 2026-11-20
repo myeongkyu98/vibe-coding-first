@@ -1,20 +1,16 @@
 {
-  "updatedAt": "2026-11-20T00:54:01.191Z",
+  "updatedAt": "2026-11-20T02:03:31.938Z",
   "summary": [
     {
       "category": "기타",
+      "count": 4
+    },
+    {
+      "category": "스포츠",
       "count": 3
     },
     {
       "category": "IT·과학",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
       "count": 1
     },
     {
@@ -22,218 +18,18 @@
       "count": 1
     },
     {
-      "category": "스포츠",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "lpga",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T23:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR4TjQX1xfm3WK4feKCPbsrban03FRToRgM-ZoU6aBP9TCGaxGfVDZRFe6vdM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
-          "source": "news.sbs.co.kr"
-        },
-        {
-          "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
-          "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
-          "source": "아시아경제"
-        },
-        {
-          "title": "Jeeno Thitikul Birdies the Last 5 holes to Share the Lead in LPGA Tour Season Finale",
-          "url": "https://www.lpga.com/news/2026/jeeno-thitikul-birdies-the-last-5-holes-to-share-the-lead-in-lpga-tour-season-finale",
-          "source": "LPGA"
-        }
-      ]
-    },
-    {
-      "keyword": "2호선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSihOk1nWo0f8AV3KmC6jIKWlIIVFm0EKTkADvKoUE15ejyNX4tW6IdUc0aNw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "서울 지하철 2호선 성수지선 양방향 운행 중지",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "국토부, 철도 파업 대비 비상수송 점검…“철저히 대비”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717528",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "지하철 2호선 성수역-신설동역 양방향 운행 중단‥1호선 열차도 지연",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6867145_36918.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "오상욱",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhH8ud0B02Ng_X76Lw7RV0MjKGAmS1Y4lFSrX5aX6nXec_hP9Yxql-_TYr0GQ",
-      "category": "연예",
-      "news": [
-        {
-          "title": "오상욱♥하루카 토요다, 열애설 다시 점화…日 데이트 인증?",
-          "url": "https://sports.donga.com/ent/article/all/20261118/135044966/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "오상욱, 한일 혼혈 모델 하루카 토요다와 열애설 재점화…日 데이트 사진 관심↑",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6358067",
-          "source": "뉴스1"
-        },
-        {
-          "title": "오상욱♥하루카, 이 정도면 공개 열애 아니야?",
-          "url": "https://sports.khan.co.kr/article/202611180952003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "주한 미군",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T22:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROTdZhIELst7n4UuwW4dxnaZG2Olj-YzQla4zENgMQs_pFhM7Pvk_Qroq2-vE",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독] 美 AI기반 패트리엇 요격체계, 한국에서 최초 전력화",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/19/2ZOSY4EQCFGUJOBE43MNLX4RAM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "주한미군, 패트리엇 포대 '통합운용 시스템' IBCS 본격 전력화",
-          "url": "https://www.yna.co.kr/view/AKR20261119133800504",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "주한미군 패트리엇 포대, 美육군 첫 IBCS 운용 인증…방공망 통합 속도",
-          "url": "https://www.donga.com/news/article/all/20261119/135056413/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "마이크론 테크놀로지",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T22:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Nyl2XyCoSjbrPeiAKfwW3a0nidPBB8ui6n08wurjriytO2R_9Pf8V5AcVh8",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "마이크론 주가 다시 뛰었다…AI 투자 열기에 장전 5%대 급등",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=847855",
-          "source": "제민일보"
-        },
-        {
-          "title": "마이크론 CTO \"메모리 반도체 공급 제약 2027년에 더 심화\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445660",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "마이크론 메모리반도체 불황 대비해 '방어 전략' 집중, 삼성전자 SK하이닉스와 새 경쟁 국면",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452393",
-          "source": "비즈니스포스트"
-        }
-      ]
-    },
-    {
-      "keyword": "눈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-19T22:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRY4nKjKCyuLosUv1asJMoWYQDMAOqoZTaIQp0d-SnyHvtuamqGMDQRe-IdWY",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "전국 영하권 추위에 칼바람…충청·호남·제주엔 많은 눈",
-          "url": "https://www.yna.co.kr/view/AKR20261120027500530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "서울 체감 -6.9도 뚝…충남·전북 대설주의보",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120082937TjM",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "[날씨] 서쪽 곳곳 함박눈‥내일 아침 더 춥다",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867074_37004.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "php 취약점",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T23:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFATiTtEUEQZdwxFuJeinEeCLtzMyrsCm6Ifamg0qfI5X76PDP4GTHDxKFdyo",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "‘PHP’ 취약점 한 달 만에 또 나왔다…7개 치명적 결함 포함",
-          "url": "https://www.donga.com/news/Economy/article/all/20261120/135058195/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "AI 해킹으로 불안한데…PHP서 또 치명적 취약점 발견",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0800&key=20261120.99099006370",
-          "source": "국제신문"
-        },
-        {
-          "title": "PHP 취약점에 클라우드 보안 비상…GS네오텍 대응책 제시",
-          "url": "https://www.yna.co.kr/view/AKR20261119055700017",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "전북특별자치도교육청",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T23:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiwE2_wAzZF49PmzqQBJPfRToOpxgWMKHM8I5_qtQXXCisoFJmsdHmhmI4Bv4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "전북교육청, 사립 21개교 교원인사委 운영 컨설팅",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874769",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"사립학교 교원인사도 투명하게\"…전북교육청, 3년 주기 정기점검 진행",
-          "url": "https://www.pressian.com/pages/articles/2026111910493314367",
-          "source": "프레시안"
-        },
-        {
-          "title": "사립학교 교원 인사 투명성 높인다…전북교육청, 21개교 현장 컨설팅",
-          "url": "https://www.etoday.co.kr/news/view/2650497",
-          "source": "이투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "유재석",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T23:10:00.000Z",
+      "keyword": "논현동",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-20T00:10:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfk3q6Fwc9O3t9CoM4WE2nDYH61DvSvFJPjtlr5YfmUUExxceGrgqoLscfjHI",
-      "category": "경제",
+      "category": "기타",
       "news": [
         {
           "title": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
@@ -246,34 +42,234 @@
           "source": "Chosunbiz"
         },
         {
-          "title": "\"198억 땅 전액 현금으로 샀다\"…유재석, 강남에 건물 짓더니 [집코노미-핫!부동산]",
-          "url": "https://www.hankyung.com/article/2026112088527",
-          "source": "한국경제"
+          "title": "유희열에 ‘연 4.4억’ 내는 안테나…2배 큰 ‘198억’ 유재석 건물로 이사가나?",
+          "url": "https://www.sportsseoul.com/news/read/1651112",
+          "source": "스포츠서울"
         }
       ]
     },
     {
-      "keyword": "새만금",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-19T23:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPwupHJKoP-Gl8VSJuiFbl6ysA3pbTS5hxhPXZ3ZeEFrAbKnQhPQ7QrSWzw0",
+      "keyword": "경기도교육청",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T00:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCmwC2Bx-QEtoKjElZJxhYrW1JlxUJ3yVsq4lSrx3Jk3XFw5DpIxgJSrDNZUQ",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[수능] 전북 'AI부정행위' 없어…응시방법 위반 등은 적발(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119068751055",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "2027 대입수능 이모저모, 모두가 한마음…올해 수능도 큰 사고없이 마무리",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073141",
+          "source": "경상일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이의리",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdvFdYKv_-KgKbxe_veqhAzYDK7os5HnQI1jSG_9CxSda73z2uyPEGJ8cBOtM",
       "category": "스포츠",
       "news": [
         {
-          "title": "새만금·신공항·올림픽…전북 거대 프로젝트 쉽게 풀리는 게 없네",
-          "url": "https://www.hani.co.kr/arti/area/honam/1288246.html",
-          "source": "한겨레"
+          "title": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "[해설] 또 반복된 ‘하늘길 잔혹사’…환경·안전에 가로 막힌 전북 타개책 고심",
-          "url": "https://www.jjan.kr/article/20261118500448",
-          "source": "전북일보 인터넷신문"
+          "title": "\"한국은 구속만 의식하는데...\" 충격의 한일전 13연패, '日 유학' 한화 투수 듀오가 깨달은 차이 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111903265961535",
+          "source": "머니투데이"
         },
         {
-          "title": "새만금공항 계획, 항소심도 제동…\"충분히 검토 안 해\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119055826b2f",
+          "title": "'韓 팬들도 궁금' 대체 일본은 무엇이 다르길래, 이의리-김서현-김진욱이 효과를 봤나…한화 이 선수 솔직속내 \"日 투수 수준 더 높다\"",
+          "url": "https://mydaily.co.kr/page/view/2026111911120848723",
+          "source": "마이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "유니클로",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T00:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvfiU0odEsV84uxkAN_YnQA9Jb4ZJEeN2xwS-RiqFlzy7AJn7PAAawr6XE9Fc",
+      "category": "경제",
+      "news": [
+        {
+          "title": "1평 공방서 맨땅에 바느질…이젠 로레알·유니클로서 '러브콜'",
+          "url": "https://www.hankyung.com/article/2026111982391",
+          "source": "한국경제"
+        },
+        {
+          "title": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20261119033100009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "“아무것도 이룬 게 없다” 2주간 통곡한 손정의…“AI에 남은 인생 바친다”",
+          "url": "https://www.joongang.co.kr/article/25479855",
+          "source": "중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "서울 지하철 2호선",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T01:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSihOk1nWo0f8AV3KmC6jIKWlIIVFm0EKTkADvKoUE15ejyNX4tW6IdUc0aNw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "서울 지하철 2호선 성수지선 양방향 운행 중지",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
           "source": "연합뉴스TV"
+        },
+        {
+          "title": "'운행 중지' 2호선 성수지선 3시간 만에 복구...한 때 운행 중단",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611201037141370",
+          "source": "YTN"
+        },
+        {
+          "title": "서울지하철 노조, 준법투쟁 돌입…출퇴근길 일부 지연 가능성",
+          "url": "https://www.khan.co.kr/article/202611200739001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "물수리",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T00:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKtgxH-EWK-HM5z7LBjoSPXI4hpm2c8JmqZK0Si9MxZwNYFNG8mEhmrawLkQQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "멸종위기 물수리 포착…물고기 사냥 ‘생생’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717803",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "멸종위기 야생생물 ‘물수리’···울주군 하천서 사냥하는 모습 포착",
+          "url": "https://www.khan.co.kr/article/202611191400001",
+          "source": "경향신문"
+        },
+        {
+          "title": "멸종위기 Ⅱ급 ‘물수리’, 울산 울주 하천서 물고기 사냥 전 과정 포착",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20261119500043",
+          "source": "서울Pn"
+        }
+      ]
+    },
+    {
+      "keyword": "샌안토니오 대 la 클리퍼스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T01:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY0TIBouFxau2Dc5UqK6aQKMIWSe8KEMP9irf86IJEZ7g_1f9TlzJm9kvFa80",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Game Preview: San Antonio Spurs vs. Los Angeles Clippers",
+          "url": "https://www.poundingtherock.com/spurs-game-previews/110399/game-preview-san-antonio-spurs-vs-los-angeles-clippers",
+          "source": "Pounding The Rock"
+        },
+        {
+          "title": "Clippers vs. Spurs Prediction, Odds and Best NBA Prop Bets for Thursday, Nov. 19",
+          "url": "https://www.si.com/betting/clippers-vs-spurs-prediction-odds-and-best-nba-prop-bets-for-thursday-nov-19-2026",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Exploit LA's Sluggish Defense With Spurs 1H",
+          "url": "https://sports.yahoo.com/videos/exploit-las-sluggish-defense-spurs-163031800.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "fc 포항 스틸러스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T01:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3fgoLE4BGupViuRo6FU_SBj7YdBo5bteKCDvYxlcYBu5Z6c3zUM9MdYn80VE",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "[공식발표] 5년 만에 파이널B 추락→팬들은 ‘응원 보이콧’ 선언…위기의 포항, 변화 약속 “말이 아닌 행동·결과로 보여드리겠다”",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD-5%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%82%E1%85%A5%E1%86%AFb-%E1%84%8E%E1%85%AE%E1%84%85%E1%85%A1%E1%86%A8%E2%86%92%E1%84%91%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B3%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%BA-%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%86%AB--%E1%84%8B%E1%85%B1%E1%84%80%E1%85%B5%E1%84%8B%E1%85%B4-%E1%84%91%E1%85%A9%E1%84%92%E1%85%A1%E1%86%BC-%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA-%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%89%E1%85%A9%E1%86%A8-%E1%84%86%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B5%E1%86%AB-%E1%84%92%E1%85%A2%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC-%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%E1%84%85%E1%85%A9-%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A7%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%84%80%E1%85%A6%E1%86%BB%E1%84%83%E1%85%A1/blt0db667d3c5b727e8",
+          "source": "Goal.com"
+        },
+        {
+          "title": "포항스틸러스 \"달라지는 모습 보여주겠습니다\"",
+          "url": "https://www.imaeil.com/page/view/2026111911042341782",
+          "source": "매일신문"
+        },
+        {
+          "title": "포항, 김성재 체제 첫 승 도전…21일 안양전서 박찬용 100경기 시상식도 진행",
+          "url": "https://m.news.nate.com/view/20261120n00135",
+          "source": "네이트"
+        }
+      ]
+    },
+    {
+      "keyword": "정부",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T01:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEB1Z2akBx4j7CPwg2UC2QTH3Gk5djYYT4M1gJNe5Bxmy3sCe18VxOXnmweEk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "UN 전자정부평가 결과 관련 브리핑",
+          "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156790048",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "한국, 유엔 전자정부평가서 12년 만에 세계 1위 탈환",
+          "url": "https://www.khan.co.kr/article/202611200956001",
+          "source": "경향신문"
+        },
+        {
+          "title": "李대통령 \"전자정부 세계 1위, 국민 일상의 변화로 이어가겠다\"",
+          "url": "https://www.newspim.com/news/view/20261120000459",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "h&m",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T00:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyPYK2s1DSZfL_Pka4lL9B8LODipFMsxGj_lxt5-0Cx1xJ9j3w8iDESJv_C-U",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award",
+          "url": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award",
+          "source": "Vogue"
+        },
+        {
+          "title": "MACY GRIMSHAW WINS THE H&M DESIGN AWARD 2026",
+          "url": "https://press.hm.com/newsroom/2026/macy-grimshaw-wins-the-hm-design-award-2026",
+          "source": "H&M"
+        },
+        {
+          "title": "Macy Grimshaw Takes Home This Year’s H&M Design Award",
+          "url": "https://sg.news.yahoo.com/macy-grimshaw-takes-home-h-200532580.html",
+          "source": "Yahoo News Singapore"
         }
       ]
     }
