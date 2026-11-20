@@ -1,273 +1,245 @@
 {
-  "updatedAt": "2026-11-20T03:48:06.574Z",
+  "updatedAt": "2026-11-20T04:55:02.248Z",
   "summary": [
     {
+      "category": "경제",
+      "count": 3
+    },
+    {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "count": 3
     },
     {
       "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "손흥민",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-20T01:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_TzlQCOt97iHAXtoQq-Wo4fCuXI0EDNZJ9IyC68khlbpGurT4FFUqua9GbE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'149억 원' 손흥민, MLS 연봉 4위‥부동의 1위는 메시",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867190_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "'149억원' 손흥민, 10월 기준 MLS 연봉 4위…메시는 부동의 1위",
-          "url": "https://www.yna.co.kr/view/AKR20261120045800007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "‘149억’ 손흥민, MLS 연봉 4위…레반도프스키·그리에즈만 가세에 두 계단 하락",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120094541sky",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "배치표",
+      "keyword": "로베르트 모레노",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-20T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3OCXha515B5Js2G2_m8N-ImWDD0-JjUAEwVUCy2m27j1bmM7DtWARfAkNbXU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘불수능’ 사라지자 SKY 문턱 껑충… 서울대 의예 298점·경영 287점 전망",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135059516/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[단독][2027수능 가채점배치표] 빅5 의대, 고대 의대 298점 '최고' (종로)",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=638289",
-          "source": "베리타스알파"
-        },
-        {
-          "title": "SKY 의대 합격선 ‘298점’… 작년보다 최고 10점 올라",
-          "url": "https://www.munhwa.com/article/11632917",
-          "source": "문화일보"
-        }
-      ]
-    },
-    {
-      "keyword": "시애틀 사운더스 대 솔트레이크",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-20T02:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3bPSSARRdB4xLGygx_pXon_JB_X7gouJokCHisTZSO9jhkPviF82wZxkJicc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "SEAvRSL 101 Preview: All you need to know when the Sounders host Real Salt Lake in the 2026 Audi MLS Cup Playoffs Wildcard Round, pres. by Ticketmaster",
-          "url": "https://www.soundersfc.com/news/seavrsl-101-preview-all-you-need-to-know-when-the-sounders-host-real-salt-lake-in-the-2026-audi-mls-cup-playoffs-wildcard-round-pres-by-ticketmaster",
-          "source": "Seattle Sounders FC"
-        },
-        {
-          "title": "Expectations be damned: Sounders enter playoffs with something to prove",
-          "url": "https://www.sounderatheart.com/2026/11/expectations-be-damned-sounders-enter-playoffs-with-something-to-prove/",
-          "source": "Sounder at Heart"
-        },
-        {
-          "title": "How Sounders can still salvage a disappointing season",
-          "url": "https://www.seattletimes.com/sports/sounders/sounders-try-to-salvage-disappointing-season-in-mls-playoffs/",
-          "source": "The Seattle Times"
-        }
-      ]
-    },
-    {
-      "keyword": "키오스크",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T02:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR64mPgapsePwwgjBc-c99FeQoq0pu4Tz266_PoxPYEoAM0GRwkmOySCzDrgDQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
-          "source": "주간조선"
-        },
-        {
-          "title": "“카페 키오스크 앞 어르신 손 덜덜…” 직원 날 선 말투 ‘뭇매’",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1288156.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "커피 마시려다 봉변…\"손까지 덜덜\" 카페 영상 확산하자",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854828",
-          "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "굿파트너",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T02:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqDUfiI0hmmJMGnu05Y4gtEH9uBKfjeIXluoiq2N7m43WEmgnwnVhuTFMHYSM",
-      "category": "연예",
-      "news": [
-        {
-          "title": "“상간녀 5명 월화수목금 느낌 엄청나” 장나라, 불륜 사건에 ‘경악’",
-          "url": "https://www.twig24.com/news/entertainments/2026/11/18/20261118500099",
-          "source": "TWIG"
-        },
-        {
-          "title": "인연 잇는다…펀치, '굿파트너2' 첫 OST 가창",
-          "url": "https://www.etnews.com/20261120000022",
-          "source": "전자신문"
-        },
-        {
-          "title": "SBS 새 드라마 '굿파트너2', 내일 첫 방송",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852793",
-          "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "제네시스 g80",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T01:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDhVXTkEcJnT9DskKGydk8SkbcI-AmXpqvMLuQ5yIamzfyrsNerVpwRwkIiag",
-      "category": "연예",
-      "news": [
-        {
-          "title": "제네시스, ‘G80 하이브리드’ LA서 첫 공개…연비 34% 개선",
-          "url": "https://www.khan.co.kr/article/202611200923001",
-          "source": "경향신문"
-        },
-        {
-          "title": "\"주유소 사장님, 저 당분간 못 와요\"…확 달라진 국산차 정체",
-          "url": "https://www.hankyung.com/article/202611209146g",
-          "source": "한국경제"
-        },
-        {
-          "title": "제네시스, LA 오토쇼서 G80 하이브리드 최초 공개... 북미 고급 하이브리드 시장 첫발",
-          "url": "https://www.chosun.com/economy/industry-company/2026/11/20/DESJLW7PAJHYZEWBJMUWCZCCQY/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김아림",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T02:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAMCqwQcU8PTAPqzpmEfR-ylKhi_ej9qVVuhmnttb37V3wU_LMkW5W1jM3AA4",
+      "startedAt": "2026-11-20T03:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXN2rMpmjMciwkgh-mu5ZMfAwPewikJz16PY0Mv2WRccNgB53rWBqq6bFIJ3k",
       "category": "스포츠",
       "news": [
         {
-          "title": "김아림, LPGA 시즌 최종전 투어 챔피언십 첫날 공동 선두",
-          "url": "https://www.yna.co.kr/view/AKR20261120018100007",
-          "source": "연합뉴스"
+          "title": "임시 꼬리표 뗄까? ‘모레노 호’의 운명 결정할 카타르전",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8714500",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "유해란, 투어 챔피언십 첫날 공동 4위",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261120_0002297379&provider_id=&cID=&type=Main&catg=&idx=7",
-          "source": "뉴시스"
+          "title": "스페인 매체 “이강인, A매치 대미 장식…손흥민과 득점 기회 창출”",
+          "url": "https://www.donga.com/news/Sports/article/all/20261119/135052927/1",
+          "source": "동아일보"
         },
         {
-          "title": "유해란·최혜진 출격…LPGA 최종전 우승 정조준",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611192328491Gn",
-          "source": "연합뉴스TV"
+          "title": "모레노 감독 '임기 연장?'‥내부 '긍정적 기류'도",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867069_37004.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "검찰",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T01:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7ViZIQWKaoE1tM02RAsJN8PGJAF5MGwXRtWIjH1dpDZcXM7_me_2b_9nfo0A",
-      "category": "정치·사회",
+      "keyword": "배구",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T03:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtNU9GsZcsHCDG9s8MM-0g6flxpcgc_gGHNtbS7Zxro5Ms2C3OPMLw3Pq10ho",
+      "category": "스포츠",
       "news": [
         {
-          "title": "\"검사 200명 수사 부담된다\" 손사래… 與 조작기소 특검 구인난",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/20/3EKVMEIAVBBZLNHCPBUU6JEQO4/",
-          "source": "조선일보"
+          "title": "여자배구 경기중 관중석서 쓰러진 남성, 끝내 숨져",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135058979/2",
+          "source": "동아일보"
         },
         {
-          "title": "홍대로 간 국민의힘 \"특검법 폐기해야‥조희대 탄핵은 광기\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867200_36911.html",
+          "title": "KOVO, 흥국생명-GS칼텍스 사망 사고 애도 “사고 매우 엄중하게 받아들여, 경기장 안전·관중 보호 노력” - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/20/202611201225775665O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "프로배구 흥국생명 홈경기 중 쓰러진 관중 사망‥KOVO·흥국생명 추모",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867192_36946.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "라이어",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T03:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxusVPUufyBz86Mg3iQ3RzK5Qyj24Po5rky5zcu3ziecPEyP1faL7Epaaxbx8",
+      "category": "연예",
+      "news": [
+        {
+          "title": "'라이어' 빌런 유연석, 경찰에게도 악행…결국 덜미 잡힐까",
+          "url": "https://m.imbc.com/enews/view/525326",
+          "source": "MBC"
+        },
+        {
+          "title": "'라이어' 서현진, 믿었던 사람들 거짓말에 충격 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111915157247121",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'라이어' 백재영 작가 \"유연석, 배우로서 만만치 않은 선택…용기에 감동\"",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611181025594569",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "사이드카",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T03:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPHqrLOw_Y1odGwUTnX0XBlWCyQMVKNasZRHAYteY1SXdZ6HyQHIN9pMon328",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6867221_36932.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "검찰미래위, '李대통령 기소' 위례 개발비리 등 3건 재논의",
-          "url": "https://www.yna.co.kr/view/AKR20261120079000004",
-          "source": "연합뉴스"
+          "title": "[속보] 코스닥 매도 사이드카…지수 650선 위태 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/20/2026112013190435179",
+          "source": "머니투데이"
+        },
+        {
+          "title": "검은 금요일 맞은 亞증시…韓·日·대만, 일제히 4∼6%대 급락",
+          "url": "https://stock.mk.co.kr/news/view/1203170",
+          "source": "매일경제 마켓"
         }
       ]
     },
     {
-      "keyword": "한겨레",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T02:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRODyDM7UAoRfwCF-lM2gvXCPumlSIEQfuyXll2z1OTQCUckc2aaStPjXIWK80",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘김건희 어좌’ 사진 공개한 측근 “안 말려놓고…악마화” 주장",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1288301.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "김건희 여사 측근, 경복궁 근정전 어좌 착석 사진 공개…“국가유산청도 말리지 않았다”",
-          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=488121",
-          "source": "스페셜타임스"
-        },
-        {
-          "title": "尹 최소 무기징역 피하기 어려울 듯⋯ 이상민·박성재 등 재판에도 영향",
-          "url": "https://www.kmib.co.kr/article/20261120500009",
-          "source": "국민일보"
-        }
-      ]
+      "keyword": "홍의정",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T03:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
-      "keyword": "ราคาทองวันนี้",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T02:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHrxWLk-iklazX9aPv2ZQAuHkt9O_X-1SwrO6wdNEXdFQZ328Gi1ZlDFC0paE",
+      "keyword": "시진핑",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T03:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLgmcFC_1xEqJomJL0a82-WcH1izsEsX20r0vzAB9N7qAbTL2f7iDSYXcX0L8",
       "category": "기타",
       "news": [
         {
-          "title": "ทองไทยดิ่งแรง 2,850 บาท ตามทองโลก ตลาดหวั่นเฟดขึ้นดอกเบี้ย ธ.ค.นี้ เตือนระวังราคาลงต่อ",
-          "url": "https://www.efin.finance/th/stock/news/detail/ryp1AA",
-          "source": "efin.finance"
+          "title": "시진핑 중심에 ‘좌 트럼프, 우 푸틴’…미중러 회담이 남긴 것",
+          "url": "https://www.hani.co.kr/arti/international/america/1288270.html",
+          "source": "한겨레"
         },
         {
-          "title": "ราคาทองคำวันนี้ 20 พฤศจิกายน 2569 ลง 2,800 บาท รูปพรรณขาย 57,900 บาท",
-          "url": "https://readthecloud.co/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-20/",
-          "source": "คลาวด์ปัง"
+          "title": "\"전문가들, 미중러 합의 실효성에 의구심…핵군축 등 이견 여전\"",
+          "url": "https://www.yna.co.kr/view/AKR20261120087000083",
+          "source": "연합뉴스"
         },
         {
-          "title": "Daily Recap Gold Spot 20-11-2569",
-          "url": "https://www.huasengheng.com/news/daily-recap-gold-spot-20-11-2569/",
-          "source": "ฮั่วเซ่งเฮง"
+          "title": "‘시진핑 돕는 트럼프’ 공개한 미국, ‘꾸벅 조는 트럼프’ 중계한 중국",
+          "url": "https://www.khan.co.kr/article/202611200903001",
+          "source": "경향신문"
         }
       ]
+    },
+    {
+      "keyword": "금값",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T03:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQHg363KWSEzOIYNZqJDHmZaxpNQh8OIipXln8t8sDfTl3kqGnnTNz91Vwps",
+      "category": "경제",
+      "news": [
+        {
+          "title": "국제 금값, 14개월만에 최저…달러는 19개월 최고 수준",
+          "url": "https://www.yna.co.kr/view/AKR20261120083400009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[뉴욕 금가격] 연준 긴축 우려·강달러에 1.4%↓…14개월來 최저",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445634",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "금값마저 14개월 만에 최저…사라지는 '투자 피난처'",
+          "url": "https://www.etnews.com/20261119000274",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "살인",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T03:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnQ5fPcUSl8dWfBD6AkkcnUiDoCctvzkl4LnT1JEQ5ICpCZDfNTWJ0TXm60Lg",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "'15살 소녀 살해' 50대 남성 구속송치...\"처벌불원서 안 써줘 격분\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611200839484884_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "[단독]“여중생에 KTX표 주며 외할머니댁 순금 훔치게 해”",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135057320/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "'10대 살해' 50대 남성 구속 송치…전 연인도 살인교사 혐의 입건",
+          "url": "https://www.mt.co.kr/society/2026/11/20/2026112010265470672",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "리야드",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T03:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAYps9ESUO3c0JpuyLDRKFRuPSIGmM3UW_ntT26fkwzDW2qogobZk58MfUsb8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261119155051079",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[이 시각 세계] 후티 반군, 사우디 80층 빌딩에 미사일 공격",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867150_37012.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "[속보]후티군, 사우디의 공항 · 은행· 공군기지· 석유시설 보복 공습",
+          "url": "https://www.newsis.com/view/NISX20261120_0003875964",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "인천일보",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T03:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
