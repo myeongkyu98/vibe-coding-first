@@ -1,257 +1,271 @@
 {
-  "updatedAt": "2026-11-20T21:42:36.638Z",
+  "updatedAt": "2026-11-20T22:42:05.028Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 6
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "category": "기타",
+      "count": 5
     },
     {
       "category": "경제",
       "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "황유민",
+      "keyword": "비트코인",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-20T20:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKP69yNKi4OyB5BAMPBzAqBNdMkeDaN2d1bZDHBFCeLEpiFim281JWbS6alOw",
-      "category": "스포츠",
+      "startedAt": "2026-11-20T21:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrRwyKPY9z9nxzrSSGzPEcqX6Sba96K6_RJDUk4tYRqbn_4xeKW9B_pL8U2IQ",
+      "category": "경제",
       "news": [
         {
-          "title": "김아림, LPGA 시즌 최종전 투어 챔피언십 첫날 공동 선두",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718205",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "유해란, 투어 챔피언십 첫날 공동 4위",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261120_0002297379&provider_id=&cID=&type=Main&catg=&idx=7",
-          "source": "뉴시스"
-        },
-        {
-          "title": "유해란·최혜진 출격…LPGA 최종전 우승 정조준",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611192328491Gn",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "김호령",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-20T20:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpI_gRgzoH0W4K8Vefa3xbNY0gvuoFqFJLORP46151Q9si227qvMRfB1xLqO8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘중견수 대어’ 최지훈 SSG 잔류…FA C등급 김호령 거취에 촉각",
-          "url": "https://www.donga.com/news/Sports/article/all/20261120/135062951/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[프로야구] 외야 남은 FA 최대어, KIA 김호령 두산 정수빈 행선지는",
-          "url": "https://www.newspim.com/news/view/20261119001002",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "최지훈·오태곤 잡은 SSG, 남은 내부 FA 문승원 뿐…외부 FA도 '눈독'",
-          "url": "https://www.newsis.com/view/NISX20261119_0003874949",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "김수현",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-20T20:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8QzOTPgKDtaIRJgWZTM6mhq_GTjvg7OnKAXnpCOmxbVpxKqej_lmS-4Ijw80",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "법원 \"사생활 논란' 김수현 측, 쿠쿠에 모델료 8억원 돌려줘야\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261120149251004",
+          "title": "비트코인 4달만에 도로 6만달러 아래로…2022년 이후 최장 약세",
+          "url": "https://www.yna.co.kr/view/AKR20261121005500091",
           "source": "연합뉴스"
         },
         {
-          "title": "법원 “‘사생활 의혹’ 김수현 소속사가 쿠쿠에 8억 원 배상”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718583",
+          "title": "보름 만에 23% 떨어진 비트코인…바닥은 어디일까[코인현미경]",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6361286",
+          "source": "뉴스1"
+        },
+        {
+          "title": "휘청이는 비트코인…NH증권 \"디베이스먼트 재부각 필요\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445655",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "생계",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-20T20:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdsG7o0CWK2JZC7zZ2RXEZn2URToOS8QWEVRzGuUvtH4LaeyUlh-V6pWVNQo8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "구청 실수로 줬다 뺏은 생계급여…매년 800건꼴",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718769",
           "source": "KBS 뉴스"
         },
         {
-          "title": "김수현 측, 광고주에 또 거액 물어준다…쿠쿠에 8.7억 배상 판결",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57328",
-          "source": "주간조선"
-        }
-      ]
-    },
-    {
-      "keyword": "당구",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T20:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-jZ7Oqlc3y_aMpnxn_NcGWSk5lrI2FcPTSRmY3I6GwwcbrvKWEQNHoZ2zsS0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "제16회 중구청장배·제17회 연맹회장배 당구대회 개최",
-          "url": "https://www.junggunews.com/news/articleView.html?idxno=42979",
-          "source": "중구신문"
+          "title": "구청 실수로 줬다 뺏은 생계급여…매년 800건꼴",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718646",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "‘대학 자퇴하고 당구선수 데뷔’ LPBA 이선영 “반대하던 부모님 4강 진출하자 기뻐하셔”",
-          "url": "https://mkbn.mk.co.kr/news/sports/12214637",
-          "source": "mkbn.mk.co.kr"
-        },
-        {
-          "title": "“우연히 만나 운명이 된 당구…0대2로 뒤진 막판이라 마인드셋”",
-          "url": "https://www.sedaily.com/article/20117103",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "아틀레틱 대 에스파뇰",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T20:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTKYNvGMAfLfBwynb5dOF_r8XlSo7tnTDpBpI5AHidz7m37NiNvhVSpHOxCEg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "아틀레틱 클럽 대 에스파뇰 경기 예측: 다득점 경기가 예상됩니다.",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-athletic-club-vs-espanyol-hua-hen-man-doi-cong",
+          "title": "사람들이 지속 가능한 방식으로 빈곤에서 벗어날 수 있도록 '역량 강화'.",
+          "url": "https://www.vietnam.vn/ko/tiep-suc-thoat-ngheo-ben-vung",
           "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "어선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T20:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkA5JUP9tUujDkzWyqlEBKttLcqA1YD5HusvjFpDouRrnekT58CvCU1sGcbHI",
-      "category": "정치·사회",
+      "keyword": "노동조합",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T21:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5laRJJ_25qSEj88-7dYbEQ0sJ00I9QgxQ6D-vAQfSYhch4IDpxmwtGKAjn0",
+      "category": "기타",
       "news": [
         {
-          "title": "태안 연락두절 어선 해경 부실 관제 논란 보도에 대해 다음과 같이 설명 드립니다.",
-          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976208",
-          "source": "대한민국 정책브리핑"
+          "title": "서울 지하철 준법투쟁 첫날…철도노조도 23일 합류",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375076",
+          "source": "전기신문"
         },
         {
-          "title": "해광호 나흘째 소식 없어…“두 차례 위치 확인에 무응답”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718853",
+          "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 예상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718152",
           "source": "KBS 뉴스"
         },
         {
-          "title": "황종우 해수장관 \"해광호 수색에 가용 자원 최대한 동원\"",
-          "url": "https://www.yna.co.kr/view/AKR20261119167700030",
-          "source": "연합뉴스"
+          "title": "지하철 2호선 성수지선 양방향 중단·1호선도 지연",
+          "url": "https://www.kyeonggi.com/article/20261120580015",
+          "source": "경기일보"
         }
       ]
     },
     {
-      "keyword": "다니일 메드베데프",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T20:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5l_FuzFmXkSWAHJZ_yYaa42DEH4pu0cBMnDGBFgLLNYAHJlrpMb7tRXawrfc",
+      "keyword": "김연경",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-20T20:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSS50UNTZAO1JVuEeCyBHUAoGX468kJ8VUqOiNGtJ-urVUkMkfVHlYBzoNIgA",
       "category": "스포츠",
       "news": [
         {
-          "title": "알카라스, 메드베데프 꺾고 준결승 진출",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261119_0002296115&pID=1&cID=&sID=1&type=photoMain&idx=7",
-          "source": "뉴시스"
+          "title": "김연경 ‘필승 원더독스’, 첫 해외원정…베트남 프로 최강팀 라오까이와 맞대결(‘신인감독2’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/HFTDCZJYGA2WKOJTMYZTIZRSGA/",
+          "source": "조선일보"
         },
         {
-          "title": "알카라스 \"ATP 파이널스 우승은 엄청난 성공…전 코치 페레로 만나면 크게 안아줄 것”",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54298",
-          "source": "테니스코리아"
+          "title": "코트 위의 매버릭, ‘꽃사슴’ 황연주의 위대한 귀환 [예능 뜯어보기] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112008307243652",
+          "source": "머니투데이"
         },
         {
-          "title": "'부상 투혼' 알카라스, 메드베데프 꺾고 ATP 파이널스 4강 진출",
-          "url": "https://www.news1.kr/sports/general-sport/6359498",
+          "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6359485",
           "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "한국수력원자력",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRih8H1fUjYlCT9uXcyE-EpEEkkfFNNYR_9KlLmJ1eRWw8rpqL_wedA5qpKgk8",
-      "category": "경제",
-      "news": [
-        {
-          "title": "한수원 “대우건설 컨소시엄과 체코원전 시공 공동협약 종료”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718545",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "체코 두코바니원전 냉각탑 2파전…한수원, 후속발주 ‘착착’",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375054",
-          "source": "전기신문"
-        },
-        {
-          "title": "[단독 ]26조 체코 원전 ‘수익성 비상’… 한수원, ‘현지화율 60%’ 체코 요구 대응 착수",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315838",
-          "source": "스트레이트뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "tqqq",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-20T19:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEm0utryaWejY-YUz8wQKXWW4P6uIimAyisOmTI9UaxasDRIIWIWcRQ-AoYk",
-      "category": "경제",
-      "news": [
-        {
-          "title": "EXCLUSIVE: Tesla Still Rules Leveraged ETFs, but Anthropic IPO and Micron’s Rise Signal What’s Next",
-          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-tesla-still-rules-leveraged-033004009.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Pain in TQQQ, SOXL may offer silver lining for tech stocks - SocGen",
-          "url": "https://seekingalpha.com/news/4674377-pain-in-tqqq-soxl-may-offer-silver-lining-for-tech-stocks-socgen",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "TQQQ and SOXL are close to giving back all annual gains while underlying ETFs are still up, SocGen notes",
-          "url": "https://tradersunion.com/news/market-voices/show/4308773-tqqq-soxl-yearly-gains/",
-          "source": "Traders Union"
-        }
-      ]
-    },
-    {
-      "keyword": "qqq",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-20T20:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO4t9QisifLAsjv6JvgjSuXEdDrHOPHZF7eZLHKLG28UQKAdJY5gzETk2pN_Q",
+      "keyword": "김민재",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-20T21:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiR87P42lMfq56iNE7YKrKtFHCJGgssIDzxhKgMTnzhLwl81-6vCFbd5jtCCA",
       "category": "스포츠",
       "news": [
         {
-          "title": "Growth Engine vs. Shock Absorber: Inside QQQ’s Low-Volatility Sibling",
-          "url": "https://etfdb.com/innovative-etfs-content-hub/inside-qqq-low-volatility-sibling/",
-          "source": "ETF Database"
+          "title": "'기분 좋은 방출설' 김민재, EPL 빅클럽+유벤투스+튀르키예 \"러브콜 폭주\"... 뮌헨은 이미 대체자 물색 \"여름에 떠나나\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/20/2026112008255895599",
+          "source": "머니투데이"
         },
         {
-          "title": "The Nasdaq-100 Is Doing Something It Did Only in 2000 and 2018. Here's What Happened Next Both Times",
-          "url": "https://247wallst.com/investing/2026/11/17/the-nasdaq-100-is-doing-something-it-did-only-in-2000-and-2018-heres-what-happened-next-both-times/",
-          "source": "24/7 Wall St."
+          "title": "‘韓 괴물 CB’ 김민재, 어떤 명문 구단이 품을까···“바이에른 뮌헨과 재계약 불투명” 튀르키예·이탈리아 구단...",
+          "url": "https://sports.khan.co.kr/article/202611200707003",
+          "source": "스포츠경향"
         },
         {
-          "title": "Invesco QQQ Price Today | QQQON Price 2026",
-          "url": "https://www.kucoin.com/price/QQQON",
-          "source": "KuCoin"
+          "title": "\"대반전\" 韓 16호 프리미어리거 보인다! '괴물 수비수' 김민재 러브콜 폭발…'바이에른 뮌헨, 영입 제안 들을 의향 있다'",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/19/GI4TMYTDGVSWMYLDHFSTCOBRGQ/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "띠별 운세",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T21:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHQdGStCVUwxykrEPBMT9Y0Dff4XSTojP13coeRXTTNZwxwTb2gwiPEI29w08",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[오늘의 운세] 11월 21일 토요일 (음력 10월 13일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20261113580348",
+          "source": "경기일보"
+        },
+        {
+          "title": "[오늘의 운세] 2026년 11월 21일 별자리 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611210000000002",
+          "source": "YTN"
+        },
+        {
+          "title": "[오늘의 운세] 11월 21일 띠별-별자리 운세",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=929646",
+          "source": "남도일보"
+        }
+      ]
+    },
+    {
+      "keyword": "포스코",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-20T21:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXu7XgiG9gS3W7ybaSOnIJSjMKQcyVHo6syq16fcjzYw7_2_MFI7aQNZnyLho",
+      "category": "기타",
+      "news": [
+        {
+          "title": "포스코 노사, 1차 합의안 부결 13일 만에 임금교섭 잠정합의(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261120166151053",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "포스코, 임단협 잠정합의안 재도출…\"철강 위기 극복 뜻 모아\" - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/20/2026112018233126305",
+          "source": "머니투데이"
+        },
+        {
+          "title": "포스코 노사, 임협 새 잠정합의안 마련…조합원 투표 예정",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611202317372M7",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "태양광 발전",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHESzGFN4eKtP0S0VWD4nKNY4s-nE1iKJRWkgqyB4b2WVsea5rfbhDg-9ScLk",
+      "category": "경제",
+      "news": [
+        {
+          "title": "나주시, ‘햇빛소득마을’ 공모 대비 12개 마을 찾아가는 사전컨설팅",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=355135",
+          "source": "녹색경제신문"
+        },
+        {
+          "title": "전남광주 남구, 햇빛 소득으로 '에너지 복지' 확대",
+          "url": "https://www.newspim.com/news/view/20261120000613",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "함양군, 햇빛소득마을 이장교육…지역경제 활성화 기대",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875245",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "박은정",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4s52HRtceHjxpF7vaBF2o1BsAsb1ETlmfxIsBsGWleoCUezb5dSYI70BoOgI",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "'원구성 122일 파행' 대덕구의회, 업무추진비 지원 여야 한통속",
+          "url": "https://www.yna.co.kr/view/AKR20261120128400063",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "박은정 대덕구의원, 교섭단체 운영지원 위한 제도적 근거 마련",
+          "url": "https://news.tf.co.kr/read/national/2391669.htm",
+          "source": "더팩트"
+        },
+        {
+          "title": "122일 파행 빚더니…의원 의정활동 지원부터 서두르는 대덕구의회",
+          "url": "https://www.news1.kr/local/daejeon-chungnam/6360879",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "새마을금고",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-20T21:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTva036-xXZacPDcsn14Q5JEzJ0PB2BcK1VM0GU7nnOfaqDiDsMfaGphrn6aAE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "해운대구 재송1동 지역사회보장협의체, 취약계층 50세대에 `사랑의 김장김치` 전달",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006534",
+          "source": "국제신문"
+        },
+        {
+          "title": "해운대구 반여1·4동 MG새마을금고, 반여1동에 MG희망나눔 김치 전달",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026112010070745549",
+          "source": "부산일보"
+        },
+        {
+          "title": "인제군자원봉사센터, 취약계층 170가구에 김장 김치 전달",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756329",
+          "source": "국제뉴스"
         }
       ]
     }
