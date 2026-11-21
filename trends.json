@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T04:50:54.553Z",
+  "updatedAt": "2026-11-21T05:51:12.986Z",
   "summary": [
     {
       "category": "기타",
@@ -7,10 +7,14 @@
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
     },
     {
       "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     },
     {
@@ -24,9 +28,14 @@
       "traffic": "5000+",
       "trafficValue": 5000,
       "startedAt": "2026-11-21T03:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS7Q_-0JTrbLWXd3gnGVKKXssuHtXIxlbJdReRcsmAWJ92tvCr-Sr5uUyExME",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQla7Zw1UGaDxfgDAojGmuBJ_ebNfPlzaruw3ft6ZY7J3aaRXANfXLMBDuex2g",
       "category": "기타",
       "news": [
+        {
+          "title": "롯데 초비상! 211안타 괴물 타자 레이예스, 일본에 빼앗기나...NPB 이적 가능성 제기",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/21/MU3DGNRTMMYGIZBRGBRTKMJYGM/",
+          "source": "조선일보"
+        },
         {
           "title": "퍼즐 맞춘 키움·스텝 꼬인 한화… 외인시장 ‘요동’",
           "url": "https://www.segye.com/newsView/20261119515089",
@@ -36,118 +45,88 @@
           "title": "레이예스 잡고 투수는 고민…난제 된 롯데 외인 퍼즐",
           "url": "https://mobile.busan.com/view/busan/view.php?code=2026111914480405218",
           "source": "부산일보"
-        },
-        {
-          "title": "롯데도 외인 3명 재계약?...레이예스도 200만 달러 받나",
-          "url": "https://www.maniareport.com/view.php?ud=20261120054040212191b55a0d56_19",
-          "source": "마니아타임즈"
         }
       ]
     },
     {
-      "keyword": "대통령",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-21T02:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZwMDtR6FHFPalvr8jNhi5R9Db1cyeTY5CvVTXBE1O5sq5CiojTwaAILUXHiY",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "“AI 고속도로가 대한민국의 미래 연다”…울산 AI데이터센터 찾은 이재명 대통령 [현장 화보]",
-          "url": "https://www.khan.co.kr/article/202611211311001",
-          "source": "경향신문"
-        },
-        {
-          "title": "이 대통령, 울산 AI 데이터센터 점검…\"국가 경쟁 위해 속도전\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121133747Q6S",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "안전모 착용하는 이재명 대통령",
-          "url": "https://www.newsis.com/view/NISI20261121_0021541210",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "퇴직금",
+      "keyword": "전북 대 fc 서울",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-21T02:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTznx-Opu-kcWyBP2hscFkfRA8op2YPAlMHuNjNgtUWaYDi7yScXEwyr2JwEU",
+      "startedAt": "2026-11-21T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8gRpBUp9sJ2Dt4Yqu62-BpEnYIN4GJXpmbfaBH66VwnDUDLc335uFN6ZiGmI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"두 개 다 잡을 수는 없지만, 승점 3점이 목표\" 김기동 감독, 아시아 무대에 무게...우승 확정한 서울의 남은 시즌 운영 계획 [현장 인터뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211305774612O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "아시아 무대 절실한 전북 vs 챔피언 체면 걸린 서울...선발 라인업 공개 [오!쎈 전주]",
+          "url": "https://www.chosun.com/sports/football/2026/11/21/HA4GINRWGM4WKOBSGM3GCZTGHA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'전주성에서 우승팀 잡는다' 전북 현대, FC서울 상대로 반격 준비...ACL 진출권 향한 중요한 승부 [오!쎈 프리뷰]",
+          "url": "https://www.osen.co.kr/article/G1112912557",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "탈선",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T03:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTovlSXOmXQGSjXRN50I5mVC6DkUozy-bUxObl5Hy1xxbn1cnYbJjwv0SFNoEY",
       "category": "기타",
       "news": [
         {
-          "title": "직원 임금·퇴직금 21억원 체불 시리우스항공 대표 징역 2년",
-          "url": "https://www.yna.co.kr/view/AKR20261120043600051",
-          "source": "연합뉴스"
+          "title": "경부선 탈선‥천안-대전 일반열차 운행 중단",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6867458_36967.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "임금·퇴직금 21억 체불한 시리우스항공 대표 실형",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876904",
-          "source": "뉴시스"
+          "title": "코레일, 경부선 일반열차 운행 조정…천안~대전 구간 연계버스 투입",
+          "url": "https://news.jtbc.co.kr/article/NB12329167",
+          "source": "JTBC"
         },
         {
-          "title": "시리우스항공 대표, 체불 1심 징역 2년",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.22006006056",
-          "source": "국제신문"
+          "title": "논술·면접 시험 봐야하는데…수험생 경부선 탈선에 어쩌나 ‘발동동’",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288427.html",
+          "source": "한겨레"
         }
       ]
     },
     {
-      "keyword": "구자욱",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T02:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN9bkS_KGrWQghTSGQ1DRThK8s81nevtSSb6sOQep1C5hSgAUCDVD5GXUt-Jo",
-      "category": "스포츠",
+      "keyword": "휴대 전화",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T03:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJhZuK4Bdaxn1mX_DHIZc2sgXAASOGSJNktcHN3NXHklF5WQ6-34dp2mdADg",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
+          "title": "이 대통령 \"국가시험 전면 개편\"‥범정부 TF",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867425_37012.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "이번 주말부터 주요 대학들 논술 실시... ‘AI 부정행위’ 대응 총력",
+          "url": "https://www.chosun.com/national/education/2026/11/21/C76MBS6ZWZBNZB4LM6C6SK7KNY/",
           "source": "조선일보"
         },
         {
-          "title": "빅리그 노리는 구자욱…MLB 사무국, 신분 조회 요청",
-          "url": "https://www.yna.co.kr/view/AKR20261120144000007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "MLB 사무국, FA 신분 구자욱 ’신분 조회 요청’",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120171038Emv",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "김혜성",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-21T02:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIJso-06dVcg8YrarN2Sde7H-yakziHwYtMIq29t9hfKyRvuhk-Ete7s0dD1k",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"내가 다저스 가지 말랬잖아\" 강정호 만류에도 LA행 택한 김혜성, 에이전트 추천까지 뿌리친 이유",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/GM3GCYRUHEYDENBZMQ2WEYZQGI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "MLB 다저스, 내야수 로이스 트레이드 영입…김혜성 비상",
-          "url": "https://www.yna.co.kr/view/AKR20261121025600007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "다저스, '전체 1순위 출신' 루이스 트레이드 영입…김혜성 내야 경쟁도 심화",
-          "url": "https://www.newsis.com/view/NISX20261121_0003877593",
-          "source": "뉴시스"
+          "title": "‘앞치마 입으세요’…AI 부정 논란에 대학 논술장도 비상",
+          "url": "https://news.jtbc.co.kr/article/NB12329172",
+          "source": "JTBC"
         }
       ]
     },
     {
       "keyword": "맥도날드",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-21T03:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5XrTijpH-0-qnPfE25LR1PvFb_5_YTiyGc4QhOmwMb8UtEHH9qoenatG17r4",
       "category": "기타",
@@ -166,6 +145,81 @@
           "title": "Everything K-POP and More! - 위버스 매거진",
           "url": "https://magazine.weverse.io/article/view/2026",
           "source": "Weverse Magazine"
+        }
+      ]
+    },
+    {
+      "keyword": "이현중",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T03:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KMKC4frDzINS32X2uambR5RfNkvGuLlEZjaCKzect761UJ6cTmIITHKmR8w",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'하승진 이후 22년 만에 NBA 무대 밟을까' 이현중의 미친 상승세...20점 11리바운드, G리그 첫 더블더블 폭발 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211303779841O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘4쿼터에만 3점 5방’ 이현중, 25득점 G리그 개인 최다득점",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8713824",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "이현중 산타클루즈전 3점슛 4개 포함 20점·11R·2AS·2스틸로 좋은 활약, NBA를 향해 뛴다, 립시티 11점차 승리",
+          "url": "https://www.mydaily.co.kr/page/view/2026112113421314152",
+          "source": "마이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "피겨스케이팅",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T04:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbN-6gLob8jt7eghUgIMLPqTWXYzf_-mhDLBoZyT8uutzOEcbAZJGNlZOXCs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "피겨 김서영, 개인 최고점으로 시니어 그랑프리 5차 쇼트 3위",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867446_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "피겨 김서영, 5차 그랑프리 쇼트 3위…김유성·이해인도 메달 도전",
+          "url": "https://www.donga.com/news/Sports/article/all/20261121/135064584/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "피겨 김서영, 시니어 그랑프리 5차 쇼트 3위…개인 최고점",
+          "url": "https://www.yna.co.kr/view/AKR20261121000500007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "보이저 1호",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-ZAX-mD_SYXmdZIatKCRcLYSCOi_esImDd4urMKFpn3OImD5ApW39ZazqsqQ",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[그래픽] 보이저 1호 '1광일' 거리 통과",
+          "url": "https://www.yna.co.kr/view/GYH20261117000600044",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "우주 심연에서 날아온 ’생존 신호’…보이저 1호 ’1광일 전파’ 수신",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120140419XEz",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주]",
+          "url": "https://www.hani.co.kr/arti/science/science_general/1288424.html",
+          "source": "한겨레"
         }
       ]
     },
@@ -195,61 +249,27 @@
       ]
     },
     {
-      "keyword": "이현중",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T03:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG6AbaXCsA0syk0eVM-PfQGUJUnRXzaVUCkheYRD9qOZctfGjks4DlXhPdCP4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘4쿼터에만 3점 5방’ 이현중, 25득점 G리그 개인 최다득점",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8713824",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "'3점슛 6개 폭발' 대한민국 에이스의 NBA 도전 청신호→25점 커리어 하이 '현중 리', 꿈의 무대 향해 성큼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698549",
-          "source": "인터풋볼"
-        },
-        {
-          "title": "NBA 도전 중인 한국 농구 에이스 이현중, G리그서 21득점",
-          "url": "https://www.imaeil.com/page/view/2026111515345186431",
-          "source": "매일신문"
-        }
-      ]
-    },
-    {
-      "keyword": "kt",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T03:00:00.000Z",
+      "keyword": "의성군",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T04:20:00.000Z",
       "picture": "",
       "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "catl",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGg9u8wOdLrsZLaUESMwNIn41kuSqG3vpSgDer_vM1ZxhY6N0t8vcAF-nY0N0",
-      "category": "기타",
       "news": [
         {
-          "title": "POSCO Group Signs Long-Term Lithium Supply Deal with CATL",
-          "url": "https://dbr.donga.com/kfocus/view/en/article_no/3965",
-          "source": "동아비즈니스리뷰"
+          "title": "지방소멸 위기 의성, 경북 첫 청년친화도시 됐다",
+          "url": "https://www.yna.co.kr/view/AKR20261120042100053",
+          "source": "연합뉴스"
         },
         {
-          "title": "POSCO Group signs lithium supply deal with China's CATL through 2028",
-          "url": "https://biz.chosun.com/en/en-industry/2026/11/18/MCEZ7PPJ7FDULBNLQNNY3CGDS4/",
-          "source": "Chosunbiz"
+          "title": "의성군, 국무조정실 주관 '2026년 청년친화도시' 선정…도내 최초 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/20/2026112009040476615",
+          "source": "머니투데이"
         },
         {
-          "title": "Posco, CATL signs 3-year lithium supply deal",
-          "url": "https://www.koreaherald.com/article/10941739",
-          "source": "The Korea Herald"
+          "title": "춘천 ‘청년 친화도시’ 지정…“실험하는 도시 조성!”",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716915",
+          "source": "KBS 뉴스"
         }
       ]
     }
