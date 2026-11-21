@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T05:51:12.986Z",
+  "updatedAt": "2026-11-21T06:58:14.247Z",
   "summary": [
     {
       "category": "기타",
@@ -7,51 +7,22 @@
     },
     {
       "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
+      "count": 3
     },
     {
       "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "빅터 레이예스",
+      "keyword": "전북 대 fc 서울",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-21T03:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQla7Zw1UGaDxfgDAojGmuBJ_ebNfPlzaruw3ft6ZY7J3aaRXANfXLMBDuex2g",
-      "category": "기타",
-      "news": [
-        {
-          "title": "롯데 초비상! 211안타 괴물 타자 레이예스, 일본에 빼앗기나...NPB 이적 가능성 제기",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/21/MU3DGNRTMMYGIZBRGBRTKMJYGM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "퍼즐 맞춘 키움·스텝 꼬인 한화… 외인시장 ‘요동’",
-          "url": "https://www.segye.com/newsView/20261119515089",
-          "source": "세계일보"
-        },
-        {
-          "title": "레이예스 잡고 투수는 고민…난제 된 롯데 외인 퍼즐",
-          "url": "https://mobile.busan.com/view/busan/view.php?code=2026111914480405218",
-          "source": "부산일보"
-        }
-      ]
-    },
-    {
-      "keyword": "전북 대 fc 서울",
-      "traffic": "2000+",
-      "trafficValue": 2000,
       "startedAt": "2026-11-21T04:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8gRpBUp9sJ2Dt4Yqu62-BpEnYIN4GJXpmbfaBH66VwnDUDLc335uFN6ZiGmI",
       "category": "스포츠",
@@ -74,102 +45,127 @@
       ]
     },
     {
-      "keyword": "탈선",
+      "keyword": "손정의",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-21T05:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRV7uUwm1t0zJ7BsBqbuDNAAIM1AIguirL_OF98M0vKmZpTcbFFddyzUvoOTiY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”",
+          "url": "https://www.khan.co.kr/article/202611211309001",
+          "source": "경향신문"
+        },
+        {
+          "title": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의”",
+          "url": "https://www.mk.co.kr/news/business/12215251",
+          "source": "매일경제"
+        },
+        {
+          "title": "“손정의 회장, SK하이닉스 1조달러에 인수 검토”",
+          "url": "https://biz.chosun.com/industry/company/2026/11/21/NSICUJZQJZG47HLINIL3KW7PK4/",
+          "source": "Chosunbiz"
+        }
+      ]
+    },
+    {
+      "keyword": "마피아42",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-21T05:30:00.000Z",
+      "picture": "",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
+          "url": "https://www.yna.co.kr/view/AKR20261121029700017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "개장 직후 최대 4시간 대기…웹젠 ‘디펜폭’에 주말 지스타 관람객 몰려",
+          "url": "https://zdnet.co.kr/view/?no=20261121130015",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
+          "url": "https://stock.mk.co.kr/news/view/1203595",
+          "source": "매일경제 마켓"
+        }
+      ]
+    },
+    {
+      "keyword": "후티",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-21T03:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTovlSXOmXQGSjXRN50I5mVC6DkUozy-bUxObl5Hy1xxbn1cnYbJjwv0SFNoEY",
+      "startedAt": "2026-11-21T05:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfw_xVavUhzinxntJumZoYlMfrOHLbedWrj3FRGfH72VdlLm9E6x1wiHx-q5o",
       "category": "기타",
       "news": [
         {
-          "title": "경부선 탈선‥천안-대전 일반열차 운행 중단",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6867458_36967.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "코레일, 경부선 일반열차 운행 조정…천안~대전 구간 연계버스 투입",
-          "url": "https://news.jtbc.co.kr/article/NB12329167",
-          "source": "JTBC"
-        },
-        {
-          "title": "논술·면접 시험 봐야하는데…수험생 경부선 탈선에 어쩌나 ‘발동동’",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1288427.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "휴대 전화",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T03:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJhZuK4Bdaxn1mX_DHIZc2sgXAASOGSJNktcHN3NXHklF5WQ6-34dp2mdADg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "이 대통령 \"국가시험 전면 개편\"‥범정부 TF",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867425_37012.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "이번 주말부터 주요 대학들 논술 실시... ‘AI 부정행위’ 대응 총력",
-          "url": "https://www.chosun.com/national/education/2026/11/21/C76MBS6ZWZBNZB4LM6C6SK7KNY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "‘앞치마 입으세요’…AI 부정 논란에 대학 논술장도 비상",
-          "url": "https://news.jtbc.co.kr/article/NB12329172",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "맥도날드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T03:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5XrTijpH-0-qnPfE25LR1PvFb_5_YTiyGc4QhOmwMb8UtEHH9qoenatG17r4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "존박이 랩으로 주문한 그 버거 어디 갔지?…맥도날드 ‘빅아치’ 사라진 이유",
-          "url": "https://m.ddaily.co.kr/page/view/2026112015561438469",
-          "source": "디지털데일리"
-        },
-        {
-          "title": "맥플러리 랩 터진 존박·곽진언…비프리도 알아본 ‘커플 부츠’[누구템]",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01764646645648016&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "Everything K-POP and More! - 위버스 매거진",
-          "url": "https://magazine.weverse.io/article/view/2026",
-          "source": "Weverse Magazine"
-        }
-      ]
-    },
-    {
-      "keyword": "이현중",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T03:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KMKC4frDzINS32X2uambR5RfNkvGuLlEZjaCKzect761UJ6cTmIITHKmR8w",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'하승진 이후 22년 만에 NBA 무대 밟을까' 이현중의 미친 상승세...20점 11리바운드, G리그 첫 더블더블 폭발 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211303779841O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘4쿼터에만 3점 5방’ 이현중, 25득점 G리그 개인 최다득점",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8713824",
+          "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
+          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995",
           "source": "KBS 뉴스"
         },
         {
-          "title": "이현중 산타클루즈전 3점슛 4개 포함 20점·11R·2AS·2스틸로 좋은 활약, NBA를 향해 뛴다, 립시티 11점차 승리",
-          "url": "https://www.mydaily.co.kr/page/view/2026112113421314152",
-          "source": "마이데일리"
+          "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121001800079",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "후티, 사우디 '1조달러' 국부펀드 본사 공격",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04063926645647688",
+          "source": "마켓인"
+        }
+      ]
+    },
+    {
+      "keyword": "농산물",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T05:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7gDq0adMFrZoEw2KV9-e_MOdJ6cvSSzoNHv6bzgtgfhEeBUMm4suwq1GNShk",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[패트롤] 구리시-남양주시-양평군-포천시-하남시",
+          "url": "https://m.ekn.kr/view.php?key=20261120024322794",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "\"농가 물류비부터 아파트 관리비까지\"…인제군, 민생 체감형 지원 박차",
+          "url": "https://www.news1.kr/local/kangwon/6359806",
+          "source": "뉴스1"
+        },
+        {
+          "title": "인제군, 직거래 택배비 50% 지원…958농가 11월 30일까지 청구",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756325",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "유현 조",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T05:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0jJYf9IX1lwy4TNnkLsuv4Ao1PysaCMj1A5wvBwogSDB8FKJCuwBs67m0lg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "유현조, LPGA 퀄리파잉 시리즈 2R 공동 6위…김민선은 공동 21위",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719082",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "'신인상→대상' 유현조, 이젠 LPGA가 보인다... Q시리즈 2R 공동 6위 점프 - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/21/2026112115073354729",
+          "source": "머니투데이"
+        },
+        {
+          "title": "유현조, LPGA Q시리즈 최종전 1R서 공동 8위…선두와 3타 차",
+          "url": "https://www.yna.co.kr/view/AKR20261120014800007",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -199,52 +195,52 @@
       ]
     },
     {
-      "keyword": "보이저 1호",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-ZAX-mD_SYXmdZIatKCRcLYSCOi_esImDd4urMKFpn3OImD5ApW39ZazqsqQ",
-      "category": "IT·과학",
+      "keyword": "카타르 축구 국가대표팀",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T05:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZlIDKxyILRodHc7wfnQ0uitAoF7O_akMbgF-lhSevbrUP8N-rYOYXNgKVUks",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[그래픽] 보이저 1호 '1광일' 거리 통과",
-          "url": "https://www.yna.co.kr/view/GYH20261117000600044",
-          "source": "연합뉴스"
+          "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715445",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "우주 심연에서 날아온 ’생존 신호’…보이저 1호 ’1광일 전파’ 수신",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120140419XEz",
-          "source": "연합뉴스TV"
+          "title": "모레노 정식 사령탑 부임 보도에 선 그은 축구협회 \"사실무근\"",
+          "url": "https://www.newsis.com/view/NISX20261120_0003876995",
+          "source": "뉴시스"
         },
         {
-          "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주]",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1288424.html",
-          "source": "한겨레"
+          "title": "“이강인, 기대 많이 했는데” 西 언론 차가운 일침 “LEE 이제는 한 단계 올라가서, 핵심 선수로 거듭나야 한...",
+          "url": "https://sports.khan.co.kr/article/202611202010003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "전현무",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYPMwJmn5aZF7mlZ7COpaKpQ7RMfeG4cTIv51e5Na9m4nw7c9_SRKCz8kfO4",
-      "category": "연예",
+      "keyword": "콜레라",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T05:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_JRfpS0_0e_TZerZZ_YTlou4NMw3hJR7vS09Xbopqf_ltMmIdjjwP80F4UA",
+      "category": "기타",
       "news": [
         {
-          "title": "'공개 연애 두 번' 전현무 \"밤바다 데이트…배가 끊겼다 하기도\"",
-          "url": "https://www.newsis.com/view/NISX20261120_0003877494",
-          "source": "뉴시스"
+          "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "이주연 \"매니저가 화장실까지 쫓아와\"...'이것' 감시 폭로 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014004899150",
+          "title": "10년 만에 국내서 콜레라 환자 발생‥질병청 \"감염 경로 파악 중\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6867275_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "쇼크·사망 부르는 콜레라, 한국서 10년 만 발생…'쌀뜨물 설사' 의심을 - 머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/11/20/2026112014085876352",
           "source": "머니투데이"
-        },
-        {
-          "title": "오렌지캬라멜 리지, '음주운전' 5년 지났지만 방송서 통편집",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GQ4DMOJXMVTGCNJUG42GKM3DMM/",
-          "source": "조선일보"
         }
       ]
     },
