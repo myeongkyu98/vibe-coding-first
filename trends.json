@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-21T18:39:02.663Z",
+  "updatedAt": "2026-11-21T19:42:36.362Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "스포츠",
       "count": 5
     },
     {
-      "category": "스포츠",
+      "category": "기타",
       "count": 4
     },
     {
@@ -17,8 +17,8 @@
   "items": [
     {
       "keyword": "뉴캐슬 대 아스널",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-21T16:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiifcnUnOB3NGhprdmTDXS7cNCKxZgHYs4mq1bySK_jBUDErxx_gjAjHwHjtc",
       "category": "스포츠",
@@ -41,6 +41,31 @@
       ]
     },
     {
+      "keyword": "아스날",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T17:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAj-EayBCbd7BdgJRiLPq9_AvEFUk9-npq0Alz3Fb2Ezg6BScnLoraGa2ch4I",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "아스널의 미켈 아르테타 감독은 선수들의 축구 비디오 게임 플레이를 금지했다.",
+          "url": "https://www.vietnam.vn/ko/hlv-mikel-arteta-cam-cau-thu-arsenal-choi-game-bong-da",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "아르테타 아스날 감독 FPL 정보 유출 경고…내부 단속 나서 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1113265",
+          "source": "재경일보"
+        }
+      ]
+    },
+    {
       "keyword": "채령",
       "traffic": "500+",
       "trafficValue": 500,
@@ -54,23 +79,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-21T17:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStF039HnFbsYzi89WPGRU11l3EBKZXpD6rEqVgqVXunC8XHS-7VDc2UZxDxaw",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAnu_YiDRIxL10sjwiq9GJtCh15T-C9YY-tSyYS_25WGGF1ELmFovN-8Wkk8",
       "category": "스포츠",
       "news": [
+        {
+          "title": "Match Summary",
+          "url": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
+          "source": "BBC"
+        },
         {
           "title": "Team news: Eze in, Guimaraes starts at Newcastle",
           "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
           "source": "Arsenal.com"
         },
         {
-          "title": "Latest. Confirmed line-up: Miley and Willock in for Gunners game",
-          "url": "https://www.newcastleunited.com/en/news/arsenal-h-team-news-26-27",
-          "source": "Newcastle United"
-        },
-        {
-          "title": "HT: EZE’S GOAL THE DIFFERENCE AT THE BREAK",
-          "url": "https://www.besoccer.com/new/live-newcastle-v-arsenal-1442613",
-          "source": "BeSoccer Livescore"
+          "title": "Newcastle and Arsenal face off: Ødegaard's 3 goals vs. Barnes' 2 goals : EPL : JKN",
+          "url": "https://news.jkn.co.kr/editions/english/post/1112635",
+          "source": "재경일보"
         }
       ]
     },
@@ -93,8 +118,8 @@
           "source": "Sports - Orange"
         },
         {
-          "title": "Match : Nice/PSG (1-3), le but de Ferran Torres en video",
-          "url": "https://www.culturepsg.com/news/match/nice-psg-1-3-le-but-de-ferran-torres-en-video/61616",
+          "title": "« Safonov a un petit déficit d’image » selon un ancien gardien du PSG",
+          "url": "https://www.culturepsg.com/ja/news/club/safonov-a-un-petit-deficit-dimage-selon-un-ancien-gardien-du-psg/61610",
           "source": "CulturePSG"
         }
       ]
@@ -154,48 +179,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-21T17:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1_Ul4D6CrgIROKy9qM2xYoqEVXX_FtSBkGGC_GbWm1l65IGG0BzluFJCE1A",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDxaHZTgBoCgwd_dE2dNGK8o4q9LuaoGoaFLppt8VEnu8zIky2ITe1ylraAis",
       "category": "기타",
       "news": [
         {
-          "title": "Grosse inquiétude pour Désiré Doué, sorti sur civière",
-          "url": "https://www.sofoot.com/breves/nice-psg-desire-doue-evacue-sur-civiere-apres-une-torsion-du-genou",
-          "source": "SO FOOT.com"
+          "title": "Nice 2-3 PSG : rapport de match de Ligue 1 et histoire des xG",
+          "url": "https://www.sofascore.com/fr/news/nice-2-3-psg-rapport-de-match-de-ligue-1-et-histoire-des-xg",
+          "source": "Sofascore"
         },
         {
-          "title": "Nice renversé, le PSG profite d'un penalty litigieux",
-          "url": "https://www.foot01.com/paris/nice-renverse-le-psg-profite-dun-penalty-litigieux",
-          "source": "Foot01"
+          "title": "PSG - La réaction de Ferran Torres, buteur, après la victoire du PSG face à l'OGC Nice",
+          "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-la-reaction-de-ferran-torres-buteur-apres-la-victoire-du-psg-face-a-l-ogc-nice-546534.html",
+          "source": "MadeInFoot"
         },
         {
-          "title": "VIDÉO. \"J’ai envie de chialer\" Alors qu'il venait de redonner l'avantage à son équipe, un international français évacué sur civière, gravement blessé à un genou",
-          "url": "https://www.ladepeche.fr/2026/11/21/video-jai-envie-de-chialer-alors-quil-venait-de-redonner-lavantage-a-son-equipe-un-international-francais-evacue-sur-civiere-gravement-blesse-a-un-13664841.php",
-          "source": "ladepeche.fr"
-        }
-      ]
-    },
-    {
-      "keyword": "arsenal",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T16:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUke79F93mMUGmUJcsh-F8ybW3m6wyOhXexR-UwUMdMDGkYwvK_BakpIypqlI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Match Summary",
-          "url": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
-          "source": "BBC"
-        },
-        {
-          "title": "Williams-Barnett scores and assists on debut as Tottenham beat Ipswich 2-0",
-          "url": "https://biz.chosun.com/en/en-sports/2026/11/22/HMHOMQIGR5DI5HSJZELJP3T2JM/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "Tottenham's 18-Year-Old Stars in 2-0 Victory",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/22/C2G4SSCA4NCHPLES3DRPVTLNHU/",
-          "source": "조선일보"
+          "title": "PSG : Luis Enrique salue le caractère de son groupe",
+          "url": "https://www.footmercato.net/a279839106408574924-psg-luis-enrique-salue-le-caractere-de-son-groupe",
+          "source": "Foot Mercato"
         }
       ]
     },
@@ -238,14 +238,14 @@
           "source": "Olé"
         },
         {
-          "title": "EN VIVO: Finaliza la primera parte con ventaja 1-0 para Como 1907 sobre Cagliari",
-          "url": "https://anecdotarios.com/2026/11/21/como-1907-vs-cagliari-previa-horario-y-como-llegan-para-la-fecha-12/",
-          "source": "Anecdotarios"
-        },
-        {
           "title": "Jacobo Ramón y Da Cunha devuelven al Como a la zona Champions",
           "url": "https://www.sport.es/es/noticias/futbol-internacional/calcio/jacobo-ramon-da-cunha-devuelven-136700634",
           "source": "SPORT"
+        },
+        {
+          "title": "Como – Cagliari: horario y dónde ver hoy por TV el partido de fútbol de la Serie A",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261121/2470/horario-partido-ca-como-cagliari-ctx.html",
+          "source": "La Vanguardia"
         }
       ]
     }
