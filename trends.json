@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:39:40.501Z",
+  "updatedAt": "2026-11-21T16:40:10.682Z",
   "summary": [
     {
       "category": "스포츠",
@@ -14,191 +14,95 @@
       "count": 2
     },
     {
-      "category": "경제",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "첼시 대 리즈 유나이티드",
+      "keyword": "man city vs fulham f.c. standings",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-21T14:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkDED9jnf_ugDbB_q86JGWSEx0Pt-Y1H9oGxjmVSIHI64NUtj8r2lWJwyjTUM",
+      "startedAt": "2026-11-21T15:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WWHcFUxWiDvU31c2I2RmvXOC0xZRXrEFHEnlwDZevqiFCN4KH2cwM-RAE8s",
       "category": "스포츠",
       "news": [
         {
-          "title": "첼시 대 리즈: 상대 전적 통계 및 역사적 이정표",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/chelsea-vs-leeds-thong-ke-doi-dau-va-nhung-cot-moc-lich-su-1803727.ldo",
-          "source": "Laodong.vn"
+          "title": "Manchester City 1-1 Fulham: Anderson rescues point for hosts",
+          "url": "https://www.bbc.com/sport/football/live/c3kgdxnggq7pt",
+          "source": "BBC"
         },
         {
-          "title": "첼시와 알론소 감독이 직면한 어려운 딜레마.",
-          "url": "https://www.vietnam.vn/ko/chelsea-va-bai-toan-nan-giai-cho-hlv-alonso",
-          "source": "Vietnam.vn"
+          "title": "Manchester City draw with Fulham to extend winless Premier League run to 4 games",
+          "url": "https://biz.chosun.com/en/en-sports/2026/11/22/WXUCUY7ADNAVPITNTGAQUTRDDM/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "첼시 vs 리즈 경기 예측: 우승 경쟁의 뜨거운 승부",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-chelsea-vs-leeds-diem-nong-cuoc-dua-top-dau",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "ai 버블",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T14:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHUnRyOK2iHOsh5EcIfe3ejs0a3BMay8W6tKjVdCHnQ7RU8OcN1Jcne2g82jQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "개미들 덮친 170조 폭탄…패닉셀 부른 '숨은 리스크' 있었다",
-          "url": "https://www.hankyung.com/article/202611211559i",
-          "source": "한국경제"
-        },
-        {
-          "title": "나스닥 5.3% 폭락 '검은 금요일'‥올해 상승분 모두 반납",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867504_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "뉴욕증시 또 급락…“돌파구가 보이지 않아”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719192",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "george munsey",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-21T13:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEWapRM03h0E5hb-3NspdI1QySqIl2hMPgtZHGTLLfU9uBgGPH5UNpES-KZG8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Final (D/N), Nepal Premier League at Kirtipur, Nov 21 2026",
-          "url": "https://www.espn.com/cricket/series/23081/scorecard/1558613/lumbini-lions-npl-vs-sudur-paschim-royals-npl-final-nepal-premier-league-2026-27",
-          "source": "ESPN"
-        },
-        {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://www.cricbuzz.com/player-match-performance/match/177841/player/14220/batting?inningsId=1",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Fans protest after failing to secure tickets for NPL final match",
-          "url": "https://english.deshsanchar.com/fans-protest-after-failing-to-secure-tickets-for-npl-final-match/",
-          "source": "Deshsanchar"
+          "title": "Premier League predictions & Jones Knows' best bets: Newcastle vs Arsenal, Liverpool vs Manchester United and much more!",
+          "url": "https://www.skysports.com/football/news/13611640/premier-league-predictions-and-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
+          "source": "Sky Sports"
         }
       ]
     },
     {
       "keyword": "코번트리 대 크리스털 팰리스",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-21T14:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVJXFyAYR4UWFejYUhe1ciilK9yQbXQcvX2QwApaIdrWphnP6CmMPy8nhDVGk",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZTtUcZmMJd49TaE7aXT-YQei6JlWqGwDDtXGMK-CVGhhBSN4A0L91mVNavPQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "Man City 1-1 Fulham (Nov 21, 2026) Game Analysis",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401879233",
-          "source": "ESPN"
+          "title": "Coventry vs Crystal Palace LIVE! Premier League match updates, news and score",
+          "url": "https://www.skysports.com/football/live-blog/13610683/coventry-vs-crystal-palace-live-premier-league-match-updates-news-and-score",
+          "source": "Sky Sports"
         },
         {
-          "title": "Man City vs. Fulham (Nov 21, 2026) Team Stats",
-          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879233/league/eng.1",
-          "source": "ESPN"
-        },
-        {
-          "title": "Galatasaray vs. Aston Villa (Nov 24, 2026) Odds and Spread",
-          "url": "https://www.espn.com/soccer/odds/_/gameId/401915300",
-          "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "묀헨글라트바흐 대 도르트문트",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T13:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlqZ5zPGYKkLshqjZCpSy2LtmcpdgR3YF3ymaMzpIy5gosUsYmnd_rYviZ454",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'독일 무대에서 사라졌던 태극전사, 마침내 돌아왔다' 옌스 카스트로프, 시즌 22분 출전 설움 딛고 BVB전 선발 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/202611212319775906O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘韓축구 풀백의 희망’ 옌스, BVB전서 첫 선발 출격 전망...“빠르게 투입 가능”",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101034",
-          "source": "포포투"
-        },
-        {
-          "title": "'韓 국가대표' 카스트로프...마침내 100%로 돌아왔다! 어깨 수술→3개월 만에 선발 출격 임박 \"왼쪽 측면 배치될 것으로 보여\"",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553718289",
-          "source": "스포탈코리아"
-        }
-      ]
-    },
-    {
-      "keyword": "쇼메이커",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpj783zMRVTgFBIMouU2ygIBuL0sDbg2SoDsTPG8meh63PF5cc79m45tnpU54",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
-          "url": "https://www.koreadaily.com/article/20261120154610301",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "[단독] ‘카나비’ 서진혁, ‘씨맥’ 품으로 가나… DK행 유력, 최종 협상 진행 중",
-          "url": "https://www.osen.co.kr/article/G1112912801",
-          "source": "OSEN"
-        },
-        {
-          "title": "‘쇼메이커·스매쉬·씨맥’ 잔류…디플러스 기아, 핵심 전력 지켰다",
-          "url": "https://www.kukinews.com/article/view/kuk202611200021",
-          "source": "쿠키뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "우니온 베를린 대 라이프치히",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T14:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpr5byKYx3hyqvIDMdlodYE3eRIEDmyDHSm4XMJ1FV85h79VqJFT7ivSAq95g",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Confirmed lineups: 1.FC Union Berlin vs. RB Leipzig",
-          "url": "https://sports.yahoo.com/articles/confirmed-lineups-1-fc-union-133000412.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Union Berlin vs RB Leipzig: German Bundesliga stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c6vg2pxggjzpt",
+          "title": "Coventry City vs Crystal Palace: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c6pw42nwwgvjt",
           "source": "BBC"
         },
         {
-          "title": "Licensable picture: Bundesliga - 1. FC Union Berlin v RB Leipzig",
-          "url": "https://www.reutersconnect.com/item/bundesliga-1-fc-union-berlin-v-rb-leipzig/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxNUVYRzI",
+          "title": "Licensable picture: Premier League - Coventry City v Crystal Palace",
+          "url": "https://www.reutersconnect.com/item/premier-league-coventry-city-v-crystal-palace/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwxNkZISVA",
           "source": "Reuters Connect"
         }
       ]
     },
     {
-      "keyword": "그것이 알고싶다",
+      "keyword": "채령",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T15:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "권순우",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-21T14:00:00.000Z",
+      "startedAt": "2026-11-21T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-RzjDYybKG5prBKEJjZ5k7IvIuAJQoGPfOwvnBuU2-f4MQqcN07x9_RiCgA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'타이브레이크 역전쇼' 권순우, 시즌 4번째 4강 [ATP 메츠챌린저]",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344",
+          "source": "테니스코리아"
+        },
+        {
+          "title": "권순우, 프랑스 메츠챌린저 8강.. 시즌 5번째 톱 100 선수 격돌 성사",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54340",
+          "source": "테니스코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "엑셀방송",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T15:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyMCRII_0da3DcSLE6LflYvor30tLk1LjLZnZWXPaHfMO9lipPHrshDhQGDPE",
       "category": "연예",
       "news": [
@@ -216,6 +120,106 @@
           "title": "벗고 때리고 괴식 먹이고…'그알', '사이버 룸살롱' 엑셀 방송 실태 파헤친다",
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855261",
           "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "chelsea vs leeds",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T14:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSzHjcToc3-k1d8IiNVLYlLCjWmGbCLmHbCI-KsfAb6qi2BjCshGOz13dr23E",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders",
+          "url": "https://weaintgotnohistory.sbnation.com/premier-league/174205/chelsea-fans-preferred-lineup-against-leeds-united-back-four-and-mike-penders",
+          "source": "We Ain't Got No History"
+        },
+        {
+          "title": "Okafor immediately responds for Leeds v. Chelsea",
+          "url": "https://www.nbcsports.com/watch/watch/premier-league/noah-okafor-immediately-responds-for-leeds-against-chelsea",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "How to watch Chelsea vs Leeds United soccer for free today: English Premier League live stream, TV channel, o",
+          "url": "https://www.oregonlive.com/tv/2026/11/how-to-watch-chelsea-vs-leeds-united-soccer-for-free-today-english-premier-league-live-stream-tv-channel-odds.html",
+          "source": "OregonLive.com"
+        }
+      ]
+    },
+    {
+      "keyword": "장동혁",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T14:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxaWxLe6QF1xRoqyEOQ-d2AbfXzEksLEc9d2Bonmf3ceNfPCff21RvirCwqdM",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "이 대통령 \"5500억 환수가 배임이면…\" 대장동 업자 인터뷰 SNS에 공유",
+          "url": "https://news.jtbc.co.kr/article/NB12329146",
+          "source": "JTBC"
+        },
+        {
+          "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "이 대통령, 대장동 인터뷰 공유…“5,500억 공익 환수가 배임인가”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719095",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "쇼메이커",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T14:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayeyqpaXK0oBd39qOvRFb2AxNKlyh9zve_p4bRK-sU2c4T_twAWiT-N8jcyM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[단독] ‘카나비’ 서진혁, ‘씨맥’ 품으로 가나… DK행 유력, 최종 협상 진행 중",
+          "url": "https://www.koreadaily.com/article/20261119231915586",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
+          "url": "https://www.osen.co.kr/article/G1112913126",
+          "source": "OSEN"
+        },
+        {
+          "title": "‘쇼메이커·스매쉬·씨맥’ 잔류…디플러스 기아, 핵심 전력 지켰다",
+          "url": "https://www.kukinews.com/article/view/kuk202611200021",
+          "source": "쿠키뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "민효린",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T14:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDC8Gix1XP-Nmfm4oitysKpEGmPaKNDjhiR1f2f83dfnHCa-33UIuj0vhq5eM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "빅뱅, 데뷔 20주년에 'MAMA' 수상 겹경사..\"기분 좋은 상\"",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/21/MQ4DAMLFGBTDGZBTMQZTSOBRHE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "지드래곤도 감당 안되는 5대5 긴 생머리 '파격'..수상소감 방해하자 '대성 투입' [핫피플]",
+          "url": "https://www.koreadaily.com/article/20261121034550373",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "빅뱅 태양, 무대를 지배하는 자",
+          "url": "https://www.news1.kr/photos/8226435",
+          "source": "뉴스1"
         }
       ]
     },
@@ -238,34 +242,9 @@
           "source": "경남매일"
         },
         {
-          "title": "‘독박투어’ 김준호, 2세 ‘두릅이’ 위해 역사 지식 대방출",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435707",
-          "source": "데일리스포츠한국"
-        }
-      ]
-    },
-    {
-      "keyword": "tvn",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T14:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5R5WxHmjT84vuiVoDQq5KTkRBXRpzqjWiqnGCmczdofE6vJLFG3iNrUopm9M",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Podejście do fontanny di Trevi kosztuje turystów 2 euro. Turyści rzadziej wrzucają monety",
-          "url": "https://www.rp.pl/spoleczenstwo/art45523031-turysci-wrzucali-do-fontanny-di-trevi-fortune-teraz-zebrano-o-200-tys-euro-mniej",
-          "source": "Rzeczpospolita"
-        },
-        {
-          "title": "Straty liczą w setkach tysięcy euro. Chodzi o słynną atrakcję turystyczną w Rzymie",
-          "url": "https://www.polsatnews.pl/wiadomosc/2026-11-21/turysci-odwiedzajacy-fontanne-di-trevi-mniej-hojni-wylowiono-mniej-monet/",
-          "source": "PolsatNews.pl"
-        },
-        {
-          "title": "Milionowe wpływy pod znakiem zapytania. Turyści w Rzymie zmieniają swoje zwyczaje",
-          "url": "https://dziendobry.tvn.pl/podroze/oplata-za-dostep-i-cyfrowa-rewolucja-rzymska-atrakcja-traci-na-popularnosci-wsrod-darczyncow-st9351098",
-          "source": "Dzień Dobry TVN"
+          "title": "'독박투어' 김준호, “아빠는 역사 다 알지” 김해 역사 투어에서 준비된 '아빠미’ 폭발",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021166",
+          "source": "SPOTV NEWS"
         }
       ]
     }
