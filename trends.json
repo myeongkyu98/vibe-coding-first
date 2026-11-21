@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:40:39.552Z",
+  "updatedAt": "2026-11-21T12:47:06.722Z",
   "summary": [
     {
       "category": "기타",
@@ -7,11 +7,7 @@
     },
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "경제",
-      "count": 1
+      "count": 4
     }
   ],
   "items": [
@@ -23,6 +19,56 @@
       "picture": "",
       "category": "기타",
       "news": []
+    },
+    {
+      "keyword": "man city vs fulham",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T11:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWtn8zWl9bc15X7eDVgWK6gjFz7H0GyTisyd9Kj15fRt0NtJyiwv_mV4SfiM",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Newcastle vs Arsenal, Liverpool vs Manchester United and much more!",
+          "url": "https://www.skysports.com/football/news/13611640/premier-league-predictions-and-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Licensable picture: Premier League - Manchester City v Fulham",
+          "url": "https://www.reutersconnect.com/item/premier-league-manchester-city-v-fulham/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwwWDhYNUs",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Man City vs Fulham preview: Maresca seeks to end losing run at the Etihad",
+          "url": "https://dave.sport/news/man-city-vs-fulham-preview-losing-run-team-news/",
+          "source": "Dave.Sport"
+        }
+      ]
+    },
+    {
+      "keyword": "이정후",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T10:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTal7qxYMpkE9pbxfjm6EQVFGnXK-SsQxuD22QxxIaw87fNN7C6vqKa42wm-2g",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"내보내야\" vs \"팔기 어렵다\"…SF 이정후 두고 엇갈린 시선",
+          "url": "https://www.yna.co.kr/view/AKR20261121025500007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'타율 0.366→0.223' 이정후 충격 기복, 美 일침 \"맞히는 것만으론 부족해, 장타자 될 필욘 없어\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112111230199053",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[MLB] 美 매체 \"SF, 슈미트 지키고 이정후 트레이드해야\"",
+          "url": "https://www.newspim.com/news/view/20261121000081",
+          "source": "뉴스핌"
+        }
+      ]
     },
     {
       "keyword": "최백호",
@@ -59,27 +105,52 @@
       ]
     },
     {
-      "keyword": "이정후",
+      "keyword": "npl",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-21T10:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ14jyqAJoTXmzugChak_vgDADUIdymp9ajd3fhR4bUwGaDI1IemSPFOQdtPYY",
-      "category": "경제",
+      "startedAt": "2026-11-21T11:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd9ydp7SneOgYmu-Drsd8vvvwUelsyEvW1G1u1jJe5VqU-IpIUZR1F6W5fJ30",
+      "category": "스포츠",
       "news": [
         {
-          "title": "\"1513억 투자했는데 기대에 못 미친다\" 이정후 향한 美 현지의 냉정한 평가…2027년이 중요하다",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/MQ3TMZTGMNRDQMJQMFSTQMJVME/",
-          "source": "조선일보"
+          "title": "Match Predictions: Nepal Premier League 2026 - Final - Lumbini Lions vs Sudurpaschim Royals - 21st November",
+          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-final-lumbini-lions-vs-sudurpaschim-royals-21st-november/114455.htm",
+          "source": "Cricket World"
         },
         {
-          "title": "'타율 0.366→0.223' 이정후 충격 기복, 美 일침 \"맞히는 것만으론 부족해, 장타자 될 필욘 없어\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112111230199053",
-          "source": "머니투데이"
+          "title": "Nepal Premier League final 2026 live stream, TV channel and start time for Sudur Paschim Royals vs. Lumbini Lions",
+          "url": "https://www.sportingnews.com/in/cricket/news/nepal-premier-league-final-2026-live-stream-tv-channel-start-time-royals-lions/518ead895a8cfd7eba5f8d91",
+          "source": "Sporting News"
         },
         {
-          "title": "“내보내야” vs “팔기 어렵다”…SF 이정후 두고 엇갈린 시선",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719101",
-          "source": "KBS 뉴스"
+          "title": "Fans protest after failing to secure tickets for NPL final match",
+          "url": "https://english.deshsanchar.com/fans-protest-after-failing-to-secure-tickets-for-npl-final-match/",
+          "source": "Deshsanchar"
+        }
+      ]
+    },
+    {
+      "keyword": "전투기 조종사",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUx-zPzO_lWWEP28243yLnGS-9Xp2jEJr8quvuKFjSnevyMuMOurwSz5TAujo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "전투기 조종사도 주머니에 쏙···이란 전쟁 미군 사로잡은 ‘이 간식’",
+          "url": "https://www.khan.co.kr/article/202611211548001",
+          "source": "경향신문"
+        },
+        {
+          "title": "'땅콩버터 간식' 집착하는 美항모 장병들…\"격추보다 깜빡할까 걱정\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121038600009",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "미 항모서 하루 1600개씩 사라지는 간식… 전투기 조종사도 푹 빠졌다",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3450903",
+          "source": "천지일보"
         }
       ]
     },
@@ -97,14 +168,14 @@
           "source": "OSEN"
         },
         {
+          "title": "T1, 김정균 감독·임재현 대행·조세형 코치 계약 종료",
+          "url": "https://www.dailyesports.com/view.php?ud=20261121190752574174bcc1e038_27",
+          "source": "데일리e스포츠"
+        },
+        {
           "title": "[단독] '엄티' 엄성현, 2027 시즌 T1 코치진 합류 유력",
           "url": "https://www.xportsnews.com/article/2220350",
           "source": "엑스포츠뉴스"
-        },
-        {
-          "title": "[오피셜] T1, 김정균, 임재현, 조세형 코칭 스태프와 계약 종료",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323688&site=lol",
-          "source": "인벤"
         }
       ]
     },
@@ -113,98 +184,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-21T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrDOrfM7X1IbXdsTqmVNrfB6zagrKu3xp38y0vwI_KsksF0CHZWOsPJ1q0D4w",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOF8uQI6dYqhWezgMzL6r0jecaS2fyvqxx5NKjNz2hBAHCV-pRMOkTxzBp78",
       "category": "기타",
       "news": [
         {
-          "title": "로이킴, 13년만 첫 KSPO돔 입성…“노래로 눈물 닦였기를”",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719081",
-          "source": "KBS 뉴스"
+          "title": "존박, 도대체 몇 다리를 걸치는 거야…'마성의 남자'의 최종 선택은? (놀뭐)",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/21/MI3WGM3CGQ3DENDBMI4TKMJRHA/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "로이킴, 케이스포돔에 지은 '집'…모서리 없는 원(圓)서 풀려난 울음 [선율의 밑줄]",
-          "url": "https://www.newsis.com/view/NISX20261121_0003877529",
+          "title": "맥도날드랩 대세 존박 쟁탈전 \"네가 파트너 둘 골라라\"",
+          "url": "https://www.newsis.com/view/NISX20261121_0003877715",
           "source": "뉴시스"
         },
         {
-          "title": "[스경X현장] 음악으로 눈물을 닦아주는, 로이킴의 안식처 ‘R:O:Y’",
-          "url": "https://sports.khan.co.kr/article/202611210024003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "파워리프팅",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T09:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yzY__PjWJz_RJxupQ0-l8RbZNhZHgcPOl-1veQGGlBdbzJMWIPkOJbPMo0I",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"허벅지 둘레 64cm\" 日 여성 선수, 227.5kg 번쩍! '체급의 3.6배' 괴력 미쳤다...\"생애 첫 세계대회서 데드리프트 金\"",
-          "url": "https://www.osen.co.kr/article/G1112911421",
-          "source": "OSEN"
-        },
-        {
-          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
-          "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500051",
-          "source": "서울신문"
-        },
-        {
-          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
-          "url": "https://m.seoul.co.kr/news/international/2026/11/20/20261120500051",
-          "source": "서울신문"
-        }
-      ]
-    },
-    {
-      "keyword": "k리그1",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oBofoGewrJgI4aUzPsP8EB_62SSxpXKOF1RRPAiQ85dS1u81GPXGncaodCo",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "승리의 기쁨",
-          "url": "https://www.news1.kr/photos/8226316",
-          "source": "뉴스1"
-        },
-        {
-          "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261121039751007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성 엑시노스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T09:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4sPO0oHT47FpBqfW6w-7FLMD7ySvx4iW5cIr0gw2etwM9XPBZkHKkqUcEslM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "GameNative's new update brings reliable PC gaming to Pixels and Samsung Exynos",
-          "url": "https://tech.yahoo.com/gaming/articles/gamenatives-brings-reliable-pc-gaming-124728335.html",
-          "source": "Yahoo Tech"
-        },
-        {
-          "title": "GameNative just fixed PC gaming on Pixels and Exynos-powered Galaxy phones",
-          "url": "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/",
-          "source": "Android Authority"
-        },
-        {
-          "title": "GameNative Android PC game emulator prepares graphics fixes for Mali, PowerVR and Xclipse GPUs",
-          "url": "https://videocardz.com/newz/gamenative-android-pc-game-emulator-prepares-graphics-fixes-for-mali-powervr-and-xclipse-gpus",
-          "source": "VideoCardz.com"
+          "title": "권정열·로이킴에 김민석·정은지까지 가요제 가세… 치열한 '존박 쟁탈전'",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759066",
+          "source": "국제뉴스"
         }
       ]
     },
@@ -222,14 +218,14 @@
           "source": "연합뉴스"
         },
         {
-          "title": "국기에 대한 경례하는 김민석 대표",
-          "url": "https://www.newsis.com/view/NISI20261121_0021541271",
+          "title": "與 '1030 청년 연설대전' 개최…김민석 \"새로운 민주당 역사의 장 열려\"(종합)",
+          "url": "https://www.newsis.com/view/NISX20261121_0003877824",
           "source": "뉴시스"
         },
         {
-          "title": "김민석 “청년 통해 민주당이 할 일 깨닫길”…소통 확대 강조",
-          "url": "https://view.asiae.co.kr/article/2026112116342009824",
-          "source": "아시아경제"
+          "title": "목 축이는 김민석 대표",
+          "url": "https://www.news1.kr/photos/8226254",
+          "source": "뉴스1"
         }
       ]
     }
