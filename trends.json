@@ -1,113 +1,196 @@
 {
-  "updatedAt": "2026-11-21T20:36:18.962Z",
+  "updatedAt": "2026-11-21T21:34:51.934Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 7
+      "category": "기타",
+      "count": 5
     },
     {
-      "category": "기타",
-      "count": 3
+      "category": "스포츠",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "뉴캐슬 대 아스널",
+      "keyword": "레알 마드리드 대 셀타 비고",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-21T16:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiifcnUnOB3NGhprdmTDXS7cNCKxZgHYs4mq1bySK_jBUDErxx_gjAjHwHjtc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘아스널 희소식’ 살리바 복귀 임박! ‘英 대표’ 콘사로 유지한 방패, 더 단단해진다",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217112",
-          "source": "풋볼리스트"
-        },
-        {
-          "title": "뉴캐슬 복귀와 아스날에서 브루노 기마랑이스의 큰 도전",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/ngay-tro-lai-newcastle-va-thach-thuc-lon-cua-bruno-guimaraes-tai-arsenal-1803974.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "아스널, 뉴캐슬과 2-2 무승부…에제 선제골·마두에케 동점골 : EPL",
-          "url": "https://news.jkn.co.kr/post/1113274",
-          "source": "재경일보"
-        }
-      ]
-    },
-    {
-      "keyword": "레알 마드리드 대 셀타 비고",
-      "traffic": "1000+",
-      "trafficValue": 1000,
       "startedAt": "2026-11-21T19:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVss7d5xoUMGBFoLINKZQeGq0ywcTrYPFX5xMGMyEKJP5nUM781DU6YKSV5R0",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtNyKAQbwFqHopRnTTQN9tcW_4dN0xubyORf94SGUtmTbz09818YzCVW8Zaio",
       "category": "스포츠",
       "news": [
         {
-          "title": "How to watch Real Madrid vs. Celta Vigo online for free",
-          "url": "https://mashable.com/entertainment/real-madrid-celta-vigo-la-liga-2026-live-stream-for-free",
-          "source": "Mashable"
-        },
-        {
-          "title": "Real Madrid vs. Celta Vigo Predictions: Vinicius Junior Returns As Madrid Seek Ninth Consecutive Win",
-          "url": "https://www.si.com/soccer/real-madrid-vs-celta-vigo-predictions-vinicius-junior-returns-madrid-ninth-consecutive-win",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Real Madrid-Celta: Football Returns to the Bernabéu",
-          "url": "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-celta-a-por-la-novena-victoria-consecutiva-en-el-regreso-a-la-liga-21-11-2026",
-          "source": "Real Madrid CF | Web Oficial"
-        }
-      ]
-    },
-    {
-      "keyword": "newcastle vs arsenal",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T17:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
-          "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
-          "source": "BBC"
-        },
-        {
-          "title": "Analysis: Boos for ex-hero Bruno",
-          "url": "https://sports.yahoo.com/articles/analysis-boos-ex-hero-bruno-193724091.html",
+          "title": "Real Madrid legend spotted in attendance at Celta Vigo clash",
+          "url": "https://sports.yahoo.com/articles/real-madrid-legend-spotted-attendance-202500077.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Team news: Eze in, Guimaraes starts at Newcastle",
-          "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
-          "source": "Arsenal.com"
+          "title": "Real Madrid vs Celta Vigo: Spanish La Liga stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c6205wg000g8t",
+          "source": "BBC"
+        },
+        {
+          "title": "CONFIRMED lineups: Real Madrid vs Celta Vigo, 2026 La Liga",
+          "url": "https://www.managingmadrid.com/115628/real-madrid-vs-celta-vigo-2026-la-liga-live-online-stream",
+          "source": "Managing Madrid"
         }
       ]
     },
     {
-      "keyword": "아스날",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T17:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAj-EayBCbd7BdgJRiLPq9_AvEFUk9-npq0Alz3Fb2Ezg6BScnLoraGa2ch4I",
-      "category": "스포츠",
+      "keyword": "왕즈이",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T20:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrc5thrlOxOO_3TSHqDH4eZNOZRD9SX6f-mvdyAYxCzsNNPMSgzvpjdIwvKg",
+      "category": "기타",
       "news": [
         {
-          "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O",
+          "title": "'안세영 피했더니 이번엔 왕즈이가 기다렸다' 일본 '배드민턴 요정' 미야자키, 2주 연속 같은 상대에게 무릎, 준결승서 탈락",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/21/GI2GKMTEGQYDKNJUMRSDIMRSGQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'55연승' 안세영과 경쟁할 7명 다 나왔다... 유일한 패배 안긴 왕즈이부터 '여자단식 최다' 11번째 파이널스 앞둔 인타논까지 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112106483211136",
           "source": "머니투데이"
         },
         {
-          "title": "아스널의 미켈 아르테타 감독은 선수들의 축구 비디오 게임 플레이를 금지했다.",
-          "url": "https://www.vietnam.vn/ko/hlv-mikel-arteta-cam-cau-thu-arsenal-choi-game-bong-da",
-          "source": "Vietnam.vn"
+          "title": "10점 차 뒤집은 인도 19세 신예, 세계 4위 천위페이 꺾었다",
+          "url": "https://www.etoday.co.kr/news/view/2650865",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "배추",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4ullKqxr0A9e7lkwiFggHTQyM8SNrLLevpJpxSe5kcB8JJ375sdgPMXBoBnI",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "새마을운동 남원시지회, 사랑의 김장나누기 봉사활동",
+          "url": "https://sjbnews.com/news/news.php?number=893138&year=2026",
+          "source": "새전북신문"
         },
         {
-          "title": "아르테타 아스날 감독 FPL 정보 유출 경고…내부 단속 나서 : 스포츠",
-          "url": "https://news.jkn.co.kr/post/1113265",
-          "source": "재경일보"
+          "title": "[금주의 의정부시] 의정부1동주민센터, 취약계층 위한 ‘사랑가득 김장나눔’ 개최 外",
+          "url": "https://www.joongboo.com/local/articleView.html?idxno=363743145",
+          "source": "중부일보"
+        },
+        {
+          "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006422",
+          "source": "국제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "알렉산더 즈베레프",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T20:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSP6ilb0iOrE7QaTaDWKo67WRD21aZabxzxbdV1gt-ho_TP3AMC-3Xpw0tcbMg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "라파엘 호다르, 니토 ATP 파이널서 벤 셸턴 상대 포핸드",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758896",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "테니스 셸턴, 생애 첫 ATP 파이널스 4강 진출…알카라스와 대결",
+          "url": "https://www.news1.kr/sports/general-sport/6360430",
+          "source": "뉴스1"
+        },
+        {
+          "title": "[ATP 파이널스] 8개월 공백 딛고 첫 토리노行… 피스의 2026시즌 해피엔딩",
+          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54301",
+          "source": "테니스코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "real madrid vs celta",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T20:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaq2wNr4xNL6c6ZVVt-8bp0VpGkKQ0hubQlnBdj2pKyZFogFIBuZJbarfEkI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Real Madrid - Celta en directo | Comienza la segunda parte en el Bernabéu",
+          "url": "https://elpais.com/deportes/futbol/2026-11-21/real-madrid-celta-en-directo-el-partido-de-la-liga-en-vivo.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "El significativo gesto de Florentino con Endrick al saludarle",
+          "url": "https://as.com/futbol/videos/el-significativo-gesto-de-florentino-con-endrick-al-saludarle-f202611-v/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "Cucurella y Su previa de partido contra celta de Vigo",
+          "url": "https://hsbnoticias.com/noticias/cucurella-y-su-previa-de-partido-contra-celta-de-vigo",
+          "source": "HSB Noticias"
+        }
+      ]
+    },
+    {
+      "keyword": "베냐민 네타냐후",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T20:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdb89Tmqzwi-XwStFLyyacBsuYOPcIu91Pi1WJkAjjnXaYCpSE481nr7Jdt6w",
+      "category": "기타",
+      "news": [
+        {
+          "title": "트럼프는 서두르지 않겠다는데‥이란 추가공격 압박 커져",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6867488_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122001000071",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "트럼프 \"이란 핵무기 보유 막을 영구 합의 원해\"…협상 재개 모색",
+          "url": "https://www.newsis.com/view/NISX20261122_0003877866",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "입양",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T19:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgF8RlOuy9u8BjQodfuLW1IsoIn0wEEQ562Qmnm4thDHdIFtucKzUcDRPd-O0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[김봉섭 칼럼] 해외입양, 한국 현대사의 ‘아픈 손가락’-3",
+          "url": "https://www.worldkorean.net/news/articleView.html?idxno=58274",
+          "source": "월드코리안뉴스"
+        },
+        {
+          "title": "[김봉섭 칼럼] 해외입양, 한국 현대사의 ‘아픈 손가락’-2",
+          "url": "https://www.worldkorean.net/news/articleView.html?idxno=58236",
+          "source": "월드코리안뉴스"
+        },
+        {
+          "title": "유기 동물 구조에서 입양까지...'반려동물 복지센터'",
+          "url": "https://www.ytn.co.kr/_ln/0115_202611220022451002",
+          "source": "YTN"
         }
       ]
     },
@@ -116,148 +199,73 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-21T18:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhKeucFn_ZV11I-GobepF2cfBfi196bn_n8vdSYD4wmZT6urjNBG-ZwX-wnA",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtPIMgpcS_esnNlUKxyLnNDOAZF4QOYqwYrtifKDa7ZrmbmMSS4yvlVcFE7Ok",
       "category": "기타",
       "news": [
         {
-          "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
-          "url": "https://www.yna.co.kr/view/AKR20261121046400099",
+          "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+          "url": "https://www.yna.co.kr/view/AKR20261122002700099",
           "source": "연합뉴스"
         },
         {
-          "title": "이란군 \"방공미사일로 美 F-16 전투기 공격…비상착륙\"",
-          "url": "https://www.news1.kr/world/middleeast-africa/6361755",
-          "source": "뉴스1"
+          "title": "2028 유엔 해양총회…성과로 이어지려면",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8714693",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "이란, 미 F-16 손상·드론 격추 주장…오만 인근 유조선 피격",
-          "url": "https://kr.investing.com/news/economy-news/article-2186171",
-          "source": "Investing.com 한국어"
+          "title": "폐막일 넘긴 기후총회, 캄보디아 학교를 보라",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287058",
+          "source": "OhmyNews"
         }
       ]
     },
     {
-      "keyword": "샬케 대 슈투트가르트",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T17:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8Mm5eNlIGkosCg_nzQ58yK0SaJ58v7aKUY7Pm4KAdYVaoC8zP-I-uJ5TrbBw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "샬케, 슈투트가르트와 0-0 무승부…황희찬 선발 출전 : 해외축구",
-          "url": "https://news.jkn.co.kr/post/1113280",
-          "source": "재경일보"
-        },
-        {
-          "title": "‘모레노호 사우디전 환상 도움’ 韓 국가대표 공격수 황희찬, ‘6경기 무승’ 샬케 구할까… 무슬리치 감독 “선수단 전적으로 신뢰한다”",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314183",
-          "source": "베스트일레븐"
-        },
-        {
-          "title": "황희찬, 2년 연속 대참사 위기…17위 추락에 재정난까지 '초비상'! 9억 못 채우면 승점 삭감까지",
-          "url": "https://yourfield.nexon.com/today/view/2025052909553714772?type=popular",
-          "source": "Your Field"
-        }
-      ]
-    },
-    {
-      "keyword": "nice vs psg",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T16:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-iG1KQLmoBg9iBBjPgicHCQvrPwxTDLjRT0oNlxtQCf6bvMzQ8YKi3RrvG1c",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Nice - PSG : les compositions officielles",
-          "url": "https://www.footmercato.net/a4542289172314082946-nice-psg-les-compositions-officielles",
-          "source": "Foot Mercato"
-        },
-        {
-          "title": "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1",
-          "url": "https://sports.orange.fr/videos/football/mini-feux-d-artifice-chants-fumigenes-l-ambiance-monte-d-un-cran-avant-nice-psg-foot-ligue-1-CNT000002tWg1g.html",
-          "source": "Sports - Orange"
-        },
-        {
-          "title": "Mohamed Abdelmonem forfait contre le PSG, une nouvelle blessure pour le défenseur égyptien - Sports - Sports",
-          "url": "https://french.ahram.org.eg/NewsContent/6/51/96094/Sports/Sports/Mohamed-Abdelmonem-forfait-contre-le-PSG,-une-nouv.aspx",
-          "source": "Ahraminfo"
-        }
-      ]
-    },
-    {
-      "keyword": "psg",
+      "keyword": "1박 2일",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-21T17:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6k9DIW15WVRdRxlkaAU9zVLe1WBSTF5TlyJESv2WUzO9FZ8zg79W1WtnJAvs",
-      "category": "기타",
+      "startedAt": "2026-11-21T20:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSveshkDnxg8X6_Ci25EvcayAwlEGqkgl7FASmyt7NOAX3-pK09q5BXlRIPL-M",
+      "category": "연예",
       "news": [
         {
-          "title": "Nice - PSG : le but de Ferran Torres après 8 matchs sans marquer",
-          "url": "https://www.footmercato.net/a6298349271251616495-nice-psg-le-but-de-ferran-torres-apres-8-matchs-sans-marquer",
-          "source": "Foot Mercato"
+          "title": "김종민, 나태주 시인 가문과 깜짝 인연? “많이 배우고 있어요” (1박 2일)",
+          "url": "https://sports.donga.com/ent/article/all/20261121/135064733/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "« Ce n’est pas parce qu’il y a deux blessés qu’on va forcément bouger » : Luis Enrique n’est pas certain de recruter pendant le mercato",
-          "url": "https://www.leparisien.fr/sports/football/ligue-1/ce-nest-pas-parce-quil-y-a-deux-blesses-quon-va-forcement-bouger-luis-enrique-pas-pret-a-recruter-pendant-le-mercato-21-11-2026-UMR75NN4GFDVRGLBQBXGCT73YE.php",
-          "source": "Le Parisien"
+          "title": "문세윤·딘딘, 막내 이기택에 고개 숙였다…무슨 일? (1박 2일)",
+          "url": "https://www.mk.co.kr/news/entertain/12215201",
+          "source": "매일경제"
         },
         {
-          "title": "PSG : Doué «va revenir plus fort» après sa blessure, prévient Lucas Hernandez",
-          "url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-doue-va-revenir-plus-fort-apres-sa-blessure-previent-lucas-hernandez-20261121",
-          "source": "Le Figaro"
+          "title": "'예비 父' 김종민, 옷만 남기고 홀연히 잠적? 문세윤 \"능구렁이 인간\" (1박2일)",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/20/MRTGMYJYGQYGCZRSMEYTMYRWMU/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "เชลซี พบ ลีดส์",
+      "keyword": "g80 하이브리드",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-21T16:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQmMA0BTyBupVbSf0Bvec5ATR8BYzYDX_ytpZ3muDXIHjPpja7sxeAtkIuEas",
-      "category": "기타",
+      "startedAt": "2026-11-21T19:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDhVXTkEcJnT9DskKGydk8SkbcI-AmXpqvMLuQ5yIamzfyrsNerVpwRwkIiag",
+      "category": "연예",
       "news": [
         {
-          "title": "เอ็มมานูเอล เอเมก้า: ผมจะพร้อมเมื่อโอกาสมาถึง และผมสนุกกับทุกวันที่เชลซี‍‍‌⁠‌‌‍‌​​‌‌​⁠​‌​⁠​​​⁠​​​⁠​​​⁠​‌‌",
-          "url": "https://www.allfootballapp.com/th/articles/6012815",
-          "source": "AllFootball"
+          "title": "제네시스, ‘G80 하이브리드’ LA서 첫 공개…연비 34% 개선",
+          "url": "https://www.khan.co.kr/article/202611200923001",
+          "source": "경향신문"
         },
         {
-          "title": "เชลซีและสถานการณ์ที่ยากลำบากสำหรับผู้จัดการทีมอย่างอลอนโซ่",
-          "url": "https://www.vietnam.vn/th/chelsea-va-bai-toan-nan-giai-cho-hlv-alonso",
-          "source": "Vietnam.vn"
+          "title": "'하이브리드는 2028년형' 현대차, 신형 아반떼 미국 출시·가격 비공개",
+          "url": "https://auto.danawa.com/news/?Work=detail&no=6084142&Tab=N1&p=&NewsGroup=M",
+          "source": "다나와 자동차"
         },
         {
-          "title": "เชลซี เกลียวหลุดคาบ้าน โดน ลีดส์ ยูไนเต็ด แซงดับ 4-1 บุกมาคว้าชัยที่ สแตมฟอร์ด บริดจ์ ในรอบ 27 ปี !",
-          "url": "https://mainstand.co.th/index.php/th/news/1/article/27643",
-          "source": "Mainstand"
-        }
-      ]
-    },
-    {
-      "keyword": "como vs cagliari",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T15:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcoHem2-98enTFFBaSZxsDLibZkxCbmT2yrWRkQyRNdZIOhVas2wbewa0PmGg",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Nico Paz jugó media hora en el triunfo del Como ante Cagliari por la Serie A :: Olé - ole.com.ar",
-          "url": "https://www.ole.com.ar/futbol-internacional/nico-paz-partido-cagliari-serie_0_eJijvdpDLg.html",
-          "source": "Olé"
-        },
-        {
-          "title": "Jacobo Ramón se eleva sobre la zaga sarda y mete al Como en Champions",
-          "url": "https://www.flashscore.es/noticias/jacobo-ramon-marca-y-mete-al-como-entre-los-cuatro-primeros-de-la-serie-a-2-0/ED7gNU9E/",
-          "source": "Flashscore.es"
-        },
-        {
-          "title": "Como – Cagliari: horario y dónde ver hoy por TV el partido de fútbol de la Serie A",
-          "url": "https://www.lavanguardia.com/deportes/futbol/20261121/2470/horario-partido-ca-como-cagliari-ctx.html",
-          "source": "La Vanguardia"
+          "title": "현대자동차, 2026 LA오토쇼 참가",
+          "url": "https://www.motorgraph.com/news/articleView.html?idxno=44994",
+          "source": "모터그래프"
         }
       ]
     }
