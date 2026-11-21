@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:54:29.210Z",
+  "updatedAt": "2026-11-21T14:45:31.048Z",
   "summary": [
     {
       "category": "기타",
@@ -7,7 +7,11 @@
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     },
     {
       "category": "IT·과학",
@@ -16,38 +20,27 @@
   ],
   "items": [
     {
-      "keyword": "man city vs fulham",
+      "keyword": "맨시티",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-21T11:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWtn8zWl9bc15X7eDVgWK6gjFz7H0GyTisyd9Kj15fRt0NtJyiwv_mV4SfiM",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Premier League predictions & Jones Knows' best bets: Newcastle vs Arsenal, Liverpool vs Manchester United and much more!",
-          "url": "https://www.skysports.com/football/news/13611640/premier-league-predictions-and-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "O'Reilly, Bouaddi, Foden start as City make three changes",
-          "url": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856",
-          "source": "Manchester City FC"
-        },
-        {
-          "title": "Licensable picture: Premier League - Manchester City v Fulham",
-          "url": "https://www.reutersconnect.com/item/premier-league-manchester-city-v-fulham/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwwWk1WNzI",
-          "source": "Reuters Connect"
-        }
-      ]
+      "startedAt": "2026-11-21T13:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "김세의",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-21T12:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2BoN0CPmPOSD962DNzyb_v4wxzxwAwXw-cWmZo0cY1FMSef44f1Kdih0UOc0",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfmrDW5958A2GD01J9RpYOQsFcCkd2PFuAzJ5y3X2i3SiVm74WtVPE2HJIfSw",
       "category": "기타",
       "news": [
+        {
+          "title": "김세의, ’명예훼손·협박’ 등 혐의로 추가 기소",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261121083542Js7",
+          "source": "연합뉴스TV"
+        },
         {
           "title": "김세의 '명예훼손·모욕 혐의' 또 기소…피해자 13명",
           "url": "https://www.yna.co.kr/view/AKR20261120167900004",
@@ -57,86 +50,106 @@
           "title": "김세의, 은현장·권영세·전광훈 등 13명 명예훼손·협박 혐의로 추가 기소",
           "url": "https://www.segye.com/newsView/20261120514469",
           "source": "세계일보"
-        },
-        {
-          "title": "'가세연' 김세의, 김수현·쯔양 이어 또 기소…'장사의 신' 등 피해자만 13명 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/20/2026112020513452615",
-          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "로또1251",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T12:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBOP3ZNMV1tpEQahnSNpWYHh-pkuRm5AFkh_LDelvOaK8u_16WL8boyRIV0lQ",
+      "keyword": "전시 작전통제권",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T13:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfAzqKXfOcJaoI68jtX9fRJfGMjpD6oGEUhpw_rs6p8yVONXo_L1KrMm3ikWE",
       "category": "기타",
       "news": [
         {
-          "title": "[속보] 로또 제1251회 1등 14명, 20억 대박…‘14, 18, 19, 29, 40, 45’",
-          "url": "https://www.mk.co.kr/news/society/12215342",
-          "source": "매일경제"
+          "title": "전작권 전환 낙관론의 뿌리는 한국의 오역(誤譯)?",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=57297",
+          "source": "주간조선"
         },
         {
-          "title": "1251회 로또 1등 14명…당첨금 각 20억7천만원(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261121050800002",
+          "title": "비건 前대북대표 \"전작권전환, 역량 아닌 일정에 기초해선 안돼\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121005300071",
           "source": "연합뉴스"
         },
         {
-          "title": "\"회사에서 확인한 로또, 1등 31억 당첨\"…인증글 올린 직장인",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645647032&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "“그 정보 어디서 났나?”…전직 주한미군사령관에 되물은 진성준",
+          "url": "https://m.segye.com/view/20261119512404",
+          "source": "세계일보"
         }
       ]
     },
     {
-      "keyword": "แมนซิตี พบ ฟูลัม",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T12:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTluj8Kp9-UoIacy2oYQCUc59DWhQHL1-wiXtJXGXb-rdcnsow9L8xNk1XGWGc",
+      "keyword": "노동 시장",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T13:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1uQbHEuojKfojOE8H18cmmJCosglPupL7hootzQBkYJpBED5IMpp7IB6u3rk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "정부, 노동시장 이중구조 개선과제 발굴 착수…\"원점에서 재점검\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976181",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "(참고) 모두의 성장으로 대전환을 위해 전 부처 역량 결집 - 양극화 대응 TF 「노동시장 이중구조 개선반」 1차 회의 개최",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458012",
+          "source": "서울Pn"
+        },
+        {
+          "title": "노동시장 양극화 해법 찾는다…노동부, 범정부 개선반 가동",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375051",
+          "source": "전기신문"
+        }
+      ]
+    },
+    {
+      "keyword": "манчестер сити – фулхэм",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T12:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAw7Ie4wPFAoU-TRZP0B7gRTTPPAIWSpWLp-mQn3Ieu_CCcYwRrDw4PXVtIwE",
       "category": "기타",
       "news": [
         {
-          "title": "การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ซิตี้ กับ ฟูแล่ม: ทีมเจ้าบ้านกำลังรอการตอบสนอง",
-          "url": "https://www.vietnam.vn/th/nhan-dinh-manchester-city-vs-fulham-chu-nha-cho-man-dap-loi",
-          "source": "Vietnam.vn"
+          "title": "«Манчестер Сити» объявил решение по Хусанову",
+          "url": "https://www.sports.kz/news/news-672411-manchester-siti-obyyavil-reshenie-po-husanovu",
+          "source": "Sports.kz"
         },
         {
-          "title": "ดูบอลสด แมนซิตี้ พบ ฟูแล่ม ฟุตบอลพรีเมียร์ลีก อังกฤษ คืนนี้ เวลา 19.30 น.",
-          "url": "https://www.sanook.com/sport/1673965/",
-          "source": "Sanook"
+          "title": "Манчестер Сити — Фулхэм. АПЛ. 11-й тур. Прямая трансляция 21 ноября 2026 в 15:30",
+          "url": "https://srrb.ru/translyacii-sportivnyx-sobytij/translyacii-futbol/translyacii-futbol-anglijskaya-premer-liga/manchester-siti-fulxem-apl-11-j-tur-pryamaya-translyaciya-21-noyabrya-2026-v-1530.html",
+          "source": "все трансляции спорта сегодня"
         },
         {
-          "title": "\"เต้ยเป๋าตุง\" ฟันธง (21 พ.ย.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
-          "url": "https://siamrath.co.th/sports/337047",
-          "source": "สยามรัฐ"
+          "title": "«Ман Сити» не смог обыграть «Фулхэм» впервые с 2011 года",
+          "url": "https://irbis.spb.ru/news/2712741/man-siti-ne-smog-obygrat-fulhem-vpervye-s-2011-goda.html",
+          "source": "irbis.spb.ru"
         }
       ]
     },
     {
-      "keyword": "npl",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T11:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd9ydp7SneOgYmu-Drsd8vvvwUelsyEvW1G1u1jJe5VqU-IpIUZR1F6W5fJ30",
-      "category": "스포츠",
+      "keyword": "와콤",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T12:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmvxxtxFhKulxlEpOEwQ_apd6jMJ7kgp_ND7LiJs_zxobHkHccWR3Z9qJ6_jU",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "Match Predictions: Nepal Premier League 2026 - Final - Lumbini Lions vs Sudurpaschim Royals - 21st November",
-          "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-final-lumbini-lions-vs-sudurpaschim-royals-21st-november/114455.htm",
-          "source": "Cricket World"
+          "title": "[단독]MBK, 日 와콤 1조원대 인수…삼성전자도 재출자",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02036886645648016&mediaCodeNo=257",
+          "source": "이데일리"
         },
         {
-          "title": "Nepal Premier League final 2026 live stream, TV channel and start time for Sudur Paschim Royals vs. Lumbini Lions",
-          "url": "https://www.sportingnews.com/in/cricket/news/nepal-premier-league-final-2026-live-stream-tv-channel-start-time-royals-lions/518ead895a8cfd7eba5f8d91",
-          "source": "Sporting News"
+          "title": "‘삼성 갤럭시 S펜 기술 공급사’ 일본 와콤, MBK가 1조원대 인수 추진",
+          "url": "https://www.khan.co.kr/article/202611211636001",
+          "source": "경향신문"
         },
         {
-          "title": "NPL Final Draws Large Crowd at TU Cricket Ground",
-          "url": "https://english.ratopati.com/story/87674/spectators-throng-tribhuvan-university-cricket-ground-to-watch-npl-final",
-          "source": "Ratopati"
+          "title": "갤럭시 S펜 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
+          "url": "https://www.yna.co.kr/view/AKR20261121040900073",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -166,77 +179,52 @@
       ]
     },
     {
-      "keyword": "man city đấu với fulham",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T12:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCO1SJDUscGFv_j2E2RRDTWRFYhn-i6WvmZ1IOA020IC_ef8TbvhBQQD4gTMY",
+      "keyword": "김혜윤",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T13:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnAy5sOxL_XJuhGH_p4WE5dOw88txgwDtesrlVhNoCZbP0hlGJzh5O-CHn_ps",
       "category": "기타",
       "news": [
         {
-          "title": "Trực tiếp bóng đá Man City - Fulham: Hấp dẫn ngay từ đầu (Ngoại hạng Anh)",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-fulham-khong-duoc-phep-say-chan-ngoai-hang-anh-c48a1812819.html",
-          "source": "Tin tức 24h"
-        },
-        {
-          "title": "Man City quyết chặn đứng chuỗi 3 trận thua",
-          "url": "https://laodong.vn/bong-da-quoc-te/man-city-quyet-chan-dung-chuoi-3-tran-thua-1804129.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "HLV Maresca phủ nhận Man City sa sút vì lo lắng bị phạt",
-          "url": "https://thethao.sggp.org.vn/hlv-maresca-phu-nhan-man-city-sa-sut-vi-lo-lang-bi-phat-post882903.html",
-          "source": "BÁO SÀI GÒN GIẢI PHÓNG"
-        }
-      ]
-    },
-    {
-      "keyword": "манчестер сити – фулхэм",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAw7Ie4wPFAoU-TRZP0B7gRTTPPAIWSpWLp-mQn3Ieu_CCcYwRrDw4PXVtIwE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "«Манчестер Сити» объявил решение по Хусанову",
-          "url": "https://www.sports.kz/news/news-672411-manchester-siti-obyyavil-reshenie-po-husanovu",
-          "source": "Sports.kz"
-        },
-        {
-          "title": "Манчестер Сити — Фулхэм. АПЛ. 11-й тур. Прямая трансляция 21 ноября 2026 в 15:30",
-          "url": "https://srrb.ru/translyacii-sportivnyx-sobytij/translyacii-futbol/translyacii-futbol-anglijskaya-premer-liga/manchester-siti-fulxem-apl-11-j-tur-pryamaya-translyaciya-21-noyabrya-2026-v-1530.html",
-          "source": "все трансляции спорта сегодня"
-        },
-        {
-          "title": "Прогноз на матч Манчестер Сити – Фулхэм. Сухого матча на «Этихаде» не ждём",
-          "url": "https://metaratings.ru/prognozy/futbol/manchester-siti-fulhem-prognoz-na-match-apl-21-noyabrya-2026-goda/",
-          "source": "Metaratings"
-        }
-      ]
-    },
-    {
-      "keyword": "와콤",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T12:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmvxxtxFhKulxlEpOEwQ_apd6jMJ7kgp_ND7LiJs_zxobHkHccWR3Z9qJ6_jU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독]MBK, 日 와콤 1조원대 인수…삼성전자도 재출자",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02036886645648016&mediaCodeNo=257",
-          "source": "이데일리"
-        },
-        {
-          "title": "‘삼성 갤럭시 S펜 기술 공급사’ 일본 와콤, MBK가 1조원대 인수 추진",
-          "url": "https://www.khan.co.kr/article/202611211636001",
-          "source": "경향신문"
-        },
-        {
-          "title": "갤럭시 S펜 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
-          "url": "https://www.yna.co.kr/view/AKR20261121040900073",
+          "title": "김혜윤 능력 알아본 장나라…'굿파트너2' 8.4% 출발",
+          "url": "https://www.yna.co.kr/view/AKR20261121023000005",
           "source": "연합뉴스"
+        },
+        {
+          "title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
+          "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "고원희, '굿파트너2' 첫 회 이끈 '입체적 연기력'",
+          "url": "https://www.etnews.com/20261121000028",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "psm makassar vs persija jakarta",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T13:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ypu8HKREWYOqzQdqd2aNlTwjMbtbRyVSIbqXiipf7Nha9zl2Dl7G-5eSN-w",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "PSM Makassar - Persija Jakarta prediction & tips 21.11.2026",
+          "url": "https://www.transfermarkt.com/betting/tips/psm-makassar-vs-persija-jakarta-prediction-21-11-2026/",
+          "source": "Transfermarkt"
+        },
+        {
+          "title": "BRI Super League Schedule November 20–22, 2026: Persib vs Bali United, PSM vs Persija, Check Kick-off Times",
+          "url": "https://aktualita.co/en/sports/bri-super-league-schedule-november-2026",
+          "source": "Aktualita.co"
+        },
+        {
+          "title": "Today's Football Schedule November 21, 2026: PSM vs Persija, Man City, Chelsea, and U-17 World Cup",
+          "url": "https://aktualita.co/en/sports/today-football-schedule-november-21-2026",
+          "source": "Aktualita.co"
         }
       ]
     },
