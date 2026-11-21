@@ -1,279 +1,271 @@
 {
-  "updatedAt": "2026-11-21T22:34:38.383Z",
+  "updatedAt": "2026-11-21T23:32:20.286Z",
   "summary": [
     {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
       "category": "스포츠",
-      "count": 2
+      "count": 4
     },
     {
       "category": "기타",
-      "count": 2
+      "count": 4
     },
     {
-      "category": "생활·날씨",
+      "category": "정치·사회",
       "count": 1
     },
     {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "젠슨 황",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T21:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgzuLmSyvCFcd-DF_tv41V5_WVkNf72_UhdIW93dqSr8tONBM_5xGVpDmLNzQ",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "“불륜 아니다” “너의 뇌에 오줌 누겠다”···젠슨 황 퇴출 부른 건 거짓말과 상습 폭언",
-          "url": "https://www.khan.co.kr/article/202611211444001",
-          "source": "경향신문"
-        },
-        {
-          "title": "“낙태했어야” “머리 열어 소변” “금붕어”…안하무인 젠슨황 父女",
-          "url": "https://www.donga.com/news/Inter/article/all/20261121/135065038/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
-          "url": "https://stock.mk.co.kr/news/view/1203585",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "배추",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T20:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4ullKqxr0A9e7lkwiFggHTQyM8SNrLLevpJpxSe5kcB8JJ375sdgPMXBoBnI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "새마을운동 남원시지회, 사랑의 김장나누기 봉사활동",
-          "url": "https://sjbnews.com/news/news.php?number=893138&year=2026",
-          "source": "새전북신문"
-        },
-        {
-          "title": "[금주의 의정부시] 의정부1동주민센터, 취약계층 위한 ‘사랑가득 김장나눔’ 개최 外",
-          "url": "https://www.joongboo.com/local/articleView.html?idxno=363743145",
-          "source": "중부일보"
-        },
-        {
-          "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261120.99099006422",
-          "source": "국제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "지수",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-21T20:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_jWc7CrZJ46rRE0H3wxoopNBXFDf8R3X1jwHaTbRuurAsQKvCXWrtXLMEpfk",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "中 톱스타 들러리 만든 '디올 지수'…영하 3도 베이징 녹였다 [K컬처 인사이드]",
-          "url": "https://www.hankyung.com/article/202611200313H",
-          "source": "한국경제"
-        },
-        {
-          "title": "블랙핑크 지수가 다녀간 방콕 여행 명소 6곳",
-          "url": "https://www.harpersbazaar.co.kr/article/1913142",
-          "source": "하퍼스 바자 코리아"
-        },
-        {
-          "title": "블랙핑크 지수, 청순 벗고 ‘퇴폐미’ 장착…아찔한 송곳 네일 “입술 찌를라”",
-          "url": "https://sports.khan.co.kr/article/202611111811003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "강사",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-21T20:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbYPuveEWKTbQZNJaxWR6DUKDKLrgfhgM4EbFvU5_DxYk0SyInoiDq5i75RHw",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-          "url": "https://www.munhwa.com/article/11633008",
-          "source": "문화일보"
-        },
-        {
-          "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "사망 당일 새벽 짐 정리...집주인에 \"탈출 도와달라\" [앵커리포트]",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611212227231160_005.html",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "real madrid vs celta",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-21T20:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV62WLCd3TjN9sUsIT89bjDmWsLXDLNM4br91agkQLn0ZPDtP-PBja_JgsHCM",
+      "keyword": "구자욱",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-21T21:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5rd9-K4sw0aOD-7Oo6ZTf7Yv9_Kx1pm3n4465P9-nDxXQ4HvCvFzJkB8p9zA",
       "category": "스포츠",
       "news": [
         {
-          "title": "Pablo Durán adelanta al Celta en el Bernabéu a los seis minutos",
-          "url": "https://www.tufutbolero.com/novedades/pablo-duran-adelanta-al-celta-en-el-bernabeu-a-los-seis-minu-216a7b",
-          "source": "Tu Futbolero"
+          "title": "MLB 사무국, '빅리그 도전' 구자욱 신분 조회 요청",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867379_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "Pese al mal inicio y al fallo de Mbappé, el Real Madrid sigue ganando",
-          "url": "https://onefootball.com/es/noticias/pese-al-mal-inicio-y-al-fallo-de-mbappe-el-real-madrid-sigue-ganando-43816122",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Espí siempre llega a tiempo",
-          "url": "https://as.com/futbol/espi-siempre-llega-a-tiempo-f202611-n/",
-          "source": "Diario AS"
-        }
-      ]
-    },
-    {
-      "keyword": "경제",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T20:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNORCIz6wwtDIRUE2R_TrMlNG6ZtwXseG9mcgoBJJ-vU-Vlb1Ct-KQx7aAyVA",
-      "category": "경제",
-      "news": [
-        {
-          "title": "中 경제에 ‘장기불황의 그림자’ 짙어졌다",
-          "url": "https://www.dailian.co.kr/news/view/1717961/%E4%B8%AD-%EA%B2%BD%EC%A0%9C-%E2%80%98%EC%9E%A5%EA%B8%B0%EB%B6%88%ED%99%A9-%EA%B7%B8%EB%A6%BC%EC%9E%90%E2%80%99-%EC%A7%99%EC%96%B4%EC%A1%8C%EB%8B%A4-2026",
-          "source": "데일리안"
-        },
-        {
-          "title": "2026년 10월까지 중국 고정자산투자 감소폭 확대 - 뉴스 및 통계",
-          "url": "https://www.indexbox.io/ko/blog/china-fixed-asset-investment-falls-81-in-january-october-2026/",
-          "source": "IndexBox"
-        },
-        {
-          "title": "\"AI 수출이 먹여 살리지만, 내수는 꽁꽁\"… 中 10월 소매판매 0.4% 증가에 그쳐 '양극화' 심화",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111612321999100c8c1c064d_1",
-          "source": "글로벌이코노믹"
-        }
-      ]
-    },
-    {
-      "keyword": "kbs",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T21:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwIExO9zqAhQjNC28Tp9BFyTVpaegbk_AdzvdzqmT5uaEXOMoDpnlh20n7JUw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Heo Gak Reveals 24kg Weight Loss Journey on KBS Show",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/21/I462DOD54RGM5LWIEHN7QDZSEM/",
+          "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
           "source": "조선일보"
         },
         {
-          "title": "Huh Gak Sheds 24 kg → Someday’s First Terrestrial Music Show Stage in 17 Years... ‘The Seasons’ Packed With Performances",
-          "url": "https://www.mk.co.kr/en/hot-issues/12215248",
-          "source": "매일경제"
-        },
-        {
-          "title": "Heo Gak, Stormy Weight Loss of 24 kg [Sung Si-kyung's Eardrum Boyfriend]",
-          "url": "https://www.starnewskorea.com/en/star/2026/11/20/2026112014122935929",
-          "source": "스타뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "최미나수",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T21:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToanjYQ7cRy-HKO9GDJ9qOFDMI391VeEX9oQtNBzsyT4UfSvWPi0RKwIpR4BI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "드레스 입고 덜덜 떤 최미나수…김연경 \"괜찮으세요?\"",
-          "url": "https://www.newsis.com/view/NISX20261121_0003877589",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[사진]앤팀 조-하루아-케이 '남신 분위기'",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/22/GEZGCMJUGZSTCNRVGU3DOMZRMQ/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "최미나수, 노출 드레스 입고 '몸 덜덜'...김연경 \"괜찮냐\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112107404471705",
+          "title": "'원태인보다 구자욱 먼저' 韓 타격왕 향한 ML 관심, '급성장' 박승규만 믿기엔 너무도 이른데... - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112113272550290",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "쇼트트랙",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T21:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDAhNtSn7mdKMTeH9qFMFt3wbnvBhjCorN0RFEEBpcVCIGHSiLfwsJzhf41MQ",
+      "keyword": "뉴스",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T22:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfP-I-quUqSisupyR3gvsy9wWsA1lQozeJRnZOvP7CO8PADOKfb39LbiY3T8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "르세라핌, 3년 만의 'MAMA' 출격..70인 메가 크루로 압도",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/22/MVSGIMRRHBSDANZWGU4DOYZVGQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[뉴스1 ★] 르세라핌 허윤진, 어깨부터 팔까지 하얀 뱀 칭칭…역대급 파격 드레스",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6361771",
+          "source": "뉴스1"
+        },
+        {
+          "title": "[사진]르세라핌 김채원, '왜 앞으로 안 가지지?'",
+          "url": "https://www.osen.co.kr/article/G1112913210",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "공군사관학교",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1dGQmYYvkFqsc6o4V1vclHMxoupHZFysKsXVNLx5ZHB1Fsl78wJFL1t1Nejw",
       "category": "스포츠",
       "news": [
         {
-          "title": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719143",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "'첫 금' 신동민, 男쇼트트랙 위기 평가에 \"조금만 기다려주세요\"",
-          "url": "https://www.yna.co.kr/view/AKR20261121047400007",
+          "title": "공사 생도 '명예시험' 중 스마트폰으로 시험지 촬영…퇴교 처분",
+          "url": "https://www.yna.co.kr/view/AKR20261120176600504",
           "source": "연합뉴스"
         },
         {
-          "title": "'은퇴 예고' 최민정, 쇼트트랙 월드투어 1000m 3연속 금메달",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867495_36946.html",
+          "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+          "url": "https://www.kyeonggi.com/article/20261120580310",
+          "source": "경기일보"
+        },
+        {
+          "title": "공군사관학교도 6월에 시험문제 불법촬영…3학년 생도 퇴교",
+          "url": "https://www.donga.com/news/Society/article/all/20261120/135063726/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "이정효",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T21:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuQ5CEjyISwXoDCBH0DgBpzCMyKBA3Jp6Gk4cyuSUJYCbZELlje9GSjXnIbNw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "“내년엔 꼴찌부터 시작”···리그 우승 확정에 이정효는 냉정했다",
+          "url": "https://www.khan.co.kr/article/202611212030001",
+          "source": "경향신문"
+        },
+        {
+          "title": "'이것이 대한민국 축구 명문의 역사다' 수원삼성, K리그2 우승으로 한국 프로축구 최초 대기록 완성...1·2부부터 아시아 정상까지 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/202611212222776505O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "승격에 우승까지 '이정효 매직'‥\"14위부터 다시 시작\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867513_37004.html",
           "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "송미령",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T20:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
+      "keyword": "추미애",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T21:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAub_8RFUSXbQuEvrhGdAHunWT8iVAd0vIv4Z-ydGFAaM3CSTY9hRUuBVO-JQ",
       "category": "정치·사회",
       "news": [
         {
-          "title": "농식품부 장관, 현장·전문가와 함께 농촌 사회연대경제 활성화를 위한 방안 논의",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458131",
-          "source": "서울Pn"
+          "title": "추미애 “한덕수 판결 순억지···조희대 탄핵, 좌고우면하면 안 돼”",
+          "url": "https://www.khan.co.kr/article/202611211912001",
+          "source": "경향신문"
         },
         {
-          "title": "농어촌 기본소득, 지역 일자리로 이어질까…송미령 장관, 현장 의견 청취",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04024566645647688",
-          "source": "마켓인"
+          "title": "여 “사법정의 바로세워야”…야 “친위쿠데타 심판”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719307",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "농어촌 기본소득, 돌봄·일자리로 잇는다…사회연대경제 연계 논의",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876035",
-          "source": "뉴시스"
+          "title": "한덕수 재판 다시…윤석열 등 내란 혐의 최종 판단은 언제",
+          "url": "https://www.yna.co.kr/view/AKR20261121046300004",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "인천광역시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzimyIFV33dHquFdjLVkJqPMEyoLVJa4f-o1YSnrHgwywORpfpC0HacNQqSE",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "인천시, 수소산업 담당자 직무교육…인프라 운영 역량 강화",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722785",
+          "source": "뉴스타운"
+        },
+        {
+          "title": "AI 시대 전력 공급, 연료전지의 역할은…수소인프라 운영 사례도 공유",
+          "url": "https://www.hydrogennews.co.kr/news/articleView.html?idxno=5225",
+          "source": "수소신문"
+        },
+        {
+          "title": "인천시, 수소경제 기반 강화 위한 실무자 직무교육 실시",
+          "url": "https://www.kgdm.co.kr/news/articleView.html?idxno=2018507",
+          "source": "경기도민일보 미디어"
+        }
+      ]
+    },
+    {
+      "keyword": "la liga",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpjVGuHHrgGAVwgBt32sZ8RvEndABHDnUejHIoUhpnl11s7DzuWRTdPxBb7QE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Spain La Liga Soccer",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/spain-la-liga-soccer/image_70cc47ee-8b8b-56a4-afd2-1a4dc169db2e.html",
+          "source": "Corsicana Daily Sun"
+        },
+        {
+          "title": "Spain La Liga Soccer",
+          "url": "https://www.couriernews.com/sports/spain-la-liga-soccer/image_47b0d4b3-9132-54c7-8ddc-80ccfea42e17.html",
+          "source": "couriernews.com"
+        },
+        {
+          "title": "Spain La Liga Soccer",
+          "url": "https://www.couriernews.com/sports/spain-la-liga-soccer/image_ba1e19f7-b8e2-53b6-9aaf-3bc69321be94.html",
+          "source": "couriernews.com"
+        }
+      ]
+    },
+    {
+      "keyword": "편지",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T22:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaWBZH1UBg5CLo_9qq0ROSIwr1J8MK-ujQ1izEzbdgM5XMZBwp0hybWn39UYM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
+          "url": "https://busan.fnnews.com/news/202611201111489476?pg=mny",
+          "source": "부산파이낸셜뉴스"
+        },
+        {
+          "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
+          "url": "https://www.fnnews.com/news/202611201111489476",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "реал мадрид – сельта",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T22:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuMwJJkkxl-5IxyHr2dRAbrNlaii8EIz1-F_QIo8kh7K3WZUSKR-CmyuoJvU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Реал - Сельта. Чемпионат Испании. Тур 13",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbvideo_NI2385175_translation_Real___Selta_Chempionat_Ispanii_Tur_13",
+          "source": "Sportbox"
+        },
+        {
+          "title": "Итурральде о пенальти «Реала»: «На тоненького. ВАР не вмешался, потому что это эпизод на усмотрение судьи»",
+          "url": "https://sportmail.ru/news/others/72990025/",
+          "source": "Спорт Mail"
+        },
+        {
+          "title": "Ла Лига. Реал опять достал джокера: Эспи принёс Реалу драматичную победу",
+          "url": "https://www.ua-football.com/foreign/spain/1795297254-la-liga-real-opyat-dostal-dzhokera-yespi-prinyos-realu-dramatichnuyu-pobedu.html",
+          "source": "UA-Football"
+        }
+      ]
+    },
+    {
+      "keyword": "real madrid đấu với celta",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T22:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWkKNR319KbUFGDzQ-bHpdyofwPhx3H0aNZWc97kPdINKc5fURMrsMaFZ82Hc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Video bóng đá Real Madrid - Celta Vigo: Vỡ òa phút 85 (La Liga)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-celta-vigo-vo-oa-phut-85-la-liga-c48a1813086.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Nhận định bóng đá Real Madrid vs Celta Vigo, 03h00 ngày 22/11: Chiến thắng chật vật cho chủ nhà!",
+          "url": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-real-madrid-vs-celta-vigo-03h00-ngay-22-11-chien-thang-chat-vat-cho-chu-nha-5294742611.html",
+          "source": "Tạp chí Bóng đá"
+        },
+        {
+          "title": "Mourinho thắng nhờ Vinicius và Carlos Espi",
+          "url": "https://znews.vn/mourinho-thang-nho-vinicius-va-carlos-espi-post1698191.html",
+          "source": "Znews"
         }
       ]
     }
