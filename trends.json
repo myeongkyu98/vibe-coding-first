@@ -1,251 +1,271 @@
 {
-  "updatedAt": "2026-11-21T02:06:13.567Z",
+  "updatedAt": "2026-11-21T03:46:00.960Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
     },
     {
-      "category": "스포츠",
-      "count": 2
+      "category": "경제",
+      "count": 3
     },
     {
       "category": "IT·과학",
       "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "패딩",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-21T00:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmInoIQ6SmJ_WvgvY4ZzpVR-Z5H-YFDot3LtAXxF_jtz1VY0AmlZJoZ2UuZI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "이번 주부터 영하 시작! 한겨울을 위한 ‘헤비 다운 패딩’ 6",
-          "url": "https://www.esquirekorea.co.kr/article/1913425",
-          "source": "에스콰이어 코리아"
-        },
-        {
-          "title": "롱패딩 대신 이것 사라?…‘초강력 엘니뇨’가 만든 겨울 유행템",
-          "url": "https://www.koreadaily.com/article/20261120130043864",
-          "source": "미주중앙일보"
-        },
-        {
-          "title": "겉과 속 모두 잡은 겨울 아우터 뜬다…아웃도어업계, 프리미엄 소재 주목",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876379",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "두산베어스",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T00:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSOxGRZPeai9F7LwyQhXSpECo5S6ocjkdksZIh-iw69memYqfNln7QKzQq7C8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "돈 못지않은 ‘진정성’… 프로야구 FA전쟁[소소한 복도통신]",
-          "url": "https://www.munhwa.com/article/11632753",
-          "source": "문화일보"
-        },
-        {
-          "title": "두산·SSG도 원한다구? 사연 좀 들어볼까",
-          "url": "https://sports.khan.co.kr/article/202611200600016",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "'이틀간 173억 계약 터졌다' 역대급 스토브리그 시작인가, 변수는 12월 ML 직장폐쇄…원태인·구자욱은 어디로?",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/19/HAZDGNZTGBRWEYZVGA2GCNJWME/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "동아일보",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T00:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "lpga",
+      "keyword": "편의점",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-21T00:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRmy4G8xw9MXSw_-7ihHOYjYcKkOh3oA-lIR4_fTErYPFDEdfxl1R-dysGrEg",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
-          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
-          "source": "news.sbs.co.kr"
-        },
-        {
-          "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
-          "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
-          "source": "아시아경제"
-        },
-        {
-          "title": "Thitikul talks spark on back nine during two rounds at CME",
-          "url": "https://www.golfchannel.com/watch/lpga/thitikul-talks-spark-on-back-nine-during-two-rounds-at-cme",
-          "source": "Golf Channel"
-        }
-      ]
-    },
-    {
-      "keyword": "지스타",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnkrs74UsLQg5z3BdJbR-gDzXio_Nwn2oh-XZmXmQMx0vQ3n2DPWJ6UCULg1E",
+      "startedAt": "2026-11-21T01:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQwahxz4qFu10svQQAW0LkZQaqlfqeTMvzCfhTMbqxgDjUCwFCdGlo_Vdg2sQ",
       "category": "IT·과학",
       "news": [
         {
-          "title": "[해보니] 눈앞에 펼쳐진 거대한 전쟁…'토탈 워: 워해머 40,000'",
-          "url": "https://www.yna.co.kr/view/AKR20261120133000017",
+          "title": "CU, 딘토와 '위니 더 푸' 색조 화장품 출시…책갈피 굿즈 동봉",
+          "url": "https://www.yna.co.kr/view/AKR20261119024400030",
           "source": "연합뉴스"
         },
         {
-          "title": "'지스타 2026' 첫 주말, 벡스코에 관람객 북적…게임 축제 열기 고조",
-          "url": "https://zdnet.co.kr/view/?no=20261121102326",
+          "title": "화장품 사면 곰돌이 푸 책갈피가…CU, 딘토와 색조 화장품 선봬",
+          "url": "https://zdnet.co.kr/view/?no=20261119134658",
           "source": "지디넷코리아"
         },
         {
-          "title": "도쿄게임쇼는 북적이는데… 게임사 빠지고 썰렁한 지스타, 이대로 괜찮나",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/20/KNQMUH46XFC3BDZOJMXEPXISUE/",
-          "source": "조선일보"
+          "title": "CU, 딘토 협업 '위니 더 푸' 색조 화장품 4종 출시",
+          "url": "https://www.etnews.com/20261119000188",
+          "source": "전자신문"
         }
       ]
     },
     {
-      "keyword": "공인회계사",
+      "keyword": "김혜성",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-20T23:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm8AAzJY5i-9_K8I5BC48kbEPwNDqLZFbNhHMDTXkFFBgdb_-XFg9XjWSHz_Y",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "[단독] 감독관 코앞 ‘고개 푹’ 품속 모니터 확인…세무사 수석 드러난 수법",
-          "url": "https://news.jtbc.co.kr/article/NB12329088",
-          "source": "JTBC"
-        },
-        {
-          "title": "노동부, 국가자격시험 감독 강화…AI 부정행위 대응체계 점검",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375078",
-          "source": "전기신문"
-        },
-        {
-          "title": "[단독] 휴대전화에 블루투스 이어폰까지… 공무원 시험 금지기기 적발 5년 새 최다",
-          "url": "https://www.segye.com/newsView/20261120513511",
-          "source": "세계일보"
-        }
-      ]
-    },
-    {
-      "keyword": "브루노 마스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-20T23:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyRtNvKmnRlIPbZ2JSO0tIqetQ1mgYgaPG2L1VLelp_3dmzRuZou3ZfV0n6bc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Bruno Mars remembers his late father and the musical lessons he passed down",
-          "url": "https://abcnews.com/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Bruno Mars is grieving the death of his dad: ‘I Love you, Pops’",
-          "url": "https://www.latimes.com/entertainment-arts/story/2026-11-19/bruno-mars-is-grieving-death-of-his-dad-i-love-you-pops",
-          "source": "Los Angeles Times"
-        },
-        {
-          "title": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
-          "url": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/",
-          "source": "Billboard"
-        }
-      ]
-    },
-    {
-      "keyword": "공군사관학교",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T00:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmpoP0RxCDDJP8d6Qtcl-Q_DMwz75c-4AAw_i6Oyp_j1tXFLYTkTvkldZgCQ",
+      "startedAt": "2026-11-21T02:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIJso-06dVcg8YrarN2Sde7H-yakziHwYtMIq29t9hfKyRvuhk-Ete7s0dD1k",
       "category": "스포츠",
       "news": [
         {
-          "title": "공군사관학교 부정행위 신고 뒤…시험지 폰으로 찍은 생도 퇴교",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1288405.html",
-          "source": "한겨레"
+          "title": "\"내가 다저스 가지 말랬잖아\" 강정호 만류에도 LA행 택한 김혜성, 에이전트 추천까지 뿌리친 이유",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/GM3GCYRUHEYDENBZMQ2WEYZQGI/",
+          "source": "조선일보"
         },
         {
-          "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
-          "url": "https://www.kyeonggi.com/article/20261120580310",
-          "source": "경기일보"
-        },
-        {
-          "title": "사관학교에서도 전자기기 부정행위…공사, 생도 1명 퇴교 처분",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718753",
+          "title": "MLB 다저스, 내야수 로이스 트레이드 영입…김혜성 비상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719102",
           "source": "KBS 뉴스"
+        },
+        {
+          "title": "LA다저스, 내야수 루이스 트레이드 영입…김혜성 어쩌나",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121111250jdj",
+          "source": "연합뉴스TV"
         }
       ]
     },
     {
-      "keyword": "ราคาทองวันนี้",
+      "keyword": "경부선",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T01:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSm8gDjmN70BZA5VSd1ChawJSVG_r7FRmeOb6mXkMnxeaBuNkHp-bhHKKfXSs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[속보] 코레일 \"천안∼조치원∼대전·서대전 구간 버스 연계 수송",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611211112093328_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "’경부선 화물열차 탈선’에 일반열차 멈춰…복구 장시간 소요",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121101015fgK",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "경부선 소정리역서 화물열차 탈선…천안~대전 일반열차 운행 중단",
+          "url": "https://news.jtbc.co.kr/article/NB12329151",
+          "source": "JTBC"
+        }
+      ]
+    },
+    {
+      "keyword": "소형모듈원자로",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T01:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE17aGrpdGZ-Jx302XJNvTlgnSP-SPH4llKleR_aI5OjL2GzKoom_GtkikzrY",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[산업X파일] ‘작은 원전’ SMR, 곳곳서 차질… 한국 계획은 괜찮나",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/21/HMRSXGFH6FAHVEUCJTGGIZTKXU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "국립창원대 SMR² 플랫폼 국가연구소, ‘SMR² INSIGHT FORUM’ 개최",
+          "url": "https://www.viva100.com/article/20261120500399",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "국내외 원전기업 창원에 다 모였네",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261119.22008005693",
+          "source": "국제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "마이크론 테크놀로지",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-21T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw96pWIbT_zDhYLAKTzjb1E-vbug2QAuwwlDRR3svxKm8TPaRdw_FiBwWsOQM",
-      "category": "기타",
+      "startedAt": "2026-11-21T02:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "ราคาทองคำในตลาดโลกยังคงร่วงลงอย่างต่อเนื่อง โดยราคาทองคำแท่งของ SJC ลดลงมากถึง 4 ล้านเหรียญสหรัฐต่อออนซ์",
-          "url": "https://www.vietnam.vn/th/gia-vang-the-gioi-tiep-tuc-lao-doc-vang-mieng-sjc-giam-toi-4-trieu-dong-luong",
-          "source": "Vietnam.vn"
+          "title": "마이크론테크놀로지, AI 투자 우려에 7거래일 연속 하락…주가 14%↓",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01230006645648016",
+          "source": "마켓인"
         },
         {
-          "title": "XAU/USD: การวิเคราะห์ตามทฤษฎีคลื่นเอลเลียตและการคาดการณ์สำหรับวันที่ 20.11.2569 – 27.11.2569",
-          "url": "https://www.litefinance.org/th/blog/analysts-opinions/gold-price-prediction-forecast/xauusd-kar-wikheraah-tam-thvsdi-khlun-xel-leiy-t-laea-kar-khad-karn-sahrab-wan-thi-20112569-27112569/",
-          "source": "LiteFinance"
+          "title": "마이크론 메모리반도체 불황 대비해 '방어 전략' 집중, 삼성전자 SK하이닉스와 새 경쟁 국면",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452393",
+          "source": "비즈니스포스트"
         },
         {
-          "title": "ทองดิ่งลงเหว แตะ $3,500 ลงต่อหรือกลับตัวขึ้นแรง?",
-          "url": "https://www.intergold.co.th/investor_core/gold-20-11-69/",
-          "source": "InterGold"
+          "title": "마이크론 CTO \"메모리 반도체 공급 제약 2027년에 더 심화\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445660",
+          "source": "연합인포맥스"
         }
       ]
     },
     {
-      "keyword": "전북특별자치도",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T00:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS77EzsS8Gv5uUYOs7AaytsgfmG_M6uuVUAg0CTLdfLjINv3Rui3Youx8bV1qM",
+      "keyword": "전소미",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T02:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSIdb6GI4skcQYgfCyzwqBKw2i2fmahP7Tmx1mbwtdNyUikkQK28qyRJD_XiU",
       "category": "기타",
       "news": [
         {
-          "title": "전북도, 재해예방사업 조기 발굴…국가예산 선제 대응",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876663",
+          "title": "전소미, 아이오아이 무대서 혼자 검은 옷 입은 이유 \"오히려 안 튀려고\"",
+          "url": "https://www.newsis.com/view/NISX20261120_0003877021",
           "source": "뉴시스"
         },
         {
-          "title": "전북특별자치도, 재해예방사업 조기 발굴… 국가예산 확보 선제 대응에 나선다",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435739",
-          "source": "데일리스포츠한국"
+          "title": "전소미, 아이오아이 의상 차별 논란에 입 열었다 \"내가 튀려고 했다고?\"[Oh!쎈 이슈]",
+          "url": "https://www.chosun.com/entertainments/music/2026/11/20/HA3DCMZTHAYTSZBYGFSDCNZRGE/",
+          "source": "조선일보"
         },
         {
-          "title": "전북도, 재해예방사업 조기 발굴…선제적 재난 대응 강화",
-          "url": "https://www.newspim.com/news/view/20261120000435",
+          "title": "다 흰 옷인데 혼자 검은 옷…\"튀고 싶지 않았다\" 전소미 해명 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112015210050064",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "알테오젠",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLwrZMqZWUlmBrIs9i_YYdzzoy03NgEVav4611iWbx_aukORtyvLOn5HRk0Hk",
+      "category": "경제",
+      "news": [
+        {
+          "title": "알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2184781",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "“알테오젠, 올해 영업익 3050억 전망…美 약가 인하 영향은 변수” [Why 바이오]",
+          "url": "https://www.sedaily.com/article/20116245",
+          "source": "서울경제"
+        },
+        {
+          "title": "[리포트 브리핑]알테오젠, '악재 다 나왔고, 실적과 호재만 남았다' 목표가 410,000원 - 하나증권",
+          "url": "https://www.newspim.com/news/view/20261119000158",
           "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "박윤영",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T01:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrOW2VOa_83UztTDKEXDkpJxJzgQp8MQRWFLSrK4fppcJyR_cTDtiG0RXtJb8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "KT스카이라이프, 케이블TV 자회사 KT HCN 흡수합병…인수 5년 만",
+          "url": "https://v.daum.net/v/tHi0T671fe",
+          "source": "Daum"
+        },
+        {
+          "title": "KT스카이라이프, 자회사 HCN 흡수합병키로…내년 6월 합병",
+          "url": "https://www.yna.co.kr/view/AKR20261119172000017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "KT스카이라이프와 한 몸 되는 HCN… 내부에선 “졸속 합병”",
+          "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338599",
+          "source": "미디어오늘"
+        }
+      ]
+    },
+    {
+      "keyword": "jisoo sun showers (from \"the angry birds movie 3”)",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T01:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLcfqIw_Sz4ujz3f6GI-ZGa8o4M73CNREmw6zjLpiWgxsUi2jhKEf2qewozS8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
+          "url": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
+          "source": "Rolling Stone"
+        },
+        {
+          "title": "Jisoo Brings Her Childhood Creation Shumon To Life In “Sun Showers” Video",
+          "url": "https://www.thatericalper.com/2026/11/20/jisoo-brings-her-childhood-creation-shumon-to-life-in-sun-showers-video/",
+          "source": "That Eric Alper"
+        },
+        {
+          "title": "JISOO Brightens the Day With Bubbly ‘Sun Showers’ Single From ‘The Angry Birds Movie 3’ Soundtrack: Stream It Now",
+          "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/jisoo-brightens-day-bubbly-sun-185828437.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "nh농협카드",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T01:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7uEHeAeuFGQA1ge4nY23_jzeqN06K_xKvs2jzA73bbo34mxTAutOEA3PvFfI",
+      "category": "경제",
+      "news": [
+        {
+          "title": "“뛰어난 활약으로 브랜드 가치 높였다” NH농협카드 당구단, 농협금융스포츠단 납회식서 높은 평가",
+          "url": "https://mkbn.mk.co.kr/news/sports/12215015",
+          "source": "mkbn.mk.co.kr"
+        },
+        {
+          "title": "NH농협금융, '2026 스포츠단 납회식' 개최…선수단 격려",
+          "url": "https://www.newspim.com/news/view/20261118001359",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "NH농협금융, '스포츠단 납회식'",
+          "url": "https://www.metroseoul.co.kr/article/20261118500266",
+          "source": "메트로신문"
         }
       ]
     }
