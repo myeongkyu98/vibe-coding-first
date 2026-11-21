@@ -1,28 +1,104 @@
 {
-  "updatedAt": "2026-11-21T09:43:57.951Z",
+  "updatedAt": "2026-11-21T10:43:19.619Z",
   "summary": [
     {
-      "category": "연예",
-      "count": 4
-    },
-    {
       "category": "기타",
-      "count": 2
+      "count": 5
     },
     {
       "category": "스포츠",
-      "count": 2
+      "count": 4
     },
     {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "경제",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "강원 fc 대 대전 하나 시티즌 순위",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T09:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "굴",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T08:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy48pA-kleofATBzKG5VtGZH9Yc7WvtFc8tWSqhS-vk5jgLQLG5NeBnduzZ4g",
+      "category": "기타",
+      "news": [
+        {
+          "title": "부안군, 홍합양식장에 연승식 굴 양식 성공…10t 수확 성과",
+          "url": "https://www.yna.co.kr/view/AKR20261120109300055",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'연승식 굴 10t 첫 수확'…부안군 대체 양식품종 시범사업 결실",
+          "url": "https://www.newsis.com/view/NISX20261120_0003876715",
+          "source": "뉴시스"
+        },
+        {
+          "title": "부안 바다서 굴 양식 새 가능성 확인…어업인 소득 다변화 기대",
+          "url": "https://www.jeollailbo.com/news/articleView.html?idxno=817354",
+          "source": "전라일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김종국",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T09:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDdWYqYjSKBBVVHNqTjR42zYwUQgVfVb9XK3gwDytdU0qKSen58lRheJmRErk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김종국 “내가 알기로는 월세만 2억”…이서진 “나사 온 줄” 감탄한 새 회사",
+          "url": "https://www.mk.co.kr/news/hot-issues/12215136",
+          "source": "매일경제"
+        },
+        {
+          "title": "무엇이든 해줄지니 - 비서진 : 김종국, 감탄이 절로 나오는 독보적인 보이스로 고깃집에서 열창한",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC483687620?div=live_end",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "\"월세 2억\" 뉴욕대 금수저 이서진도 놀랐다···김종국 초호화 소속사 소개('비서진')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GBRDAZTCGUZWEZLGGU2GGZRZMQ/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "중일 관계",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T09:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsPdfvxk_xE1XpkWYMslUg84RUPvFvagLvVaQWZq6aYNHmjs6k6Upfp3ee5Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "일본 국민 61% “한국에 친근감”…86% “중국에 친근감 없어”",
+          "url": "https://www.khan.co.kr/article/202611211158001",
+          "source": "경향신문"
+        },
+        {
+          "title": "일본인 극과 극…‘한국에 친근감’ 62%, ‘중일관계 나쁘다’ 93%",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1288434.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "한국에 친근감 느끼는 일본인, 62%로 역대 최고…중국엔 냉랭",
+          "url": "https://www.yna.co.kr/view/AKR20261121029800073",
+          "source": "연합뉴스"
+        }
+      ]
+    },
     {
       "keyword": "성리",
       "traffic": "500+",
@@ -49,127 +125,102 @@
       ]
     },
     {
-      "keyword": "굴",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T08:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaQdKFuqUPf5HveQ0R2pbRZ3CEYW-54TgghEjUGJDT2tKT0TX4GVKnzSBBR1E",
+      "keyword": "k리그1",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T09:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1oBofoGewrJgI4aUzPsP8EB_62SSxpXKOF1RRPAiQ85dS1u81GPXGncaodCo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "승리의 기쁨",
+          "url": "https://www.news1.kr/photos/8226316",
+          "source": "뉴스1"
+        },
+        {
+          "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정",
+          "url": "https://www.yna.co.kr/view/AKR20261121039700007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "england vs australia",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T09:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCCqKLBixawD0bALaHyMNXf6OgBFW9BqJfqI-9aHxOfijaLVvpSgCErQvZSYA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Australia vs England LIVE: First T20, MCG, Melbourne - cricket score, commentary & updates",
+          "url": "https://www.bbc.com/sport/cricket/live/c30y48pz38qt",
+          "source": "BBC"
+        },
+        {
+          "title": "Harper's Australia debut a much-needed good story",
+          "url": "https://www.cricinfo.com/story/sam-harper-s-australia-debut-a-much-needed-good-story-1563295",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Australia wins the toss and will bowl in the 1st of 5 T20 matches against England",
+          "url": "https://sports.yahoo.com/articles/australia-wins-toss-bowl-1st-081728321.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "파워리프팅",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T09:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6yzY__PjWJz_RJxupQ0-l8RbZNhZHgcPOl-1veQGGlBdbzJMWIPkOJbPMo0I",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"허벅지 둘레 64cm\" 日 여성 선수, 227.5kg 번쩍! '체급의 3.6배' 괴력 미쳤다...\"생애 첫 세계대회서 데드리프트 金\"",
+          "url": "https://www.osen.co.kr/article/G1112911421",
+          "source": "OSEN"
+        },
+        {
+          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
+          "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500051",
+          "source": "서울신문"
+        },
+        {
+          "title": "“귀여운 외모에 반전 괴력” 허벅지 두께 무려 64㎝…세계 놀라게 한 日여성 [월드픽]",
+          "url": "https://m.seoul.co.kr/news/international/2026/11/20/20261120500051",
+          "source": "서울신문"
+        }
+      ]
+    },
+    {
+      "keyword": "삼성 엑시노스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T09:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4sPO0oHT47FpBqfW6w-7FLMD7ySvx4iW5cIr0gw2etwM9XPBZkHKkqUcEslM",
       "category": "기타",
       "news": [
         {
-          "title": "'노로바이러스' 미리 알고, 더 건강하게 다녀오세요 - 전체 | 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976154&pWise=sub&pWiseSub=C4",
-          "source": "대한민국 정책브리핑"
+          "title": "GameNative's new update brings reliable PC gaming to Pixels and Samsung Exynos",
+          "url": "https://tech.yahoo.com/gaming/articles/gamenatives-brings-reliable-pc-gaming-124728335.html",
+          "source": "Yahoo Tech"
         },
         {
-          "title": "노로바이러스 식중독 절반이 겨울철…“가열용 굴 생식 주의” [헬시타임]",
-          "url": "https://www.sedaily.com/article/20116855",
-          "source": "서울경제"
+          "title": "GameNative just fixed PC gaming on Pixels and Exynos-powered Galaxy phones",
+          "url": "https://www.androidauthority.com/gamenative-update-pixels-exynos-galaxy-phones-3737053/",
+          "source": "Android Authority"
         },
         {
-          "title": "김장 후 굴보쌈 꿀맛…\"포장지 안 보고 먹었다간\" 무서운 경고",
-          "url": "https://www.hankyung.com/article/2026112091177",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "류효영",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T07:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxvQvC1rSYTlwES0ifOcEqoQe0IaHOe1OQT7QKFguoBlTMUxB0p7BDVyfSKJk",
-      "category": "연예",
-      "news": [
-        {
-          "title": "류화영은 결혼…쌍둥이 류효영은 ‘돌싱’ 이태성과 데이트 ‘스킨십까지’(‘신랑수업2’)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GZTDCMRXGA3DAMBTMJRTAYLGGE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
-          "url": "https://ichannela.com/program/clip/000000560995.do",
-          "source": "채널A"
-        },
-        {
-          "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "산불",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T07:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfx2vHTc-G5ATaYQ_CY2jfYyO6Pq7pkz8ZahAznBC8-MEE-NccbyWmYyOnmz0",
-      "category": "연예",
-      "news": [
-        {
-          "title": "불길 속 머리만 겨우 보였다…산불 진화한 배우 김민의 아찔한 모습",
-          "url": "https://weekly.chosun.com/news/articleView.html?idxno=57337",
-          "source": "주간조선"
-        },
-        {
-          "title": "외투 타들어 가는데…촬영 간 김민, 몸 던져 '고성 대형 산불' 막았다",
-          "url": "https://www.news1.kr/society/general-society/6360933",
-          "source": "뉴스1"
-        },
-        {
-          "title": "‘동두천 자연인’ 김민 소화기 들고 산불 진화···외투까지 탔다",
-          "url": "https://weekly.khan.co.kr/article/202611210832001",
-          "source": "주간경향"
-        }
-      ]
-    },
-    {
-      "keyword": "은지원",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJrokdlix3yjbrFyzUc37Z2xSZ9UAdquM3KLAD4U4rM5FjKJlUKzG1aTWlHEA",
-      "category": "연예",
-      "news": [
-        {
-          "title": "'살림남' 환희, 28년 만에 브라이언 성대 모사 도전! 또다시 앙숙되나? - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112115257285737",
-          "source": "머니투데이"
-        },
-        {
-          "title": "은지원, 탈퇴 고지용·강성훈 생각났나..플투에 \"너희는 완전체 되기 쉽네\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MNSTMNLGG43GKNBUGVRDGYZYMY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "플라이 투 더 스카이, 8년 만에 완전체 컴백…오늘(21일) 신곡 발매",
-          "url": "https://sports.donga.com/ent/article/all/20261121/135064590/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성전자 tsmc 중국 반도체 출하 중단 및 국내 증시 영향 최신 뉴스 알려줘",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T07:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBvBd_3l4tWOdkckYStRnCWNGEI8ZbTUQux0NRSjSr4150MFMmF3k1pauPee0",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "엔비디아 이어 AMD도 '중국 리스크'?...제재 기업에 기술 유출 의혹",
-          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611201104357456",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "AMD, 中 수출 규제 위반 의혹·AI 투자심리 악화에 주가 13%↓",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01226726645648016",
-          "source": "마켓인"
-        },
-        {
-          "title": "美 대중 반도체 규제에 반도체株 조정…반등 버팀목은 'AI 수요'",
-          "url": "https://www.news1.kr/finance/general-stock/6361213",
-          "source": "뉴스1"
+          "title": "GameNative Android PC game emulator prepares graphics fixes for Mali, PowerVR and Xclipse GPUs",
+          "url": "https://videocardz.com/newz/gamenative-android-pc-game-emulator-prepares-graphics-fixes-for-mali-powervr-and-xclipse-gpus",
+          "source": "VideoCardz.com"
         }
       ]
     },
@@ -195,81 +246,6 @@
           "title": "트럼프와 결혼 생활? 아내 멜라니아 “남편에게 진실 말한다…주변에 ‘예스맨’ 너무 많아”",
           "url": "https://biz.heraldcorp.com/article/10944750",
           "source": "헤럴드경제"
-        }
-      ]
-    },
-    {
-      "keyword": "광주공항",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T08:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJZySFGDdxz96geB_hnJ-B3IMTo3IEcvjCbOAvNrZwqBp2MbjSUGTLV_5s8Nc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[제철남] 군 공항 투표, 무안의 진짜 목소리는?",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717650",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "전남광주, 광주공항 국내선 무안 이전 준비 나선다",
-          "url": "https://theleader.mt.co.kr/articleView?no=2026112017307830216",
-          "source": "머니투데이 더리더"
-        },
-        {
-          "title": "[패트롤] 전남광주시-광산구-서구-남구",
-          "url": "https://m.ekn.kr/view.php?key=20261120021562659",
-          "source": "에너지경제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "sri lanka a vs hong kong",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T08:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfL1mct-3IW8ZGvKKR6we_cFB81ibfRvADAIIV4ISywb_3NOBOmNP9YZaGCE8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Sri Lanka A vs Hong Kong and Bangladesh A vs Afghanistan A match predictions – Asia Cup Rising Stars 2026",
-          "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-5th-6th-match-sri-lanka-a-vs-hong-kong-bangladesh-a-vs-afghanistan-a-november-21st/114454.htm",
-          "source": "Cricket World"
-        },
-        {
-          "title": "Sri Lanka A vs Hong Kong LIVE Streaming: When And Where To Watch Rising Stars Asia Cup",
-          "url": "https://www.ndtvprofit.com/sports/sri-lanka-a-vs-hong-kong-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-12356449",
-          "source": "NDTV Profit"
-        },
-        {
-          "title": "Sri Lanka A Bats First Against Hong Kong China in Doha",
-          "url": "https://cwibc.co.id/en/sri-lanka-hong-kong-doha",
-          "source": "cwibc.co.id"
-        }
-      ]
-    },
-    {
-      "keyword": "종묘",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T07:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFhmZ9qm4hXlaV3QRW0JmVl6qUm9cUooVbDqXaXWlPicO3-VrAFu2Iqfltylo",
-      "category": "경제",
-      "news": [
-        {
-          "title": "종묘 앞 ‘145m 아파트’ 못 짓는다...유산위, 유적 보존 방안 부결",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1288428.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "종묘 앞 재개발, 내년 3월 착공 사실상 무산",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/21/UCC22HIS5BG5XDAMM5FAVFUVCM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "서울시, 국가유산청 ‘세운4구역’ 보존 방안 부결에 강력 반발",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718587",
-          "source": "KBS 뉴스"
         }
       ]
     }
