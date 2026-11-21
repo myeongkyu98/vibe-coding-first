@@ -1,251 +1,275 @@
 {
-  "updatedAt": "2026-11-21T08:06:34.057Z",
+  "updatedAt": "2026-11-21T09:43:57.951Z",
   "summary": [
     {
+      "category": "연예",
+      "count": 4
+    },
+    {
       "category": "기타",
-      "count": 5
+      "count": 2
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
     },
     {
       "category": "IT·과학",
-      "count": 2
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "손정의",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-21T05:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRV7uUwm1t0zJ7BsBqbuDNAAIM1AIguirL_OF98M0vKmZpTcbFFddyzUvoOTiY",
-      "category": "기타",
+      "keyword": "성리",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T08:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS--tMvV66T2p8DdXochZgAWafb_K5xrD70yM7TUoNgvdQXUs76ENLRbrLxNpM",
+      "category": "연예",
       "news": [
         {
-          "title": "“소프트뱅크 손정의, 최근 SK하이닉스 1조달러 인수안 검토”",
-          "url": "https://www.khan.co.kr/article/202611211309001",
-          "source": "경향신문"
+          "title": "성리→장한별 출연 '무명전설' 전국투어, 대구서 앵콜",
+          "url": "https://enter.etoday.co.kr/news/view/305549",
+          "source": "비즈엔터"
         },
         {
-          "title": "“손정의 회장, SK하이닉스 1조달러에 인수 검토”",
-          "url": "https://biz.chosun.com/industry/company/2026/11/21/NSICUJZQJZG47HLINIL3KW7PK4/",
-          "source": "Chosunbiz"
+          "title": "[단독]가수 하루, MBN '무명전설' 대구 앵콜콘 전석 매진",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=327894",
+          "source": "더퍼블릭"
         },
         {
-          "title": "“손정의, 1346조원에 SK하이닉스 인수 구상…월가에 자금 조달안 문의”",
-          "url": "https://www.mk.co.kr/news/business/12215251",
-          "source": "매일경제"
+          "title": "'무명전설' TOP7, 오늘(21일) 대구 앵콜…두 달 만에 무대 재개",
+          "url": "https://www.youthassembly.kr/news/1046311",
+          "source": "유스연합"
         }
       ]
     },
     {
-      "keyword": "리야드",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T06:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfw_xVavUhzinxntJumZoYlMfrOHLbedWrj3FRGfH72VdlLm9E6x1wiHx-q5o",
+      "keyword": "굴",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T08:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaQdKFuqUPf5HveQ0R2pbRZ3CEYW-54TgghEjUGJDT2tKT0TX4GVKnzSBBR1E",
       "category": "기타",
       "news": [
         {
-          "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
-          "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995",
-          "source": "KBS 뉴스"
+          "title": "'노로바이러스' 미리 알고, 더 건강하게 다녀오세요 - 전체 | 카드/한컷 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976154&pWise=sub&pWiseSub=C4",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
-          "url": "https://www.yna.co.kr/view/AKR20261121001800079",
-          "source": "연합뉴스"
+          "title": "노로바이러스 식중독 절반이 겨울철…“가열용 굴 생식 주의” [헬시타임]",
+          "url": "https://www.sedaily.com/article/20116855",
+          "source": "서울경제"
         },
         {
-          "title": "리야드 상공서 ‘쾅’ 폭발음…사우디 “후티 탄도미사일 3발 요격”",
-          "url": "https://www.donga.com/news/Inter/article/all/20261121/135064634/1",
-          "source": "동아일보"
+          "title": "김장 후 굴보쌈 꿀맛…\"포장지 안 보고 먹었다간\" 무서운 경고",
+          "url": "https://www.hankyung.com/article/2026112091177",
+          "source": "한국경제"
         }
       ]
     },
     {
-      "keyword": "마피아42",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-21T05:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7o3a8RqIrN8JQILIqHnFD8arGANkbSzUocvXpPFkxdqhE6cIVr5ql1dFyoug",
-      "category": "IT·과학",
+      "keyword": "류효영",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T07:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxvQvC1rSYTlwES0ifOcEqoQe0IaHOe1OQT7QKFguoBlTMUxB0p7BDVyfSKJk",
+      "category": "연예",
       "news": [
         {
-          "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
-          "url": "https://www.yna.co.kr/view/AKR20261121029700017",
-          "source": "연합뉴스"
+          "title": "류화영은 결혼…쌍둥이 류효영은 ‘돌싱’ 이태성과 데이트 ‘스킨십까지’(‘신랑수업2’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GZTDCMRXGA3DAMBTMJRTAYLGGE/",
+          "source": "조선일보"
         },
         {
-          "title": "개장 직후 최대 4시간 대기…웹젠 ‘디펜폭’에 주말 지스타 관람객 몰려",
-          "url": "https://zdnet.co.kr/view/?no=20261121130015",
-          "source": "지디넷코리아"
+          "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
+          "url": "https://ichannela.com/program/clip/000000560995.do",
+          "source": "채널A"
         },
         {
-          "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
-          "url": "https://stock.mk.co.kr/news/view/1203595",
-          "source": "매일경제 마켓"
+          "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "산불",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T07:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfx2vHTc-G5ATaYQ_CY2jfYyO6Pq7pkz8ZahAznBC8-MEE-NccbyWmYyOnmz0",
+      "category": "연예",
+      "news": [
+        {
+          "title": "불길 속 머리만 겨우 보였다…산불 진화한 배우 김민의 아찔한 모습",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=57337",
+          "source": "주간조선"
+        },
+        {
+          "title": "외투 타들어 가는데…촬영 간 김민, 몸 던져 '고성 대형 산불' 막았다",
+          "url": "https://www.news1.kr/society/general-society/6360933",
+          "source": "뉴스1"
+        },
+        {
+          "title": "‘동두천 자연인’ 김민 소화기 들고 산불 진화···외투까지 탔다",
+          "url": "https://weekly.khan.co.kr/article/202611210832001",
+          "source": "주간경향"
+        }
+      ]
+    },
+    {
+      "keyword": "은지원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T07:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJrokdlix3yjbrFyzUc37Z2xSZ9UAdquM3KLAD4U4rM5FjKJlUKzG1aTWlHEA",
+      "category": "연예",
+      "news": [
+        {
+          "title": "'살림남' 환희, 28년 만에 브라이언 성대 모사 도전! 또다시 앙숙되나? - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112115257285737",
+          "source": "머니투데이"
+        },
+        {
+          "title": "은지원, 탈퇴 고지용·강성훈 생각났나..플투에 \"너희는 완전체 되기 쉽네\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MNSTMNLGG43GKNBUGVRDGYZYMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "플라이 투 더 스카이, 8년 만에 완전체 컴백…오늘(21일) 신곡 발매",
+          "url": "https://sports.donga.com/ent/article/all/20261121/135064590/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
       "keyword": "삼성전자 tsmc 중국 반도체 출하 중단 및 국내 증시 영향 최신 뉴스 알려줘",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-21T07:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0nIWZLODpbDGZrl5ewqtCZ1hnN7OaspqzO0eC-JnQomKO7qhbfZHn4x9BDjY",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBvBd_3l4tWOdkckYStRnCWNGEI8ZbTUQux0NRSjSr4150MFMmF3k1pauPee0",
       "category": "IT·과학",
       "news": [
         {
-          "title": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
-          "source": "KBS 뉴스"
+          "title": "엔비디아 이어 AMD도 '중국 리스크'?...제재 기업에 기술 유출 의혹",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611201104357456",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "美, 중국에 AI반도체 88만개 수출 승인…첨단 반도체 통제 논란",
-          "url": "https://www.dongascience.com/ko/news/80990",
-          "source": "DongA Science"
+          "title": "AMD, 中 수출 규제 위반 의혹·AI 투자심리 악화에 주가 13%↓",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01226726645648016",
+          "source": "마켓인"
         },
         {
-          "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261121001651071",
+          "title": "美 대중 반도체 규제에 반도체株 조정…반등 버팀목은 'AI 수요'",
+          "url": "https://www.news1.kr/finance/general-stock/6361213",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "멜라니아 트럼프",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T08:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4L4cl4RPCmdnytg6H1JIHsi6-KuxnmuvlMwvfKRRd_VUoJQIpTimjbb9Kd6k",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "멜라니아 새 다큐 공개…\"트럼프 주변에 '예스맨' 너무 많아\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121028300075",
           "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "부산 대 충북청주",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T06:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "주거",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T06:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROgRUwXyR0snOvdmhYfsZ116RjqcCyskK6Y1MuElDizIOlkkJf3pXUaWZHadw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "미추홀구 주거복지센터, 주민 대상 주거복지·임대주택 교육",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758672",
-          "source": "국제뉴스"
         },
         {
-          "title": "인천 미추홀구 주거복지센터 맞춤형 임대주택 안내 교육 실시",
-          "url": "https://kpenews.com/View.aspx?No=4323052",
-          "source": "한국정경신문"
-        },
-        {
-          "title": "“현장 대응력 높인다”…과천시 주거복지센터, 복지 담당자 주거복지 실무교육 실시",
-          "url": "https://www.kyeonggi.com/article/20261116580215",
-          "source": "경기일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김연정",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T06:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0yLhP22L7FNjL-yD7LT4LSdYYjMMpEyF8pZSoV-KFTGuPWibXsl-IY_I52aY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717851",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "“선수로서 속상하지만, 팀은 잘되고 있으니까” 주장 유서연은 팀을 먼저 생각했다 [현장인터뷰]",
-          "url": "https://www.mk.co.kr/news/sports/12214552",
-          "source": "매일경제"
-        },
-        {
-          "title": "[사진]치어리더 김연정,'미소가 아름다워' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/19/202611192156775383O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "카타르 축구 국가대표팀",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T05:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZlIDKxyILRodHc7wfnQ0uitAoF7O_akMbgF-lhSevbrUP8N-rYOYXNgKVUks",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "중원의 핵 황인범의 소신발언 “임시 감독 체제 긍정적이지 않아”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8715445",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "모레노 정식 사령탑 부임 보도에 선 그은 축구협회 \"사실무근\"",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876995",
+          "title": "'멜라니아: 더 시리즈' 시사회 참석한 멜라니아 여사",
+          "url": "https://mobile.newsis.com/photo/NISI20261120_0002297858",
           "source": "뉴시스"
         },
         {
-          "title": "“이강인, 기대 많이 했는데” 西 언론 차가운 일침 “LEE 이제는 한 단계 올라가서, 핵심 선수로 거듭나야 한...",
-          "url": "https://sports.khan.co.kr/article/202611202010003",
-          "source": "스포츠경향"
+          "title": "트럼프와 결혼 생활? 아내 멜라니아 “남편에게 진실 말한다…주변에 ‘예스맨’ 너무 많아”",
+          "url": "https://biz.heraldcorp.com/article/10944750",
+          "source": "헤럴드경제"
         }
       ]
     },
     {
-      "keyword": "수원삼성",
+      "keyword": "광주공항",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-21T05:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYZ6WYWcxDLaJStbOTwbGHbVWIh8m5Z0_mXvHUfSjWsdqr4EUI0xPpkJxa0FY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "수원삼성, 4년 만의 K리그1 복귀 이어 K리그2 우승…경남전 3-1 완승",
-          "url": "https://www.kyeongin.com/article/1775165",
-          "source": "경인일보"
-        },
-        {
-          "title": "이정효 감독 “수원 삼성답게 홈 팬 앞에서 우승으로 승격할 것”",
-          "url": "https://www.kyeonggi.com/article/20261121580058",
-          "source": "경기일보"
-        },
-        {
-          "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정",
-          "url": "https://www.yna.co.kr/view/AKR20261121039700007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "컬리",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T05:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzw5zcvZku4rJH1MGgyjV4-GS_VSHRBww9hprei0d-4bYple_kA9fX0xypIk",
+      "startedAt": "2026-11-21T08:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJZySFGDdxz96geB_hnJ-B3IMTo3IEcvjCbOAvNrZwqBp2MbjSUGTLV_5s8Nc",
       "category": "기타",
       "news": [
         {
-          "title": "컬리 \"큐레이터 1만699명 개인정보 유출‥일부 주민번호 포함\"",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6867349_36932.html",
-          "source": "MBC 뉴스"
+          "title": "[제철남] 군 공항 투표, 무안의 진짜 목소리는?",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717650",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "컬리서 1만여명 개인정보 유출…최대 15만원 적립금 보상키로(종합2보)",
-          "url": "https://www.yna.co.kr/view/AKR20261120157052030",
-          "source": "연합뉴스"
+          "title": "전남광주, 광주공항 국내선 무안 이전 준비 나선다",
+          "url": "https://theleader.mt.co.kr/articleView?no=2026112017307830216",
+          "source": "머니투데이 더리더"
         },
         {
-          "title": "컬리, 1만여명 개인정보 유출… 김슬아 대표 “보안 시스템 전면 재점검”",
-          "url": "https://biz.chosun.com/distribution/channel/2026/11/20/JWFP456V7FFVTGFFVE2LFOB5SA/",
-          "source": "Chosunbiz"
+          "title": "[패트롤] 전남광주시-광산구-서구-남구",
+          "url": "https://m.ekn.kr/view.php?key=20261120021562659",
+          "source": "에너지경제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "sri lanka a vs hong kong",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T08:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfL1mct-3IW8ZGvKKR6we_cFB81ibfRvADAIIV4ISywb_3NOBOmNP9YZaGCE8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Sri Lanka A vs Hong Kong and Bangladesh A vs Afghanistan A match predictions – Asia Cup Rising Stars 2026",
+          "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-5th-6th-match-sri-lanka-a-vs-hong-kong-bangladesh-a-vs-afghanistan-a-november-21st/114454.htm",
+          "source": "Cricket World"
+        },
+        {
+          "title": "Sri Lanka A vs Hong Kong LIVE Streaming: When And Where To Watch Rising Stars Asia Cup",
+          "url": "https://www.ndtvprofit.com/sports/sri-lanka-a-vs-hong-kong-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-12356449",
+          "source": "NDTV Profit"
+        },
+        {
+          "title": "Sri Lanka A Bats First Against Hong Kong China in Doha",
+          "url": "https://cwibc.co.id/en/sri-lanka-hong-kong-doha",
+          "source": "cwibc.co.id"
+        }
+      ]
+    },
+    {
+      "keyword": "종묘",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T07:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFhmZ9qm4hXlaV3QRW0JmVl6qUm9cUooVbDqXaXWlPicO3-VrAFu2Iqfltylo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "종묘 앞 ‘145m 아파트’ 못 짓는다...유산위, 유적 보존 방안 부결",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1288428.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "종묘 앞 재개발, 내년 3월 착공 사실상 무산",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/21/UCC22HIS5BG5XDAMM5FAVFUVCM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "서울시, 국가유산청 ‘세운4구역’ 보존 방안 부결에 강력 반발",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718587",
+          "source": "KBS 뉴스"
         }
       ]
     }
