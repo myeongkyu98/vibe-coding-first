@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T12:47:06.722Z",
+  "updatedAt": "2026-11-21T13:54:29.210Z",
   "summary": [
     {
       "category": "기타",
@@ -7,23 +7,18 @@
     },
     {
       "category": "스포츠",
-      "count": 4
+      "count": 3
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "강원 fc 대 대전 하나 시티즌 순위",
+      "keyword": "man city vs fulham",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-21T09:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "man city vs fulham",
-      "traffic": "500+",
-      "trafficValue": 500,
       "startedAt": "2026-11-21T11:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWtn8zWl9bc15X7eDVgWK6gjFz7H0GyTisyd9Kj15fRt0NtJyiwv_mV4SfiM",
       "category": "스포츠",
@@ -34,80 +29,96 @@
           "source": "Sky Sports"
         },
         {
-          "title": "Licensable picture: Premier League - Manchester City v Fulham",
-          "url": "https://www.reutersconnect.com/item/premier-league-manchester-city-v-fulham/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwwWDhYNUs",
-          "source": "Reuters Connect"
+          "title": "O'Reilly, Bouaddi, Foden start as City make three changes",
+          "url": "https://www.mancity.com/news/mens/man-city-v-fulham-team-news-and-tactics-premier-league-21-november-63930856",
+          "source": "Manchester City FC"
         },
         {
-          "title": "Man City vs Fulham preview: Maresca seeks to end losing run at the Etihad",
-          "url": "https://dave.sport/news/man-city-vs-fulham-preview-losing-run-team-news/",
-          "source": "Dave.Sport"
+          "title": "Licensable picture: Premier League - Manchester City v Fulham",
+          "url": "https://www.reutersconnect.com/item/premier-league-manchester-city-v-fulham/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkwwWk1WNzI",
+          "source": "Reuters Connect"
         }
       ]
     },
     {
-      "keyword": "이정후",
+      "keyword": "김세의",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-21T10:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTal7qxYMpkE9pbxfjm6EQVFGnXK-SsQxuD22QxxIaw87fNN7C6vqKa42wm-2g",
-      "category": "스포츠",
+      "startedAt": "2026-11-21T12:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2BoN0CPmPOSD962DNzyb_v4wxzxwAwXw-cWmZo0cY1FMSef44f1Kdih0UOc0",
+      "category": "기타",
       "news": [
         {
-          "title": "\"내보내야\" vs \"팔기 어렵다\"…SF 이정후 두고 엇갈린 시선",
-          "url": "https://www.yna.co.kr/view/AKR20261121025500007",
+          "title": "김세의 '명예훼손·모욕 혐의' 또 기소…피해자 13명",
+          "url": "https://www.yna.co.kr/view/AKR20261120167900004",
           "source": "연합뉴스"
         },
         {
-          "title": "'타율 0.366→0.223' 이정후 충격 기복, 美 일침 \"맞히는 것만으론 부족해, 장타자 될 필욘 없어\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112111230199053",
-          "source": "머니투데이"
+          "title": "김세의, 은현장·권영세·전광훈 등 13명 명예훼손·협박 혐의로 추가 기소",
+          "url": "https://www.segye.com/newsView/20261120514469",
+          "source": "세계일보"
         },
         {
-          "title": "[MLB] 美 매체 \"SF, 슈미트 지키고 이정후 트레이드해야\"",
-          "url": "https://www.newspim.com/news/view/20261121000081",
-          "source": "뉴스핌"
+          "title": "'가세연' 김세의, 김수현·쯔양 이어 또 기소…'장사의 신' 등 피해자만 13명 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/20/2026112020513452615",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "최백호",
+      "keyword": "로또1251",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-21T10:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "김종국",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T09:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDdWYqYjSKBBVVHNqTjR42zYwUQgVfVb9XK3gwDytdU0qKSen58lRheJmRErk",
+      "startedAt": "2026-11-21T12:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBOP3ZNMV1tpEQahnSNpWYHh-pkuRm5AFkh_LDelvOaK8u_16WL8boyRIV0lQ",
       "category": "기타",
       "news": [
         {
-          "title": "김종국 “내가 알기로는 월세만 2억”…이서진 “나사 온 줄” 감탄한 새 회사",
-          "url": "https://www.mk.co.kr/news/hot-issues/12215136",
+          "title": "[속보] 로또 제1251회 1등 14명, 20억 대박…‘14, 18, 19, 29, 40, 45’",
+          "url": "https://www.mk.co.kr/news/society/12215342",
           "source": "매일경제"
         },
         {
-          "title": "무엇이든 해줄지니 - 비서진 : 김종국, 감탄이 절로 나오는 독보적인 보이스로 고깃집에서 열창한",
-          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC483687620?div=live_end",
-          "source": "programs.sbs.co.kr"
+          "title": "1251회 로또 1등 14명…당첨금 각 20억7천만원(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261121050800002",
+          "source": "연합뉴스"
         },
         {
-          "title": "\"월세 2억\" 뉴욕대 금수저 이서진도 놀랐다···김종국 초호화 소속사 소개('비서진')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/GBRDAZTCGUZWEZLGGU2GGZRZMQ/",
-          "source": "조선일보"
+          "title": "\"회사에서 확인한 로또, 1등 31억 당첨\"…인증글 올린 직장인",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02122166645647032&mediaCodeNo=257",
+          "source": "이데일리"
+        }
+      ]
+    },
+    {
+      "keyword": "แมนซิตี พบ ฟูลัม",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T12:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTluj8Kp9-UoIacy2oYQCUc59DWhQHL1-wiXtJXGXb-rdcnsow9L8xNk1XGWGc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "การคาดการณ์ผลการแข่งขันระหว่างแมนเชสเตอร์ ซิตี้ กับ ฟูแล่ม: ทีมเจ้าบ้านกำลังรอการตอบสนอง",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-manchester-city-vs-fulham-chu-nha-cho-man-dap-loi",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "ดูบอลสด แมนซิตี้ พบ ฟูแล่ม ฟุตบอลพรีเมียร์ลีก อังกฤษ คืนนี้ เวลา 19.30 น.",
+          "url": "https://www.sanook.com/sport/1673965/",
+          "source": "Sanook"
+        },
+        {
+          "title": "\"เต้ยเป๋าตุง\" ฟันธง (21 พ.ย.69) ชี้ 7 คู่เด่น ทีมลุ้นเข้าวิน เน้นๆ 3 บอลเต็ง",
+          "url": "https://siamrath.co.th/sports/337047",
+          "source": "สยามรัฐ"
         }
       ]
     },
     {
       "keyword": "npl",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-21T11:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd9ydp7SneOgYmu-Drsd8vvvwUelsyEvW1G1u1jJe5VqU-IpIUZR1F6W5fJ30",
       "category": "스포츠",
@@ -123,109 +134,134 @@
           "source": "Sporting News"
         },
         {
-          "title": "Fans protest after failing to secure tickets for NPL final match",
-          "url": "https://english.deshsanchar.com/fans-protest-after-failing-to-secure-tickets-for-npl-final-match/",
-          "source": "Deshsanchar"
+          "title": "NPL Final Draws Large Crowd at TU Cricket Ground",
+          "url": "https://english.ratopati.com/story/87674/spectators-throng-tribhuvan-university-cricket-ground-to-watch-npl-final",
+          "source": "Ratopati"
         }
       ]
     },
     {
-      "keyword": "전투기 조종사",
+      "keyword": "lotto result 6/45",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-21T10:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUx-zPzO_lWWEP28243yLnGS-9Xp2jEJr8quvuKFjSnevyMuMOurwSz5TAujo",
+      "startedAt": "2026-11-21T12:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBRcXW2SZLl4692AI1vU7Ln_EuUEXjLIlebm3L1_wfYe8wARwvEgzMShMq2c",
       "category": "기타",
       "news": [
         {
-          "title": "전투기 조종사도 주머니에 쏙···이란 전쟁 미군 사로잡은 ‘이 간식’",
-          "url": "https://www.khan.co.kr/article/202611211548001",
+          "title": "No winner for P563.29M jackpot in Nov. 20 lotto draws",
+          "url": "https://cebudailynews.inquirer.net/786915/no-winner-for-p563-29m-jackpot-in-nov-20-lotto-draws",
+          "source": "Cebu Daily News"
+        },
+        {
+          "title": "PCSO Lotto Results: Lone Lotto 6/42 winner gets P26.9M in November 19, 2026 draw",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/1010135/pcso-lotto-results-lone-lotto-6-42-winner-gets-p26-9m-in-november-19-2026-draw/story/",
+          "source": "GMA Network"
+        },
+        {
+          "title": "A bettor from Davao del Sur won the PHP26.9-million jackpot in Thursday night's Lotto 6/42 draw, the Philippine Charity Sweepstakes Office says Friday (Nov. 20, 2026). The winning combination was 15-40-08-34-23-10, earning the bettor PHP26,912,539.06. |",
+          "url": "https://www.facebook.com/pnagovph/posts/a-bettor-from-davao-del-sur-won-the-php269-million-jackpot-in-thursday-nights-lo/1566075908902191/",
+          "source": "Facebook"
+        }
+      ]
+    },
+    {
+      "keyword": "man city đấu với fulham",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T12:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCO1SJDUscGFv_j2E2RRDTWRFYhn-i6WvmZ1IOA020IC_ef8TbvhBQQD4gTMY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Trực tiếp bóng đá Man City - Fulham: Hấp dẫn ngay từ đầu (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-man-city-fulham-khong-duoc-phep-say-chan-ngoai-hang-anh-c48a1812819.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Man City quyết chặn đứng chuỗi 3 trận thua",
+          "url": "https://laodong.vn/bong-da-quoc-te/man-city-quyet-chan-dung-chuoi-3-tran-thua-1804129.ldo",
+          "source": "Laodong.vn"
+        },
+        {
+          "title": "HLV Maresca phủ nhận Man City sa sút vì lo lắng bị phạt",
+          "url": "https://thethao.sggp.org.vn/hlv-maresca-phu-nhan-man-city-sa-sut-vi-lo-lang-bi-phat-post882903.html",
+          "source": "BÁO SÀI GÒN GIẢI PHÓNG"
+        }
+      ]
+    },
+    {
+      "keyword": "манчестер сити – фулхэм",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T12:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAw7Ie4wPFAoU-TRZP0B7gRTTPPAIWSpWLp-mQn3Ieu_CCcYwRrDw4PXVtIwE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "«Манчестер Сити» объявил решение по Хусанову",
+          "url": "https://www.sports.kz/news/news-672411-manchester-siti-obyyavil-reshenie-po-husanovu",
+          "source": "Sports.kz"
+        },
+        {
+          "title": "Манчестер Сити — Фулхэм. АПЛ. 11-й тур. Прямая трансляция 21 ноября 2026 в 15:30",
+          "url": "https://srrb.ru/translyacii-sportivnyx-sobytij/translyacii-futbol/translyacii-futbol-anglijskaya-premer-liga/manchester-siti-fulxem-apl-11-j-tur-pryamaya-translyaciya-21-noyabrya-2026-v-1530.html",
+          "source": "все трансляции спорта сегодня"
+        },
+        {
+          "title": "Прогноз на матч Манчестер Сити – Фулхэм. Сухого матча на «Этихаде» не ждём",
+          "url": "https://metaratings.ru/prognozy/futbol/manchester-siti-fulhem-prognoz-na-match-apl-21-noyabrya-2026-goda/",
+          "source": "Metaratings"
+        }
+      ]
+    },
+    {
+      "keyword": "와콤",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T12:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmvxxtxFhKulxlEpOEwQ_apd6jMJ7kgp_ND7LiJs_zxobHkHccWR3Z9qJ6_jU",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[단독]MBK, 日 와콤 1조원대 인수…삼성전자도 재출자",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02036886645648016&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "‘삼성 갤럭시 S펜 기술 공급사’ 일본 와콤, MBK가 1조원대 인수 추진",
+          "url": "https://www.khan.co.kr/article/202611211636001",
           "source": "경향신문"
         },
         {
-          "title": "'땅콩버터 간식' 집착하는 美항모 장병들…\"격추보다 깜빡할까 걱정\"",
-          "url": "https://www.yna.co.kr/view/AKR20261121038600009",
+          "title": "갤럭시 S펜 핵심기술 보유한 日와콤, MBK가 1조원대 인수",
+          "url": "https://www.yna.co.kr/view/AKR20261121040900073",
           "source": "연합뉴스"
-        },
-        {
-          "title": "미 항모서 하루 1600개씩 사라지는 간식… 전투기 조종사도 푹 빠졌다",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3450903",
-          "source": "천지일보"
         }
       ]
     },
     {
-      "keyword": "마타",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSp6gnjk-0D0PSS2ckubQfanAvnHoqdlDw2pGhGxf7_z0sAkiFvdDOE-L9XzVk",
+      "keyword": "탬파베이 레이스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T12:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5sc386t4Uo1MWJeLxn3v079fpf2BLT1nMPuKYYxNYDM-U46dyIeEvbFXU6OI",
       "category": "스포츠",
       "news": [
         {
-          "title": "[오피셜] 한 시대의 작별… T1, ‘쓰리핏' 주역 '꼬마-톰-마타' 동행 마침표",
-          "url": "https://www.osen.co.kr/article/G1112913464",
-          "source": "OSEN"
+          "title": "MLB 탬파베이 우완 숄턴스, 한국행 유력...지방 구단과 협상 막바지",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611201121021390",
+          "source": "YTN"
         },
         {
-          "title": "T1, 김정균 감독·임재현 대행·조세형 코치 계약 종료",
-          "url": "https://www.dailyesports.com/view.php?ud=20261121190752574174bcc1e038_27",
-          "source": "데일리e스포츠"
+          "title": "'대박' 현역 빅리거가 한화에 온다고? 폰세처럼 한국에서 인생 역전 가능할까",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/21/MQ4WGYRWMY2TEYRYMFTGEYJYGM/",
+          "source": "조선일보"
         },
         {
-          "title": "[단독] '엄티' 엄성현, 2027 시즌 T1 코치진 합류 유력",
-          "url": "https://www.xportsnews.com/article/2220350",
-          "source": "엑스포츠뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "로이킴",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOF8uQI6dYqhWezgMzL6r0jecaS2fyvqxx5NKjNz2hBAHCV-pRMOkTxzBp78",
-      "category": "기타",
-      "news": [
-        {
-          "title": "존박, 도대체 몇 다리를 걸치는 거야…'마성의 남자'의 최종 선택은? (놀뭐)",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/21/MI3WGM3CGQ3DENDBMI4TKMJRHA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "맥도날드랩 대세 존박 쟁탈전 \"네가 파트너 둘 골라라\"",
-          "url": "https://www.newsis.com/view/NISX20261121_0003877715",
-          "source": "뉴시스"
-        },
-        {
-          "title": "권정열·로이킴에 김민석·정은지까지 가요제 가세… 치열한 '존박 쟁탈전'",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759066",
-          "source": "국제뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김민석",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T10:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1WDry37dsRLOsAx-pWyfMPTRXYWcDT8cwPrtFyBUOlkFRXPsi9tkp5sEbExE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\"(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261121040151001",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "與 '1030 청년 연설대전' 개최…김민석 \"새로운 민주당 역사의 장 열려\"(종합)",
-          "url": "https://www.newsis.com/view/NISX20261121_0003877824",
-          "source": "뉴시스"
-        },
-        {
-          "title": "목 축이는 김민석 대표",
-          "url": "https://www.news1.kr/photos/8226254",
-          "source": "뉴스1"
+          "title": "초대박! 'WS 준우승팀 우완' 숄텐스, 전격 방출! 美 \"한화행 임박\"→탬파도 \"KBO 도전한다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/20/2026112012055272273",
+          "source": "머니투데이"
         }
       ]
     }
