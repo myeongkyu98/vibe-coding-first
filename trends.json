@@ -1,24 +1,20 @@
 {
-  "updatedAt": "2026-11-21T19:42:36.362Z",
+  "updatedAt": "2026-11-21T20:36:18.962Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 5
+      "count": 7
     },
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 3
     }
   ],
   "items": [
     {
       "keyword": "뉴캐슬 대 아스널",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-21T16:40:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiifcnUnOB3NGhprdmTDXS7cNCKxZgHYs4mq1bySK_jBUDErxx_gjAjHwHjtc",
       "category": "스포츠",
@@ -34,9 +30,59 @@
           "source": "Laodong.vn"
         },
         {
-          "title": "뉴캐슬 대 아스널 ​​축구 경기 생중계: 프리미어 리그 11라운드",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-newcastle-vs-arsenal-vong-11-ngoai-hang-anh",
-          "source": "Vietnam.vn"
+          "title": "아스널, 뉴캐슬과 2-2 무승부…에제 선제골·마두에케 동점골 : EPL",
+          "url": "https://news.jkn.co.kr/post/1113274",
+          "source": "재경일보"
+        }
+      ]
+    },
+    {
+      "keyword": "레알 마드리드 대 셀타 비고",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T19:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVss7d5xoUMGBFoLINKZQeGq0ywcTrYPFX5xMGMyEKJP5nUM781DU6YKSV5R0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "How to watch Real Madrid vs. Celta Vigo online for free",
+          "url": "https://mashable.com/entertainment/real-madrid-celta-vigo-la-liga-2026-live-stream-for-free",
+          "source": "Mashable"
+        },
+        {
+          "title": "Real Madrid vs. Celta Vigo Predictions: Vinicius Junior Returns As Madrid Seek Ninth Consecutive Win",
+          "url": "https://www.si.com/soccer/real-madrid-vs-celta-vigo-predictions-vinicius-junior-returns-madrid-ninth-consecutive-win",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Real Madrid-Celta: Football Returns to the Bernabéu",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-celta-a-por-la-novena-victoria-consecutiva-en-el-regreso-a-la-liga-21-11-2026",
+          "source": "Real Madrid CF | Web Oficial"
+        }
+      ]
+    },
+    {
+      "keyword": "newcastle vs arsenal",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T17:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8vFD2oxElzyJObG5g0UT3kgzRdWdw2WUQohx-tmMrbLrqDIFLodfz-DJJ3wU",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Newcastle 2-2 Arsenal: Noni Madueke earns point for Premier League champions",
+          "url": "https://www.bbc.com/sport/football/live/cqd01ey009rxt",
+          "source": "BBC"
+        },
+        {
+          "title": "Analysis: Boos for ex-hero Bruno",
+          "url": "https://sports.yahoo.com/articles/analysis-boos-ex-hero-bruno-193724091.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Team news: Eze in, Guimaraes starts at Newcastle",
+          "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
+          "source": "Arsenal.com"
         }
       ]
     },
@@ -66,36 +112,52 @@
       ]
     },
     {
-      "keyword": "채령",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T15:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "newcastle vs arsenal",
+      "keyword": "위기",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-21T17:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAnu_YiDRIxL10sjwiq9GJtCh15T-C9YY-tSyYS_25WGGF1ELmFovN-8Wkk8",
+      "startedAt": "2026-11-21T18:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhKeucFn_ZV11I-GobepF2cfBfi196bn_n8vdSYD4wmZT6urjNBG-ZwX-wnA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"호르무즈서 미확인 발사체에 유조선 잇단 피격\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121046400099",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "이란군 \"방공미사일로 美 F-16 전투기 공격…비상착륙\"",
+          "url": "https://www.news1.kr/world/middleeast-africa/6361755",
+          "source": "뉴스1"
+        },
+        {
+          "title": "이란, 미 F-16 손상·드론 격추 주장…오만 인근 유조선 피격",
+          "url": "https://kr.investing.com/news/economy-news/article-2186171",
+          "source": "Investing.com 한국어"
+        }
+      ]
+    },
+    {
+      "keyword": "샬케 대 슈투트가르트",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T17:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8Mm5eNlIGkosCg_nzQ58yK0SaJ58v7aKUY7Pm4KAdYVaoC8zP-I-uJ5TrbBw",
       "category": "스포츠",
       "news": [
         {
-          "title": "Match Summary",
-          "url": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
-          "source": "BBC"
-        },
-        {
-          "title": "Team news: Eze in, Guimaraes starts at Newcastle",
-          "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
-          "source": "Arsenal.com"
-        },
-        {
-          "title": "Newcastle and Arsenal face off: Ødegaard's 3 goals vs. Barnes' 2 goals : EPL : JKN",
-          "url": "https://news.jkn.co.kr/editions/english/post/1112635",
+          "title": "샬케, 슈투트가르트와 0-0 무승부…황희찬 선발 출전 : 해외축구",
+          "url": "https://news.jkn.co.kr/post/1113280",
           "source": "재경일보"
+        },
+        {
+          "title": "‘모레노호 사우디전 환상 도움’ 韓 국가대표 공격수 황희찬, ‘6경기 무승’ 샬케 구할까… 무슬리치 감독 “선수단 전적으로 신뢰한다”",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314183",
+          "source": "베스트일레븐"
+        },
+        {
+          "title": "황희찬, 2년 연속 대참사 위기…17위 추락에 재정난까지 '초비상'! 9억 못 채우면 승점 삭감까지",
+          "url": "https://yourfield.nexon.com/today/view/2025052909553714772?type=popular",
+          "source": "Your Field"
         }
       ]
     },
@@ -118,59 +180,9 @@
           "source": "Sports - Orange"
         },
         {
-          "title": "« Safonov a un petit déficit d’image » selon un ancien gardien du PSG",
-          "url": "https://www.culturepsg.com/ja/news/club/safonov-a-un-petit-deficit-dimage-selon-un-ancien-gardien-du-psg/61610",
-          "source": "CulturePSG"
-        }
-      ]
-    },
-    {
-      "keyword": "권순우",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh-RzjDYybKG5prBKEJjZ5k7IvIuAJQoGPfOwvnBuU2-f4MQqcN07x9_RiCgA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'타이브레이크 역전쇼' 권순우, 시즌 4번째 4강 [ATP 메츠챌린저]",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344",
-          "source": "테니스코리아"
-        },
-        {
-          "title": "권순우, 프랑스 메츠 챌린저 결승 진출…2시간 7분 혈투 뒤 역전승",
-          "url": "http://m.tennispeople.kr/news/articleView.html?idxno=19876",
-          "source": "테니스피플"
-        },
-        {
-          "title": "권순우, 프리즈미치 잡고 메츠 챌린저 4강 진출",
-          "url": "http://m.tennispeople.kr/news/articleView.html?idxno=19875",
-          "source": "테니스피플"
-        }
-      ]
-    },
-    {
-      "keyword": "엑셀방송",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T15:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-ExYTrClZjGO9Kx9HfyXKXarAWrc7ehg9acqEwdxU_DNkLIg31d7OgRWGVNU",
-      "category": "연예",
-      "news": [
-        {
-          "title": "'그것이 알고싶다', 女 줄세워 가학 벌칙…'사이버 룸살롱' 엑셀 방송의 충격 실태 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112120007264440",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'그것이 알고싶다'(그알) 딸의 방송 본 아버지 제보로 드러난 '엑셀 방송' 실태",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759174",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
-          "url": "https://sports.donga.com/ent/article/all/20261120/135062142/1",
-          "source": "스포츠동아"
+          "title": "Mohamed Abdelmonem forfait contre le PSG, une nouvelle blessure pour le défenseur égyptien - Sports - Sports",
+          "url": "https://french.ahram.org.eg/NewsContent/6/51/96094/Sports/Sports/Mohamed-Abdelmonem-forfait-contre-le-PSG,-une-nouv.aspx",
+          "source": "Ahraminfo"
         }
       ]
     },
@@ -179,23 +191,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-21T17:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDxaHZTgBoCgwd_dE2dNGK8o4q9LuaoGoaFLppt8VEnu8zIky2ITe1ylraAis",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6k9DIW15WVRdRxlkaAU9zVLe1WBSTF5TlyJESv2WUzO9FZ8zg79W1WtnJAvs",
       "category": "기타",
       "news": [
         {
-          "title": "Nice 2-3 PSG : rapport de match de Ligue 1 et histoire des xG",
-          "url": "https://www.sofascore.com/fr/news/nice-2-3-psg-rapport-de-match-de-ligue-1-et-histoire-des-xg",
-          "source": "Sofascore"
-        },
-        {
-          "title": "PSG - La réaction de Ferran Torres, buteur, après la victoire du PSG face à l'OGC Nice",
-          "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-la-reaction-de-ferran-torres-buteur-apres-la-victoire-du-psg-face-a-l-ogc-nice-546534.html",
-          "source": "MadeInFoot"
-        },
-        {
-          "title": "PSG : Luis Enrique salue le caractère de son groupe",
-          "url": "https://www.footmercato.net/a279839106408574924-psg-luis-enrique-salue-le-caractere-de-son-groupe",
+          "title": "Nice - PSG : le but de Ferran Torres après 8 matchs sans marquer",
+          "url": "https://www.footmercato.net/a6298349271251616495-nice-psg-le-but-de-ferran-torres-apres-8-matchs-sans-marquer",
           "source": "Foot Mercato"
+        },
+        {
+          "title": "« Ce n’est pas parce qu’il y a deux blessés qu’on va forcément bouger » : Luis Enrique n’est pas certain de recruter pendant le mercato",
+          "url": "https://www.leparisien.fr/sports/football/ligue-1/ce-nest-pas-parce-quil-y-a-deux-blesses-quon-va-forcement-bouger-luis-enrique-pas-pret-a-recruter-pendant-le-mercato-21-11-2026-UMR75NN4GFDVRGLBQBXGCT73YE.php",
+          "source": "Le Parisien"
+        },
+        {
+          "title": "PSG : Doué «va revenir plus fort» après sa blessure, prévient Lucas Hernandez",
+          "url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-doue-va-revenir-plus-fort-apres-sa-blessure-previent-lucas-hernandez-20261121",
+          "source": "Le Figaro"
         }
       ]
     },
@@ -238,9 +250,9 @@
           "source": "Olé"
         },
         {
-          "title": "Jacobo Ramón y Da Cunha devuelven al Como a la zona Champions",
-          "url": "https://www.sport.es/es/noticias/futbol-internacional/calcio/jacobo-ramon-da-cunha-devuelven-136700634",
-          "source": "SPORT"
+          "title": "Jacobo Ramón se eleva sobre la zaga sarda y mete al Como en Champions",
+          "url": "https://www.flashscore.es/noticias/jacobo-ramon-marca-y-mete-al-como-entre-los-cuatro-primeros-de-la-serie-a-2-0/ED7gNU9E/",
+          "source": "Flashscore.es"
         },
         {
           "title": "Como – Cagliari: horario y dónde ver hoy por TV el partido de fútbol de la Serie A",
