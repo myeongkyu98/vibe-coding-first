@@ -1,237 +1,277 @@
 {
-  "updatedAt": "2026-11-22T22:39:05.300Z",
+  "updatedAt": "2026-11-22T23:37:14.629Z",
   "summary": [
-    {
-      "category": "기타",
-      "count": 6
-    },
     {
       "category": "스포츠",
       "count": 3
     },
     {
-      "category": "IT·과학",
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "thời tiết",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-22T21:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8CfK3-IqMtwzKJYGvkO8eV6xos3XgQUUTZylEaEVCiPi3CVTMuo8Gks5hMU",
-      "category": "기타",
+      "keyword": "날씨",
+      "traffic": "500000+",
+      "trafficValue": 500000,
+      "startedAt": "2026-11-22T21:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv7SuNA4ep_tthC4DX2FGNz0BogBSVpAu2_U0Rnez2WGQ37XcL_Lis2oaN9xc",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "Dự báo thời tiết Hà Tĩnh ngày 23/11: Phổ biến không mưa",
-          "url": "https://baohatinh.vn/du-bao-thoi-tiet-ha-tinh-ngay-2311-pho-bien-khong-mua-post320729.html",
-          "source": "Báo Hà Tĩnh"
+          "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
+          "url": "https://www.yna.co.kr/view/AKR20261122040000004",
+          "source": "연합뉴스"
         },
         {
-          "title": "Thời tiết hôm nay 23-11: Cả nước nắng, đêm nay Bắc Bộ đón không khí lạnh tăng cường",
-          "url": "https://tuoitre.vn/thoi-tiet-hom-nay-23-11-ca-nuoc-nang-dem-nay-bac-bo-don-khong-khi-lanh-tang-cuong-100261122154634887.htm",
-          "source": "Báo Tuổi Trẻ"
+          "title": "눈·비 ‘미끄럼’ 주의…서울 낮기온 10도",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719524",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "Bản tin thời tiết 19h45 - 22/11: Bắc Bộ tuần tới có 2 đợt gió lạnh tăng cường",
-          "url": "https://vtv.vn/video/ban-tin-thoi-tiet-19h45-22-11-bac-bo-tuan-toi-co-2-dot-gio-lanh-tang-cuong-108702895.htm",
-          "source": "VTV.vn"
+          "title": "[날씨] 전국 점차 비·강원 산간 눈...출근길 중부 '어는 비'",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611230648220971_005.html",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "삼성전자",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-22T20:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWLzePUM-vzKX-KtUnfQeRWm3og7vYl2Ofvy_imjCyGP-BqP97ufeknqC7Zgs",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "\"삼전 30만원·하닉 200만원 이상에 물린 사람…3년은 마음 비워야\"",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873510",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'7만전자·20만닉스' 전망한 전문가...\"AI 거품, 폭락 시작도 안 했다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/21/2026112110581031975",
-          "source": "머니투데이"
-        },
-        {
-          "title": "\"삼전닉스, 전고점 당분간 다시 뚫기 어려울 것\"…헤지펀드 고수의 '쓴 조언'",
-          "url": "https://www.hankyung.com/article/202611198555i",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "weather",
+      "keyword": "노시환",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-22T21:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFyrMJWC_8GHz6gyT1DOq_AwhGldAxWfjX8mohDayUT_dW2j_vFRIpz59PvrY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Break out the winter coat: Highs only hitting the 30s much of this week",
-          "url": "https://www.wsaw.com/2026/11/22/break-out-winter-coat-highs-only-hitting-30s-much-this-week/",
-          "source": "WSAW"
-        },
-        {
-          "title": "Dreary morning and a colder, breezy afternoon",
-          "url": "https://www.wkow.com/weather/forecast/dreary-morning-and-a-colder-breezy-afternoon/article_2d670a3b-5c17-479a-9b9e-85055fe14f76.html",
-          "source": "WKOW"
-        },
-        {
-          "title": "Decreasing Clouds and Temps",
-          "url": "https://www.wxow.com/video/decreasing-clouds-and-temps/video_8f76b6ed-5352-51ba-afa4-7a4a47042bd3.html",
-          "source": "WXOW"
-        }
-      ]
-    },
-    {
-      "keyword": "погода",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T21:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4XrllbaORec7PqM7hWO6pnEyEGRISUVNlOmYdN125mzAtfbS6BYypaUOMWyQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Прогноз погоды в Хабаровске и крае на субботу, 21 ноября",
-          "url": "https://www.dvnovosti.ru/khab/2026/11/21/199580/",
-          "source": "Новости Хабаровска"
-        },
-        {
-          "title": "Утро в Хабаровске",
-          "url": "https://amurmedia.ru/news/2689742/",
-          "source": "AmurMedia"
-        },
-        {
-          "title": "−24 °C в северных районах: озвучен прогноз погоды в Хабаровском крае на 23 ноября",
-          "url": "https://prokhab.ru/%E2%88%9224-c-v-severnyh-rajonah-ozvuchen-prognoz-pogody-v-habarovskom-krae-23-noyabrya/",
-          "source": "PROKHAB.RU"
-        }
-      ]
-    },
-    {
-      "keyword": "สภาพอากาศ",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T21:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_jqYNPvQ1-4psO6bQ0-KheM0le04PHPCxNEztF-TkqX0XquBY6qMeVohr-Jc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "📌อัปเดตข้อมูล ณ วันที่ 22 พ.ย. 69 เวลา 06.00 น. 📌พื้นที่เสี่ยงฝนตกหนัก - หนักมาก ⛈️ ❄️ ไทยตอนบนมีอากาศเย็นในตอนเช้า แต่ภาคเหนือตอนบนยังมีฝนบางแห่ง 🌡️ 24–25 พ.ย. มวลอากาศเย็นระลอกใหม่จากจีนจะแผ่เสริมลงมา ทำให้ไทยตอนบนมีอากาศเย็นลงและมีลมแรง ⛈️ ภาคใต้เริ่ม",
-          "url": "https://www.facebook.com/tmd.go.th/photos/%E0%B8%AD%E0%B8%B1%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%95%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-%E0%B8%93-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-22-%E0%B8%9E%E0%B8%A2-69-%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-0600-%E0%B8%99-%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%9D%E0%B8%99%E0%B8%95%E0%B8%81%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%81-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%9A/1621163963389066/",
-          "source": "Facebook"
-        },
-        {
-          "title": "สภาพอากาศวันนี้ -28 พ.ย.ใต้ฝนตกต่อเนื่อง ไทยตอนบนอากาศเย็น หมอกตอนเช้า",
-          "url": "https://www.thansettakij.com/general-news/674377",
-          "source": "Thansettakij"
-        },
-        {
-          "title": "อัปเดตน้ำทั่วไทย น้ำต้นทุน 82% แต่ต้องเฝ้าระวัง 17 อ่างฯ น้ำน้อย",
-          "url": "https://www.bangkokbiznews.com/news/news-update/1261877",
-          "source": "bangkokbiznews"
-        }
-      ]
-    },
-    {
-      "keyword": "홍창기",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T20:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSz7Y_Frq1WqDnx_93T7VMlf-gA_hVs5gcDSZitVywQA9OtuV3KIgAMCEkovkk",
+      "startedAt": "2026-11-22T22:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5PJW0KPfhLs2hr455oKtxcH9Il6emjCjj_8JdVLFpIsDUOapTfgucwGXWyhI",
       "category": "스포츠",
       "news": [
         {
-          "title": "세대교체 필요한 LG, 박동원과 홍창기 잡아야할까",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003287083",
-          "source": "오마이스타"
+          "title": "\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZQTGODGGQZDIZDDMEZGMYJZMI/",
+          "source": "조선일보"
         },
         {
-          "title": "FA 박동원·김태군·최재훈 뜻밖의 아킬레스건? 포수 수비 탑3에 없다…연쇄이동 제동 걸리나, 장기전 예고인가",
-          "url": "https://mydaily.co.kr/page/view/2026112004102210618",
+          "title": "\"日 사토보단 싸다\" 한화 노시환, ML 정말 가나! 주전 3루수 판 캔자스시티 급부상 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/2026112215404271386",
+          "source": "머니투데이"
+        },
+        {
+          "title": "美 매체 야드바커, 노시환 '수비 최대 강점' 평가…MLB 가성비 3루수 후보로 떠올라",
+          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435795",
+          "source": "데일리스포츠한국"
+        }
+      ]
+    },
+    {
+      "keyword": "김호령",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-22T22:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgfU_TNige8kAttu-jqF0t0rHTHWGoIO64nDhcAQD4eQhk1jb0RjuN9u16lQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김호령 KIA 유턴 가능성? 김호령 이어 정수빈까지 시장 나오나… 중견수 시장 지각변동",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021260",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "김호령은 말할 것도 없고, FA는 C등급이 볼매…전병우와 김상수도? 삼성 ‘구원’만 지키면 안 되는구나",
+          "url": "https://www.mydaily.co.kr/page/view/2026112305332992187",
           "source": "마이데일리"
         },
         {
-          "title": "염경엽 LG 감독 \"김범석, 나는 포기하지 않았다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261117137700007",
+          "title": "김호령? KIA, 신중하게 접근해야…대안 있다면 과감하게 결단할 필요도, 김호령도 자신의 가치 인정하는 구단과 계약해야",
+          "url": "https://www.maniareport.com/view.php?ud=20261122072216318291b55a0d56_19",
+          "source": "마니아타임즈"
+        }
+      ]
+    },
+    {
+      "keyword": "울릉도",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-22T22:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWZXXrV_PakKEDPX4y3HSKCx2PRk-uMqTYM7Q1TWB-L4w1R9VY4MrVcxQWmCQ",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[단독]울릉도 표류 北 주민 6명 조만간 송환하기로",
+          "url": "https://www.donga.com/news/Politics/article/all/20261123/135070407/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "에스더기도운동 2026년 11월 3주차 북한 및 국가 기도제목 : 선교",
+          "url": "https://www.christiantoday.co.kr/news/378655",
+          "source": "크리스천투데이"
+        },
+        {
+          "title": "울릉공항 지정면세점, 여객선 관광객은 혜택 못 받나",
+          "url": "https://www.ajunews.com/view/20261122094051322",
+          "source": "아주경제"
+        }
+      ]
+    },
+    {
+      "keyword": "thứ hạng của barcelona gặp villarreal",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMlNCZtv2eGw-U8bTqFvlIsF9jyTngZ8woNeZ0Wr4G-7VI-pPEStieqV7miDo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Video bóng đá Barcelona - Villarreal: Ngược dòng không tưởng (La Liga)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-barcelona-villarreal-choang-vang-2-phut-2-ban-la-liga-c48a1813207.html",
+          "source": "Tin tức 24h"
+        },
+        {
+          "title": "Chuyên gia tố trọng tài dung túng cho HLV Real và Barca",
+          "url": "https://bongda.com.vn/chuyen-gia-to-trong-tai-dung-tung-cho-hlv-real-va-barca-d856007.html",
+          "source": "bongda.com.vn"
+        },
+        {
+          "title": "Yamal lập kỷ lục đá hỏng phạt đền ở La Liga, Mbappe cũng dính “lời nguyền“",
+          "url": "https://tin.skydoor.net/news/tay-ban-nha/yamal-lap-ky-luc-da-hong-phat-den-o-la-liga-mbappe-cung-dinh-8447943",
+          "source": "tin.skydoor.net"
+        }
+      ]
+    },
+    {
+      "keyword": "콜레트 크레스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T21:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0_Vx5BxfLeiqVJbAB4YsF1_xUCZwN9VsfVhuqaG0sOXvC4xY3IVrSDqWRAGA",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]",
+          "url": "https://www.hankyung.com/article/202611185671i",
+          "source": "한국경제"
+        },
+        {
+          "title": "‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다",
+          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/23/MLPUPUEVJZD3BKET4VXRPATAZI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "미 재무 “엔비디아 수출통제 준수 여부가 핵심”…젠슨 황 복귀 가능성 배제 안 해",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719577",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T22:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_5gkGQXROezjm4G9XVFGF9KpkWvMuMvJGHj9MY8ozbThBTpIZSAE5O5y4lk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'떠나기 전 우승 약속' 손흥민 \"미국 무대 압박감 떨어져\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867651_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "MLS컵 PO 앞둔 손흥민 \"정상빈과 대결 기대…우승이 목표\"",
+          "url": "https://www.newsis.com/view/NISX20261122_0003878032",
+          "source": "뉴시스"
+        },
+        {
+          "title": "LAFC 손흥민 “우승하러 이곳에…트로피 도전, 우린 역사를 쓸 것”…MLS컵 PO 반전 약속한 리빙 레전드",
+          "url": "https://sports.donga.com/sports/article/all/20261122/135066623/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "getafe vs atlético",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T21:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZ6fklLcCJWS2rkk0JZBpEn_0a4QKC9f95Nf0HnlmdIeSczr9tcRGewkLzOdo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Baena sostiene la llama de un buen Atlético en su victoria en Getafe",
+          "url": "https://elpais.com/deportes/futbol/2026-11-22/baena-sostiene-la-llama-de-un-buen-atletico-en-su-victoria-en-getafe.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "'Kill pass → PK + provocación de expulsión': Lee Kang-in brilló sin puntos ofensivos... El Atlético, victoria aplastante 3-0 ante el Getafe",
+          "url": "https://www.starnewskorea.com/es/sports/2026/11/23/2026112305521469120",
+          "source": "스타뉴스"
+        },
+        {
+          "title": "Recital del Atleti en el Coliseum",
+          "url": "https://onefootball.com/es/noticias/recital-del-atleti-en-el-coliseum-43821840",
+          "source": "OneFootball"
+        }
+      ]
+    },
+    {
+      "keyword": "쟁의행위",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T22:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjm9NEBE7IqjPagVPwRZ03Q9jo6pgNCG5KohakNmn_0RQ0wqEU3RHV0NUa0V0",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "통합 자랑하던 코레일, 석달새 세번째 탈선",
+          "url": "https://www.chosun.com/national/transport-environment/2026/11/23/3YTQS6UICRCZZPNXG35QFEH5PY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "철도노조 \"안전운행 투쟁 26일로 연기‥사고 복구가 먼저\"",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6867631_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "선로 밖 튕겨나가…운행 중지로 수험생 '발동동'",
+          "url": "https://www.yna.co.kr/view/MYH20261121010800038",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "天气",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-22T21:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTclU2C2a3hAR52tVf_AKzWaBVjG-BP2TTPlin60a2GdS1YLnZ_5b8Mi-gVzJM",
+      "keyword": "메디게이트뉴스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T22:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40m32Pxw4Ujpq6WHA5bIYOz3YcuIhjgkdKYwl10JzgG7tCOSRMYKeHogC9bI",
       "category": "기타",
       "news": [
         {
-          "title": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending",
-          "source": "Bloomberg.com"
+          "title": "\"의대증원되는데 전문의 따야 하나요\"…전공의들이 의대생에게 전한 조언은",
+          "url": "https://www.medigatenews.com/news/3037552586",
+          "source": "MEDI:GATE NEWS"
         },
         {
-          "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-          "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-          "source": "CNBC"
+          "title": "“의대 증원한다고 흉부외과 지원하겠나”…대동맥 수술 대가의 반문",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044775",
+          "source": "청년의사"
         },
         {
-          "title": "Japan’s Economy Contracts Amid Inflation Squeeze",
-          "url": "https://www.wsj.com/economy/japan-economy-contracts-for-first-time-in-four-quarters-468f74f5",
-          "source": "WSJ"
+          "title": "사명감 너머의 현실, 젊은 의사들이 마주한 필수의료의 미래 : 병원·제약",
+          "url": "https://www.medicaldaily.co.kr/post/124368",
+          "source": "의약일보"
         }
       ]
-    },
-    {
-      "keyword": "교장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T20:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy_mvKBTMC8GR72oDBAEDhZM8O5EV8VB8_qHBDAb0BPTXPf7MJ2rHChb7gDZ8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"지우개 없어? 반으로 잘라!\" 감독관이 전한 ‘초유의 수능’",
-          "url": "https://news.jtbc.co.kr/video/NB12329097",
-          "source": "JTBC"
-        },
-        {
-          "title": "수능날 지우개가 안왔다…“반으로 잘라, 내가 책임” 기지 발휘한 교장",
-          "url": "https://www.donga.com/news/Society/article/all/20261122/135065591/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "수능 시험장에 지우개가 안왔다…“내 책임이여” 교장이 내린 결단은",
-          "url": "https://www.etnews.com/20261121000038",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "klasemen liverpool vs manchester united f.c.",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T21:30:00.000Z",
-      "picture": "",
-      "category": "스포츠",
-      "news": []
-    },
-    {
-      "keyword": "양산시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T21:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
     }
   ]
 }
