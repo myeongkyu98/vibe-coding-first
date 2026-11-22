@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:44:05.861Z",
+  "updatedAt": "2026-11-22T15:39:37.068Z",
   "summary": [
     {
       "category": "스포츠",
@@ -10,37 +10,37 @@
       "count": 3
     },
     {
-      "category": "연예",
+      "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "barcelona vs villarreal",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-22T12:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYNOGszqTzTh_M4eFjwHBqbLpd9yv60mn6H1FkeYaiI3zRmXTZ33ZXPcT2KOw",
-      "category": "스포츠",
+      "keyword": "아우크스부르크 대 마인츠 05",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-22T13:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1swXQC8EWyacD522BTQeDFYygRXn4oeRlFp7DYq7kOoEInlkizlXHyFE6lbA",
+      "category": "기타",
       "news": [
         {
-          "title": "Barcelona - Villarreal en directo | Gerard Martín y Fermín empatan el partido en cuatro minutos",
-          "url": "https://elpais.com/deportes/futbol/2026-11-22/barcelona-villarreal-en-directo-el-partido-de-la-liga-en-vivo.html",
-          "source": "EL PAÍS"
+          "title": "Best of ESPN New York (Clips) - NY GameDay Hour 1: Why isn't Cade Klubnik starting?",
+          "url": "https://www.espn.com/radio/play/_/id/50561877",
+          "source": "ESPN"
         },
         {
-          "title": "El Villareal anota el segundo",
-          "url": "https://www.tudn.com/futbol/la-liga/el-villareal-anota-el-segundo-video",
-          "source": "TUDN"
+          "title": "Picked! Darrell Sweeting hauls in the interception",
+          "url": "https://www.espn.com/video/clip/_/id/50557603/picked-darrell-sweeting-hauls-interception",
+          "source": "ESPN"
         },
         {
-          "title": "Dani Olmo y Jules Koundé, las novedades en la lista de Flick",
-          "url": "https://www.vavel.com/es/futbol/2026/11/22/fc-barcelona/1280271-los-convoca.html",
-          "source": "VAVEL.com"
+          "title": "Arizona 35-28 Kansas State (Nov 21, 2026) Game Recap",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856865",
+          "source": "ESPN"
         }
       ]
     },
@@ -70,27 +70,77 @@
       ]
     },
     {
-      "keyword": "pakistan a vs india a",
+      "keyword": "맨유 리버풀",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-22T13:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlnajtCncnhICVXws7_qR-FIhthaiG-VD8GiE371Zh_CIhhcw0rn5v-KSfVwc",
+      "startedAt": "2026-11-22T13:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFunvJemn7laSXERviXbDo6AE7WAjXA3NBEfIXrZMRH1Qw3X8RqdKP5PcbsB8",
       "category": "스포츠",
       "news": [
         {
-          "title": "Pakistan A opt to bat against India A; both teams unchanged",
-          "url": "https://www.cricinfo.com/story/ind-vs-pak-asia-cup-rising-stars-pakistan-a-opt-to-bat-against-india-a-both-sides-unchanged-1563603",
-          "source": "Cricinfo"
+          "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314241",
+          "source": "베스트일레븐"
         },
         {
-          "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-          "url": "https://m.cricbuzz.com/player-match-performance/match/177178/player/24729/bowling?inningsId=1",
-          "source": "Cricbuzz"
+          "title": "리버풀은 안필드에서 맨체스터 유나이티드를 상대로 전력을 회복해야 합니다.",
+          "url": "https://www.vietnam.vn/ko/liverpool-can-lay-lai-suc-manh-tai-anfield-truoc-man-united",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Maaz Sadaqat Hits Fifty as Pakistan A Recover Against India A",
-          "url": "https://cwibc.co.id/en/maaz-sadaqat-pakistan-india",
-          "source": "cwibc.co.id"
+          "title": "리버풀·맨유 맞대결…이삭 7골 vs 음뵈모 4골 : EPL",
+          "url": "https://news.jkn.co.kr/post/1114277",
+          "source": "재경일보"
+        }
+      ]
+    },
+    {
+      "keyword": "laliga",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T14:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQicZIC1rYDroJpDS3JuQFlgMkuJDcBHSMBDcypnpyeez4khWqQWvxERwlrWRs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Lamine Yamal misses penalty against Villarreal in the 23rd minute",
+          "url": "https://www.tufutbolero.com/en/news/lamine-yamal-misses-penalty-against-villarreal-in-the-23rd-be9edc",
+          "source": "Tu Futbolero"
+        },
+        {
+          "title": "Flick explains García and De Jong positions and justifies faith in Adeyemi",
+          "url": "https://www.goal.com/en/news/flick-explains-garcia-and-de-jong-positions-and-justifies-faith-in-adeyemi/blt4fe7555b6c6a64a4",
+          "source": "Goal.com"
+        },
+        {
+          "title": "FC Barcelona News: 22 November 2026",
+          "url": "https://sports.yahoo.com/articles/fc-barcelona-news-22-november-080000025.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "백종헌",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T14:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNGc0Y-z-ZztJM-XZhYM4OH6N4Q1-ECji1mEslBEG7KSMFiNkEeYaF-i6OHFk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "검증 안 된 농산물 성분 광고 제동…과학적 근거 따진다",
+          "url": "https://www.news1.kr/bio/welfare-medical/6361990",
+          "source": "뉴스1"
+        },
+        {
+          "title": "기능성 농산물 표시제 놓고 식약처·농식품부 충돌…법사위 제동",
+          "url": "https://www.foodtoday.or.kr/news/article.html?no=209942",
+          "source": "푸드투데이"
+        },
+        {
+          "title": "백종헌 의원, 식품표시광고법 개정안 대표발의",
+          "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=506203",
+          "source": "글로벌뉴스통신GNA"
         }
       ]
     },
@@ -120,85 +170,60 @@
       ]
     },
     {
-      "keyword": "барселона – вильярреал",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T13:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhplGwEeJGYER8sazjdAGBHNqTqmbfMdDYCemzuJ_PlFgqCo1fdGJEim_hcyY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "«Барселона» — «Вильярреал»: где смотреть прямую трансляцию матча 13‑го тура Ла Лиги 22 ноября",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2388225_Barselona__Viljarreal_gde_smotret_pramuju_translaciju_matcha_13go_tura_La_Ligi_22_nojabra",
-          "source": "Матч ТВ"
-        },
-        {
-          "title": "Барселона – Вильярреал. Смотреть онлайн LIVE прямую видеотрансляцию матча Ла Лиги",
-          "url": "https://www.ua-football.com/foreign/spain/1795339208-barselona-vilyarreal-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-la-ligi.html",
-          "source": "UA-Football"
-        },
-        {
-          "title": "ВИДЕО. Помешал ветер? Как Ямаль не забил пенальти в ворота Вильярреала",
-          "url": "https://sport.ua/news/927362-video-pomeshal-veter-kak-yamal-ne-zabil-penalti-v-vorota-vilyarreala",
-          "source": "Sport.ua"
-        }
-      ]
-    },
-    {
-      "keyword": "barcelona đấu với villarreal",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T13:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwwAHrrcjoE-wZNdO7A1dU05eHW0xmYQVcd7uDXVT9BeOx8OzXl0Vk8ssPXcc",
+      "keyword": "브라이튼",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T14:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV3X4eB5fTGlrG6TNTscefyhDNcko5wgYGLRcPIbbx2_vPzauGDes3IE77Z_A",
       "category": "스포츠",
       "news": [
         {
-          "title": "Trực tiếp bóng đá Barcelona - Villarreal: Yamal đá chính, Gordon dự bị (La Liga)",
-          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-barcelona-villarreal-diem-tua-san-nha-la-liga-c48a1813129.html",
-          "source": "Tin tức 24h"
+          "title": "헐 시티 vs 브라이튼 경기 프리뷰 및 예측: 브라이튼은 여전히 ​​높이 비상한다",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-hull-city-vs-brighton-bay-chim-tiep-tuc-bay-cao",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Trực tiếp bóng đá hôm nay 22/11: Lịch phát sóng và tỷ số",
-          "url": "https://thethao247.vn/63-truc-tiep-bong-da-hom-nay-22-11-lich-phat-song-va-ty-so-c1-d446640.html",
-          "source": "Thể Thao 247"
+          "title": "헐 시티 vs 브라이튼 경기 예측: 홈팀이 승리 행진을 재개하려 할 것입니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-hull-city-vs-brighton-chu-nha-tim-lai-chien-thang",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "Nhận định bóng đá Barca vs Villarreal: Gọi tên Lamine Yamal",
-          "url": "https://vietnamnet.vn/nhan-dinh-bong-da-barca-vs-villarreal-vong-13-la-liga-2577541.html",
-          "source": "Báo VietNamNet"
+          "title": "경기 프리뷰: 헐 시티 vs 브라이튼, 11월 22일 오후 9시: \"브라이튼\"은 여전히 ​​승승장구하고 있습니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-hull-city-vs-brighton-21h00-ngay-22-11-mong-bien-chua-moi-canh",
+          "source": "Vietnam.vn"
         }
       ]
     },
     {
-      "keyword": "김승수",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T13:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKPKLTVlOZGQv7CsoLMo1OYwDB07KOuH16KkLFJAeKwzhBJL0k4qW_ZUyrVGY",
-      "category": "연예",
+      "keyword": "fc 바르셀로나",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T14:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQklXFDlDU7ltQD7V85gJkSHWkaQPIgQ5B7qucyu8_kRpbgiJN-NdjKDX43jX8",
+      "category": "스포츠",
       "news": [
         {
-          "title": "미운 우리 새끼 : [선공개] 김승수, 박혜연과 함께 기적 같은 혼성 듀엣 노래 부르기 성공",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483923190",
-          "source": "programs.sbs.co.kr"
+          "title": "문도 데포르티보: 바르셀로나 II 유망주 함자 압델카림, 경미한 부상으로 주말 두 경기 결장",
+          "url": "https://www.allfootballapp.com/ko/articles/6037338-ii",
+          "source": "AllFootball"
         },
         {
-          "title": "김승수♥박혜연, 거침없는 쌍방 플러팅…핑크빛 기류 물씬",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6362165",
-          "source": "뉴스1"
+          "title": "라리가 바르셀로나 대 비야레알 축구 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-barcelona-vs-villarreal-tai-la-liga-1804488.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
-          "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
-          "source": "스포츠조선"
+          "title": "[라리가 REVIEW] '무리뉴, 따라올 테면 따라와 봐'...'10분 만에 3골' 바르셀로나, 비야레알에 0-2→3-2 대역전승!→레알 따돌리고 다시 단독 1위",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699026",
+          "source": "인터풋볼"
         }
       ]
     },
     {
-      "keyword": "이혜영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T12:20:00.000Z",
+      "keyword": "조정석",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T13:40:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
@@ -208,32 +233,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-22T13:30:00.000Z",
-      "picture": "",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROsQ8UdpduNqvvIoRDRo-taJWXrAnvU-D8mHEm7eZwux7fqX3jMkL8OTrUXxw",
       "category": "스포츠",
-      "news": []
-    },
-    {
-      "keyword": "明天的天氣",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T12:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFnvhVv4iKhT61UslJOuRZL_3aSvg8Mmp4-bAdg61xIjlu2d9pVh1evpNBYcc",
-      "category": "기타",
       "news": [
         {
-          "title": "白天轉晴早晚冷下週二起另一波",
-          "url": "http://www.metapp.org.tw/pages/post-bacd70f1e44fcf4c2752.html",
-          "source": "氣象應用推廣基金會"
+          "title": "Latest Super League Standings After Persib Beats Bali United: Maung Bandung Enters Top 4, Persija Threatened!",
+          "url": "https://aktualita.co/en/sports/persib-bandung-super-league-standings-update",
+          "source": "Aktualita.co"
         },
         {
-          "title": "明天的天氣/2波冷空氣來了！全台降溫變天「這3天最濕冷」低溫下探15度， 一周氣象一次看",
-          "url": "https://www.storm.mg/lifestyle/11183974",
-          "source": "風傳媒"
+          "title": "Predicted Lineups for Persib vs Bali United Tonight: Thom Haye and Marc Klok in the Spotlight, Who Starts at GBLA?",
+          "url": "https://aktualita.co/en/sports/persib-vs-bali-united-lineup-prediction",
+          "source": "Aktualita.co"
         },
         {
-          "title": "冷氣團後回暖還有變數！氣象署揭兩波鋒面時間12月初氣溫看升| 生活",
-          "url": "https://newtalk.tw/news/view/2026-11-22/1072566",
-          "source": "Newtalk新聞"
+          "title": "Full Time Persib vs Bali United 2-1: Dramatic Comeback for Maung Bandung, Menalo's Goal Rocks GBLA!",
+          "url": "https://aktualita.co/en/sports/persib-vs-bali-united-dramatic-comeback",
+          "source": "Aktualita.co"
         }
       ]
     }
