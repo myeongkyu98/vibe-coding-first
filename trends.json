@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-22T20:39:36.303Z",
+  "updatedAt": "2026-11-22T21:37:25.126Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 3
-    },
-    {
       "category": "기타",
-      "count": 3
+      "count": 5
     },
     {
       "category": "정치·사회",
       "count": 3
+    },
+    {
+      "category": "경제",
+      "count": 1
     },
     {
       "category": "스포츠",
@@ -20,59 +20,34 @@
   ],
   "items": [
     {
-      "keyword": "헤타페 대 아틀레티코",
+      "keyword": "코스피",
       "traffic": "10000+",
       "trafficValue": 10000,
-      "startedAt": "2026-11-22T19:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRJlKfNlTh521wM-y3e7_aXSL9R3X0j-_48rOpuDOkNAatKfE7AEt64fLGCy4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“이강인 선발 제외→벤치에 앉을 것” 西 매체 “AT·마드리드, 최전방 공격수들 득점력 문제있어” 헤타페전 LE...",
-          "url": "https://sports.khan.co.kr/article/202611222008003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "'루크먼 부상' ATM, 해법은 '이강인 시프트'?...헤타페전 시험대",
-          "url": "https://news.tf.co.kr/read/soccer/2391760.htm",
-          "source": "더팩트"
-        },
-        {
-          "title": "`이강인이 없다`…아틀레티코 시메오네 감독, 라리가 재개 앞두고 새로운 포메이션 시험",
-          "url": "https://mydaily.co.kr/page/view/2026112022311068817",
-          "source": "마이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "코스피",
-      "traffic": "5000+",
-      "trafficValue": 5000,
       "startedAt": "2026-11-22T19:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqnXOrZcrtWuT7PmGUxPzf3-G1tKDCa5Br5mwZjf78mDSDSfNuUlWwD8llrWA",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSTMRs7MZ0EPxQBeLA3pQywOnilxEaXz2DZ2DTu3GPX4k4EUSqdWvWvp4xEv4",
       "category": "경제",
       "news": [
         {
-          "title": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445871",
-          "source": "연합인포맥스"
+          "title": "개미들 563조 잃고 빚더미… 외국인은 224조 팔아 수익",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/11/23/V5DLSBKXWRFCDNI522LM3JQFUM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "같은 4,800선인데도…코스피 ’1조클럽’ 11% 감소",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261123060115kak",
+          "source": "연합뉴스TV"
         },
         {
           "title": "하루 만에 5% 급락한 코스피, 4,800대로 밀린 이유는?",
           "url": "https://story.pay.naver.com/content/4019",
           "source": "네이버페이 머니스토리"
-        },
-        {
-          "title": "개미들 563조 잃고 빚더미… 외국인은 224조 팔아 수익",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/11/23/V5DLSBKXWRFCDNI522LM3JQFUM/",
-          "source": "조선일보"
         }
       ]
     },
     {
       "keyword": "잠수함",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-22T19:30:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUeYPVteU5LbI5Z8oKS8Uk3_x50Hj_7YZJhkYethd9ni8cGjrvoMosphyyhc",
       "category": "기타",
@@ -95,109 +70,118 @@
       ]
     },
     {
-      "keyword": "통장",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T19:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUnuCyJGPlsan-oCJdGNe3V6Yc-ty25HZNxIlCNQ9NG3-2nfbBnoIwTJgIlUo",
-      "category": "경제",
-      "news": [
-        {
-          "title": "코스피 반토막에 고금리…4050 마통 연체액 82%·77% 급증",
-          "url": "https://www.donga.com/news/Economy/article/all/20261122/135067111/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "“빚내서 주식했다가 물렸다”…4050 덮친 '빚투 부메랑'",
-          "url": "https://www.etnews.com/20261122000084",
-          "source": "전자신문"
-        },
-        {
-          "title": "\"이자 오르고 주식 물리고\"… 40대 마통 연체 82% 폭증",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "카를로스 알카라스",
+      "keyword": "thứ hạng của liverpool gặp man utd",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-22T19:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzMFc8RiMyohlcwtXJscar-Kkdz6SFP0-6M9EZ2-ps067BVJMCUCQcE6wvxjk",
+      "startedAt": "2026-11-22T20:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE7UvVGF0ryYef782LC-ayPqWeBO2MBMOcag-MHYZ6Q5KM-vmvLE0e5H13cNI",
       "category": "기타",
       "news": [
         {
-          "title": "알카라스, ATP 파이널스 전승으로 준결승 진출…셸턴과 4강 격돌",
-          "url": "https://www.donga.com/news/Sports/article/all/20261121/135064955/1",
-          "source": "동아일보"
+          "title": "Video bóng đá Liverpool - MU: Bước ngoặt thẻ đỏ, 4 bàn định đoạt đại chiến (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-liverpool-mu-buoc-ngoat-the-do-4-ban-dinh-doat-dai-chien-ngoai-hang-anh-c48a1813287.html",
+          "source": "Tin tức 24h"
         },
         {
-          "title": "[테니스] ATP 파이널스 준결승 결과",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759552",
-          "source": "국제뉴스"
+          "title": "Man Utd thảm bại trong trận ra mắt của Pochettino",
+          "url": "https://vnexpress.net/man-utd-tham-bai-trong-tran-ra-mat-cua-pochettino-5147763.html",
+          "source": "VnExpress"
         },
         {
-          "title": "셸턴에 역전승, 환호하는 알카라스",
-          "url": "https://mobile.newsis.com/photo/NISI20261122_0002298848",
-          "source": "뉴시스"
+          "title": "Thống kê trận đấu Liverpool 4-0 Manchester United: Liverpool thắng đậm thuyết phục",
+          "url": "https://baolamdong.vn/thong-ke-tran-dau-liverpool-4-0-manchester-united-liverpool-thang-dam-thuyet-phuc-475361.html",
+          "source": "Báo Lâm Đồng"
         }
       ]
     },
     {
-      "keyword": "집",
+      "keyword": "대장동",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-22T18:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQcukbFyw188Tt376LsIrYZ9sX_frZ8aeKN1lEunGsHoIjWSO5MwU1HsXeqE",
-      "category": "경제",
+      "startedAt": "2026-11-22T19:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQbSxRKsmmUnyxRAz8UzTdsbIMSJaqjtfGz2wbw0rBiGfeGzEc9YxCUhrA0b8",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "‘전세금+3억’이면 샀던 집, 올해는 6억 더 줘야 산다",
-          "url": "https://www.donga.com/news/Economy/article/all/20261122/135068837/2",
-          "source": "동아일보"
+          "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "2023년 전세 계약한 서울 6만4000가구…내년 이사 땐 보증금 평균 36% 더 필요",
-          "url": "https://www.khan.co.kr/article/202611222116015",
-          "source": "경향신문"
+          "title": "이 대통령, '대장동 의혹' 또 반박‥\"업자와 결탁한 시장 아냐\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867658_36911.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "\"매매도 전세도 막히면 어디로 가나\"…향후 부동산 시장 판단 기준은",
-          "url": "https://www.newsis.com/view/NISX20261118_0003873204",
-          "source": "뉴시스"
+          "title": "李대통령 “4300억 확정 후 1100억 더 받아”...대장동 배임 의혹 재반박",
+          "url": "https://www.kyeonggi.com/article/20261122580365",
+          "source": "경기일보"
         }
       ]
     },
     {
-      "keyword": "휴게소",
+      "keyword": "버스",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-22T19:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-mvIitgYDEScfk8mtxIZ17CDEj5tUowA0t2KUAlp6sKwLtmqVh_G7c-RAWgk",
+      "startedAt": "2026-11-22T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDZeurJpgxa8H-Y-Yd0hqLBmiJ3vLnD46vAsokvXZ-gBBdMvTczjQha6v5blI",
       "category": "기타",
       "news": [
         {
-          "title": "[단독] 전관 천국, 휴게소… 납품대금 18억원 떼먹어도 ‘이상 없음’",
-          "url": "https://h21.hani.co.kr/arti/society/society_general/60193.html",
-          "source": "한겨레21"
+          "title": "홍대서 버스 인도 돌진…경부선 운행 재개",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719348",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "[주목 e-기관] \"\"수수료 33%→8%로\" 韓도로공사, 공공 직계약 휴게소 8곳 첫 도입…\"중간 운영업체 구조 개편 본격\"",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=425385",
-          "source": "이코노미톡뉴스"
+          "title": "홍대입구역 인근 3중 추돌‥경부선 첫차 운행 재개",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867543_37012.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "한국도로공사, ‘국민 신뢰 회복 및 반부패‧청렴 실천을 위한 노사 공동선언문’ 발표",
-          "url": "http://m.bmnews.kr/view.php?idx=12898",
-          "source": "밝은미래신문"
+          "title": "'쾅' 순식간에 인도 덮쳤다…승객 6명 병원 이송",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857284",
+          "source": "SBS 뉴스"
         }
       ]
+    },
+    {
+      "keyword": "경제",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp6ITEFP_zcj9MWF6eeMWoGbgLEkg1SuxFWKMz0CMz99A5_8CdgH73P0hqSHI",
+      "category": "기타",
+      "news": [
+        {
+          "title": "서울시 '중장년 경제교육' 7천명 참여…경제이해도 24점↑",
+          "url": "https://www.yna.co.kr/view/AKR20261122028400004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "서울시 중장년 경제교육 7076명 참여…목표 2배 육박",
+          "url": "https://www.news1.kr/local/moi/6361807",
+          "source": "뉴스1"
+        },
+        {
+          "title": "중장년 경제교육 ‘서울 리테크’, 올해 7076명 참여",
+          "url": "https://www.etoday.co.kr/news/view/2651375",
+          "source": "이투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "ลำดับของ ลิเวอร์พูล พบ แมนยู",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T19:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "비야디",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-22T19:30:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-PZY-9b7-hWozNWpYDymSDxkX-3Gk7I5KVcz398qwSmGjkxmDb4JXGo9nxEU",
       "category": "정치·사회",
@@ -221,8 +205,8 @@
     },
     {
       "keyword": "평택시장",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-22T19:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTirZJAmBhpzxKuJtyteyg8TyGw9MFWXOkxO3GHjHIhMGGlXqgs9tcKq2gv8ng",
       "category": "정치·사회",
@@ -245,27 +229,27 @@
       ]
     },
     {
-      "keyword": "수색영장",
+      "keyword": "아틀레티코 마드리드",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-22T18:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCT1ga6YqU8WnnXp4-SBzOtSUjBLuesrYpMGAKmiP6deCgI2HLhURZYPLS35E",
-      "category": "정치·사회",
+      "startedAt": "2026-11-22T19:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwfyF7rgtcTkla-OxK3ln-9shDiLEy-9xO11poXGf7s0zngWUa5zyeC2DVoRQ",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[단독] 중수청 첫 기업 수사부터 ‘별건’ 의혹…공소청·법원 ‘줄기각’",
-          "url": "https://news.jtbc.co.kr/article/NB12329266",
-          "source": "JTBC"
+          "title": "모레노 감독에게 기회를 더 줘야 하는 이유",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=57304",
+          "source": "주간조선"
         },
         {
-          "title": "'서울중수청 1호 강제수사' 명륜당 회장 추가 압수수색영장 기각",
-          "url": "https://www.yna.co.kr/view/AKR20261122036400004",
-          "source": "연합뉴스"
+          "title": "“죄송한 마음이 크다” 손흥민, 한국 대표팀 1년 돌아보고 밝힌 소감 “사랑해주시는 팬분들한테 감사드린다”",
+          "url": "https://sports.khan.co.kr/article/202611222025003",
+          "source": "스포츠경향"
         },
         {
-          "title": "서울중수청 “반독점국장 찾습니다”",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229805",
-          "source": "법률신문"
+          "title": "'모레노호' 3승1무2패 성적표 너머, 한국 축구는 무엇을 남길 것인가 [이영규의 비욘더매치]",
+          "url": "https://news.tf.co.kr/read/soccer/2391874.htm",
+          "source": "더팩트"
         }
       ]
     }
