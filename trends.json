@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-22T08:08:27.569Z",
+  "updatedAt": "2026-11-22T09:43:45.764Z",
   "summary": [
     {
-      "category": "기타",
+      "category": "경제",
       "count": 3
     },
     {
       "category": "정치·사회",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 2
     },
     {
       "category": "스포츠",
       "count": 1
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
+      "category": "생활·날씨",
       "count": 1
     },
     {
@@ -28,202 +28,202 @@
   ],
   "items": [
     {
-      "keyword": "김정은",
+      "keyword": "김천상무 대 제주 sk fc 순위",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-22T06:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03Y2-tnWU9fYtS8l69eMlkV2zZ_X44LjxQ7_9PpwHo04el40kLE6t0OgwJRM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"김정은, 美가 받아들이기 힘든 조건 내걸어 北美회담 무산\"",
-          "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
-          "url": "https://www.yna.co.kr/view/AKR20261122023100009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "트럼프 '나 홀로 구애' 또 불발...김정은 몸값만 키웠다",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611212309562496_005.html",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "외교",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T05:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-TU75c6-4AUu3rGbmO8i3pOcH428dxhnil5mBwvKTCWahDEJnn9WXcsHFuU",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "이 대통령 “치아 흔들리고 코피 터지지만 임기 초 순방은 국정과제…돼지 눈엔 돼지만 보여”",
-          "url": "https://www.khan.co.kr/article/202611221525001",
-          "source": "경향신문"
-        },
-        {
-          "title": "李 “돼지 눈엔 돼지만…해외 순방, 치아 흔들리고 코피 터지는 일”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261122/135066467/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "野 ’대통령 순방’ 비판에 靑 “눈 들어 해외 정상 순방외교 보라“",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122094947Xl8",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "해저",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-22T06:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-m_5l8ZE64DYHbaQhlygATILrp9vgHyKkq7QGLWEY2bFJyxMWlBQvtkJi11A",
-      "category": "기타",
-      "news": [
-        {
-          "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
-          "url": "https://www.khan.co.kr/article/202611221013001",
-          "source": "경향신문"
-        },
-        {
-          "title": "해경 \"해저서 해광호 선체 발견\"…수색 닷새째만",
-          "url": "https://www.yna.co.kr/view/AKR20261122036000063",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[속보] 실종 어선 ‘해광호’ 5일 만에 발견…마지막 위치서 ‘침몰’",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719379",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "이대호",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T06:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZH2qk6DI4OmYwQNyuOQ5JrnZhrnumOtJQBBC3ZFpcVGYkLZBosXIoJpgQhU",
+      "startedAt": "2026-11-22T07:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSdLD4eKZDRYejqf7bksk6hd-_LmZfNo3FQK3nxkx940sC_DSxB92_wte7d0",
       "category": "스포츠",
       "news": [
         {
-          "title": "‘이대호 3구 삼진’ 삼성 1R 출신 이호범, 팔꿈치 수술 딛고 다시 시작된 도전…“공 던질 생각에 설렌다” [오!쎈 경산] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/22/202611220131775873O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "‘불꽃야구2’ ‘믿을맨’ 신재영, 삼성 지명 신인과 살 떨리는 맞대결…실점 위기 넘길까",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GJQTKYZUMY3GIYRVGQ3TSMTFMM/",
+          "title": "[현장인터뷰]주승진 김천 감독 \"구조 바꾸면서 준비\" vs 코스타 제주 감독 \"이탈로, 팀 도울 준비가 됐다\"",
+          "url": "https://www.chosun.com/sports/football/2026/11/22/GMYTQYJVMJTDMYTFGYZTMNDFGY/",
           "source": "조선일보"
         },
         {
-          "title": "'불꽃야구2' 파이터즈, VS 강릉영동대 '집중력 시험대'",
-          "url": "https://www.etnews.com/20261122000037",
-          "source": "전자신문"
+          "title": "'5경기 무승 탈출' 제주SK 7위 굳히기 '청신호'",
+          "url": "https://app.ihalla.com/article.php?aid=1795334578793059051",
+          "source": "한라일보"
+        },
+        {
+          "title": "'김신진 PK 결승골' K리그 제주, 김천 꺾고 6경기 만에 승리",
+          "url": "https://www.news1.kr/sports/soccer/6362053",
+          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "이스라엘",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T06:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ7Vd0qj59nHYsNjqtqqTqWonNO99WQ3_yVDBcHwKQZXpNStMmBB5fPxHkj14",
+      "keyword": "정부",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-22T07:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ms6P0AsId35r3fAE7OpBU1TD0kaGnplSxbAj_P0UvpLHm2y_8YNNeL1jaJU",
       "category": "정치·사회",
       "news": [
         {
-          "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122024936e1r",
-          "source": "연합뉴스TV"
+          "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "트럼프 “핵무기 갖게 두지 않겠다…이란과 영구적인 합의 만들 것”",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1288468.html",
-          "source": "한겨레"
+          "title": "[속보] 정부, 국내외 증시 급락에 ‘증시안정펀드’ 가동 준비",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/3FVYB6T4YZBKFEZH5OYZ4N5LKI/",
+          "source": "조선일보"
         },
         {
-          "title": "트럼프 “무능한 대통령 나와도 이란 핵 못 갖게 영구 합의”",
-          "url": "https://www.donga.com/news/Inter/article/all/20261122/135065558/1",
-          "source": "동아일보"
+          "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
+          "source": "연합인포맥스"
         }
       ]
     },
     {
-      "keyword": "마이너스 통장",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLhvi3rgG8OhoYgpl_HvTEuzvyDfKFeB-AlzIT9B-SUkRsO0xMe2CHOXojKTo",
-      "category": "경제",
+      "keyword": "노동자",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasTghIZWQijy5KIjKqjVXreUHvB8MHvkSxZ4-yP-t3uBZMelDP7cKms18nvk",
+      "category": "기타",
       "news": [
         {
-          "title": "\"이자 오르고 주식 물리고\"… 40대 마통 연체 82% 폭증",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/",
-          "source": "조선일보"
+          "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
+          "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
+          "source": "한겨레"
         },
         {
-          "title": "“1년 새 도대체 무슨 일이 있었던 거죠?”…40대 마통 연체액 82% ‘폭증’",
-          "url": "https://stock.mk.co.kr/news/view/1203772",
-          "source": "매일경제 마켓"
+          "title": "[한국 입국과 그 이후 12] 외국인 노동자가 산재를 당하면 체류는?",
+          "url": "https://www.eroun.net/news/articleView.html?idxno=90955",
+          "source": "이로운넷"
         },
         {
-          "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
-          "url": "https://www.yna.co.kr/view/AKR20261121040600002",
+          "title": "[삶] \"어린동생 3명과 병든부모 있는데…산재신청 했다고 해고하네요\"",
+          "url": "https://www.yna.co.kr/view/AKR20261115052100546",
           "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "방학",
+      "keyword": "검은 월요일",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T07:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt09URbnA1hc1THikUT9DtLwZustyWbqMh1paZkO3a9e1i0DpVO5kPPHmZudU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121044000083",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "대만, 일주일새 17% 증시급락에 \"전일 종가미만 공매도 금지\" - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/22/2026112212340930666",
+          "source": "머니투데이"
+        },
+        {
+          "title": "대만, 23일부터 직전 종가 미만 공매도 금지…증거금 150%로",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02122166645648016",
+          "source": "마켓인"
+        }
+      ]
+    },
+    {
+      "keyword": "김영훈",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-22T05:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxTgbmhj_FmLukv-Ls8DXrkksJ3mnxF50Fc0MgLCT9F4JY0n4Spc06FpKdG-M",
+      "startedAt": "2026-11-22T08:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCu1S89lAnNpQBm1OxTxi2Glh8OlnDNGF2L_WJLAilXLOe2GAv44pkvVoxQZU",
       "category": "정치·사회",
       "news": [
         {
-          "title": "제주경찰, 수능 이후 청소년 밀집지역 합동순찰",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=848054",
-          "source": "제민일보"
+          "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "수원장안경찰서, 수능 종료 맞아 정자중심상가 합동순찰…청소년 보호 활동 강화",
-          "url": "https://www.kyeonggi.com/article/20261122580116",
-          "source": "경기일보"
+          "title": "정년연장 논의 재개 앞두고…김영훈 \"합의 안 되면 정부가 나설 것\"",
+          "url": "https://www.chosun.com/national/labor/2026/11/22/4ENU5B5NBFH2NE3ME22UYORJPY/",
+          "source": "조선일보"
         },
         {
-          "title": "자치경찰단, 수능 이후 청소년 유해환경 특별단속",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718089",
+          "title": "2029년부터 정년 한 살씩 늘리나…65세 정년연장, 정부안 발표 초읽기",
+          "url": "https://stock.mk.co.kr/news/view/1203791",
+          "source": "매일경제 마켓"
+        }
+      ]
+    },
+    {
+      "keyword": "인수 합병",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T07:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvvlo-vRUJX3zGRNoGaxB1GEljJ4DmoZeWPX_Vm5tf3WR_7OerK2Ku3extcgU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "이탈리아 우니크레디트, 독일 2위 은행 인수 눈앞",
+          "url": "https://www.yna.co.kr/view/AKR20261119174800082",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "“말단 직원 놔두고 관리직부터 쳐내라”…윗사람 안 만들겠다는 이 은행",
+          "url": "https://www.mk.co.kr/news/world/12214362",
+          "source": "매일경제"
+        },
+        {
+          "title": "J.P. Morgan 유럽 금융 콘퍼런스서 UniCredit SpA, 성장·인수 구상 제시",
+          "url": "https://kr.investing.com/news/transcripts/article-93CH-2184078",
+          "source": "Investing.com 한국어"
+        }
+      ]
+    },
+    {
+      "keyword": "기온",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T08:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMexMad6FyQGrYYK5SWNFCh1IPY5q7a1WhGUIFabaZeAMA5guEN_dK2K6pV_E",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+          "source": "YTN"
+        },
+        {
+          "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
+          "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "서울 낮기온 5도…내일 전국에 비·눈",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719349",
           "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "오픈ai",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T05:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ9IgeJApCBFQZRDVfCWRuT34JpD6QWaq1JAbTzANmNmtu7UNmX7RXvigvKBI",
-      "category": "IT·과학",
+      "keyword": "코스닥",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T07:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtOkIQow-ThJCv4WAYvMH91V-gGRvcHgjd_WRdFODpEWFSuA8SmUK3_Oz7bfU",
+      "category": "경제",
       "news": [
         {
-          "title": "\"오픈AI 기업문화 무너져\"…퇴사 직원, AI 폭주 경고",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01361206645648344",
-          "source": "마켓인"
+          "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+          "url": "https://www.yna.co.kr/view/AKR20261121027600008",
+          "source": "연합뉴스"
         },
         {
-          "title": "[월가 톡톡] 올트먼 \"인간이 AI의 '리트리버' 되는 미래 원치 않아\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445783",
-          "source": "연합인포맥스"
+          "title": "찬 바람이 쌩쌩 불 때, 핫한 로보틱스…CES·테슬라 이벤트 주목[주末머니]",
+          "url": "https://core.asiae.co.kr/article/2026112016445199808",
+          "source": "아시아경제"
         },
         {
-          "title": "\"영리 기업이 AI 만드는 건 미친일\"…앤트로픽 전 연구원의 경고 - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/21/2026112109013740713",
-          "source": "머니투데이"
+          "title": "코스닥 시총 상위 10등에 2곳…이젠 '로봇' 시대",
+          "url": "https://stock.mk.co.kr/news/view/1203782",
+          "source": "매일경제 마켓"
         }
       ]
     },
