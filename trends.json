@@ -1,32 +1,86 @@
 {
-  "updatedAt": "2026-11-22T10:42:24.384Z",
+  "updatedAt": "2026-11-22T11:39:31.251Z",
   "summary": [
     {
       "category": "기타",
       "count": 3
     },
     {
-      "category": "생활·날씨",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
-      "category": "스포츠",
+      "category": "생활·날씨",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     },
     {
       "category": "경제",
       "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "수능 부정행위",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-22T10:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxZgVu8Z9oCEWu2Uwmniq1AalUDejN--IWP6z7ylnNrQbXaB6V3VCYokfOSoM",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976210",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "\"제각각 지침 불편\"...교육 수장 없는 입시관리 우려",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611221647062898_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "일회용 앞치마까지…AI 부정행위 철통 방어 나선 대학가",
+          "url": "https://www.yna.co.kr/view/IPT20261122000005365?section=gallery/index",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "남진",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-22T10:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRPuTB5WxDeHXuXlCJzR-4AKyva5TtfamZixPIVcu0flWpKt7oDJ9KgcaDORE",
+      "category": "연예",
+      "news": [
+        {
+          "title": "남진, 46세·42세 미혼 미모의 두 딸 공개…\"첫 딸은 김주하 닮아\" [핫피플]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/MI4TQNRVME4TSZLBGAYTAMRWMQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "미운 우리 새끼 : 설운도, 허경환의 처참한 부추전 요리에 도움 나선 후 빠른 손절",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483367571",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "허경환, 곧 결혼하나…동거녀 폭로에 급당황 “결혼식만 안 해, 여자 있어”",
+          "url": "http://www.atstar1.com/news/articleView.html?idxno=6040709",
+          "source": "앳스타일"
+        }
+      ]
+    },
     {
       "keyword": "무신사",
       "traffic": "2000+",
@@ -53,52 +107,77 @@
       ]
     },
     {
-      "keyword": "노동자",
+      "keyword": "한전on",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-22T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasTghIZWQijy5KIjKqjVXreUHvB8MHvkSxZ4-yP-t3uBZMelDP7cKms18nvk",
+      "startedAt": "2026-11-22T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdfSBLSp3l_ucjdhi6F2B3_uZyJChK-9CkR4MSP_iq8zAi7sQ3-UPqYt7v2nU",
       "category": "기타",
       "news": [
         {
-          "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
-          "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
-          "source": "한겨레"
+          "title": "한전도 해킹당했다…65만명 주민번호·계좌·카드번호 유출",
+          "url": "https://www.khan.co.kr/article/202611221907001",
+          "source": "경향신문"
         },
         {
-          "title": "[한국 입국과 그 이후 12] 외국인 노동자가 산재를 당하면 체류는?",
-          "url": "https://www.eroun.net/news/articleView.html?idxno=90955",
-          "source": "이로운넷"
+          "title": "“전기요금 내려고 입력했던 내 정보가”…한전, 이번엔 65만명 고객정보 유출",
+          "url": "https://stock.mk.co.kr/news/view/1203794",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "[삶] \"어린동생 3명과 병든부모 있는데…산재신청 했다고 해고하네요\"",
-          "url": "https://www.yna.co.kr/view/AKR20261115052100546",
-          "source": "연합뉴스"
+          "title": "다크웹서 \"한전 이용자 정보 확보\" 게시물 등장",
+          "url": "https://zdnet.co.kr/view/?no=20261121133800",
+          "source": "지디넷코리아"
         }
       ]
     },
     {
-      "keyword": "정부",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T07:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO2-1_yFH4Iy7bmBkH02rfGs_eOuWH0Ua9d8KWwGZzJdgbIN-_JEobPe2PvjM",
+      "keyword": "원자력 잠수함",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T09:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUeYPVteU5LbI5Z8oKS8Uk3_x50Hj_7YZJhkYethd9ni8cGjrvoMosphyyhc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "與 “핵추진잠수함 도입, 특별법으로 뒷받침”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261122/135065893/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
+          "url": "https://www.mk.co.kr/news/politics/12215581",
+          "source": "매일경제"
+        },
+        {
+          "title": "민주당 “핵잠 도입, 국제사회 신뢰 확인…핵비확산 원칙 담아 특별법 뒷받침”",
+          "url": "https://www.dt.co.kr/article/12096468",
+          "source": "www.dt.co.kr"
+        }
+      ]
+    },
+    {
+      "keyword": "정상회담",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T09:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-A8mekT_S8_P5omky2jdDWQ1VT4GiTOwc3w_J8Uh5G0rLEaH6XTnS8CQaL2A",
       "category": "정치·사회",
       "news": [
         {
-          "title": "[속보] 정부, 국내외 증시 급락에 ‘증시안정펀드’ 가동 준비",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/3FVYB6T4YZBKFEZH5OYZ4N5LKI/",
-          "source": "조선일보"
+          "title": "트럼프 “미·중·러, 한반도 위험 논의”…핵 감축엔 “동의 어려워”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719193",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협",
-          "url": "https://weekly.khan.co.kr/article/202611221922001",
-          "source": "주간경향"
+          "title": "트럼프, SNS에 얄타회담·미중러 정상회담 사진 나란히 게시",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6867545_36925.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
-          "source": "연합인포맥스"
+          "title": "트럼프는 ‘사진’, 시진핑은 ‘위상’, 푸틴은 ‘시간’ 챙겼다…‘강대국 외교’의 귀환",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01859766645648344",
+          "source": "마켓인"
         }
       ]
     },
@@ -107,9 +186,14 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-22T09:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7K6Ejoiboul8DwuPaeLmz-SgusA6bm4vPQsoJ01V5rURrxT9LhHqF7rSV4Ko",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6IUVUlNxEa1vXc238fC0Q4sT9kcKvnU5Bve3D-kC5YiVtOD3FnVCDTp9sgR4",
+      "category": "경제",
       "news": [
+        {
+          "title": "서울 경전철 서부선 26년째 표류…공사비 급증에 발목 : 부동산",
+          "url": "https://news.jkn.co.kr/post/1114541",
+          "source": "재경일보"
+        },
         {
           "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
           "url": "https://www.hankyung.com/article/202611222102i",
@@ -127,18 +211,18 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-22T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStTqgqcRL1q5uniqu7WGpHL29EkpMZIy7TiP6qEKbBoZllbDRYVHg4LLnh29I",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHDTdQQo_RzY6UdXCmtlhEahjVGUzQxyOf54-E4gDEKcM_yde1P9AOiOB8gyM",
       "category": "IT·과학",
       "news": [
-        {
-          "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
-          "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
-          "source": "동아일보"
-        },
         {
           "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
           "url": "https://www.yna.co.kr/view/AKR20261121044700002",
           "source": "연합뉴스"
+        },
+        {
+          "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
+          "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
+          "source": "동아일보"
         },
         {
           "title": "회계사 시험 전자기기 부정행위 5년간 적발 ‘0건’…AI 탐지 장비 예산도 없어",
@@ -148,127 +232,52 @@
       ]
     },
     {
-      "keyword": "acc emerging teams asia cup",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T09:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShVe2KrhQmY5dAlgSRBp2iYnm9wn_ETuYFr0zdIkGU1bDXiluZqU1gRum_jMc",
+      "keyword": "쇼메이커",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T10:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavArsp1Ry9nJu78Hs-UoF3PMjhLUeDt692MWqraNTULUSx0Z6zRIJZZm6iZw",
       "category": "스포츠",
       "news": [
         {
-          "title": "IND A vs PAK A: Drama at toss! Pakistan captain Abdul Samad intervenes after match referee's call - Watch",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-a-vs-pak-a-drama-at-toss-pakistan-captain-abdul-samad-intervenes-after-match-referees-call-watch/articleshow/136071103.cms",
-          "source": "The Times of India"
+          "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
+          "url": "https://www.hankyung.com/article/202611222346i",
+          "source": "한국경제"
         },
         {
-          "title": "India A vs Pakistan Shaheens ACC Men's Asia Cup Rising Stars score, toss winner, winning probability, result and highlights from Doha",
-          "url": "https://sports.yahoo.com/articles/india-vs-pakistan-shaheens-acc-065651378.html",
-          "source": "Yahoo Sports"
+          "title": "롤드컵 준우승 젠지e스포츠 새판에 ‘광주·전남 신예’ 뜨나",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085133",
+          "source": "진일보 | 전남일보"
         },
         {
-          "title": "India A vs Pakistan Shaheens at Doha, DP World Men's Asia Cup Rising Stars, 22 Nov 2026",
-          "url": "https://www.bcci.tv/matches/df694319-6cfe-4fbe-9528-730ae1b3fec4/india-a-vs-pakistan-a/commentary",
-          "source": "BCCI"
+          "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+          "url": "https://www.kmib.co.kr/article/20261119500020",
+          "source": "국민일보"
         }
       ]
     },
     {
-      "keyword": "김영훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T08:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCu1S89lAnNpQBm1OxTxi2Glh8OlnDNGF2L_WJLAilXLOe2GAv44pkvVoxQZU",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "정년연장 논의 재개 앞두고…김영훈 \"합의 안 되면 정부가 나설 것\"",
-          "url": "https://www.chosun.com/national/labor/2026/11/22/4ENU5B5NBFH2NE3ME22UYORJPY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "2029년부터 정년 한 살씩 늘리나…65세 정년연장, 정부안 발표 초읽기",
-          "url": "https://stock.mk.co.kr/news/view/1203791",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "김혜윤",
+      "keyword": "방시혁",
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-22T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeW_KvWqdnNTzGpkShBvB7mxttSDBr0yEb4lsnRBpqhlKTuqTsTMc9qNG79IY",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7mPmpeWh7F-90CU5nCvnClb_tC6SpLITRzaipliAIKd82ou3CT9FkRItUqYY",
       "category": "기타",
       "news": [
         {
-          "title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
-          "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end",
-          "source": "programs.sbs.co.kr"
+          "title": "과즙세연 \"너흰 돈 때문에 방시혁이랑 자고 싶냐?…이 거지XX들아\"",
+          "url": "https://www.news1.kr/society/general-society/6361937",
+          "source": "뉴스1"
         },
         {
-          "title": "베테랑 사무장 떴다! 차유진, '굿파트너2' 첫 등장",
-          "url": "https://www.etnews.com/20261122000028",
-          "source": "전자신문"
+          "title": "'식사권 700만원' 과즙세연 \"돈 때문에 방시혁과 잤냐고? 안잤다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112213582556520",
+          "source": "머니투데이"
         },
         {
-          "title": "“나 고용주해도 될까요?” 장나라X김혜윤, ‘리봄’으로 뭉쳤다 (굿파트너2)",
-          "url": "https://sports.donga.com/ent/article/all/20261122/135066121/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "기온",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T08:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq9DUWsxrN0Z4rUh56JbWn4SKk1H7_jbA7HiAZO1sUc4AVKep2KlWCYmGqU8k",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
-          "source": "YTN"
-        },
-        {
-          "title": "[날씨] 내일 전국 비…강원 최대 8㎝ 눈, 추위는 주춤",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122190107Kdr",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
-          "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "코스닥",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T07:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtOkIQow-ThJCv4WAYvMH91V-gGRvcHgjd_WRdFODpEWFSuA8SmUK3_Oz7bfU",
-      "category": "경제",
-      "news": [
-        {
-          "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
-          "url": "https://www.yna.co.kr/view/AKR20261121027600008",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "찬 바람이 쌩쌩 불 때, 핫한 로보틱스…CES·테슬라 이벤트 주목[주末머니]",
-          "url": "https://core.asiae.co.kr/article/2026112016445199808",
-          "source": "아시아경제"
-        },
-        {
-          "title": "코스닥 시총 상위 10등에 2곳…이젠 '로봇' 시대",
-          "url": "https://stock.mk.co.kr/news/view/1203782",
-          "source": "매일경제 마켓"
+          "title": "과즙세연 면전에 대고 성적 비하한 19금 코미디쇼 ‘뭇매’",
+          "url": "https://www.mk.co.kr/news/entertain/12215464",
+          "source": "매일경제"
         }
       ]
     }
