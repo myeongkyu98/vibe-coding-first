@@ -1,13 +1,17 @@
 {
-  "updatedAt": "2026-11-22T18:39:39.186Z",
+  "updatedAt": "2026-11-22T19:44:52.713Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 6
+      "category": "스포츠",
+      "count": 5
     },
     {
-      "category": "스포츠",
-      "count": 4
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "경제",
+      "count": 2
     }
   ],
   "items": [
@@ -38,26 +42,26 @@
     },
     {
       "keyword": "liverpool vs man utd",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-22T15:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9LeeSJWSuNUZ6-pTW2K1Qh0kUP9NYUU9TGUjWglKPCWcL34PrZ1V7oCRjGzM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0fbS-aFRGXku4TJAfr1cAgfpv2u87w5K2XoHib9KozZFExcTcYvXNPmkHLzY",
       "category": "스포츠",
       "news": [
         {
-          "title": "Liverpool vs Manchester United LIVE: Premier League score, lineups, commentary & updates",
-          "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
-          "source": "BBC"
-        },
-        {
-          "title": "Liverpool v Manchester United: Premier League – live",
+          "title": "Liverpool 4-0 Manchester United: Premier League – as it happened",
           "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
           "source": "The Guardian"
         },
         {
-          "title": "Calamitous start for Pochettino as 10-man Man Utd thrashed 4-0 at Liverpool",
-          "url": "https://www.telegraph.co.uk/football/2026/11/22/liverpool-vs-man-utd-live-score-premier-league-updates/",
-          "source": "The Telegraph"
+          "title": "Liverpool: Was Man Utd red card for Leny Yoro in Premier League the correct decision?",
+          "url": "https://www.bbc.com/sport/football/articles/cq7827p8emmxo",
+          "source": "BBC"
+        },
+        {
+          "title": "Three Premier League talking points",
+          "url": "https://www.rfi.fr/en/sports/20261122-three-premier-league-talking-points",
+          "source": "RFI"
         }
       ]
     },
@@ -66,23 +70,23 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-22T17:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1nxv00X_7fS82VSAtZ_v84VaNGgVN4m4NnxpzSq9u8b__h-gFvpNJBaUBgtQ",
-      "category": "기타",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6ahXHGEzAk6r_d6BXCyPq-jppg_B06Tcfozw6hcrXEYRpjuVai1NebiMXk0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
-          "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
-          "source": "ESPN"
+          "title": "Alvini explains Frosinone transformation for Milan with False 9",
+          "url": "https://sports.yahoo.com/articles/alvini-explains-frosinone-transformation-milan-165400817.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Klopp's Germany Routs Xavi's Netherlands To Book Nations League Quarterfinals",
-          "url": "https://www.foxsports.com/stories/soccer/germany-routs-the-netherlands-50-in-nations-league-to-confirm-renaissance-under-klopp",
-          "source": "FOX Sports"
+          "title": "AC Milan vs. Frosinone, Serie A Enilive 2026/2027: statistics, standings, referee and suspensions",
+          "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-vs-frosinone-match-preview",
+          "source": "AC Milan | Sito Ufficiale"
         },
         {
-          "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
-          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
-          "source": "The Guardian"
+          "title": "GdS: Wins, consistency and goals for Ramos – the next steps Amorim wants Milan to take",
+          "url": "https://sempremilan.com/next-steps-amorim-wants-milan-to-take",
+          "source": "SempreMilan"
         }
       ]
     },
@@ -91,48 +95,48 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-22T16:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCJtQF6N_oe4gaYlYNWC691uUrq-JzP0GUYgoyJdQWncwurzlmmQWodVlBJI",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVT-TDzen_hMXv6y_k2zf9qQmYZsiHTHTykmjl51-ebp3PHXe_tH2wnCHg8xs",
       "category": "기타",
       "news": [
+        {
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ แมนยู แดงเดือดวันนี้ (22 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069",
+          "source": "thairath.co.th"
+        },
         {
           "title": "การถ่ายทอดสดการแข่งขันระหว่างลิเวอร์พูลกับแมนยูฯ 2-0 (ครึ่งแรก): ลิเวอร์พูลยิงสองประตูอย่างรวดเร็ว",
           "url": "https://www.vietnam.vn/th/truc-tiep-liverpool-vs-mu-2-0-hiep-1-liverpool-ghi-2-ban-chong-vanh",
           "source": "Vietnam.vn"
         },
         {
-          "title": "ลิเวอร์พูล ฟอร์มหรูคว้าชัยแดงเดือด พร้อมส่ง แมนฯ ยูไนเต็ด หล่นรั้งที่ 19 | Khaosod",
-          "url": "https://today.line.me/th/v3/article/zNMEk9J",
+          "title": "โปเช็ตติโน รับผีแดงต้องปรับตัว - ลั่นเปลี่ยนความโกรธให้เป็นพลัง | Khaosod",
+          "url": "https://today.line.me/th/v3/article/aGpk5M2",
           "source": "LINE TODAY"
-        },
-        {
-          "title": "ทุกสิ่งที่ควรรู้ : ก่อนแดงจะเดือดครั้งที่219",
-          "url": "https://www.naewna.com/n/sports/186865/",
-          "source": "แนวหน้า"
         }
       ]
     },
     {
-      "keyword": "epl",
+      "keyword": "집",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-22T17:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPBv6CFGXee-lB2ilNi1G1gKwT_hV9YP2b1MTkSkQ-hlj2WQ1MEyGIE_Aen5s",
-      "category": "기타",
+      "startedAt": "2026-11-22T18:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQcukbFyw188Tt376LsIrYZ9sX_frZ8aeKN1lEunGsHoIjWSO5MwU1HsXeqE",
+      "category": "경제",
       "news": [
         {
-          "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – as it happened",
-          "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
-          "source": "The Guardian"
+          "title": "‘전세금+3억’이면 샀던 집, 올해는 6억 더 줘야 산다",
+          "url": "https://www.donga.com/news/Economy/article/all/20261122/135068837/2",
+          "source": "동아일보"
         },
         {
-          "title": "How the first Premier League Saturday after the international break unfolded as Arsenal were held by Newcastle",
-          "url": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/XgcjO3hBj7Js/",
-          "source": "The New York Times"
+          "title": "2023년 전세 계약한 서울 6만4000가구…내년 이사 땐 보증금 평균 36% 더 필요",
+          "url": "https://www.khan.co.kr/article/202611222116015",
+          "source": "경향신문"
         },
         {
-          "title": "City and Chelsea suffer setbacks as Real Madrid, Dortmund and Lazio win",
-          "url": "https://middle-east-online.com/en/city-and-chelsea-suffer-setbacks-real-madrid-dortmund-and-lazio-win",
-          "source": "Middle East Online"
+          "title": "\"매매도 전세도 막히면 어디로 가나\"…향후 부동산 시장 판단 기준은",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873204",
+          "source": "뉴시스"
         }
       ]
     },
@@ -141,48 +145,48 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-22T16:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQDY5ndAWrEOfeQIXpf7WgsuhkjzGwv77kfOKfvEBPV2imOR5fmD519cggAF4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE7UvVGF0ryYef782LC-ayPqWeBO2MBMOcag-MHYZ6Q5KM-vmvLE0e5H13cNI",
       "category": "기타",
       "news": [
         {
-          "title": "CANLI Liverpool - Manchester United: İlk 11'ler",
-          "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-doi-hinh-xuat-phat",
-          "source": "Vietnam.vn"
+          "title": "Video bóng đá Liverpool - MU: Bước ngoặt thẻ đỏ, 4 bàn định đoạt đại chiến (Ngoại hạng Anh)",
+          "url": "https://www.24h.com.vn/bong-da/video-bong-da-liverpool-mu-buoc-ngoat-the-do-4-ban-dinh-doat-dai-chien-ngoai-hang-anh-c48a1813287.html",
+          "source": "Tin tức 24h"
         },
         {
-          "title": "Leny Yoro nhận thẻ đỏ, ngày ra mắt của Pochettino thành ác mộng",
-          "url": "https://www.saostar.vn/sao-sport/leny-yoro-nhan-the-do-ngay-ra-mat-cua-pochettino-thanh-ac-mong-202611230059072796.html",
-          "source": "Tạp chí Saostar"
+          "title": "Gary Neville đặt câu hỏi về quyết định của Mauricio Pochettino",
+          "url": "https://bongda24h.vn/bong-da-anh/gary-neville-dat-cau-hoi-ve-quyet-dinh-cua-mauricio-pochettino-172-465391.html",
+          "source": "Bongda24h"
         },
         {
-          "title": "Liverpool 0-0 Man Utd: De Ligt xuất trận",
-          "url": "https://bongda.com.vn/liverpool-1-0-man-utd-the-do-cho-yoro-va-szoboszlai-ghi-ban-d856016.html",
-          "source": "bongda.com.vn"
+          "title": "Thống kê trận đấu Liverpool 4-0 Manchester United: Liverpool thắng đậm thuyết phục",
+          "url": "https://baolamdong.vn/thong-ke-tran-dau-liverpool-4-0-manchester-united-liverpool-thang-dam-thuyet-phuc-475361.html",
+          "source": "Báo Lâm Đồng"
         }
       ]
     },
     {
       "keyword": "빗썸",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-22T16:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTUtbyZ_rMvfQ3AymcMpFQANcnbuO2_RF10NukzQ2cNKL1-uNsjcvHaRGf2sQ",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTupdRh4q27VNhBpL2S9MKO9HvArVuPdBxus3R0cFDFW9sMLWfRdjKai_Z5U40",
+      "category": "경제",
       "news": [
         {
-          "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
-          "url": "https://www.mk.co.kr/newsletter/page/3575",
-          "source": "매일경제"
+          "title": "업비트·빗썸 사상 처음 동시 적자, 뒤따르는 시장 침체의 신호[엠블록레터]",
+          "url": "https://stock.mk.co.kr/news/view/1203208",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다",
-          "url": "https://www.wikitree.co.kr/articles/1176751",
-          "source": "위키트리"
+          "title": "‘9000 광풍’ 코인판된 증시에 뺨 맞은 진짜 코인판",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/11/19/PUOBHHGZXZFVLD7ZO64JRKQMFQ/",
+          "source": "조선일보"
         },
         {
-          "title": "빗썸, 사이버(CYBER) 입출금 일시 중지 안내",
-          "url": "https://www.coinreaders.com/272321",
-          "source": "코인리더스"
+          "title": "[위클리크립토] 두나무·빗썸 3분기 동반 적자 外",
+          "url": "https://www.donga.com/news/It/article/all/20261120/135061618/1",
+          "source": "동아일보"
         }
       ]
     },
@@ -205,9 +209,9 @@
           "source": "ESPN"
         },
         {
-          "title": "Racing Santander - Real Sociedad LIVE. LALIGA EA Sports latest updates",
-          "url": "https://www.marca.com/en/soccer/laliga-ea-sports/racing-santander-real-sociedad/2026/11/22/01_0101_20261122_189_188-live.html",
-          "source": "MARCA"
+          "title": "Racing Santander 3-2 Real Sociedad: Zabiri scores twice",
+          "url": "https://www.tufutbolero.com/en/news/racing-santander-3-2-real-sociedad-zabiri-scores-twice-5d55f0",
+          "source": "Tu Futbolero"
         }
       ]
     },
