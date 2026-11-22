@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T04:53:50.226Z",
+  "updatedAt": "2026-11-22T05:52:39.802Z",
   "summary": [
     {
       "category": "기타",
@@ -7,18 +7,14 @@
     },
     {
       "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
+      "count": 3
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
@@ -29,8 +25,8 @@
   "items": [
     {
       "keyword": "로또",
-      "traffic": "10000+",
-      "trafficValue": 10000,
+      "traffic": "20000+",
+      "trafficValue": 20000,
       "startedAt": "2026-11-22T03:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS67j472hzSkCiB64S0YtFZOK6idksWf115-2OPzLo14cdrKogNvbQndCFwsoM",
       "category": "기타",
@@ -53,93 +49,109 @@
       ]
     },
     {
-      "keyword": "재산",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-22T02:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "입장권",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-22T02:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlPKbqtJ8rLw-nvWz9xC4Ad4cwIqpiNfbWgJgHD4ZDCOXmLDWb-W0p683GcDg",
-      "category": "연예",
-      "news": [
-        {
-          "title": "BTS 부산 공연장서 입장권 팔찌 100개 ‘슬쩍’···“바닥에 떨어진 것 주웠을 뿐” 발뺌한 중국인 집행유예",
-          "url": "https://www.khan.co.kr/article/202611220943001",
-          "source": "경향신문"
-        },
-        {
-          "title": "\"암표로 팔려고\" BTS 콘서트 입장권 100장 훔친 중국인…징역형 집유",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6361349",
-          "source": "뉴스1"
-        },
-        {
-          "title": "BTS 콘서트 현장서 입장권 팔찌 100장 훔친 중국인 집유",
-          "url": "https://www.newsis.com/view/NISX20261120_0003877149",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "대한민국 대법원",
+      "keyword": "엘니뇨",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-22T02:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUFhTFWLgKjuvyBARYqZq50zsAO6W0cMQCdNplPC-1s0tTIGWsY9V0xQOh5KU",
-      "category": "정치·사회",
+      "startedAt": "2026-11-22T04:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxrvuL6AGhMRlt8psd1ZfJRbeV1R1cN4dLPj3P2WgLE-yTtw9EZNEXQDmWY90",
+      "category": "기타",
       "news": [
         {
-          "title": "민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867571_36911.html",
-          "source": "MBC 뉴스"
+          "title": "엘니뇨, 향후 3개월 동안 매우 강력, 다가오는 강우 추세 예측",
+          "url": "https://ko.laodong.vn/moi-truong/el-nino-rat-manh-trong-3-thang-toi-du-bao-xu-the-mua-sap-toi-1803893.ldo",
+          "source": "Laodong.vn"
         },
         {
-          "title": "오세훈·한동훈의 협공 \"李대통령 심판열차 출발\" \"민주당은 내란정당\"",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/22/TRJVR5GJTNBV3G7B2BI5TW5X4I/",
-          "source": "조선일보"
+          "title": "남태평양 피지·통가, '슈퍼 엘니뇨' 가뭄에 비상사태 선언",
+          "url": "https://www.yna.co.kr/view/AKR20261119138200084",
+          "source": "연합뉴스"
         },
         {
-          "title": "생각에 잠긴 양부남",
-          "url": "https://www.newsis.com/view/NISI20261122_0021541599",
-          "source": "뉴시스"
+          "title": "에콰도르에서 최강 엘니뇨 공포 확산…사망 14명·피해자 7만 7000명 등 피해 속출 [여기는 남미]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261119601017",
+          "source": "나우뉴스"
         }
       ]
     },
     {
       "keyword": "휴머노이드",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-22T02:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9GNgaXmR4kVZ0Gijglindo8DISBFfd4bq0wSJrQIgtzS5bqTKe7UCVxqey0M",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr8RziU2pEfywgcC3BCKLwTcbnhkxI6Ea4LSi1lJCCAaWq1QRL7h-Xo7BFUCg",
       "category": "IT·과학",
       "news": [
         {
-          "title": "中 휴머노이드 로봇 151대 '칼군무'…또 기네스 신기록",
-          "url": "https://zdnet.co.kr/view/?no=20261120143936",
+          "title": "[영상]양계장 바닥 뒤적뒤적…사람 대신 계란 줍는 휴머노이드 온다",
+          "url": "https://www.khan.co.kr/article/202611220900011",
+          "source": "경향신문"
+        },
+        {
+          "title": "닭장에 나타난 '휴머노이드'…임무는 달걀 수거",
+          "url": "https://www.etnews.com/20261119000421",
+          "source": "전자신문"
+        },
+        {
+          "title": "달걀 줍는 휴머노이드 로봇 등장…내년 초 양계장 투입 목표",
+          "url": "https://zdnet.co.kr/view/?no=20261119161334",
           "source": "지디넷코리아"
+        }
+      ]
+    },
+    {
+      "keyword": "최민정",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T04:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDAhNtSn7mdKMTeH9qFMFt3wbnvBhjCorN0RFEEBpcVCIGHSiLfwsJzhf41MQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719143",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "중국 APEC서 빅뱅 '뱅뱅뱅'에 맞춰 로봇 151대 칼군무…기네스 기록",
-          "url": "https://www.news1.kr/videos/25436",
+          "title": "“개인적으로 최민정 선수가 오래 타줬으면…” 김재열 ISU 회장과 이수경 대한빙상경기연맹 회장 ‘이구동성’ [현장 인터뷰] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/22/202611221354776536O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'첫 금' 신동민, 男쇼트트랙 위기 평가에 \"조금만 기다려주세요\"",
+          "url": "https://www.yna.co.kr/view/AKR20261121047400007",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "제네시스 g80",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T04:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBtZjFlYdTCFT8R5Wj_ZSaYQt_cNE7B06wvHPWYBytw2Wnl0J_NTooQGo4C2A",
+      "category": "연예",
+      "news": [
+        {
+          "title": "제네시스는 왜 LA오토쇼 전면에 'G80 하이브리드' 내세웠나",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01607206645648344",
+          "source": "마켓인"
+        },
+        {
+          "title": "안방선 파업·유럽선 역주행…현대차, 아반떼·투싼으로 美서 돌파구 - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/22/2026112011182595741",
+          "source": "머니투데이"
+        },
+        {
+          "title": "기름값 절약·주말 가족 나들이도 거뜬…신형 아반떼 HEV[시승기]",
+          "url": "https://www.news1.kr/industry/auto-industry/6361721",
           "source": "뉴스1"
-        },
-        {
-          "title": "디지털 시대의 인공지능과 성장 기회.",
-          "url": "https://www.vietnam.vn/ko/ai-va-co-hoi-tang-truong-trong-ky-nguyen-so",
-          "source": "Vietnam.vn"
         }
       ]
     },
     {
       "keyword": "최예나",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-22T03:40:00.000Z",
       "picture": "",
       "category": "기타",
@@ -164,9 +176,9 @@
           "source": "데일리스포츠한국"
         },
         {
-          "title": "“애버리지 1.471” 서한솔 최연주 공동1위로 64강 선착…김가영 스롱피아비도 128강 통과[휴온스배LPBA]",
-          "url": "https://mkbn.mk.co.kr/news/sports/12215358",
-          "source": "mkbn.mk.co.kr"
+          "title": "PBA '신성' 김영원-김도헌, 휴온스 챔피언십 128강서 맞대결",
+          "url": "https://www.yna.co.kr/view/AKR20261120068800007",
+          "source": "연합뉴스"
         }
       ]
     },
@@ -175,23 +187,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-22T03:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf9pxXWCpU3qXiWPNviyEMusx9JLZ2UosAhpzzOC8tJpbpdBA6PWYR6YVjB0w",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfr9kiT0WrIe6iG_gVfMiki5W5t8jHAg0NWQyE7R38twdcSVHy3ScL4PstbWA",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "눈 없이 맑은 ‘소설’…아침 최저 영하 10도, 낮 최고 12도",
-          "url": "https://www.hani.co.kr/arti/society/environment/1288454.html",
-          "source": "한겨레"
+          "title": "기상 변동성 큰 올겨울, 농업 기상재해 선제 대응한다!",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458212",
+          "source": "서울신문"
         },
         {
-          "title": "서울 낮기온 5도…내일 전국에 비·눈",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719349",
-          "source": "KBS 뉴스"
+          "title": "영양군, 겨울철 농업시설 63곳 ‘재해 예방’ 강화",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/21/2026112150040.html",
+          "source": "뉴데일리 대구경북"
         },
         {
-          "title": "올가을 최강 추위, 오늘도 서울 -4℃...빙판길 유의",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611220250427950_005.html",
-          "source": "YTN"
+          "title": "영양군, 겨울철 대설·한파 대비 농업시설 피해 예방 총력",
+          "url": "https://www.imaeil.com/page/view/2026112212285245804",
+          "source": "매일신문"
         }
       ]
     },
@@ -200,12 +212,12 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-22T03:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQABvcyg5QaY-s36P3Y4ha1xm08ps_Y0jwZlusHpUcGqSMuYVrzK2atLtoHgM",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc_8hWFcVyM2uxBrLyZBLkcqvP_jnL5HKtGWs8bUndDskN38DlHkCbw3JL260",
       "category": "스포츠",
       "news": [
         {
-          "title": "돈은 369억 받는데 경기는 제대로 못 뛴다? 골머리 아픈 뮌헨, 무시알라 연봉 대비 기여도에 내부 논란",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314208",
+          "title": "[오피셜] “바이에른 뮌헨은 선수를 보호하라”… 국제축구선수협회 성명 발표, 무시알라 향해 연봉 삭감 압박하는 구단 수뇌부 겨냥",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314233",
           "source": "베스트일레븐"
         },
         {
