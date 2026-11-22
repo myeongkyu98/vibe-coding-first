@@ -1,86 +1,61 @@
 {
-  "updatedAt": "2026-11-22T09:43:45.764Z",
+  "updatedAt": "2026-11-22T10:42:24.384Z",
   "summary": [
     {
-      "category": "경제",
+      "category": "기타",
       "count": 3
+    },
+    {
+      "category": "생활·날씨",
+      "count": 2
     },
     {
       "category": "정치·사회",
       "count": 2
     },
     {
-      "category": "기타",
-      "count": 2
+      "category": "IT·과학",
+      "count": 1
     },
     {
       "category": "스포츠",
       "count": 1
     },
     {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "연예",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김천상무 대 제주 sk fc 순위",
+      "keyword": "무신사",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-22T07:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFSdLD4eKZDRYejqf7bksk6hd-_LmZfNo3FQK3nxkx940sC_DSxB92_wte7d0",
-      "category": "스포츠",
+      "startedAt": "2026-11-22T09:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE6nYySfqOaESUhXa237AuVyHYxNw23LSTudgR1pdm_AqgQKkFOa4N-lmqbZ0",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "[현장인터뷰]주승진 김천 감독 \"구조 바꾸면서 준비\" vs 코스타 제주 감독 \"이탈로, 팀 도울 준비가 됐다\"",
-          "url": "https://www.chosun.com/sports/football/2026/11/22/GMYTQYJVMJTDMYTFGYZTMNDFGY/",
-          "source": "조선일보"
+          "title": "SKT, 무신사 블랙프라이데이서 '에어' 요금제 할인",
+          "url": "https://www.yna.co.kr/view/AKR20261122012200017",
+          "source": "연합뉴스"
         },
         {
-          "title": "'5경기 무승 탈출' 제주SK 7위 굳히기 '청신호'",
-          "url": "https://app.ihalla.com/article.php?aid=1795334578793059051",
-          "source": "한라일보"
+          "title": "무신사, 롯데리아와 수험생 응원 '버거트럭' 이벤트 실시",
+          "url": "https://www.etnews.com/20261122000047",
+          "source": "전자신문"
         },
         {
-          "title": "'김신진 PK 결승골' K리그 제주, 김천 꺾고 6경기 만에 승리",
-          "url": "https://www.news1.kr/sports/soccer/6362053",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "정부",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T07:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ms6P0AsId35r3fAE7OpBU1TD0kaGnplSxbAj_P0UvpLHm2y_8YNNeL1jaJU",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[속보] 정부, 국내외 증시 급락에 ‘증시안정펀드’ 가동 준비",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/3FVYB6T4YZBKFEZH5OYZ4N5LKI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
-          "source": "연합인포맥스"
+          "title": "무신사, ‘무진장’ 개막 앞두고 성수서 수험생 대상 ‘버거 트럭’ 운영",
+          "url": "https://www.viva100.com/article/20261122500190",
+          "source": "브릿지경제"
         }
       ]
     },
     {
       "keyword": "노동자",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-22T07:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTasTghIZWQijy5KIjKqjVXreUHvB8MHvkSxZ4-yP-t3uBZMelDP7cKms18nvk",
       "category": "기타",
@@ -103,27 +78,97 @@
       ]
     },
     {
-      "keyword": "검은 월요일",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-22T07:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRt09URbnA1hc1THikUT9DtLwZustyWbqMh1paZkO3a9e1i0DpVO5kPPHmZudU",
-      "category": "경제",
+      "keyword": "정부",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-22T07:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO2-1_yFH4Iy7bmBkH02rfGs_eOuWH0Ua9d8KWwGZzJdgbIN-_JEobPe2PvjM",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "대만, 잇단 급락장에 \"직전 거래일 종가 미만 공매도 금지\"",
-          "url": "https://www.yna.co.kr/view/AKR20261121044000083",
+          "title": "[속보] 정부, 국내외 증시 급락에 ‘증시안정펀드’ 가동 준비",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/3FVYB6T4YZBKFEZH5OYZ4N5LKI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협",
+          "url": "https://weekly.khan.co.kr/article/202611221922001",
+          "source": "주간경향"
+        },
+        {
+          "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "서울 경전철 서부선",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T09:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7K6Ejoiboul8DwuPaeLmz-SgusA6bm4vPQsoJ01V5rURrxT9LhHqF7rSV4Ko",
+      "category": "기타",
+      "news": [
+        {
+          "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
+          "url": "https://www.hankyung.com/article/202611222102i",
+          "source": "한국경제"
+        },
+        {
+          "title": "[단독] 서부선 민자 재시동…재정 ‘투트랙’ 속도낸다",
+          "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202611191120305010769",
+          "source": "대한경제"
+        }
+      ]
+    },
+    {
+      "keyword": "회계사",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStTqgqcRL1q5uniqu7WGpHL29EkpMZIy7TiP6qEKbBoZllbDRYVHg4LLnh29I",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
+          "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
+          "url": "https://www.yna.co.kr/view/AKR20261121044700002",
           "source": "연합뉴스"
         },
         {
-          "title": "대만, 일주일새 17% 증시급락에 \"전일 종가미만 공매도 금지\" - 머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/22/2026112212340930666",
-          "source": "머니투데이"
+          "title": "회계사 시험 전자기기 부정행위 5년간 적발 ‘0건’…AI 탐지 장비 예산도 없어",
+          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/SDD6JM7JY5AC3NOXCXKVS3OF2M/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "acc emerging teams asia cup",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T09:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShVe2KrhQmY5dAlgSRBp2iYnm9wn_ETuYFr0zdIkGU1bDXiluZqU1gRum_jMc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "IND A vs PAK A: Drama at toss! Pakistan captain Abdul Samad intervenes after match referee's call - Watch",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-a-vs-pak-a-drama-at-toss-pakistan-captain-abdul-samad-intervenes-after-match-referees-call-watch/articleshow/136071103.cms",
+          "source": "The Times of India"
         },
         {
-          "title": "대만, 23일부터 직전 종가 미만 공매도 금지…증거금 150%로",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02122166645648016",
-          "source": "마켓인"
+          "title": "India A vs Pakistan Shaheens ACC Men's Asia Cup Rising Stars score, toss winner, winning probability, result and highlights from Doha",
+          "url": "https://sports.yahoo.com/articles/india-vs-pakistan-shaheens-acc-065651378.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "India A vs Pakistan Shaheens at Doha, DP World Men's Asia Cup Rising Stars, 22 Nov 2026",
+          "url": "https://www.bcci.tv/matches/df694319-6cfe-4fbe-9528-730ae1b3fec4/india-a-vs-pakistan-a/commentary",
+          "source": "BCCI"
         }
       ]
     },
@@ -153,27 +198,27 @@
       ]
     },
     {
-      "keyword": "인수 합병",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T07:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvvlo-vRUJX3zGRNoGaxB1GEljJ4DmoZeWPX_Vm5tf3WR_7OerK2Ku3extcgU",
-      "category": "경제",
+      "keyword": "김혜윤",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T09:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeW_KvWqdnNTzGpkShBvB7mxttSDBr0yEb4lsnRBpqhlKTuqTsTMc9qNG79IY",
+      "category": "기타",
       "news": [
         {
-          "title": "이탈리아 우니크레디트, 독일 2위 은행 인수 눈앞",
-          "url": "https://www.yna.co.kr/view/AKR20261119174800082",
-          "source": "연합뉴스"
+          "title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
+          "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end",
+          "source": "programs.sbs.co.kr"
         },
         {
-          "title": "“말단 직원 놔두고 관리직부터 쳐내라”…윗사람 안 만들겠다는 이 은행",
-          "url": "https://www.mk.co.kr/news/world/12214362",
-          "source": "매일경제"
+          "title": "베테랑 사무장 떴다! 차유진, '굿파트너2' 첫 등장",
+          "url": "https://www.etnews.com/20261122000028",
+          "source": "전자신문"
         },
         {
-          "title": "J.P. Morgan 유럽 금융 콘퍼런스서 UniCredit SpA, 성장·인수 구상 제시",
-          "url": "https://kr.investing.com/news/transcripts/article-93CH-2184078",
-          "source": "Investing.com 한국어"
+          "title": "“나 고용주해도 될까요?” 장나라X김혜윤, ‘리봄’으로 뭉쳤다 (굿파트너2)",
+          "url": "https://sports.donga.com/ent/article/all/20261122/135066121/1",
+          "source": "스포츠동아"
         }
       ]
     },
@@ -182,7 +227,7 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-22T08:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMexMad6FyQGrYYK5SWNFCh1IPY5q7a1WhGUIFabaZeAMA5guEN_dK2K6pV_E",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq9DUWsxrN0Z4rUh56JbWn4SKk1H7_jbA7HiAZO1sUc4AVKep2KlWCYmGqU8k",
       "category": "생활·날씨",
       "news": [
         {
@@ -191,14 +236,14 @@
           "source": "YTN"
         },
         {
+          "title": "[날씨] 내일 전국 비…강원 최대 8㎝ 눈, 추위는 주춤",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122190107Kdr",
+          "source": "연합뉴스TV"
+        },
+        {
           "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
           "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
           "source": "동아일보"
-        },
-        {
-          "title": "서울 낮기온 5도…내일 전국에 비·눈",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719349",
-          "source": "KBS 뉴스"
         }
       ]
     },
@@ -224,56 +269,6 @@
           "title": "코스닥 시총 상위 10등에 2곳…이젠 '로봇' 시대",
           "url": "https://stock.mk.co.kr/news/view/1203782",
           "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "류효영",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T06:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSClck0ft-dwlfOn4qBwynlwYhUggoEGPtbEMWpwZR5oWFoy4p9cvZGQSmllW0",
-      "category": "연예",
-      "news": [
-        {
-          "title": "이러다 결혼하나…류효영, 이태성에 직진 \"요리 해줄게\"",
-          "url": "https://www.newsis.com/view/NISX20261121_0003877731",
-          "source": "뉴시스"
-        },
-        {
-          "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
-          "source": "뉴스1"
-        },
-        {
-          "title": "“오빠 이제 집에 못 간다니까?” 태성을 납치한 용감한 그녀 효영?!",
-          "url": "https://ichannela.com/program/clip/000000560995.do",
-          "source": "채널A"
-        }
-      ]
-    },
-    {
-      "keyword": "소년 소녀 가장",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T06:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjdAQzJGDhCm3PLkkPGQtssydND67rhF5ar_9CT4gjLV_slsoK1pjEkv8GNCQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "복지센터에 전달된 ‘현금 100만원’…봉투에는 “소년소녀가장 위해 써주세요”",
-          "url": "https://www.segye.com/newsView/20261120513885",
-          "source": "세계일보"
-        },
-        {
-          "title": "흰 봉투속 100만원…이름없이 떠난 수원의 '얼굴 없는 천사'",
-          "url": "https://www.newsis.com/view/NISX20261120_0003877122",
-          "source": "뉴시스"
         }
       ]
     }
