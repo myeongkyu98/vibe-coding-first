@@ -1,57 +1,28 @@
 {
-  "updatedAt": "2026-11-22T17:37:38.677Z",
+  "updatedAt": "2026-11-22T18:39:39.186Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 7
-    },
-    {
       "category": "기타",
-      "count": 2
+      "count": 6
     },
     {
-      "category": "정치·사회",
-      "count": 1
+      "category": "스포츠",
+      "count": 4
     }
   ],
   "items": [
     {
-      "keyword": "리버풀 대 맨유",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-22T15:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFunvJemn7laSXERviXbDo6AE7WAjXA3NBEfIXrZMRH1Qw3X8RqdKP5PcbsB8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314241",
-          "source": "베스트일레븐"
-        },
-        {
-          "title": "리버풀은 안필드에서 맨체스터 유나이티드를 상대로 전력을 회복해야 합니다.",
-          "url": "https://www.vietnam.vn/ko/liverpool-can-lay-lai-suc-manh-tai-anfield-truoc-man-united",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "리버풀·맨유 맞대결…이삭 7골 vs 음뵈모 4골 : EPL",
-          "url": "https://news.jkn.co.kr/post/1114277",
-          "source": "재경일보"
-        }
-      ]
-    },
-    {
       "keyword": "맨유",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-22T16:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNxsVIQTshj7om7QPGTr_CXWBfAV_RwzJeVY5hpntmNZJpLWou-SmM7mrUaYE",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOcazhqs_nwtnBQNfQUIvpqoaMw56IXd0kWTdGAw2wKJyELsycAG--VKMbanc",
       "category": "스포츠",
       "news": [
         {
-          "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어”",
-          "url": "https://www.donga.com/news/Sports/article/all/20261121/135064952/1",
-          "source": "동아일보"
+          "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
+          "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
+          "source": "주간동아"
         },
         {
           "title": "축구의 묘미는 역시 ‘바이시클킥’",
@@ -70,11 +41,11 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-22T15:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU6c27RPsX_6dkNS6L78GpBO9NA0PpjNtndi7Sa13Tr6t72EiB_z0wOsAqIBc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9LeeSJWSuNUZ6-pTW2K1Qh0kUP9NYUU9TGUjWglKPCWcL34PrZ1V7oCRjGzM",
       "category": "스포츠",
       "news": [
         {
-          "title": "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates",
+          "title": "Liverpool vs Manchester United LIVE: Premier League score, lineups, commentary & updates",
           "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
           "source": "BBC"
         },
@@ -84,9 +55,34 @@
           "source": "The Guardian"
         },
         {
-          "title": "Andoni Iraola unbeaten vs. Man United – 1st relegation zone visit for 89 years",
-          "url": "https://www.thisisanfield.com/2026/11/andoni-iraola-unbeaten-vs-man-united/",
-          "source": "This Is Anfield"
+          "title": "Calamitous start for Pochettino as 10-man Man Utd thrashed 4-0 at Liverpool",
+          "url": "https://www.telegraph.co.uk/football/2026/11/22/liverpool-vs-man-utd-live-score-premier-league-updates/",
+          "source": "The Telegraph"
+        }
+      ]
+    },
+    {
+      "keyword": "밀란 대 프로시노네",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T17:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1nxv00X_7fS82VSAtZ_v84VaNGgVN4m4NnxpzSq9u8b__h-gFvpNJBaUBgtQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
+          "source": "ESPN"
+        },
+        {
+          "title": "Klopp's Germany Routs Xavi's Netherlands To Book Nations League Quarterfinals",
+          "url": "https://www.foxsports.com/stories/soccer/germany-routs-the-netherlands-50-in-nations-league-to-confirm-renaissance-under-klopp",
+          "source": "FOX Sports"
+        },
+        {
+          "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
+          "source": "The Guardian"
         }
       ]
     },
@@ -104,39 +100,64 @@
           "source": "Vietnam.vn"
         },
         {
+          "title": "ลิเวอร์พูล ฟอร์มหรูคว้าชัยแดงเดือด พร้อมส่ง แมนฯ ยูไนเต็ด หล่นรั้งที่ 19 | Khaosod",
+          "url": "https://today.line.me/th/v3/article/zNMEk9J",
+          "source": "LINE TODAY"
+        },
+        {
           "title": "ทุกสิ่งที่ควรรู้ : ก่อนแดงจะเดือดครั้งที่219",
           "url": "https://www.naewna.com/n/sports/186865/",
           "source": "แนวหน้า"
-        },
-        {
-          "title": "ย้อนวันวานโหมโรงศึก ‘แดงเดือด’ มีเหตุการณ์ที่นำจดจำแบบไหนเกิดขึ้นบ้าง",
-          "url": "https://www.dailynews.co.th/articles/6379649/",
-          "source": "เดลินิวส์"
         }
       ]
     },
     {
-      "keyword": "fc barcelona vs villarreal cf standings",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-22T15:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvlW8Urh1qGooCEpj97SLTje0Q2gayd0fvnDrwUI1nSpVyFCiDx2CCwb-O4gs",
-      "category": "스포츠",
+      "keyword": "epl",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T17:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPBv6CFGXee-lB2ilNi1G1gKwT_hV9YP2b1MTkSkQ-hlj2WQ1MEyGIE_Aen5s",
+      "category": "기타",
       "news": [
         {
-          "title": "Barcelona Shuffles Defense for Villarreal Clash to Protect La Liga Lead : Sports : JKN",
-          "url": "https://news.jkn.co.kr/editions/english/post/1114598",
-          "source": "재경일보"
+          "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
+          "source": "The Guardian"
         },
         {
-          "title": "Licensable picture: Soccer 2026: LaLiga: FC Barcelona - Villarreal CF",
-          "url": "https://www.reutersconnect.com/item/soccer-2026-laliga-fc-barcelona-villarreal-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBPWlVWMVg",
-          "source": "Reuters Connect"
+          "title": "How the first Premier League Saturday after the international break unfolded as Arsenal were held by Newcastle",
+          "url": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/XgcjO3hBj7Js/",
+          "source": "The New York Times"
         },
         {
-          "title": "Mbappé curse strikes Yamal: disastrous historic record as Raphinha pays the price",
-          "url": "https://www.goal.com/en/news/mbappe-curse-strikes-yamal-disastrous-historic-record-as-raphinha-pays-the-price/blt049a22c7245535b3",
-          "source": "Goal.com"
+          "title": "City and Chelsea suffer setbacks as Real Madrid, Dortmund and Lazio win",
+          "url": "https://middle-east-online.com/en/city-and-chelsea-suffer-setbacks-real-madrid-dortmund-and-lazio-win",
+          "source": "Middle East Online"
+        }
+      ]
+    },
+    {
+      "keyword": "liverpool đấu với man utd",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-22T16:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQDY5ndAWrEOfeQIXpf7WgsuhkjzGwv77kfOKfvEBPV2imOR5fmD519cggAF4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "CANLI Liverpool - Manchester United: İlk 11'ler",
+          "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-doi-hinh-xuat-phat",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Leny Yoro nhận thẻ đỏ, ngày ra mắt của Pochettino thành ác mộng",
+          "url": "https://www.saostar.vn/sao-sport/leny-yoro-nhan-the-do-ngay-ra-mat-cua-pochettino-thanh-ac-mong-202611230059072796.html",
+          "source": "Tạp chí Saostar"
+        },
+        {
+          "title": "Liverpool 0-0 Man Utd: De Ligt xuất trận",
+          "url": "https://bongda.com.vn/liverpool-1-0-man-utd-the-do-cho-yoro-va-szoboszlai-ghi-ban-d856016.html",
+          "source": "bongda.com.vn"
         }
       ]
     },
@@ -145,9 +166,14 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-22T16:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzto-qpgVsmgGRuOgpgUClRGssuL6Dcop8pZMMBFT0JGJZEXzZsi3lZgTA88",
-      "category": "정치·사회",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTUtbyZ_rMvfQ3AymcMpFQANcnbuO2_RF10NukzQ2cNKL1-uNsjcvHaRGf2sQ",
+      "category": "기타",
       "news": [
+        {
+          "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
+          "url": "https://www.mk.co.kr/newsletter/page/3575",
+          "source": "매일경제"
+        },
         {
           "title": "업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다",
           "url": "https://www.wikitree.co.kr/articles/1176751",
@@ -156,11 +182,6 @@
         {
           "title": "빗썸, 사이버(CYBER) 입출금 일시 중지 안내",
           "url": "https://www.coinreaders.com/272321",
-          "source": "코인리더스"
-        },
-        {
-          "title": "업비트, 사이버(CYBER) 입출금 일시 중단…보안 사고 정황",
-          "url": "https://www.coinreaders.com/272319",
           "source": "코인리더스"
         }
       ]
@@ -179,9 +200,9 @@
           "source": "BBC"
         },
         {
-          "title": "Racing-Real Sociedad: Racing hosts with three players ruled out",
-          "url": "https://www.tufutbolero.com/en/news/racing-real-sociedad-racing-hosts-with-three-players-ruled-fcf0d2",
-          "source": "Tu Futbolero"
+          "title": "Racing Santander vs. Real Sociedad - Game Highlights",
+          "url": "https://www.espn.com/video/clip/_/id/50563056/racing-santander-vs-real-sociedad-game-highlights",
+          "source": "ESPN"
         },
         {
           "title": "Racing Santander - Real Sociedad LIVE. LALIGA EA Sports latest updates",
@@ -221,31 +242,6 @@
           "title": "7분 만에 2실점→야말 PK 실축→3-2 역전승! 바르셀로나, 홈에서 비야레알에 진땀승…라리가 선두 수성",
           "url": "https://www.mydaily.co.kr/page/view/2026112300222443099",
           "source": "마이데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "u17 월드컵",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T15:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGHUrGP5ciFLh_-h0eHhfB5TeTyO2EaSZqXerXDROLEUoi4sa_cB4BgUQdqA8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "베트남 U-17 대 뉴질랜드 U-17 경기를 주재한 카메룬 심판의 신원이 밝혀졌습니다.",
-          "url": "https://www.vietnam.vn/ko/lo-danh-tinh-trong-tai-nguoi-cameroon-bat-chinh-tran-u-17-viet-nam-vs-u-17-new-zealand",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "2026 U17 월드컵 U17 베트남 대 U17 뉴질랜드 축구 경기 일정",
-          "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-u17-viet-nam-vs-u17-new-zealand-tai-giai-u17-world-cup-2026-1804795.ldo",
-          "source": "Laodong.vn"
-        },
-        {
-          "title": "동남아시아 언론은 베트남 U17 대표팀이 뉴질랜드와의 경기에서 역사적인 승리를 거둘 것으로 예상하고 있다.",
-          "url": "https://www.vietnam.vn/ko/bao-dong-nam-a-tin-u17-viet-nam-lam-nen-lich-su-o-tran-dau-voi-new-zealand",
-          "source": "Vietnam.vn"
         }
       ]
     }
