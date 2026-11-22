@@ -1,12 +1,16 @@
 {
-  "updatedAt": "2026-11-22T02:51:11.922Z",
+  "updatedAt": "2026-11-22T03:49:21.894Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
-      "category": "경제",
+      "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
       "count": 2
     },
     {
@@ -14,62 +18,117 @@
       "count": 1
     },
     {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 1
     }
   ],
   "items": [
     {
       "keyword": "이강인",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-22T01:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsp-csuiiIvAkeL4LfEetJP-Mtg9_OcpFbuvmPO4FvvftLE7cNFiRf-Pi-KRY",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvN-oe66WCpWeqS6HNAojYf1ljYnQm2OrYHtQ4-nXdJV2S24oF6rjeY0ZxWaQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "이제는 내가 간판! 이강인, 2년 연속 AFC 국제선수상 영예",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718835",
+          "title": "이강인, AFC 사상 첫 올해의 국제선수 2년 연속 수상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718111",
           "source": "KBS 뉴스"
+        },
+        {
+          "title": "'아시아 새역사' 이강인‥최초 2년 연속 '올해의 국제선수상'",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867378_37004.html",
+          "source": "MBC 뉴스"
         },
         {
           "title": "'LEE, 韓 넘어 아시아 역사 새로 쓴 스타' 이강인, 2년 연속 AFC 올해의 국제선수상 영광→스페인도 극찬 폭발",
           "url": "https://www.chosun.com/sports/football/2026/11/22/G4ZWMMZUMM2WINLGMFSWMMRTHE/",
           "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "재산",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-22T02:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "플라이 투 더 스카이",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-22T01:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbwHJG9aZAYIqxtQ-G_f-ftmI1OncC-Rty1Qav9uysU7658KGKvwqOrYl29o4",
+      "category": "연예",
+      "news": [
+        {
+          "title": "플라이 투 더 스카이, 오늘(21일) 오랜 공백 깨고 완전체 컴백",
+          "url": "https://m.imbc.com/enews/view/525574",
+          "source": "MBC"
         },
         {
-          "title": "'손흥민도 못한 대기록 썼다!' 이강인, AFC 올해의 국제선수상 2연패…한국 축구 새 역사상 최초 대기록 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/20/202611202046774062O",
+          "title": "'살림남' 환희, 28년 만에 브라이언 성대 모사 도전! 또다시 앙숙되나? - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112115257285737",
+          "source": "머니투데이"
+        },
+        {
+          "title": "은지원, 플투 컴백에 묵직한 한 마디 \"멤버에 의지하는 기분 알아\"(살림남2)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GYZTEM3BMYYTGZLGG5STIOBSMQ/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "대한민국 대법원",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-22T02:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUFhTFWLgKjuvyBARYqZq50zsAO6W0cMQCdNplPC-1s0tTIGWsY9V0xQOh5KU",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[속보] 민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867571_36911.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "오세훈 \"대법원장 탄핵 추진, 李대통령 재판 없애려는 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20261122018900004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "민주당, 대법원 비판 \"내란의 문 열어준 핵심 행위에 면죄부…납득 안돼\" - 머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/11/22/2026112209301160602",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "도경완",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-22T00:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9im2_BOXLMhkjZTo4XVbS7OusL32bpNe8qJ6F2_55WMLc5e5fFhhC1T5YmpU",
-      "category": "기타",
+      "keyword": "입장권",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-22T02:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlPKbqtJ8rLw-nvWz9xC4Ad4cwIqpiNfbWgJgHD4ZDCOXmLDWb-W0p683GcDg",
+      "category": "연예",
       "news": [
         {
-          "title": "'한강뷰 120억' 도경완, 자차는 1억 후반대 외체자('도장TV')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MQ2TIMZSGQ4GMMBTMNQTQM3DMI/",
+          "title": "BTS 부산 공연장서 입장권 팔찌 100개 ‘슬쩍’···“바닥에 떨어진 것 주웠을 뿐” 발뺌한 중국인 집행유예",
+          "url": "https://www.khan.co.kr/article/202611220943001",
+          "source": "경향신문"
+        },
+        {
+          "title": "BTS 부산 공연장서 입장권 팔찌 100개 훔친 중국인",
+          "url": "https://www.chosun.com/national/regional/2026/11/22/5NS7YOHQ7VBPZOYD2PQXOMUDXU/",
           "source": "조선일보"
         },
         {
-          "title": "통장 ‘25만원’에 발목 잡힌 도경완…120억 집과 ‘가난 코스프레’의 무한소환",
-          "url": "https://www.sportsseoul.com/news/read/1651358",
-          "source": "스포츠서울"
-        },
-        {
-          "title": "도경완, 유타서 A사 신차 시승…현재 운용 차도 A사",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626845",
-          "source": "메디컬투데이"
+          "title": "BTS 콘서트 현장서 입장권 팔찌 100장 훔친 중국인 집유",
+          "url": "https://www.newsis.com/view/NISX20261120_0003877149",
+          "source": "뉴시스"
         }
       ]
     },
@@ -99,6 +158,31 @@
       ]
     },
     {
+      "keyword": "오현규",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-22T01:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YeNkrHmJcz3-oNZPIbq0EpupjAKo39P0JD38gZ2PbB7wGTB87YE6w3KdLP4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“레전드 손흥민이 영입에 중요한 역할 할 수도”…토트넘, 공격진 보강 계획 속 ‘이적료 442억’ 오현규 영입 관심",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%85%E1%85%A6%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%83%E1%85%B3-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%A6-%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%89%E1%85%AE%E1%84%83%E1%85%A9--%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8-%E1%84%89%E1%85%A9%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%85%E1%85%AD-442%E1%84%8B%E1%85%A5%E1%86%A8-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B2-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7/blt550dcfba9fbb6ece",
+          "source": "Goal.com"
+        },
+        {
+          "title": "\"초대박!\" 韓 국가대표 공격수 오현규, 토트넘 러브콜…'3000만 유로' 구체적 액수도 나왔다 '손흥민이 추천'",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/19/G44WCOBUMMZWKMZYGI4DGMBQGI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "일본 슈퍼스타 완전 망했습니다, 이강인과 180도 다른 길...스페인→튀르키예 커리어 퇴보? 오현규와 한솥밥 가능성",
+          "url": "https://www.sportschosun.com/football/2026-11-19/202611190100121970011285",
+          "source": "스포츠조선"
+        }
+      ]
+    },
+    {
       "keyword": "영구자석",
       "traffic": "1000+",
       "trafficValue": 1000,
@@ -120,81 +204,6 @@
           "title": "中 밀어낸 美, 케냐 희토류 광산 선점…수십조원 광물 확보전 승리",
           "url": "https://www.dailian.co.kr/news/view/1717523/%E4%B8%AD-%EB%B0%80%EC%96%B4%EB%82%B8-%E7%BE%8E-%EC%BC%80%EB%83%90-%ED%9D%AC%ED%86%A0%EB%A5%98-%EA%B4%91%EC%82%B0-%EC%84%A0%EC%A0%90-2026",
           "source": "데일리안"
-        }
-      ]
-    },
-    {
-      "keyword": "울산광역시",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T00:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI0ONDdA-gZe3RFad5UBbVSQweK8p91HMnPyZ2m7Jj_V5gmssyljLFwX_JqAg",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "李, 울산 전통시장서 “내년에는 좀 더 좋아질 것”…‘최애’ 배추전 구입",
-          "url": "https://www.donga.com/news/Politics/article/all/20261121/135065075/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "이 대통령, 울산 전통시장 방문...\"내년은 조금 더 좋아질 것\"",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611220924534819",
-          "source": "YTN"
-        },
-        {
-          "title": "산업화의 중심 울산, AI 시대 새로운 도약을 기대합니다.",
-          "url": "https://www.president.go.kr/social-media/2iOowGQS",
-          "source": "대한민국 청와대"
-        }
-      ]
-    },
-    {
-      "keyword": "담보 대출",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T00:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdBPUAc9kUeAVHZ6okAX-mMourHHef-9Sm2Cwuh58KHIdXiYZW9PE62NjuG0s",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“주담대 금리 치솟아도 돈 빌릴 곳 없으니”…집단대출 늘며 잔액 증가폭 ‘쑥’",
-          "url": "https://www.mk.co.kr/news/economy/12215366",
-          "source": "매일경제"
-        },
-        {
-          "title": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
-          "url": "https://m.ekn.kr/view.php?key=20261119024551856",
-          "source": "에너지경제신문"
-        },
-        {
-          "title": "코픽스 두 달 연속 상승에 주담대 금리 상단 6%대… 중도금 무이자 단지 주목",
-          "url": "https://biz.heraldcorp.com/article/10943540",
-          "source": "헤럴드경제"
-        }
-      ]
-    },
-    {
-      "keyword": "오현규",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-22T01:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9YeNkrHmJcz3-oNZPIbq0EpupjAKo39P0JD38gZ2PbB7wGTB87YE6w3KdLP4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“레전드 손흥민이 영입에 중요한 역할 할 수도”…토트넘, 공격진 보강 계획 속 ‘이적료 442억’ 오현규 영입 관심",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%85%E1%85%A6%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%83%E1%85%B3-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%A6-%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%89%E1%85%AE%E1%84%83%E1%85%A9--%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%80%E1%85%A1%E1%86%BC-%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8-%E1%84%89%E1%85%A9%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%85%E1%85%AD-442%E1%84%8B%E1%85%A5%E1%86%A8-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B2-%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%B8-%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B7/blt550dcfba9fbb6ece",
-          "source": "Goal.com"
-        },
-        {
-          "title": "\"초대박!\" 韓 국가대표 공격수 오현규, 토트넘 러브콜…'3000만 유로' 구체적 액수도 나왔다 '손흥민이 추천'",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/19/G44WCOBUMMZWKMZYGI4DGMBQGI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "일본 슈퍼스타 완전 망했습니다, 이강인과 180도 다른 길...스페인→튀르키예 커리어 퇴보? 오현규와 한솥밥 가능성",
-          "url": "https://www.sportschosun.com/football/2026-11-19/202611190100121970011285",
-          "source": "스포츠조선"
         }
       ]
     },
@@ -245,31 +254,6 @@
           "title": "옥승철 파주시의원 “미래 수요에 걸맞은 교하동 신청사 건립 시급… 구체적 계획·실행 나서야”",
           "url": "https://pajusidae.com/article/25196",
           "source": "파주시대"
-        }
-      ]
-    },
-    {
-      "keyword": "김호영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T00:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGo4BlCVIBFvO9Z9M3tRgUKJEiEONOWKFDrOOIkABKPn-HGWFUTfJRrYUwlw4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'카톡 친구 5000명' 김호영, 길에서 카드 주웠는데 \"아는 사람 거\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112119565318710",
-          "source": "머니투데이"
-        },
-        {
-          "title": "'지인 5천명' 김호영 소름..길에서 주운 신용카드까지 '호연지기' ('김호영')",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/HEYTGNLBMYYDAZJQHFQWGY3CGA/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "김호영 길에서 주운 신용카드…주인은 실제 지인 : 연예",
-          "url": "https://news.jkn.co.kr/post/1113875",
-          "source": "재경일보"
         }
       ]
     }
