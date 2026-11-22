@@ -1,283 +1,259 @@
 {
-  "updatedAt": "2026-11-22T11:39:31.251Z",
+  "updatedAt": "2026-11-22T12:45:13.676Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 1
+      "count": 6
     },
     {
       "category": "생활·날씨",
       "count": 1
     },
     {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "경제",
+      "category": "IT·과학",
       "count": 1
     },
     {
       "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "수능 부정행위",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-22T10:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxZgVu8Z9oCEWu2Uwmniq1AalUDejN--IWP6z7ylnNrQbXaB6V3VCYokfOSoM",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\"",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976210",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "\"제각각 지침 불편\"...교육 수장 없는 입시관리 우려",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611221647062898_005.html",
-          "source": "YTN"
-        },
-        {
-          "title": "일회용 앞치마까지…AI 부정행위 철통 방어 나선 대학가",
-          "url": "https://www.yna.co.kr/view/IPT20261122000005365?section=gallery/index",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "남진",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-22T10:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRPuTB5WxDeHXuXlCJzR-4AKyva5TtfamZixPIVcu0flWpKt7oDJ9KgcaDORE",
-      "category": "연예",
-      "news": [
-        {
-          "title": "남진, 46세·42세 미혼 미모의 두 딸 공개…\"첫 딸은 김주하 닮아\" [핫피플]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/MI4TQNRVME4TSZLBGAYTAMRWMQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "미운 우리 새끼 : 설운도, 허경환의 처참한 부추전 요리에 도움 나선 후 빠른 손절",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483367571",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "허경환, 곧 결혼하나…동거녀 폭로에 급당황 “결혼식만 안 해, 여자 있어”",
-          "url": "http://www.atstar1.com/news/articleView.html?idxno=6040709",
-          "source": "앳스타일"
-        }
-      ]
-    },
-    {
-      "keyword": "무신사",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-22T09:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSE6nYySfqOaESUhXa237AuVyHYxNw23LSTudgR1pdm_AqgQKkFOa4N-lmqbZ0",
+      "keyword": "내일 날씨",
+      "traffic": "100000+",
+      "trafficValue": 100000,
+      "startedAt": "2026-11-22T11:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq9DUWsxrN0Z4rUh56JbWn4SKk1H7_jbA7HiAZO1sUc4AVKep2KlWCYmGqU8k",
       "category": "생활·날씨",
       "news": [
         {
-          "title": "SKT, 무신사 블랙프라이데이서 '에어' 요금제 할인",
-          "url": "https://www.yna.co.kr/view/AKR20261122012200017",
-          "source": "연합뉴스"
+          "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+          "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+          "source": "YTN"
         },
         {
-          "title": "무신사, 롯데리아와 수험생 응원 '버거트럭' 이벤트 실시",
-          "url": "https://www.etnews.com/20261122000047",
-          "source": "전자신문"
+          "title": "월요일 전국에 비·눈…영하권 출근길",
+          "url": "https://www.chosun.com/national/transport-environment/2026/11/22/U45T5NQ2VZGLJEPCXE2NVXN5TI/",
+          "source": "조선일보"
         },
         {
-          "title": "무신사, ‘무진장’ 개막 앞두고 성수서 수험생 대상 ‘버거 트럭’ 운영",
-          "url": "https://www.viva100.com/article/20261122500190",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "한전on",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-22T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdfSBLSp3l_ucjdhi6F2B3_uZyJChK-9CkR4MSP_iq8zAi7sQ3-UPqYt7v2nU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "한전도 해킹당했다…65만명 주민번호·계좌·카드번호 유출",
-          "url": "https://www.khan.co.kr/article/202611221907001",
-          "source": "경향신문"
-        },
-        {
-          "title": "“전기요금 내려고 입력했던 내 정보가”…한전, 이번엔 65만명 고객정보 유출",
-          "url": "https://stock.mk.co.kr/news/view/1203794",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "다크웹서 \"한전 이용자 정보 확보\" 게시물 등장",
-          "url": "https://zdnet.co.kr/view/?no=20261121133800",
-          "source": "지디넷코리아"
-        }
-      ]
-    },
-    {
-      "keyword": "원자력 잠수함",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T09:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUeYPVteU5LbI5Z8oKS8Uk3_x50Hj_7YZJhkYethd9ni8cGjrvoMosphyyhc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "與 “핵추진잠수함 도입, 특별법으로 뒷받침”",
-          "url": "https://www.donga.com/news/Politics/article/all/20261122/135065893/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
-          "url": "https://www.mk.co.kr/news/politics/12215581",
-          "source": "매일경제"
-        },
-        {
-          "title": "민주당 “핵잠 도입, 국제사회 신뢰 확인…핵비확산 원칙 담아 특별법 뒷받침”",
-          "url": "https://www.dt.co.kr/article/12096468",
-          "source": "www.dt.co.kr"
-        }
-      ]
-    },
-    {
-      "keyword": "정상회담",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T09:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-A8mekT_S8_P5omky2jdDWQ1VT4GiTOwc3w_J8Uh5G0rLEaH6XTnS8CQaL2A",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "트럼프 “미·중·러, 한반도 위험 논의”…핵 감축엔 “동의 어려워”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719193",
+          "title": "내일 전국에 비.눈…출근길 살얼음 주의",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719399",
           "source": "KBS 뉴스"
-        },
-        {
-          "title": "트럼프, SNS에 얄타회담·미중러 정상회담 사진 나란히 게시",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6867545_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "트럼프는 ‘사진’, 시진핑은 ‘위상’, 푸틴은 ‘시간’ 챙겼다…‘강대국 외교’의 귀환",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01859766645648344",
-          "source": "마켓인"
         }
       ]
     },
     {
-      "keyword": "서울 경전철 서부선",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T09:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6IUVUlNxEa1vXc238fC0Q4sT9kcKvnU5Bve3D-kC5YiVtOD3FnVCDTp9sgR4",
-      "category": "경제",
+      "keyword": "weather tomorrow",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-22T11:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSMD2Uw79SMDCTZfm3COlVwqy_MxEYcOCfi9DZivCEyp58x1GuSemy7WTXv0",
+      "category": "기타",
       "news": [
         {
-          "title": "서울 경전철 서부선 26년째 표류…공사비 급증에 발목 : 부동산",
-          "url": "https://news.jkn.co.kr/post/1114541",
-          "source": "재경일보"
+          "title": "Precipitation observed in a number of regions of Azerbaijan, snow fell at times on Shahdag",
+          "url": "https://1news.az/en/news/20261122115007430-Precipitation-observed-in-a-number-of-regions-of-Azerbaijan-snow-fell-at-times-on-Shahdag",
+          "source": "1News.az"
         },
         {
-          "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
-          "url": "https://www.hankyung.com/article/202611222102i",
-          "source": "한국경제"
+          "title": "Temperatures to reach 18°C on Sunday",
+          "url": "https://report.az/en/ecology/temperatures-to-reach-18-c-on-sunday",
+          "source": "Report.az"
         },
         {
-          "title": "[단독] 서부선 민자 재시동…재정 ‘투트랙’ 속도낸다",
-          "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202611191120305010769",
-          "source": "대한경제"
+          "title": "Rain to intensify in Baku and regions, warning issued",
+          "url": "https://operativmm.az/en/post/rain-to-intensify-in-baku-and-regions-warning-issued/87825",
+          "source": "Operativ Məlumat Mərkəzi"
         }
       ]
     },
     {
-      "keyword": "회계사",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-22T09:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHDTdQQo_RzY6UdXCmtlhEahjVGUzQxyOf54-E4gDEKcM_yde1P9AOiOB8gyM",
+      "keyword": "погода завтра",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-22T11:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "thời tiết ngày mai",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-22T11:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2aJpy-C0bH1LahtckVBphxqaW4iRdYZpiNcdy7UN1B7qVMeqFGDqUtwmlxE4",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Bản tin Dự báo thời tiết ngày 22/11/2026",
+          "url": "https://baodienbienphu.vn/tin-bai/xa-hoi/ban-tin-du-bao-thoi-tiet-ngay-22-11-2026",
+          "source": "Báo Điện Biên Phủ"
+        },
+        {
+          "title": "Không khí lạnh tràn xuống Bắc Bộ và Trung Bộ, vùng núi có nơi rét dưới 10 độ C",
+          "url": "https://moitruong.net.vn/khong-khi-lanh-tran-xuong-bac-bo-va-trung-bo-vung-nui-co-noi-ret-duoi-10-do-c-104587.html",
+          "source": "moitruong.net.vn"
+        },
+        {
+          "title": "Dự báo thời tiết Hà Nội sắp có mưa do không khí lạnh, thấp nhất 14-16 độ",
+          "url": "https://laodong.vn/moi-truong/du-bao-thoi-tiet-ha-noi-sap-co-mua-do-khong-khi-lanh-thap-nhat-14-16-do-1804746.ldo",
+          "source": "Laodong.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "무디스",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-22T10:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvJt1C55wVOBas2GSthmSeAEaVEEoLUVauwd9dam8Vx6hTTQbAHnm86cniUsw",
       "category": "IT·과학",
       "news": [
         {
-          "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
-          "url": "https://www.yna.co.kr/view/AKR20261121044700002",
-          "source": "연합뉴스"
+          "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+          "url": "https://www.fnnews.com/news/202611220802359845",
+          "source": "파이낸셜뉴스"
         },
         {
-          "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
-          "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
-          "source": "동아일보"
+          "title": "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
+          "url": "https://m.segye.com/view/20261122505855",
+          "source": "세계일보"
         },
         {
-          "title": "회계사 시험 전자기기 부정행위 5년간 적발 ‘0건’…AI 탐지 장비 예산도 없어",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/SDD6JM7JY5AC3NOXCXKVS3OF2M/",
-          "source": "조선일보"
+          "title": "“삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황",
+          "url": "https://biz.heraldcorp.com/article/10944835",
+          "source": "헤럴드경제"
         }
       ]
     },
     {
-      "keyword": "쇼메이커",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T10:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavArsp1Ry9nJu78Hs-UoF3PMjhLUeDt692MWqraNTULUSx0Z6zRIJZZm6iZw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
-          "url": "https://www.hankyung.com/article/202611222346i",
-          "source": "한국경제"
-        },
-        {
-          "title": "롤드컵 준우승 젠지e스포츠 새판에 ‘광주·전남 신예’ 뜨나",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085133",
-          "source": "진일보 | 전남일보"
-        },
-        {
-          "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
-          "url": "https://www.kmib.co.kr/article/20261119500020",
-          "source": "국민일보"
-        }
-      ]
-    },
-    {
-      "keyword": "방시혁",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-22T09:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7mPmpeWh7F-90CU5nCvnClb_tC6SpLITRzaipliAIKd82ou3CT9FkRItUqYY",
+      "keyword": "cuaca besok",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T11:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPf1YdvU2JORR_SFuYsjFGcrfvkKhucKtrUPoG2KfIB4nrnrwIhW_eB_ZeYm0",
       "category": "기타",
       "news": [
         {
-          "title": "과즙세연 \"너흰 돈 때문에 방시혁이랑 자고 싶냐?…이 거지XX들아\"",
-          "url": "https://www.news1.kr/society/general-society/6361937",
-          "source": "뉴스1"
+          "title": "Akan Dilanda Hujan Petir Sepekan, Ini Prakiraan Cuaca Depok dan Bogor",
+          "url": "https://depok.tribunnews.com/news/53624/akan-dilanda-hujan-petir-sepekan-ini-prakiraan-cuaca-depok-dan-bogor",
+          "source": "Tribunnewsdepok.com"
         },
         {
-          "title": "'식사권 700만원' 과즙세연 \"돈 때문에 방시혁과 잤냐고? 안잤다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112213582556520",
-          "source": "머니투데이"
+          "title": "Cuaca Depok Hari Ini: Hujan Mulai 16.00 WIB, 22–33°C",
+          "url": "https://journalarta.com/news/2026/11/21/prakiraan-cuaca-hari-ini-depok-21-11-2026/",
+          "source": "JournalArta"
         },
         {
-          "title": "과즙세연 면전에 대고 성적 비하한 19금 코미디쇼 ‘뭇매’",
-          "url": "https://www.mk.co.kr/news/entertain/12215464",
+          "title": "Cuaca Depok Sabtu 21 November 2026: Pagi Berawan, Siang Cerah, Sore Berpotensi Hujan Ringan",
+          "url": "https://depok.tribunnews.com/alun-alun-depok/53610/cuaca-depok-sabtu-21-november-2026-pagi-berawan-siang-cerah-sore-berpotensi-hujan-ringan",
+          "source": "Tribunnewsdepok.com"
+        }
+      ]
+    },
+    {
+      "keyword": "유벤투스 대 베네치아",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu3CKIijh1qlQrY3ppf2zsUCbfLpeBhlnGaoao-LLDH6tJGHkC2lWMlHG_hkw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "유벤투스 vs 베네치아 예측: 홈팀이 우세할 것으로 예상됩니다.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-venezia-chu-nha-duoc-danh-gia-cao-hon",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "유벤투스 vs 베네치아: 랑달 콜로 무아니·웨스턴 맥케니 선발, 에돈 제그로바 출전",
+          "url": "https://www.allfootballapp.com/ko/articles/6037614-vs",
+          "source": "AllFootball"
+        },
+        {
+          "title": "유벤투스 vs 베네치아 프리뷰: 예상 스코어, 선발 라인업, 생중계 링크.",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-venezia-du-doan-ty-so-doi-hinh-va-link-xem-truc-tiep",
+          "source": "Vietnam.vn"
+        }
+      ]
+    },
+    {
+      "keyword": "요리학교",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbeR34qlToe9mdTxYXViN6WXP87UVf0CNQgjjMz-Z7mw6zOMGvu2VH8TymNwQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "CIA 첫 한식과정 만든 양종집 교수 “한식 세계화 전초기지로”",
+          "url": "https://stock.mk.co.kr/news/view/1203755",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "\"80년 만에 처음 있는 일\"…美 최고 요리학교서 한식 열풍",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01387446645648344&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "美 명문 요리학교, K푸드 정규과목 추진...“전문인력으로 한식 세계화”",
+          "url": "https://www.sedaily.com/article/20117296",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "조정식",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-22T10:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5JuRBLHdXBCnNq9KOSfKUnxVst6RJ2phtkOTTAn8BRERVzWA3PTXP8BKSKds",
+      "category": "연예",
+      "news": [
+        {
+          "title": "문제 유출, 수능 직전 예능行… 일타강사인가, ‘일탈’강사인가",
+          "url": "https://www.chosun.com/national/weekend/2026/11/21/PHM6NQOYUBHKJCLZ4YT3S5R234/",
+          "source": "조선일보"
+        },
+        {
+          "title": "“너는 못 쓰게 되지 않았다”…수능 뒤 일타강사 위로에 ‘울컥’",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04241046645647688&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "수험생 팽개친 ‘먹튀 논란’ 강사 이도…넷플릭스는 편집 왜 안했나",
+          "url": "https://www.mk.co.kr/news/it/12214982",
           "source": "매일경제"
+        }
+      ]
+    },
+    {
+      "keyword": "현대무벡스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-22T11:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP5o_OnMiLRW3qOEQOUdKRjhUS5tvI6D2RBKkFj1J30O55HlxOfmQ10vYunZo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "현대엘리베이터, 현대무벡스 지분 1천26억원 매각해 주주환원",
+          "url": "https://www.yna.co.kr/view/AKR20261122015300003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "현대엘리베이터, 현대무벡스 지분 1,026억원 매각해 주주환원",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122104231F6M",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "지배력 지키고 현금 쥐어…현대엘리베이터 'PRS 유동화' 계산법",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903931",
+          "source": "뉴스웍스"
         }
       ]
     }
