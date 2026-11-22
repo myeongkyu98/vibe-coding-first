@@ -1,271 +1,275 @@
 {
-  "updatedAt": "2026-11-21T23:32:20.286Z",
+  "updatedAt": "2026-11-22T00:51:41.150Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
-    },
-    {
-      "category": "기타",
-      "count": 4
+      "category": "경제",
+      "count": 3
     },
     {
       "category": "정치·사회",
-      "count": 1
+      "count": 2
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "구자욱",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-21T21:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5rd9-K4sw0aOD-7Oo6ZTf7Yv9_Kx1pm3n4465P9-nDxXQ4HvCvFzJkB8p9zA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "MLB 사무국, '빅리그 도전' 구자욱 신분 조회 요청",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867379_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'원태인보다 구자욱 먼저' 韓 타격왕 향한 ML 관심, '급성장' 박승규만 믿기엔 너무도 이른데... - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/21/2026112113272550290",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "뉴스",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-21T22:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfP-I-quUqSisupyR3gvsy9wWsA1lQozeJRnZOvP7CO8PADOKfb39LbiY3T8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "르세라핌, 3년 만의 'MAMA' 출격..70인 메가 크루로 압도",
-          "url": "https://www.chosun.com/entertainments/music/2026/11/22/MVSGIMRRHBSDANZWGU4DOYZVGQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[뉴스1 ★] 르세라핌 허윤진, 어깨부터 팔까지 하얀 뱀 칭칭…역대급 파격 드레스",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6361771",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[사진]르세라핌 김채원, '왜 앞으로 안 가지지?'",
-          "url": "https://www.osen.co.kr/article/G1112913210",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "공군사관학교",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T22:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1dGQmYYvkFqsc6o4V1vclHMxoupHZFysKsXVNLx5ZHB1Fsl78wJFL1t1Nejw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "공사 생도 '명예시험' 중 스마트폰으로 시험지 촬영…퇴교 처분",
-          "url": "https://www.yna.co.kr/view/AKR20261120176600504",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
-          "url": "https://www.kyeonggi.com/article/20261120580310",
-          "source": "경기일보"
-        },
-        {
-          "title": "공군사관학교도 6월에 시험문제 불법촬영…3학년 생도 퇴교",
-          "url": "https://www.donga.com/news/Society/article/all/20261120/135063726/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "이정효",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-21T21:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuQ5CEjyISwXoDCBH0DgBpzCMyKBA3Jp6Gk4cyuSUJYCbZELlje9GSjXnIbNw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "“내년엔 꼴찌부터 시작”···리그 우승 확정에 이정효는 냉정했다",
-          "url": "https://www.khan.co.kr/article/202611212030001",
-          "source": "경향신문"
-        },
-        {
-          "title": "'이것이 대한민국 축구 명문의 역사다' 수원삼성, K리그2 우승으로 한국 프로축구 최초 대기록 완성...1·2부부터 아시아 정상까지 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/22/202611212222776505O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "승격에 우승까지 '이정효 매직'‥\"14위부터 다시 시작\"",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867513_37004.html",
-          "source": "MBC 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "추미애",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-21T21:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAub_8RFUSXbQuEvrhGdAHunWT8iVAd0vIv4Z-ydGFAaM3CSTY9hRUuBVO-JQ",
+      "keyword": "수험",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-21T23:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZSuV_mhStp9jtNQpdmk1WpARyPIc1AauUWr-TQZOHZBMgMg3uGTyzixApgw",
       "category": "정치·사회",
       "news": [
         {
-          "title": "추미애 “한덕수 판결 순억지···조희대 탄핵, 좌고우면하면 안 돼”",
-          "url": "https://www.khan.co.kr/article/202611211912001",
-          "source": "경향신문"
+          "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "여 “사법정의 바로세워야”…야 “친위쿠데타 심판”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719307",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "한덕수 재판 다시…윤석열 등 내란 혐의 최종 판단은 언제",
-          "url": "https://www.yna.co.kr/view/AKR20261121046300004",
+          "title": "'피의자 사망' 살충제사건 풀었던 경찰 '리트만점 수사' 시험대",
+          "url": "https://www.yna.co.kr/view/AKR20261120178000004",
           "source": "연합뉴스"
+        },
+        {
+          "title": "‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리 후 외출",
+          "url": "https://www.kyeonggi.com/article/20261121580007",
+          "source": "경기일보"
         }
       ]
     },
     {
-      "keyword": "인천광역시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T22:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzimyIFV33dHquFdjLVkJqPMEyoLVJa4f-o1YSnrHgwywORpfpC0HacNQqSE",
+      "keyword": "삼전 닉스",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-21T23:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvJt1C55wVOBas2GSthmSeAEaVEEoLUVauwd9dam8Vx6hTTQbAHnm86cniUsw",
       "category": "IT·과학",
       "news": [
         {
-          "title": "인천시, 수소산업 담당자 직무교육…인프라 운영 역량 강화",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722785",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "AI 시대 전력 공급, 연료전지의 역할은…수소인프라 운영 사례도 공유",
-          "url": "https://www.hydrogennews.co.kr/news/articleView.html?idxno=5225",
-          "source": "수소신문"
-        },
-        {
-          "title": "인천시, 수소경제 기반 강화 위한 실무자 직무교육 실시",
-          "url": "https://www.kgdm.co.kr/news/articleView.html?idxno=2018507",
-          "source": "경기도민일보 미디어"
-        }
-      ]
-    },
-    {
-      "keyword": "la liga",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T22:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpjVGuHHrgGAVwgBt32sZ8RvEndABHDnUejHIoUhpnl11s7DzuWRTdPxBb7QE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Spain La Liga Soccer",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/spain-la-liga-soccer/image_70cc47ee-8b8b-56a4-afd2-1a4dc169db2e.html",
-          "source": "Corsicana Daily Sun"
-        },
-        {
-          "title": "Spain La Liga Soccer",
-          "url": "https://www.couriernews.com/sports/spain-la-liga-soccer/image_47b0d4b3-9132-54c7-8ddc-80ccfea42e17.html",
-          "source": "couriernews.com"
-        },
-        {
-          "title": "Spain La Liga Soccer",
-          "url": "https://www.couriernews.com/sports/spain-la-liga-soccer/image_ba1e19f7-b8e2-53b6-9aaf-3bc69321be94.html",
-          "source": "couriernews.com"
-        }
-      ]
-    },
-    {
-      "keyword": "편지",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T22:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaWBZH1UBg5CLo_9qq0ROSIwr1J8MK-ujQ1izEzbdgM5XMZBwp0hybWn39UYM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
-          "url": "https://busan.fnnews.com/news/202611201111489476?pg=mny",
+          "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+          "url": "https://busan.fnnews.com/news/202611220802359845",
           "source": "부산파이낸셜뉴스"
         },
         {
-          "title": "\"네가 있어서 든든했다\"…28년 전 중학교 가정통신문에 적힌 담임 선생님 메시지 '감동' [따뜻했슈]",
-          "url": "https://www.fnnews.com/news/202611201111489476",
-          "source": "파이낸셜뉴스"
+          "title": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
+          "url": "https://www.yna.co.kr/view/AKR20261120066600008",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
+          "url": "https://www.hankyung.com/article/2026112113727",
+          "source": "한국경제"
         }
       ]
     },
     {
-      "keyword": "реал мадрид – сельта",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T22:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhuMwJJkkxl-5IxyHr2dRAbrNlaii8EIz1-F_QIo8kh7K3WZUSKR-CmyuoJvU",
+      "keyword": "부동산",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-21T22:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSejaCXwNFW7pBln-fo8ARdJAmA52Abd_5fbR8ibB62kgKtq1hM6TzG3x7FQ_0",
+      "category": "경제",
+      "news": [
+        {
+          "title": "\"매매도 전세도 막히면 어디로 가나\"…향후 부동산 시장 판단 기준은",
+          "url": "https://www.newsis.com/view/NISX20261118_0003873204",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"무주택자 이제 정말 큰일이네\"…13년 만에 '최악의 상황'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01436646645646048&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "[친절한 경제] 월세 구하다 한숨만…13년 만에 최대 상승",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846890",
+          "source": "SBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "수출규제",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T23:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjbM3LMCJRDNN_c9tM94r_iyP0ZBwvDRcCx6JQWLpZta66jHfl6pCWQVetMxI",
+      "category": "경제",
+      "news": [
+        {
+          "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
+          "url": "https://www.segye.com/newsView/20261120506261",
+          "source": "세계일보"
+        },
+        {
+          "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261121001651071",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "알테오젠",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-21T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSqJa8LQFMC628vofV2Jlh5pnD7fZqsCZBJUfNPah7Cntdadvfr5SR4zS9BLU",
       "category": "기타",
       "news": [
         {
-          "title": "Реал - Сельта. Чемпионат Испании. Тур 13",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbvideo_NI2385175_translation_Real___Selta_Chempionat_Ispanii_Tur_13",
-          "source": "Sportbox"
+          "title": "알테오젠 파트너 MSD, 할로자임 美 특허심판 14건 모두 승리",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=02371446645647360",
+          "source": "팜이데일리"
         },
         {
-          "title": "Итурральде о пенальти «Реала»: «На тоненького. ВАР не вмешался, потому что это эпизод на усмотрение судьи»",
-          "url": "https://sportmail.ru/news/others/72990025/",
-          "source": "Спорт Mail"
+          "title": "알테오젠 기술 적용 항암제, 獨서 판매금지 가처분 풀려…할로자임 본안소송 예고",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/20/TP4CLPMHPZEPFJOH7G6LJ2KJWU/",
+          "source": "Chosunbiz"
         },
         {
-          "title": "Ла Лига. Реал опять достал джокера: Эспи принёс Реалу драматичную победу",
-          "url": "https://www.ua-football.com/foreign/spain/1795297254-la-liga-real-opyat-dostal-dzhokera-yespi-prinyos-realu-dramatichnuyu-pobedu.html",
-          "source": "UA-Football"
+          "title": "\"소송 이기고 판금도 풀려\"…활짝 웃는 알테오젠",
+          "url": "https://www.newsis.com/view/NISX20261120_0003876311",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "real madrid đấu với celta",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-21T22:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWkKNR319KbUFGDzQ-bHpdyofwPhx3H0aNZWc97kPdINKc5fURMrsMaFZ82Hc",
+      "keyword": "인공지능",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T23:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnYcwfy55ClyPaJTjFnP65B8ea2ne-DsABywCsf2v93YFZ-xi2VLZaaqvQ44w",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
+          "url": "https://www.yna.co.kr/view/AKR20261120160100017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
+          "url": "https://zdnet.co.kr/view/?no=20261122085359",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "LG유플러스, 부문장 전부 교체…AI 사업 실행력 높인다",
+          "url": "https://www.etnews.com/20261122000001",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "real madrid vs rc celta de vigo standings",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-21T23:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvxOZi78Iq22h5145PQTAzYDU7eoPO2V1Z4MOESUiLPIFvGM9HrqOnegr9txU",
       "category": "스포츠",
       "news": [
         {
-          "title": "Video bóng đá Real Madrid - Celta Vigo: Vỡ òa phút 85 (La Liga)",
-          "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-celta-vigo-vo-oa-phut-85-la-liga-c48a1813086.html",
-          "source": "Tin tức 24h"
+          "title": "Real Madrid 2-1 Celta Vigo (Nov 21, 2026) Game Analysis",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401882798",
+          "source": "ESPN"
         },
         {
-          "title": "Nhận định bóng đá Real Madrid vs Celta Vigo, 03h00 ngày 22/11: Chiến thắng chật vật cho chủ nhà!",
-          "url": "https://bongdaplus.vn/la-liga/nhan-dinh-bong-da-real-madrid-vs-celta-vigo-03h00-ngay-22-11-chien-thang-chat-vat-cho-chu-nha-5294742611.html",
-          "source": "Tạp chí Bóng đá"
+          "title": "Comeback and ninth consecutive victory",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-celta-j13-liga-21-11-2026",
+          "source": "Real Madrid CF | Web Oficial"
         },
         {
-          "title": "Mourinho thắng nhờ Vinicius và Carlos Espi",
-          "url": "https://znews.vn/mourinho-thang-nho-vinicius-va-carlos-espi-post1698191.html",
-          "source": "Znews"
+          "title": "Real Madrid 2-1 Celta Vigo: Carlos Espi scores late winner in La Liga",
+          "url": "https://www.bbc.com/sport/football/live/c6205wg000g8t",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "keyword": "털",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSqaM09vv2cOZy5nvo6NjMRAzkhE8o28U6I2FutjkPcEagMbcPqJV0rKUPgPo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "관객이 던진 털모자 삼킨 뒤 끝내 숨진 ‘기적의 하마’ 피오나···전 세계 팬들 애도",
+          "url": "https://www.khan.co.kr/article/202611202127001",
+          "source": "경향신문"
+        },
+        {
+          "title": "구경꾼 던진 ‘털모자’에…‘희망 아이콘’ 피오나 끝내 죽었다 [W 언박싱]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718950",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "국민 하마 '피오나' 추모하는 손 편지",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261121_0002298595&provider_id=&cID=&type=photoMain&catg=&idx=7",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "군인",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-21T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo-9G60lEdDLmCpC2FwIe-yzFQl_H5iGXVwolWSKUeW7JqMjKYwx4bbGeE5tE",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "'삐삐삐' AI가 30초 만에 껐다…'재난문자' 감독도 빈틈?",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857095",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "부정행위 막으려 세 차례 울린 경보음...시민 반응은? [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611201616010571",
+          "source": "YTN"
+        },
+        {
+          "title": "'재난 문자' 무력화 초소형 커닝 장비, 해외서 9만 원에 판매",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286587",
+          "source": "OhmyNews"
+        }
+      ]
+    },
+    {
+      "keyword": "화석연료",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-21T22:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQkNGdPwVmTxgmMcAjKW58JYS_PIaU5FHzxVMlaIiIPNs3uLONYEFxXlBL0Wg",
+      "category": "경제",
+      "news": [
+        {
+          "title": "기후총회 합의 난항…화석연료 퇴출·기후재원 놓고 결렬 위기",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719299",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "글로벌 전력기업 연합, 전력망 신설 역대 최대...투자규모 연 1560억달러로 상향",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374992",
+          "source": "전기신문"
+        },
+        {
+          "title": "폐막일 넘긴 기후총회, 캄보디아 학교를 보라",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287058",
+          "source": "OhmyNews"
         }
       ]
     }
