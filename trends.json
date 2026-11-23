@@ -1,275 +1,259 @@
 {
-  "updatedAt": "2026-11-23T20:46:49.516Z",
+  "updatedAt": "2026-11-23T21:46:52.765Z",
   "summary": [
+    {
+      "category": "기타",
+      "count": 4
+    },
     {
       "category": "IT·과학",
       "count": 3
     },
     {
-      "category": "기타",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "category": "스포츠",
+      "count": 1
     },
     {
       "category": "경제",
-      "count": 2
+      "count": 1
     },
     {
-      "category": "스포츠",
+      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "탁구",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-23T17:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQqpbpPwTFWY4sraOArxIWD1DlISa6DI_KEzNeojvS2RJ89TpMRUS8NmhyOo",
+      "keyword": "연금",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-23T20:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt_XKVrp1CXRz08PmX_Dcr4AnNeX5ywfzXdPv1ymhRQxTdainsoL3H76Q9mEY",
       "category": "기타",
       "news": [
         {
-          "title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759864",
-          "source": "국제뉴스"
+          "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
+          "url": "https://www.yna.co.kr/view/AKR20261122031500530",
+          "source": "연합뉴스"
         },
         {
-          "title": "다음달 4일 아산시장배 전국장애인탁구대회",
-          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112640",
-          "source": "충청매일"
+          "title": "부부 모두 내도 배우자 사망하면 깎이는 국민연금...‘중복급여 조정’ 논란",
+          "url": "https://www.kyeonggi.com/article/20261123580009",
+          "source": "경기일보"
         },
         {
-          "title": "김포시, 제17회 장애인 생활체육대회 성황리 마무리 : 네이버 블로그",
-          "url": "https://blog.naver.com/PostView.naver?blogId=gimpotoday&logNo=224488349119&redirect=Dlog",
-          "source": "Naver Blog"
+          "title": "국민연금 꼬박꼬박 냈는데 '0원'…맞벌이 부부 '부글부글' [머니팁]",
+          "url": "https://www.hankyung.com/article/202611234317v",
+          "source": "한국경제"
         }
       ]
     },
     {
-      "keyword": "노태문",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-23T17:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4ybf4RwSQ-2hNfeigalFL_1U2McMm6iz5_-elmSN6_IxfSYUQPtwK_ivfO9w",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
-          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%9E%A5%EB%8B%A8-%EC%9D%B8%EC%82%AC-2",
-          "source": "samsung.com"
-        },
-        {
-          "title": "MX 떠나는 노태문 “올해 부품값 급등에 어려움…도전 계속 지원”",
-          "url": "https://www.etnews.com/20261123000501",
-          "source": "전자신문"
-        },
-        {
-          "title": "주요 그룹들 전문성 갖춘 인사 중용 ‘변화보다 안정’",
-          "url": "https://www.khan.co.kr/article/202611222028015",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "브뢴뷔 대 미트윌란",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-23T18:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiGFvoGni4T4-alTzGRTiH2oMXIE77pOydhqif1coCikdREtMwzx_Ipa576s8",
+      "keyword": "골프",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-23T20:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPXvJrNscdBVuOv0rOd_XxlOJ6UFTxZiQAS0WuQqGc6M3xJiibHXDoTp4J8H8",
       "category": "스포츠",
       "news": [
         {
-          "title": "Brondby vs FC Midtjylland Prediction, Betting Tips, Lineups & Odds | 23 Nov 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/football/brondby-vs-fc-midtjylland-prediction-lineups-odds-2026-11-23/",
-          "source": "Sportsgambler"
-        },
-        {
-          "title": "Brøndby vs Midtjylland: Danish Superligaen stats & head-to-head",
-          "url": "https://www.bbc.co.uk/sport/football/live/cmy0ep6z4pkdt",
-          "source": "BBC"
-        },
-        {
-          "title": "Midtjylland cruise past Brondby to extend Superliga lead",
-          "url": "https://www.tribalfootball.com/article/midtjylland-cruise-past-brondby-to-extend-superliga-lead-95729c97-c324-48e3-bf3c-cd2c0fc86d69",
-          "source": "TribalFootball"
-        }
-      ]
-    },
-    {
-      "keyword": "sk그룹",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-23T16:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlGG_ikaUAQMfX0U40Uu0U1_TWEykLXzGsOagq3g4Tr2ad97RdSc2gUxpxUjk",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "최태원 “재산분할금 9440억원 다 내겠다”…대법원에 ‘화해권고’ 신청",
-          "url": "https://www.chosun.com/national/court_law/2026/11/23/YBLJ2QLL6NFGTO63M5QNF2HWKU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "최태원 “노소영에 9440억 전액 지급” 화해권고 요청",
-          "url": "https://www.donga.com/news/Society/article/all/20261124/135077329/2",
+          "title": "소렌스탐 넘다… ‘상금 여왕’, 이젠 티띠꾼",
+          "url": "https://www.donga.com/news/Sports/article/all/20261124/135077431/2",
           "source": "동아일보"
         },
         {
-          "title": "최태원 \"9천440억 전액 지급\"‥'세기의 이혼' 마무리 요청",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867926_37004.html",
+          "title": "김아림, LPGA 시즌 최종전 공동 7위‥티띠꾼, 3년 연속 우승",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867689_36946.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "[오늘의 영상] 정교한 칩 샷…우승 청신호",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719459",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "u17 việt nam",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-23T16:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe1mdtqESlOLgptVM82mf0TWVWJUMhkKqIreaj4Un2G37IoihfMvwLqFQLXUk",
+      "keyword": "치매",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-23T20:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ-qm57gs2ApGg2POr4qeOSRbjadNmdzHbdF5n0g9h83xlQ7wkplBsOV-pdFY",
       "category": "기타",
       "news": [
         {
-          "title": "Báo New Zealand: 'Gặp Việt Nam là cơ hội tốt nhất để thắng ở U17 World Cup'",
-          "url": "https://vnexpress.net/bao-new-zealand-gap-viet-nam-la-co-hoi-tot-nhat-de-thang-o-u17-world-cup-5148090.html",
-          "source": "VnExpress"
+          "title": "아리바이오, ‘먹는 알츠하이머 신약’으로 초기 환자 겨냥…“내년 하반기 미 FDA 허가 신청할 것”",
+          "url": "https://www.khan.co.kr/article/202611231556001",
+          "source": "경향신문"
         },
         {
-          "title": "Siêu máy tính dự đoán tỷ số trận U17 Việt Nam gặp U17 New Zealand",
-          "url": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ty-so-tran-u17-viet-nam-gap-u17-new-zealand-20261123134223838.htm",
-          "source": "Báo Dân trí"
+          "title": "아리바이오, 치매약 18개월 데이터 첫 공개…“7.2개월 지연 추정”",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=02515766645648672",
+          "source": "팜이데일리"
         },
         {
-          "title": "Ao vivo: Vietnã Sub-17 x Nova Zelândia Sub-17 3-3 (Intervalo): Gol!!! O Vietnã Sub-17 empata.",
-          "url": "https://www.vietnam.vn/pt/truc-tiep-u17-viet-nam-vs-u17-new-zealand-3-3-h2-vao-u17-viet-nam-go-hoa",
-          "source": "Vietnam.vn"
+          "title": "아리바이오, '성공 논란' AD 3상 \"진짜 이슈 3가지는\"",
+          "url": "https://www.biospectator.com/news/view/30486",
+          "source": "바이오스펙테이터"
         }
       ]
     },
     {
-      "keyword": "테슬라 주가",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-23T15:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRS5XOjekKO1BcwKUU1y_0Hf2WDw9hveTbItXYmCmYJVtSbxAD1P3oX4WZ9wE",
+      "keyword": "에코프로",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-23T20:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXw61QJaOM-pNxOhWp7gVQo24Gxrsv7_Q2by003pu7x3Wyx63RmFSf7q2Rmvk",
       "category": "경제",
       "news": [
         {
-          "title": "\"GTA 같죠\" \"오마이갓!\" 리얼리티뷰 후기 속속‥한국 여전히 '그림의 떡'",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6867864_36925.html",
-          "source": "MBC 뉴스"
+          "title": "[IB토마토]에코프로, 투자에 마르는 현금…차환해도 이자 부담",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1321006",
+          "source": "뉴스토마토"
         },
         {
-          "title": "테슬라, FSD 소프트웨어 개선 발표에 주가 12%↑",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01275926645649000",
-          "source": "마켓인"
+          "title": "에코프로비엠, 4200억 CB 상환 후 재발행…풋옵션 압박에 이자율 상향 유력",
+          "url": "https://www.datatooza.com/article/2026112309403997185e62b76150_80",
+          "source": "데이터투자"
         },
         {
-          "title": "테슬라 '리얼리티 뷰'에 현대차·벤츠·BMW 맞불…자율주행 기술 경쟁 가속",
-          "url": "https://www.newsis.com/view/NISX20261123_0003879654",
-          "source": "뉴시스"
+          "title": "‘8861억 증자’ 보탰는데 주주 몫 또 깎이나...에코프로비엠 CB 재발행 추진",
+          "url": "https://www.insight.co.kr/news/583126",
+          "source": "인사이트"
         }
       ]
     },
     {
-      "keyword": "데블스 플랜 시즌 3",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T19:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpkhEnpGRxik9_v017qIdJ1bxAWph9ltMxWg7RiWrXU7RGojiHpWdYBPgDqs",
-      "category": "IT·과학",
+      "keyword": "박지윤",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T20:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLAgw2tpykZm2YGU9YRX0ay7C30PIq_se7312wqmOHgBHpRwJf-kbZKzbBSc",
+      "category": "기타",
       "news": [
         {
-          "title": "“성급하고 이기적”…존박, ‘데블스 플랜3’ 플레이 논란에 장문 해명",
-          "url": "https://www.mk.co.kr/news/hot-issues/12216031",
-          "source": "매일경제"
-        },
-        {
-          "title": "\"공황 하차 정현규 이어 또?\"..존박 사과에도 도 넘는 비난에 자성 목소리 [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/23/GIZWEYZRGVSTGZDFMQYTQNRXGA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "존박이 얼마나 잘못했길래…게임 선택마다 비난, 결국 장문 해명까지 쓴 ‘데블스 플랜’ 과몰입 [Oh!쎈 초점]",
-          "url": "https://www.koreadaily.com/article/20261123072438051",
-          "source": "미주중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "강성태",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T19:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxZgVu8Z9oCEWu2Uwmniq1AalUDejN--IWP6z7ylnNrQbXaB6V3VCYokfOSoM",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\"",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976210",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "탄력 붙는 AI커닝방지법, 시험지 고유표식 등 법정비 나선다 - 머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/11/24/2026112319482456414",
+          "title": "\"애미가 드럽게 키워\" 박지윤, '시모 비방' 카톡…이혼 불씨였나 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/22/2026112216160193284",
           "source": "머니투데이"
         },
         {
-          "title": "\"수능 핸드폰 재난문자 걸린 학생, 이미 연대 수시 논술 합격\"…교육부 \"사실관계 파악 중\"",
-          "url": "https://news.jtbc.co.kr/article/NB12329402",
-          "source": "JTBC"
+          "title": "박지윤 악플러, 잡고 보니 전남편 최동석…명예훼손 혐의 송치",
+          "url": "https://www.yna.co.kr/view/AKR20261120126400004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "“구질구질하게 어지르는 것도 지 엄마 닮아”…박지윤 카톡에 무슨 일이",
+          "url": "https://www.tsisalaw.com/news/article.html?no=31108",
+          "source": "더시사법률"
         }
       ]
     },
     {
-      "keyword": "북남고속철도",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T19:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgm6CBSIFAVtkOrHkijXeuVb6599hR-e2ycGRaygpp7LSsWAlJKJsXTudl52I",
-      "category": "정치·사회",
+      "keyword": "지스타",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T20:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRT8XqKVga3i8rL1dILMwZC45yUb9KPfCznBPCWnN2sEK8Xhd0RgfbajTyZVs",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "동울산종합시장, 호계공설시장 방문 - 포토 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74455&pageIndex=1",
+          "title": "[조현래의 콘텐츠 脈] 〈23〉지스타, 게임산업 비즈니스 플랫폼",
+          "url": "https://www.etnews.com/20261123000158",
+          "source": "전자신문"
+        },
+        {
+          "title": "국힘 정연욱 \"대형사 지스타 불참 아쉬워…부산 개최 지켜낼 것\"",
+          "url": "https://www.yna.co.kr/view/AKR20261123060500017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "동명대 게임학부, 지스타 2026서 학생 창작게임 24편 선보여",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261123.99099007171",
+          "source": "국제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "이민진",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T20:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYDQzuUjhXEop1Z0bmZW7D16q_Nqgn8D1F1UoWQ1E51XSOJ-xgE_2oEnUPDuw",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "\"부정행위 막으려 재난문자\"…'파친코' 이민진이 본 韓수능",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01915526645648344&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "한국 수능 재난문자에 놀란 '파친코' 작가…\"AI 발전하는데 학생은 퇴화\"",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=57367",
+          "source": "주간조선"
+        },
+        {
+          "title": "이민진 작가, '아메리칸 학원' 출간 기념 뉴욕서 북토크 개최",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445959",
+          "source": "연합인포맥스"
+        }
+      ]
+    },
+    {
+      "keyword": "엘니뇨",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDzpX9_j_Z1VDKqeU4JJWkUb_Wvqk12FBaRk9QqJdY6krhsnxLPSZgMTCgKBs",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "이번 겨울 “슈퍼 엘니뇨에 북극 영향까지”…변동폭 큰 날씨",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720251",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "올겨울 강한 엘니뇨 영향… 따뜻하고 강수량 많을 듯",
+          "url": "https://www.donga.com/news/Society/article/all/20261124/135077392/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "올겨울 대체로 따뜻하지만 기습 한파 가능성…12월·2월 눈·비 많을 듯",
+          "url": "https://edata.ekn.kr/article/view/ekn202611230004",
+          "source": "기후에너지데이터뱅크"
+        }
+      ]
+    },
+    {
+      "keyword": "춘천시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T20:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "한국항공우주산업",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T20:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5DKJnWs6lX_CTgaT8LNCf0Nm75lk8lhyxsiTcxXRBJZdXA-beZsKyBr9CTU",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "경남 우주항공·방산에 1조 5000억 원 투자…산업거점 육성",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976313",
           "source": "대한민국 정책브리핑"
         },
         {
-          "title": "38시간→5시간 반… ‘95조’ 베트남 고속철, 韓이 설계",
-          "url": "https://www.chosun.com/international/international_general/2026/11/23/T7UUKXT6RZCUVF7LJ2KLR4AWBY/",
-          "source": "조선일보"
+          "title": "경남도-KAI 투자협약…우주항공·방산 생태계 확대",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124051906RVK",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "이 대통령, 김윤덕 의원에 공개 칭찬…이례적 SNS 격려에 정치권 주목",
-          "url": "https://www.jjan.kr/article/20261123500404",
-          "source": "전북일보 인터넷신문"
-        }
-      ]
-    },
-    {
-      "keyword": "샌디스크 주가",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T15:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrg7SXrUWjy8XvIQDLcpWg9-l0j1TymhhouFsjdAhbvVZ6BlcP_v3eW9WDDCs",
-      "category": "경제",
-      "news": [
-        {
-          "title": "샌디스크 주가, 오늘 왜 급등하나?",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187519",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "SanDisk Corporation (SNDK) 주식 움직였습니다 하락 3.30%에 11월18일: 변동을 뒷받침하는 사실",
-          "url": "https://www.tradingkey.com/kr/news/market-movers/262311708-market-movers-sndk-20261118",
-          "source": "TradingKey"
-        },
-        {
-          "title": "샌디스크 분할 첫날 16% 털렸다…94달러가 79달러로",
-          "url": "https://www.coinreaders.com/272529",
-          "source": "코인리더스"
+          "title": "우리은행, K-방산 협력기업에 3020억 상생금융 대출 지원",
+          "url": "https://www.newsis.com/view/NISX20261123_0003879908",
+          "source": "뉴시스"
         }
       ]
     }
