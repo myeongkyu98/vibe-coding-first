@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-23T11:51:09.879Z",
+  "updatedAt": "2026-11-23T13:06:45.325Z",
   "summary": [
     {
       "category": "정치·사회",
       "count": 4
     },
     {
-      "category": "연예",
+      "category": "기타",
       "count": 2
     },
     {
@@ -14,7 +14,7 @@
       "count": 2
     },
     {
-      "category": "생활·날씨",
+      "category": "경제",
       "count": 1
     },
     {
@@ -24,91 +24,41 @@
   ],
   "items": [
     {
-      "keyword": "설악산",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-23T08:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFtOBv8xp3MEzyyn90lqY5GXPYq9JpV7r46FkmeE4kBugw_zUUGo7j-60aGWU",
-      "category": "생활·날씨",
+      "keyword": "상장",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-23T11:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKcS_n0Rpo6kVziwKurd7QettVXlSAdiWneUFlsbhSx76VlHCgR0jqdBGBchE",
+      "category": "경제",
       "news": [
         {
-          "title": "전남광주 아침 영하권 추위…24일까지 비 예보",
-          "url": "https://www.yna.co.kr/view/AKR20261122005700054",
+          "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
+          "url": "https://www.yna.co.kr/view/AKR20261123100000017",
           "source": "연합뉴스"
         },
         {
-          "title": "[날씨] 호남권, 5~10mm비 /1~5cm 눈· · · 차량 안전거리 확보",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759687",
-          "source": "국제뉴스"
+          "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
+          "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+          "source": "동아일보"
         },
         {
-          "title": "전남광주 첫눈 관측…내일 최고 7cm 눈",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718655",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "티켓링크",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-23T10:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwHwWWL4BtdTq0PhTg0zb55cWYOxTG6d7w85Y2_52KucQ32wNJbzSoNMGJzqc",
-      "category": "연예",
-      "news": [
-        {
-          "title": "최대 15만원 주는 ‘청년문화예술패스’, 예산 22배 늘리는데···정작 쓸 시간도, 쓸 곳도 없다",
-          "url": "https://www.khan.co.kr/article/202611221536001",
-          "source": "경향신문"
-        },
-        {
-          "title": "영화 세 번, 공연은 내년 2월까지…달라진 청년문화예술패스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760729",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "청년문화예술패스 23일부터 추가 발급…최대 20만원 지원",
-          "url": "https://www.sedaily.com/article/20117593",
-          "source": "서울경제"
-        }
-      ]
-    },
-    {
-      "keyword": "중위소득",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-23T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAICswbBFFPb3nKtN9-gGebSavF6dFxh9bmKlyMq5gV86hcZq3mtForYZT4iQ",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
-          "url": "https://www.newsis.com/view/NISI20261123_0021542967",
-          "source": "뉴시스"
-        },
-        {
-          "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "[개장 전 주요 공시] 카카오·SK하이닉스·HD한국조선해양·삼성바이오에피스·한화솔루션 등",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/202611230817306586923c501012_1",
+          "source": "글로벌이코노믹"
         }
       ]
     },
     {
       "keyword": "브레인악셀",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-23T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9LeFsS7ybSQOncPMMxkAlCgo35ovjwSla2At1_OJED9s2SLlnUMZq8nQ1HM",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-jpbBBLivnaQMPrXOnvojXFdUORsqB3YSQr_W-_WP65h-leJ3NC7Stei2H18",
       "category": "정치·사회",
       "news": [
         {
-          "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
+          "title": "[단독] 교육청, 이진우 '수능 시험지' 반출 법리검토 경찰에 요청",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231120309984_005.html",
           "source": "YTN"
         },
         {
@@ -124,9 +74,34 @@
       ]
     },
     {
+      "keyword": "중위소득",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-23T10:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAICswbBFFPb3nKtN9-gGebSavF6dFxh9bmKlyMq5gV86hcZq3mtForYZT4iQ",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&pWise=sub&pWiseSub=R1",
+          "source": "대한민국 정책브리핑"
+        },
+        {
+          "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
+          "url": "https://www.newsis.com/view/NISI20261123_0021542967",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
       "keyword": "이진관 판사",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "1000+",
+      "trafficValue": 1000,
       "startedAt": "2026-11-23T09:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhVBUf0yV1qJaQfb_RJ4x-H6HrDv_bjNdTM_hLGxAxajYZ-TJ7r3rRW4Qims",
       "category": "정치·사회",
@@ -137,14 +112,39 @@
           "source": "JTBC"
         },
         {
-          "title": "국힘, 이진관 법왜곡죄 고발 추진‥\"정의의 사도처럼 행동\"",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867919_37004.html",
-          "source": "MBC 뉴스"
-        },
-        {
           "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
           "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
           "source": "한겨레"
+        },
+        {
+          "title": "‘한덕수 파기’에 소환된 이진관…국민의힘 “법 왜곡죄 고발” [지금뉴스]",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719954",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "혼다",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T11:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgido-l33Jk2lDPhzyVUQ4f9HhQRfZx0eZJjkENuPKp-7ggjpeAkCTObHtaJQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+          "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
+          "source": "NBC News"
+        },
+        {
+          "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+          "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+          "source": "Fox Business"
+        },
+        {
+          "title": "More than 300,000 Toyota, Lexus vehicles recalled over faulty Takata airbags",
+          "url": "https://www.wdbj7.com/2026/11/21/more-than-300000-toyota-lexus-vehicles-recalled-over-faulty-takata-airbags/",
+          "source": "WDBJ7"
         }
       ]
     },
@@ -174,59 +174,9 @@
       ]
     },
     {
-      "keyword": "딜라이트",
+      "keyword": "가석방",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-23T09:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxsy510eWUBgPseIq9iCTnpEU3XgwJGiiEA0cpd7JONQG3T3VEyIOkJjkmSk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[단독] '제우스' 최우제, T1 리턴 유력",
-          "url": "https://www.xportsnews.com/article/2220591",
-          "source": "엑스포츠뉴스"
-        },
-        {
-          "title": "‘제우스’ T1 복귀 유력…로치 감독·엄티 코치까지 재편 본격화",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083953",
-          "source": "진일보 | 전남일보"
-        },
-        {
-          "title": "[소식통] '제우스' 최우제, T1과 3년 계약 합의",
-          "url": "https://www.sheepesports.com/kr/articles/sources-zeus-set-to-return-to-t1-ahead-of-lck-2027/kr",
-          "source": "Sheep Esports"
-        }
-      ]
-    },
-    {
-      "keyword": "일론 머스크",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T10:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAf_h3sDoVGKyvy62KXqXSCUHV6ViGuZZ6UUSvL--18deisu2o-0W165hiTqo",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
-          "url": "https://www.hankyung.com/article/2026112340657",
-          "source": "한국경제"
-        },
-        {
-          "title": "일론 머스크 \"AI업계 내년 자금난 심각\"…데이터센터 지연 경고 By EBN",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2186617",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "AI 데이터센터 가동 지연이 재무 리스크 더 키운다, 후속 투자 위축되면 반도체 수요에 타격",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452662",
-          "source": "비즈니스포스트"
-        }
-      ]
-    },
-    {
-      "keyword": "가석방",
-      "traffic": "100+",
-      "trafficValue": 100,
       "startedAt": "2026-11-23T09:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtXOsppkd_hJKo-pxYe8SC4qh0dDcKc9Z5E-Wj1Ht7Faclj9k7a7cWfGRV7k",
       "category": "정치·사회",
@@ -249,27 +199,77 @@
       ]
     },
     {
-      "keyword": "이세창",
+      "keyword": "m",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-23T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbFg88UqWk2Fc5bpv_mfJ6IHtNL99hrh4mqlJ-wI1sZrlheXUrOWAxaqQeo70",
-      "category": "연예",
+      "startedAt": "2026-11-23T11:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEplL9MYu7JGwq6iRCvxHyiPNJZohgtL0Z4IxeLNkXS3fDEQF9T4SU0x9_gZM",
+      "category": "스포츠",
       "news": [
         {
-          "title": "이세창·김지연, 이혼 후 13년만 공개한 딸..김연아·이민정 닮은 외모 대박 \"한예종 입학\" [Oh!쎈 이슈]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MQ3DEMJTMUYDIMJSG42DKNJQGA/",
+          "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
+          "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
+          "source": "ESPN"
+        },
+        {
+          "title": "Tarik Skubal's $450 Million Mets Deal Puts MLB Salary Cap Fight in Focus",
+          "url": "https://sports.yahoo.com/videos/tarik-skubals-450-million-mets-123035955.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Inside Tarik Skubal’s Mets meeting that launched a record price: ‘Tarik is the guy you bet on’ - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7804537/2026/11/22/tarik-skubal-mets-meeting-negotiation-record-contract/",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "keyword": "공항",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T10:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFF0MWyxPZKxzp2JYhSz8TrpZ1PeAc5tk9wX7_vg5qexw1B0z2iuovL1tuf5Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
+          "source": "전기신문"
+        },
+        {
+          "title": "박남춘 인천공항공사 사장 \"인천공항 이용료 현실화할 것\"(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261123063051065",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "박남춘 인천국제공항공사 사장 취임···“글로벌 최고 수준 항공 네트워크 구축”",
+          "url": "https://www.khan.co.kr/article/202611231507001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "일론 머스크",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T10:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAf_h3sDoVGKyvy62KXqXSCUHV6ViGuZZ6UUSvL--18deisu2o-0W165hiTqo",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
+          "url": "https://www.hankyung.com/article/2026112340657",
+          "source": "한국경제"
+        },
+        {
+          "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611231601194035",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/23/OLOIZESXRREYXGQHDWFYHG5UOE/",
           "source": "조선일보"
-        },
-        {
-          "title": "이세창, 한예종 출신 배우 딸과 쇼핑…엄마·아빠 장점만 빼닮은 미모",
-          "url": "https://www.news1.kr/entertain/movie/6361517",
-          "source": "뉴스1"
-        },
-        {
-          "title": "김연아 닮았다는 이세창 딸…미스코리아 엄마 김지연은 “아빠 닮았죠?”",
-          "url": "https://www.mk.co.kr/news/entertain/12215313",
-          "source": "매일경제"
         }
       ]
     }
