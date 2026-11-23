@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-23T18:54:05.127Z",
+  "updatedAt": "2026-11-23T19:58:12.783Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 6
     },
     {
       "category": "경제",
-      "count": 3
+      "count": 2
     },
     {
       "category": "IT·과학",
-      "count": 2
+      "count": 1
     },
     {
       "category": "정치·사회",
@@ -20,34 +20,9 @@
   ],
   "items": [
     {
-      "keyword": "to me my x men",
+      "keyword": "탁구",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-23T14:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQFMC0snpv3iTtoaFdHVPI93h2gWIgQzj4_BOGH66-J2nFAy_ZRhFFJlrVuBw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Watch the Final ‘Avengers: Doomsday’ Trailer",
-          "url": "https://www.marvel.com/articles/movies/avengers-doomsday-final-trailer",
-          "source": "Marvel.com"
-        },
-        {
-          "title": "'Avengers: Doomsday' final trailer reveals Steve Rogers' son, Cyclops' iconic 'X-Men' line and epic Marvel team-up",
-          "url": "https://abc7ny.com/post/avengers-doomsday-final-trailer-reveals-steve-rogers-son-cyclops-iconic-men-line-epic-marvel-team/20070629/",
-          "source": "ABC7 New York"
-        },
-        {
-          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-          "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-          "source": "Ars Technica"
-        }
-      ]
-    },
-    {
-      "keyword": "탁구",
-      "traffic": "200+",
-      "trafficValue": 200,
       "startedAt": "2026-11-23T17:40:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQqpbpPwTFWY4sraOArxIWD1DlISa6DI_KEzNeojvS2RJ89TpMRUS8NmhyOo",
       "category": "기타",
@@ -70,6 +45,31 @@
       ]
     },
     {
+      "keyword": "to me my x men",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T14:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQFMC0snpv3iTtoaFdHVPI93h2gWIgQzj4_BOGH66-J2nFAy_ZRhFFJlrVuBw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Watch the Final ‘Avengers: Doomsday’ Trailer",
+          "url": "https://www.marvel.com/articles/movies/avengers-doomsday-final-trailer",
+          "source": "Marvel.com"
+        },
+        {
+          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+          "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Movie Ticketing Feature Comes to Disney+ for ‘Avengers: Doomsday’",
+          "url": "https://thewaltdisneycompany.com/news/movie-ticketing-disney-plus-avengers-doomsday/",
+          "source": "The Walt Disney Company"
+        }
+      ]
+    },
+    {
       "keyword": "노태문",
       "traffic": "200+",
       "trafficValue": 200,
@@ -88,9 +88,9 @@
           "source": "동아일보"
         },
         {
-          "title": "노태문 \"인공지능 휴대전화 시대, 여러분이…MX 미래 기대\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123163632vUj",
-          "source": "연합뉴스TV"
+          "title": "MX 떠나는 노태문 “올해 부품값 급등에 어려움…도전 계속 지원”",
+          "url": "https://www.etnews.com/20261123000501",
+          "source": "전자신문"
         }
       ]
     },
@@ -108,14 +108,14 @@
           "source": "조선일보"
         },
         {
+          "title": "최태원 “노소영에 9440억 전액 지급” 화해권고 요청",
+          "url": "https://www.donga.com/news/Society/article/all/20261124/135077329/2",
+          "source": "동아일보"
+        },
+        {
           "title": "최태원 \"9천440억 전액 지급\"‥'세기의 이혼' 마무리 요청",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867926_37004.html",
           "source": "MBC 뉴스"
-        },
-        {
-          "title": "입장 바꾼 최태원 “노소영에 9440억 현금 지급”…화해권고 요청",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1288668.html",
-          "source": "한겨레"
         }
       ]
     },
@@ -138,9 +138,9 @@
           "source": "Báo Dân trí"
         },
         {
-          "title": "Bảng xếp hạng mới nhất U.17 Việt Nam tại World Cup: Tốp 3, ngay sau á quân châu Âu U.17 Bỉ",
-          "url": "https://thanhnien.vn/bang-xep-hang-moi-nhat-u17-viet-nam-tam-dung-top-3-ngay-sau-a-quan-chau-au-u17-bi-185261124003529609.htm",
-          "source": "Thanh Niên"
+          "title": "Người hùng Duy Khang xúc động: ‘U.17 Việt Nam đã làm tất cả vì lá cờ Tổ quốc’",
+          "url": "https://thanhnien.vn/nguoi-hung-duy-khang-xuc-dong-u17-viet-nam-da-lam-tat-ca-vi-la-co-to-quoc-185261124021316215.htm",
+          "source": "Báo Thanh Niên"
         }
       ]
     },
@@ -164,33 +164,33 @@
         },
         {
           "title": "Tesla Bulls Banking on SpaceX “Don’t Get the Dilution Math,” Says Gary Black. Tesla Trades at 3.4x SpaceX’s 2027 Multiple",
-          "url": "https://www.tikr.com/ko/blog/tesla-bulls-banking-on-spacex-dont-get-the-dilution-math-says-gary-black-tesla-trades-at-3-4x-spacexs-2027-multiple?",
+          "url": "https://www.tikr.com/ko/blog/tesla-bulls-banking-on-spacex-dont-get-the-dilution-math-says-gary-black-tesla-trades-at-3-4x-spacexs-2027-multiple",
           "source": "TIKR.com"
         }
       ]
     },
     {
-      "keyword": "qqq",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-23T14:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrRzNHAYBgJ9gcWDErHkvz4Oyu9gkA2M4JcmLnRYS7jEPJffpvf9vamqGUngc",
-      "category": "IT·과학",
+      "keyword": "브뢴뷔 대 미트윌란",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T18:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDCLwnqjC54aw2dfQeWosbf5C-irDwERddTHljKOYZ44veSTOzbTKGkNBcklY",
+      "category": "기타",
       "news": [
         {
-          "title": "NVIDIA's Market Cap Evaporates, Equaling Amazon's, Amid Tech Selloff",
-          "url": "https://www.chosun.com/english/market-money-en/2026/11/21/RVARKYWOLNHMRJFTVV4XQERNBE/",
-          "source": "조선일보"
+          "title": "Overreaction Monday - NFL Week 11: Niners, Lions, Jags, Chiefs & More",
+          "url": "https://www.espn.com/radio/play/_/id/50574502",
+          "source": "ESPN"
         },
         {
-          "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
-          "url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/",
-          "source": "The Motley Fool"
+          "title": "Utah Valley 78-76 UT Martin (Nov 22, 2026) Final Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921206/ut-martin-utah-valley",
+          "source": "ESPN"
         },
         {
-          "title": "Nvidia: The Trade Of A Lifetime (NASDAQ:NVDA)",
-          "url": "https://seekingalpha.com/article/4971134-nvidia-the-trade-of-a-lifetime",
-          "source": "Seeking Alpha"
+          "title": "Stephen F. Austin 72-70 Temple (Nov 22, 2026) Final Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921205/temple-sf-austin",
+          "source": "ESPN"
         }
       ]
     },
@@ -220,6 +220,31 @@
       ]
     },
     {
+      "keyword": "nasdaq",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T14:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXCRkyl8gNcIbBxBc6nI1zBmrtvo3fCQf30F6rAkCk_BWdicbDr4PdLUpaoNg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "US Stocks, Gold and Bitcoin Rebound Together: Why Is Fear Still Stuck at 11?",
+          "url": "https://beincrypto.com/stocks-gold-bitcoin-rebound-fear-gauges/",
+          "source": "BeInCrypto"
+        },
+        {
+          "title": "The Crypto Fear & Greed Index Is in \"Extreme Fear\" Territory. History Says This Happens Next.",
+          "url": "https://www.fool.com/investing/2026/11/17/the-crypto-fear-greed-index-is-in-extreme-fear-territory-history-says-this-happens-next/",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Gold Prices Rebound. What the Charts Say About a Nasdaq Bottom.",
+          "url": "https://www.barrons.com/articles/gold-price-nasdaq-bottom-technical-analysis-379007b6",
+          "source": "Barron's"
+        }
+      ]
+    },
+    {
       "keyword": "tradingview",
       "traffic": "100+",
       "trafficValue": 100,
@@ -241,31 +266,6 @@
           "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
           "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
           "source": "Traders Union"
-        }
-      ]
-    },
-    {
-      "keyword": "스페이스x 주가",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T14:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q",
-      "category": "경제",
-      "news": [
-        {
-          "title": "제프리스도 추가 상승 전망…10%대 급등",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04018006645648672",
-          "source": "마켓인"
-        },
-        {
-          "title": "스페이스X 주가, 급등한 이유는?",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187638",
-          "source": "Investing.com 한국어"
-        },
-        {
-          "title": "스페이스X가 AI 기술주 투자자에 '피난처' 부상, \"우주 기술 역량이 AI 사업 확장 뒷받침\"",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452637",
-          "source": "비즈니스포스트"
         }
       ]
     }
