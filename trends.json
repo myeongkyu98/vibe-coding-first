@@ -1,182 +1,211 @@
 {
-  "updatedAt": "2026-11-23T21:46:52.765Z",
+  "updatedAt": "2026-11-23T22:48:00.537Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "IT·과학",
+      "category": "스포츠",
       "count": 3
     },
     {
-      "category": "스포츠",
+      "category": "기타",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     },
     {
       "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "연금",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-23T20:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt_XKVrp1CXRz08PmX_Dcr4AnNeX5ywfzXdPv1ymhRQxTdainsoL3H76Q9mEY",
+      "keyword": "김혜수",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-23T21:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHe2yTQpNDG10sXcF2ObzNMqogqO3t2e3FKaE4ECQQKKkLpxu_iL5g3HEzVWU",
+      "category": "연예",
+      "news": [
+        {
+          "title": "송혜교도 반한 김혜수 미모…“너무 아름다우시다”",
+          "url": "https://www.mk.co.kr/news/hot-issues/12215811",
+          "source": "매일경제"
+        },
+        {
+          "title": "MAMA 김혜수, 56세에 또 리즈 경신…인어공주 스타일링 통했다",
+          "url": "https://sports.khan.co.kr/article/202611221425003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "김혜수, 28살 어린 아이돌과 같은 드레스…자기관리 '감탄' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112019293288010",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "전원주",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-23T20:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBb0w130xtaBDSRYmaqCEb43i1liU0O3lh-aQyeFbgZwSvHqTU_j6eCMG1oI4",
       "category": "기타",
       "news": [
         {
-          "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
-          "url": "https://www.yna.co.kr/view/AKR20261122031500530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "부부 모두 내도 배우자 사망하면 깎이는 국민연금...‘중복급여 조정’ 논란",
-          "url": "https://www.kyeonggi.com/article/20261123580009",
-          "source": "경기일보"
-        },
-        {
-          "title": "국민연금 꼬박꼬박 냈는데 '0원'…맞벌이 부부 '부글부글' [머니팁]",
-          "url": "https://www.hankyung.com/article/202611234317v",
-          "source": "한국경제"
-        }
-      ]
-    },
-    {
-      "keyword": "골프",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-23T20:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPXvJrNscdBVuOv0rOd_XxlOJ6UFTxZiQAS0WuQqGc6M3xJiibHXDoTp4J8H8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "소렌스탐 넘다… ‘상금 여왕’, 이젠 티띠꾼",
-          "url": "https://www.donga.com/news/Sports/article/all/20261124/135077431/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "김아림, LPGA 시즌 최종전 공동 7위‥티띠꾼, 3년 연속 우승",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867689_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[오늘의 영상] 정교한 칩 샷…우승 청신호",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719459",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "치매",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-23T20:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ-qm57gs2ApGg2POr4qeOSRbjadNmdzHbdF5n0g9h83xlQ7wkplBsOV-pdFY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "아리바이오, ‘먹는 알츠하이머 신약’으로 초기 환자 겨냥…“내년 하반기 미 FDA 허가 신청할 것”",
-          "url": "https://www.khan.co.kr/article/202611231556001",
-          "source": "경향신문"
-        },
-        {
-          "title": "아리바이오, 치매약 18개월 데이터 첫 공개…“7.2개월 지연 추정”",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=02515766645648672",
-          "source": "팜이데일리"
-        },
-        {
-          "title": "아리바이오, '성공 논란' AD 3상 \"진짜 이슈 3가지는\"",
-          "url": "https://www.biospectator.com/news/view/30486",
-          "source": "바이오스펙테이터"
-        }
-      ]
-    },
-    {
-      "keyword": "에코프로",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-23T20:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXw61QJaOM-pNxOhWp7gVQo24Gxrsv7_Q2by003pu7x3Wyx63RmFSf7q2Rmvk",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[IB토마토]에코프로, 투자에 마르는 현금…차환해도 이자 부담",
-          "url": "https://www.newstomato.com/readnews.aspx?no=1321006",
-          "source": "뉴스토마토"
-        },
-        {
-          "title": "에코프로비엠, 4200억 CB 상환 후 재발행…풋옵션 압박에 이자율 상향 유력",
-          "url": "https://www.datatooza.com/article/2026112309403997185e62b76150_80",
-          "source": "데이터투자"
-        },
-        {
-          "title": "‘8861억 증자’ 보탰는데 주주 몫 또 깎이나...에코프로비엠 CB 재발행 추진",
-          "url": "https://www.insight.co.kr/news/583126",
-          "source": "인사이트"
-        }
-      ]
-    },
-    {
-      "keyword": "박지윤",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-23T20:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLAgw2tpykZm2YGU9YRX0ay7C30PIq_se7312wqmOHgBHpRwJf-kbZKzbBSc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"애미가 드럽게 키워\" 박지윤, '시모 비방' 카톡…이혼 불씨였나 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/22/2026112216160193284",
+          "title": "\"괜찮으신 거 맞나\"…핼쑥한 전원주, 레드카펫서 휘청 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112219483031404",
           "source": "머니투데이"
         },
         {
-          "title": "박지윤 악플러, 잡고 보니 전남편 최동석…명예훼손 혐의 송치",
-          "url": "https://www.yna.co.kr/view/AKR20261120126400004",
-          "source": "연합뉴스"
+          "title": "[잇슈 컬처] 전원주 공식 석상 참석에 누리꾼 “건강 응원”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719550",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "“구질구질하게 어지르는 것도 지 엄마 닮아”…박지윤 카톡에 무슨 일이",
-          "url": "https://www.tsisalaw.com/news/article.html?no=31108",
-          "source": "더시사법률"
+          "title": "“포토월서 휘청” 전원주, 쇠약해진 근황에…팬들 응원 ‘봇물’",
+          "url": "https://sports.khan.co.kr/article/202611221838003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "지스타",
+      "keyword": "투수",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-23T21:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4VK_yGWGqphHYwt5TgR8Y6Q1IfMQbd08cCZtHP3NsbwmAGgBSf8TioWsYPnE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "605억 '일시불' 지급 초파격! 다저스 제안조차 못하고 빼앗길 줄이야…실망한 LA 언론 \"오타니가 해줘야 한다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/202611231016775710O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "9년 총액 4억5000만달러… 투수 최고 몸값, 스쿠벌",
+          "url": "https://www.donga.com/news/Sports/article/all/20261124/135077429/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "'2연속 사이영상' 스쿠벌, 뉴욕 메츠와 9년 6천50억 원 초대형 계약",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6867820_36946.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "로스앤젤레스 fc",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T21:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4fLh1Tp0rN_lre3_K5ErBcHcBn82KloJuRbdg7-u650h_tEo-IRp7Gkp5ve8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "손흥민 \"우승이 목표‥미국 무대 압박감 덜해\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867724_37012.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "‘코리안 더비’ 손흥민, 24일 세인트루이스와 MLS컵 16강 1차전 출격",
+          "url": "https://sports.donga.com/sports/article/all/20261123/135075871/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "\"손흥민 있어도 탈락\" vs \"결국 손흥민이 뒤집는다\"… 美 언론 정면충돌, 운명의 PO 개막",
+          "url": "https://www.fnnews.com/news/202611230238089643",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "노시환",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOBgF-vHvAh_b_tk3ivL9by_fzVO2ZZCTv81Y6FVNS7qBz9zmiGWT1yOiiU-I",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'이제부터 진짜다!' 노시환 포스팅 분수령 진입 \"깜짝 발표는 잘 없어→현지 링크 떠야 청신호\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/2026112314432578677",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"4년간 116홈런에 강한 어깨까지\" 양키스 3루수 후보 노시환, 美 현지 매체가 짚은 약점은?",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZQTGODGGQZDIZDDMEZGMYJZMI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'영입설만 무성' 한화 노시환, MLB 포스팅 마감 열흘도 안 남아…12월 2일 최종 시한",
+          "url": "https://www.newspim.com/news/view/20261123001178",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "대한민국 축구 국가대표팀",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T20:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9Aq_ihTS0ouLmzRURUaIc3KsgAOFsSJje2WFj16oC79CqgKJdgM85r6nsvs",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "나란히 K리그 1부 복귀하는 ‘수원 형제’…큰물에서 다시 생존경쟁",
+          "url": "https://www.khan.co.kr/article/202611232009015",
+          "source": "경향신문"
+        },
+        {
+          "title": "‘승격 청부사’ 증명, 1년이면 충분했다",
+          "url": "https://www.chosun.com/national/people/2026/11/23/27M7J7W5ZRCYZKWGGPNXVAMMDI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[지지대] 끝이 아닌 도전",
+          "url": "https://www.kyeonggi.com/article/20261122580324",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "ai 에이전트",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-23T20:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRT8XqKVga3i8rL1dILMwZC45yUb9KPfCznBPCWnN2sEK8Xhd0RgfbajTyZVs",
+      "startedAt": "2026-11-23T21:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYRhG5tQVG_04hVYlulyvX_Q5C8vNbnUIeD2I-TLD0LXvO3FpwZpYsxYPq1sI",
       "category": "IT·과학",
       "news": [
         {
-          "title": "[조현래의 콘텐츠 脈] 〈23〉지스타, 게임산업 비즈니스 플랫폼",
-          "url": "https://www.etnews.com/20261123000158",
+          "title": "[단독] 통신3사·네이버, AI 에이전트 전화 응대 거부키로",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/23/56I3GEDHFVA5FACSFRL62BZIUQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"남친 갈 병원 찾아줘\" 했더니…허락도 없이 황당한 일",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859612",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보",
+          "url": "https://www.etnews.com/20261123000327",
           "source": "전자신문"
-        },
-        {
-          "title": "국힘 정연욱 \"대형사 지스타 불참 아쉬워…부산 개최 지켜낼 것\"",
-          "url": "https://www.yna.co.kr/view/AKR20261123060500017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "동명대 게임학부, 지스타 2026서 학생 창작게임 24편 선보여",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261123.99099007171",
-          "source": "국제신문"
         }
       ]
     },
     {
       "keyword": "이민진",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-23T20:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYDQzuUjhXEop1Z0bmZW7D16q_Nqgn8D1F1UoWQ1E51XSOJ-xgE_2oEnUPDuw",
       "category": "IT·과학",
@@ -199,61 +228,52 @@
       ]
     },
     {
-      "keyword": "엘니뇨",
+      "keyword": "국방백서",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-23T20:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDzpX9_j_Z1VDKqeU4JJWkUb_Wvqk12FBaRk9QqJdY6krhsnxLPSZgMTCgKBs",
-      "category": "생활·날씨",
+      "startedAt": "2026-11-23T21:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAx4yDfJWOmS0EuQY5Zu6K-Y7nXXhF-7njjcvJqg7BC8Odt2-4C4UJ4p1QSfk",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "이번 겨울 “슈퍼 엘니뇨에 북극 영향까지”…변동폭 큰 날씨",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720251",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "올겨울 강한 엘니뇨 영향… 따뜻하고 강수량 많을 듯",
-          "url": "https://www.donga.com/news/Society/article/all/20261124/135077392/2",
+          "title": "‘북한군은 적’ 李정부 첫 국방백서에도 유지될 듯",
+          "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
           "source": "동아일보"
         },
         {
-          "title": "올겨울 대체로 따뜻하지만 기습 한파 가능성…12월·2월 눈·비 많을 듯",
-          "url": "https://edata.ekn.kr/article/view/ekn202611230004",
-          "source": "기후에너지데이터뱅크"
+          "title": "[단독] 李 정부도 ‘북한은 적’… 北 적대적 두 국가론, DMZ 지뢰 폭발 영향",
+          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/24/20261124003004",
+          "source": "서울신문"
+        },
+        {
+          "title": "李정부 첫 국방백서에 “北정권·북한군은 적” 표현 유지된다",
+          "url": "https://www.donga.com/news/Politics/article/all/20261123/135077153/1",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "춘천시",
+      "keyword": "비트코인 시세",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-23T20:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "한국항공우주산업",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T20:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr5DKJnWs6lX_CTgaT8LNCf0Nm75lk8lhyxsiTcxXRBJZdXA-beZsKyBr9CTU",
-      "category": "IT·과학",
+      "startedAt": "2026-11-23T21:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2wwqskI-b2CKgQMoxSAROKpMmsZAsAS-hIZ_jSHThOKvkXNTfRFBDo_omB5s",
+      "category": "경제",
       "news": [
         {
-          "title": "경남 우주항공·방산에 1조 5000억 원 투자…산업거점 육성",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976313",
-          "source": "대한민국 정책브리핑"
+          "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "경남도-KAI 투자협약…우주항공·방산 생태계 확대",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124051906RVK",
-          "source": "연합뉴스TV"
+          "title": "‘에브리씽 랠리’→‘에브리씽 크래시’, 주식·비트코인·금·구리도 떨어져",
+          "url": "https://www.khan.co.kr/article/202611240600081",
+          "source": "경향신문"
         },
         {
-          "title": "우리은행, K-방산 협력기업에 3020억 상생금융 대출 지원",
-          "url": "https://www.newsis.com/view/NISX20261123_0003879908",
-          "source": "뉴시스"
+          "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
+          "url": "https://www.hankyung.com/article/202611233526i",
+          "source": "한국경제"
         }
       ]
     }
