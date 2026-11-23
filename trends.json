@@ -1,132 +1,186 @@
 {
-  "updatedAt": "2026-11-23T07:23:27.059Z",
+  "updatedAt": "2026-11-23T09:16:52.016Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 2
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 1
     },
     {
-      "category": "생활·날씨",
+      "category": "IT·과학",
       "count": 1
     },
     {
       "category": "스포츠",
       "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "한덕수",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-23T05:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRj6A6_mWieZXB9xdpb3dY90IlUUr0dPtcKryCPhjgkVB3so5-b8K6k66tCIs",
-      "category": "정치·사회",
+      "keyword": "심진화",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-23T07:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnCL9gmnjp_o99xT9e-ru_3zNhTwxbYLyITlp5I9szlf10XOoDW_bgOMI4Kkc",
+      "category": "연예",
       "news": [
         {
-          "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-          "url": "https://news.jtbc.co.kr/article/NB12329370",
-          "source": "JTBC"
+          "title": "심진화, 김원효 ‘트랜스젠더 바’ 논란에 \"후배 만나러 갔다\"",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611231012432150",
+          "source": "YTN"
         },
         {
-          "title": "국힘 \"'한덕수 1심' 이진관 판사, 법왜곡죄로 고발할 계획\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867816_36911.html",
+          "title": "‘심진화♥’ 김원효, 1억 재산 오해…영화관 결혼식 비하인드 (개세모2)",
+          "url": "https://sports.donga.com/ent/article/all/20261123/135071040/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "대표적 잉꼬부부인데…김원효 트렌스젠더바 방문 논란 해프닝",
+          "url": "https://www.hankyung.com/article/2026112223507",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "원자력",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-23T07:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYBuYvD68skxhlix3z2lGm7bQaEcdwhvCZoW0F9m75OH9dhjXPCJnqjFL0Mds",
+      "category": "기타",
+      "news": [
+        {
+          "title": "한전원자력연료, 기술본부장 이재일 등 15명 보직이동",
+          "url": "https://www.esnews.kr/news/articleView.html?idxno=7518",
+          "source": "에너지안전신문"
+        },
+        {
+          "title": "[인사] 한전원자력연료",
+          "url": "http://www.ksw-news.com/news/articleView.html?idxno=3066015",
+          "source": "한국사회복지저널"
+        },
+        {
+          "title": "[인사] 한전원자력연료",
+          "url": "https://www.energykorea.co.kr/news/articleView.html?idxno=67093",
+          "source": "에너지코리아뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "김동현",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T08:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThW7_sy1QCAf6tkoijPvSfn6wG8nRt3X7ZZLMNXkskXviLSaZplU7m6o-w87k",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“창문 내렸더니 입술이 덜덜”…김동현에 보복 운전 시비 걸던 운전자의 최후",
+          "url": "https://www.mk.co.kr/news/culture/12215432",
+          "source": "매일경제"
+        },
+        {
+          "title": "창문 내리자 '입술 덜덜'…김동현에 보복 운전한 트럭 줄행랑 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112217405242518",
+          "source": "머니투데이"
+        },
+        {
+          "title": "김동현도 보복운전 당했다…\"창문 내렸더니 입술 덜덜\"",
+          "url": "https://www.hankyung.com/article/202611233285H",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "채무",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSln9bGMM3alzZOgyXgBzc97i5xfWBFG7zlpSALPNArm6HZPMUXBvSdUA7Qiy8",
+      "category": "경제",
+      "news": [
+        {
+          "title": "포용금융 활성화하려면…\"주담대 쏠림 완화·금융기본권 보장\" - 머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/11/23/2026112316561632954",
+          "source": "머니투데이"
+        },
+        {
+          "title": "하나금융연구소, 포용금융 토론…강경훈 교수 \"금융기본권 정립 필요\"",
+          "url": "https://view.asiae.co.kr/article/2026112316050545053",
+          "source": "아시아경제"
+        },
+        {
+          "title": "하나금융연구소, 라운드테이블 개최…민간 금융사 역할 모색",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428051",
+          "source": "데일리한국"
+        }
+      ]
+    },
+    {
+      "keyword": "김태규",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-23T07:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRemXDdE0Sd8yTKmD5uvuj1bjodVfXrc_FNMXTzI6FMQtfmTwJjPPsppt3UyIE",
+      "category": "연예",
+      "news": [
+        {
+          "title": "\"내란 왜 인정? 지X\"‥판결 다음날 김태규 껄껄 웃으며 방송 '막말'",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867878_36911.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "국힘, ‘한덕수 1심 재판장’ 이진관 법왜곡죄 고발 추진…“날뛰는 정치 판사”",
-          "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
+          "title": "[뉴스분석] 엇갈리는 '계엄 책임론'…국민의힘, 비상계엄 2년 앞두고 갑론을박",
+          "url": "https://www.newspim.com/news/view/20261123000524",
+          "source": "뉴스핌"
+        },
+        {
+          "title": "“내란 인정하라고 지X 지X”…국힘 김태규, 민주당에 막말",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288600.html",
           "source": "한겨레"
         }
       ]
     },
     {
-      "keyword": "김종국",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-23T05:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPrLkyPM74r8Q4e7yuVNmM5XRI-6xsWuqVNPks4VH1iHlpdYjLTpcegCEE0pc",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "‘무대출 62억 신혼집’ 김종국 “母, 며칠 일해 3500원” (상남자의 여행법)",
-          "url": "https://sports.donga.com/ent/article/all/20261123/135071006/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "‘상남자의 여행법’ 김종국, 고교 졸업까지 부업한 사연… “며칠 일해 3500원 벌어”",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3451207",
-          "source": "천지일보"
-        },
-        {
-          "title": "김종국, 고교 졸업 전까지 가족 부업 회상…\"꽃다발이 제일 아깝다\"",
-          "url": "http://www.ksw-news.com/news/articleView.html?idxno=3065613",
-          "source": "한국사회복지저널"
-        }
-      ]
-    },
-    {
-      "keyword": "변리사",
+      "keyword": "100 일 의 거짓말",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-23T05:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTS-ygEZoBwRcvQkpsJ_1kauEbpfWcfM_iNrMGF4glcNmtrDYqn5VnWvbtLECI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "변리사 시험도 수상?…’고득점자 급증’만으로 단정 어려워",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123155118Sun",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "세무사 이어 변리사도 ‘이상 급증’…2차 고득점자 14배 늘었다",
-          "url": "https://www.donga.com/news/Economy/article/all/20261123/135071932/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "'AI 커닝 의혹' 속 변리사 2차 고득점자 14배 급증…1년 새 3명→42명",
-          "url": "https://www.fnnews.com/news/202611231322148988",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "정형돈",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-23T05:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSY9akzzmRLb134KeZhH6ea6ZGru5oVamyG-Lz1Vw0IqqKPzIoVnN4fBkrqdJI",
+      "startedAt": "2026-11-23T07:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ7QQQfaVfzLQB-uPS-z2WamZpGEzfk6lG5OUkakemIWJQrpiBJg-RvVbUCAo",
       "category": "기타",
       "news": [
         {
-          "title": "'21kg 감량' 정형돈, 마운자로 맞고 홀쭉…\"눈밑지 시술\" 고백 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112306202219015",
+          "title": "김유정·박진영 ‘100일의 거짓말’, 종영 2회 남기고…11.7% 자체 최고 시청률 경신",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12215812",
+          "source": "매일경제"
+        },
+        {
+          "title": "\"친일 남주? 죽어도 옹호 안 돼\"…'100일의 거짓말' 시청자 반발 - 머니투데이",
+          "url": "https://www.mt.co.kr/culture/2026/11/23/2026112316121982924",
           "source": "머니투데이"
         },
         {
-          "title": "정형돈, 살 21kg 빼더니 결국 '마운자로' 고백..정재형 \"얼굴 확 좋아져\" 깜짝[핫피플]",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/22/HFSGEYRQGA4DEOBYMFRGIYJTHE/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "‘21kg 감량’ 정형돈 “마운자로+눈밑지 했다” 외모 관리 근황",
-          "url": "https://sports.khan.co.kr/article/202611231047003",
-          "source": "스포츠경향"
+          "title": "'100일의 거짓말' 김유정·박진영, 송지효 정체 알았다…최고 시청률 '11.7%'",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01574406645648672&mediaCodeNo=257",
+          "source": "이데일리"
         }
       ]
     },
     {
       "keyword": "휴림로봇",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-23T06:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThVyL8i3dwyrWScafetKjgNxKznIcQVBM3xe9vokWis-bz9ay9G_EOYg2oKOM",
       "category": "IT·과학",
@@ -137,139 +191,89 @@
           "source": "머니투데이"
         },
         {
-          "title": "현림로봇, 삼성전기 공급 계약 체결에 주가 30% 급등",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2186567",
-          "source": "Investing.com 한국어"
-        },
-        {
           "title": "휴림로봇 주가 장중 상한가, 삼성전기 자동화 장비로봇 공급 본계약 체결",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452641",
           "source": "비즈니스포스트"
+        },
+        {
+          "title": "현림로봇, 삼성전기 공급 계약 체결에 주가 30% 급등",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2186567",
+          "source": "Investing.com 한국어"
         }
       ]
     },
     {
-      "keyword": "국민건강보험공단",
+      "keyword": "주제 무리뉴",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-23T05:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-7tZqBgyhDwFOxbpf2UtZMZ-09VmEWxYeQVeTdcrxzT3j1pueuIfFLu5dgME",
-      "category": "기타",
+      "startedAt": "2026-11-23T07:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtXq4k6NNwCRiecs5Ir5s7RAiOOJ86krLObROpsVOu70zz702Eg9yQxtPh-g0",
+      "category": "스포츠",
       "news": [
         {
-          "title": "‘공짜 임플란트 주의보’ 건보공단 부당청구 집중 점검",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20539",
-          "source": "이투데이"
+          "title": "교체 6분 만에 역전 결승골! 레알 마드리드의 복덩이 카를로스 에스피→놀라운 골 결정력",
+          "url": "https://mydaily.co.kr/page/view/2026112209343705216",
+          "source": "마이데일리"
         },
         {
-          "title": "“임플란트 공짜로 해드려요”…건보 지급액 3000만원→9억원, 공단 전수조사",
-          "url": "https://www.donga.com/news/Society/article/all/20261123/135073789/2",
-          "source": "동아일보"
+          "title": "“내가 경기장 안으로 들어가서 누굴 때릴 수 없잖아”… 모리뉴 감독 입담 작렬, 음바페·에스피 공존 가능성에 수비 전환 문제 제기",
+          "url": "https://www.besteleven.com/news/articleView.html?idxno=314225",
+          "source": "베스트일레븐"
         },
         {
-          "title": "임플란트 싸다고 덥석 심었다간… 치과의사가 알려주는 ‘덤핑 치과’의 함정",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112301535.html",
-          "source": "헬스조선"
+          "title": "라리가 레알 마드리드 대 셀타 비고 경기 예측",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-real-madrid-vs-celta-vigo-tai-la-liga-1803472.ldo",
+          "source": "Laodong.vn"
         }
       ]
     },
     {
-      "keyword": "트리플스타",
+      "keyword": "실사격훈련",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-23T05:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicQZpmt0jfeSZNJQ5hewU4nTgx6iKhmVcO7dycp0DCK_Xtc1cvVwLqFFUBok",
+      "startedAt": "2026-11-23T07:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGeBs6n_9ELXL7ctKLgU4TH79XSn0gr6zWhz2ryFiYcAm5eDB8DoQwYa9U2Z8",
       "category": "기타",
       "news": [
         {
-          "title": "'횡령 무혐의' 트리플스타 강승원, 재혼…백종원·안성재 하객 포착 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112314553830902",
-          "source": "머니투데이"
+          "title": "[쇼츠] 日서 불뿜은 아파치·블랙호크…주한미군 헬기, 첫 해외 실사격",
+          "url": "https://www.yna.co.kr/view/AKR20261123141500704",
+          "source": "연합뉴스"
         },
         {
-          "title": "사생활 논란 딛고…‘흑백요리사’ 유명 셰프, 깜짝 재혼 발표",
-          "url": "https://www.mk.co.kr/news/culture/12216020",
-          "source": "매일경제"
+          "title": "주한미군 아파치·블랙호크 헬기, 일본에서 첫 실사격 훈련",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867862_36911.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "\"부족한 내게 안식처가 돼준 사람\"…'무혐의' 강승원 셰프 깜짝 재혼",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6361806",
-          "source": "뉴스1"
+          "title": "한·미·일 '원정·핵잠' 2연타…불편한 속내 드러낸 중국",
+          "url": "http://www.securityfact.co.kr/news/view.php?no=8148",
+          "source": "시큐리티팩트"
         }
       ]
     },
     {
       "keyword": "권한쟁의심판",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-23T06:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjpm8LkLXZ9J4miqxiuYw5EP666mbW_h0mv0FHJaAhihkksn7fqnEp4mSPhLg",
-      "category": "기타",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1533wG73uH-bT7uluMieaKEKiM2qnZc7Kbyb8Y0V7Gm23vTOb9YQZ4MIRGT4",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "국힘 \"조작기소 특검법 처리로 표결권 침해\" 권한쟁의심판 청구",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6867819_36911.html",
+          "title": "[단독] “李 파기환송 사건은 민주당 선거비 반환 직결사안”⋯ 국힘, 특검법 권한쟁의 청구",
+          "url": "https://www.kmib.co.kr/article/20261123500952",
+          "source": "국민일보"
+        },
+        {
+          "title": "국힘, ‘조작기소 특검법’ 권한쟁의심판 청구…“표결권 침해”",
+          "url": "https://www.donga.com/news/Politics/article/all/20261123/135074392/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "한병도 \"국힘, 내란 옹호하며 쿠데타 언급‥뻔뻔한 막말 정치\"",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867762_36911.html",
           "source": "MBC 뉴스"
-        },
-        {
-          "title": "[영상] 국민의힘 규탄대회",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611231251392007",
-          "source": "YTN"
-        },
-        {
-          "title": "한병도 \"국힘, 내란 옹호하며 쿠데타 입에 담아…뻔뻔함에 분노\"",
-          "url": "https://www.yna.co.kr/view/AKR20261123046400001",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "박선원",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T05:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYWSV8OOsCMHqtZtUSwrYj_wRBqFRxM1V6_gGf0VhwG9DUZo4qbJImgmfKVO8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"신천지 4만3000명 입당\" 친명 폭로에 뒤집힌 민주당",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/23/CDEWQUIMSZDNNABQ6HBWECORLY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "아직도 신천지로 싸우는 민주당 지도부…‘일제 부역자’ 비유까지 나와",
-          "url": "https://www.khan.co.kr/article/202611231544001",
-          "source": "경향신문"
-        },
-        {
-          "title": "박선원 \"신천지 4만3천명 추산, 나도 명예 있다\" vs 한민수 \"근거 밝히라가 못마땅? 피해자 코스프레\"",
-          "url": "https://news.jtbc.co.kr/article/NB12329353",
-          "source": "JTBC"
-        }
-      ]
-    },
-    {
-      "keyword": "하프마라톤",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkF35YIlmEHtvEZWm4QGYLFv1RLrK2DNcO49sokJh09zZpgd-hvH2Wk9aqKIw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "양산전국하프마라톤 12월 6일 개최, 8천여 명이 힘차게 달린다",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722930",
-          "source": "뉴스타운"
-        },
-        {
-          "title": "8000명 달린다…양산하프마라톤 안전관리 강화",
-          "url": "https://www.newsis.com/view/NISX20261123_0003878703",
-          "source": "뉴시스"
-        },
-        {
-          "title": "양산전국하프마라톤대회, 동호인 8천여명 참가 12월 6일 개최",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759904",
-          "source": "국제뉴스"
         }
       ]
     }
