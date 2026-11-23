@@ -1,271 +1,271 @@
 {
-  "updatedAt": "2026-11-23T14:56:51.739Z",
+  "updatedAt": "2026-11-23T15:59:14.998Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 5
     },
     {
-      "category": "IT·과학",
-      "count": 3
-    },
-    {
-      "category": "정치·사회",
+      "category": "연예",
       "count": 2
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "젠슨황 복귀",
+      "keyword": "nvidia stock",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-23T13:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDEVuh8422k-kQMXFYi5mC6LDM3O9orapKy6UO57rsSBjqDlGC_Wd5MsrxDfs",
-      "category": "IT·과학",
+      "startedAt": "2026-11-23T14:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ",
+      "category": "기타",
       "news": [
         {
-          "title": "엔비디아 “이사회 만장일치로 젠슨 황 최고경영자로 복귀”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720606",
-          "source": "KBS 뉴스"
+          "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+          "source": "NVIDIA Newsroom"
         },
         {
-          "title": "[속보]‘불륜 스캔들’ 젠슨 황, 다시 엔비디아 CEO로···불명예 퇴진 11일만",
-          "url": "https://www.khan.co.kr/article/202611232329001",
-          "source": "경향신문"
+          "title": "Stock Market Today: Nvidia Stock Surges as Investors Cheer Jensen Huang's Return as CEO",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026",
+          "source": "WSJ"
         },
         {
-          "title": "미 재무 \"젠슨 황과 회사 책임 별개\"...반도체 밀수망 의혹 확산",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611232251548431",
-          "source": "YTN"
+          "title": "Jensen Huang reinstated as Nvidia CEO, board says",
+          "url": "https://www.bbc.com/news/live/crd61y5dwqgpt",
+          "source": "BBC"
         }
       ]
     },
     {
-      "keyword": "상장",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-23T11:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKcS_n0Rpo6kVziwKurd7QettVXlSAdiWneUFlsbhSx76VlHCgR0jqdBGBchE",
-      "category": "경제",
+      "keyword": "둠스데이",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-23T14:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-SWWL6Pm8uqIsdTH1ujaI9vxiCMLaRdlyHHYiwrrZ6lvQiuTf87yTmZ6qcyU",
+      "category": "연예",
       "news": [
         {
-          "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
-          "url": "https://www.yna.co.kr/view/AKR20261123100000017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
-          "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+          "title": "1000만 열광했던 마블 재도약? ‘어벤져스5’, 로다주 앞세운 흥행 전망은",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135065402/1",
           "source": "동아일보"
         },
         {
-          "title": "카카오AI·카카오X 분할상장 계획도 '안갯속'",
-          "url": "https://www.hankyung.com/article/2026112349881",
-          "source": "한국경제"
+          "title": "로다주, '어벤져스: 둠스데이' 빌런으로 컴백..\"상상보다 10배 강력\" 소감",
+          "url": "https://www.chosun.com/entertainments/movie/2026/11/23/G44DGYJVGVRDONTFGYYDANBYGQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "‘듄3’·‘어벤져스’ 연말 격돌…한국영화 대작은 실종",
+          "url": "https://www.segye.com/newsView/20261120509996",
+          "source": "세계일보"
         }
       ]
     },
     {
-      "keyword": "중위소득",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-23T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAICswbBFFPb3nKtN9-gGebSavF6dFxh9bmKlyMq5gV86hcZq3mtForYZT4iQ",
-      "category": "정치·사회",
+      "keyword": "to me my x men",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T14:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfcNAKygy-7y9q590MWZG9skn7Zg7L0S5kBChHmbjuNUyynq0gDM0pavTOE90",
+      "category": "기타",
       "news": [
         {
-          "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314",
-          "source": "대한민국 정책브리핑"
+          "title": "James Marsden's Cyclops gets his shot at redemption in Avengers: Doomsday",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/james-marsdens-cyclops-gets-shot-180300064.html",
+          "source": "Yahoo"
         },
         {
-          "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
-          "url": "https://www.newsis.com/view/NISI20261123_0021542967",
-          "source": "뉴시스"
+          "title": "Avengers: Doomsday Should Set Up This X-Men Character to Lead Into the 2028 Reboot",
+          "url": "https://comicbook.com/movies/feature/avengers-doomsday-should-set-up-this-x-men-character-to-lead-into-the-2028-reboot/",
+          "source": "ComicBook.com"
         },
         {
-          "title": "3년 새 빈곤층 69만 명↑…생계급여 문턱 낮춘다",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720133",
-          "source": "KBS 뉴스"
+          "title": "Avengers: Doomsday Can Give Us the Radical X-Men We Want",
+          "url": "https://www.denofgeek.com/movies/avengers-doomsday-give-us-radical-x-men-we-want/",
+          "source": "Den of Geek"
         }
       ]
     },
     {
-      "keyword": "브레인악셀",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-23T10:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXIrGVAPpq26yEN-I4222Q10eJD4FJPaXxEhEqy2TixwsnNQVpDkUVFkUI5L4",
-      "category": "정치·사회",
+      "keyword": "qqq",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T14:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfeWhU8ZHnSv1bMA7QVrBsukeZUC6GPmzYfADQTPqWRcX3cFAlXURUAdlPKb0",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+          "title": "‘Anyone forecasting 2027 is forecasting data centers’: The Fed is about to hike into an AI boom it can’t cool, and Main Street gets the bill",
+          "url": "https://finance.yahoo.com/economy/policy/articles/anyone-forecasting-2027-forecasting-data-154459270.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "AI surge could strain US capacity and overheat economy, Fed's Goolsbee says",
+          "url": "https://www.reuters.com/business/feds-goolsbee-says-ai-surge-could-strain-us-capacity-overheat-economy-2026-11-19/",
+          "source": "Reuters"
+        },
+        {
+          "title": "Federal Reserve Chairman Kevin Warsh during a conference on the economic impacts of new technologies",
+          "url": "https://www.galvnews.com/news_reuters/business/federal-reserve-chairman-kevin-warsh-during-a-conference-on-the-economic-impacts-of-new-technologies/image_d766743e-3d30-5bdc-b8a8-3f010a40a17c.html",
+          "source": "The Daily News | Texas' Oldest Newspaper"
+        }
+      ]
+    },
+    {
+      "keyword": "엔디비아",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T14:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLWBrvKD2mQM4Mq7F6FxBYWu-j_gA6SDPYKgAG5Io1dsRKcDGiZi9g7pT8N_o",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"인신매매 조직이 앤비디아칩 운반\" 수단방법 안 가린 중국‥트럼프는 \"젠슨 황이 최선\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867925_37004.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611232201517707_005.html",
-          "source": "YTN"
+          "title": "정보기관의 ‘섹스피오나지’[정일천의 정보전과 스파이]",
+          "url": "https://www.donga.com/news/Opinion/article/all/20261123/135077207/2",
+          "source": "동아일보"
         },
         {
-          "title": "리트 만점자 과외교사도 곧 소환…‘저서 30배’ 기현상도",
-          "url": "https://news.jtbc.co.kr/article/NB12329434",
-          "source": "JTBC"
+          "title": "“엔비디아칩 중국 밀반입망, 앨리스 황과 캄보디아 범죄조직 인사로 이어져”",
+          "url": "https://www.khan.co.kr/article/202611222208001",
+          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "반도체 메모리",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-23T10:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJRMjA6TPTNxh9L-VbXh-MEFpMLvehR0801UcEDCat8Xn-vZcipZnZpXgGL4s",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
-          "url": "https://www.hankyung.com/article/2026112330656",
-          "source": "한국경제"
-        },
-        {
-          "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
-          "url": "https://www.yna.co.kr/view/AKR20261123024200008",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
-          "url": "https://core.asiae.co.kr/article/2026112317430850505",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "혼다",
+      "keyword": "옆자리 프란체스카",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-23T11:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgido-l33Jk2lDPhzyVUQ4f9HhQRfZx0eZJjkENuPKp-7ggjpeAkCTObHtaJQ",
-      "category": "기타",
+      "startedAt": "2026-11-23T14:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD2VfAs4oMKWf5M_YyiCzMso_9gJYWzRMTCW9wrOgV1ZTUpzaJBcSitkL-qME",
+      "category": "연예",
       "news": [
         {
-          "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
-          "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
-          "source": "NBC News"
+          "title": "20년 만에 돌아온 뱀파이어들…'옆자리, 프란체스카' 오늘(23일) 첫 방송",
+          "url": "https://m.imbc.com/enews/view/525711",
+          "source": "MBC"
         },
         {
-          "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
-          "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
-          "source": "Fox Business"
+          "title": "'카리나 절친' 한수아, 뱀파이어 전학생 된다⋯'옆자리, 프란체스카' 오늘(23일) 첫방",
+          "url": "https://www.etoday.co.kr/news/view/2651603",
+          "source": "이투데이"
         },
         {
-          "title": "More than 300,000 Toyota, Lexus vehicles recalled over faulty Takata airbags",
-          "url": "https://www.wdbj7.com/2026/11/21/more-than-300000-toyota-lexus-vehicles-recalled-over-faulty-takata-airbags/",
-          "source": "WDBJ7"
+          "title": "‘옆자리, 프란체스카’ 웨이브 차트 10위 올랐지만…원년 멤버 분량엔 왜 아쉬움?",
+          "url": "https://www.wikitree.co.kr/articles/1176784",
+          "source": "위키트리"
         }
       ]
     },
     {
-      "keyword": "sk텔레콤",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T13:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr_er9Frus17w4OJGnsXNEkLXJxCIz_uGGk2mi82u8RBeW_0HmqVa1cKOXF_w",
-      "category": "기타",
+      "keyword": "토스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T14:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRv_OGVCeZ43kPrdWrIIEzwEnZQmPh4AyGIDZ96-2FRlPg3KX-Y_wsW5HqapE",
+      "category": "경제",
       "news": [
         {
-          "title": "“50대 이상 나가면 3년치 월급”…SKT, 희망퇴직 받는다",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03493206645648672&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "카카오페이·토스도 주민등록증 진위확인…위·변조 걸러낸다",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976306",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "SK텔레콤, 50대 이상 직원 희망퇴직 추진",
-          "url": "https://www.etnews.com/20261123000409",
+          "title": "행안부 신분증 검증망, 카카오페이·토스까지 확대…전자 금융 안전성 강화",
+          "url": "https://www.etnews.com/20261121000055",
           "source": "전자신문"
         },
         {
-          "title": "SK텔레콤, 50대 이상 희망퇴직 추진",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/23/DX6TT7X5JBGF5D6QAQ4Q5XJ4BA/",
-          "source": "Chosunbiz"
+          "title": "카카오페이·토스도 23일부터 주민증 사진 활용 신분 확인",
+          "url": "https://www.khan.co.kr/article/202611222045005",
+          "source": "경향신문"
         }
       ]
     },
     {
-      "keyword": "m",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T11:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEplL9MYu7JGwq6iRCvxHyiPNJZohgtL0Z4IxeLNkXS3fDEQF9T4SU0x9_gZM",
-      "category": "기타",
+      "keyword": "코인니스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T14:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2wwqskI-b2CKgQMoxSAROKpMmsZAsAS-hIZ_jSHThOKvkXNTfRFBDo_omB5s",
+      "category": "경제",
       "news": [
         {
-          "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
-          "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
-          "source": "ESPN"
-        },
-        {
-          "title": "Does Steve Cohen think there’s going to be a salary cap?",
-          "url": "https://sports.yahoo.com/articles/does-steve-cohen-think-going-140000045.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Inside Tarik Skubal’s Mets meeting that launched a record price: ‘Tarik is the guy you bet on’ - The Athletic",
-          "url": "https://www.nytimes.com/athletic/7804537/2026/11/22/tarik-skubal-mets-meeting-negotiation-record-contract/",
-          "source": "The New York Times"
-        }
-      ]
-    },
-    {
-      "keyword": "공항",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T10:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFF0MWyxPZKxzp2JYhSz8TrpZ1PeAc5tk9wX7_vg5qexw1B0z2iuovL1tuf5Y",
-      "category": "기타",
-      "news": [
-        {
-          "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
-          "source": "전기신문"
-        },
-        {
-          "title": "박남춘 인천공항공사 사장 “인천공항, 통합보다 메가 허브공항 실현”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720076",
+          "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
           "source": "KBS 뉴스"
         },
         {
-          "title": "박남춘 인천공항 사장 “임기 내 취항도시 200개·여객 9000만 명 목표”",
-          "url": "https://biz.chosun.com/policy/policy_sub/2026/11/23/X6ZGTC42HVGHBP2N6Q3BERNECE/",
-          "source": "Chosunbiz"
+          "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
+          "url": "https://www.hankyung.com/article/202611233526i",
+          "source": "한국경제"
+        },
+        {
+          "title": "“비트코인 거품 터질 것”…블룸버그 전략가 경고등",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03785126645648672",
+          "source": "마켓인"
         }
       ]
     },
     {
-      "keyword": "일론 머스크",
+      "keyword": "qld",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-23T10:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAf_h3sDoVGKyvy62KXqXSCUHV6ViGuZZ6UUSvL--18deisu2o-0W165hiTqo",
-      "category": "IT·과학",
+      "startedAt": "2026-11-23T14:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp2BRBRThPwt78H-wqP6ghy5R5tBMRdd6Vir7abEQVpy31wK7a3oiBV1MU6LM",
+      "category": "기타",
       "news": [
         {
-          "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
-          "url": "https://www.hankyung.com/article/2026112340657",
-          "source": "한국경제"
+          "title": "29 Kate Court, Murrumba Downs, Qld 4503",
+          "url": "https://www.realestate.com.au/property-house-qld-murrumba+downs-445574524",
+          "source": "Real Estate"
         },
         {
-          "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231601194035",
-          "source": "YTN 사이언스"
+          "title": "Qld critical mineral to supply fighter jets, subs, smartphones",
+          "url": "https://www.ntnews.com.au/news/queensland/queensland-critical-minerals-to-power-us-fighter-jets-after-far-north-mine-expansion/news-story/f0d84e9c4337875a8f07c0207db662d6",
+          "source": "NT News"
         },
         {
-          "title": "머스크, \"내년 AI 업계 심각한 현금난 닥칠 것\" 경고",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/23/OLOIZESXRREYXGQHDWFYHG5UOE/",
-          "source": "조선일보"
+          "title": "Storms to hit south-western Qld as heatwave lingers in far north",
+          "url": "https://www.abc.net.au/news/2026-11-23/storms-south-western-queensland-heatwave-far-north/107414108",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+        }
+      ]
+    },
+    {
+      "keyword": "voo",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-23T14:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4RXt0CrNR4ZSyT4KO6x1fD79la1e3tSJ2h7BDnfBWdGTj1Ncx75ZRfjx7cas",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Da aviação nos EUA à Justiça brasileira, apagões digitais expõem dependências invisíveis",
+          "url": "https://ihu.unisinos.br/categorias/673454-da-aviacao-nos-eua-a-justica-brasileira-apagoes-digitais-expoem-dependencias-invisiveis",
+          "source": "Instituto Humanitas Unisinos - IHU"
+        },
+        {
+          "title": "A revolta das máquinas pode acontecer de maneira diferente daquela que o cinema mostrou",
+          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/a-revolta-das-maquinas-pode-acontecer-de-maneira-diferente-daquela-que-o-cinema-mostrou/",
+          "source": "Estadão"
+        },
+        {
+          "title": "★ Seu voo também depende de software",
+          "url": "https://macmagazine.com.br/post/2026/11/23/seu-voo-tambem-depende-de-software/",
+          "source": "MacMagazine"
         }
       ]
     }
