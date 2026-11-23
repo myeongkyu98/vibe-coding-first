@@ -1,20 +1,16 @@
 {
-  "updatedAt": "2026-11-23T16:55:49.736Z",
+  "updatedAt": "2026-11-23T17:54:14.295Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
+      "count": 6
     },
     {
       "category": "경제",
-      "count": 4
+      "count": 3
     },
     {
       "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
@@ -24,23 +20,73 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-23T14:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1kIoqrRH8og_nLrD4OsOPW0EFmtRKZqkkI1WvP0BQGyrgO-Ruoy2BvYFa2k",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbgUQ3-CxlAzgg2sGHiysAfqw6Dx5nPOm1JetzuL91i397SpU581YqQDWDp5M",
       "category": "기타",
       "news": [
         {
-          "title": "New Avengers: Doomsday Trailer Teases Epic Showdown Between Robert Downey Jr. and Marvel Heroes, Reveals Captain America’s Child",
-          "url": "https://people.com/robert-downey-jr-chris-evans-avengers-doomsday-trailer-12274339",
-          "source": "People.com"
+          "title": "'Avengers: Doomsday' final trailer reveals key X-Men moment and Hailee Steinfeld's return. Plus, 4 other things we spotted.",
+          "url": "https://www.yahoo.com/entertainment/movies/article/avengers-doomsday-final-trailer-gives-first-look-at-hailee-steinfeld-plus-3-other-things-we-spotted-144448737.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Avengers: Doomsday Final Trailer Puts Steve Rogers in Focus While Marvel Keeps Major Reveals Under Wraps",
-          "url": "https://mezha.net/eng/news/mezha-fdda2d102c759a51e7c9e4d2_avengers-_doomsday_final/",
-          "source": "Mezha.net"
+          "title": "Final 'Avengers: Doomsday' trailer reveals ultimate mashup of characters",
+          "url": "https://komonews.com/news/entertainment/final-avengers-doomsday-trailer-reveals-ultimate-mashup-of-characters",
+          "source": "KOMO"
         },
         {
-          "title": "Trailer: \"Avengers Doomsday\" Shows Chris Evans, Hemsworth in Charge, Orchestra Going Crazy, Pedro Pascal as Reed Richards in Leisure Suit",
-          "url": "https://www.showbiz411.com/2026/11/23/trailer-avengers-doomsday-shows-chris-evans-hemsworth-in-charge-orchestra-going-crazy-pedro-pascal-as-reed-richards-in-leisure-suit",
-          "source": "Showbiz411"
+          "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+          "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+          "source": "Ars Technica"
+        }
+      ]
+    },
+    {
+      "keyword": "sk그룹",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T16:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQBxXFp3EWswtznlLcuAoqBi5885VFy8r9Y1PZk7Q4IPdK5wM9Yqg7MOl9C24",
+      "category": "기타",
+      "news": [
+        {
+          "title": "최태원 \"재산분할금 9천440억원 전액 내겠다\" 화해권고 신청(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261123122951004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "최태원 \"9천440억 전액 지급\"‥'세기의 이혼' 마무리 요청",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867926_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "최태원 “노소영에 9,440억 전액 지급하겠다”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720425",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "u17 việt nam",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T16:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe1mdtqESlOLgptVM82mf0TWVWJUMhkKqIreaj4Un2G37IoihfMvwLqFQLXUk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Báo New Zealand: 'Gặp Việt Nam là cơ hội tốt nhất để thắng ở U17 World Cup'",
+          "url": "https://vnexpress.net/bao-new-zealand-gap-viet-nam-la-co-hoi-tot-nhat-de-thang-o-u17-world-cup-5148090.html",
+          "source": "VnExpress"
+        },
+        {
+          "title": "Siêu máy tính dự đoán tỷ số trận U17 Việt Nam gặp U17 New Zealand",
+          "url": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ty-so-tran-u17-viet-nam-gap-u17-new-zealand-20261123134223838.htm",
+          "source": "Báo Dân trí"
+        },
+        {
+          "title": "Bảng xếp hạng mới nhất U.17 Việt Nam: Tạm đứng tốp 3, ngay sau á quân châu Âu U.17 Bỉ",
+          "url": "https://thanhnien.vn/bang-xep-hang-moi-nhat-u17-viet-nam-tam-dung-top-3-ngay-sau-a-quan-chau-au-u17-bi-185261124003529609.htm",
+          "source": "Thanh Niên"
         }
       ]
     },
@@ -95,56 +141,6 @@
       ]
     },
     {
-      "keyword": "옆자리 프란체스카",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-23T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD2VfAs4oMKWf5M_YyiCzMso_9gJYWzRMTCW9wrOgV1ZTUpzaJBcSitkL-qME",
-      "category": "연예",
-      "news": [
-        {
-          "title": "20년 만에 돌아온 뱀파이어들…'옆자리, 프란체스카' 오늘(23일) 첫 방송",
-          "url": "https://m.imbc.com/enews/view/525711",
-          "source": "MBC"
-        },
-        {
-          "title": "'카리나 절친' 한수아, 뱀파이어 전학생 된다⋯'옆자리, 프란체스카' 오늘(23일) 첫방",
-          "url": "https://www.etoday.co.kr/news/view/2651603",
-          "source": "이투데이"
-        },
-        {
-          "title": "‘옆자리, 프란체스카’ 웨이브 차트 10위 올랐지만…원년 멤버 분량엔 왜 아쉬움?",
-          "url": "https://www.wikitree.co.kr/articles/1176784",
-          "source": "위키트리"
-        }
-      ]
-    },
-    {
-      "keyword": "토스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-23T14:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRv_OGVCeZ43kPrdWrIIEzwEnZQmPh4AyGIDZ96-2FRlPg3KX-Y_wsW5HqapE",
-      "category": "경제",
-      "news": [
-        {
-          "title": "카카오페이·토스도 주민등록증 진위확인…위·변조 걸러낸다",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976306",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "행안부 신분증 검증망, 카카오페이·토스까지 확대…전자 금융 안전성 강화",
-          "url": "https://www.etnews.com/20261121000055",
-          "source": "전자신문"
-        },
-        {
-          "title": "카카오페이·토스도 23일부터 주민증 사진 활용 신분 확인",
-          "url": "https://www.khan.co.kr/article/202611222045005",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
       "keyword": "샌디스크 주가",
       "traffic": "100+",
       "trafficValue": 100,
@@ -174,17 +170,22 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-23T14:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1fkenmV91tibCrnOe15mp-lAkIKqJqOP7bBNNQ5TyQ9ZLoytM7uT9eOVmVQ",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMOIwN1HeDaWr4qkyPWimS7GcTMOf45EkMCRqbgUQ9Jvcm0NsGrI8YEvU2nHE",
       "category": "기타",
       "news": [
         {
-          "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
-          "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
-          "source": "Traders Union"
+          "title": "Black Friday Sale Now Live!",
+          "url": "https://essexcricket.org.uk/2026/11/23/black-friday-sale-now-live/",
+          "source": "Essex Cricket"
         },
         {
           "title": "WhiteBIT launches joint Black Friday promotion with TradingView for new users",
           "url": "https://tradersunion.com/news/brokers-news/show/4377977-whitebit-and-tradingview-launch-black/",
+          "source": "Traders Union"
+        },
+        {
+          "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
+          "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
           "source": "Traders Union"
         }
       ]
@@ -228,14 +229,14 @@
           "source": "NT News"
         },
         {
-          "title": "9/172-180 Fryer Road, Eagleby, Qld 4207",
-          "url": "https://www.realestate.com.au/property-townhouse-qld-eagleby-445574244",
+          "title": "704/25 Shafston Avenue, Kangaroo Point, Qld 4169",
+          "url": "https://www.realestate.com.au/property-apartment-qld-kangaroo+point-445574256",
           "source": "Real Estate"
         },
         {
-          "title": "46/202-206 Fryar Road, Eagleby, Qld 4207",
-          "url": "https://www.realestate.com.au/sold/property-townhouse-qld-eagleby-152546112",
-          "source": "Real Estate"
+          "title": "Storms to hit south-western Qld as heatwave lingers in far north",
+          "url": "https://www.abc.net.au/news/2026-11-23/storms-south-western-queensland-heatwave-far-north/107414108",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
         }
       ]
     },
