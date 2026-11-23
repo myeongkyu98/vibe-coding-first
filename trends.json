@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T17:54:14.295Z",
+  "updatedAt": "2026-11-23T18:54:05.127Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
     },
     {
       "category": "경제",
@@ -11,6 +11,10 @@
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
@@ -20,18 +24,18 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-23T14:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbgUQ3-CxlAzgg2sGHiysAfqw6Dx5nPOm1JetzuL91i397SpU581YqQDWDp5M",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQFMC0snpv3iTtoaFdHVPI93h2gWIgQzj4_BOGH66-J2nFAy_ZRhFFJlrVuBw",
       "category": "기타",
       "news": [
         {
-          "title": "'Avengers: Doomsday' final trailer reveals key X-Men moment and Hailee Steinfeld's return. Plus, 4 other things we spotted.",
-          "url": "https://www.yahoo.com/entertainment/movies/article/avengers-doomsday-final-trailer-gives-first-look-at-hailee-steinfeld-plus-3-other-things-we-spotted-144448737.html",
-          "source": "Yahoo"
+          "title": "Watch the Final ‘Avengers: Doomsday’ Trailer",
+          "url": "https://www.marvel.com/articles/movies/avengers-doomsday-final-trailer",
+          "source": "Marvel.com"
         },
         {
-          "title": "Final 'Avengers: Doomsday' trailer reveals ultimate mashup of characters",
-          "url": "https://komonews.com/news/entertainment/final-avengers-doomsday-trailer-reveals-ultimate-mashup-of-characters",
-          "source": "KOMO"
+          "title": "'Avengers: Doomsday' final trailer reveals Steve Rogers' son, Cyclops' iconic 'X-Men' line and epic Marvel team-up",
+          "url": "https://abc7ny.com/post/avengers-doomsday-final-trailer-reveals-steve-rogers-son-cyclops-iconic-men-line-epic-marvel-team/20070629/",
+          "source": "ABC7 New York"
         },
         {
           "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
@@ -41,17 +45,67 @@
       ]
     },
     {
+      "keyword": "탁구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T17:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQqpbpPwTFWY4sraOArxIWD1DlISa6DI_KEzNeojvS2RJ89TpMRUS8NmhyOo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759864",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "다음달 4일 아산시장배 전국장애인탁구대회",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112640",
+          "source": "충청매일"
+        },
+        {
+          "title": "김포시, 제17회 장애인 생활체육대회 성황리 마무리 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=gimpotoday&logNo=224488349119&redirect=Dlog",
+          "source": "Naver Blog"
+        }
+      ]
+    },
+    {
+      "keyword": "노태문",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-23T17:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4ybf4RwSQ-2hNfeigalFL_1U2McMm6iz5_-elmSN6_IxfSYUQPtwK_ivfO9w",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%9E%A5%EB%8B%A8-%EC%9D%B8%EC%82%AC-2",
+          "source": "samsung.com"
+        },
+        {
+          "title": "삼성-SK 잇단 금요일 인사 뒤엔 ‘안정 속 쇄신’ [재계팀의 비즈워치]",
+          "url": "https://www.donga.com/news/Economy/article/all/20261123/135076262/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "노태문 \"인공지능 휴대전화 시대, 여러분이…MX 미래 기대\"",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123163632vUj",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
       "keyword": "sk그룹",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-23T16:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQBxXFp3EWswtznlLcuAoqBi5885VFy8r9Y1PZk7Q4IPdK5wM9Yqg7MOl9C24",
-      "category": "기타",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlGG_ikaUAQMfX0U40Uu0U1_TWEykLXzGsOagq3g4Tr2ad97RdSc2gUxpxUjk",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "최태원 \"재산분할금 9천440억원 전액 내겠다\" 화해권고 신청(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261123122951004",
-          "source": "연합뉴스"
+          "title": "최태원 “재산분할금 9440억원 다 내겠다”…대법원에 ‘화해권고’ 신청",
+          "url": "https://www.chosun.com/national/court_law/2026/11/23/YBLJ2QLL6NFGTO63M5QNF2HWKU/",
+          "source": "조선일보"
         },
         {
           "title": "최태원 \"9천440억 전액 지급\"‥'세기의 이혼' 마무리 요청",
@@ -59,9 +113,9 @@
           "source": "MBC 뉴스"
         },
         {
-          "title": "최태원 “노소영에 9,440억 전액 지급하겠다”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720425",
-          "source": "KBS 뉴스"
+          "title": "입장 바꾼 최태원 “노소영에 9440억 현금 지급”…화해권고 요청",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288668.html",
+          "source": "한겨레"
         }
       ]
     },
@@ -84,7 +138,7 @@
           "source": "Báo Dân trí"
         },
         {
-          "title": "Bảng xếp hạng mới nhất U.17 Việt Nam: Tạm đứng tốp 3, ngay sau á quân châu Âu U.17 Bỉ",
+          "title": "Bảng xếp hạng mới nhất U.17 Việt Nam tại World Cup: Tốp 3, ngay sau á quân châu Âu U.17 Bỉ",
           "url": "https://thanhnien.vn/bang-xep-hang-moi-nhat-u17-viet-nam-tam-dung-top-3-ngay-sau-a-quan-chau-au-u17-bi-185261124003529609.htm",
           "source": "Thanh Niên"
         }
@@ -134,9 +188,9 @@
           "source": "The Motley Fool"
         },
         {
-          "title": "Why Did NVDA, NFLX, ORCL Slip To 52-Week Lows Last Week?",
-          "url": "https://www.tradingview.com/news/stocktwits:1138e6c6c094b:0-why-did-nvda-nflx-orcl-slip-to-52-week-lows-last-week/",
-          "source": "TradingView"
+          "title": "Nvidia: The Trade Of A Lifetime (NASDAQ:NVDA)",
+          "url": "https://seekingalpha.com/article/4971134-nvidia-the-trade-of-a-lifetime",
+          "source": "Seeking Alpha"
         }
       ]
     },
@@ -170,18 +224,18 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-23T14:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMOIwN1HeDaWr4qkyPWimS7GcTMOf45EkMCRqbgUQ9Jvcm0NsGrI8YEvU2nHE",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpsWDivThQ4J5mKHgNZOandNVIyw19YwXaVVK5_CZBmWTEXYtD46NaHLQsn68",
       "category": "기타",
       "news": [
-        {
-          "title": "Black Friday Sale Now Live!",
-          "url": "https://essexcricket.org.uk/2026/11/23/black-friday-sale-now-live/",
-          "source": "Essex Cricket"
-        },
         {
           "title": "WhiteBIT launches joint Black Friday promotion with TradingView for new users",
           "url": "https://tradersunion.com/news/brokers-news/show/4377977-whitebit-and-tradingview-launch-black/",
           "source": "Traders Union"
+        },
+        {
+          "title": "Black Friday Sale Now Live!",
+          "url": "https://essexcricket.org.uk/2026/11/23/black-friday-sale-now-live/",
+          "source": "Essex Cricket"
         },
         {
           "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
@@ -212,56 +266,6 @@
           "title": "스페이스X가 AI 기술주 투자자에 '피난처' 부상, \"우주 기술 역량이 AI 사업 확장 뒷받침\"",
           "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452637",
           "source": "비즈니스포스트"
-        }
-      ]
-    },
-    {
-      "keyword": "qld",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T14:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlnVd6gAaHseaA0W4EvxhDri1b-LRDzzR8E6A0DyLI4-JDo1no_B_yrZ8fTDk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Qld critical mineral to supply fighter jets, subs, smartphones",
-          "url": "https://www.ntnews.com.au/news/queensland/queensland-critical-minerals-to-power-us-fighter-jets-after-far-north-mine-expansion/news-story/f0d84e9c4337875a8f07c0207db662d6",
-          "source": "NT News"
-        },
-        {
-          "title": "704/25 Shafston Avenue, Kangaroo Point, Qld 4169",
-          "url": "https://www.realestate.com.au/property-apartment-qld-kangaroo+point-445574256",
-          "source": "Real Estate"
-        },
-        {
-          "title": "Storms to hit south-western Qld as heatwave lingers in far north",
-          "url": "https://www.abc.net.au/news/2026-11-23/storms-south-western-queensland-heatwave-far-north/107414108",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-        }
-      ]
-    },
-    {
-      "keyword": "voo",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-23T14:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4RXt0CrNR4ZSyT4KO6x1fD79la1e3tSJ2h7BDnfBWdGTj1Ncx75ZRfjx7cas",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Da aviação nos EUA à Justiça brasileira, apagões digitais expõem dependências invisíveis",
-          "url": "https://ihu.unisinos.br/categorias/673454-da-aviacao-nos-eua-a-justica-brasileira-apagoes-digitais-expoem-dependencias-invisiveis",
-          "source": "Instituto Humanitas Unisinos - IHU"
-        },
-        {
-          "title": "A revolta das máquinas pode acontecer de maneira diferente daquela que o cinema mostrou",
-          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/a-revolta-das-maquinas-pode-acontecer-de-maneira-diferente-daquela-que-o-cinema-mostrou/",
-          "source": "Estadão"
-        },
-        {
-          "title": "★ Seu voo também depende de software",
-          "url": "https://macmagazine.com.br/post/2026/11/23/seu-voo-tambem-depende-de-software/",
-          "source": "MacMagazine"
         }
       ]
     }
