@@ -1,9 +1,13 @@
 {
-  "updatedAt": "2026-11-24T13:06:51.473Z",
+  "updatedAt": "2026-11-24T14:53:10.933Z",
   "summary": [
     {
       "category": "기타",
-      "count": 8
+      "count": 6
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "연예",
@@ -15,6 +19,81 @@
     }
   ],
   "items": [
+    {
+      "keyword": "대전 하나 시티즌 대 베이징 궈안 순위",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-24T12:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgpqNgoawB3vp5-193oxb7EbKiV8Xa9zEnoI-_qooZ-v3P-960R53TUE5tkdw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "17분 만에 3골 몰아친 화력쇼! 대전, 中 베이징 3-2 잡고 ACLE '연패 탈출'... 포항은 日 교토에 패배(종합) - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/2026112422205886486",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'전반에만 3골 폭발' 대전, 안방에서 中 베이징 3-2 격파! ACLE 연패 탈출...16강 진출 희망 살렸다",
+          "url": "https://www.chosun.com/sports/football/2026/11/24/GQYWCNBTGZSGCOBQGM2DOZJVMU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'마사 결승골' 대전, ACLE서 베이징 3-2 제압…포항은 교토에 패배",
+          "url": "https://www.news1.kr/sports/soccer/6364852",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "최재훈",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T11:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg_tchSORmVG1nGcF31JTsMOQ8a4oHLBSUSc-7Se-IupuzqIzj3jB_9zv8Trk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
+          "url": "https://www.viva100.com/article/20261124500737",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "[동정] 최재훈 달성군수",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
+          "source": "아시아뉴스통신"
+        },
+        {
+          "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111909571992819",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "陈吉宁",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T11:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBcbTuNB6xQiPHaQwq7snDfKYn0uvYIGppBM-dO8Nrnpp8Mt5ZEeTuVF49in8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "被认为是中国国家主席习近平接班人候选人的上海市委书记陈吉宁因涉嫌\"严重违纪违法\"正在接受反腐败调查。",
+          "url": "https://www.mk.co.kr/cn/world/12217544",
+          "source": "매일경제"
+        },
+        {
+          "title": "快訊:上海市委書記陳吉寧被調查",
+          "url": "https://www.ntdtv.com/gb/2026/11/24/a104153275.html",
+          "source": "新唐人電視台"
+        },
+        {
+          "title": "陈吉宁被调查：“清华系”失势、“上海跳板”失灵与政治局委员落马创纪录",
+          "url": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/simp",
+          "source": "BBC"
+        }
+      ]
+    },
     {
       "keyword": "의식불명",
       "traffic": "1000+",
@@ -41,211 +120,152 @@
       ]
     },
     {
-      "keyword": "陈吉宁",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiHdJohUNQR0COKz_pFpqRdqa-l7Opa6r1BPMPr7fsEofa-XbAdpy5O4u1NUs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "官宣上海市委书记陈吉宁涉嫌严重违纪违法 正接受审查调查",
-          "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261124-%E5%AE%98%E5%AE%A3%E9%99%88%E5%90%89%E5%AE%81%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95-%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%AE%A1%E6%9F%A5%E8%B0%83%E6%9F%A5",
-          "source": "RFI"
-        },
-        {
-          "title": "陈吉宁落马 大纪元曾曝：五中全会后被叫走",
-          "url": "https://www.epochtimes.com/gb/26/11/24/n14894460.htm",
-          "source": "大紀元"
-        },
-        {
-          "title": "震惊！上海市委书记陈吉宁落马 - 国际 - 即时国际",
-          "url": "https://www.sinchew.com.my/news/20261124/international/8114340",
-          "source": "Sin Chew Daily"
-        }
-      ]
-    },
-    {
-      "keyword": "부천시",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T10:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRji2ddFEJA4y7zCMH_DBAdTfyxuaZ2TR0mOuAQtwWG8dF4J9_seIQiqdj-yRY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "월초 ‘충전 쏠림’ 없앤다…부천페이, 내년 1월 ‘결제 시 환급’ 개편",
-          "url": "https://www.kyeonggi.com/article/20261124580348",
-          "source": "경기일보"
-        },
-        {
-          "title": "부천 지역화폐 캐시백, 내년부터 충전 아닌 결제 때 지급",
-          "url": "https://www.yna.co.kr/view/AKR20261124054900065",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "매달 초 ‘충전 경쟁’ 사라질까…부천시, ‘부천페이’ 인센티브 지급 방식 바꾼다",
-          "url": "https://www.hani.co.kr/arti/area/chungcheong/1288914.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "acc emerging teams asia cup",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T10:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN9yhRlCL7MVOFjboe4JK161j4VcD7YmxMzy2ZcofYMWFyXPoMHRFKSChX-sY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "28 Balls Of Pure Carnage: 15-Year-Old Vaibhav Sooryavanshi Shatters World Record Against UAE",
-          "url": "https://www.sportscapemagazine.com/blog/28-balls-of-pure-carnage-15-year-old-vaibhav-sooryavanshi-shatters-world-record-against-uae",
-          "source": "Sportscape Magazine"
-        },
-        {
-          "title": "India A Crush UAE in Record 14.2 Over Chase in Doha",
-          "url": "https://cwibc.co.id/en/india-a-crush-uae-record-chase",
-          "source": "cwibc.co.id"
-        },
-        {
-          "title": "Fastest centuries in List A cricket: Vaibhav Sooryavanshi breaks world record",
-          "url": "https://sports.yahoo.com/articles/fastest-centuries-list-cricket-vaibhav-111526669.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "히잡",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T10:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVbv3vqs8T6753ZmQZzdbvYjv3aIkDjEwSCK6Uv9pd6qLdqlGlfiaZKqsQ5w0",
-      "category": "연예",
-      "news": [
-        {
-          "title": "女가수 히잡 없이 노래했다고... 이란, 태형 74대 집행",
-          "url": "https://www.chosun.com/international/international_general/2026/11/24/QMYPD6IS55A5ND6CN6FHJPOMHE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "이란, 히잡 없이 공연한 여성 가수에 태형 74대",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6868199_36925.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "민소매 드레스에 긴머리로 노래했다고…20대 女가수에 태형 74대 집행 '이 나라'",
-          "url": "https://www.etnews.com/20261124000338",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
       "keyword": "비",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-24T12:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRLdNSsRkGOIoqNjga1O9JdxM7GIe97iuMccXKZwlidvoksRIYhUOHEazK18g",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyLCwXTA0LR53O7KUMHsbwyKzn7UgjCTJumrjxwBYkAwIOfjNZ4qamBagas7E",
       "category": "기타",
       "news": [
         {
-          "title": "틈만나면, : [67회 선공개] “부탁 좀 드릴게요 형” 비, 체력 조절이 중요해진 새로운 틈 미션에 당황",
-          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484383944",
+          "title": "틈만나면, 67회 다시보기 : 브런치와 바이크를 넘나드는 찐친들! 비X김재욱의 신촌 틈새 공략!",
+          "url": "https://programs.sbs.co.kr/enter/teum/vod/82255/22000640176",
           "source": "programs.sbs.co.kr"
         },
         {
-          "title": "'틈만나면,' 김재욱, 신들린 피크 컨트롤…비 \"네가 화제성 1위\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112417307268028",
-          "source": "머니투데이"
+          "title": "틈만나면, : 비×유연석, 김재욱의 자리 이동 제안에 즉각 움직이며 틈 미션 도전",
+          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484401985",
+          "source": "programs.sbs.co.kr"
         },
         {
-          "title": "'김태희♥' 비, 뜻밖의 '지방간' 고백…알고보니 고칼로리 음식 러버 (틈만나면)",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/11/24/MM4TENTEMY3GCZTEMQ4WKOBUGE/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "최재훈",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg_tchSORmVG1nGcF31JTsMOQ8a4oHLBSUSc-7Se-IupuzqIzj3jB_9zv8Trk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
-          "url": "https://www.viva100.com/article/20261124500737",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "[동정] 최재훈 달성군수",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
-          "source": "아시아뉴스통신"
-        },
-        {
-          "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111909571992819",
+          "title": "'틈만나면,' 비, 체지방률 0%의 반전 식성…\"죽기 전 치즈버거 먹고파\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112408057243137",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "무안국제공항",
+      "keyword": "주우재",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4pjG6uEjq5YkkR9BPelH5AYsd327VwMggvLqJEJ3wnphA7VeFCUhnWnaH5l8",
-      "category": "기타",
+      "startedAt": "2026-11-24T13:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkZw4r2gq9S1-5a652xrL26iMtPZuPD3N_Dy3DM0L90kAXftORVyiO4vbETk",
+      "category": "연예",
       "news": [
         {
-          "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870",
-          "source": "KBS 뉴스"
+          "title": "올해 연말 최우수상 기대 중인 허경환, 견제 대상이 있다? | KBS 261124 방송",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC2&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
+          "source": "대한민국 대표 공영미디어 KBS"
         },
         {
-          "title": "\"광주공항, 내년말 무안공항으로 통합 이전\"",
-          "url": "https://www.hankyung.com/article/2026112349231",
-          "source": "한국경제"
-        },
-        {
-          "title": "광주군공항 무안 확정 내년으로…주민공청회 법적시한 지나",
-          "url": "https://www.newsis.com/view/NISX20261123_0003878920",
+          "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
+          "url": "https://www.newsis.com/view/NISX20261124_0003880179",
           "source": "뉴시스"
+        },
+        {
+          "title": "주우재 \"허경환에 2억까지 빌려줄 수 있다\" 특급 의리(옥문아)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GQ3DMOLGMU4DMNRSG4YDOYZTME/",
+          "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "afc 챔스",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T11:00:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
+      "keyword": "꽁안 하노이 fc 대 비셀 고베",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T12:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnYqhILpc94VJdkVkwUuuhLsOEB0N2TSVNbC_b9kd4bSnaq8-hcWRXfsF1whg",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "LIVE CAHN 0-0 Vissel Kobe AFC Champions League (First Half): An exciting attacking game.",
+          "url": "https://www.vietnam.vn/en/truc-tiep-cahn-0-0-vissel-kobe-cup-c1-chau-a-hiep-1-doi-cong-hap-dan",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
+          "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
+          "source": "The AFC"
+        },
+        {
+          "title": "Live coverage of Hanoi Police vs Vissel Kobe: Hanoi Police miss a penalty.",
+          "url": "https://baonghean.vn/en/truc-tiep-cong-an-ha-noi-vs-vissel-kobe-cong-an-ha-noi-bo-lo-phat-den-10356518.html",
+          "source": "Báo Nghệ An"
+        }
+      ]
     },
     {
-      "keyword": "전광훈",
+      "keyword": "치안감",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T12:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtz5AVv9gCY98wboW2TMaQ0fsMbeDtWrnjf9ZyjAO8R6tSvU5nYhh7Kw50IQc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "‘경찰 2인자’ 치안정감에 김병기-송영호…치안감 4명도 승진",
+          "url": "https://www.donga.com/news/Society/article/all/20261124/135080013/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "함영욱 경기남부청 광역수사단장, 치안감 승진 내정",
+          "url": "https://www.kyeongin.com/article/1775292",
+          "source": "경인일보"
+        },
+        {
+          "title": "[프로필] 송영호 치안정감 내정자…비상계엄 특별수사 총괄 경력",
+          "url": "https://www.news1.kr/society/incident-accident/6364019",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "무궁화호",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T11:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSlicT0lZ5Dxp5do-mhU_6jNNlgtxT2ePpjFjYXW5VMARs-TfVzyMgxK5nj0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "코레일, 새 단장한 무궁화호 첫 운행…2028년까지 객차 280칸 개량",
+          "url": "https://www.donga.com/news/Economy/article/all/20261124/135084379/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "새로 리모델링한 무궁화호 운행 시작…주행장치 개량, 화장실도 정비",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026112420515281681",
+          "source": "부산일보"
+        },
+        {
+          "title": "\"퇴물에서 신차급으로\" 680억 들여 환골탈태한 무궁화호 [PHOTO]",
+          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18289",
+          "source": "철도경제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "화재",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-24T10:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEC-EaU4h8WeCXGBD1UhtXblWVbUtUg_uuntUo5HZoE693SNmq8DDah6qFpUw",
+      "startedAt": "2026-11-24T12:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_otL7b7ERbkX2Avcboz_J6Ac85sELZ3_X9PePapdKoyxb8aLJDGgQx5Mar5s",
       "category": "정치·사회",
       "news": [
         {
-          "title": "경찰, '불법 정치자금 의혹' 전광훈 구속영장 신청",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6868056_36918.html",
-          "source": "MBC 뉴스"
+          "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721247",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "\"교회 돈 102억 자유통일당에\"…전광훈 목사 내일 공소청 면담(종합)",
-          "url": "https://www.yna.co.kr/view/AKR20261124069851004",
-          "source": "연합뉴스"
+          "title": "주택 화재로 80대 어머니와 두 아들 숨져...합동감식",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611241156560345_005.html",
+          "source": "YTN"
         },
         {
-          "title": "경찰, ‘정치자금법 위반’ 전광훈 목사 구속영장 신청",
-          "url": "https://www.khan.co.kr/article/202611241047001",
-          "source": "경향신문"
+          "title": "부산 사하구 단독주택서 불…3명 사망",
+          "url": "https://www.newsis.com/view/NISX20261124_0003880119",
+          "source": "뉴시스"
         }
       ]
     }
