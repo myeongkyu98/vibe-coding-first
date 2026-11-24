@@ -1,255 +1,263 @@
 {
-  "updatedAt": "2026-11-24T00:56:53.788Z",
+  "updatedAt": "2026-11-24T02:12:26.887Z",
   "summary": [
     {
+      "category": "스포츠",
+      "count": 3
+    },
+    {
       "category": "기타",
-      "count": 6
+      "count": 3
+    },
+    {
+      "category": "IT·과학",
+      "count": 1
     },
     {
       "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "스포츠",
       "count": 1
     },
     {
       "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김호령",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-23T22:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGuUVzUBqrxWmjsFBdAnV3G038YM0oXH9-tsLaAxDs4d-flJOJs_Y7b_X-g34",
-      "category": "기타",
-      "news": [
-        {
-          "title": "FA 중견수 중 유일 C등급…김호령, '대박' 터트릴까",
-          "url": "https://www.newsis.com/view/NISX20261123_0003879215",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"오퍼 제시했다\" KIA 차분히 답 기다린다, 내부 FA 단속 기조 달라지지 않았다",
-          "url": "https://www.sportschosun.com/baseball/2026-11-24/202611240100144870013467",
-          "source": "스포츠조선"
-        },
-        {
-          "title": "“중견수만 7명 돌려 썼다고?” NC, KIA 김호령에게 3년 30억 베팅해야 하는 이유",
-          "url": "https://v.daum.net/v/0dJuMSkLbT?vfrom_area=channel_ranking",
-          "source": "Daum"
-        }
-      ]
-    },
-    {
-      "keyword": "경계경보",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-23T22:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2lr-MvUyKAmbtjFse0Jsdn_fzQ71HQnIq4oyqMA7a4mZTBXas6A5CY8BFcNY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "7시 56분, 민방공 경보 해제…울릉군",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720769",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "군 \"러시아 군용기 여러 대, 동해 카디즈 진입...영공침범 없어\"",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611240840571849_005.html",
-          "source": "YTN"
-        },
-        {
-          "title": "[속보] 합참 \"러시아 군용기 동해 KADIZ 진입\"",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124083952dwQ",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "축구",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-23T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0YmGxwiKxEJq_LIJKQQBs11LzKL5Uqu0hDS4qhQQt4trqatO8qkzIeMeWjNw",
+      "keyword": "세인트루이스 시티 sc 대 엘에이 fc",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-24T00:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhuI2QDWeXT4ULhneWFBctp3562kvu7TLN78gXaC6GfyZyGy5prJX2Ra4Kv_s",
       "category": "스포츠",
       "news": [
         {
-          "title": "한국 U-17 축구, 뉴칼레도니아 6-0 완파하고 월드컵 32강행 확정",
-          "url": "https://www.yna.co.kr/view/AKR20261123130400007",
-          "source": "연합뉴스"
+          "title": "Washington vs. BYU (Nov 23, 2026) Live Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921708",
+          "source": "ESPN"
         },
         {
-          "title": "'형보다 나은 아우'…김현준호 U-17 월드컵 '2경기 9골' 폭발",
-          "url": "https://www.newsis.com/view/NISX20261123_0003879423",
-          "source": "뉴시스"
+          "title": "Stephen F. Austin vs. Utah Valley (Nov 23, 2026) Live Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921208/sf-austin-utah-valley",
+          "source": "ESPN"
         },
         {
-          "title": "’김지우 해트트릭’ U-17 축구, 월드컵 32강 조기 확정",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026112314400374z",
-          "source": "연합뉴스TV"
+          "title": "BYU 83-77 Washington (Nov 23, 2026) Final Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921708",
+          "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "김범수",
+      "keyword": "삼성전자 임원인사",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-23T23:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHvs7EsZaeE6yQagkuX7DYgDM4Bdb5LRuto4aJjTOjtz9jeSTmDX0q7XVhJk",
+      "startedAt": "2026-11-24T00:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4ybf4RwSQ-2hNfeigalFL_1U2McMm6iz5_-elmSN6_IxfSYUQPtwK_ivfO9w",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%9E%A5%EB%8B%A8-%EC%9D%B8%EC%82%AC-2",
+          "source": "samsung.com"
+        },
+        {
+          "title": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'갤럭시 사령탑 7년' 내려놓은 노태문…\"부품값 폭등 위기도 뚫은 저력\"",
+          "url": "https://www.newsis.com/view/NISX20261124_0003880254",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "청약홈",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T00:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpDGmRr2h7A58qaQzPrp3hdhXG6uX7i0oyHsUWeaxh7Qe10bkOqL-zS3pLsxk",
       "category": "경제",
       "news": [
         {
-          "title": "[카카오 리부트]〈하〉혁신 DNA 되살려야…재도약 3대 과제",
-          "url": "https://www.etnews.com/20261123000335",
-          "source": "전자신문"
-        },
-        {
-          "title": "3년 사법 리스크 부담 던 카카오…AI 투자 드라이브 기대감 - 머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/11/23/2026112213112098676",
-          "source": "머니투데이"
-        },
-        {
-          "title": "[강남視角] 정의에도 유통기한이 있다",
-          "url": "https://www.fnnews.com/news/202611221844441812",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "아버지",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-23T23:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRplv2wZRYleTTeK_UA-ukVXpkcHpo-xrDIrVEH0CVDXkPV1aPTOX-Wo0vnfb0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "남해읍 공동육아나눔터, 품앗이 가족 가을 나들이",
-          "url": "https://www.hksisaeconomy.com/news/article.html?no=1301400",
-          "source": "한국시사경제"
-        },
-        {
-          "title": "남해군가족센터, 아버지 돌봄 참여 확대 프로그램 운영",
-          "url": "http://www.gginews.co.kr/2673293",
-          "source": "경기인터넷신문"
-        },
-        {
-          "title": "남해군가족센터, 아버지 돌봄 참여 확대 프로그램 운영",
-          "url": "https://www.gndnews1.com/news/article.html?no=1283902",
-          "source": "경남도민뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "1기 신도시",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-23T23:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT42dCukYEB_CRGpo5lyQGhLQoBAek2Oeb4VnDu_ebOJl5wGOHN9kGFJcxAmJI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "재건축 시장에 5조 폭탄이 떨어졌습니다",
-          "url": "https://story.pay.naver.com/content/4002_4_C10",
-          "source": "네이버페이 머니스토리"
-        },
-        {
-          "title": "\"36억 낮춰 팔렸다\"…콧대 높던 압구정 초고가 가격 뚝",
-          "url": "https://www.newsis.com/view/NISX20261122_0003878086",
+          "title": "종로 '경희궁 에피트'·영등포 '해링턴 문래' 등 이번주 6295가구 청약",
+          "url": "https://www.newsis.com/view/NISX20261122_0003877941",
           "source": "뉴시스"
         },
         {
-          "title": "서울 재초환 52개 단지…1인당 평균 1억1천만원 부담",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261123053001h8p",
-          "source": "연합뉴스TV"
+          "title": "잠실 ‘20억’ 로또 청약 등장…영등포·종로서도 분양",
+          "url": "https://www.mk.co.kr/news/realestate/12215476",
+          "source": "매일경제"
+        },
+        {
+          "title": "[분양 캘린더] 11월 넷째 주 6295가구 청약 접수",
+          "url": "https://www.asiatime.co.kr/article/20261122500011",
+          "source": "아시아타임즈"
         }
       ]
     },
     {
-      "keyword": "대한민국 농림축산식품부 장관",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-23T23:20:00.000Z",
+      "keyword": "필라데피아 대 포틀랜드",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T00:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_IChrOzrdHGZZKoQ1ak8KpntCS33Pl9geaoDLWE_6M2eI5Z4P14C-chJaFo",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Live updates: Sixers down nine to Trail Blazers entering fourth quarter",
+          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-trail-blazers-updates-joel-embiid-lebron-james-tyrese-maxey/769045/",
+          "source": "NBC Sports Philadelphia"
+        },
+        {
+          "title": "Discuss All the Shining Stars as the Trail Blazers Face the 76ers!",
+          "url": "https://www.blazersedge.com/gameday-threads-2/118817/discussion-portland-trail-blazers-philadelphia-76ers-time-tv-streaming-injury-report",
+          "source": "Blazer's Edge"
+        },
+        {
+          "title": "Sixers aim to extend win streak to six vs. Trail Blazers",
+          "url": "https://www.libertyballers.com/76ers-game-previews/102589/sixers-win-streak-trail-blazers-jaylen-brown-lebron-james-joel-embiid-tyrese-maxey-damian-lillard",
+          "source": "Liberty Ballers"
+        }
+      ]
+    },
+    {
+      "keyword": "남도일보",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T00:40:00.000Z",
       "picture": "",
-      "category": "정치·사회",
+      "category": "기타",
       "news": []
     },
     {
-      "keyword": "미래에셋증권",
+      "keyword": "세종의사당",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-23T23:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzP4Qxrg3bqDyowTafYnD5l77M3kNmysYHcHvCB1v7q-utoKcNU-M8O5VtAg",
-      "category": "경제",
+      "startedAt": "2026-11-24T00:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4HATL_ScecHtWLjFNUMw0UGkL-gohlHqeaTurwmhsZduBJ7vxFSjrYm0keJU",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
-          "url": "https://www.yna.co.kr/view/AKR20261123163400008",
-          "source": "연합뉴스"
+          "title": "\"국회, 세종으로 완전 이전\" 황운하 의원 국회법 발의",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611231654541VU",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "미래에셋證 IB 사령탑 ‘투톱 체제’…강성범 사장 퇴진 [시그널]",
-          "url": "https://www.sedaily.com/article/20117896",
-          "source": "서울경제"
+          "title": "황운하 '국회의사당 세종 완전 이전 국회법' 개정안 발의",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6363107",
+          "source": "뉴스1"
         },
         {
-          "title": "미래에셋증권, IB 적자 속 '총괄 조직 해체'…IPO는 오히려 확대",
-          "url": "https://www.ppss.kr/news/articleView.html?idxno=322521",
-          "source": "https://www.ppss.kr/"
+          "title": "황운하, 국회 세종 완전이전 위한 국회법 개정안 발의",
+          "url": "https://www.dtnews24.com/news/articleView.html?idxno=817492",
+          "source": "디트NEWS24"
         }
       ]
     },
     {
-      "keyword": "마라톤",
+      "keyword": "화성시",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-23T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXh2IC_q4QDhTXwgobTRHlkBECLBoMHWs4BoKJlQrpTHWgKuMS3quCLyn-TNA",
+      "startedAt": "2026-11-24T00:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThuKM7xYknsW1O8ii_niD7RiuAxah6yYKuKqQWPZiLoq-aYGLhUd1OnVP0bkI",
       "category": "기타",
       "news": [
         {
-          "title": "10㎞ 완주한 19세 사망···20대 이어 또 발생한 ‘마라톤 돌연사’, 막을 방법은 없나",
-          "url": "https://www.khan.co.kr/article/202611230917001",
-          "source": "경향신문"
+          "title": "화성시, 송산그린시티 국가산단 9필지 우선분양 추천기업 공모",
+          "url": "https://view.asiae.co.kr/article/2026112407205949677",
+          "source": "아시아경제"
         },
         {
-          "title": "목포 마라톤대회 10대 참가자 완주 후 쓰러져 숨져",
-          "url": "https://www.yna.co.kr/view/AKR20261123114900054",
-          "source": "연합뉴스"
+          "title": "화성시, 송산그린시티 국가산단 산업시설용지 우선 분양",
+          "url": "https://www.inews24.com/view/2029529",
+          "source": "아이뉴스24"
         },
         {
-          "title": "목포서 마라톤 완주한 직후 쓰러진 대학생 숨져",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720060",
-          "source": "KBS 뉴스"
+          "title": "정명근 화성시장 “송산그린시티에 우수기업 유치”…산업용지 9필지 공모",
+          "url": "https://www.beyondpost.co.kr/view.php?ud=20261124074723304c878f8fa1_30",
+          "source": "비욘드포스트"
         }
       ]
     },
     {
-      "keyword": "tsla",
+      "keyword": "국가장학금 신청",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T00:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXVqbgDhCOlHDrmLrSatMBISdefvU3vktHy0M2dJhkDsYifT7xNo_U-28Geog",
+      "category": "기타",
+      "news": [
+        {
+          "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
+          "url": "https://www.yna.co.kr/view/AKR20261123047100530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "2027 국가장학금 11월 24일 신청 시작｜대학 합격 전 고3도 가능할까? 소득구간 5단계 개편·최대 등록금 전액·신청방법 총정리",
+          "url": "https://contents.premium.naver.com/firstnews/9firstnews9/contents/261122124750066ml",
+          "source": "네이버 프리미엄콘텐츠"
+        },
+        {
+          "title": "국가장학금 1차 24일부터 신청…내년 지방 국립대 등록금 전액 지원",
+          "url": "https://www.news1.kr/society/education/6362413",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "우지원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T00:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrieYqkD7olPgo5Lof--w-tU3vpvpt_K-lXjD80ZRSvNm13S6PMtCH1hV6BlI",
+      "category": "연예",
+      "news": [
+        {
+          "title": "우지원·우서윤, ‘아침마당’ 생방송 중 볼뽀뽀…미스코리아 진 축하",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627249",
+          "source": "메디컬투데이"
+        },
+        {
+          "title": "`미코 진` 우서윤 \"우지원, 나보다 화장품이 더 많다\" 폭로 [아침마당]",
+          "url": "https://www.mydaily.co.kr/page/view/2026112410494097248",
+          "source": "마이데일리"
+        },
+        {
+          "title": "'아침마당' 미스코리아 진 우서윤, 남다른 피지컬 \"우지원 첫째딸\"",
+          "url": "https://www.joynews24.com/view/2029536",
+          "source": "조이뉴스24"
+        }
+      ]
+    },
+    {
+      "keyword": "신인감독 김연경 2",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-23T23:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIP63PyOK1O0oqF5faxa6_LZJPzBhSnHo4sO-CjnVQiNBxqWbXxc3P1Nssr7M",
-      "category": "기타",
+      "startedAt": "2026-11-24T01:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcDjIJLvMrfh22SUBpYovkbv-6MXHChnSuOAVdWfvHFidh7tGXXZrMvgNZ5oc",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Tesla’s Latest Edition of Its Driver-Assistance Software Now Looks Like a Video Game",
-          "url": "https://www.caranddriver.com/news/a74510768/tesla-driver-assistance-software-video-game/",
-          "source": "Car and Driver"
+          "title": "MBC '신인감독 김연경2', 6주 연속 TV비드라마 화제성 1위",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525785",
+          "source": "iMBC 연예"
         },
         {
-          "title": "Tesla’s FSD v15 An ‘Illustration’ Of Head Start In Consumer Autonomy, Says JPMorgan – TSLA Stock Eyes Best Day In Over 19 Months",
-          "url": "https://finance.yahoo.com/technology/ai/articles/tesla-fsd-v15-illustration-head-173217997.html",
-          "source": "Yahoo Finance"
+          "title": "원더독스 베트남 원정, 195cm 장신·무더위 변수",
+          "url": "https://www.jejutwn.com/news/article.html?no=464833",
+          "source": "제주교통복지신문"
         },
         {
-          "title": "Japan's Turing Prototypes Tesla-Style \"Reality View\" Footage in 7 Hours After Seeing Feature",
-          "url": "https://finance.biggo.com/news/2683324e-57ed-4be2-8551-0c26d31c5327",
-          "source": "BigGo Finance"
+          "title": "\"키 195cm 장신 공격수·무더위 변수\"… '신인감독 김연경2' 흔들리는 선수들",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759553",
+          "source": "국제뉴스"
         }
       ]
     }
