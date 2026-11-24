@@ -1,154 +1,208 @@
 {
-  "updatedAt": "2026-11-24T20:47:56.676Z",
+  "updatedAt": "2026-11-24T21:52:05.534Z",
   "summary": [
-    {
-      "category": "기타",
-      "count": 5
-    },
     {
       "category": "스포츠",
       "count": 3
     },
     {
+      "category": "기타",
+      "count": 3
+    },
+    {
       "category": "경제",
-      "count": 1
+      "count": 2
     },
     {
       "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "레알 마드리드 대 에인트호번",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-24T19:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRopWLiBmi6bgvUEjVQIhE-SDaQ_Li_94wVMgJUKWjBn5dXh3I3kLbD6ObMDRA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "레알 마드리드 vs PSV 아인트호벤 예측: 선두 자리를 노릴 기회",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-psv-eindhoven-co-hoi-bam-duoi-ngoi-dau",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "챔피언스 리그 5차전 경기 일정: 무리뉴 감독이 조 1위에 오를 수 있을까?",
-          "url": "https://www.vietnam.vn/ko/lich-thi-dau-luot-5-champions-league-hlv-mourinho-chiem-ngoi-dau",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "11월 25일 오전 3시에 열리는 레알 마드리드 대 PSV 아인트호벤 챔피언스 리그 경기 생중계 링크입니다.",
-          "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-real-madrid-vs-psv-eindhoven-3h00-ngay-25-11-champions-league",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "중앙일보",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-24T18:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCyRvUZnFNyiy_g5JB6lKgsX4onv7i21jzs0S0JyNPHPjAInJtBmqBHdq3yiE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "중앙일보 품는 다우키움…커진 존재감, 매서워진 시장 감시",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280036.html",
-          "source": "인베스트조선"
-        },
-        {
-          "title": "5200억으로 빚 다 갚는다… 채권단, 중앙일보 ‘매각형 워크아웃 졸업’ 승인",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/11/24/WLESJOLK5FCA3P62DUOV7E5HHE/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "중앙일보 사는 다우기술…회사채로 최대 2000억 장전 : 네이버 블로그",
-          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224490259252&redirect=Dlog",
-          "source": "Naver Blog"
-        }
-      ]
-    },
-    {
-      "keyword": "아스널 대 도르트문트",
+      "keyword": "배당",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-24T19:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIj88LLGvg9CoM4vxbg83WszHA04MtHjiACzESpzGWqXRCTLf-1HcCrERig9E",
-      "category": "기타",
+      "startedAt": "2026-11-24T20:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBI2dR5Gz_7oKeiDaW_GEXS5sQxbRDYznIkogLpQE8lUhUuDo6SyeULf-L1A8",
+      "category": "경제",
       "news": [
         {
-          "title": "'2026-27시즌 UCL 파워랭킹 TOP 10' … 이강인 10위·김민재 5위, '3연패' 도전 PSG 1위",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450098.html",
-          "source": "뉴데일리"
+          "title": "한국투자저축, 지주에 1800억 배당…투자 위축에 '자생력' 흔들리나",
+          "url": "https://v.daum.net/v/8ynXX4UZsc",
+          "source": "Daum"
         },
         {
-          "title": "무패 아스널, 위기의 맨시티… UCL 5라운드 새벽 빅매치 프리뷰",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195217",
-          "source": "금강일보"
+          "title": "[그래픽] 금융지주 계열 저축은행 순이익",
+          "url": "https://www.ceoscoredaily.com/page/view/2026112310440920985",
+          "source": "CEO스코어데일리"
         },
         {
-          "title": "UCL 5차전, 아스날-도르트문트·맨시티-나폴리 격돌",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=784269",
-          "source": "싱글리스트"
+          "title": "[진단_저축은행 ⑨다올저축은행] 순이익 반등에도 수익성 회복은 미완... PF 부실·신용등급 하락 부담 여전",
+          "url": "https://insite.newsworker.co.kr/news/articleView.html?idxno=401976",
+          "source": "뉴스워커 인사이트"
         }
       ]
     },
     {
-      "keyword": "한국농어민신문",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T19:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe0JDDUuqZq4At17tWb_krCqKMQAlkUZq0Yr85fJc9ldddmOPx5fFrAMCuVQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "한국임업인단체총연합회, ‘임업직불금’ 증액 촉구",
-          "url": "https://www.sedaily.com/article/20117834",
-          "source": "서울경제"
-        },
-        {
-          "title": "쌀값 안정세를 공익직불제 개혁의 기회로",
-          "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=409164",
-          "source": "한국농어민신문"
-        },
-        {
-          "title": "농촌의 현실을 품고, 공익직불의 가치를 지키다",
-          "url": "http://jeonmin.co.kr/news/articleView.html?idxno=451027",
-          "source": "전민일보"
-        }
-      ]
-    },
-    {
-      "keyword": "al-nassr vs al sadd",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T19:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98gGQh-Btqc4qllJSO7Ty-fyNuvR0HSlAYPP7DzXgpplUoZUav6eT8Nz2mRM",
+      "keyword": "real madrid vs psv",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T20:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvK__moXJ9DfHWqIDrcPIAoUh_LrhpgHJTGK4bg44xDT2G14RLI8VdFvk9B_Q",
       "category": "스포츠",
       "news": [
         {
-          "title": "Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from four games",
-          "url": "https://www.sportsadda.asia/football/news-football/ronaldo-needs-one-goal-to-pass-hamdallah-and-al-nassr-host-an-al-sadd-side-with-two-points-from-four-games/",
-          "source": "SportsAdda"
+          "title": "CONFIRMED lineups: Real Madrid vs PSV Eindhoven, 2026 Champions League",
+          "url": "https://www.managingmadrid.com/115760/real-madrid-vs-psv-eindhoven-2026-champions-league-live-online-stream",
+          "source": "Managing Madrid"
         },
         {
-          "title": "Licensable picture: AFC Champions League Elite - Al Nassr v Al Sadd",
-          "url": "https://www.reutersconnect.com/item/afc-champions-league-elite-al-nassr-v-al-sadd/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk8xRzJFUjY",
+          "title": "Licensable picture: REAL MADRID C.F. Vs. PSV EINDHOVEN 11.24.26",
+          "url": "https://www.reutersconnect.com/item/real-madrid-cf-vs-psv-eindhoven-112426/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDA2WU01RzA",
           "source": "Reuters Connect"
         },
         {
-          "title": "Video: Ronaldo-style! Has Joao Felix booked the Puskas Award?",
-          "url": "https://www.goal.com/en-za/news/video-ronaldo-style-has-joao-felix-booked-the-puskas-award/blt32b56e52f423be22",
-          "source": "Goal.com"
+          "title": "‘Almost’—Jose Mourinho Sounds Alarms With Jude Bellingham Injury Admission",
+          "url": "https://forzafootball.com/it/news/almost-jose-mourinho-sounds-alarms-with-jude-bellingham-injury-admission-159488760",
+          "source": "Forza Football"
         }
       ]
     },
     {
-      "keyword": "정치",
+      "keyword": "로스앤젤레스 다저스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T20:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFjR7I_aYXMZ18eWHJT_7DKeHumBu2kaXHMo_z_27bVL7m54DY1jxpc35H-s",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Might LA deal Teo to give De Paula a longer look in '27?",
+          "url": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez",
+          "source": "MLB.com"
+        },
+        {
+          "title": "Dodgers Trade Pitch Lands Royals Pitcher in Teoscar Hernandez Blockbuster",
+          "url": "https://sports.yahoo.com/articles/dodgers-trade-pitch-lands-royals-205147750.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Dodgers notes: Teoscar Hernández, Shohei Ohtani, Royce Lewis",
+          "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/128134/dodgers-teoscar-hernandez-shohei-ohtani-royce-lewis",
+          "source": "True Blue LA"
+        }
+      ]
+    },
+    {
+      "keyword": "arsenal vs dortmund",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T18:50:00.000Z",
+      "startedAt": "2026-11-24T20:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOsXWgxSnvDmSAuA0Iv_ehluW-peGk-lp8cHcLkJt1_Qr_8INOaiibP5qPEy8",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Team news: Gyokeres starts against Dortmund",
+          "url": "https://www.arsenal.com/news/team-news-gyokeres-starts-against-dortmund-aaNmK8K8cy91",
+          "source": "Arsenal.com"
+        },
+        {
+          "title": "Party atmosphere at London's BVB embassy: Don't Stop Believin'",
+          "url": "https://sports.yahoo.com/articles/party-atmosphere-londons-bvb-embassy-175600260.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "XI Score Shocker: Why Borussia Dortmund Can Pull Off an Upset at the Emirates",
+          "url": "https://www.365scores.com/news/xi-score-shocker-why-borussia-dortmund-can-pull-off-an-upset-at-the-emirates",
+          "source": "365Scores"
+        }
+      ]
+    },
+    {
+      "keyword": "정철원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T20:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIFGsCVkMi7InP_z-dirkKBWB-cx8E1tgGaLjuGg_zZZQ6xTZIM3RI5-2vKaA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "키움 히어로즈 임지열 받고 정철원 내준 롯데…외야 보강 첫 단추",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261123.22018006747",
+          "source": "국제신문"
+        },
+        {
+          "title": "신인왕 내준 롯데·주장 보낸 키움…트레이드 속사정은",
+          "url": "https://www.yna.co.kr/view/AKR20261120159200007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "정철원 떠난 롯데 불펜, 영건 군단 있으매…전미르-이준서 등 기대주 활약 예감",
+          "url": "https://sports.donga.com/sports/article/all/20261124/135082330/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "건설",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T20:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKCw0oMyDgX0eYd7_nX2-eay0NKcsDFo8ZpFHGuWzoXwDfq3YAjA34veL_vw",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[알립니다]AI, 건설산업 안전의 대전환",
+          "url": "https://www.donga.com/news/People/article/all/20261123/135076422/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "AI·로봇이 바꾸는 건설현장…25일부터 스마트건설 엑스포",
+          "url": "https://www.yna.co.kr/view/AKR20261123133500003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "레디로버스트머신, 글로벌 시장 확대 전략 전개…한·중 전시회 동시 참가",
+          "url": "https://www.etnews.com/20261123000285",
+          "source": "전자신문"
+        }
+      ]
+    },
+    {
+      "keyword": "노소영",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T20:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpDgq4Q9_r-HgsoKDw7oaJmTRO1Z4npXv1kfyDleYYyRBwa097EPsFYQ1hUEQ",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "최태원 “재산분할금 9440억원 내겠다”…9년 법정다툼 종료 임박",
+          "url": "https://www.mk.co.kr/news/business/12216253",
+          "source": "매일경제"
+        },
+        {
+          "title": "9440억원 재산분할 받는 노소영, 세금은 ‘0원’…이유는?",
+          "url": "https://www.donga.com/news/Society/article/all/20261124/135081378/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "대법원에 화해권고 요청한 최태원, 젠슨 황 사태 보고 내린 결정? [Y녹취록]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611241354582522",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "한동훈",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T20:20:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzXuxJncf2QQHplwDD2IdSOYB9hKA-2eS7U1uNr1geJzUx0CKxIHkGfUYFGtk",
       "category": "스포츠",
       "news": [
@@ -158,9 +212,9 @@
           "source": "YTN"
         },
         {
-          "title": "“컨설팅비 10억 요구 거부에 허위 폭로” 장동혁 측 징계 논란 역공… 갈등 확산",
-          "url": "https://www.donga.com/news/Politics/article/all/20261125/135084474/2",
-          "source": "동아일보"
+          "title": "[여의도 앨리스] ‘조작징계’ 의혹 잇단 폭로에도 국민의힘 의원 다수는 왜 시큰둥할까",
+          "url": "https://www.khan.co.kr/article/202611250600101",
+          "source": "경향신문"
         },
         {
           "title": "국민의힘 당권파 \"윤리위원 측, 자문료 요구\" vs. 친한계 \"핵심은 불법 개입\"",
@@ -170,102 +224,52 @@
       ]
     },
     {
-      "keyword": "에코프로비엠",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T18:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q",
-      "category": "경제",
-      "news": [
-        {
-          "title": "에코프로비엠, 싱가포르 종속회사 주식 6222억 취득",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04211526645649000",
-          "source": "마켓인"
-        },
-        {
-          "title": "에코프로비엠",
-          "url": "https://stock.mk.co.kr/news/view/1205120",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "에코프로비엠, 인도네시아 제련소 투자 위해 6222억원 투입 : 기업·산업",
-          "url": "https://news.jkn.co.kr/post/1119529",
-          "source": "재경일보"
-        }
-      ]
-    },
-    {
-      "keyword": "catl",
+      "keyword": "치어리더",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-24T19:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdSPe3FTi2itjoTumTKVf-OQvSLCuGyM_WiQC1woBef3vJnbwkUR3yCaSYc6Y",
+      "startedAt": "2026-11-24T20:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHP1kMYhNXK4rHgmNVPIZZmyWJNsiPxQ9GAkREXeGam8cGWU38-_XkJbMeXU",
       "category": "기타",
       "news": [
         {
-          "title": "BASF Begins Battery Materials Supply for CATL Production",
-          "url": "https://fuelcellsworks.com/2026/11/24/battery/from-europe-for-europe-basf-starts-battery-materials-supply-to-catl",
-          "source": "Fuel Cells Works"
-        },
-        {
-          "title": "cylib signs agreement to acquire BASF’s battery recycling business",
-          "url": "https://www.chemeurope.com/en/news/1190409/cylib-signs-agreement-to-acquire-basfs-battery-recycling-business.html",
-          "source": "chemeurope.com"
-        },
-        {
-          "title": "European supply secured! BASF's German plant delivers cathode materials to CATL.",
-          "url": "https://news.chemnet.com/news-12083.html",
-          "source": "ChemNet News"
-        }
-      ]
-    },
-    {
-      "keyword": "의대생",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T19:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmm25pYBU__Bx3ggPgtwkKJkeyVRtUR5eWMseaAH0dLsNBttR-v09SclzHAzw",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "수다 떨며 풀고도 97점…‘찐 실력’ 인증한 서울대 의대생들 [잇슈#태그]",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721046",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "[횡설수설/신광영]“커닝 안 했다” 인증 행렬",
-          "url": "https://www.donga.com/news/Opinion/article/all/20261123/135077402/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "'AI 안경' 없이 '깔깔'…서울의대생 성적 다 밝혔다",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859910",
-          "source": "SBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "체포",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T18:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS96yKazitItr-mei5_CPuPSe9ir6eFquiqWjbyC6M2Dod8H99jNhm6ZgYQzEk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "손님 가방 속 현금 다발 슬쩍…2억 들고 도주한 쌀국숫집 사장 검거",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124135815Ibl",
+          "title": "GS칼텍스 선두 탈환…실바·타나차 41점 합작",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125051451vZs",
           "source": "연합뉴스TV"
         },
         {
-          "title": "“환전 맡기러 왔는데…” 베트남 손님 현금 2억 들고 튄 쌀국수집 사장",
-          "url": "https://www.khan.co.kr/article/202611241101011",
-          "source": "경향신문"
+          "title": "하지원 치어리더가 말아주는 프리티걸 [O! SPORTS 숏폼] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/202611242203778192O",
+          "source": "머니투데이"
         },
         {
-          "title": "쌀국수 가게서 손님 가방 속 현금 2억 원 절도…30대 업주 체포",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721002",
-          "source": "KBS 뉴스"
+          "title": "'1R 1위' 듀스 내줘도 믿을 구석 충분했다…주장 투입까지 대적중, \"긍정적인 생각하면서 풀자고 했다\"",
+          "url": "https://www.chosun.com/sports/volleyball/2026/11/24/MYZWEMBTMI4GIYRQG5SDSNLEGU/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "한진그룹",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T20:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNcEo99zo5gjqdAx4ww-jL4KktRqGAC3UtV_9dBPrKfuzXud2S-QIMlV4Nqvc",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[한진-호반 경영권 분쟁] '단순투자' 유지하는 호반, 지분 경쟁서 실리 챙겨 : 네이버 블로그",
+          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224490004802&redirect=Dlog",
+          "source": "Naver Blog"
+        },
+        {
+          "title": "장금상선, 현금자산·단기금융상품 1조1042억 눈길…시총 3000억 ㈜한진 인수 여력 충분",
+          "url": "https://www.fieldnews.kr/news/articleView.html?idxno=33365",
+          "source": "필드뉴스"
+        },
+        {
+          "title": "한진칼 ‘내우외환’",
+          "url": "https://www.munhwa.com/article/11633297",
+          "source": "문화일보"
         }
       ]
     }
