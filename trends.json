@@ -1,49 +1,78 @@
 {
-  "updatedAt": "2026-11-24T10:54:54.625Z",
+  "updatedAt": "2026-11-24T11:53:22.025Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 4
+      "category": "기타",
+      "count": 3
     },
     {
       "category": "스포츠",
-      "count": 3
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 1
     },
     {
       "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "기타",
-      "count": 1
-    },
-    {
-      "category": "연예",
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "서경석",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-24T08:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaSyta2qZWGnUWO_po7ObqqiwTKgSb-wDGjJoLOjhMaRlxcliZhL74P-ereCU",
-      "category": "IT·과학",
+      "keyword": "프로포폴",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T10:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR10tZRKA-n95hPxA_3lVrhp2k5gzg3WnTEfaNCDUKfYiZtvCyxnYNKgQGLERg",
+      "category": "기타",
       "news": [
         {
-          "title": "AI 커닝에 소환된 서경석 \"내 한국사 만점도 의심해\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112413420026321",
-          "source": "머니투데이"
+          "title": "‘반포대교 추락 포르쉐’ 약물 공급 혐의 병원장…1심서 징역형",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721193",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "''IQ 146·서울대 출신' 서경석, AI 부정행위 불똥 \"한국사 시험 만점도 의심하더라\"",
-          "url": "https://www.fnnews.com/news/202611241349554546",
+          "title": "'반포대교 추락' 운전자에게 프로포폴 공급한 병원장, 1심 징역 1년 6개월",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6868215_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "'프로포폴 오남용' 병원장 징역 1년6개월…184차례 투약",
+          "url": "https://www.fnnews.com/news/202611241604524137",
           "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "배용준",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T10:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXEtZm6gsxFgkRJo_L1O0YnV9QTVAzyAP0DtmUmy_9SRs_pdfURFIHQEWlsV4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "배용준·박수진, 4년 하와이 생활 접고 한국행…반포 아파트 이사",
+          "url": "https://www.donga.com/news/Culture/article/all/20261124/135082030/1",
+          "source": "동아일보"
         },
         {
-          "title": "'한국사 만점' 서경석, 'AI 부정행위' 대란 불똥 \"내 점수도 의심..안경 안써 다행\"[핫피플]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GIZGEN3BGRRTOYJZHBRDIZJUGU/",
+          "title": "배용준·박수진, 하와이 생활 청산하고 귀국…반포 고급 아파트 이사",
+          "url": "https://www.mk.co.kr/news/hot-issues/12217066",
+          "source": "매일경제"
+        },
+        {
+          "title": "'하와이行' 배용준♥박수진, 지난해 서울 목격담 나오더니 결국…귀국설 현실로[SC이슈]",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/24/GMYDOYZUMZTGEODEHFRDSZDGMI/",
           "source": "조선일보"
         }
       ]
@@ -53,11 +82,11 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-24T09:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP-qoMtIjWIL_7p1etTmcOeqEo-xvTCLlZdtu1lvpEONUzddILjMaYeBuk_UM",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAGLfp8EvKEbUxrd9ndGMxqT4a-C5gCbime5guumoTuVk--mstbizWc7G1EDQ",
       "category": "스포츠",
       "news": [
         {
-          "title": "Pakistan vs Nepal Live Score, Asia Cup Rising Stars Live Updates",
+          "title": "Pakistan vs Nepal Live Score, Asia Cup Rising Stars Live Updates:Pakistan Shocked, 3-Down In 7 Overs vs Nepal",
           "url": "https://sports.ndtv.com/cricket/pakistan-vs-nepal-live-score-asia-cup-rising-stars-live-updates-12370170",
           "source": "NDTV Sports"
         },
@@ -74,52 +103,52 @@
       ]
     },
     {
-      "keyword": "스테이블코인",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T09:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxONIddnzCEis6hpdvyLhC5p2HC42g911kV8ylfcKRSvk-Nd33defZsifua7U",
-      "category": "경제",
+      "keyword": "히잡",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T10:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVbv3vqs8T6753ZmQZzdbvYjv3aIkDjEwSCK6Uv9pd6qLdqlGlfiaZKqsQ5w0",
+      "category": "연예",
       "news": [
         {
-          "title": "‘은행 주도’ 원화 코인 길 열렸다... 정부, 9년 만에 국내 발행 추진",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/24/PWWPU27V2VGUNPVBWFCWLDLNUY/",
+          "title": "女가수 히잡 없이 노래했다고... 이란, 태형 74대 집행",
+          "url": "https://www.chosun.com/international/international_general/2026/11/24/QMYPD6IS55A5ND6CN6FHJPOMHE/",
           "source": "조선일보"
         },
         {
-          "title": "베일벗은 스테이블코인 규제…은행·빅테크 셈법은",
-          "url": "https://zdnet.co.kr/view/?no=20261124141609",
-          "source": "지디넷코리아"
+          "title": "“무대서 히잡 벗었다가”…이란 女가수에 태형 74대, 예술 활동 2년 금지",
+          "url": "https://www.kyeonggi.com/article/20261124580562",
+          "source": "경기일보"
         },
         {
-          "title": "해킹 발생한 디지털자산업자에 무과실 손해배상책임·징벌적 과징금 물린다",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6868154_36932.html",
+          "title": "이란, 히잡 없이 공연한 여성 가수에 태형 74대",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6868199_36925.html",
           "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "슈퍼문",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T08:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLOPU45YOCeC6lvVrjA8iZ5r9WGVlhs7ks4hSG7ITf2CwhQlemVJzoCGD_u2o",
-      "category": "기타",
+      "keyword": "한석준",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T09:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEfOIPR_ztUOlXLr1CAous0Ie9PSAq8SXwquhwTQjrCTN7n_E94hpHAGkfbfU",
+      "category": "연예",
       "news": [
         {
-          "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
-          "source": "국제신문"
+          "title": "한석준, 5년 갈아넣은 방송서 '강제 하차'...\"화나서 울었다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112411215878301",
+          "source": "머니투데이"
         },
         {
-          "title": "오늘 밤, 슈퍼문과 플레이아데스 성단이 만난대요",
-          "url": "https://www.chosun.com/kid/kid_science/kid_space/2026/11/23/SFLRTV5U65ASDCLA5HLE4JCFHY/",
-          "source": "조선일보"
+          "title": "한석준 “‘우리말 겨루기’ 강제 하차에 차 세우고 오열”…전현무 동반 퇴사도 거절",
+          "url": "https://www.donga.com/news/Culture/article/all/20261124/135082092/2",
+          "source": "동아일보"
         },
         {
-          "title": "[포토타임] 초겨울 밤하늘 수놓은 슈퍼문…성탄 전야엔 더 큰 달 뜬다",
-          "url": "https://www.koreadaily.com/article/20261124021217799",
-          "source": "미주중앙일보"
+          "title": "“저를 가둬 놓고 살았다”…이금희, 18년간 ‘아침마당’ 진행→하차 후 솔직한 심경 [MHN:픽]",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1708602",
+          "source": "MHN스포츠"
         }
       ]
     },
@@ -149,126 +178,101 @@
       ]
     },
     {
-      "keyword": "australia vs england",
+      "keyword": "다리오 아모데이",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T09:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmMHGSgP7wHJQH4LicH4y5KIedt6z8III8wlIlK36I64_KCqFop8IcygJgwfI",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Australia vs England LIVE: Second T20, Carrara, Queensland - cricket score, commentary & updates",
-          "url": "https://www.bbc.com/sport/cricket/live/cly85gv8qpet",
-          "source": "BBC"
-        },
-        {
-          "title": "SIX, SIX, SIX! Unlikely hero spearheads Aus fightback... before major blunder — LIVE",
-          "url": "https://www.foxsports.com.au/en-AU/news/cricket/cricket-2026-australia-vs-england-second-t20i-live-blog-and-updates-team-selection-how-to-stream-will-jacks-broken-hand/1hi2ohfb23wjv1pyoeresrgy11",
-          "source": "Fox Sports"
-        },
-        {
-          "title": "Ball by Ball Commentary & Live Score - AUS vs ENG, 2nd T20I",
-          "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-2nd-t20i-1528707/ball-by-ball-commentary",
-          "source": "Cricinfo"
-        }
-      ]
-    },
-    {
-      "keyword": "한석준",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T09:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEfOIPR_ztUOlXLr1CAous0Ie9PSAq8SXwquhwTQjrCTN7n_E94hpHAGkfbfU",
-      "category": "연예",
-      "news": [
-        {
-          "title": "한석준, 5년 갈아넣은 방송서 '강제 하차'...\"화나서 울었다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112411215878301",
-          "source": "머니투데이"
-        },
-        {
-          "title": "한석준 “‘우리말 겨루기’ 강제 하차에 차 세우고 오열”…전현무 동반 퇴사도 거절",
-          "url": "https://www.donga.com/news/Culture/article/all/20261124/135082092/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "“저를 가둬 놓고 살았다”…이금희, 18년간 ‘아침마당’ 진행→하차 후 솔직한 심경 [MHN:픽]",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1708602",
-          "source": "MHN스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "다리오 아모데이",
-      "traffic": "100+",
-      "trafficValue": 100,
       "startedAt": "2026-11-24T09:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFXAkBn8801MalMfbaHF-D8LvuqcnuW22jhTz5Kdub4Uk1XXE4zWhCF0dD-78",
-      "category": "경제",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_DgewmMQCGs-WWSlnX9PI_2nw9JaBkj0eNXxatexq-NXAg2wweO6etqk_do",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "엔비디아 30% 오를 때 홀로 역주행한 앤트로픽···젠슨 황 복귀 뒤엔 AI 업계 ‘파워게임?’",
-          "url": "https://www.khan.co.kr/article/202611241457001",
-          "source": "경향신문"
+          "title": "기대감의 시대 끝...AI, '수익성'으로 증명하라",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231102465190",
+          "source": "YTN 사이언스"
         },
         {
-          "title": "'AI 중앙은행' 된 엔비디아…복귀한 젠슨 황, 오하이오서 첫 시험대 [김주완의 글로벌머니 X파일]",
-          "url": "https://www.hankyung.com/article/202611246927i",
+          "title": "리플 CEO \"XRP는 리플의 나침반… 가상화폐 시장 반등할 것\"",
+          "url": "https://www.g-enews.com/article/Securities/2026/11/202611231510231143e250e8e188_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "스페이스X땐 불나방이었는데…앤트로픽엔 소심해진 국내 ETF들",
+          "url": "https://stock.mk.co.kr/news/view/1204566",
+          "source": "매일경제 마켓"
+        }
+      ]
+    },
+    {
+      "keyword": "부천시",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLg93k6Uzh2DLSB8ecdwf8ItFenNyuk8ti5CLJvQ4opVtXOPA0xpMlok1dzFA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "부천 지역화폐 캐시백, 내년부터 충전 아닌 결제 때 지급",
+          "url": "https://www.yna.co.kr/view/AKR20261124054900065",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "매달 초 ‘충전 경쟁’ 사라질까…부천시, ‘부천페이’ 인센티브 지급 방식 바꾼다",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1288914.html",
+          "source": "한겨레"
+        },
+        {
+          "title": "월초 ‘충전 쏠림’ 없앤다…부천페이, 내년 1월 ‘결제 시 환급’ 개편",
+          "url": "https://www.kyeonggi.com/article/20261124580348",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "전광훈",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEC-EaU4h8WeCXGBD1UhtXblWVbUtUg_uuntUo5HZoE693SNmq8DDah6qFpUw",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "경찰, '불법 정치자금 의혹' 전광훈 구속영장 신청",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6868056_36918.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "\"교회 돈 102억 자유통일당에\"…전광훈 목사 내일 공소청 면담(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261124069851004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "경찰, ‘정치자금법 위반’ 전광훈 목사 구속영장 신청",
+          "url": "https://www.khan.co.kr/article/202611241047001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "무안국제공항",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4pjG6uEjq5YkkR9BPelH5AYsd327VwMggvLqJEJ3wnphA7VeFCUhnWnaH5l8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "\"광주공항, 내년말 무안공항으로 통합 이전\"",
+          "url": "https://www.hankyung.com/article/2026112349231",
           "source": "한국경제"
         },
         {
-          "title": "실적은 좋은데 주가는 왜 떨어질까?…AI 투자 수익성에 커진 의구심",
-          "url": "https://www.newsis.com/view/NISX20261120_0003877131",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "지폐",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T09:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-Bo3jAOuiRLUbXwxxypjwBhqLkFmWDJsVS-2z_nWbCCix1dUyO-rnARQYT48",
-      "category": "경제",
-      "news": [
-        {
-          "title": "조폐공사, 화폐 부산물 활용 '돈빛 조명' 공개…화폐굿즈 신제품",
-          "url": "https://www.news1.kr/local/daejeon-chungnam/6364176",
-          "source": "뉴스1"
-        },
-        {
-          "title": "[이서영의 재테크루] 돈복 부르던 은행 달력, 영크크 소장 욕구 자극하는 굿즈로",
-          "url": "https://www.ajunews.com/view/20261123130039888",
-          "source": "아주경제"
-        },
-        {
-          "title": "조폐공사, 지폐 부산물 기반 오브제 ‘돈빛 조명’ 공개",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428565",
-          "source": "데일리한국"
-        }
-      ]
-    },
-    {
-      "keyword": "박수진",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T09:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2BTzQszxCrO5y_WMbCLQSb2fLGmjPi3fNBKUPalEz9i4dEqYGKwniCXBD0vk",
-      "category": "경제",
-      "news": [
-        {
-          "title": "배용준·박수진, 하와이 생활 청산하고 귀국…반포 고급 아파트 이사",
-          "url": "https://www.mk.co.kr/news/hot-issues/12217066",
-          "source": "매일경제"
-        },
-        {
-          "title": "'하와이行' 배용준♥박수진, 지난해 서울 목격담 나오더니 결국…귀국설 현실로[SC이슈]",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/24/GMYDOYZUMZTGEODEHFRDSZDGMI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "배용준·박수진, 4년 하와이 생활 접고 한국행…반포 아파트 이사",
-          "url": "https://www.newsis.com/view/NISX20261124_0003881276",
+          "title": "광주군공항 무안 확정 내년으로…주민공청회 법적시한 지나",
+          "url": "https://www.newsis.com/view/NISX20261123_0003878920",
           "source": "뉴시스"
         }
       ]
