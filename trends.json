@@ -1,20 +1,24 @@
 {
-  "updatedAt": "2026-11-24T18:53:34.547Z",
+  "updatedAt": "2026-11-24T19:58:09.600Z",
   "summary": [
     {
       "category": "스포츠",
-      "count": 5
+      "count": 6
     },
     {
       "category": "기타",
-      "count": 5
+      "count": 3
+    },
+    {
+      "category": "경제",
+      "count": 1
     }
   ],
   "items": [
     {
       "keyword": "pakistan a vs nepal national cricket team standings",
-      "traffic": "2000+",
-      "trafficValue": 2000,
+      "traffic": "5000+",
+      "trafficValue": 5000,
       "startedAt": "2026-11-24T15:50:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRvegTjsdhZAQvutcQI-YmwriLaRZ71ZvZZLtDxCQG1pYJlKuRE3mEG8_DCJM",
       "category": "스포츠",
@@ -25,14 +29,39 @@
           "source": "Cricinfo"
         },
         {
-          "title": "Rohail Nazir's unbeaten half-century guides Pakistan Shaheens to a 96-run win over Nepal",
-          "url": "https://www.pcb.com.pk/news-detail/rohail-nazir-s-unbeaten-half-century-guides-pakistan-shaheens-to-a-96-run-win-over-nepal.html",
-          "source": "Pakistan Cricket Board (PCB)"
+          "title": "Rohail Nazir's fifty books Asia Cup Rising Stars semi-finals spot for Pakistan Shaheens",
+          "url": "https://www.dawn.com/news/2046798/rohail-nazir-fifty-books-asia-cup-rising-stars-semi-finals-spot-for-pakistan-shaheens",
+          "source": "Dawn"
         },
         {
-          "title": "Nepal crash out of Asia Cup Rising Stars after 96-run defeat to Pakistan A",
-          "url": "https://kathmandupost.com/sports/2026/11/24/nepal-crash-out-of-asia-cup-rising-stars-after-96-run-defeat-to-pakistan-a",
-          "source": "The Kathmandu Post"
+          "title": "Nepal Dismisses Shamyl Hussain Early Against Pakistan A",
+          "url": "https://www.suaralandak.co.id/en/nepal-dismisses-shamyl-pakistan",
+          "source": "www.suaralandak.co.id"
+        }
+      ]
+    },
+    {
+      "keyword": "중앙일보",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T18:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_UuSz005dhZl8atCp1_zG6asD3vGLBNVz2pAhYOOYGDk7aTUQb-QcOqd3qqg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "어떻게 평가했나…32개 지표, 연구 질·성과 따져 선정 [2026 대학평가]",
+          "url": "https://www.joongang.co.kr/article/25481316",
+          "source": "중앙일보"
+        },
+        {
+          "title": "인천대, 전국 55개 대학 중 종합 21위…대학평가 2년 연속 순위 상승",
+          "url": "https://www.kyeonggi.com/article/20261124580442",
+          "source": "경기일보"
+        },
+        {
+          "title": "전북대, 2026 대학평가서 전국 22위…전년보다 4계단 상승 - 보도자료 | 기사",
+          "url": "https://news.tf.co.kr/read/releasecopy/2392926.htm",
+          "source": "더팩트"
         }
       ]
     },
@@ -41,80 +70,55 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-24T17:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKY6HEB0s4GhHd2gAmUvD_dXTBL6IH1NKvyd-0Ufmhu2VCDvedwDlg16-qMY",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_CABS-7XFWJX2guymkXpZ0QR79l_tstxLRl6tf1IhZb8oiuZVfL0fJsQsyoM",
       "category": "스포츠",
       "news": [
         {
-          "title": "T1, 2027시즌 LCK 코치진 완성 [공식]",
-          "url": "https://www.etoday.co.kr/news/view/2652441",
-          "source": "이투데이"
+          "title": "최우제 귀환 T1·젊어진 젠지·데프트 품은 농심⋯ LCK 스토브리그 일단락",
+          "url": "https://www.kmib.co.kr/article/20261124502096",
+          "source": "국민일보"
         },
         {
-          "title": "T1, ‘로치’ 김강희 감독 선임…엄티·이지훈으로 코치진 구성",
-          "url": "https://www.kukinews.com/article/view/kuk202611240231",
+          "title": "한화생명, 카나비 떠난 자리에 ‘캐니언’ 김건부 영입",
+          "url": "https://www.kukinews.com/article/view/kuk202611240240",
           "source": "쿠키뉴스"
         },
         {
-          "title": "T1 LoL 팀, 도란 이어 꼬마·톰·마타와 결별",
-          "url": "http://www.newstoon.co.kr/news/articleView.html?idxno=81990",
-          "source": "뉴스투온"
+          "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
+          "url": "https://www.hankyung.com/article/202611222346i",
+          "source": "한국경제"
         }
       ]
     },
     {
-      "keyword": "시그널2",
+      "keyword": "에코프로비엠",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-24T14:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKKVr6GGOeKB1xB-g1xVtVu6Waml8KT0RJPPEs7hrfDV_WD45fQuwVFjd5pvY",
-      "category": "기타",
+      "startedAt": "2026-11-24T18:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFuAjf_kNSAJxvboxkdDEpcralZ1IL9LWhynGfFR9gv2PP2wKW57-gjqndZ-Q",
+      "category": "경제",
       "news": [
         {
-          "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
-          "source": "YTN"
+          "title": "에코프로비엠, 싱가포르 종속회사 주식 6222억 취득",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04211526645649000",
+          "source": "마켓인"
         },
         {
-          "title": "[센터엔터] ’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만 外",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124133245at3",
-          "source": "연합뉴스TV"
+          "title": "에코프로비엠",
+          "url": "https://stock.mk.co.kr/news/view/1205120",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
-          "url": "https://sports.khan.co.kr/article/202611240740003",
-          "source": "스포츠경향"
-        }
-      ]
-    },
-    {
-      "keyword": "황영묵",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T14:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ82wm8-8lnI6r1aY86vG6-Ara7rz-SnjThGjf8CQ_vsp9P08T7Cicge6gtXk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"간곡히 부탁드립니다\" 결혼식 앞둔 한화 황영묵, SNS에 직접 글 올려 호소한 사연은",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/24/MNRDGZRTGY3GCODFMEYDGYRWGM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"가족들 조롱·비난 멈춰주세요\" 한화 황영묵은 왜, 결혼 코 앞에 두고 장문 메시지 남겼나 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416370949378",
-          "source": "머니투데이"
-        },
-        {
-          "title": "프로야구 한화 황영묵, 1년 3개월 교제한 예비 신부와 29일 결혼",
-          "url": "https://www.news1.kr/sports/baseball/6364231",
-          "source": "뉴스1"
+          "title": "에코프로비엠, 인도네시아 제련소 투자 위해 6222억원 투입 : 기업·산업",
+          "url": "https://news.jkn.co.kr/post/1119529",
+          "source": "재경일보"
         }
       ]
     },
     {
       "keyword": "에릭 페디",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-24T16:40:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Inua_h5ZBxVfKUrMNkag_uePbAM_CIbP2pOnLGNAGtLrw5hoU-bVfmUKxxI",
       "category": "기타",
@@ -125,64 +129,89 @@
           "source": "조선일보"
         },
         {
+          "title": "NC 다이노스 복귀 제안 거절한 페디…미국 잔류 결정 : 스포츠",
+          "url": "https://news.jkn.co.kr/post/1120179",
+          "source": "재경일보"
+        },
+        {
           "title": "‘FA 최대어’ 원태인 영입전, NC도 뛰어들었다",
           "url": "https://www.khan.co.kr/article/202611242032005",
           "source": "경향신문"
-        },
-        {
-          "title": "구자욱 '시끌', 원태인 '잠잠'...알고보면 물밑 계산은 더 치열",
-          "url": "https://www.ytn.co.kr/_ln/0107_202611242337414343",
-          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "챔피언스리그",
+      "keyword": "알나스르 대 알사드",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T15:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnYqhILpc94VJdkVkwUuuhLsOEB0N2TSVNbC_b9kd4bSnaq8-hcWRXfsF1whg",
+      "startedAt": "2026-11-24T18:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThIoUspAgzkWHUHhPQhxB-xoPk7-aZMmup1QFwCsZvRONStg-JUvL52Ueg-Rc",
       "category": "스포츠",
       "news": [
         {
-          "title": "AFC 챔피언스 리그 3-1 비셀 고베 생중계 (후반전): 페레아 또 득점",
-          "url": "https://www.vietnam.vn/ko/truc-tiep-cahn-3-1-vissel-kobe-cup-c1-chau-a-hiep-2-perea-tiep-tuc-lap-cong",
-          "source": "Vietnam.vn"
+          "title": "Cristiano Ronaldo moves closer to 1,000 goals with penalty vs Al-Sadd",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/11/24/cristiano-ronaldo-goals-1000-al-nassr-al-sadd/92945415007/",
+          "source": "USA Today"
         },
         {
-          "title": "응우옌 필립은 아시안컵에서 두 번째로 교체되었다.",
-          "url": "https://www.vietnam.vn/ko/nguyen-filip-lan-thu-hai-bi-thay-ra-o-cup-chau-a",
-          "source": "Vietnam.vn"
+          "title": "Video: Evoking memories of Brahim Díaz, Al-Deayea reveals Mendy's role in Ronaldo's missed penalty",
+          "url": "https://www.yardbarker.com/soccer/articles/video_evoking_memories_of_brahim_daz_al_deayea_reveals_mendys_role_in_ronaldos_missed_penalty/s1_17790_44596929",
+          "source": "Yardbarker"
         },
         {
-          "title": "폴킹 씨는 전 도르트문트 감독을 이겨서 기뻤다.",
-          "url": "https://www.vietnam.vn/ko/ong-polking-hanh-phuc-khi-thang-cuu-hlv-dortmund",
-          "source": "Vietnam.vn"
+          "title": "From Artem's exclusion to Mendy's leadership: the intriguing secrets behind Al-Ahli's three goals against Al-Nassr",
+          "url": "https://www.goal.com/en/news/from-artem-s-exclusion-to-mendy-s-leadership-the-intriguing-secrets-behind-al-ahli-s-three-goals-against-al-nassr/bltc4c2b9fa601b073b",
+          "source": "Goal.com"
         }
       ]
     },
     {
-      "keyword": "주진우",
+      "keyword": "galatasaray vs aston villa",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T14:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3_WamDxiqFI3Vy5Fun4nh8woBYLDuwRcXIu-HCi6Q7lrt9uK9t537TfjNBso",
-      "category": "기타",
+      "startedAt": "2026-11-24T18:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEKTDIJz9o1xjWPHlMy6rhC3i0-yQrncOWB3f4rhiiEvWZ_YFA1Oal58lZ5Rk",
+      "category": "스포츠",
       "news": [
         {
-          "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
-          "source": "MBC 뉴스"
+          "title": "Licensable picture: UEFA Champions League - Galatasaray Vs Aston Villa FC",
+          "url": "https://www.reutersconnect.com/item/uefa-champions-league-galatasaray-vs-aston-villa-fc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBHMlY0NDY",
+          "source": "Reuters Connect"
         },
         {
-          "title": "유동규와 ‘닭백숙집 포커’ 의혹에… 이용철 “난 육식 못한다” 부인",
-          "url": "https://www.chosun.com/national/court_law/2026/11/24/OUQIZJON75AVZG54TTGQRMJXPQ/",
-          "source": "조선일보"
+          "title": "LIVE BLOG: Galatasaray vs Aston Villa | UEFA Champions League",
+          "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/live-blog-galatasaray-vs-aston-villa-uefa-champions-league-2026-11-24",
+          "source": "beIN SPORTS"
         },
         {
-          "title": "이용철 \"저강도 내란 상태\"...'조희대 탄핵'엔 말 아껴",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611242334054477_005.html",
+          "title": "Aston Villa defender Ian Maatsen warns Unai Emery's side to expect tough Champions League test against 'best team in Turkiye' Galatasaray",
+          "url": "https://www.goal.com/en/news/aston-villa-ian-maatsen-warns-unai-emery-champions-league-test-galatasaray/bltb0cd36a820444ab2",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "keyword": "정치",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T18:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzXuxJncf2QQHplwDD2IdSOYB9hKA-2eS7U1uNr1geJzUx0CKxIHkGfUYFGtk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html",
           "source": "YTN"
+        },
+        {
+          "title": "“컨설팅비 10억 요구 거부에 허위 폭로” 장동혁 측 징계 논란 역공… 갈등 확산",
+          "url": "https://www.donga.com/news/Politics/article/all/20261125/135084474/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "국민의힘 당권파 \"윤리위원 측, 자문료 요구\" vs. 친한계 \"핵심은 불법 개입\"",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/24/Y5YJ5X4GLBBYXIKZCMFQZR5BDI/",
+          "source": "조선일보"
         }
       ]
     },
@@ -233,31 +262,6 @@
           "title": "무시알라가 은퇴한다는 소식은 사실이 아닙니다.",
           "url": "https://www.vietnam.vn/ko/tin-musiala-giai-nghe-la-gia",
           "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
-      "keyword": "랜드로버 디펜더",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbU8FOSW23vAY3JVtFl0yVsDnzAoUQGRprdJnEySN581oC8cYEGkqw5kJch-Q",
-      "category": "기타",
-      "news": [
-        {
-          "title": "디펜더, 영국 적십자 파트너십 2029년까지 연장",
-          "url": "https://www.donga.com/news/article/all/20261124/135079396/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "디펜더, 영국 적십자와 협력 2029년까지 연장…\"NGO 사양 110·130 추가 투입\"",
-          "url": "https://www.fnnews.com/news/202611240951091458",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "디펜더, 영국 적십자와 파트너십 2029년까지 연장",
-          "url": "https://www.autoview.co.kr/ko-kr/articles/102632",
-          "source": "오토뷰"
         }
       ]
     }
