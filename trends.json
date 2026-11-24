@@ -1,263 +1,259 @@
 {
-  "updatedAt": "2026-11-24T02:12:26.887Z",
+  "updatedAt": "2026-11-24T03:54:15.426Z",
   "summary": [
+    {
+      "category": "기타",
+      "count": 4
+    },
     {
       "category": "스포츠",
       "count": 3
     },
     {
-      "category": "기타",
-      "count": 3
+      "category": "생활·날씨",
+      "count": 1
     },
     {
       "category": "IT·과학",
       "count": 1
     },
     {
-      "category": "경제",
-      "count": 1
-    },
-    {
       "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "세인트루이스 시티 sc 대 엘에이 fc",
-      "traffic": "20000+",
-      "trafficValue": 20000,
-      "startedAt": "2026-11-24T00:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhuI2QDWeXT4ULhneWFBctp3562kvu7TLN78gXaC6GfyZyGy5prJX2Ra4Kv_s",
+      "keyword": "정상빈",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-24T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSVTvdozyk1aoFVJSoOSOryZvr0ArY0MyfanAn8XZv8v7En5DU-tF3Xl000pg",
       "category": "스포츠",
       "news": [
         {
-          "title": "Washington vs. BYU (Nov 23, 2026) Live Score",
-          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921708",
-          "source": "ESPN"
+          "title": "'우승 트로피 원한다던 손흥민, 시작부터 위기' 정상빈 선발 출격한 세인트루이스에 선제골 허용...LAFC 전반 0-1 마무리 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/202611241108777757O",
+          "source": "머니투데이"
         },
         {
-          "title": "Stephen F. Austin vs. Utah Valley (Nov 23, 2026) Live Score",
-          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921208/sf-austin-utah-valley",
-          "source": "ESPN"
-        },
-        {
-          "title": "BYU 83-77 Washington (Nov 23, 2026) Final Score",
-          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921708",
-          "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "삼성전자 임원인사",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-24T00:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4ybf4RwSQ-2hNfeigalFL_1U2McMm6iz5_-elmSN6_IxfSYUQPtwK_ivfO9w",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
-          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%9E%A5%EB%8B%A8-%EC%9D%B8%EC%82%AC-2",
-          "source": "samsung.com"
-        },
-        {
-          "title": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
+          "title": "정상빈의 무대가 되고 있다! 세인트루이스, LAFC에 '정상빈 1골 1도움'으로 2-0 리드",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/24/MYYDGZRYMEYTOZRYMEZGMYZXHA/",
           "source": "조선일보"
         },
         {
-          "title": "'갤럭시 사령탑 7년' 내려놓은 노태문…\"부품값 폭등 위기도 뚫은 저력\"",
-          "url": "https://www.newsis.com/view/NISX20261124_0003880254",
-          "source": "뉴시스"
+          "title": "손흥민 \"우승이 목표‥미국 무대 압박감 덜해\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867724_37012.html",
+          "source": "MBC 뉴스"
         }
       ]
     },
     {
-      "keyword": "청약홈",
+      "keyword": "호세 수아레즈",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-24T00:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpDGmRr2h7A58qaQzPrp3hdhXG6uX7i0oyHsUWeaxh7Qe10bkOqL-zS3pLsxk",
-      "category": "경제",
-      "news": [
-        {
-          "title": "종로 '경희궁 에피트'·영등포 '해링턴 문래' 등 이번주 6295가구 청약",
-          "url": "https://www.newsis.com/view/NISX20261122_0003877941",
-          "source": "뉴시스"
-        },
-        {
-          "title": "잠실 ‘20억’ 로또 청약 등장…영등포·종로서도 분양",
-          "url": "https://www.mk.co.kr/news/realestate/12215476",
-          "source": "매일경제"
-        },
-        {
-          "title": "[분양 캘린더] 11월 넷째 주 6295가구 청약 접수",
-          "url": "https://www.asiatime.co.kr/article/20261122500011",
-          "source": "아시아타임즈"
-        }
-      ]
-    },
-    {
-      "keyword": "필라데피아 대 포틀랜드",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T00:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_IChrOzrdHGZZKoQ1ak8KpntCS33Pl9geaoDLWE_6M2eI5Z4P14C-chJaFo",
+      "startedAt": "2026-11-24T02:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkxheuYHxZSRB8GHt1m7-0fdZkDn3pZXbiJ2L5774GstXEIP83g-sAS7l2-8c",
       "category": "스포츠",
       "news": [
         {
-          "title": "Live updates: Sixers down nine to Trail Blazers entering fourth quarter",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-trail-blazers-updates-joel-embiid-lebron-james-tyrese-maxey/769045/",
-          "source": "NBC Sports Philadelphia"
+          "title": "[공식발표] '와' 두산도 현역 빅리거 데려왔다! 13억에 '154km 좌완' 수아레즈 영입 \"최상급 구속 보유한 완성형 투수\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/202611241059777700O",
+          "source": "머니투데이"
         },
         {
-          "title": "Discuss All the Shining Stars as the Trail Blazers Face the 76ers!",
-          "url": "https://www.blazersedge.com/gameday-threads-2/118817/discussion-portland-trail-blazers-philadelphia-76ers-time-tv-streaming-injury-report",
-          "source": "Blazer's Edge"
+          "title": "[프로야구] 두산, '빅리그 통산 23승' 좌완 파이어볼러 수아레즈 영입",
+          "url": "https://www.newspim.com/news/view/20261124000655",
+          "source": "뉴스핌"
         },
         {
-          "title": "Sixers aim to extend win streak to six vs. Trail Blazers",
-          "url": "https://www.libertyballers.com/76ers-game-previews/102589/sixers-win-streak-trail-blazers-jaylen-brown-lebron-james-joel-embiid-tyrese-maxey-damian-lillard",
-          "source": "Liberty Ballers"
+          "title": "프로야구 두산, 'MLB 151경기' 외국인 투수 수아레즈 영입",
+          "url": "https://www.news1.kr/sports/baseball/6364025",
+          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "남도일보",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T00:40:00.000Z",
+      "keyword": "카카오",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T02:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZx2T9ZKPqded0XFqIXbgpuArvOB5rIYbFFPe-6S19gY8SP_PT2lgJ724vGNY",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "스타벅스서도 3% 할인…카카오페이 굿딜, 제휴 111곳으로 확대",
+          "url": "https://stock.mk.co.kr/news/view/1204772",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "카카오페이 '굿딜'에 스타벅스 입점",
+          "url": "https://www.etnews.com/20261124000212",
+          "source": "전자신문"
+        },
+        {
+          "title": "카카오페이, 조건 없는 할인 결제 확대..스타벅스도 매일 3% 할인",
+          "url": "https://kpenews.com/View.aspx?No=4326223",
+          "source": "한국정경신문"
+        }
+      ]
+    },
+    {
+      "keyword": "휴머노이드",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T02:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cczuW91MQ484qyU4ELglxMEzyC3QEDDB-eMHaw7lFcCoEBQiIqi-AXVUQLw",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "[단독]삼성 첫 휴머노이드, 한손당 모터 20개 탑재 ‘초정밀 작업’ 가능",
+          "url": "https://www.donga.com/news/Economy/article/all/20261124/135077423/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "로봇주 일제급등…젠슨황 AI랠리에 삼전발 기대감 - 머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/24/2026112410225990644",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[장중수급포착] 레인보우로보틱스, 기관 8일 연속 순매수행진... 주가 +17.91%",
+          "url": "https://www.newspim.com/news/view/20261124000733",
+          "source": "뉴스핌"
+        }
+      ]
+    },
+    {
+      "keyword": "부사관",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T01:40:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "세종의사당",
+      "keyword": "посольство",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T00:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4HATL_ScecHtWLjFNUMw0UGkL-gohlHqeaTurwmhsZduBJ7vxFSjrYm0keJU",
-      "category": "정치·사회",
+      "startedAt": "2026-11-24T02:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQNbNbPDpW9rAJxD3II3fuHoan0IiqP0at3cD0x50yqszOaUbv6TBzhstYZHI",
+      "category": "기타",
       "news": [
         {
-          "title": "\"국회, 세종으로 완전 이전\" 황운하 의원 국회법 발의",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611231654541VU",
-          "source": "연합뉴스TV"
+          "title": "WSJ ⟩ Русский эмигрант, который помог разрушить Крымский мост",
+          "url": "https://rus.postimees.ee/8588185/wsj-russkiy-emigrant-kotoryy-pomog-razrushit-krymskiy-most",
+          "source": "Rus.Postimees.ee"
         },
         {
-          "title": "황운하 '국회의사당 세종 완전 이전 국회법' 개정안 발의",
-          "url": "https://www.news1.kr/local/sejong-chungbuk/6363107",
-          "source": "뉴스1"
+          "title": "Захарова назвала саморазоблачением признание Destinus об атаке на Крымский мост",
+          "url": "https://www.vedomosti.ru/politics/news/2026/11/20/1413595-nazvala-samorazoblacheniem",
+          "source": "Ведомости"
         },
         {
-          "title": "황운하, 국회 세종 완전이전 위한 국회법 개정안 발의",
-          "url": "https://www.dtnews24.com/news/articleView.html?idxno=817492",
-          "source": "디트NEWS24"
+          "title": "Голландские ракеты против Крымского моста: что известно о признании Destinus и операции СБУ",
+          "url": "https://www.rtvi.com/news/gollandskie-rakety-protiv-krymskogo-mosta-chto-izvestno-o-priznanii-destinus-i-operaczii-sbu/",
+          "source": "RTVI"
         }
       ]
     },
     {
-      "keyword": "화성시",
+      "keyword": "순항 미사일",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T00:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThuKM7xYknsW1O8ii_niD7RiuAxah6yYKuKqQWPZiLoq-aYGLhUd1OnVP0bkI",
+      "startedAt": "2026-11-24T02:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRN9sgYvrtyLX-dboxoYcJDdBo0zZdEa_y5rzRTCc5xUiGkSpwGnMKuKVPBLUA",
       "category": "기타",
       "news": [
         {
-          "title": "화성시, 송산그린시티 국가산단 9필지 우선분양 추천기업 공모",
-          "url": "https://view.asiae.co.kr/article/2026112407205949677",
-          "source": "아시아경제"
+          "title": "“레이저 맞고 ‘뚝’ 떨어진 순항미사일”…한국 대공 방어 레이저 수준은? [밀리터리+]",
+          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261122601010",
+          "source": "나우뉴스"
         },
         {
-          "title": "화성시, 송산그린시티 국가산단 산업시설용지 우선 분양",
-          "url": "https://www.inews24.com/view/2029529",
-          "source": "아이뉴스24"
+          "title": "300kW 레이저로 순항미사일 첫 격추, 록히드마틴 '발키리'",
+          "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=3037",
+          "source": "데일리방산"
         },
         {
-          "title": "정명근 화성시장 “송산그린시티에 우수기업 유치”…산업용지 9필지 공모",
-          "url": "https://www.beyondpost.co.kr/view.php?ud=20261124074723304c878f8fa1_30",
-          "source": "비욘드포스트"
-        }
-      ]
-    },
-    {
-      "keyword": "국가장학금 신청",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T00:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXVqbgDhCOlHDrmLrSatMBISdefvU3vktHy0M2dJhkDsYifT7xNo_U-28Geog",
-      "category": "기타",
-      "news": [
-        {
-          "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
-          "url": "https://www.yna.co.kr/view/AKR20261123047100530",
+          "title": "나토, 러 미사일 낙하에 폴란드에 조기경보기 전진 배치",
+          "url": "https://www.yna.co.kr/view/AKR20261124083900009",
           "source": "연합뉴스"
-        },
-        {
-          "title": "2027 국가장학금 11월 24일 신청 시작｜대학 합격 전 고3도 가능할까? 소득구간 5단계 개편·최대 등록금 전액·신청방법 총정리",
-          "url": "https://contents.premium.naver.com/firstnews/9firstnews9/contents/261122124750066ml",
-          "source": "네이버 프리미엄콘텐츠"
-        },
-        {
-          "title": "국가장학금 1차 24일부터 신청…내년 지방 국립대 등록금 전액 지원",
-          "url": "https://www.news1.kr/society/education/6362413",
-          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "우지원",
+      "keyword": "월드컵",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T00:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrieYqkD7olPgo5Lof--w-tU3vpvpt_K-lXjD80ZRSvNm13S6PMtCH1hV6BlI",
-      "category": "연예",
-      "news": [
-        {
-          "title": "우지원·우서윤, ‘아침마당’ 생방송 중 볼뽀뽀…미스코리아 진 축하",
-          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627249",
-          "source": "메디컬투데이"
-        },
-        {
-          "title": "`미코 진` 우서윤 \"우지원, 나보다 화장품이 더 많다\" 폭로 [아침마당]",
-          "url": "https://www.mydaily.co.kr/page/view/2026112410494097248",
-          "source": "마이데일리"
-        },
-        {
-          "title": "'아침마당' 미스코리아 진 우서윤, 남다른 피지컬 \"우지원 첫째딸\"",
-          "url": "https://www.joynews24.com/view/2029536",
-          "source": "조이뉴스24"
-        }
-      ]
-    },
-    {
-      "keyword": "신인감독 김연경 2",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T01:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcDjIJLvMrfh22SUBpYovkbv-6MXHChnSuOAVdWfvHFidh7tGXXZrMvgNZ5oc",
+      "startedAt": "2026-11-24T02:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG_0kUbv9V1_VLj1EP7lJETOne4_WDITXb7eQK2whTv_LjnnAcfqIT_g0vQ9M",
       "category": "스포츠",
       "news": [
         {
-          "title": "MBC '신인감독 김연경2', 6주 연속 TV비드라마 화제성 1위",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525785",
-          "source": "iMBC 연예"
+          "title": "중국 신났다 ‘아프리카 챔피언과 무승부’에 흥분···U-17 월드컵 모로코전 2-2 ‘골 넣고는 시우 세리머니’",
+          "url": "https://sports.khan.co.kr/article/202611241027003",
+          "source": "스포츠경향"
         },
         {
-          "title": "원더독스 베트남 원정, 195cm 장신·무더위 변수",
-          "url": "https://www.jejutwn.com/news/article.html?no=464833",
-          "source": "제주교통복지신문"
+          "title": "'21년 만에 월드컵 나갔는데 0-5 대참사!' 중국, 일본인 감독한테 발등 찍혔다! 스페인에 완패…후반 막판 와르르 무너졌다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021196",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "\"키 195cm 장신 공격수·무더위 변수\"… '신인감독 김연경2' 흔들리는 선수들",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759553",
-          "source": "국제뉴스"
+          "title": "中 축구, 월드컵 0-5 대참사! \"일본인 때문이야\" U-17 WC 대패에 비난 폭주…\"3년 303일 훈련하고 5백도 안 해? 내가 맡았다면 달랐다\"",
+          "url": "https://www.xportsnews.com/article/2221994",
+          "source": "엑스포츠뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "경마공원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T02:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLI86YFJvoqN3gnFklOQ-cmx9-hDggsh7aqJJP-bKQH4_f4rSgSkQVXsQyagE",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "민주당 대전 지방의원들 \"대전, 공공기관 이전 완벽 준비\"",
+          "url": "https://www.yna.co.kr/view/AKR20261123043000063",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "신용한 충북지사, 국비 확보와 민생 예산 집행에 총력",
+          "url": "https://www.viva100.com/article/20261123501427",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "진안군의회 “2차 공공기관 지방이전, 전북 핵심기관 우선 배치해야”",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261124010009149",
+          "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "성남시",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T02:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYyi0un6RxjJclz_nDReSvmNWQdhqRRe-xLSV50F_undw2nwyLWiNpY1y7ngo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "성남시, '리브컴어워즈' 3개부분 결선…2년연속 수상도전",
+          "url": "https://www.newsis.com/view/NISX20261124_0003880444",
+          "source": "뉴시스"
+        },
+        {
+          "title": "성남시, 리브컴 어워즈 3개 부문 결선…내년 모로코에서 수상에 도전",
+          "url": "https://www.etnews.com/20261124000025",
+          "source": "전자신문"
+        },
+        {
+          "title": "성남시, 공공기술로 도시 경쟁력 확장…식품 안전·환경행정 국제무대 도전",
+          "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008322",
+          "source": "중도일보"
         }
       ]
     }
