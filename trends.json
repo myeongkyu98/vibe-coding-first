@@ -1,188 +1,84 @@
 {
-  "updatedAt": "2026-11-24T04:59:27.834Z",
+  "updatedAt": "2026-11-24T05:55:49.672Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "count": 6
     },
     {
       "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "k9 자주포",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-24T03:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS16IHqHaRPha1rnQscgBzXBjUs2nVdPxd6V8ipgIPT01fE421dSQcUG5zDv5g",
+      "keyword": "퇴직",
+      "traffic": "20000+",
+      "trafficValue": 20000,
+      "startedAt": "2026-11-24T04:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmfwF1e6xjSIMI1NwycVU1xGu_ktCOMXfToGJyhA2KWzzK_9ar-7IT4ywB56M",
       "category": "경제",
       "news": [
         {
-          "title": "[단독] K-9 자주포 베트남에 추가 수출",
-          "url": "https://view.asiae.co.kr/article/2026112408492883586",
-          "source": "아시아경제"
+          "title": "퇴직연금 사외적립 의무화 앞두고…국민銀, 기업형 수수료 낮춘다",
+          "url": "https://stock.mk.co.kr/news/view/1204773",
+          "source": "매일경제 마켓"
         },
         {
-          "title": "한화에어로, 베트남에 'K-9' 자주포 추가 수출 전망",
-          "url": "https://www.ngetnews.com/news/articleView.html?idxno=556249",
-          "source": "뉴스저널리즘"
+          "title": "KB국민은행, 기업형 퇴직연금 수수료 인하…중소기업 부담 낮춘다 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/finance/2026/11/24/2026112408451552258",
+          "source": "머니투데이"
         },
         {
-          "title": "[단독] K-9 자주포 베트남에 추가 수출된다",
-          "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026112408492883586",
-          "source": "아시아경제"
+          "title": "퇴직급여 사외적립 의무화…국민은행, 27일부터 기업형 수수료 인하",
+          "url": "https://www.news1.kr/finance/general-finance/6363999",
+          "source": "뉴스1"
         }
       ]
     },
     {
-      "keyword": "삼성전자 임원 인사",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-24T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh9SeDUU6yQgD-r3l0XOLKgG6bcoRnw6fxk6MzrqXlEjC06uutWRlVjKXqBYI",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/24/23GDZCZG5FCWJMDHVSMS6G77AQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'갤럭시 사령탑 7년' 내려놓은 노태문…\"부품값 폭등 위기도 뚫은 저력\"",
-          "url": "https://www.newsis.com/view/NISX20261124_0003880254",
-          "source": "뉴시스"
-        },
-        {
-          "title": "삼성전자, 부사장 39명 등 131명 승진 인사(종합)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446185",
-          "source": "연합인포맥스"
-        }
-      ]
-    },
-    {
-      "keyword": "그랜드 테프트 오토 vi",
+      "keyword": "장기 기증",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-24T03:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOEkL6M0k9Bl99bZ0CLNMk69jHwe2qwqAC8iSsmunMo2BcODroCynJchYjd9c",
+      "startedAt": "2026-11-24T04:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkoAkJD3QgTOJENxCv8bfAtOvk9i1-y8pVI4ZDhQZ68F27-jNwh8CU6nqGxX8",
       "category": "기타",
       "news": [
         {
-          "title": "GTA 6가 증명한 30프레임의 가치",
-          "url": "https://www.itworld.co.kr/article/4251830/gta-6%EA%B0%80-%EC%A6%9D%EB%AA%85%ED%95%9C-30%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%98-%EA%B0%80%EC%B9%98.html",
-          "source": "www.itworld.co.kr"
+          "title": "“줄 수 있는 건 다 줄게” 약속 지키고 떠난 53세 가장 [아살세]",
+          "url": "https://www.kmib.co.kr/article/20261124500356",
+          "source": "국민일보"
         },
         {
-          "title": "\"GTA6보다 못해\" 무더기 0점…메타크리틱 이용자 평가 논란",
-          "url": "https://zdnet.co.kr/view/?no=20261124092222",
-          "source": "지디넷코리아"
+          "title": "50대 기관사, 간·신장에 눈도 내줬다…승객 안전 지키다 하늘로",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288806.html",
+          "source": "한겨레"
         },
         {
-          "title": "[동영상] \"내가 콘솔로 나온 걸 감사히 여겨라\" GTA6 돌풍에 잠잠한 모바일과 PC",
-          "url": "https://game.donga.com/125242/",
-          "source": "게임동아"
-        }
-      ]
-    },
-    {
-      "keyword": "중고",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T03:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSonXxqNVJffrEnn6JJcobEtDRNzaqSBumIcDqIkSNytbPDwJijm1ryvWtWnnE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "중고나라, '지도 기반 상품 탐색' 기능 도입",
-          "url": "https://zdnet.co.kr/view/?no=20261124132656",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "중고나라, 지도 기반 상품 탐색 기능 도입",
-          "url": "https://www.etnews.com/20261124000048",
-          "source": "전자신문"
-        },
-        {
-          "title": "중고나라, 지도 기반 검색 도입⋯ 고가 시계 거래 편의성 강화",
-          "url": "https://www.viva100.com/article/20261124500349",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "농업",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T03:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuo8is6zkGnMO-2OzWweyGE7r2ZWNqUETdzyBDVxTHRn0er2bYT28fsH_znU",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "파주 미래농업 혁신타운 조성 본격화…경기일보, 농업기술센터 이전 토론회",
-          "url": "https://www.kyeonggi.com/article/20261124580108",
-          "source": "경기일보"
-        },
-        {
-          "title": "파주시, 미래농업 혁신타운 조성 연구용역 착수보고회 개최",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008190",
-          "source": "중도일보"
-        },
-        {
-          "title": "파주시, 미래농업 혁신타운 조성 본격 추진",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1315245",
-          "source": "전국매일신문"
-        }
-      ]
-    },
-    {
-      "keyword": "대전 서남부 종합스포츠타운",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T03:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqCYykbigPwMPB-YhVVXNUIWIm6NEH9UBe-mh8WOat50nC-pfjY6jld2-XcFU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'대전 새 랜드마크' 서남부종합스포츠타운 실시설계 착수",
-          "url": "https://www.yna.co.kr/view/AKR20261124044400063",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "대전서남부스포츠타운 체육시설 건립 속도…설계 적격자에 계룡건설",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124100820Z7y",
+          "title": "\"줄 수 있는 건 다 주고 가겠다\"…장기기증으로 5명 살린 기관사",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124140743zPw",
           "source": "연합뉴스TV"
-        },
-        {
-          "title": "대전 서남부종합스포츠타운 시공사에 계룡컨소 선정",
-          "url": "https://www.newsis.com/view/NISX20261124_0003880757",
-          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "12월 3일",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T03:30:00.000Z",
+      "keyword": "12 월 3 일",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T04:20:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRVzBnmMynmDHw8c_2-KpnmbSPU0WJz3vJML6KN2q75jPeJfhCfQUk2YRaA8",
       "category": "정치·사회",
       "news": [
         {
-          "title": "12월 3일 국가기념일 된다… 李 “계엄군 맞선 위대한 국민 승리 기려야”",
+          "title": "12월 3일 국가기념일 된다…李 “계엄 맞선 ‘국민 주권의 날’ 기려야”",
           "url": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1",
           "source": "동아일보"
         },
@@ -199,63 +95,147 @@
       ]
     },
     {
-      "keyword": "장학금",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T03:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvNzRhFUZ2y99GH19mDnXtARtVhHA19AFqQz6T3jw2NOJzkeFvnmqkCRGutY",
-      "category": "스포츠",
+      "keyword": "강호동",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRsEboMNNzUtz1ck55Ukf4kb5r_QCdBLrE0Y0BjSV5wXFG8_xrFMKcRI7hvn8",
+      "category": "기타",
       "news": [
         {
-          "title": "계룡장학재단, 전국체전 대전 우수입상자 장학금 수여…“체육 인재 성장 응원\"",
-          "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/23/2026112350377.html",
-          "source": "뉴데일리 충청세종"
+          "title": "강호동, 무대 보다가 대성통곡…손수건 꺼내 눈물 닦았다 (천만기인쇼)",
+          "url": "https://sports.donga.com/ent/article/all/20261124/135078139/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "계룡장학재단, 전국체전 대전 우수선수에 2130만원 장학금",
-          "url": "https://www.newsis.com/view/NISX20261123_0003879900",
-          "source": "뉴시스"
+          "title": "[TV조선] 기인들의 왕중왕전",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/7U6PKLVL7NFM5PWLTYD4V6EJPY/",
+          "source": "조선일보"
         },
         {
-          "title": "대전시교육청, 체육 꿈나무 78명에 장학금 4680만 원 지원 - 보도자료 | 기사",
-          "url": "https://news.tf.co.kr/read/releasecopy/2392657.htm",
-          "source": "더팩트"
+          "title": "‘천만기인쇼’ 왕중왕전 개막… 강호동 대성통곡, 이도현 미공개 신기술 승부수",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3451517",
+          "source": "천지일보"
         }
       ]
     },
     {
-      "keyword": "반포자이",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T03:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjSTp9fBW4hDbAchUdtzhSlS3oWBoIrE5JNQfCXrC8Is3WOcEKQ-VQWFiERpw",
-      "category": "경제",
+      "keyword": "치이카와 클리닉",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-24T04:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6qSTdLH9VWj33_R12wWzNP7DBPS3ZhrRSWNn4xOZi3f5QC4phIx1Up5TS0Us",
+      "category": "기타",
       "news": [
         {
-          "title": "반포자이 보유세, 올해 1809만원→내년 2641만원",
-          "url": "https://www.donga.com/news/Economy/article/all/20261123/135076417/2",
-          "source": "동아일보"
+          "title": "'치이카와 클리닉' 팝업 1차 사전예약 하루 연기된 이유",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760308",
+          "source": "국제뉴스"
         },
         {
-          "title": "이헌욱 부동산원장, 공시가 조사 현장 찾아…\"신뢰할 수 있는 업무 구현\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446056",
-          "source": "연합인포맥스"
+          "title": "치이카와 팝업 1차 예약 하루 연기…사이트 정비",
+          "url": "https://www.jejutwn.com/news/article.html?no=464852",
+          "source": "제주교통복지신문"
         },
         {
-          "title": "2027년 보유세 계산서 — 공시가격 69% 유지와 종부세 개편 첫해, 서울 30단지 84㎡의 실거주·비거주 세금",
-          "url": "https://contents.premium.naver.com/plaform/bg/contents/261124001433004tm",
-          "source": "네이버 프리미엄콘텐츠"
+          "title": "치이카와 클리닉 @삿포로 아피아",
+          "url": "https://domingo.ne.jp/ko/event/55460",
+          "source": "domingo.ne.jp"
         }
       ]
     },
     {
-      "keyword": "윤하정",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T03:20:00.000Z",
+      "keyword": "지방세",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T04:20:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
+    },
+    {
+      "keyword": "김서형",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T04:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhx_xM5fn2w-1pBFHBGFsQvVIVZlbYwYpFhKqUqEk3GNvHZ44CAFNdKD6wRgA",
+      "category": "연예",
+      "news": [
+        {
+          "title": "김서형, 건강 악화로 촬영 중 드라마 하차…박보경 긴급 투입",
+          "url": "https://www.mk.co.kr/news/hot-issues/12216766",
+          "source": "매일경제"
+        },
+        {
+          "title": "박보경, 김서형 하차한 SBS 드라마 '대시' 합류",
+          "url": "https://www.yna.co.kr/view/AKR20261124074700005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "김서형 건강 악화로 ‘대시 하차…김보경 대체 투입 [공식]",
+          "url": "https://sports.donga.com/ent/article/all/20261124/135078690/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "팝콘",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5nARjazz2gNPF0yitabot3UUOcn2VGP13ww7TBpVE_NbLli0QxoVkZuHYh3A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
+          "source": "신아일보"
+        },
+        {
+          "title": "다시 만난 최승윤 대표",
+          "url": "https://www.ilyosisa.co.kr/news/article.html?no=258940",
+          "source": "일요시사"
+        },
+        {
+          "title": "백억커피, 서울 봉천현대점·수원탑동점 동시 오픈···수도권 가맹사업 확대",
+          "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56609",
+          "source": "이넷뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "트롯 데스매치 금타는 금요일",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T04:20:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "과즙 세연 방시혁",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T04:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRw7Y3ZOpm96PXzM51USI7T6e2yu9k5FqzF61txp08m3Vu2qpfqjTAPkk_fGZk",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "과즙세연 “아무리 아니라고 해도 계속 묻더라”…방시혁 루머에 선 그어",
+          "url": "https://www.donga.com/news/Culture/article/all/20261123/135073886/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "과즙세연 \"방시혁과 잤냐고? 안 잤다\"…코미디 무대 뒤집은 역대급 매운맛 해명",
+          "url": "https://www.fnnews.com/news/202611230756351536",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "과즙세연·이돈호의 `독설배틀`, 문득 떠오른 국회…차이는 웃음과 고소장? [시사뒷담]",
+          "url": "https://www.imaeil.com/page/view/2026112220531002552",
+          "source": "매일신문"
+        }
+      ]
     }
   ]
 }
