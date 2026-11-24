@@ -1,16 +1,24 @@
 {
-  "updatedAt": "2026-11-24T14:53:10.933Z",
+  "updatedAt": "2026-11-24T16:00:28.064Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 6
-    },
-    {
       "category": "스포츠",
-      "count": 2
+      "count": 4
     },
     {
       "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "기타",
+      "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     },
     {
@@ -25,7 +33,7 @@
       "trafficValue": 20000,
       "startedAt": "2026-11-24T12:10:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgpqNgoawB3vp5-193oxb7EbKiV8Xa9zEnoI-_qooZ-v3P-960R53TUE5tkdw",
-      "category": "기타",
+      "category": "스포츠",
       "news": [
         {
           "title": "17분 만에 3골 몰아친 화력쇼! 대전, 中 베이징 3-2 잡고 ACLE '연패 탈출'... 포항은 日 교토에 패배(종합) - 머니투데이",
@@ -38,116 +46,16 @@
           "source": "조선일보"
         },
         {
-          "title": "'마사 결승골' 대전, ACLE서 베이징 3-2 제압…포항은 교토에 패배",
-          "url": "https://www.news1.kr/sports/soccer/6364852",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "최재훈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-24T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg_tchSORmVG1nGcF31JTsMOQ8a4oHLBSUSc-7Se-IupuzqIzj3jB_9zv8Trk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
-          "url": "https://www.viva100.com/article/20261124500737",
-          "source": "브릿지경제"
-        },
-        {
-          "title": "[동정] 최재훈 달성군수",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
-          "source": "아시아뉴스통신"
-        },
-        {
-          "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111909571992819",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "陈吉宁",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-24T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBcbTuNB6xQiPHaQwq7snDfKYn0uvYIGppBM-dO8Nrnpp8Mt5ZEeTuVF49in8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "被认为是中国国家主席习近平接班人候选人的上海市委书记陈吉宁因涉嫌\"严重违纪违法\"正在接受反腐败调查。",
-          "url": "https://www.mk.co.kr/cn/world/12217544",
-          "source": "매일경제"
-        },
-        {
-          "title": "快訊:上海市委書記陳吉寧被調查",
-          "url": "https://www.ntdtv.com/gb/2026/11/24/a104153275.html",
-          "source": "新唐人電視台"
-        },
-        {
-          "title": "陈吉宁被调查：“清华系”失势、“上海跳板”失灵与政治局委员落马创纪录",
-          "url": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/simp",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "keyword": "의식불명",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-24T10:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSg05Wst7WoSrwuPdu2Q0qaGlfr4utLnfIoXnTi2zkxuYQJKduW2V-xjY-TcU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "창녕서 횡단보도 건너던 80대, 시외버스에 치여 의식 불명",
-          "url": "https://www.yna.co.kr/view/AKR20261124072800052",
+          "title": "K리그1 대전, ACLE 5차전서 베이징에 3-2 진땀승…2연패 탈출",
+          "url": "https://www.yna.co.kr/view/AKR20261124179600007",
           "source": "연합뉴스"
-        },
-        {
-          "title": "창녕서 횡단보도 건너던 80대, 시외버스에 치여 의식 불명",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720932",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "창녕 횡단보도 건너던 80대, 시외버스에 치여 의식불명",
-          "url": "https://www.newsis.com/view/NISX20261124_0003881646",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "비",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-24T12:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyLCwXTA0LR53O7KUMHsbwyKzn7UgjCTJumrjxwBYkAwIOfjNZ4qamBagas7E",
-      "category": "기타",
-      "news": [
-        {
-          "title": "틈만나면, 67회 다시보기 : 브런치와 바이크를 넘나드는 찐친들! 비X김재욱의 신촌 틈새 공략!",
-          "url": "https://programs.sbs.co.kr/enter/teum/vod/82255/22000640176",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "틈만나면, : 비×유연석, 김재욱의 자리 이동 제안에 즉각 움직이며 틈 미션 도전",
-          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484401985",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "'틈만나면,' 비, 체지방률 0%의 반전 식성…\"죽기 전 치즈버거 먹고파\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112408057243137",
-          "source": "머니투데이"
         }
       ]
     },
     {
       "keyword": "주우재",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-24T13:00:00.000Z",
       "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQkZw4r2gq9S1-5a652xrL26iMtPZuPD3N_Dy3DM0L90kAXftORVyiO4vbETk",
       "category": "연예",
@@ -158,14 +66,114 @@
           "source": "대한민국 대표 공영미디어 KBS"
         },
         {
+          "title": "주우재, 허경환 과거 태도 폭로 \"인기 없다고 깔보고 무시해\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112423374016469",
+          "source": "머니투데이"
+        },
+        {
           "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
           "url": "https://www.newsis.com/view/NISX20261124_0003880179",
           "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "시그널2",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T14:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2s6DCWmGwuDE_uszyake874P9v7ukSa_yf6tO5t_ijNZdvxgLNMdeFRz_TZc",
+      "category": "연예",
+      "news": [
+        {
+          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+          "url": "https://sports.khan.co.kr/article/202611240740003",
+          "source": "스포츠경향"
         },
         {
-          "title": "주우재 \"허경환에 2억까지 빌려줄 수 있다\" 특급 의리(옥문아)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GQ3DMOLGMU4DMNRSG4YDOYZTME/",
+          "title": "'조진웅 논란'에도 12월 방송 확정…'두 번째 시그널' 포스터 공개 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112410143352396",
+          "source": "머니투데이"
+        },
+        {
+          "title": "[센터엔터] ’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만 外",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124133245at3",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "주진우",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T14:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8q5TFBmZUzxz5TYOr7tk7w_cZwQ5919rdonDUbHS9LtPkS5wI0wVlLWHUKl0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다”",
+          "url": "https://www.khan.co.kr/article/202611242140015",
+          "source": "경향신문"
+        },
+        {
+          "title": "[사설] 경력미달 검경 사령탑, 인사권자 관심은 오로지 ‘공소 취소’",
+          "url": "https://www.chosun.com/opinion/editorial/2026/11/25/SYRU72T4U5AOHHPQVIOC7P5ELA/",
           "source": "조선일보"
+        },
+        {
+          "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
+          "source": "MBC 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "황영묵",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T14:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ82wm8-8lnI6r1aY86vG6-Ara7rz-SnjThGjf8CQ_vsp9P08T7Cicge6gtXk",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "\"간곡히 부탁드립니다\" 결혼식 앞둔 한화 황영묵, SNS에 직접 글 올려 호소한 사연은",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/24/MNRDGZRTGY3GCODFMEYDGYRWGM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"가족들 조롱·비난 멈춰주세요\" 한화 황영묵은 왜, 결혼 코 앞에 두고 장문 메시지 남겼나 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416370949378",
+          "source": "머니투데이"
+        },
+        {
+          "title": "프로야구 한화 황영묵, 1년 3개월 교제한 예비 신부와 29일 결혼",
+          "url": "https://www.news1.kr/sports/baseball/6364231",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "미국 상품거래위원회",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T13:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ02JA7iP2SlsR3DQ0fvMpIDNveQnNGhqGxXoRz6oKcKM3ZvXtzBrH8ntiRkYg",
+      "category": "경제",
+      "news": [
+        {
+          "title": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02728966645649000",
+          "source": "마켓인"
+        },
+        {
+          "title": "CFTC, 코인 운영재원 인정…6개월치는 ‘코인 불가’",
+          "url": "https://www.coinreaders.com/272901",
+          "source": "코인리더스"
+        },
+        {
+          "title": "이번 주 암호화폐 법 동향 (2026년 11월 22일)",
+          "url": "https://news.bitcoin.com/ko/regulation-and-legal/ibeon-ju-amhohwapye-beop-donghyang-2026nyeon-11wol-22il/",
+          "source": "Bitcoin News"
         }
       ]
     },
@@ -174,73 +182,73 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-24T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnYqhILpc94VJdkVkwUuuhLsOEB0N2TSVNbC_b9kd4bSnaq8-hcWRXfsF1whg",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRqcS3NvWzlgtAe24RcCQW3z7ZXd5r84ha7inmy8lyPAKTN3GSDebN51RTZ1E",
       "category": "스포츠",
       "news": [
         {
-          "title": "LIVE CAHN 0-0 Vissel Kobe AFC Champions League (First Half): An exciting attacking game.",
-          "url": "https://www.vietnam.vn/en/truc-tiep-cahn-0-0-vissel-kobe-cup-c1-chau-a-hiep-1-doi-cong-hap-dan",
+          "title": "Japan's strongest team suffers a crushing defeat in Vietnam.",
+          "url": "https://www.vietnam.vn/en/doi-bong-manh-nhat-nhat-ban-tham-bai-o-viet-nam",
           "source": "Vietnam.vn"
+        },
+        {
+          "title": "Cong An Ha Noi vs Vissel Kobe: Where to Watch, Kick-off Time and Live Stream Info",
+          "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-cong-an-ha-noi-v-vissel-kobe/bltca0e71cc2f68c8f0",
+          "source": "Goal.com"
         },
         {
           "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
           "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
           "source": "The AFC"
-        },
-        {
-          "title": "Live coverage of Hanoi Police vs Vissel Kobe: Hanoi Police miss a penalty.",
-          "url": "https://baonghean.vn/en/truc-tiep-cong-an-ha-noi-vs-vissel-kobe-cong-an-ha-noi-bo-lo-phat-den-10356518.html",
-          "source": "Báo Nghệ An"
         }
       ]
     },
     {
-      "keyword": "치안감",
+      "keyword": "cricbuzz",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T12:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtz5AVv9gCY98wboW2TMaQ0fsMbeDtWrnjf9ZyjAO8R6tSvU5nYhh7Kw50IQc",
+      "startedAt": "2026-11-24T12:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjxDuZdJDCrR2c7TL7LtTpi4IyU7Lt4dz1gOJXHPVMf0vdyL-zGOqFH9wVrwY",
       "category": "스포츠",
       "news": [
         {
-          "title": "‘경찰 2인자’ 치안정감에 김병기-송영호…치안감 4명도 승진",
-          "url": "https://www.donga.com/news/Society/article/all/20261124/135080013/1",
-          "source": "동아일보"
+          "title": "INDA vs UAE, 11th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/177203/uae-vs-inda-11th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
+          "source": "Cricbuzz"
         },
         {
-          "title": "함영욱 경기남부청 광역수사단장, 치안감 승진 내정",
-          "url": "https://www.kyeongin.com/article/1775292",
-          "source": "경인일보"
+          "title": "India A opponents in 2026 Asia Games Rising Stars: Who will Tilak Varma's men face in the semi-final?",
+          "url": "https://sports.yahoo.com/articles/india-opponents-2026-asia-games-152500289.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "[프로필] 송영호 치안정감 내정자…비상계엄 특별수사 총괄 경력",
-          "url": "https://www.news1.kr/society/incident-accident/6364019",
-          "source": "뉴스1"
+          "title": "Who is Harpreet Singh Bhatia? Former India U-19 cricketer who hit a 120-ball 100 for UAE against India A",
+          "url": "https://sportstar.thehindu.com/cricket/who-is-harpreet-singh-bhatia-uae-india-a-rising-stars-asia-cup/article71737615.ece",
+          "source": "Sportstar"
         }
       ]
     },
     {
-      "keyword": "무궁화호",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T11:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSlicT0lZ5Dxp5do-mhU_6jNNlgtxT2ePpjFjYXW5VMARs-TfVzyMgxK5nj0",
-      "category": "기타",
+      "keyword": "추성훈 은퇴전",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T14:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXBBmxVypoZI_aXEVULJbV69IwYgLpDBzQV5kIeV42qDBX39siJBBG_eqVrYI",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "코레일, 새 단장한 무궁화호 첫 운행…2028년까지 객차 280칸 개량",
-          "url": "https://www.donga.com/news/Economy/article/all/20261124/135084379/1",
-          "source": "동아일보"
+          "title": "\"기개도 없으면서 남자다운 척!\" 추성훈 은퇴→日 격투기 전설 아들 '공개 저격'...20년 전 악연 재소환에 일본도 시끌 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/25/202611242000772812O",
+          "source": "머니투데이"
         },
         {
-          "title": "새로 리모델링한 무궁화호 운행 시작…주행장치 개량, 화장실도 정비",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026112420515281681",
-          "source": "부산일보"
+          "title": "[잇슈 컬처] 추성훈, 격투 인생 마침표…장문의 심경글",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719549",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "\"퇴물에서 신차급으로\" 680억 들여 환골탈태한 무궁화호 [PHOTO]",
-          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18289",
-          "source": "철도경제신문"
+          "title": "[8회 예고] 추성훈의 마지막 도전 (ft.깜짝 응원단) # 상남자의여행법",
+          "url": "https://programs.sbs.co.kr/plus/realmantrip/clip/90295/22000640261",
+          "source": "programs.sbs.co.kr"
         }
       ]
     },
@@ -249,23 +257,23 @@
       "traffic": "100+",
       "trafficValue": 100,
       "startedAt": "2026-11-24T12:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_otL7b7ERbkX2Avcboz_J6Ac85sELZ3_X9PePapdKoyxb8aLJDGgQx5Mar5s",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTT_QmnHv3Cl-3a6lZXTGk51uiU4gsocP2mCkzBZAbrKGAl_2szHrt7WHd1oLs",
       "category": "정치·사회",
       "news": [
         {
-          "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721247",
+          "title": "목동역 인근 모텔서 화재... 1명 사망",
+          "url": "https://www.chosun.com/national/national_general/2026/11/24/MM7FBJRSG5CCHNXPLYKGLBOHZA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "서울 양천구 숙박업소서 불…50대 남성 투숙객 숨져",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721432",
           "source": "KBS 뉴스"
         },
         {
-          "title": "주택 화재로 80대 어머니와 두 아들 숨져...합동감식",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611241156560345_005.html",
+          "title": "'장기 투숙' 50대 사망...경찰, 방화 가능성 조사",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611242049362337",
           "source": "YTN"
-        },
-        {
-          "title": "부산 사하구 단독주택서 불…3명 사망",
-          "url": "https://www.newsis.com/view/NISX20261124_0003880119",
-          "source": "뉴시스"
         }
       ]
     }
