@@ -1,24 +1,12 @@
 {
-  "updatedAt": "2026-11-24T11:53:22.025Z",
+  "updatedAt": "2026-11-24T13:06:51.473Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "스포츠",
-      "count": 2
+      "count": 8
     },
     {
       "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
       "count": 1
     },
     {
@@ -28,84 +16,109 @@
   ],
   "items": [
     {
-      "keyword": "프로포폴",
+      "keyword": "의식불명",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-24T10:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR10tZRKA-n95hPxA_3lVrhp2k5gzg3WnTEfaNCDUKfYiZtvCyxnYNKgQGLERg",
+      "startedAt": "2026-11-24T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSg05Wst7WoSrwuPdu2Q0qaGlfr4utLnfIoXnTi2zkxuYQJKduW2V-xjY-TcU",
       "category": "기타",
       "news": [
         {
-          "title": "‘반포대교 추락 포르쉐’ 약물 공급 혐의 병원장…1심서 징역형",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721193",
+          "title": "창녕서 횡단보도 건너던 80대, 시외버스에 치여 의식 불명",
+          "url": "https://www.yna.co.kr/view/AKR20261124072800052",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "창녕서 횡단보도 건너던 80대, 시외버스에 치여 의식 불명",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720932",
           "source": "KBS 뉴스"
         },
         {
-          "title": "'반포대교 추락' 운전자에게 프로포폴 공급한 병원장, 1심 징역 1년 6개월",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6868215_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "'프로포폴 오남용' 병원장 징역 1년6개월…184차례 투약",
-          "url": "https://www.fnnews.com/news/202611241604524137",
-          "source": "파이낸셜뉴스"
+          "title": "창녕 횡단보도 건너던 80대, 시외버스에 치여 의식불명",
+          "url": "https://www.newsis.com/view/NISX20261124_0003881646",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "배용준",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-24T10:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXEtZm6gsxFgkRJo_L1O0YnV9QTVAzyAP0DtmUmy_9SRs_pdfURFIHQEWlsV4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "배용준·박수진, 4년 하와이 생활 접고 한국행…반포 아파트 이사",
-          "url": "https://www.donga.com/news/Culture/article/all/20261124/135082030/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "배용준·박수진, 하와이 생활 청산하고 귀국…반포 고급 아파트 이사",
-          "url": "https://www.mk.co.kr/news/hot-issues/12217066",
-          "source": "매일경제"
-        },
-        {
-          "title": "'하와이行' 배용준♥박수진, 지난해 서울 목격담 나오더니 결국…귀국설 현실로[SC이슈]",
-          "url": "https://www.chosun.com/entertainments/celebrity/2026/11/24/GMYDOYZUMZTGEODEHFRDSZDGMI/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "pakistan a vs nepal",
+      "keyword": "陈吉宁",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-24T09:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAGLfp8EvKEbUxrd9ndGMxqT4a-C5gCbime5guumoTuVk--mstbizWc7G1EDQ",
-      "category": "스포츠",
+      "startedAt": "2026-11-24T11:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiHdJohUNQR0COKz_pFpqRdqa-l7Opa6r1BPMPr7fsEofa-XbAdpy5O4u1NUs",
+      "category": "기타",
       "news": [
         {
-          "title": "Pakistan vs Nepal Live Score, Asia Cup Rising Stars Live Updates:Pakistan Shocked, 3-Down In 7 Overs vs Nepal",
-          "url": "https://sports.ndtv.com/cricket/pakistan-vs-nepal-live-score-asia-cup-rising-stars-live-updates-12370170",
-          "source": "NDTV Sports"
+          "title": "官宣上海市委书记陈吉宁涉嫌严重违纪违法 正接受审查调查",
+          "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261124-%E5%AE%98%E5%AE%A3%E9%99%88%E5%90%89%E5%AE%81%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95-%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%AE%A1%E6%9F%A5%E8%B0%83%E6%9F%A5",
+          "source": "RFI"
         },
         {
-          "title": "Pakistan A vs Nepal, free match prediction 24 November 2026",
-          "url": "https://www.thetopbookies.com/betting-tips/cricket/pak-a-vs-nep-24-Nov-2026",
-          "source": "TheTopBookies"
+          "title": "陈吉宁落马 大纪元曾曝：五中全会后被叫走",
+          "url": "https://www.epochtimes.com/gb/26/11/24/n14894460.htm",
+          "source": "大紀元"
         },
         {
-          "title": "Pakistan A vs Nepal Live Streaming: When And Where To Watch Rising Stars Asia Cup Match?",
-          "url": "https://www.ndtvprofit.com/sports/pakistan-a-vs-nepal-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-match-12369526",
-          "source": "NDTV Profit"
+          "title": "震惊！上海市委书记陈吉宁落马 - 国际 - 即时国际",
+          "url": "https://www.sinchew.com.my/news/20261124/international/8114340",
+          "source": "Sin Chew Daily"
+        }
+      ]
+    },
+    {
+      "keyword": "부천시",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRji2ddFEJA4y7zCMH_DBAdTfyxuaZ2TR0mOuAQtwWG8dF4J9_seIQiqdj-yRY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "월초 ‘충전 쏠림’ 없앤다…부천페이, 내년 1월 ‘결제 시 환급’ 개편",
+          "url": "https://www.kyeonggi.com/article/20261124580348",
+          "source": "경기일보"
+        },
+        {
+          "title": "부천 지역화폐 캐시백, 내년부터 충전 아닌 결제 때 지급",
+          "url": "https://www.yna.co.kr/view/AKR20261124054900065",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "매달 초 ‘충전 경쟁’ 사라질까…부천시, ‘부천페이’ 인센티브 지급 방식 바꾼다",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1288914.html",
+          "source": "한겨레"
+        }
+      ]
+    },
+    {
+      "keyword": "acc emerging teams asia cup",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-24T10:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN9yhRlCL7MVOFjboe4JK161j4VcD7YmxMzy2ZcofYMWFyXPoMHRFKSChX-sY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "28 Balls Of Pure Carnage: 15-Year-Old Vaibhav Sooryavanshi Shatters World Record Against UAE",
+          "url": "https://www.sportscapemagazine.com/blog/28-balls-of-pure-carnage-15-year-old-vaibhav-sooryavanshi-shatters-world-record-against-uae",
+          "source": "Sportscape Magazine"
+        },
+        {
+          "title": "India A Crush UAE in Record 14.2 Over Chase in Doha",
+          "url": "https://cwibc.co.id/en/india-a-crush-uae-record-chase",
+          "source": "cwibc.co.id"
+        },
+        {
+          "title": "Fastest centuries in List A cricket: Vaibhav Sooryavanshi breaks world record",
+          "url": "https://sports.yahoo.com/articles/fastest-centuries-list-cricket-vaibhav-111526669.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
       "keyword": "히잡",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-24T10:10:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVbv3vqs8T6753ZmQZzdbvYjv3aIkDjEwSCK6Uv9pd6qLdqlGlfiaZKqsQ5w0",
       "category": "연예",
@@ -116,116 +129,100 @@
           "source": "조선일보"
         },
         {
-          "title": "“무대서 히잡 벗었다가”…이란 女가수에 태형 74대, 예술 활동 2년 금지",
-          "url": "https://www.kyeonggi.com/article/20261124580562",
-          "source": "경기일보"
-        },
-        {
           "title": "이란, 히잡 없이 공연한 여성 가수에 태형 74대",
           "url": "https://imnews.imbc.com/news/2026/world/article/6868199_36925.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "민소매 드레스에 긴머리로 노래했다고…20대 女가수에 태형 74대 집행 '이 나라'",
+          "url": "https://www.etnews.com/20261124000338",
+          "source": "전자신문"
         }
       ]
     },
     {
-      "keyword": "한석준",
+      "keyword": "비",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-24T09:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEfOIPR_ztUOlXLr1CAous0Ie9PSAq8SXwquhwTQjrCTN7n_E94hpHAGkfbfU",
-      "category": "연예",
-      "news": [
-        {
-          "title": "한석준, 5년 갈아넣은 방송서 '강제 하차'...\"화나서 울었다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112411215878301",
-          "source": "머니투데이"
-        },
-        {
-          "title": "한석준 “‘우리말 겨루기’ 강제 하차에 차 세우고 오열”…전현무 동반 퇴사도 거절",
-          "url": "https://www.donga.com/news/Culture/article/all/20261124/135082092/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "“저를 가둬 놓고 살았다”…이금희, 18년간 ‘아침마당’ 진행→하차 후 솔직한 심경 [MHN:픽]",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1708602",
-          "source": "MHN스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "캐니언",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T09:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavArsp1Ry9nJu78Hs-UoF3PMjhLUeDt692MWqraNTULUSx0Z6zRIJZZm6iZw",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
-          "url": "https://www.hankyung.com/article/202611222346i",
-          "source": "한국경제"
-        },
-        {
-          "title": "한화생명, 카나비 떠난 자리에 ‘캐니언’ 김건부 영입",
-          "url": "https://www.kukinews.com/article/view/kuk202611240240",
-          "source": "쿠키뉴스"
-        },
-        {
-          "title": "롤드컵 준우승 젠지e스포츠 새판에 ‘광주·전남 신예’ 뜨나",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085133",
-          "source": "진일보 | 전남일보"
-        }
-      ]
-    },
-    {
-      "keyword": "다리오 아모데이",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T09:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_DgewmMQCGs-WWSlnX9PI_2nw9JaBkj0eNXxatexq-NXAg2wweO6etqk_do",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "기대감의 시대 끝...AI, '수익성'으로 증명하라",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231102465190",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "리플 CEO \"XRP는 리플의 나침반… 가상화폐 시장 반등할 것\"",
-          "url": "https://www.g-enews.com/article/Securities/2026/11/202611231510231143e250e8e188_1",
-          "source": "글로벌이코노믹"
-        },
-        {
-          "title": "스페이스X땐 불나방이었는데…앤트로픽엔 소심해진 국내 ETF들",
-          "url": "https://stock.mk.co.kr/news/view/1204566",
-          "source": "매일경제 마켓"
-        }
-      ]
-    },
-    {
-      "keyword": "부천시",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T10:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLg93k6Uzh2DLSB8ecdwf8ItFenNyuk8ti5CLJvQ4opVtXOPA0xpMlok1dzFA",
+      "startedAt": "2026-11-24T12:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRLdNSsRkGOIoqNjga1O9JdxM7GIe97iuMccXKZwlidvoksRIYhUOHEazK18g",
       "category": "기타",
       "news": [
         {
-          "title": "부천 지역화폐 캐시백, 내년부터 충전 아닌 결제 때 지급",
-          "url": "https://www.yna.co.kr/view/AKR20261124054900065",
-          "source": "연합뉴스"
+          "title": "틈만나면, : [67회 선공개] “부탁 좀 드릴게요 형” 비, 체력 조절이 중요해진 새로운 틈 미션에 당황",
+          "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484383944",
+          "source": "programs.sbs.co.kr"
         },
         {
-          "title": "매달 초 ‘충전 경쟁’ 사라질까…부천시, ‘부천페이’ 인센티브 지급 방식 바꾼다",
-          "url": "https://www.hani.co.kr/arti/area/chungcheong/1288914.html",
-          "source": "한겨레"
+          "title": "'틈만나면,' 김재욱, 신들린 피크 컨트롤…비 \"네가 화제성 1위\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112417307268028",
+          "source": "머니투데이"
         },
         {
-          "title": "월초 ‘충전 쏠림’ 없앤다…부천페이, 내년 1월 ‘결제 시 환급’ 개편",
-          "url": "https://www.kyeonggi.com/article/20261124580348",
-          "source": "경기일보"
+          "title": "'김태희♥' 비, 뜻밖의 '지방간' 고백…알고보니 고칼로리 음식 러버 (틈만나면)",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/11/24/MM4TENTEMY3GCZTEMQ4WKOBUGE/",
+          "source": "Chosunbiz"
         }
       ]
+    },
+    {
+      "keyword": "최재훈",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T11:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg_tchSORmVG1nGcF31JTsMOQ8a4oHLBSUSc-7Se-IupuzqIzj3jB_9zv8Trk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
+          "url": "https://www.viva100.com/article/20261124500737",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "[동정] 최재훈 달성군수",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
+          "source": "아시아뉴스통신"
+        },
+        {
+          "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/policy/2026/11/19/2026111909571992819",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "무안국제공항",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-24T10:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4pjG6uEjq5YkkR9BPelH5AYsd327VwMggvLqJEJ3wnphA7VeFCUhnWnaH5l8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "\"광주공항, 내년말 무안공항으로 통합 이전\"",
+          "url": "https://www.hankyung.com/article/2026112349231",
+          "source": "한국경제"
+        },
+        {
+          "title": "광주군공항 무안 확정 내년으로…주민공청회 법적시한 지나",
+          "url": "https://www.newsis.com/view/NISX20261123_0003878920",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "afc 챔스",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T11:00:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "전광훈",
@@ -249,31 +246,6 @@
           "title": "경찰, ‘정치자금법 위반’ 전광훈 목사 구속영장 신청",
           "url": "https://www.khan.co.kr/article/202611241047001",
           "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "무안국제공항",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T10:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4pjG6uEjq5YkkR9BPelH5AYsd327VwMggvLqJEJ3wnphA7VeFCUhnWnaH5l8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "\"광주공항, 내년말 무안공항으로 통합 이전\"",
-          "url": "https://www.hankyung.com/article/2026112349231",
-          "source": "한국경제"
-        },
-        {
-          "title": "광주군공항 무안 확정 내년으로…주민공청회 법적시한 지나",
-          "url": "https://www.newsis.com/view/NISX20261123_0003878920",
-          "source": "뉴시스"
         }
       ]
     }
