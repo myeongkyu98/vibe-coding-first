@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T16:59:15.405Z",
+  "updatedAt": "2026-11-24T17:49:22.790Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 4
-    },
-    {
       "category": "연예",
-      "count": 2
+      "count": 3
     },
     {
       "category": "기타",
-      "count": 1
+      "count": 3
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "경제",
@@ -20,17 +20,13 @@
     {
       "category": "생활·날씨",
       "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
     }
   ],
   "items": [
     {
       "keyword": "pakistan a vs nepal national cricket team standings",
-      "traffic": "5000+",
-      "trafficValue": 5000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-24T15:50:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmBQvd6QwMBAY1_VvzRNILIah4VMs6KzN8F4b9TSjC2MGjYSip2S2oPOaydN0",
       "category": "스포츠",
@@ -46,9 +42,9 @@
           "source": "Cricinfo"
         },
         {
-          "title": "Shaheens crush Nepal to stay unbeaten in Asia Cup Rising Stars",
-          "url": "https://tribune.com.pk/story/2642108/shaheens-crush-nepal-to-stay-unbeaten-in-asia-cup-rising-stars",
-          "source": "The Express Tribune"
+          "title": "Rohail Nazir's unbeaten half-century guides Pakistan Shaheens to a 96-run win over Nepal",
+          "url": "https://www.pcb.com.pk/news-detail/rohail-nazir-s-unbeaten-half-century-guides-pakistan-shaheens-to-a-96-run-win-over-nepal.html",
+          "source": "Pakistan Cricket Board (PCB)"
         }
       ]
     },
@@ -58,7 +54,7 @@
       "trafficValue": 500,
       "startedAt": "2026-11-24T14:00:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ82wm8-8lnI6r1aY86vG6-Ara7rz-SnjThGjf8CQ_vsp9P08T7Cicge6gtXk",
-      "category": "스포츠",
+      "category": "연예",
       "news": [
         {
           "title": "\"간곡히 부탁드립니다\" 결혼식 앞둔 한화 황영묵, SNS에 직접 글 올려 호소한 사연은",
@@ -71,9 +67,9 @@
           "source": "머니투데이"
         },
         {
-          "title": "프로야구 한화 황영묵, 1년 3개월 교제한 예비 신부와 29일 결혼",
-          "url": "https://www.news1.kr/sports/baseball/6364231",
-          "source": "뉴스1"
+          "title": "“아내와 백년가약 맺는다” 한화 내야수 황영묵, 29일 결혼 발표",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3761964",
+          "source": "국제뉴스"
         }
       ]
     },
@@ -96,8 +92,8 @@
           "source": "머니투데이"
         },
         {
-          "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
-          "url": "https://www.newsis.com/view/NISX20261124_0003880179",
+          "title": "강재준 \"힘들 때 양세찬이 먼저 1억원 빌려준다고 해\"",
+          "url": "https://www.newsis.com/view/NISX20261124_0003881792",
           "source": "뉴시스"
         }
       ]
@@ -121,9 +117,9 @@
           "source": "Vietnam.vn"
         },
         {
-          "title": "챔피언스 리그 갈라타사라이 대 아스톤 빌라 경기 예측",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-galatasaray-vs-aston-villa-tai-champions-league-1805476.ldo",
-          "source": "Laodong.vn"
+          "title": "특공대·열화상 드론까지 투입…‘사자’ 쫓던 이스탄불의 반전",
+          "url": "https://www.joongang.co.kr/article/25481691",
+          "source": "중앙일보"
         }
       ]
     },
@@ -157,23 +153,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-24T14:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3_WamDxiqFI3Vy5Fun4nh8woBYLDuwRcXIu-HCi6Q7lrt9uK9t537TfjNBso",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8q5TFBmZUzxz5TYOr7tk7w_cZwQ5919rdonDUbHS9LtPkS5wI0wVlLWHUKl0",
       "category": "기타",
       "news": [
+        {
+          "title": "야 “공소취소 지휘 않겠단 얘기 못하나”…이용철 “예, 그렇다”",
+          "url": "https://www.khan.co.kr/article/202611242140015",
+          "source": "경향신문"
+        },
         {
           "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "유동규 \"닭백숙집서 판돈 200만원 포커\"…이용철 \"육식을 못한다\"",
-          "url": "https://weekly.chosun.com/news/articleView.html?idxno=60061",
-          "source": "주간조선"
-        },
-        {
-          "title": "[단독] '대장동 수사' 강백신 검사 \"정치권력자가 원하는 사실 조작할 것 … 현대판 지록위마\"",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450302.html",
-          "source": "뉴데일리"
+          "title": "유동규와 ‘닭백숙집 포커’ 의혹에… 이용철 “난 육식 못한다” 부인",
+          "url": "https://www.chosun.com/national/court_law/2026/11/24/OUQIZJON75AVZG54TTGQRMJXPQ/",
+          "source": "조선일보"
         }
       ]
     },
@@ -203,27 +199,52 @@
       ]
     },
     {
-      "keyword": "꽁안 하노이 fc 대 비셀 고베",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRGDV5X85uS1tVLuuPJfKa22YZAajDc7y20aQHm7w6bnvjZv8U2OswGy393Rc",
-      "category": "스포츠",
+      "keyword": "에릭 페디",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T16:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Inua_h5ZBxVfKUrMNkag_uePbAM_CIbP2pOnLGNAGtLrw5hoU-bVfmUKxxI",
+      "category": "기타",
       "news": [
         {
-          "title": "Coach Polking: 'There's no time to celebrate'",
-          "url": "https://www.vietnam.vn/en/hlv-polking-khong-co-thoi-gian-an-mung-dau",
-          "source": "Vietnam.vn"
+          "title": "\"죄송합니다. 미국에 남겠습니다\" 20승 투수 또 한국행 불발, 대체 왜 거절했나",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/24/MFSGIZBVHAZWKNBXGNTGEYTCMY/",
+          "source": "조선일보"
         },
         {
-          "title": "MD5: Cong An Ha Noi FC (VIE) 3-1 Vissel Kobe (JPN)",
-          "url": "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-cong-an-ha-noi-fc-vie-3-1-vissel-kobe-jpn",
-          "source": "The AFC"
+          "title": "‘FA 최대어’ 원태인 영입전, NC도 뛰어들었다",
+          "url": "https://www.khan.co.kr/article/202611242032005",
+          "source": "경향신문"
         },
         {
-          "title": "Live coverage of Hanoi Police vs Vissel Kobe: Hanoi Police miss a penalty.",
-          "url": "https://baonghean.vn/en/truc-tiep-cong-an-ha-noi-vs-vissel-kobe-cong-an-ha-noi-bo-lo-phat-den-10356518.html",
-          "source": "Báo Nghệ An"
+          "title": "구자욱 '시끌', 원태인 '잠잠'...알고보면 물밑 계산은 더 치열",
+          "url": "https://www.ytn.co.kr/_ln/0107_202611242337414343",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "랜드로버 디펜더",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-24T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbU8FOSW23vAY3JVtFl0yVsDnzAoUQGRprdJnEySN581oC8cYEGkqw5kJch-Q",
+      "category": "기타",
+      "news": [
+        {
+          "title": "디펜더, 영국 적십자 파트너십 2029년까지 연장",
+          "url": "https://www.donga.com/news/article/all/20261124/135079396/2",
+          "source": "동아일보"
+        },
+        {
+          "title": "디펜더, 영국 적십자와 협력 2029년까지 연장…\"NGO 사양 110·130 추가 투입\"",
+          "url": "https://www.fnnews.com/news/202611240951091458",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "디펜더, 영국 적십자와 파트너십 2029년까지 연장",
+          "url": "https://www.autoview.co.kr/ko-kr/articles/102632",
+          "source": "오토뷰"
         }
       ]
     },
@@ -249,31 +270,6 @@
           "title": "[8회 예고] 추성훈의 마지막 도전 (ft.깜짝 응원단) # 상남자의여행법",
           "url": "https://programs.sbs.co.kr/plus/realmantrip/clip/90295/22000640261",
           "source": "programs.sbs.co.kr"
-        }
-      ]
-    },
-    {
-      "keyword": "화재",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-24T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUbiG0nvF85gsh6DIETL61BCfoiYBdjfipJ75ITw1KyF6wbk7Rf9rjQryGgyw",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "구리소방서, 노후 공동주택 화재 취약세대에 화재감지기 보급 강화",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806085",
-          "source": "일간투데이"
-        },
-        {
-          "title": "동네 소방시설 한 눈에…구리소방서 AI 활용 웹지도 구축",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008764",
-          "source": "아시아투데이"
-        },
-        {
-          "title": "여수시, 화재취약계층에 자동소화패치 1,738개 지원…주거 안전 강화",
-          "url": "https://sisaissue.com/View.aspx?No=4327900",
-          "source": "시사의창"
         }
       ]
     }
