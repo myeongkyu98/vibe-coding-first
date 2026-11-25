@@ -1,20 +1,24 @@
 {
-  "updatedAt": "2026-11-25T15:58:22.252Z",
+  "updatedAt": "2026-11-25T16:59:54.530Z",
   "summary": [
     {
       "category": "기타",
       "count": 6
     },
     {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "연예",
+      "category": "IT·과학",
       "count": 1
     },
     {
       "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
       "count": 1
     }
   ],
@@ -24,18 +28,18 @@
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-25T14:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2s6DCWmGwuDE_uszyake874P9v7ukSa_yf6tO5t_ijNZdvxgLNMdeFRz_TZc",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKKVr6GGOeKB1xB-g1xVtVu6Waml8KT0RJPPEs7hrfDV_WD45fQuwVFjd5pvY",
       "category": "기타",
       "news": [
-        {
-          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
-          "url": "https://sports.khan.co.kr/article/202611240740003",
-          "source": "스포츠경향"
-        },
         {
           "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
           "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
           "source": "YTN"
+        },
+        {
+          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+          "url": "https://sports.khan.co.kr/article/202611240740003",
+          "source": "스포츠경향"
         },
         {
           "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
@@ -70,52 +74,52 @@
       ]
     },
     {
-      "keyword": "세계의 주인",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T13:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZsq1jtFc9qQOUxSQQADtfXARU4gNpDdaEkPrdS5b-3__yBwyWPs3vg3afZU",
-      "category": "연예",
+      "keyword": "qqq",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T15:20:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu121PZssiwUYxNY91gK0zVckHX9x9fYpSBy00wunt_qXFqrtPJDUyvy7JnUg",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "40주 만에 1위, 청룡이 선택한 남자 오정세 [O! STAR 숏폼]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/HBSGMMRYMVRTKY3GGRQWMMLEG4/",
-          "source": "조선일보"
+          "title": "Invesco QQQ ETF Jumps 7% as Jensen Huang’s Nvidia Comeback Fuels AI Stock Rally",
+          "url": "https://www.tipranks.com/news/invesco-qqq-etf-jumps-7-as-jensen-huangs-nvidia-comeback-fuels-rally-in-ai-stocks",
+          "source": "TipRanks"
         },
         {
-          "title": "40주 만에 1위 한 ‘만년 2등 가수’…청룡서 당당히 립싱크",
-          "url": "https://sports.khan.co.kr/article/202611252259003",
-          "source": "스포츠경향"
+          "title": "Invesco QQQ (NASDAQ:QQQ) Shares Climb 7% - Should You Buy?",
+          "url": "https://www.marketbeat.com/instant-alerts/price-invesco-qqq-nasdaq-qqq-shares-climb-7-should-you-buy-2026-11-23/",
+          "source": "MarketBeat"
         },
         {
-          "title": "오정세, 청룡 뜬 최성곤",
-          "url": "https://www.news1.kr/photos/8233244",
-          "source": "뉴스1"
+          "title": "QQQ is down 2.7% today, on MU stock price movement",
+          "url": "https://www.quiverquant.com/news/QQQ+is+down+2.7%25+today%2C+on+MU+stock+price+movement",
+          "source": "Quiver Quantitative"
         }
       ]
     },
     {
-      "keyword": "추미애",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9V2R4sqEovfdcOczUM2CQV0hqpgLfnGNfZHbbekzIyOzYftBOlRcuYiwQnGs",
+      "keyword": "성시경",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T15:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXrJfl0_eWYT0tyVjq0zCwx-5kgnQOCHL_H2BNehGE70zC_8Gu-JWGO4nyC6I",
       "category": "기타",
       "news": [
         {
-          "title": "추미애 \"공직자의 판단 기준은 상부 지시 아닌 헌법\"... 새내기 공무원에 강조",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288477",
-          "source": "OhmyNews"
+          "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+          "url": "https://www.munhwa.com/article/11634103",
+          "source": "문화일보"
         },
         {
-          "title": "추미애 \"상부 지시보다 헌법 기준으로 판단해야\"…신규 공직자 특강",
-          "url": "https://www.news1.kr/local/gyeonggi/6366005",
-          "source": "뉴스1"
+          "title": "[잇슈 컬처] 장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC 호흡",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719552",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "추미애 지사, 신규 공직자에게 \"상부 지시에 익숙해질 때면 헌법을 기준 삼으세요\"",
-          "url": "https://view.asiae.co.kr/article/2026112517290794068",
-          "source": "아시아경제"
+          "title": "[공식] 신동엽·성시경·나연, ‘2026 KBS 연예대상’ MC 확정",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135087899/1",
+          "source": "스포츠동아"
         }
       ]
     },
@@ -149,25 +153,9 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-25T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0XWtPBzIJtGlSqhZfOoM7ufOlGboDTtKGoyQIPi83J2K77it9bLZPllqvE90",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식",
-          "url": "https://www.yna.co.kr/view/AKR20261125054000530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "모임·회식 많아지는 연말연시…\"술은 관계와 관계없어요\"",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882164",
-          "source": "뉴시스"
-        },
-        {
-          "title": "천선휴 뉴스1 기자, 음주폐해예방 유공 복지부 장관 표창",
-          "url": "https://www.news1.kr/bio/welfare-medical/6365989",
-          "source": "뉴스1"
-        }
-      ]
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "유은성",
@@ -195,31 +183,6 @@
       ]
     },
     {
-      "keyword": "acl two",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T13:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFwP3UDzrgvWBNw_pwX9J5l5tdtjiWcuKU2x0lNiQfKpPY_tKFbV2za6buV8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Group E: Melbourne Victory (AUS) 0-0 The Cong - Viettel FC (VIE)",
-          "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-0-0-the-cong-viettel-fc-vie",
-          "source": "The AFC"
-        },
-        {
-          "title": "The Cong team was eliminated early in the Asian Cup.",
-          "url": "https://www.vietnam.vn/en/the-cong-bi-loai-som-o-cup-chau-a",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Victory draw in ACL Two",
-          "url": "https://melbournevictory.com.au/news/victory-draw-in-acl-two/",
-          "source": "Melbourne Victory Football Club"
-        }
-      ]
-    },
-    {
       "keyword": "공포지수",
       "traffic": "100+",
       "trafficValue": 100,
@@ -227,6 +190,31 @@
       "picture": "",
       "category": "기타",
       "news": []
+    },
+    {
+      "keyword": "양준혁",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T14:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_cTkhgCvlfEyvHI9X4zH5aZmnB2glHx__tWeoCSrJHVKDwsnV5HYF-AT2Xtc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
+          "url": "https://biz.heraldcorp.com/article/10948394",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "\"내 야구 인생의 자부심이었는데…\" 양준혁, 자선야구대회 취소에 삼킨 아쉬움",
+          "url": "https://www.nocutnews.co.kr/news/6612161",
+          "source": "노컷뉴스"
+        },
+        {
+          "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
+          "url": "https://www.koreadaily.com/article/20261125070147086",
+          "source": "미주중앙일보"
+        }
+      ]
     },
     {
       "keyword": "박보검",
