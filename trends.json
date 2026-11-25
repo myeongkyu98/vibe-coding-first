@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:56:51.759Z",
+  "updatedAt": "2026-11-25T05:01:39.438Z",
   "summary": [
     {
       "category": "기타",
@@ -18,7 +18,7 @@
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "생활·날씨",
       "count": 1
     },
     {
@@ -29,201 +29,205 @@
   "items": [
     {
       "keyword": "반도체",
-      "traffic": "20000+",
-      "trafficValue": 20000,
+      "traffic": "50000+",
+      "trafficValue": 50000,
       "startedAt": "2026-11-25T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScjam4vYMiUL-OrkybuLvfGZKHUXHI1fcLVO4TVXgO2y80lQt2nMk5dmxCyFE",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU85opYwjXjsXZXVb1cq2hb0S9gH5dkMoLz0wOoF8X_rtcMZ7SwagTS6KCUIU",
       "category": "IT·과학",
       "news": [
         {
-          "title": "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납",
-          "url": "https://www.chosun.com/economy/money/2026/11/25/QHFODM73WVFFXAHXLRNKGUIPFA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
-          "url": "https://www.yna.co.kr/view/AKR20261125066900008",
+          "title": "호남 반도체 용수 공급 덕남정수장 생산량 2배로 늘린다",
+          "url": "https://www.yna.co.kr/view/AKR20261125072000054",
           "source": "연합뉴스"
         },
         {
-          "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다 - 머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/25/2026112509174624848",
-          "source": "머니투데이"
+          "title": "민형배 전남광주시장 \"반도체 팹 건설인력 1만호 공공임대 필요\"",
+          "url": "https://stock.mk.co.kr/news/view/1205658",
+          "source": "매일경제 마켓"
+        },
+        {
+          "title": "호남 반도체 클러스터 모든 것 '한눈에'…반도체 정보 플랫폼 '칩온' 본격 운영",
+          "url": "https://www.etnews.com/20261124000528",
+          "source": "전자신문"
         }
       ]
     },
     {
-      "keyword": "연금 개혁",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-25T01:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEX7IVU7srL4oZxlFgU_JVMJhk3sbyGhyTFlvF0ffrI33j-9sz0xRz_DYhE5Y",
-      "category": "정치·사회",
+      "keyword": "공휴일",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-25T03:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYp64LvN8da4yVrQL9vzV9vO9zCMZZXDjUDKFt03Xs4Zk2Vu2vKnZnmRmLK78",
+      "category": "생활·날씨",
       "news": [
         {
-          "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
-          "url": "https://weekly.khan.co.kr/article/202611250802011",
-          "source": "주간경향"
+          "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html",
+          "source": "한겨레"
         },
         {
-          "title": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "정은경 복지장관 “국민연금 68세부터 수령 사실 아냐…정부 검토 안 해”",
-          "url": "https://www.segye.com/newsView/20261125504579",
-          "source": "세계일보"
+          "title": "12월 3일 '국민주권의날' 기념일 지정...공휴일은 아냐",
+          "url": "https://www.ytn.co.kr/_ln/0101_202611242333403642",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "디에고 시메오네",
+      "keyword": "술",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-25T01:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDffyTDTYlJk9z7wmt_W17cFhVassc3tMjaFNUrPplyzYa-eHitw0awEckJP8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719908",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "시메오네 ATM 감독, 라리가 역대 '최다승' 신기록 … '345승'",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450020.html",
-          "source": "뉴데일리"
-        }
-      ]
-    },
-    {
-      "keyword": "서훈",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T02:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpERzommtm6R_5J5Bsmz5b0pEbMmTeQc1mTzzP9aUF70ka18eQQVD0Rag1bi4",
+      "startedAt": "2026-11-25T03:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKimsTxnURjlDnLJMQ-txlljXh-2FwZTRRG8jqfvPjczJFiaU-rDtl1pBFXWc",
       "category": "정치·사회",
       "news": [
         {
-          "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
-          "url": "https://news.jtbc.co.kr/article/NB12329695",
-          "source": "JTBC"
-        },
-        {
-          "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
+          "title": "'주차 수상하네' 문 열린 순간 냄새 '확' 50대 여성 쫓아가자",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6868395_36918.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "경찰청, 5·18 진압·삼청교육 관련 정부포상 104점 취소",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976408&pWise=sub&pWiseSub=R4",
+          "title": "\"편의점 직행\" 음주운전자의 수상한 행적 - 영상 | 멀티미디어",
+          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976405&pWise=sub&pWiseSub=C3",
           "source": "대한민국 정책브리핑"
-        }
-      ]
-    },
-    {
-      "keyword": "폭설",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T01:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFXcekQBXzjNth3sDUTApI9dyUJdMb1Zti51kJNnbYIPOACPT6-mxiGiREnPE",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
-          "source": "조선일보"
         },
         {
-          "title": "김윤석·구교환 '폭설', 7일 연속 박스오피스 정상 차지",
-          "url": "https://news.tf.co.kr/read/entertain/2393030.htm",
-          "source": "더팩트"
-        },
-        {
-          "title": "'폭설', 7일 연속 1위...임영웅 영화 5일 연속 TOP 5 [박스오피스] - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112510157272732",
+          "title": "주차장서 '쿵' 사고내고 편의점 뛰어간 여성…소주병 열자 '딱' 걸렸다 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/25/2026112505382498458",
           "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "3기 신도시",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T01:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU5vbPcOUG17kilOn0JPhMo8ko7GPdfpNaUb4Zhg1l6A2xex9Ynf13icIEI1U",
-      "category": "경제",
-      "news": [
-        {
-          "title": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
-          "url": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
-          "source": "네이버 프리미엄콘텐츠"
-        },
-        {
-          "title": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
-          "source": "마켓인"
-        },
-        {
-          "title": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/",
-          "source": "Chosunbiz"
-        }
-      ]
-    },
-    {
-      "keyword": "디트로이트 타이거스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T01:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFV4YrryNdsJb6uWPfE80ypqcMAIQNkJbcN_PFfQfBrhXZQ4nKdIcdmOog_HM",
+      "keyword": "오현규",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T03:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUxUXjeKABmj1_TvAl8g1f2kbSgYchcJhLoT5cHZOOFpj3w3GcQV1lFHZU2W8",
       "category": "스포츠",
       "news": [
         {
-          "title": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
-          "source": "조선일보"
+          "title": "‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699157",
+          "source": "인터풋볼"
         },
         {
-          "title": "'268억→80억' 사라진 188억... DET행 김하성 향한 싸늘한 시선 \"공격력 메우기엔 역부족, 스스로 증명해야 해\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112511084645242",
-          "source": "머니투데이"
+          "title": "'韓 주전 공격수' 오현규의 대굴욕...주전 경쟁 완전히 밀렸다! 코냐스포르전서 단 '1분' 출전, '경쟁자'는 멀티골→\"동료-감독-팬들 덕분\"",
+          "url": "https://mydaily.co.kr/page/view/2026112314492476641",
+          "source": "마이데일리"
         },
         {
-          "title": "‘MLB 생존’ 김하성, 디트로이트와 1년 최대 80억원 계약 합의",
-          "url": "https://www.donga.com/news/Sports/article/all/20261125/135085978/1",
-          "source": "동아일보"
+          "title": "韓 축구 초비상! '국가대표 공격수' 오현규, '16호 프리미어리거' 등극 무산 위기...손흥민 강력 추천에도 러시아행 가능성 급부상→예상 이적료 441억",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1709382",
+          "source": "MHN스포츠"
         }
       ]
     },
     {
-      "keyword": "южная корея",
+      "keyword": "대전광역시",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T03:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "에디차",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T03:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnERBisDtw3MTvUgjRoIlBxuur1I3eUFEUCc9pLlHXb7nff8Xrs6ZkBujN8s",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "'코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결",
+          "url": "https://www.wikitree.co.kr/articles/1177635",
+          "source": "위키트리"
+        }
+      ]
+    },
+    {
+      "keyword": "홍익표",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T03:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-ehTxJLSdSC1VM3vOyP8yhuKpGGNp_nZUvhxXKXPl2oUdhIouQYSdjZ9Ayzg",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "강금실 친중논란… 자주파 색채 뺀 안보라인 효과 불투명",
+          "url": "https://www.munhwa.com/article/11634055",
+          "source": "문화일보"
+        },
+        {
+          "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125002400071",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "제강",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-25T01:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCM7UkGqNR2z4QhODhz2ZhXe1rgDf0lLNtsSzGuQudrBObnSEoguW-HkMkyr0",
+      "startedAt": "2026-11-25T03:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4xHqNvdH2V-v9WuTqIVkQ9NeALSU1EFVLtsWNZO3BL7sBN-7ast4kmYS377c",
       "category": "기타",
       "news": [
         {
-          "title": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из островов объявили эвакуацию",
-          "url": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
-          "source": "Meduza"
+          "title": "[게시판] 동국제강그룹, 아름다운가게와 20번째 '아름다운하루' 행사",
+          "url": "https://www.yna.co.kr/view/AKR20261124145500003",
+          "source": "연합뉴스"
         },
         {
-          "title": "Южная Корея поднимает истребители и велит жителям острова укрыться из‑за российских самолётов",
-          "url": "https://ru.euronews.com/2026/11/24/ru-south-korea-tells-island-residents-to-take-shelter-as-ru-warplanes-near-its-airspace",
-          "source": "Euronews.com"
+          "title": "장세욱 동국제강 부회장 \"철근 구조조정, 자체 추진 한계\" - 머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/24/2026112413234025676",
+          "source": "머니투데이"
         },
         {
-          "title": "Южная Корея подняла истребители из-за пролета российских военных самолетов",
-          "url": "https://www.interfax.ru/world/1130910",
-          "source": "Интерфакс"
+          "title": "동국제강그룹, 20번째 ‘아름다운하루’…기부·경매로 나눔 실천",
+          "url": "https://www.g-enews.com/article/Industry/2026/11/20261124163414562724debea800_1",
+          "source": "글로벌이코노믹"
+        }
+      ]
+    },
+    {
+      "keyword": "채권",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T03:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSis5eylZgAzqrAAbPyQKvNR7bFR8E7ESwBprxQOBmIftKJOK6gBAEHV3QQB4M",
+      "category": "경제",
+      "news": [
+        {
+          "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882422",
+          "source": "뉴시스"
+        },
+        {
+          "title": "삼성증권, IRP·연금저축 절세 페스타 행사 실시",
+          "url": "https://www.etnews.com/20261125000189",
+          "source": "전자신문"
+        },
+        {
+          "title": "한화투자증권, '채권투자에 혜택 더하기' 비대면 행사",
+          "url": "https://core.asiae.co.kr/article/2026112510345342588",
+          "source": "아시아경제"
         }
       ]
     },
@@ -249,31 +253,6 @@
           "title": "부산대, QS 지속가능성평가 국립대 4년 연속 1위",
           "url": "https://m.joongdo.co.kr/view.php?key=20261120010007141",
           "source": "중도일보"
-        }
-      ]
-    },
-    {
-      "keyword": "김천(구미)",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T01:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBG6MOek9yBD4zOZehuGX_ib9BbrSRD04D1-IdpfnJkwxTzwxEyaVX8vt73o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'한반도KTX' 대전 패싱 논란에 '세종역' 반발까지…대전·세종 철도 소외 우려",
-          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2315819",
-          "source": "대전일보"
-        },
-        {
-          "title": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6364768",
-          "source": "뉴스1"
-        },
-        {
-          "title": "경남도, 도내 핵심 철도사업 제5차 국가철도망 반영 총력",
-          "url": "https://www.newsis.com/view/NISX20261124_0003881691",
-          "source": "뉴시스"
         }
       ]
     }
