@@ -1,20 +1,16 @@
 {
-  "updatedAt": "2026-11-25T07:08:46.716Z",
+  "updatedAt": "2026-11-25T08:59:09.172Z",
   "summary": [
     {
       "category": "기타",
-      "count": 4
-    },
-    {
-      "category": "연예",
-      "count": 2
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
+      "count": 5
     },
     {
       "category": "경제",
+      "count": 2
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     },
     {
@@ -22,248 +18,258 @@
       "count": 1
     },
     {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "이혼",
+      "keyword": "000660",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-25T05:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrrXuyEiJWIv5tGico0LDxcZE2XPJZ-W3vCCTBxScQHnsF0GUduBPukVfWTk",
-      "category": "연예",
+      "startedAt": "2026-11-25T07:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD7rOuKZAfNYejGaOUkDD3tq2SDE3ttnmDWb9KvUekMgsxORyXStHhk6bnHnY",
+      "category": "기타",
       "news": [
         {
-          "title": "\"양홍원과 이혼\" 원현주, 입장 발표문에 변호사 태그한 이유는 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/25/2026112514003999234",
-          "source": "머니투데이"
+          "title": "Asian stocks soar after Jensen Huang’s return as Nvidia CEO",
+          "url": "https://www.semafor.com/article/11/24/2026/asian-stocks-soar-after-jensen-huangs-return-as-nvidia-ceo",
+          "source": "Semafor"
         },
         {
-          "title": "결혼식 닷새 만에 불륜 의혹 터지더니…양홍원·원현주, 결국 이혼",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861287",
-          "source": "SBS 뉴스"
+          "title": "Why SK Hynix Stock Skyrocketed Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-sk-hynix-stock-skyrocketed-225612845.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "[전문] 양홍원·원현주 결국 파경…직접 이혼 발표",
-          "url": "https://sports.khan.co.kr/article/202611241530003",
-          "source": "스포츠경향"
+          "title": "Micron Vs. SK hynix: Why I’m Choosing Only One (NASDAQ:MU)",
+          "url": "https://seekingalpha.com/article/4969682-micron-vs-sk-hynix-why-im-choosing-only-one",
+          "source": "Seeking Alpha"
         }
       ]
     },
     {
-      "keyword": "김지민",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-25T05:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWt4qh6EXs5SunyGVO1VLbCnktXOJmip1_hIwKmfmnPw_xvv75vyIus2C6DE",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "'출산 코앞' 김지민, ♥김준호 앞 차려놓은 밥상에 떡하니…만삭 임산부 반전 먹방",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/25/MZSWCOBUGY2DEMRWGYYWKOJXHA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "스타들의 임신·출산 소식|'옥문아' 강재준 \"아들 나와 판박이...출산 당시 의사가 '강재준씨 태어났다' 말했을 정도\"",
-          "url": "https://news.zum.com/photo/62767808/109062829",
-          "source": "ZUM 뉴스"
-        },
-        {
-          "title": "‘임신’ 김지민, ♥김준호, 반려견과 함께 태교 여행…“우리 가족 첫 여행”",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135066747/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "재산세",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-25T04:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-QlIjYWIHA8d5huuxGR1Q6zLTjOr_3ASEHNwSZQC5H_g7bAAQsw-_HOQ5iQI",
-      "category": "경제",
-      "news": [
-        {
-          "title": "오래 비어있던 노후주택을 '폐가'로 보아 '과세대상'에서 뺄 수 있나 [부동산 절세시대]",
-          "url": "https://www.hankyung.com/article/202611018074Q",
-          "source": "한국경제"
-        },
-        {
-          "title": "\"상속주택 종부세, 신고기한 기준으로 납세의무·과세표준 확정해야\"",
-          "url": "https://www.fnnews.com/news/202611201100424666",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "111일 만에 전입신고…실거주 확인 땐 취득세 감면",
-          "url": "https://taxtimes.co.kr/news/article.html?no=277876",
-          "source": "한국세정신문"
-        }
-      ]
-    },
-    {
-      "keyword": "예멘",
+      "keyword": "대한민국 법무부",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-25T05:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC7Ppd3Bp4rm1N0wAdAyCe8KJibMBXSV5AhODeY0vdLLMG6lpTiW3U0I5qvtA",
+      "startedAt": "2026-11-25T06:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTglRa3jGLKxV1LETtQ-ivGA876gxZ28rS_KN3_a9JvS9CaNulVc8z5fPOk_-4",
       "category": "기타",
       "news": [
         {
-          "title": "예멘서 공습에 26명 사망…사우디 고층 건물 또 피격",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721708",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "과감해진 후티‥사우디 또 피격·예멘 풍전등화",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6868470_36974.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "순식간에 날아든 미사일...공격당한 사우디 랜드마크 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611250833391805",
-          "source": "YTN"
-        }
-      ]
-    },
-    {
-      "keyword": "엔비디아 ceo 미국 의회 조사 최신 뉴스 알려줘",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T05:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM3KuGrChXTTfXUfg4ucGz-YzoqGIaX2mlRaCtqCSaN46OINo1YixSVXbPAWw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Jensen Huang’s return reveals the cost of irreplaceability",
-          "url": "https://www.koreajoongangdaily.com/bilingual-news/jensen-huangs-return-and-the-price-of-being-irreplaceable-kor/12989606",
-          "source": "Korea JoongAng Daily"
-        }
-      ]
-    },
-    {
-      "keyword": "박현경",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T05:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfpbeiFu1sax-LdIy2Olmw7kjoRkLiUQcIvSLiCZ8R_flT73mO2m8dc2VKD24",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "박현경, ‘LPGA 7승’ 하타오카와 JLPGA ‘왕중왕전’ 첫날 동반 라운드…신지애는 7년 만의 타이틀 탈환 ...",
-          "url": "https://sports.khan.co.kr/article/202611250937003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "박현경, 이번주 일본 메이저 우승 도전 [JLPGA 최종전]",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022747",
-          "source": "골프한국"
-        },
-        {
-          "title": "한·미·일 여자골프를 평정한 신지애 '투어 통산 68승의 대기록'",
-          "url": "https://www.widesports.co.kr/news/articleView.html?idxno=31480",
-          "source": "와이드스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "이해인",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T05:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthHUflumXx9McbwzrPvR5Xl1zOVoevL0lTaV_dAuUOAa_j7MQPSVfnMt2kUE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "'32억 대출' 40억 건물주 이해인 \"이자만 1400만…매달 400만 적자\"",
-          "url": "https://www.newsis.com/view/NISX20261125_0003881875",
-          "source": "뉴시스"
-        },
-        {
-          "title": "8억으로 40억 건물 산 이해인 \"월 1000만원 수익에도…매달 적자\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112511180588579",
-          "source": "머니투데이"
-        },
-        {
-          "title": "이해인, '40억 건물주' 고충 토로 \"대출 이자만 1400만 원…잠 못 잘 정도\"",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6364745",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "핫트랙스",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T04:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUaL66Q0HHYmnUPLy-xTyyF91AerANKkSzrQnH2mnasrVDQiWBJ7T_owHDrV4",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[단독] ‘음반 사려 장사진’ 이제 못 본다… 교보문고 음반 사업 철수",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CTRN3ZMS35DATFMSUBQSYHS24Q/",
-          "source": "조선일보"
-        },
-        {
-          "title": "비틀스·아이돌 팬들 줄 세우던 광화문 음반 명소 ‘핫트랙스’ 문닫는다",
-          "url": "https://www.donga.com/news/Society/article/all/20261125/135088551/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "변화하는 시장 환경 속에 음반매장 핫트랙스 철수",
-          "url": "https://www.newsis.com/view/NISI20261125_0021544975",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "불광역",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T06:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOs22LkEaXPDCOhuYZds43KgviSOzu9aBpc00suKz0Y-YdB3JEyEIilfZ26qw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "은평구 불광역세권 4천92세대 재개발 '시동'…정비구역 지정",
-          "url": "https://www.yna.co.kr/view/AKR20261125084200004",
+          "title": "법무부 국적회복 집중 처리로 평균 심사기간 4개월 줄어",
+          "url": "https://www.yna.co.kr/view/AKR20261125043000004",
           "source": "연합뉴스"
         },
         {
-          "title": "불광역 앞에 최고 45층·4092가구…재개발 정비구역 지정 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/estate/2026/11/25/2026112511231978368",
-          "source": "머니투데이"
+          "title": "국적회복 심사 13개월→9개월 단축…처리 건수는 7배로 늘려",
+          "url": "https://www.donga.com/news/Society/article/all/20261125/135086262/1",
+          "source": "동아일보"
         },
         {
-          "title": "은평 불광역세권 4092세대 재개발 본격화…최고 45층·장기전세 1008세대",
-          "url": "https://biz.heraldcorp.com/article/10948155",
-          "source": "헤럴드경제"
+          "title": "법무부, 국적회복 심사 13→9개월로 단축…처리 7배 증가",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882173",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "주간한국",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T06:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtsdJG38zunij-QVIF2uhIo2Z_s-V6d1OxEY4g7-_EPgehz9r9rgcpNY3hk4s",
+      "keyword": "sk하이닉스 채용",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T06:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnj54qn9P1NOiiKmpUd2vX_iQjwetdnq6uYM62u0WcckQA6R2NGkXMxkmD9j4",
       "category": "IT·과학",
       "news": [
         {
-          "title": "폐격납고의 화려한 겨울 변신",
-          "url": "https://www.koreatimes.net/weekly/180809",
-          "source": "캐나다 한국일보"
+          "title": "HBM 양산부터 설계까지…마이크론, 'K-반도체 인재 확보' 전방위 공세",
+          "url": "https://www.etnews.com/20261123000358",
+          "source": "전자신문"
         },
         {
-          "title": "‘어린 금수저’의 불륜 행각… 역사를 송두리째 뒤바꿨다",
-          "url": "https://www.chosun.com/national/incident/2026/11/25/YLWBRSPHR5CZXJ6R7SZZHZYKNY/",
-          "source": "조선일보"
+          "title": "[르포] “지금이 입사 적기입니다” 삼성·SK 안방서 ‘두뇌 쟁탈전’ 벌인 마이크론 [반도체 인재 보릿고개]",
+          "url": "https://biz.heraldcorp.com/article/10947768",
+          "source": "헤럴드경제"
         },
         {
-          "title": "[TV톡] 300억·AI 무색한 전투신…'문무', 대하사극 스케일은 어디에",
-          "url": "https://enews.imbc.com/M/Detail/525874",
-          "source": "iMBC 연예"
+          "title": "美마이크론, 한국 인재 채용 행사…AI 반도체 연구개발 인력 집중 공략",
+          "url": "https://www.donga.com/news/Economy/article/all/20261124/135081135/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "루카 윌리엄스 바넷",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T07:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB9NS5_YroRliSZUZYfFB9G6ESNABHRkRLIPUJr6iJ6bhPqcNVLbtLGzgHQbc",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'제2의 손흥민' 절대 안 뺏긴다! 토트넘, '케인 이후 최고 재능' 18세 초신성과 재계약 임박...\"팬들에게 엄청난 안도감\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/202611241723773018O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "“군 면제만 보고 뛰었다” 망언으로 국민적 공분 산 양민혁은 임대만 전전하는데…2008년생 ‘특급 신예’ 활약에 마음 사로잡힌 토트넘 장기 재계약 임박",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%80%E1%85%AE%E1%86%AB-%E1%84%86%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A1%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9-%E1%84%84%E1%85%B1%E1%84%8B%E1%85%A5%E1%86%BB%E1%84%83%E1%85%A1-%E1%84%86%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9-%E1%84%80%E1%85%AE%E1%86%A8%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%A8-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB-%E1%84%89%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A2%E1%84%86%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%83%E1%85%A6--2008%E1%84%82%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC-%E1%84%90%E1%85%B3%E1%86%A8%E1%84%80%E1%85%B3%E1%86%B8-%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A8-%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%8B%E1%85%A6-%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%92%E1%85%B5%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%8C%E1%85%A2%E1%84%80%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%87%E1%85%A1%E1%86%A8/blt3b6118c681b68cf0",
+          "source": "Goal.com"
+        },
+        {
+          "title": "[공식발표] \"제대로 된 보물을 찾았다\" 18세 윌리엄스-바넷, PL 첫 선발 1골 1도움→새 계약까지...데 제르비 \"특별한 선수\"",
+          "url": "https://www.osen.co.kr/article/G1112914592",
+          "source": "OSEN"
+        }
+      ]
+    },
+    {
+      "keyword": "thanksgiving 2026",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T07:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlvdQRbOhLD_WwPrhThHDN8A-fzqC9Ma8vb9k6Qzzssl7M81y0l_p3Nn_NeVk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "NFL playoff picture: Postseason probabilities entering Week 12 of the 2026 season",
+          "url": "https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-week-12-2026-season",
+          "source": "NFL.com"
+        },
+        {
+          "title": "Faith, family and lots of football in next six days; Jameson celebrates airborne; Coen says he'd go but didn't",
+          "url": "https://www.foxnews.com/outkick-sports/faith-family-lots-football-in-next-six-days-jameson-celebrates-airborne-coen-says-hed-go-but-didnt",
+          "source": "Fox News"
+        },
+        {
+          "title": "Super Bowl odds: What Bears-Lions, Chiefs-Bills, more Thanksgiving games could mean",
+          "url": "https://www.nytimes.com/athletic/7809458/2026/11/24/super-bowl-odds-bears-lions-chiefs-bills-thanksgiving-nfl/",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "keyword": "하이닉스",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T06:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlK9el9ZbouhnpDsQGEqRnrZwB6J3bo8HPkq7ov2HS-2BOJ5KlftOCjEroTjY",
+      "category": "경제",
+      "news": [
+        {
+          "title": "코스피, 6%대 급락 4,697‥전날 급등분 모두 반납",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6868479_36932.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "\"반등할 줄 알았는데\"…삼전닉스 동반 폭락에 개미들 '한숨'",
+          "url": "https://www.hankyung.com/article/2026112597396",
+          "source": "한국경제"
+        },
+        {
+          "title": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기(종합)",
+          "url": "https://stock.mk.co.kr/news/view/1205844",
+          "source": "매일경제 마켓"
+        }
+      ]
+    },
+    {
+      "keyword": "최명길",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T07:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGf2mmwA9V_UqSQ50r61-5G6tsSLJX8ChS8aiebpInxX8NsEfBrFoycxAntk",
+      "category": "연예",
+      "news": [
+        {
+          "title": "배우 최명길, 한국브리지협회 명예 홍보대사 위촉",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20590",
+          "source": "이투데이"
+        },
+        {
+          "title": "“브리지 알리기에 최선다할 것”…한국브리지협회 명예 홍보대사로 위촉된 배우 최명길",
+          "url": "https://www.mk.co.kr/news/sports/12217870",
+          "source": "매일경제"
+        },
+        {
+          "title": "배우 최명길, ‘치매 예방’ 도움 주는 브리지의 매력 알린다…24일 한국브리지협회 명예홍보대사 위촉",
+          "url": "https://sports.donga.com/sports/article/all/20261125/135086515/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "증안 펀드",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T07:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiguBUj-Fy5t_xqxPK7i--yfGOngK5ihAqD-T1sI5POuCZPZAvN9emD6Gkoj4",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[단독] 코스피 6% 급락한 날…정부, 증안펀드 확대 추진",
+          "url": "https://www.hankyung.com/article/202611259509i",
+          "source": "한국경제"
+        },
+        {
+          "title": "증안펀드, 실탄 늘린다는데 투입 '미정'…속 타는 투자자들 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/stock/2026/11/25/2026112517055653360",
+          "source": "머니투데이"
+        },
+        {
+          "title": "불법 공매도 3개월 집중감시…금감원·거래소 합동 TF 가동",
+          "url": "https://www.yna.co.kr/view/AKR20261124114700002",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "lta",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL9V8mkZu5iaZZ63FAL4Ztj8lIwqkJDRTJOCx6GzETuxEKkjaTCramk3saNs",
+      "category": "기타",
+      "news": [
+        {
+          "title": "China’s Neolix gets nod to test self-driving delivery vehicle in Singapore",
+          "url": "https://www.businesstimes.com.sg/singapore/chinas-neolix-gets-nod-test-self-driving-delivery-vehicle-singapore",
+          "source": "The Business Times"
+        },
+        {
+          "title": "LTA announces that Autopass will allow ASEAN-registered vehicles to track vehicle permit status from 29 Nov",
+          "url": "https://mustsharenews.com/autopass-vehicle-entry-permit/",
+          "source": "Must Share News"
+        },
+        {
+          "title": "Asean-registered vehicles can use Autopass accounts from 29 November to track permit status",
+          "url": "https://www.zaobao.com.sg/en/news/singapore/asean-registered-vehicles-can-use-autopass-accounts-29-november-track-permit-status",
+          "source": "联合早报"
+        }
+      ]
+    },
+    {
+      "keyword": "행동",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T07:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUB8lyP2zc07ytGml7jAxpxGA_H6FG_xVE9-z3kBy5B2Nbge6-GWgZGIbFOpg",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"어린 엄마에게서 태어날수록 위험신호에 더 민감\"",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611241105428994",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "\"엄마의 나이가 자녀의 행동을 바꾼다?\"…세대 간 행동 변화의 비밀 밝혔다",
+          "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10066176&title=%22%EC%97%84%EB%A7%88%EC%9D%98+%EB%82%98%EC%9D%B4%EA%B0%80+%EC%9E%90%EB%85%80%EC%9D%98+%ED%96%89%EB%8F%99%EC%9D%84+%EB%B0%94%EA%BE%BC%EB%8B%A4%3F%22%E2%80%A6%EC%84%B8%EB%8C%80+%EA%B0%84+%ED%96%89%EB%8F%99+%EB%B3%80%ED%99%94%EC%9D%98+%EB%B9%84%EB%B0%80+%EB%B0%9D%ED%98%94%EB%8B%A4",
+          "source": "BRIC"
+        },
+        {
+          "title": "“엄마 나이가 자녀의 행동을 바꾼다?”···DGIST, 세대 간 행동 변화의 비밀 밝혀",
+          "url": "https://www.khan.co.kr/article/202611241101021",
+          "source": "경향신문"
         }
       ]
     }
