@@ -1,271 +1,255 @@
 {
-  "updatedAt": "2026-11-25T10:05:22.237Z",
+  "updatedAt": "2026-11-25T11:55:46.262Z",
   "summary": [
     {
       "category": "기타",
-      "count": 7
+      "count": 6
+    },
+    {
+      "category": "경제",
+      "count": 2
     },
     {
       "category": "스포츠",
       "count": 1
     },
     {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "IT·과학",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "국민연금공단",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-25T08:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWtelDG8qZgqwVRg1xiHwOCuqQqWOPq5rD-FBhKQISDCTHR9ZEq00ySnVl3zw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "국민연금공단 \"유족연금 50% 상향, 사회적 합의 선행돼야\"",
-          "url": "https://www.ytn.co.kr/_ln/0102_202611251057096362",
-          "source": "YTN"
-        },
-        {
-          "title": "“부부가 평생 꼬박꼬박 냈는데 0원”…배우자 떠나자 연금 ‘뚝’, 중복지급 상향은",
-          "url": "https://www.mk.co.kr/news/economy/12217731",
-          "source": "매일경제"
-        },
-        {
-          "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
-          "url": "https://www.yna.co.kr/view/AKR20261122031500530",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "루카 윌리엄스 바넷",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-25T07:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCft-gRjdQYII0zHaW2qHBmrGiUME6EEwB_8hnxm03J7P1cPPW2LUDt736PQE",
+      "keyword": "최우제",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-25T10:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgiKPWwEfyN-CKacj8Nv95tACUB3UQFgu8auVYt2W3loAlsEjak8NVwVylZx8",
       "category": "스포츠",
       "news": [
         {
-          "title": "[오피셜]제2의 손흥민 지켰다! 토트넘, 선발 데뷔전서 1골-1도움 '18세 원더키드' 윌리엄스-바넷과 재계약 \"위대한 선수 되겠다\"...데 제르비도 \"내가 정말 높이 평가하는 선수\"",
-          "url": "https://www.chosun.com/sports/world-football/2026/11/25/GMYTIOJVGFQTGOBYMQZWIOJZMU/",
-          "source": "조선일보"
+          "title": "T1 2027시즌 기자회견 SOOP 생중계",
+          "url": "https://www.kmib.co.kr/article/20261125501220",
+          "source": "국민일보"
         },
         {
-          "title": "“군 면제만 보고 뛰었다” 망언으로 국민적 공분 산 양민혁은 임대만 전전하는데…2008년생 ‘특급 신예’ 활약에 마음 사로잡힌 토트넘 장기 재계약 임박",
-          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%80%E1%85%AE%E1%86%AB-%E1%84%86%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A1%E1%86%AB-%E1%84%87%E1%85%A9%E1%84%80%E1%85%A9-%E1%84%84%E1%85%B1%E1%84%8B%E1%85%A5%E1%86%BB%E1%84%83%E1%85%A1-%E1%84%86%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9-%E1%84%80%E1%85%AE%E1%86%A8%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%A8-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AB-%E1%84%89%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A2%E1%84%86%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%83%E1%85%A6--2008%E1%84%82%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC-%E1%84%90%E1%85%B3%E1%86%A8%E1%84%80%E1%85%B3%E1%86%B8-%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A8-%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%A3%E1%86%A8%E1%84%8B%E1%85%A6-%E1%84%86%E1%85%A1%E1%84%8B%E1%85%B3%E1%86%B7-%E1%84%89%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%B8%E1%84%92%E1%85%B5%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%8C%E1%85%A2%E1%84%80%E1%85%A8%E1%84%8B%E1%85%A3%E1%86%A8-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%87%E1%85%A1%E1%86%A8/blt3b6118c681b68cf0",
-          "source": "Goal.com"
+          "title": "'친정' 돌아온 제우스 \"T1, 좋은 가치·비전 제시했다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125176800017",
+          "source": "연합뉴스"
         },
         {
-          "title": "[공식발표] \"제대로 된 보물을 찾았다\" 18세 윌리엄스-바넷, PL 첫 선발 1골 1도움→새 계약까지...데 제르비 \"특별한 선수\"",
-          "url": "https://www.osen.co.kr/article/G1112914592",
+          "title": "[오피셜] ‘이지훈’ 코치 잔류 T1, ‘로치’ 감독·‘엄티’ 코치 선임…2027시즌 코칭스태프 발표",
+          "url": "https://www.osen.co.kr/article/G1112914744",
           "source": "OSEN"
         }
       ]
     },
     {
-      "keyword": "임차인",
+      "keyword": "숲",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-25T09:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVsUGWUI0VTzFxU90yrF8CXaJKImpxSdsbJxxOJJl07L9vRwbM4Jps_btNiLk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "울산 남구, 건강한 산림환경 조성 위한 ‘숲가꾸기 행사’",
+          "url": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065595357579221",
+          "source": "울산종합일보"
+        },
+        {
+          "title": "인천 영종구, 푸르고 쾌적한 도시 숲 조성",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806081",
+          "source": "일간투데이"
+        },
+        {
+          "title": "임실군, 전북도 숲가꾸기사업 시군 평가 '최우수상'",
+          "url": "https://www.fnnews.com/news/202611171625165906",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "가시마 앤틀러스 대 전북",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-25T09:10:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "고경표 음주 운전",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-25T07:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqKrSqfioJOYnp-96oml09AqOzVbIZY4L7qd6c_1aQDK467eE_ZRzHmQ0wLDE",
+      "startedAt": "2026-11-25T09:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9yB8XpxcGroUIhEM-qzpc8zjLOa6gANDgcanOR7oPkZcjsrpiOAWwc2IamkE",
       "category": "기타",
       "news": [
         {
-          "title": "전주시, 전세사기 피해 임차인 주거비 지원…최대 300만원",
-          "url": "https://www.newspim.com/news/view/20261125000413",
-          "source": "뉴스핌"
+          "title": "“하…” 음주운전 고경표, 다친 미화원께 연락드렸냐 물었더니",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1288790.html",
+          "source": "한겨레"
         },
         {
-          "title": "전세사기 피해 대응 알려준다…전남광주, 현장상담 확대",
-          "url": "https://www.fnnews.com/news/202611201102094833",
-          "source": "파이낸셜뉴스"
+          "title": "“팁만 5만원” 고경표, 과거엔 대리 불렀다 ‘목격담 등장’",
+          "url": "https://sports.khan.co.kr/article/202611251039003",
+          "source": "스포츠경향"
         },
         {
-          "title": "전세사기 피해자 보증금 3분의 1 지원, 최소보장제 신청방법",
-          "url": "https://www.lawtalk.co.kr/posts/214960",
-          "source": "로톡"
+          "title": "지석진 2연패 도전? 유재석, '핑계고' 대상후보 7명 공개",
+          "url": "https://www.newsis.com/view/NISX20261125_0003883472",
+          "source": "뉴시스"
         }
       ]
     },
     {
-      "keyword": "코레일 파업",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T09:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG91AXnmPKga6_wSZAB9cczMe0zECQEp0CzQLLDwcPF7fLJ6H5Wwufiunkylk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "철도노조, 내일(26일)부터 ‘안전운행 투쟁’… 일부 열차 운행 차질 예상",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722349",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "철도노조, 26일부터 준법투쟁 돌입…수도권 전철·KTX 운행 지연 우려",
-          "url": "https://www.kyeonggi.com/article/20261125580504",
-          "source": "경기일보"
-        },
-        {
-          "title": "출근길 대란 피했지만, 연례행사 된 서울 지하철 파업 걱정…‘적자 해소’ 과제는 그대로 남았다",
-          "url": "https://www.khan.co.kr/article/202611251638001",
-          "source": "경향신문"
-        }
-      ]
-    },
-    {
-      "keyword": "태국",
+      "keyword": "검사",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-25T08:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkAOHLz_CIe62YO2YsWXrkKacyI_lrjhnrCBt9GwB32sl8OIGCnGvQhIjT2uQ",
+      "startedAt": "2026-11-25T09:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFuT3aoR0Ek83kJuyxn5LxXViF2LEHdA8KF15NsZWjljsoUlv_1I6UJPRuqaw",
       "category": "기타",
       "news": [
         {
-          "title": "Chula Experts Outline Thailand’s Path to Quantum Computing Opportunities",
-          "url": "https://www.cincinnati.com/press-release/story/155762/chula-experts-outline-thailands-path-to-quantum-computing-opportunities/",
-          "source": "Cincinnati Enquirer"
-        },
-        {
-          "title": "Chula Experts Urge Thailand To Build Quantum Skills And Research",
-          "url": "https://quantumzeitgeist.com/chulalongkorn-university-chula-experts-urge-thailand/",
-          "source": "Quantum Zeitgeist"
-        },
-        {
-          "title": "Chulalongkorn Researchers Call for Greater Quantum Investment in Thailand",
-          "url": "https://thequantuminsider.com/2026/11/25/chulalongkorn-researchers-call-greater-quantum-investment-thailand/",
-          "source": "The Quantum Insider"
-        }
-      ]
-    },
-    {
-      "keyword": "검찰청",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T08:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRESz1HCVYxJw8pFwmoNl1jJ5NcDne-OyC1YurTBAtKUhw6WpINT1VVgRCnsJ8",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "단독 검찰청 폐지에 '허리급' 평검사 잇단 사직인사...\"자괴감 느껴\"",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611251504258738",
-          "source": "YTN"
-        },
-        {
-          "title": "올해 퇴직·휴직 검사 347명…\"파견 축소·법무부 겸직 인원 조정해야\"",
-          "url": "https://www.fnnews.com/news/202611162235519376",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "작년보다 벌써 40명 많다…검사 퇴직·휴직 347명, 5년 새 최다",
-          "url": "https://www.joongang.co.kr/article/25479099",
-          "source": "중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "슈퍼문",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T09:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwrVe9P1sAGgu3YSw4vMm84xVwErrtDJnwudyiScAV_bUFO7aGFStXr5jg4zc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611251603008783",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
-          "source": "국제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "lta",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhLO5H_d8BUBbm2V4jqbvaWpVN0iu-ajcSX6EXFNRKIxUYOC8i7rtPd7tcKUA",
-      "category": "기타",
-      "news": [
-        {
-          "title": "Factsheet: LTA Launches New 3D Animated Series to Introduce Children to Public Transport",
-          "url": "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/11/news-releases/factsheet--lta-launches-new-3d-animated-series-to-introduce-chil.html",
-          "source": "Land Transport Authority (LTA)"
-        },
-        {
-          "title": "LTA launches 3D animated series on Singapore public transport for young children",
-          "url": "https://www.straitstimes.com/singapore/transport/lta-launches-3d-animated-series-on-singapore-public-transport-for-young-children",
-          "source": "The Straits Times"
-        },
-        {
-          "title": "All aboard! LTA's new 3D animated series aims to spark kids' love for buses and trains, Singapore News",
-          "url": "https://www.asiaone.com/singapore/ride-seek-jay-ella-animated-series-land-transport-authority",
-          "source": "AsiaOne.com"
-        }
-      ]
-    },
-    {
-      "keyword": "최명길",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T07:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGf2mmwA9V_UqSQ50r61-5G6tsSLJX8ChS8aiebpInxX8NsEfBrFoycxAntk",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "배우 최명길, 한국브리지협회 명예 홍보대사 위촉",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/20590",
-          "source": "이투데이"
-        },
-        {
-          "title": "한국브리지협회, 배우 최명길 ‘브리지 명예홍보대사’로 위촉",
-          "url": "https://www.donga.com/news/Culture/article/all/20261125/135090216/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "최명길 \"AI 시대에 두뇌 운동 매우 뜻깊어\"",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/GQ4DCNLFGE3GKOJRHEZWGNTEGU/",
+          "title": "[사설] 대북송금 수사 검사 징계 못푸는 이유, 조작기소 근거 사라질까봐",
+          "url": "https://www.chosun.com/opinion/editorial/2026/11/25/ST6EEKK3R5HRBFEGXT7JEZ5JJM/",
           "source": "조선일보"
+        },
+        {
+          "title": "[단독] '7개월 직무정지' 박상용 검사, 해제 거부에 징계까지 미루면 법무부 상대 취소소송 검토",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/25/2026112550182.html",
+          "source": "뉴데일리"
+        },
+        {
+          "title": "‘쌍방울 대북 송금’ 수사 박상용 검사, 법무부에 직무정지 해제 요청",
+          "url": "https://www.donga.com/news/Society/article/all/20261123/135074106/1",
+          "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "행동",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T07:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbzdQDXhai7x8PMv4XHtlBDw21gXUklnRV6VOnlDsxL_yDdETYT-zKHwyT_c",
+      "keyword": "하사",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T09:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhmgbFacMK4wov1QHlmupWH_Xe1OfO3IJ3qM0HwRdAiOl7OJPXv84GToiRGcI",
       "category": "기타",
       "news": [
         {
-          "title": "\"엄마의 나이가 자녀의 행동을 바꾼다?\"…세대 간 행동 변화의 비밀 밝혔다",
-          "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10066176&title=%22%EC%97%84%EB%A7%88%EC%9D%98+%EB%82%98%EC%9D%B4%EA%B0%80+%EC%9E%90%EB%85%80%EC%9D%98+%ED%96%89%EB%8F%99%EC%9D%84+%EB%B0%94%EA%BE%BC%EB%8B%A4%3F%22%E2%80%A6%EC%84%B8%EB%8C%80+%EA%B0%84+%ED%96%89%EB%8F%99+%EB%B3%80%ED%99%94%EC%9D%98+%EB%B9%84%EB%B0%80+%EB%B0%9D%ED%98%94%EB%8B%A4",
-          "source": "BRIC"
-        },
-        {
-          "title": "\"어린 엄마에게서 태어날수록 위험신호에 더 민감\"",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611241105428994",
-          "source": "YTN 사이언스"
-        },
-        {
-          "title": "“엄마 나이가 자녀의 행동을 바꾼다?”···DGIST, 세대 간 행동 변화의 비밀 밝혀",
-          "url": "https://www.khan.co.kr/article/202611241101021",
+          "title": "진주 저수지서 여성 공군 하사 숨진 채 발견···군, 가혹행위 여부 수사",
+          "url": "https://www.khan.co.kr/article/202611251607001",
           "source": "경향신문"
+        },
+        {
+          "title": "진주서 공군 20대 여군 중사 숨진 채 발견…군 당국 수사",
+          "url": "https://www.yna.co.kr/view/AKR20261125124700052",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "공군 소속 여성 하사 숨진 채 발견…군 당국 수사",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125172222hsM",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "청룡영화상",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T10:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJsRvWtON_wTM-XnxsNZgntVG9uvwZFtzRyxNyRXMSyOpaPhNg3PHjbg-1mI",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[사진]유해진, 환한 미소",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/HA3TGNJVMI2TSZTGMJRDQNTGMI/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[포토] 이제훈-한지민, 청룡영화상과 함께",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/GIYGIZDDGBRTSYRVHEZGCYRSHA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "청룡영화상 25일 생중계…레드카펫부터 시청 순서",
+          "url": "https://www.jejutwn.com/news/article.html?no=464925",
+          "source": "제주교통복지신문"
+        }
+      ]
+    },
+    {
+      "keyword": "경주마",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T10:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnoMhKs52qzme5I7ndhIHBCipVjl3kzcs8cJ43IbXmCoHlga1AlWjf41KJSe8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "'이제 2살 됐는데... 너 때문에 죽었다' 女 기수 황당 판단 때문에 '1억 5500만' 경주마 즉사 '日 승마계 발칵' - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112417404247259",
+          "source": "머니투데이"
+        },
+        {
+          "title": "기수 무리한 끼어들기에 1.4억대 경주마 즉사…日 '제 식구 감싸기' 파장",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882057",
+          "source": "뉴시스"
+        },
+        {
+          "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882828",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "lg에너지솔루션",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStD9XWHt4dOF6G_bx7asZ241yZSyP1oIVX9Rp35vfPGD3Xtzz5hAhvzWCupso",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[CEO 리더십] 김동명의 LG엔솔 ’체질 개선’…폴란드 공장, ESS 전진기지로 By FinancialPost",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2189741",
+          "source": "Investing.com 한국어"
+        },
+        {
+          "title": "LG에너지솔루션, 배터리 전 생애주기 관리",
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=72125",
+          "source": "월간조선"
+        },
+        {
+          "title": "LG엔솔·삼성SDI, 올해 설비투자 5.7조 '돌파'…\"생산 확대로 ESS 수요 선점\"",
+          "url": "https://www.fnnews.com/news/202611171136055557",
+          "source": "파이낸셜뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "페이즈",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T10:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKWYgLRQERxSbIUAQeoWLgVnAs2Ldpix80mWGw-bQV-JiHy0HT_DnYt-MDVDI",
+      "category": "경제",
+      "news": [
+        {
+          "title": "‘판독 논란’ OK저축은행, KOVO에 ‘사후 판독’ 요청…KOVO “정독”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722248",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "케트진스키의 강력한 스파이크",
+          "url": "https://www.yna.co.kr/view/PYH20261124187100051",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[프로배구] 팬심도 성적도 잃었다…총체적 난국에 빠진 OK저축은행",
+          "url": "https://www.newspim.com/news/view/20261125000019",
+          "source": "뉴스핌"
         }
       ]
     }
