@@ -1,71 +1,50 @@
 {
-  "updatedAt": "2026-11-25T17:46:07.107Z",
+  "updatedAt": "2026-11-25T18:46:44.890Z",
   "summary": [
     {
-      "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
       "category": "스포츠",
+      "count": 3
+    },
+    {
+      "category": "기타",
+      "count": 3
+    },
+    {
+      "category": "IT·과학",
       "count": 2
     },
     {
       "category": "정치·사회",
       "count": 1
+    },
+    {
+      "category": "경제",
+      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "성유리",
+      "keyword": "sabah 대 바르셀로나",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-25T14:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT61TrcW7bHFcMJyPhW5kTGIanse68XzDtYpTxbSt7n2ISANBLFt6R71_g8sGM",
-      "category": "기타",
+      "startedAt": "2026-11-25T16:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGFmELXErh-83uNBaSV3faWwn3ixyWKud6fG5uL4BJtgiVIUIL32fmUmmicjg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
-          "source": "뉴스1"
+          "title": "발다스 담브라우스카스, 바르셀로나전 앞두고 바쿠서 기자회견",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763239",
+          "source": "국제뉴스"
         },
         {
-          "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882889",
-          "source": "뉴시스"
+          "title": "“야말, 집에서 GTA 하려고 UCL 결장했나”…황당 질문에 헛웃음 터뜨렸다",
+          "url": "https://isplus.com/article/view/isp202611250071",
+          "source": "일간스포츠"
         },
         {
-          "title": "교수 아버지 둔 성유리, '올 수' 성적표 공개…\"집중력 있다\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112514055895473",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "매일경제",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T16:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5kZOaVyV2Ww_kYdPU5JH6EhZZjx4plOud625RDT2nBXMqJ57UsA3YkFI-GYU",
-      "category": "경제",
-      "news": [
-        {
-          "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
-          "url": "https://news.jtbc.co.kr/article/NB12329686",
-          "source": "JTBC"
-        },
-        {
-          "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722789",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "젠슨 황 랠리 하루 만에 반납, 반도체 −7.9%… 코스피 5,000 오늘 지킬까, 볼 숫자 4개",
-          "url": "https://contents.premium.naver.com/answerindata/answerindatalab/contents/261125085945832em",
-          "source": "네이버 프리미엄콘텐츠"
+          "title": "챔피언스 리그 사바 대 바르셀로나 생중계 링크",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-sabah-vs-barcelona-tai-champions-league-1806467.ldo",
+          "source": "Laodong.vn"
         }
       ]
     },
@@ -95,17 +74,42 @@
       ]
     },
     {
+      "keyword": "sabah vs barcelona",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T17:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbvvDLt7dfhGs3Hz53LDe5lE4_e9EPkqnM6p3bgO3BiY4NmofnGKbcqhvkn_w",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo |El Barça gana al descanso gracias al gol de Gordon",
+          "url": "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "El Barça viaja a los confines de la UEFA para enfrentarse al Sabah en Champions",
+          "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20261125-el-bar%C3%A7a-viaja-a-los-confines-de-la-uefa-para-enfrentarse-al-sabah-en-champions",
+          "source": "RFI"
+        },
+        {
+          "title": "Desde el Atlético de Madrid a Fernando Alonso: La relación con España de Azerbaiyán, país en el que juega el Barça contra el Sabah",
+          "url": "https://www.sport.es/es/noticias/barca/atletico-madrid-fernando-alonso-relacion-136846515",
+          "source": "SPORT"
+        }
+      ]
+    },
+    {
       "keyword": "정부",
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-25T16:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHZV10P93TENf8YVY4FUw7pdmRc_qF7WEYKwTM341w0VeJJKbHzBqLPk5JIz8",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRotEjFEV7JcRaURBCuYzBDrGLPMConjIOlE-QhiQxK0SIz_f6HiwtolgpZgPg",
       "category": "정치·사회",
       "news": [
         {
-          "title": "[속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지”",
-          "url": "https://www.khan.co.kr/article/202611252226001",
-          "source": "경향신문"
+          "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1289144.html",
+          "source": "한겨레"
         },
         {
           "title": "美 무역대표, 韓 투자 지원 계획 비판…\"실제 수요 없이 공급만 확대\"",
@@ -113,16 +117,16 @@
           "source": "연합인포맥스"
         },
         {
-          "title": "미국, 과잉 생산 관세 근거로 '한국 정부 지원·인프라 계획' 지목...'메가 프로젝트' 지목한 듯",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611260128242777",
-          "source": "YTN"
+          "title": "EU, 미국 ‘과잉생산 관세’ 반발…15% 상한 준수 촉구",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722814",
+          "source": "KBS 뉴스"
         }
       ]
     },
     {
       "keyword": "선수",
-      "traffic": "200+",
-      "trafficValue": 200,
+      "traffic": "500+",
+      "trafficValue": 500,
       "startedAt": "2026-11-25T16:00:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdu4tM_5UHB_246v6As7Rm8kY07WCNtfoDJuMq1KmupW26i-B8nMfvBlJBXp0",
       "category": "스포츠",
@@ -145,12 +149,37 @@
       ]
     },
     {
+      "keyword": "다나와",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T17:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDKrCKQJxQak0Yd51MAjErRCJj_jtFgT6sld9KeaU8V_OEMNaiRh4k4NjJMkg",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "다나와, 챗GPT에 AI 쇼핑 서비스 연동…실시간 가격·사양 비교",
+          "url": "https://www.yna.co.kr/view/AKR20261125076400030",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "다나와 AI 쇼핑, 클로드 이어 챗GPT 연동",
+          "url": "https://www.etnews.com/20261125000440",
+          "source": "전자신문"
+        },
+        {
+          "title": "다나와, 챗GPT에 상품 데이터 연동…AI 쇼핑 서비스 확대",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202611252105391232204ead0791_12",
+          "source": "로이슈"
+        }
+      ]
+    },
+    {
       "keyword": "qqq",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-25T15:20:00.000Z",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI1DC2_UQ1iDnX-71fOFtvXm7HTYpoEjNkMIbYze_8P-ohI5D10JC8WTPKsIE",
-      "category": "기타",
+      "category": "IT·과학",
       "news": [
         {
           "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
@@ -158,9 +187,9 @@
           "source": "TradingView"
         },
         {
-          "title": "Stock Market Today: Nasdaq drops 4%, Dow and S&P 500 also sink as tech weakness spreads — live update",
-          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia",
-          "source": "MarketWatch"
+          "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
+          "url": "https://www.koreatimes.co.kr/world/20261126/nasdaq-sinks-about-4-as-ai-rout-fresh-trump-tariffs-spook-wall-st",
+          "source": "The Korea Times"
         },
         {
           "title": "The Nasdaq Is Approaching Bear Market Territory: 2 Stocks Down 22% and 37% to Buy Right Now",
@@ -195,63 +224,54 @@
       ]
     },
     {
-      "keyword": "공포탐욕지수",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T14:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE2vWCMPcTChlF7xHKfTx3mE1XOXnG0UONXglBST6OCMwPwLbTP2DjHN7Rrw",
+      "keyword": "매일경제",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T16:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF4wQvB7Y-RM06ZUhaATTzX-oVliLEJUwqC8ggdLdqRXfi0GsTjhsoG99toI0",
       "category": "경제",
       "news": [
         {
-          "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
-          "source": "빅데이터뉴스"
+          "title": "비트코인 파동으로 보기, 5만5천 달러 바닥선과 6만4천6백 달러 첫 관문",
+          "url": "https://contents.premium.naver.com/kkk0221/kkkk0321/contents/261125012829486am",
+          "source": "네이버 프리미엄콘텐츠"
         },
         {
-          "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
-          "url": "https://www.coinreaders.com/273266",
-          "source": "코인리더스"
+          "title": "'항복국면' 본격화…비트코인 손절매, 4년전 FTX 사태 후 최대",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01964726645649328",
+          "source": "마켓인"
         },
         {
-          "title": "[주간 디지털 자산 시장 브리핑] 업비트 지수 10.59% 하락, 거래대금은 21.47% 상승",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310539",
-          "source": "경향게임스"
+          "title": "[코인 시황] 비트코인 5만9000달러선 붕괴…글로벌 주식 매도 압력 지속",
+          "url": "https://www.newspim.com/news/view/20261125001285",
+          "source": "뉴스핌"
         }
       ]
     },
     {
-      "keyword": "양준혁",
+      "keyword": "데이비스컵",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-25T14:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKcFSiC6tmhyBMkYXvW5JFHTyyz8WPSi9jMutcGhlVmHJBGs92WygfdPBJQcg",
-      "category": "스포츠",
+      "startedAt": "2026-11-25T15:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_wItUULE3K-0uwKAsXABhlATVrTvbdVRvy51c5O64JBLnFYdVqNoZGSDVb7s",
+      "category": "기타",
       "news": [
         {
-          "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
-          "url": "https://www.koreadaily.com/article/20261125070147086",
-          "source": "미주중앙일보"
+          "title": "랭킹은 숫자일 뿐… ‘이변의 주인공’ 꿈꾸는 韓 테니스",
+          "url": "https://www.chosun.com/sports/sports_general/2026/11/25/LQJT3FYE55CGFJLZ4UWTZA2C5U/",
+          "source": "조선일보"
         },
         {
-          "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
-          "url": "https://biz.heraldcorp.com/article/10948394",
-          "source": "헤럴드경제"
+          "title": "\"정현 조심하라\" 이탈리아가 콕 찍은 '韓의 복병'... 실제로 기자회견서도 정현에게 질문 쏟아졌다 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416181685671",
+          "source": "머니투데이"
         },
         {
-          "title": "\"내 야구 인생의 자부심이었는데…\" 양준혁, 자선야구대회 취소에 삼킨 아쉬움",
-          "url": "https://www.nocutnews.co.kr/news/6612161",
-          "source": "노컷뉴스"
+          "title": "[데이비스컵] 이변 다짐한 에이스 권순우 “우리를 약체로 볼텐데, 꼭 이긴다는 마음가짐으로”",
+          "url": "https://sports.khan.co.kr/article/202611251107003",
+          "source": "스포츠경향"
         }
       ]
-    },
-    {
-      "keyword": "공포지수",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T14:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
     }
   ]
 }
