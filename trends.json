@@ -1,115 +1,61 @@
 {
-  "updatedAt": "2026-11-25T08:59:09.172Z",
+  "updatedAt": "2026-11-25T10:05:22.237Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
-    },
-    {
-      "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "count": 7
     },
     {
       "category": "스포츠",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "000660",
+      "keyword": "국민연금공단",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-25T07:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD7rOuKZAfNYejGaOUkDD3tq2SDE3ttnmDWb9KvUekMgsxORyXStHhk6bnHnY",
+      "startedAt": "2026-11-25T08:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWtelDG8qZgqwVRg1xiHwOCuqQqWOPq5rD-FBhKQISDCTHR9ZEq00ySnVl3zw",
       "category": "기타",
       "news": [
         {
-          "title": "Asian stocks soar after Jensen Huang’s return as Nvidia CEO",
-          "url": "https://www.semafor.com/article/11/24/2026/asian-stocks-soar-after-jensen-huangs-return-as-nvidia-ceo",
-          "source": "Semafor"
+          "title": "국민연금공단 \"유족연금 50% 상향, 사회적 합의 선행돼야\"",
+          "url": "https://www.ytn.co.kr/_ln/0102_202611251057096362",
+          "source": "YTN"
         },
         {
-          "title": "Why SK Hynix Stock Skyrocketed Today",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-sk-hynix-stock-skyrocketed-225612845.html",
-          "source": "Yahoo Finance"
+          "title": "“부부가 평생 꼬박꼬박 냈는데 0원”…배우자 떠나자 연금 ‘뚝’, 중복지급 상향은",
+          "url": "https://www.mk.co.kr/news/economy/12217731",
+          "source": "매일경제"
         },
         {
-          "title": "Micron Vs. SK hynix: Why I’m Choosing Only One (NASDAQ:MU)",
-          "url": "https://seekingalpha.com/article/4969682-micron-vs-sk-hynix-why-im-choosing-only-one",
-          "source": "Seeking Alpha"
-        }
-      ]
-    },
-    {
-      "keyword": "대한민국 법무부",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T06:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTglRa3jGLKxV1LETtQ-ivGA876gxZ28rS_KN3_a9JvS9CaNulVc8z5fPOk_-4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "법무부 국적회복 집중 처리로 평균 심사기간 4개월 줄어",
-          "url": "https://www.yna.co.kr/view/AKR20261125043000004",
+          "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
+          "url": "https://www.yna.co.kr/view/AKR20261122031500530",
           "source": "연합뉴스"
-        },
-        {
-          "title": "국적회복 심사 13개월→9개월 단축…처리 건수는 7배로 늘려",
-          "url": "https://www.donga.com/news/Society/article/all/20261125/135086262/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "법무부, 국적회복 심사 13→9개월로 단축…처리 7배 증가",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882173",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "sk하이닉스 채용",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T06:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnj54qn9P1NOiiKmpUd2vX_iQjwetdnq6uYM62u0WcckQA6R2NGkXMxkmD9j4",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "HBM 양산부터 설계까지…마이크론, 'K-반도체 인재 확보' 전방위 공세",
-          "url": "https://www.etnews.com/20261123000358",
-          "source": "전자신문"
-        },
-        {
-          "title": "[르포] “지금이 입사 적기입니다” 삼성·SK 안방서 ‘두뇌 쟁탈전’ 벌인 마이크론 [반도체 인재 보릿고개]",
-          "url": "https://biz.heraldcorp.com/article/10947768",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "美마이크론, 한국 인재 채용 행사…AI 반도체 연구개발 인력 집중 공략",
-          "url": "https://www.donga.com/news/Economy/article/all/20261124/135081135/1",
-          "source": "동아일보"
         }
       ]
     },
     {
       "keyword": "루카 윌리엄스 바넷",
-      "traffic": "500+",
-      "trafficValue": 500,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-25T07:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB9NS5_YroRliSZUZYfFB9G6ESNABHRkRLIPUJr6iJ6bhPqcNVLbtLGzgHQbc",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCft-gRjdQYII0zHaW2qHBmrGiUME6EEwB_8hnxm03J7P1cPPW2LUDt736PQE",
       "category": "스포츠",
       "news": [
         {
-          "title": "'제2의 손흥민' 절대 안 뺏긴다! 토트넘, '케인 이후 최고 재능' 18세 초신성과 재계약 임박...\"팬들에게 엄청난 안도감\" - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/24/202611241723773018O",
-          "source": "머니투데이"
+          "title": "[오피셜]제2의 손흥민 지켰다! 토트넘, 선발 데뷔전서 1골-1도움 '18세 원더키드' 윌리엄스-바넷과 재계약 \"위대한 선수 되겠다\"...데 제르비도 \"내가 정말 높이 평가하는 선수\"",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/25/GMYTIOJVGFQTGOBYMQZWIOJZMU/",
+          "source": "조선일보"
         },
         {
           "title": "“군 면제만 보고 뛰었다” 망언으로 국민적 공분 산 양민혁은 임대만 전전하는데…2008년생 ‘특급 신예’ 활약에 마음 사로잡힌 토트넘 장기 재계약 임박",
@@ -124,52 +70,152 @@
       ]
     },
     {
-      "keyword": "thanksgiving 2026",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T07:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlvdQRbOhLD_WwPrhThHDN8A-fzqC9Ma8vb9k6Qzzssl7M81y0l_p3Nn_NeVk",
+      "keyword": "임차인",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-25T07:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqKrSqfioJOYnp-96oml09AqOzVbIZY4L7qd6c_1aQDK467eE_ZRzHmQ0wLDE",
       "category": "기타",
       "news": [
         {
-          "title": "NFL playoff picture: Postseason probabilities entering Week 12 of the 2026 season",
-          "url": "https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-week-12-2026-season",
-          "source": "NFL.com"
+          "title": "전주시, 전세사기 피해 임차인 주거비 지원…최대 300만원",
+          "url": "https://www.newspim.com/news/view/20261125000413",
+          "source": "뉴스핌"
         },
         {
-          "title": "Faith, family and lots of football in next six days; Jameson celebrates airborne; Coen says he'd go but didn't",
-          "url": "https://www.foxnews.com/outkick-sports/faith-family-lots-football-in-next-six-days-jameson-celebrates-airborne-coen-says-hed-go-but-didnt",
-          "source": "Fox News"
+          "title": "전세사기 피해 대응 알려준다…전남광주, 현장상담 확대",
+          "url": "https://www.fnnews.com/news/202611201102094833",
+          "source": "파이낸셜뉴스"
         },
         {
-          "title": "Super Bowl odds: What Bears-Lions, Chiefs-Bills, more Thanksgiving games could mean",
-          "url": "https://www.nytimes.com/athletic/7809458/2026/11/24/super-bowl-odds-bears-lions-chiefs-bills-thanksgiving-nfl/",
-          "source": "The New York Times"
+          "title": "전세사기 피해자 보증금 3분의 1 지원, 최소보장제 신청방법",
+          "url": "https://www.lawtalk.co.kr/posts/214960",
+          "source": "로톡"
         }
       ]
     },
     {
-      "keyword": "하이닉스",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T06:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlK9el9ZbouhnpDsQGEqRnrZwB6J3bo8HPkq7ov2HS-2BOJ5KlftOCjEroTjY",
-      "category": "경제",
+      "keyword": "코레일 파업",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T09:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG91AXnmPKga6_wSZAB9cczMe0zECQEp0CzQLLDwcPF7fLJ6H5Wwufiunkylk",
+      "category": "기타",
       "news": [
         {
-          "title": "코스피, 6%대 급락 4,697‥전날 급등분 모두 반납",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6868479_36932.html",
-          "source": "MBC 뉴스"
+          "title": "철도노조, 내일(26일)부터 ‘안전운행 투쟁’… 일부 열차 운행 차질 예상",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722349",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "\"반등할 줄 알았는데\"…삼전닉스 동반 폭락에 개미들 '한숨'",
-          "url": "https://www.hankyung.com/article/2026112597396",
-          "source": "한국경제"
+          "title": "철도노조, 26일부터 준법투쟁 돌입…수도권 전철·KTX 운행 지연 우려",
+          "url": "https://www.kyeonggi.com/article/20261125580504",
+          "source": "경기일보"
         },
         {
-          "title": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기(종합)",
-          "url": "https://stock.mk.co.kr/news/view/1205844",
-          "source": "매일경제 마켓"
+          "title": "출근길 대란 피했지만, 연례행사 된 서울 지하철 파업 걱정…‘적자 해소’ 과제는 그대로 남았다",
+          "url": "https://www.khan.co.kr/article/202611251638001",
+          "source": "경향신문"
+        }
+      ]
+    },
+    {
+      "keyword": "태국",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T08:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkAOHLz_CIe62YO2YsWXrkKacyI_lrjhnrCBt9GwB32sl8OIGCnGvQhIjT2uQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Chula Experts Outline Thailand’s Path to Quantum Computing Opportunities",
+          "url": "https://www.cincinnati.com/press-release/story/155762/chula-experts-outline-thailands-path-to-quantum-computing-opportunities/",
+          "source": "Cincinnati Enquirer"
+        },
+        {
+          "title": "Chula Experts Urge Thailand To Build Quantum Skills And Research",
+          "url": "https://quantumzeitgeist.com/chulalongkorn-university-chula-experts-urge-thailand/",
+          "source": "Quantum Zeitgeist"
+        },
+        {
+          "title": "Chulalongkorn Researchers Call for Greater Quantum Investment in Thailand",
+          "url": "https://thequantuminsider.com/2026/11/25/chulalongkorn-researchers-call-greater-quantum-investment-thailand/",
+          "source": "The Quantum Insider"
+        }
+      ]
+    },
+    {
+      "keyword": "검찰청",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T08:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRESz1HCVYxJw8pFwmoNl1jJ5NcDne-OyC1YurTBAtKUhw6WpINT1VVgRCnsJ8",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "단독 검찰청 폐지에 '허리급' 평검사 잇단 사직인사...\"자괴감 느껴\"",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611251504258738",
+          "source": "YTN"
+        },
+        {
+          "title": "올해 퇴직·휴직 검사 347명…\"파견 축소·법무부 겸직 인원 조정해야\"",
+          "url": "https://www.fnnews.com/news/202611162235519376",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "작년보다 벌써 40명 많다…검사 퇴직·휴직 347명, 5년 새 최다",
+          "url": "https://www.joongang.co.kr/article/25479099",
+          "source": "중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "슈퍼문",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T09:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwrVe9P1sAGgu3YSw4vMm84xVwErrtDJnwudyiScAV_bUFO7aGFStXr5jg4zc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "밤사이 '슈퍼문'...크리스마스 이브에 가장 크다",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611251603008783",
+          "source": "YTN 사이언스"
+        },
+        {
+          "title": "11월 지구촌 밤하늘 밝힌 슈퍼문 [현장영상]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722177",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
+          "source": "국제신문"
+        }
+      ]
+    },
+    {
+      "keyword": "lta",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T07:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhLO5H_d8BUBbm2V4jqbvaWpVN0iu-ajcSX6EXFNRKIxUYOC8i7rtPd7tcKUA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Factsheet: LTA Launches New 3D Animated Series to Introduce Children to Public Transport",
+          "url": "https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/11/news-releases/factsheet--lta-launches-new-3d-animated-series-to-introduce-chil.html",
+          "source": "Land Transport Authority (LTA)"
+        },
+        {
+          "title": "LTA launches 3D animated series on Singapore public transport for young children",
+          "url": "https://www.straitstimes.com/singapore/transport/lta-launches-3d-animated-series-on-singapore-public-transport-for-young-children",
+          "source": "The Straits Times"
+        },
+        {
+          "title": "All aboard! LTA's new 3D animated series aims to spark kids' love for buses and trains, Singapore News",
+          "url": "https://www.asiaone.com/singapore/ride-seek-jay-ella-animated-series-land-transport-authority",
+          "source": "AsiaOne.com"
         }
       ]
     },
@@ -179,7 +225,7 @@
       "trafficValue": 200,
       "startedAt": "2026-11-25T07:40:00.000Z",
       "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHGf2mmwA9V_UqSQ50r61-5G6tsSLJX8ChS8aiebpInxX8NsEfBrFoycxAntk",
-      "category": "연예",
+      "category": "IT·과학",
       "news": [
         {
           "title": "배우 최명길, 한국브리지협회 명예 홍보대사 위촉",
@@ -187,84 +233,34 @@
           "source": "이투데이"
         },
         {
-          "title": "“브리지 알리기에 최선다할 것”…한국브리지협회 명예 홍보대사로 위촉된 배우 최명길",
-          "url": "https://www.mk.co.kr/news/sports/12217870",
-          "source": "매일경제"
+          "title": "한국브리지협회, 배우 최명길 ‘브리지 명예홍보대사’로 위촉",
+          "url": "https://www.donga.com/news/Culture/article/all/20261125/135090216/1",
+          "source": "동아일보"
         },
         {
-          "title": "배우 최명길, ‘치매 예방’ 도움 주는 브리지의 매력 알린다…24일 한국브리지협회 명예홍보대사 위촉",
-          "url": "https://sports.donga.com/sports/article/all/20261125/135086515/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "증안 펀드",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T07:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiguBUj-Fy5t_xqxPK7i--yfGOngK5ihAqD-T1sI5POuCZPZAvN9emD6Gkoj4",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[단독] 코스피 6% 급락한 날…정부, 증안펀드 확대 추진",
-          "url": "https://www.hankyung.com/article/202611259509i",
-          "source": "한국경제"
-        },
-        {
-          "title": "증안펀드, 실탄 늘린다는데 투입 '미정'…속 타는 투자자들 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/stock/2026/11/25/2026112517055653360",
-          "source": "머니투데이"
-        },
-        {
-          "title": "불법 공매도 3개월 집중감시…금감원·거래소 합동 TF 가동",
-          "url": "https://www.yna.co.kr/view/AKR20261124114700002",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "lta",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T07:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL9V8mkZu5iaZZ63FAL4Ztj8lIwqkJDRTJOCx6GzETuxEKkjaTCramk3saNs",
-      "category": "기타",
-      "news": [
-        {
-          "title": "China’s Neolix gets nod to test self-driving delivery vehicle in Singapore",
-          "url": "https://www.businesstimes.com.sg/singapore/chinas-neolix-gets-nod-test-self-driving-delivery-vehicle-singapore",
-          "source": "The Business Times"
-        },
-        {
-          "title": "LTA announces that Autopass will allow ASEAN-registered vehicles to track vehicle permit status from 29 Nov",
-          "url": "https://mustsharenews.com/autopass-vehicle-entry-permit/",
-          "source": "Must Share News"
-        },
-        {
-          "title": "Asean-registered vehicles can use Autopass accounts from 29 November to track permit status",
-          "url": "https://www.zaobao.com.sg/en/news/singapore/asean-registered-vehicles-can-use-autopass-accounts-29-november-track-permit-status",
-          "source": "联合早报"
+          "title": "최명길 \"AI 시대에 두뇌 운동 매우 뜻깊어\"",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/GQ4DCNLFGE3GKOJRHEZWGNTEGU/",
+          "source": "조선일보"
         }
       ]
     },
     {
       "keyword": "행동",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-25T07:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUB8lyP2zc07ytGml7jAxpxGA_H6FG_xVE9-z3kBy5B2Nbge6-GWgZGIbFOpg",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbzdQDXhai7x8PMv4XHtlBDw21gXUklnRV6VOnlDsxL_yDdETYT-zKHwyT_c",
       "category": "기타",
       "news": [
-        {
-          "title": "\"어린 엄마에게서 태어날수록 위험신호에 더 민감\"",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611241105428994",
-          "source": "YTN 사이언스"
-        },
         {
           "title": "\"엄마의 나이가 자녀의 행동을 바꾼다?\"…세대 간 행동 변화의 비밀 밝혔다",
           "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10066176&title=%22%EC%97%84%EB%A7%88%EC%9D%98+%EB%82%98%EC%9D%B4%EA%B0%80+%EC%9E%90%EB%85%80%EC%9D%98+%ED%96%89%EB%8F%99%EC%9D%84+%EB%B0%94%EA%BE%BC%EB%8B%A4%3F%22%E2%80%A6%EC%84%B8%EB%8C%80+%EA%B0%84+%ED%96%89%EB%8F%99+%EB%B3%80%ED%99%94%EC%9D%98+%EB%B9%84%EB%B0%80+%EB%B0%9D%ED%98%94%EB%8B%A4",
           "source": "BRIC"
+        },
+        {
+          "title": "\"어린 엄마에게서 태어날수록 위험신호에 더 민감\"",
+          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611241105428994",
+          "source": "YTN 사이언스"
         },
         {
           "title": "“엄마 나이가 자녀의 행동을 바꾼다?”···DGIST, 세대 간 행동 변화의 비밀 밝혀",
