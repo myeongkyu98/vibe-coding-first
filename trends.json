@@ -1,20 +1,16 @@
 {
-  "updatedAt": "2026-11-25T14:57:32.998Z",
+  "updatedAt": "2026-11-25T15:58:22.252Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "연예",
-      "count": 2
+      "count": 6
     },
     {
       "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "연예",
       "count": 1
     },
     {
@@ -24,27 +20,77 @@
   ],
   "items": [
     {
+      "keyword": "시그널",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T14:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2s6DCWmGwuDE_uszyake874P9v7ukSa_yf6tO5t_ijNZdvxgLNMdeFRz_TZc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+          "url": "https://sports.khan.co.kr/article/202611240740003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+          "source": "YTN"
+        },
+        {
+          "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "성유리",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T14:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtYu6m8QWNiS4O6YywJpMHD0oBz5t7iZ8FKsbFugra4oGZvcvGpqgxUExZuzY",
+      "category": "기타",
+      "news": [
+        {
+          "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+          "source": "뉴시스"
+        },
+        {
+          "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YDQZTGMM3GIOBYGVSTSZRZMU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
       "keyword": "세계의 주인",
       "traffic": "1000+",
       "trafficValue": 1000,
       "startedAt": "2026-11-25T13:20:00.000Z",
-      "picture": "",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvZsq1jtFc9qQOUxSQQADtfXARU4gNpDdaEkPrdS5b-3__yBwyWPs3vg3afZU",
       "category": "연예",
       "news": [
         {
-          "title": "박지현,’뉴욕에서 날아온 도미’ [O! STAR 숏폼]",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G5STSOJQGEZWCZJUGY3DSMBRGM/",
+          "title": "40주 만에 1위, 청룡이 선택한 남자 오정세 [O! STAR 숏폼]",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/HBSGMMRYMVRTKY3GGRQWMMLEG4/",
           "source": "조선일보"
         },
         {
-          "title": "'왕사남' 박지훈, 청룡영화상 신인남우상 수상",
-          "url": "https://www.newsis.com/view/NISX20261125_0003883514",
-          "source": "뉴시스"
+          "title": "40주 만에 1위 한 ‘만년 2등 가수’…청룡서 당당히 립싱크",
+          "url": "https://sports.khan.co.kr/article/202611252259003",
+          "source": "스포츠경향"
         },
         {
-          "title": "[포토] 문지훈, 돈까스한 인사",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526063",
-          "source": "iMBC 연예"
+          "title": "오정세, 청룡 뜬 최성곤",
+          "url": "https://www.news1.kr/photos/8233244",
+          "source": "뉴스1"
         }
       ]
     },
@@ -53,13 +99,13 @@
       "traffic": "500+",
       "trafficValue": 500,
       "startedAt": "2026-11-25T13:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwwANCUbW7dvegfNQSFS1JyyvQ8byMmKJGL028XRqs49fbKGK0odfhwiZzElM",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9V2R4sqEovfdcOczUM2CQV0hqpgLfnGNfZHbbekzIyOzYftBOlRcuYiwQnGs",
       "category": "기타",
       "news": [
         {
-          "title": "추미애 \"상부 지시보다 헌법 기준으로 판단을\"",
-          "url": "https://www.newsis.com/view/NISX20261125_0003883383",
-          "source": "뉴시스"
+          "title": "추미애 \"공직자의 판단 기준은 상부 지시 아닌 헌법\"... 새내기 공무원에 강조",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288477",
+          "source": "OhmyNews"
         },
         {
           "title": "추미애 \"상부 지시보다 헌법 기준으로 판단해야\"…신규 공직자 특강",
@@ -70,6 +116,56 @@
           "title": "추미애 지사, 신규 공직자에게 \"상부 지시에 익숙해질 때면 헌법을 기준 삼으세요\"",
           "url": "https://view.asiae.co.kr/article/2026112517290794068",
           "source": "아시아경제"
+        }
+      ]
+    },
+    {
+      "keyword": "공포탐욕지수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T14:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE2vWCMPcTChlF7xHKfTx3mE1XOXnG0UONXglBST6OCMwPwLbTP2DjHN7Rrw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
+          "source": "빅데이터뉴스"
+        },
+        {
+          "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+          "url": "https://www.coinreaders.com/273266",
+          "source": "코인리더스"
+        },
+        {
+          "title": "[주간 디지털 자산 시장 브리핑] 업비트 지수 10.59% 하락, 거래대금은 21.47% 상승",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310539",
+          "source": "경향게임스"
+        }
+      ]
+    },
+    {
+      "keyword": "금연",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T13:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0XWtPBzIJtGlSqhZfOoM7ufOlGboDTtKGoyQIPi83J2K77it9bLZPllqvE90",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식",
+          "url": "https://www.yna.co.kr/view/AKR20261125054000530",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "모임·회식 많아지는 연말연시…\"술은 관계와 관계없어요\"",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882164",
+          "source": "뉴시스"
+        },
+        {
+          "title": "천선휴 뉴스1 기자, 음주폐해예방 유공 복지부 장관 표창",
+          "url": "https://www.news1.kr/bio/welfare-medical/6365989",
+          "source": "뉴스1"
         }
       ]
     },
@@ -99,104 +195,38 @@
       ]
     },
     {
-      "keyword": "u-17 월드컵",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T13:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQKebbsjp4OI0QABSsfeJCjvyYGmJfW1b0AaCi1AaGfPBMsZciJucHdDzs7tA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "베트남 U17 스타 선수, 국가대표팀 발탁 목표로",
-          "url": "https://www.vietnam.vn/ko/ngoi-sao-u17-viet-nam-dat-muc-tieu-len-doi-tuyen-quoc-gia",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "FIFA는 시 바흐가 벨기에를 상대로 넣은 환상적인 골을 U-17 월드컵 최고의 골 중 하나로 선정했습니다.",
-          "url": "https://www.vietnam.vn/ko/fifa-de-cu-sieu-pham-cua-sy-bach-pha-luoi-bi-vao-top-ban-thang-dep-nhat-u-17-world-cup",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "Le Sy Bach는 앞으로 더욱 발전하기를 열망합니다.",
-          "url": "https://www.vietnam.vn/ko/le-sy-bach-khat-khao-vuon-xa-hon-trong-tuong-lai",
-          "source": "Vietnam.vn"
-        }
-      ]
-    },
-    {
       "keyword": "acl two",
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-25T13:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5Fs4Nqc24pxSZrbDVixV29gnpSbaPxCpMzSM944Rtk-tPCayP3L8MW5ESdBk",
-      "category": "스포츠",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFwP3UDzrgvWBNw_pwX9J5l5tdtjiWcuKU2x0lNiQfKpPY_tKFbV2za6buV8",
+      "category": "기타",
       "news": [
         {
-          "title": "Group D: East Bengal FC (IND) 1-0 Al Hussein (JOR)",
-          "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-1-0-al-hussein-jor",
+          "title": "Group E: Melbourne Victory (AUS) 0-0 The Cong - Viettel FC (VIE)",
+          "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-0-0-the-cong-viettel-fc-vie",
           "source": "The AFC"
         },
         {
-          "title": "Red & Gold History: Jeakson’s 87th-Minute Strike Stuns Al-Hussein In Do-or-Die Thriller To Script India’s First-Ever ACL 2 Win",
-          "url": "https://www.sportscapemagazine.com/blog/red-gold-history-jeaksons-87th-minute-strike-stuns-al-hussein-in-do-or-die-thriller-to-script-indias-first-ever-acl-2-win",
-          "source": "Sportscape Magazine"
+          "title": "The Cong team was eliminated early in the Asian Cup.",
+          "url": "https://www.vietnam.vn/en/the-cong-bi-loai-som-o-cup-chau-a",
+          "source": "Vietnam.vn"
         },
         {
-          "title": "How can East Bengal stay in qualifying race for ACL 2 knockouts after EBFC vs Al Hussein?",
-          "url": "https://sportstar.thehindu.com/football/indian-football/how-east-bengal-qualify-asian-champions-league-2-knockouts-acl-2-qualification-scenarios-exlpained/article71738708.ece",
-          "source": "Sportstar"
+          "title": "Victory draw in ACL Two",
+          "url": "https://melbournevictory.com.au/news/victory-draw-in-acl-two/",
+          "source": "Melbourne Victory Football Club"
         }
       ]
     },
     {
-      "keyword": "청룡영화상 2026",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T12:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw_qSOrWwUUK5gTEBZ8EHaYFmhSnM7i6OB75Egv-me9N_QY3McwjnyFBbMylQ",
-      "category": "연예",
-      "news": [
-        {
-          "title": "청룡영화제 별들의 레드카펫…시상식 MC는 이제훈·한지민",
-          "url": "https://www.yna.co.kr/view/IPT20261125000013365?section=gallery/index",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[사진]공민정, 우아한 등장",
-          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/25/MNRDCYLCMQ4WEODBGIYTSZTCMQ/",
-          "source": "Chosunbiz"
-        },
-        {
-          "title": "[사진]전미도, 순백 구미호",
-          "url": "https://www.osen.co.kr/article/G1112915034",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "일조권",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T12:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfs8AAUBaFiggvJb93qZDWVFpsUX_3r4S8ggIllgGln8yDGIhKagTn__5gZw",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[단독] 한강 품고 햇볕 놓친 압구정 … 분양가 또 다른 변수된 '일조권'",
-          "url": "https://www.mk.co.kr/news/realestate/12218429",
-          "source": "매일경제"
-        },
-        {
-          "title": "한강뷰의 그늘 … 압구정 재건축 절반 일조량 부족",
-          "url": "https://www.mk.co.kr/news/realestate/12218455",
-          "source": "매일경제"
-        },
-        {
-          "title": "[단독] '한강뷰' 압구정 아파트, 조망 없는 집보다 20% 비싸게 팔렸다",
-          "url": "https://www.mk.co.kr/news/realestate/12218430",
-          "source": "매일경제"
-        }
-      ]
+      "keyword": "공포지수",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T14:40:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     },
     {
       "keyword": "박보검",
@@ -220,56 +250,6 @@
           "title": "박보검 이번엔 통영 바닷가로…‘보검 매직컬2’ 촬영지 관심",
           "url": "https://sports.donga.com/ent/article/all/20261125/135079946/1",
           "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "금연",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0XWtPBzIJtGlSqhZfOoM7ufOlGboDTtKGoyQIPi83J2K77it9bLZPllqvE90",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식",
-          "url": "https://www.yna.co.kr/view/AKR20261125054000530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "모임·회식 많아지는 연말연시…\"술은 관계와 관계없어요\"",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882164",
-          "source": "뉴시스"
-        },
-        {
-          "title": "강화군, 강화풍물시장서 음주폐해예방·금연 합동 캠페인",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762767",
-          "source": "www.gukjenews.com"
-        }
-      ]
-    },
-    {
-      "keyword": "fc서울",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T12:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMu1dwobQnXbqADe01tG3o44tuj6H5nvpjgnsleMQ93mt-I5-_BSoClKGX3g",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "[AFC축구 전적] 반둥 3-1 서울",
-          "url": "https://www.yna.co.kr/view/AKR20261125186800007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'문선민 퇴장' K리그1 서울, ACL2서 인니 페르십에 1-3 덜미",
-          "url": "https://www.newsis.com/view/NISX20261125_0003883518",
-          "source": "뉴시스"
-        },
-        {
-          "title": "FC서울 야잔 \"많은 페르십 반둥 팬들의 응원? 기죽지 않고 우리 플레이 할 것\"",
-          "url": "https://www.sports-g.com/news/articleView.html?idxno=217360",
-          "source": "스포츠니어스"
         }
       ]
     }
