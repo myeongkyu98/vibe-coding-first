@@ -1,28 +1,74 @@
 {
-  "updatedAt": "2026-11-25T16:59:54.530Z",
+  "updatedAt": "2026-11-25T17:46:07.107Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
+      "count": 5
     },
     {
       "category": "경제",
-      "count": 1
+      "count": 2
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "정치·사회",
       "count": 1
-    },
-    {
-      "category": "스포츠",
-      "count": 1
     }
   ],
   "items": [
+    {
+      "keyword": "성유리",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-25T14:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT61TrcW7bHFcMJyPhW5kTGIanse68XzDtYpTxbSt7n2ISANBLFt6R71_g8sGM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
+          "source": "뉴스1"
+        },
+        {
+          "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+          "source": "뉴시스"
+        },
+        {
+          "title": "교수 아버지 둔 성유리, '올 수' 성적표 공개…\"집중력 있다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112514055895473",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "매일경제",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T16:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5kZOaVyV2Ww_kYdPU5JH6EhZZjx4plOud625RDT2nBXMqJ57UsA3YkFI-GYU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
+          "url": "https://news.jtbc.co.kr/article/NB12329686",
+          "source": "JTBC"
+        },
+        {
+          "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722789",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "젠슨 황 랠리 하루 만에 반납, 반도체 −7.9%… 코스피 5,000 오늘 지킬까, 볼 숫자 4개",
+          "url": "https://contents.premium.naver.com/answerindata/answerindatalab/contents/261125085945832em",
+          "source": "네이버 프리미엄콘텐츠"
+        }
+      ]
+    },
     {
       "keyword": "시그널",
       "traffic": "1000+",
@@ -37,39 +83,64 @@
           "source": "YTN"
         },
         {
-          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
-          "url": "https://sports.khan.co.kr/article/202611240740003",
-          "source": "스포츠경향"
-        },
-        {
           "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
           "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8",
           "source": "연합뉴스TV"
+        },
+        {
+          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+          "url": "https://sports.khan.co.kr/article/202611240740003",
+          "source": "스포츠경향"
         }
       ]
     },
     {
-      "keyword": "성유리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T14:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtYu6m8QWNiS4O6YywJpMHD0oBz5t7iZ8FKsbFugra4oGZvcvGpqgxUExZuzY",
-      "category": "기타",
+      "keyword": "정부",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T16:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHZV10P93TENf8YVY4FUw7pdmRc_qF7WEYKwTM341w0VeJJKbHzBqLPk5JIz8",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882889",
-          "source": "뉴시스"
+          "title": "[속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지”",
+          "url": "https://www.khan.co.kr/article/202611252226001",
+          "source": "경향신문"
         },
         {
-          "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YDQZTGMM3GIOBYGVSTSZRZMU/",
+          "title": "美 무역대표, 韓 투자 지원 계획 비판…\"실제 수요 없이 공급만 확대\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446558",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "미국, 과잉 생산 관세 근거로 '한국 정부 지원·인프라 계획' 지목...'메가 프로젝트' 지목한 듯",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611260128242777",
+          "source": "YTN"
+        }
+      ]
+    },
+    {
+      "keyword": "선수",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T16:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdu4tM_5UHB_246v6As7Rm8kY07WCNtfoDJuMq1KmupW26i-B8nMfvBlJBXp0",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "훈련 중인 축구선수, 낙뢰 맞고 숨져…동료도 부상",
+          "url": "https://www.sportschosun.com/football/2026-11-25/202611250100153640014135",
+          "source": "스포츠조선"
+        },
+        {
+          "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/18/GI2TQMDGGBSTANZZHBRTSOJZMM/",
           "source": "조선일보"
         },
         {
-          "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
-          "source": "뉴스1"
+          "title": "경기 중 숨진 아르헨티나 유소년 선수…동료들의 추모 속 안전 논쟁",
+          "url": "https://dspdaily.com/news/view.php?no=28208",
+          "source": "인터내셔널포커스"
         }
       ]
     },
@@ -78,23 +149,23 @@
       "traffic": "200+",
       "trafficValue": 200,
       "startedAt": "2026-11-25T15:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu121PZssiwUYxNY91gK0zVckHX9x9fYpSBy00wunt_qXFqrtPJDUyvy7JnUg",
-      "category": "IT·과학",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSI1DC2_UQ1iDnX-71fOFtvXm7HTYpoEjNkMIbYze_8P-ohI5D10JC8WTPKsIE",
+      "category": "기타",
       "news": [
         {
-          "title": "Invesco QQQ ETF Jumps 7% as Jensen Huang’s Nvidia Comeback Fuels AI Stock Rally",
-          "url": "https://www.tipranks.com/news/invesco-qqq-etf-jumps-7-as-jensen-huangs-nvidia-comeback-fuels-rally-in-ai-stocks",
-          "source": "TipRanks"
+          "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
+          "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+          "source": "TradingView"
         },
         {
-          "title": "Invesco QQQ (NASDAQ:QQQ) Shares Climb 7% - Should You Buy?",
-          "url": "https://www.marketbeat.com/instant-alerts/price-invesco-qqq-nasdaq-qqq-shares-climb-7-should-you-buy-2026-11-23/",
-          "source": "MarketBeat"
+          "title": "Stock Market Today: Nasdaq drops 4%, Dow and S&P 500 also sink as tech weakness spreads — live update",
+          "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia",
+          "source": "MarketWatch"
         },
         {
-          "title": "QQQ is down 2.7% today, on MU stock price movement",
-          "url": "https://www.quiverquant.com/news/QQQ+is+down+2.7%25+today%2C+on+MU+stock+price+movement",
-          "source": "Quiver Quantitative"
+          "title": "The Nasdaq Is Approaching Bear Market Territory: 2 Stocks Down 22% and 37% to Buy Right Now",
+          "url": "https://www.fool.com/investing/2026/11/25/the-nasdaq-is-approaching-bear-market-territory-2-stocks-down-22-and-37-to-buy-right-now/",
+          "source": "The Motley Fool"
         }
       ]
     },
@@ -149,36 +220,27 @@
       ]
     },
     {
-      "keyword": "금연",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T13:40:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "유은성",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T13:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpDFZ6FOZdoF05pk-axF-8vJMlFsiDyGX1y1yz09QqDOK37oZ0I2DT12hD6s4",
-      "category": "정치·사회",
+      "keyword": "양준혁",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T14:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKcFSiC6tmhyBMkYXvW5JFHTyyz8WPSi9jMutcGhlVmHJBGs92WygfdPBJQcg",
+      "category": "스포츠",
       "news": [
         {
-          "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727",
-          "source": "머니투데이"
+          "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
+          "url": "https://www.koreadaily.com/article/20261125070147086",
+          "source": "미주중앙일보"
         },
         {
-          "title": "김정화, 남편과 뉴욕서 첫 부부싸움…경찰까지 출동했다",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882970",
-          "source": "뉴시스"
+          "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
+          "url": "https://biz.heraldcorp.com/article/10948394",
+          "source": "헤럴드경제"
         },
         {
-          "title": "유은성 \"♥김정화와 뉴욕서 부부 싸움…한밤중 호텔 나가 경찰까지 와\"",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6366117",
-          "source": "뉴스1"
+          "title": "\"내 야구 인생의 자부심이었는데…\" 양준혁, 자선야구대회 취소에 삼킨 아쉬움",
+          "url": "https://www.nocutnews.co.kr/news/6612161",
+          "source": "노컷뉴스"
         }
       ]
     },
@@ -190,56 +252,6 @@
       "picture": "",
       "category": "기타",
       "news": []
-    },
-    {
-      "keyword": "양준혁",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T14:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_cTkhgCvlfEyvHI9X4zH5aZmnB2glHx__tWeoCSrJHVKDwsnV5HYF-AT2Xtc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
-          "url": "https://biz.heraldcorp.com/article/10948394",
-          "source": "헤럴드경제"
-        },
-        {
-          "title": "\"내 야구 인생의 자부심이었는데…\" 양준혁, 자선야구대회 취소에 삼킨 아쉬움",
-          "url": "https://www.nocutnews.co.kr/news/6612161",
-          "source": "노컷뉴스"
-        },
-        {
-          "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
-          "url": "https://www.koreadaily.com/article/20261125070147086",
-          "source": "미주중앙일보"
-        }
-      ]
-    },
-    {
-      "keyword": "박보검",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T13:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyp8xs5nYGCD3G7Z7b203z9QxXecpQkmt0CgEbaUQmPlqkRqQ9M-6hmn2g1nM",
-      "category": "기타",
-      "news": [
-        {
-          "title": "사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611251034284891",
-          "source": "YTN"
-        },
-        {
-          "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
-          "source": "조선일보"
-        },
-        {
-          "title": "박보검 이번엔 통영 바닷가로…‘보검 매직컬2’ 촬영지 관심",
-          "url": "https://sports.donga.com/ent/article/all/20261125/135079946/1",
-          "source": "스포츠동아"
-        }
-      ]
     }
   ]
 }
