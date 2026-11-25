@@ -1,275 +1,255 @@
 {
-  "updatedAt": "2026-11-25T00:59:50.729Z",
+  "updatedAt": "2026-11-25T02:18:58.482Z",
   "summary": [
     {
       "category": "기타",
-      "count": 5
+      "count": 4
+    },
+    {
+      "category": "경제",
+      "count": 3
     },
     {
       "category": "스포츠",
       "count": 2
     },
     {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
-    },
-    {
-      "category": "경제",
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "김혜성",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-24T23:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmtdx26CBO163gklJMIm4XoKZNa-Cxj69pG_tmJtd_n-PV-gH2YKSeOvQUDQE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "‘ML 71G→43G’ 점점 기회 사라지는 김혜성, 내년도 쉽지 않다 “다저스가 보강할 포지션은 2루수” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/24/202611231954773845O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "“다저스 약점은 2루수” 김혜성 언급도 안됐다… 보장계약 마지막, 기로에 섰다",
-          "url": "https://sports.khan.co.kr/article/202611241424003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "'이럴 수가' 김혜성 날벼락, 다저스 트레이드 단행…내야 멀티자원 루이스 영입→입지 더 좁아지나",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/GEYTCMZSMZSDMYRVG4ZTOZTDG4/",
-          "source": "조선일보"
-        }
-      ]
-    },
-    {
-      "keyword": "빅테크",
+      "keyword": "이한범",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-24T23:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiy499Ob3DV3upg43kpRVSA-sjlyKOucmmQLW49IrNkx54Tm1VzXDO0RbA4V8",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "내년 몸값 2배 넘게 뛴다...빅테크 참전에 요동치는 HBM 패권",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/24/YA6W5U6NHJAK5JRPGEQKF55NBE/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"10년내 반도체 판 바뀐다 … 양자소재 선점하라\"",
-          "url": "https://www.mk.co.kr/news/it/12217296",
-          "source": "매일경제"
-        },
-        {
-          "title": "[2027 대한민국 대전망⑤] 차세대 AI 반도체 경쟁은?",
-          "url": "https://www.g-enews.com/article/General-News/2026/11/20261125085131248720ae620e86_1",
-          "source": "글로벌이코노믹"
-        }
-      ]
-    },
-    {
-      "keyword": "주주",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-24T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKMjom6b5i-hXn7ZYrcyOvsNWtPaXGrq6pBA4RA4UaSKHNWuFAzvs2pJg2mRY",
-      "category": "기타",
-      "news": [
-        {
-          "title": "삼성 준감위, 75조 주주환원 이해상충 검토",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001728",
-          "source": "IT조선"
-        },
-        {
-          "title": "이한상 교수 \"삼성 자사주 소각, 지배주주와 일반주주 이해 충돌\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446379",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "정기회의 참석하는 이찬희 삼성 준감위원장",
-          "url": "https://mobile.newsis.com/photo/NISI20261124_0021543945",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "윤이나",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-24T23:10:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YdcxO7VRLRaoDE9CrpeIUHstH_Ije23uJkwpQkU8em2gV7zNSU3eVGdw8Ic",
+      "startedAt": "2026-11-25T00:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSImbLcIP2uuLa4hJA--YFD9LZRwYwGzJVTVoWBBAhqn5pkpS_B6iY9nKAmPtM",
       "category": "스포츠",
       "news": [
         {
-          "title": "윤이나, 25일 ‘실내 팀 대회’ WTGL 데뷔…보스턴은 시즌 첫 승 도전",
-          "url": "https://www.donga.com/news/Sports/article/all/20261124/135081960/1",
-          "source": "동아일보"
+          "title": "‘대한민국 국가대표’ 이한범, 초대형 시련 찾아왔다…최근 6경기 단 7분 출전→21세 유망주에게 주전 자리 빼앗겼다",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699064",
+          "source": "인터풋볼"
         },
         {
-          "title": "스크린으로 골프 시작한 윤이나, 마침내 WTGL 데뷔한다",
-          "url": "https://www.sedaily.com/article/20118147",
-          "source": "서울경제"
+          "title": "‘대한민국 국가대표 CB' 이한범, 21세 유망주에게 밀렸다...최근 6경기 단 7분 출전",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101217",
+          "source": "포포투"
         },
         {
-          "title": "윤이나, 여자 팀 골프 리그 WTGL 데뷔전 출격…보스턴 커먼 첫 승 도전",
-          "url": "https://www.kmib.co.kr/article/20261124501691",
-          "source": "국민일보"
+          "title": "‘韓 축구 날벼락’ 공식전 8경기 치르는 동안 고작 36분 출전…벤치로 밀려난 국가대표 센터백 이한범, 커리어 ‘대위기’",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E9%9F%93-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE-%E1%84%82%E1%85%A1%E1%86%AF%E1%84%87%E1%85%A7%E1%84%85%E1%85%A1%E1%86%A8-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%AB-8%E1%84%80%E1%85%A7%E1%86%BC%E1%84%80%E1%85%B5-%E1%84%8E%E1%85%B5%E1%84%85%E1%85%B3%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A1%E1%86%A8-36%E1%84%87%E1%85%AE%E1%86%AB-%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%AB--%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%85%E1%85%A9-%E1%84%86%E1%85%B5%E1%86%AF%E1%84%85%E1%85%A7%E1%84%82%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%AE%E1%86%A8%E1%84%80%E1%85%A1%E1%84%83%E1%85%A2%E1%84%91%E1%85%AD-%E1%84%89%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A5%E1%84%87%E1%85%A2%E1%86%A8-%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A5%E1%86%B7-%E1%84%8F%E1%85%A5%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A5-%E1%84%83%E1%85%A2%E1%84%8B%E1%85%B1%E1%84%80%E1%85%B5/bltf5514f7969437b28",
+          "source": "Goal.com"
         }
       ]
     },
     {
-      "keyword": "미스터트롯",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-24T23:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCkRoatrLiOflMLkY-s945AYed8awYEFgZdxd8axWKgdwZ_LVbAPhUnvR4MCU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "안정환, ‘미스터트롯4’서 춤추는 모습 볼까…시청률 30% 공약에 소환",
-          "url": "https://sports.donga.com/ent/article/all/20261124/135078415/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "최유정 \"'미스터트롯4' 시청률 28% 돌파하면 트로트 도전할 것\"",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525829",
-          "source": "iMBC 연예"
-        },
-        {
-          "title": "TV CHOSUN [미스터트롯4] 김희재X안성훈X박지현X김용빈X손빈아X춘길, 선배 마스터들도 깜짝!",
-          "url": "https://www.pressna.com/news/newsview.php?ncode=1065602780466121",
-          "source": "프레스뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "온도",
+      "keyword": "디트로이트 타이거스",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-24T23:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxyCQ12xbF-wrB0cjwC3CaKF7bwGA9zE644TZWQ8zsJEx_xpDBJNOI35zkwr0",
-      "category": "생활·날씨",
-      "news": [
-        {
-          "title": "오늘은 겨울, 모레는 가을…엘니뇨가 부른 변덕 날씨",
-          "url": "https://www.chosun.com/national/transport-environment/2026/11/25/5ZXD3TR4Q5EJTHCWZPP6KBL3KI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[출근길 YTN 날씨 11/25] 출근길 '반짝 강추위'...낮부터 추위 누그러져",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0108_202611250731138962_005.html",
-          "source": "YTN"
-        },
-        {
-          "title": "중부 서해안 비·눈…서울 낮기온 7도, 일교차 ↑",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721856",
-          "source": "KBS 뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "야닉 시너",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T23:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTlA5otx5z-icjtit_goaxwX5flRV1k0hc7taqRPL7dUVAGMn9owH0D0TfnE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[테니스] 야닉 시너, 결국 무릎 수술···호주 오픈 출전 불투명",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762118",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "신네르, 결국 오른쪽 무릎 수술⋯내년 호주오픈 출전 불투명",
-          "url": "https://www.etoday.co.kr/news/view/2652613",
-          "source": "이투데이"
-        },
-        {
-          "title": "[오피셜] '한국전 대신 수술대 올랐다'…이탈리아 테니스 슈퍼스타, 결국 무릎에 칼 댔다→\"세계 2위 신네르, 1월 호주 오픈도 결장\"",
-          "url": "https://www.xportsnews.com/article/2222600",
-          "source": "www.xportsnews.com"
-        }
-      ]
-    },
-    {
-      "keyword": "장인화",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T22:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUqvYbA_5M8Y_VcUcX18AVMQZjr5h7iDcqEmjCTJGWTlgySVWWS_APIbn8dIc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“장인화 회장도 동일 선상서 평가” 포스코 차기 회장 선출 12월 시작",
-          "url": "https://www.thebigdata.co.kr/view.php?ud=202611241502016389570d99e4c8_23",
-          "source": "빅데이터뉴스"
-        },
-        {
-          "title": "명암 뚜렷한 3년…장인화 포스코그룹 회장 연임 '촉각'",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427916",
-          "source": "데일리한국"
-        },
-        {
-          "title": "[포스코 인사 점검] 이희근·신성원·김상철 내년 3월 이사 임기 만료… 주요 본부장 인선 관심",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082729",
-          "source": "뉴스클레임"
-        }
-      ]
-    },
-    {
-      "keyword": "thứ hạng của real madrid gặp psv",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T22:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3xhw5_0dA6_cy3a5_K3C5ai-V3wRT_GcAQqn_b_keSr_X63LNA27xarrYM6w",
+      "startedAt": "2026-11-25T01:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFV4YrryNdsJb6uWPfE80ypqcMAIQNkJbcN_PFfQfBrhXZQ4nKdIcdmOog_HM",
       "category": "스포츠",
       "news": [
         {
-          "title": "Nhận định bóng đá Real Madrid vs PSV, 03h00 ngày 25/11: Thiên đường thứ 10",
-          "url": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-real-madrid-vs-psv-03h00-ngay-25-11-thien-duong-thu-10-5297622611.html",
-          "source": "Tạp chí Bóng đá"
+          "title": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
+          "source": "조선일보"
         },
         {
-          "title": "Mbappe ghi bàn vượt 'Người ngoài hành tinh' Ronaldo",
-          "url": "https://znews.vn/mbappe-ghi-ban-vuot-nguoi-ngoai-hanh-tinh-ronaldo-post1698886.html",
-          "source": "Znews"
+          "title": "ESPN \"김하성, 디트로이트와 1년 최대 6백만 달러에 계약\"",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6868393_36946.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "Real Madrid ngược dòng ấn tượng, Arsenal và Man City cùng đánh rơi điểm",
-          "url": "https://www.saostar.vn/sao-sport/real-madrid-nguoc-dong-an-tuong-arsenal-va-man-city-cung-hoa-202611250609329694.html",
-          "source": "Tạp chí Saostar"
+          "title": "김하성, MLB 디트로이트에 새 둥지…1년 500만달러에 합의(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261125029751007",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "롯데손해보험",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-24T22:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGn9LICjv5rIr-aAlKnKa4jZFrMuEfTL6ya9rDFIW-8ClJLLX2u_Ztd3pYNaE",
+      "keyword": "국민은행",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T00:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjaoeu-hf76xOBb50CYh3-3Vz8ebY3VrneJhP3as7Smk5yNODwo2iaI-ncqQ",
       "category": "경제",
       "news": [
         {
-          "title": "롯데손보, 신한 편입 전 90% 무상감자…기본자본 4600억원 확충",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/19/2026111980216.html",
-          "source": "인베스트조선"
+          "title": "KB국민은행 \"서울시 11개 구금고 유치…점유율 1위\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125034800002",
+          "source": "연합뉴스"
         },
         {
-          "title": "롯데손해보험, 액면가 100원으로 감액…자본금 2793억 잉여금으로 옮긴다",
-          "url": "https://www.news2day.co.kr/article/20261120500190",
-          "source": "뉴스투데이"
+          "title": "KB국민은행, 서울 11개 자치구 금고 확보…시중은행 중 최다",
+          "url": "https://biz.heraldcorp.com/article/10948417",
+          "source": "헤럴드경제"
         },
         {
-          "title": "롯데손보, 신한금융 편입 앞두고 자본건전성 개선 추진",
-          "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89334",
-          "source": "이코리아"
+          "title": "KB국민은행, 서울 구금고 6곳 신규 유치…점유율 44% ‘1위’",
+          "url": "https://www.viva100.com/article/20261125500491",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "keyword": "고소영",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T00:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5DM0RUm7Sikt7Ffyzj09Tv7aS6ESN70hPGV8Nkak9t0hVZjPX_tdPDsQpxE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "54세 고소영, 패딩 입더니 “어려 보이려고 너무 노력한 느낌”",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/24/MRSGGZRZG4YTMMRSGAZGCYZYMQ/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "고소영, 49kg 몸무게 당당 공개 \"관리하니까 옷 핏 살아 다 잘 어울려\"",
+          "url": "https://www.koreadaily.com/article/20261124022443512",
+          "source": "미주중앙일보"
+        },
+        {
+          "title": "54세 고소영, 현재 몸무게 49kg 공개…“어릴 땐 숫자에 집착했다”",
+          "url": "https://sports.donga.com/ent/article/all/20261124/135083655/1",
+          "source": "스포츠동아"
+        }
+      ]
+    },
+    {
+      "keyword": "폭설",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T01:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFXcekQBXzjNth3sDUTApI9dyUJdMb1Zti51kJNnbYIPOACPT6-mxiGiREnPE",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
+          "source": "조선일보"
+        },
+        {
+          "title": "김윤석·구교환 '폭설', 7일 연속 박스오피스 정상 차지",
+          "url": "https://news.tf.co.kr/read/entertain/2393030.htm",
+          "source": "더팩트"
+        },
+        {
+          "title": "'폭설', 7일 연속 1위...임영웅 영화 5일 연속 TOP 5 [박스오피스] - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112510157272732",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "급여 지원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T00:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "atp 월드 투어",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T00:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5_47O7-04GFBRmpoB3UMNwlsUJbqQd8HLnM6yW9k6DGPa3Z9q_5LU4TXscaE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Jodar: From 'watching Alcaraz on TV' to becoming teammates & rivals",
+          "url": "https://www.atptour.com/en/unlocked/articles/jodar-locker-room-code-2026",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "Men’s tennis is changing in 2028. From money to the calendar, here’s what to know",
+          "url": "https://www.nytimes.com/athletic/7797722/2026/11/21/tennis-atp-tour-prize-money-bonuses-rankings-calendar/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "ATP Tour unveils expanded compensation plan to benefit top 250 players",
+          "url": "https://www.espn.com/tennis/story/_/id/50539880/atp-tour-unveils-expanded-compensation-top-250-players",
+          "source": "ESPN"
+        }
+      ]
+    },
+    {
+      "keyword": "국민카드",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T00:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuLHpumdDW9dFSdcY_rdDrFJCyJThuISwmBNi6NVu9ay_BmgAT9B-I3QI7Fdo",
+      "category": "경제",
+      "news": [
+        {
+          "title": "[게시판] 신한카드, 아디다스 첫 글로벌 제휴카드 출시",
+          "url": "https://www.yna.co.kr/view/AKR20261124132800002",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "[여전사 풍향계] ‘아디다스 신한카드’ 출시…스토어 10% 할인 外",
+          "url": "https://m.ekn.kr/view.php?key=20261124024274089",
+          "source": "에너지경제신문"
+        },
+        {
+          "title": "[금융소식] 신한카드·BC카드·KB국민카드·여신금융협회·NH농협캐피탈",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3451559",
+          "source": "천지일보"
+        }
+      ]
+    },
+    {
+      "keyword": "южная корея",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T01:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCM7UkGqNR2z4QhODhz2ZhXe1rgDf0lLNtsSzGuQudrBObnSEoguW-HkMkyr0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из островов объявили эвакуацию",
+          "url": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
+          "source": "Meduza"
+        },
+        {
+          "title": "Южная Корея подняла истребители из-за пролета российских военных самолетов",
+          "url": "https://www.interfax.ru/world/1130910",
+          "source": "Интерфакс"
+        },
+        {
+          "title": "Южная Корея поднимает истребители и велит жителям острова укрыться из‑за российских самолётов",
+          "url": "https://ru.euronews.com/2026/11/24/ru-south-korea-tells-island-residents-to-take-shelter-as-ru-warplanes-near-its-airspace",
+          "source": "Euronews.com"
+        }
+      ]
+    },
+    {
+      "keyword": "부산은행",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T00:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9gzNlo_OZeX0uK-rZnmAOB69JXmDVDdkL6xv3t7f-3y0_4y7QvIaPhdR7jOU",
+      "category": "경제",
+      "news": [
+        {
+          "title": "부산은행, 25일 '부산 중진공 정책자금 전용통장' 출시",
+          "url": "https://www.yna.co.kr/view/AKR20261124112900051",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "BNK부산은행, 중진공 정책자금 전용통장 출시…사전 검증·증빙 시스템 연계",
+          "url": "https://www.etnews.com/20261124000289",
+          "source": "전자신문"
+        },
+        {
+          "title": "정책자금 증빙 더 편리해진다…중진공·부산은행 맞손",
+          "url": "https://www.news1.kr/industry/sb-founded/6363992",
+          "source": "뉴스1"
         }
       ]
     }
