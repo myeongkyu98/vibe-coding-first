@@ -1,212 +1,220 @@
 {
-  "updatedAt": "2026-11-25T11:55:46.262Z",
+  "updatedAt": "2026-11-25T13:10:37.962Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
     },
     {
       "category": "경제",
       "count": 2
     },
     {
+      "category": "연예",
+      "count": 1
+    },
+    {
       "category": "스포츠",
       "count": 1
     },
     {
-      "category": "연예",
+      "category": "IT·과학",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "최우제",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-25T10:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgiKPWwEfyN-CKacj8Nv95tACUB3UQFgu8auVYt2W3loAlsEjak8NVwVylZx8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "T1 2027시즌 기자회견 SOOP 생중계",
-          "url": "https://www.kmib.co.kr/article/20261125501220",
-          "source": "국민일보"
-        },
-        {
-          "title": "'친정' 돌아온 제우스 \"T1, 좋은 가치·비전 제시했다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261125176800017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[오피셜] ‘이지훈’ 코치 잔류 T1, ‘로치’ 감독·‘엄티’ 코치 선임…2027시즌 코칭스태프 발표",
-          "url": "https://www.osen.co.kr/article/G1112914744",
-          "source": "OSEN"
-        }
-      ]
-    },
-    {
-      "keyword": "숲",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-25T09:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVsUGWUI0VTzFxU90yrF8CXaJKImpxSdsbJxxOJJl07L9vRwbM4Jps_btNiLk",
-      "category": "기타",
-      "news": [
-        {
-          "title": "울산 남구, 건강한 산림환경 조성 위한 ‘숲가꾸기 행사’",
-          "url": "https://www.ujnews.co.kr/news/newsview.php?ncode=1065595357579221",
-          "source": "울산종합일보"
-        },
-        {
-          "title": "인천 영종구, 푸르고 쾌적한 도시 숲 조성",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806081",
-          "source": "일간투데이"
-        },
-        {
-          "title": "임실군, 전북도 숲가꾸기사업 시군 평가 '최우수상'",
-          "url": "https://www.fnnews.com/news/202611171625165906",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "가시마 앤틀러스 대 전북",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-25T09:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "고경표 음주 운전",
+      "keyword": "은퇴 요원 관리팀",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-25T09:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9yB8XpxcGroUIhEM-qzpc8zjLOa6gANDgcanOR7oPkZcjsrpiOAWwc2IamkE",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“하…” 음주운전 고경표, 다친 미화원께 연락드렸냐 물었더니",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1288790.html",
-          "source": "한겨레"
-        },
-        {
-          "title": "“팁만 5만원” 고경표, 과거엔 대리 불렀다 ‘목격담 등장’",
-          "url": "https://sports.khan.co.kr/article/202611251039003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "지석진 2연패 도전? 유재석, '핑계고' 대상후보 7명 공개",
-          "url": "https://www.newsis.com/view/NISX20261125_0003883472",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "검사",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T09:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFuT3aoR0Ek83kJuyxn5LxXViF2LEHdA8KF15NsZWjljsoUlv_1I6UJPRuqaw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[사설] 대북송금 수사 검사 징계 못푸는 이유, 조작기소 근거 사라질까봐",
-          "url": "https://www.chosun.com/opinion/editorial/2026/11/25/ST6EEKK3R5HRBFEGXT7JEZ5JJM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "[단독] '7개월 직무정지' 박상용 검사, 해제 거부에 징계까지 미루면 법무부 상대 취소소송 검토",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/25/2026112550182.html",
-          "source": "뉴데일리"
-        },
-        {
-          "title": "‘쌍방울 대북 송금’ 수사 박상용 검사, 법무부에 직무정지 해제 요청",
-          "url": "https://www.donga.com/news/Society/article/all/20261123/135074106/1",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "하사",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T09:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhmgbFacMK4wov1QHlmupWH_Xe1OfO3IJ3qM0HwRdAiOl7OJPXv84GToiRGcI",
-      "category": "기타",
-      "news": [
-        {
-          "title": "진주 저수지서 여성 공군 하사 숨진 채 발견···군, 가혹행위 여부 수사",
-          "url": "https://www.khan.co.kr/article/202611251607001",
-          "source": "경향신문"
-        },
-        {
-          "title": "진주서 공군 20대 여군 중사 숨진 채 발견…군 당국 수사",
-          "url": "https://www.yna.co.kr/view/AKR20261125124700052",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "공군 소속 여성 하사 숨진 채 발견…군 당국 수사",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125172222hsM",
-          "source": "연합뉴스TV"
-        }
-      ]
-    },
-    {
-      "keyword": "청룡영화상",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T10:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJsRvWtON_wTM-XnxsNZgntVG9uvwZFtzRyxNyRXMSyOpaPhNg3PHjbg-1mI",
+      "startedAt": "2026-11-25T10:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMGk8gvXJZMDNzKfxF5gsHf8zihDxHPkyg3aNZxhUcLoq2pAS52h6FkT7-rXw",
       "category": "연예",
       "news": [
         {
-          "title": "[사진]유해진, 환한 미소",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/HA3TGNJVMI2TSZTGMJRDQNTGMI/",
-          "source": "조선일보"
+          "title": "차승원·김도훈, 브로맨스 꽃피울까?…'은퇴요원+관리팀', 포스터 공개",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611250906393953",
+          "source": "YTN"
         },
         {
-          "title": "[포토] 이제훈-한지민, 청룡영화상과 함께",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/GIYGIZDDGBRTSYRVHEZGCYRSHA/",
-          "source": "조선일보"
+          "title": "전직·좌천 블랙요원의 은밀한 공조… 차승원ⅹ김도훈 ‘은퇴요원+관리팀’, 새해 첫 포문",
+          "url": "https://www.viva100.com/article/20261125500792",
+          "source": "브릿지경제"
         },
         {
-          "title": "청룡영화상 25일 생중계…레드카펫부터 시청 순서",
-          "url": "https://www.jejutwn.com/news/article.html?no=464925",
-          "source": "제주교통복지신문"
+          "title": "[방송소식] 차승원·김도훈 주연 '은퇴요원+관리팀' 내년 1월 첫선",
+          "url": "https://www.yna.co.kr/view/AKR20261125054100005",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "경주마",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T10:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnoMhKs52qzme5I7ndhIHBCipVjl3kzcs8cJ43IbXmCoHlga1AlWjf41KJSe8",
+      "keyword": "난방",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T11:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2N9eqv22nGRHKj-MGQSa6xubk20QbxDIivJKFjzI0CBVBulZobKz5PfgLkeU",
       "category": "기타",
       "news": [
         {
-          "title": "'이제 2살 됐는데... 너 때문에 죽었다' 女 기수 황당 판단 때문에 '1억 5500만' 경주마 즉사 '日 승마계 발칵' - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112417404247259",
+          "title": "[쏙쏙뉴스] 난방비 폭탄 맞을라, 은퇴 부부는 11월부터 대비합니다",
+          "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116758",
+          "source": "OhmyNews"
+        },
+        {
+          "title": "\"보일러 적정온도는 '이 온도'로 맞추세요\"... 겨울철 난방비 줄이는 비결입니다",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=22022",
+          "source": "아던트뉴스"
+        },
+        {
+          "title": "[생활꿀팁] 겨울 고지서 받으면 '이것'부터 맞춰 보세요…전기장판이 누명 벗습니다",
+          "url": "https://www.wikitree.co.kr/articles/1177434",
+          "source": "위키트리"
+        }
+      ]
+    },
+    {
+      "keyword": "persib bandung vs fc seoul",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T11:40:00.000Z",
+      "picture": "",
+      "category": "스포츠",
+      "news": []
+    },
+    {
+      "keyword": "재혼황후",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T11:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5tGrY1v9SVhZT9FE5glsArPtTBZ-FHYVlIwuF8K6xqx6N_k-QmeNEQ-TgOFE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "45개국 1위 찍은 ’재혼황후’, 오늘 종영",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125111441Bdd",
+          "source": "연합뉴스TV"
+        },
+        {
+          "title": "종영 앞둔 ‘재혼황후’ 신민아·이봉련...황후와 시녀장의 깊은 신뢰",
+          "url": "https://www.ytn.co.kr/_sn/0117_202611241515092481",
+          "source": "YTN"
+        },
+        {
+          "title": "'재혼 황후' 신민아, 이종석은 프러포즈 주지훈은 애원 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112508107244390",
           "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "백화점",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T11:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofBgsS8d6VxFH7esNiC2VbQ0MuXvyFODEQZKXf6OkIptBT8uqA6NrXgZ5A5o",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "\"판타지 세상 거닐어봐요\"…롯데百, 잠실점서 이색 아트 콘텐츠",
+          "url": "https://www.yna.co.kr/view/AKR20261124157000030",
+          "source": "연합뉴스"
         },
         {
-          "title": "기수 무리한 끼어들기에 1.4억대 경주마 즉사…日 '제 식구 감싸기' 파장",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882057",
-          "source": "뉴시스"
+          "title": "롯데백화점 잠실 에비뉴엘에서 체험형 전시 개최, 추리게임부터 관람객 교류 행사까지",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452873",
+          "source": "비즈니스포스트"
         },
         {
-          "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882828",
-          "source": "뉴시스"
+          "title": "백화점엔 트리, 카페엔 케이크…유통가 ’크리스마스 특수’ 선점 경쟁 By EBN",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2188146",
+          "source": "Investing.com 한국어"
+        }
+      ]
+    },
+    {
+      "keyword": "해군",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T11:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpI3yjT_SQ39dOyznT4Le6gllOfnnUk5aKSmzTdcIj3FvVIGkZ-LcytQBhW4k",
+      "category": "기타",
+      "news": [
+        {
+          "title": "한화오션 \"태국 해군 호위함 우선협상대상자 지위 상실\"",
+          "url": "https://www.yna.co.kr/view/AKR20261125179800003",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "'최대 4조 규모' 태국 호위함 사업 다시 원점 '재입찰', 한화오션-HD현대중공업 재격돌 예고",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452801",
+          "source": "비즈니스포스트"
+        },
+        {
+          "title": "한화오션, 6800억원 태국 호위함 사업 우협 지위 상실… “현지 조달 취소”",
+          "url": "https://www.viva100.com/article/20261125501392",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "keyword": "강남",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T11:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF7449rtqbCehkaTMz3FonMYPIoQCeNMul8sLafH8YCJyBK8hnR-YwOMfSNKs",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "우종혁 강남구의원, 2026 행정사무감사 … “복지행정, 화려한 외형보다 구민의 삶을 변화시키는 내실 갖춰야”…",
+          "url": "http://www.koreasisailbo.com/2483364",
+          "source": "시사일보"
+        },
+        {
+          "title": "강남구의회 행정안전위원회, 2026년 행정사무감사 진행",
+          "url": "https://www.fnnews21.com/news/articleView.html?idxno=60256",
+          "source": "청년투데이"
+        },
+        {
+          "title": "김현정 강남구의회 부의장, 강남문화재단·강남문화원 행정사무감사서 예산 집행·사업 운영 적정성 집중 점검",
+          "url": "https://www.kitvnews.co.kr/news/article.html?no=1694158",
+          "source": "한국미디어뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "마이크론 테크놀로지",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T10:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgV0ZC4tNy3dcNPqCGNvKOzAqhYuM57Zg8BxYdnGEAjjNjcaXkAWan7bsTJhY",
+      "category": "경제",
+      "news": [
+        {
+          "title": "씨티, 메모리주 폭락 과도…마이크론 2배·샌디스크 3배 상승 전망",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446284",
+          "source": "연합인포맥스"
+        },
+        {
+          "title": "美특징주]마이크론테크놀로지, 공급과잉 우려·월가 투자의견 하향…주가 11%↓",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01131606645649328",
+          "source": "마켓인"
+        },
+        {
+          "title": "메모리 슈퍼사이클 정점론 4가지 근거…마이크론 목표가 반토막 - 머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/25/2026112510071236055",
+          "source": "머니투데이"
         }
       ]
     },
     {
       "keyword": "lg에너지솔루션",
-      "traffic": "100+",
-      "trafficValue": 100,
+      "traffic": "200+",
+      "trafficValue": 200,
       "startedAt": "2026-11-25T10:50:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStD9XWHt4dOF6G_bx7asZ241yZSyP1oIVX9Rp35vfPGD3Xtzz5hAhvzWCupso",
       "category": "경제",
@@ -229,29 +237,13 @@
       ]
     },
     {
-      "keyword": "페이즈",
+      "keyword": "조이현",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-25T10:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKWYgLRQERxSbIUAQeoWLgVnAs2Ldpix80mWGw-bQV-JiHy0HT_DnYt-MDVDI",
-      "category": "경제",
-      "news": [
-        {
-          "title": "‘판독 논란’ OK저축은행, KOVO에 ‘사후 판독’ 요청…KOVO “정독”",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722248",
-          "source": "KBS 뉴스"
-        },
-        {
-          "title": "케트진스키의 강력한 스파이크",
-          "url": "https://www.yna.co.kr/view/PYH20261124187100051",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[프로배구] 팬심도 성적도 잃었다…총체적 난국에 빠진 OK저축은행",
-          "url": "https://www.newspim.com/news/view/20261125000019",
-          "source": "뉴스핌"
-        }
-      ]
+      "startedAt": "2026-11-25T11:50:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
     }
   ]
 }
