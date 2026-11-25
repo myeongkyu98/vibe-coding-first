@@ -1,226 +1,55 @@
 {
-  "updatedAt": "2026-11-25T20:51:35.572Z",
+  "updatedAt": "2026-11-25T21:53:15.107Z",
   "summary": [
     {
-      "category": "스포츠",
-      "count": 7
+      "category": "경제",
+      "count": 3
     },
     {
-      "category": "경제",
+      "category": "정치·사회",
+      "count": 3
+    },
+    {
+      "category": "스포츠",
       "count": 2
     },
     {
       "category": "기타",
-      "count": 1
+      "count": 2
     }
   ],
   "items": [
     {
-      "keyword": "사과",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-25T19:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYDCJoA-Q5BCb8oq3yiwLBtWNY-3tZ3DgQZeu-bjFK8_Tcsk1y_b8TcowfwCQ",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "포천사과, 경기 품평회서 농가 3곳 수상",
-          "url": "https://www.kyeonggi.com/article/20261125580398",
-          "source": "경기일보"
-        },
-        {
-          "title": "포천 사과 2026년 경기도 사과·배 품평회서 우수한 품질 입증",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042063",
-          "source": "기호일보"
-        },
-        {
-          "title": "평택 배, 경기도 품평회 '대상'…진위면 이승호씨 영예",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882552",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "윤이나",
+      "keyword": "3기 신도시 부천대장지구",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-25T19:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTvdDTRATHG3lpbh2rmKxWY1h_QNw7THksMMR1ujo7he6am8Ir1G0HxumssR0",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "윤이나, 여자 스크린골프리그 데뷔전‥소속팀 첫 승 합작",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6868492_36946.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "스크린 골프에서도 빛난 윤이나…데뷔전서 승리 견인",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126051854a9O",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "윤이나의 보스턴, 실내골프리그 WTGL에서 첫 승리",
-          "url": "https://www.yna.co.kr/view/AKR20261125121100007",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "클뤼프 브뤼허 대 리버풀",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T19:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK8GWQIOlNxmA1wsb3keoRUj84NngXeSjMjiszC0cyI_IH7Kwo-0zPkgh3Z1M",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Club Brugge vs Liverpool: UEFA Champions League stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
-          "source": "BBC"
-        },
-        {
-          "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
-          "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Ryan Gravenberch and Cody Gakpo injury update",
-          "url": "https://www.liverpoolfc.com/news/ryan-gravenberch-and-cody-gakpo-injury-update",
-          "source": "Liverpool FC"
-        }
-      ]
-    },
-    {
-      "keyword": "psg 대 로마",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T19:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrcjfYvUR-1PFPZi6BOqLdjnLzCYb11h3rkXSLzvKd5SWwF8xBd71ucxXiE28",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "챔피언스리그: 로마는 PSG의 거품을 꺼트릴 수 있을까?",
-          "url": "https://sbotopkr.tistory.com/2701",
-          "source": "티스토리"
-        },
-        {
-          "title": "챔피언에게 주어진 도전.",
-          "url": "https://www.vietnam.vn/ko/thu-thach-cho-nha-vo-dich",
-          "source": "Vietnam.vn"
-        },
-        {
-          "title": "[챔스 5차전] PSG–로마, 4경기 20골의 화력…우승후보의 질주 이어갈까?",
-          "url": "https://www.gangneungnews.kr/news/articleView.html?idxno=70262",
-          "source": "강릉뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "김가영",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T19:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwQISsOSo4xoEnsL3wnhLdbJivnLCUNiFBqTAjcqy4LCtQSk1QCaO2FZ9uWAc",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "산체스, 2009년생 한민준 완파…PBA 6차 투어 64강 진출",
-          "url": "https://www.yna.co.kr/view/AKR20261125044600007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'NH농협카드 듀오' 정수빈-김보미, '우승 기운'으로 동반 16강... 김민아도 장가연에 승부치기 신승 [PBA] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112422172689895",
-          "source": "머니투데이"
-        },
-        {
-          "title": "10대 챔피언 김영원 무난한 출발…산체스와 사이그너도 64강 진출",
-          "url": "https://www.hani.co.kr/arti/sports/sports_general/1288966.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "구급차",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T19:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsb3j7TZ1g8XcwBSnHsHSKF2IZqVp3OFmWay40yD7o9uNVX3nivWz0pw_xGFc",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"목격자를 찾습니다!\" 마라톤 '돌연사' 20대 러닝 인플루언서 사건 [사건X파일]",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611250040310061",
-          "source": "YTN"
-        },
-        {
-          "title": "'구급차 유턴하는데 계속 달린 마라톤 참가자들' 영상…\"비켜줘야 하지 않나\" 논란",
-          "url": "https://www.newsis.com/view/NISX20261125_0003883507",
-          "source": "뉴시스"
-        },
-        {
-          "title": "10㎞ 코스 완주한 10대 사망 원인, 급성 폐부종은",
-          "url": "https://www.segye.com/newsView/20261124513979",
-          "source": "세계일보"
-        }
-      ]
-    },
-    {
-      "keyword": "디지털 자산",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T19:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1YGiDUv1P338-fq647BXeMMetYNamYi2B4aIPkyaXh9xsOzxDZfrb5T247S4",
+      "startedAt": "2026-11-25T20:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU5vbPcOUG17kilOn0JPhMo8ko7GPdfpNaUb4Zhg1l6A2xex9Ynf13icIEI1U",
       "category": "경제",
       "news": [
         {
-          "title": "복수제휴 불안… '1거래소 1은행' 안 푼다 - 머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/11/26/2026112519450564111",
-          "source": "머니투데이"
+          "title": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
+          "url": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
+          "source": "네이버 프리미엄콘텐츠"
         },
         {
-          "title": "느리다던 일본도 토큰증권 3조 굴리는데…한국은 아직 걸음마 - 머니투데이",
-          "url": "https://www.mt.co.kr/index.php/stock/2026/11/26/2026112522101625519",
-          "source": "머니투데이"
+          "title": "82세대 모집에 1만건… ‘부천대장 하우스토리 디센트’, 1순위 최고 156.31대 1",
+          "url": "https://www.dt.co.kr/article/12097182",
+          "source": "www.dt.co.kr"
         },
         {
-          "title": "내달 3일 디지털자산기본법 공청회…이르면 2028년 시행",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04096726645649328",
-          "source": "마켓인"
+          "title": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/",
+          "source": "Chosunbiz"
         }
       ]
     },
     {
-      "keyword": "uefa champions league",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T19:30:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp09ehNW2-6EsLxv1pWbwVFca0p2m2yNyh7f-QQWoN8nLHBj2BOrF1BsFEXyY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "Lee Kang-in Starts for Atlético Madrid, Eyes First UCL Goal",
-          "url": "https://www.chosun.com/english/sports-en/2026/11/26/PFTN7U2RQZEIHLXDZWYJSJYWNM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "Atletico Madrid vs Viking Confirmed Lineups",
-          "url": "https://www.whoscored.com/news/uXo9Ze2pHEOFuOglVm08vA/show/cng112-20261125-atletico-madrid-vs-viking-confirmed-lineup-1795632675",
-          "source": "WhoScored.com"
-        },
-        {
-          "title": "Licensable picture: UEFA Champions League - Atletico Madrid v Viking",
-          "url": "https://www.reutersconnect.com/item/uefa-champions-league-atletico-madrid-v-viking/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxTDNLSzY",
-          "source": "Reuters Connect"
-        }
-      ]
-    },
-    {
-      "keyword": "champions league",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T19:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwVXeWRSkHLprn4Vygt9luE37p8kw6I4iWcB3ad2kvXzc2c1MQWe2dDwtjEf4",
+      "keyword": "sporting vs man utd",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6Cawht2rHOsH4LV92bQYbd0sgCMhgLWznc6kNzMWw40JKlqYH4b12E-ICVVA",
       "category": "스포츠",
       "news": [
         {
@@ -229,39 +58,198 @@
           "source": "BBC"
         },
         {
-          "title": "Pochettino returns to the Champions League after four and a half years, aiming to revive Manchester United",
-          "url": "https://www.dukagjini.com/en/2026/11/pochettino-returns-champions-league-aiming-revive-manchester-united/",
-          "source": "Dukagjini - Lajmet e fundit"
+          "title": "Licensable picture: UEFA Champions League - Sporting CP v Manchester United",
+          "url": "https://www.reutersconnect.com/item/uefa-champions-league-sporting-cp-v-manchester-united/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQlAxTzEzT0k",
+          "source": "Reuters Connect"
         },
         {
-          "title": "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league",
-          "source": "Al Jazeera"
+          "title": "Man United concede two penalties in three minutes in latest defensive horror show",
+          "url": "https://sports.yahoo.com/soccer/articles/man-united-concede-two-penalties-204903041.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "삼성물산",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T19:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROIrARcpZ8DRIn1YhkHcDW3eErH4svJVnYGOG1BOxbfP3PgpiU4aAaLIl50Ug",
+      "keyword": "공공",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc3Lm544pQkpSzOMGjMIWj4PEJejIyXK1STMH-Y-I8fwTVlm98-yEGeWH-9WM",
       "category": "경제",
       "news": [
         {
-          "title": "삼성물산, 부사장 7명 등 22명 승진…2027년 정기 임원인사",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=375254",
-          "source": "전기신문"
+          "title": "이 대통령 \"공적주택, 주거사다리·주거안전매트…공급 최대한 확대\"",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976503",
+          "source": "대한민국 정책브리핑"
         },
         {
-          "title": "건설 사령탑 '70년대생이 온다'…외환위기 세대의 위기 돌파 실험대",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446347",
-          "source": "연합인포맥스"
+          "title": "이 대통령 \"중산층 사다리 돼야\"‥공적주택 방문",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868638_37012.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "\"아파트 밀어낸 반도체\"…삼성·SK 건설사 수장 '반도체통' 전진 배치",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/25/2026112500975.html",
+          "title": "2030년까지 수도권에 아파트 발주 182조원…50만호 착공(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261125168651001",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "에코프로비엠",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAy2vCK_ozWKlI0yXlhJue8rg_xhLtnmY94ijGWYFKuqp72kr8vZUmif0rqc",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "‘4명 사상’ 에코프로비엠 폭발 사고 전 대표 징역형 집유",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722255",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "\"위험 경고 여러 번 무시해\"…'4명 사상' 에코프로비엠 전 대표 집유 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/25/2026112518074672423",
+          "source": "머니투데이"
+        },
+        {
+          "title": "'4명 사상 폭발 화재' 에코프로비엠 전 대표 징역형 집행유예",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6365919",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "교사",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfLySiFMSix20ics6_H5GW_s5NTGpy8w5P3bIL2A7Umgrjaxpbzh6ybzD5Aeo",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "[속보]‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
+          "url": "https://www.khan.co.kr/article/202611251415001",
+          "source": "경향신문"
+        },
+        {
+          "title": "AI로 되살아난 고인...조롱의 도구된 딥페이크 [앵커리포트]",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611251911244877",
+          "source": "YTN"
+        },
+        {
+          "title": "‘리트 만점’ 이진우 과외교사 경찰 조사…“진실 묻어선 안 돼”",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8722251",
+          "source": "KBS 뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "맨유",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQam-NX4LMxHskJ0DQXs_bGkWzP6C4clg_wwD2bVr4x-HhMEDBYE2SfyW25W1U",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "포체티노 맨유 데뷔전 완패 빌미된 요로 퇴장은 오심…징계 철회",
+          "url": "https://www.yna.co.kr/view/AKR20261125058100007",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "충격! 맨유-리버풀전, 무려 7명 경찰 체포됐다...A급 마약 소지에 참사 조롱·인종차별까지 \"가장 과열되기 쉬운 경기\"",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/26/MM4TIOJXHE4TMZJTMI3WCNZTG4/",
+          "source": "조선일보"
+        },
+        {
+          "title": "\"심판이 규정을 몰라!\" 브루노 작심발언이 맞았다...맨유 '0-4 대참사' 부른 퇴장, 오심 인정→\"절대 일어나선 안 될 일\" - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/25/202611251843770880O",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "คลับ บรูกก์ พบ ลิเวอร์พูล",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:30:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNs4O7eA94TyWe1qnlBMak4PdOGqWw1vIHYU6e87OtE1RhEk4yFenXp__Gf5w",
+      "category": "기타",
+      "news": [
+        {
+          "title": "การทำนายผลการแข่งขันระหว่างคลับบรูจจ์กับลิเวอร์พูล เวลา 03:00 น. วันที่ 26 พฤศจิกายน: พบกับคู่ต่อสู้ที่แข็งแกร่ง",
+          "url": "https://www.vietnam.vn/th/nhan-dinh-club-brugge-vs-liverpool-03h00-ngay-26-11-gap-ke-cung-dau",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "LIVE : ดูบอลสด คลับ บรูซ พบ ลิเวอร์พูล ฟุตบอลยูฟ่า แชมเปียนส์ลีก เวลา 03.00 น.",
+          "url": "https://www.sportingnews.com/th/football/news/live-watch-club-brugge-vs-liverpool-uefa-champions-league-2026-27/7db35d119bab03b194f8909c",
+          "source": "Sporting News"
+        },
+        {
+          "title": "อิราโอล่า อัปเดตความพร้อมลูกทีม ก่อนบุกเยือน คลับ บรูจจ์ ในศึก UCL",
+          "url": "https://www.tnnthailand.com/sports/253355/",
+          "source": "TNN Thailand"
+        }
+      ]
+    },
+    {
+      "keyword": "종합부동산세",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8dNiCEAssz7vhT7LE__5_YIpgfpM4NCPJuBG26sYjZCTqDyF6uMJXOCsjUc",
+      "category": "경제",
+      "news": [
+        {
+          "title": "'5627만원' 종부세 고지서 인증에…\"도대체 얼마짜리 집\" 반응 극과 극",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/25/2026112502482.html",
           "source": "땅집고"
+        },
+        {
+          "title": "올해 종부세 대상 82만명…세금만 6조원대",
+          "url": "https://www.dailian.co.kr/news/view/1719614/%EC%98%AC%ED%95%B4-%EC%A2%85%EB%B6%80%EC%84%B8-%EB%8C%80%EC%83%81-82%EB%A7%8C%EB%AA%85%EC%84%B8%EA%B8%88-6%EC%A1%B0%EC%9B%90-2026",
+          "source": "데일리안"
+        },
+        {
+          "title": "종부세 고지서 받았다면: 1주택 공제·합산배제·분납 확인",
+          "url": "https://www.lawtalk.co.kr/posts/214493",
+          "source": "로톡"
+        }
+      ]
+    },
+    {
+      "keyword": "편의점",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T20:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "경마",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T20:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG1HbY6YMdVqIbJ-bkhikCvslnFGQSNmzdZ3CNde10r38NqwD5q1DhSyt1arM",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "경마노동자 620명 청와대 앞 집결…“경마공원 이전 정부가 책임져야”",
+          "url": "https://www.kyeonggi.com/article/20261125580461",
+          "source": "경기일보"
+        },
+        {
+          "title": "마사회 노동조합, 총력투쟁 결의대회",
+          "url": "https://www.yna.co.kr/view/PYH20261125125000013",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "경마장 따로, 본사 따로?…마사회 이전 놓고 갈등 격화",
+          "url": "https://news.mtn.co.kr/video/2026112516403461970",
+          "source": "MTN 머니투데이방송"
         }
       ]
     }
