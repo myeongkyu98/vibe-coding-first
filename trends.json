@@ -1,16 +1,20 @@
 {
-  "updatedAt": "2026-11-25T05:58:55.234Z",
+  "updatedAt": "2026-11-25T07:08:46.716Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 4
     },
     {
-      "category": "경제",
+      "category": "연예",
+      "count": 2
+    },
+    {
+      "category": "생활·날씨",
       "count": 1
     },
     {
-      "category": "정치·사회",
+      "category": "경제",
       "count": 1
     },
     {
@@ -24,34 +28,59 @@
   ],
   "items": [
     {
-      "keyword": "술",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-25T03:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlPKbqtJ8rLw-nvWz9xC4Ad4cwIqpiNfbWgJgHD4ZDCOXmLDWb-W0p683GcDg",
-      "category": "기타",
+      "keyword": "이혼",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-25T05:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrrXuyEiJWIv5tGico0LDxcZE2XPJZ-W3vCCTBxScQHnsF0GUduBPukVfWTk",
+      "category": "연예",
       "news": [
         {
-          "title": "“기억 못 한다” 술 취해 지인 살해한 50대 징역 25년 선고",
-          "url": "https://www.khan.co.kr/article/202611251403001",
-          "source": "경향신문"
+          "title": "\"양홍원과 이혼\" 원현주, 입장 발표문에 변호사 태그한 이유는 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/25/2026112514003999234",
+          "source": "머니투데이"
         },
         {
-          "title": "술 취해 지인 살해 후 \"심신상실\" 주장 50대, 징역 25년 선고",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261125142701TO2",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "술 취해 지인 찌르고 \"손가락 베여\" 신고…\"심신상실\" 50대 중형",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862817",
+          "title": "결혼식 닷새 만에 불륜 의혹 터지더니…양홍원·원현주, 결국 이혼",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861287",
           "source": "SBS 뉴스"
+        },
+        {
+          "title": "[전문] 양홍원·원현주 결국 파경…직접 이혼 발표",
+          "url": "https://sports.khan.co.kr/article/202611241530003",
+          "source": "스포츠경향"
+        }
+      ]
+    },
+    {
+      "keyword": "김지민",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-25T05:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWt4qh6EXs5SunyGVO1VLbCnktXOJmip1_hIwKmfmnPw_xvv75vyIus2C6DE",
+      "category": "생활·날씨",
+      "news": [
+        {
+          "title": "'출산 코앞' 김지민, ♥김준호 앞 차려놓은 밥상에 떡하니…만삭 임산부 반전 먹방",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/25/MZSWCOBUGY2DEMRWGYYWKOJXHA/",
+          "source": "조선일보"
+        },
+        {
+          "title": "스타들의 임신·출산 소식|'옥문아' 강재준 \"아들 나와 판박이...출산 당시 의사가 '강재준씨 태어났다' 말했을 정도\"",
+          "url": "https://news.zum.com/photo/62767808/109062829",
+          "source": "ZUM 뉴스"
+        },
+        {
+          "title": "‘임신’ 김지민, ♥김준호, 반려견과 함께 태교 여행…“우리 가족 첫 여행”",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135066747/1",
+          "source": "동아일보"
         }
       ]
     },
     {
       "keyword": "재산세",
-      "traffic": "1000+",
-      "trafficValue": 1000,
+      "traffic": "2000+",
+      "trafficValue": 2000,
       "startedAt": "2026-11-25T04:30:00.000Z",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-QlIjYWIHA8d5huuxGR1Q6zLTjOr_3ASEHNwSZQC5H_g7bAAQsw-_HOQ5iQI",
       "category": "경제",
@@ -74,186 +103,167 @@
       ]
     },
     {
-      "keyword": "트레킹",
+      "keyword": "예멘",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-25T04:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsPriEbECsldl6X_tcpWt4YWGAGV8tY4zll6HARBY7ZVh8NRSvSznFY9FWRTc",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "‘거북이는오른다’, 북한산 둘레길 21코스 완주",
-          "url": "https://www.dwbnews.kr/news/articleView.html?idxno=125981",
-          "source": "DWBNEWS"
-        },
-        {
-          "title": "\"해발 1,614m 정상까지 37분이면 도착하네\"... 시니어도 편히 정상 오르는 곤도라·트레킹 코스",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21994",
-          "source": "아던트뉴스"
-        },
-        {
-          "title": "[르포] 눈 덮인 팔공산... 초겨울에 만난 겨울왕국",
-          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922177",
-          "source": "충남일보"
-        }
-      ]
-    },
-    {
-      "keyword": "오현규",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T03:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUxUXjeKABmj1_TvAl8g1f2kbSgYchcJhLoT5cHZOOFpj3w3GcQV1lFHZU2W8",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699157",
-          "source": "인터풋볼"
-        },
-        {
-          "title": "'韓 주전 공격수' 오현규의 대굴욕...주전 경쟁 완전히 밀렸다! 코냐스포르전서 단 '1분' 출전, '경쟁자'는 멀티골→\"동료-감독-팬들 덕분\"",
-          "url": "https://mydaily.co.kr/page/view/2026112314492476641",
-          "source": "마이데일리"
-        },
-        {
-          "title": "韓 축구 초비상! '국가대표 공격수' 오현규, '16호 프리미어리거' 등극 무산 위기...손흥민 강력 추천에도 러시아행 가능성 급부상→예상 이적료 441억",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1709382",
-          "source": "MHN스포츠"
-        }
-      ]
-    },
-    {
-      "keyword": "은퇴요원+관리팀",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T04:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMGk8gvXJZMDNzKfxF5gsHf8zihDxHPkyg3aNZxhUcLoq2pAS52h6FkT7-rXw",
+      "startedAt": "2026-11-25T05:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC7Ppd3Bp4rm1N0wAdAyCe8KJibMBXSV5AhODeY0vdLLMG6lpTiW3U0I5qvtA",
       "category": "기타",
       "news": [
         {
-          "title": "차승원·김도훈, 브로맨스 꽃피울까?…'은퇴요원+관리팀', 포스터 공개",
-          "url": "https://www.ytn.co.kr/_ln/0117_202611250906393953",
-          "source": "YTN"
+          "title": "예멘서 공습에 26명 사망…사우디 고층 건물 또 피격",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8721708",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "차승원 은퇴→세차장 차렸다…김도훈과 비밀 공조 (은퇴요원+관리팀)",
-          "url": "https://sports.donga.com/ent/article/all/20261125/135085168/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "전직·좌천 블랙요원의 은밀한 공조… 차승원ⅹ김도훈 ‘은퇴요원+관리팀’, 새해 첫 포문",
-          "url": "https://www.viva100.com/article/20261125500792",
-          "source": "브릿지경제"
-        }
-      ]
-    },
-    {
-      "keyword": "대만",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T04:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71pVpiY0mJekqo5Xn42nFJJHQjujxe9llgPBAb_5nfZ_-4ugj8lP8EcwPl3Q",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\"",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6868456_36925.html",
+          "title": "과감해진 후티‥사우디 또 피격·예멘 풍전등화",
+          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6868470_36974.html",
           "source": "MBC 뉴스"
         },
         {
-          "title": "美트럼프-中시진핑 오늘 담판…대중 규제 향방에 韓반도체도 영향권",
-          "url": "https://www.fnnews.com/news/202611191129553356",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "美 국제정세 전문가 “대만 포기 땐 세계 질서 붕괴…한·일 핵무장 검토할 것”",
-          "url": "https://monthly.chosun.com/news/articleView.html?idxno=72143",
-          "source": "월간조선"
+          "title": "순식간에 날아든 미사일...공격당한 사우디 랜드마크 [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611250833391805",
+          "source": "YTN"
         }
       ]
     },
     {
-      "keyword": "안랩",
+      "keyword": "엔비디아 ceo 미국 의회 조사 최신 뉴스 알려줘",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-25T04:30:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "산호세 대 휴스턴 다이너모",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T04:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWSE71mD9S7kEJ-YhrajFSuJqo-OJ6kPOrbmB8N1o7FJ1uLv4SwpaQ4T4CtYY",
+      "startedAt": "2026-11-25T05:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM3KuGrChXTTfXUfg4ucGz-YzoqGIaX2mlRaCtqCSaN46OINo1YixSVXbPAWw",
       "category": "기타",
       "news": [
         {
-          "title": "Earthquakes win playoff debut at PayPal Park over Houston",
-          "url": "https://www.mercurynews.com/2026/11/24/san-jose-earthquakes-mls-playoffs-houston-dynamo-paypal-park/",
-          "source": "The Mercury News"
-        },
-        {
-          "title": "Vieira and Löwen score goals, 'Quakes beat Dynamo 2-1 in Game 1 of best-of-3 series",
-          "url": "https://www.wral.com/news/ap/41f32-vieira-and-l-wen-score-goals-quakes-beat-dynamo-2-1-in-game-1-of-best-of-3-series/",
-          "source": "WRAL"
-        },
-        {
-          "title": "San Jose Earthquakes enter uncharted MLS Cup Playoffs territory",
-          "url": "https://www.mlssoccer.com/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory",
-          "source": "MLSsoccer.com"
+          "title": "Jensen Huang’s return reveals the cost of irreplaceability",
+          "url": "https://www.koreajoongangdaily.com/bilingual-news/jensen-huangs-return-and-the-price-of-being-irreplaceable-kor/12989606",
+          "source": "Korea JoongAng Daily"
         }
       ]
     },
     {
-      "keyword": "miss universe 2026",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T04:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa-WwQ7YyWEr2a4eh40etTyE3vQ21jsuW3EwqRUwmkXDfl9jYNS1F75OFU9_o",
-      "category": "기타",
+      "keyword": "박현경",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T05:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfpbeiFu1sax-LdIy2Olmw7kjoRkLiUQcIvSLiCZ8R_flT73mO2m8dc2VKD24",
+      "category": "스포츠",
       "news": [
         {
-          "title": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
-          "url": "https://www.billboard.com/culture/product-recommendations/miss-universe-2026-watch-beauty-pageant-live-online-free-1236387744/",
-          "source": "Billboard"
+          "title": "박현경, ‘LPGA 7승’ 하타오카와 JLPGA ‘왕중왕전’ 첫날 동반 라운드…신지애는 7년 만의 타이틀 탈환 ...",
+          "url": "https://sports.khan.co.kr/article/202611250937003",
+          "source": "스포츠경향"
         },
         {
-          "title": "Miss Universe 2026 celebrates unity and beauty in Puerto Rico",
-          "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/11/24/miss-universe-2026-crowns-new-winner-photos/92935065007/",
-          "source": "USA Today"
+          "title": "박현경, 이번주 일본 메이저 우승 도전 [JLPGA 최종전]",
+          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022747",
+          "source": "골프한국"
         },
         {
-          "title": "The Big Night Is Almost Here! Telemundo Unveils Unprecedented Coverage for the Historic 75th Miss Universe® Competition, Live Coast-to-Coast from Puerto Rico on Tuesday, November 24, Starting at 7pm ET/6pm CT/4pm PT",
-          "url": "https://nbcuniversalnewsgroup.com/telemundo/2026/11/17/the-big-night-is-almost-here-telemundo-unveils-unprecedented-coverage-for-the-historic-75th-miss-universe-competition-live-coast-to-coast-from-puerto-rico-on-tuesday-november-24-startin/",
-          "source": "NBCUniversal News Group"
+          "title": "한·미·일 여자골프를 평정한 신지애 '투어 통산 68승의 대기록'",
+          "url": "https://www.widesports.co.kr/news/articleView.html?idxno=31480",
+          "source": "와이드스포츠"
         }
       ]
     },
     {
-      "keyword": "김희애",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T04:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbE8jy2GRKzRBCq6XP2_DCyk7jTPJCCmeTrc4bMKBXxg2xCO0w7KjFPFK2NfA",
+      "keyword": "이해인",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T05:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthHUflumXx9McbwzrPvR5Xl1zOVoevL0lTaV_dAuUOAa_j7MQPSVfnMt2kUE",
       "category": "기타",
       "news": [
         {
-          "title": "‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]",
-          "url": "https://sports.donga.com/ent/article/all/20261125/135085175/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "59세 김희애, 블랙 드레스에 가죽 장갑…모델 포스",
-          "url": "https://www.newsis.com/view/NISX20261124_0003880299",
+          "title": "'32억 대출' 40억 건물주 이해인 \"이자만 1400만…매달 400만 적자\"",
+          "url": "https://www.newsis.com/view/NISX20261125_0003881875",
           "source": "뉴시스"
         },
         {
-          "title": "김희애, 노화 지적에 맨 얼굴로 응수하더니..59세 첫 마라톤 성공 '완벽 몸매' [핫피플]",
-          "url": "https://www.koreadaily.com/article/20261124001135923",
-          "source": "미주중앙일보"
+          "title": "8억으로 40억 건물 산 이해인 \"월 1000만원 수익에도…매달 적자\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112511180588579",
+          "source": "머니투데이"
+        },
+        {
+          "title": "이해인, '40억 건물주' 고충 토로 \"대출 이자만 1400만 원…잠 못 잘 정도\"",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6364745",
+          "source": "뉴스1"
+        }
+      ]
+    },
+    {
+      "keyword": "핫트랙스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T04:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUaL66Q0HHYmnUPLy-xTyyF91AerANKkSzrQnH2mnasrVDQiWBJ7T_owHDrV4",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[단독] ‘음반 사려 장사진’ 이제 못 본다… 교보문고 음반 사업 철수",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CTRN3ZMS35DATFMSUBQSYHS24Q/",
+          "source": "조선일보"
+        },
+        {
+          "title": "비틀스·아이돌 팬들 줄 세우던 광화문 음반 명소 ‘핫트랙스’ 문닫는다",
+          "url": "https://www.donga.com/news/Society/article/all/20261125/135088551/1",
+          "source": "동아일보"
+        },
+        {
+          "title": "변화하는 시장 환경 속에 음반매장 핫트랙스 철수",
+          "url": "https://www.newsis.com/view/NISI20261125_0021544975",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "불광역",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T06:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOs22LkEaXPDCOhuYZds43KgviSOzu9aBpc00suKz0Y-YdB3JEyEIilfZ26qw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "은평구 불광역세권 4천92세대 재개발 '시동'…정비구역 지정",
+          "url": "https://www.yna.co.kr/view/AKR20261125084200004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "불광역 앞에 최고 45층·4092가구…재개발 정비구역 지정 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/estate/2026/11/25/2026112511231978368",
+          "source": "머니투데이"
+        },
+        {
+          "title": "은평 불광역세권 4092세대 재개발 본격화…최고 45층·장기전세 1008세대",
+          "url": "https://biz.heraldcorp.com/article/10948155",
+          "source": "헤럴드경제"
+        }
+      ]
+    },
+    {
+      "keyword": "주간한국",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T06:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtsdJG38zunij-QVIF2uhIo2Z_s-V6d1OxEY4g7-_EPgehz9r9rgcpNY3hk4s",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "폐격납고의 화려한 겨울 변신",
+          "url": "https://www.koreatimes.net/weekly/180809",
+          "source": "캐나다 한국일보"
+        },
+        {
+          "title": "‘어린 금수저’의 불륜 행각… 역사를 송두리째 뒤바꿨다",
+          "url": "https://www.chosun.com/national/incident/2026/11/25/YLWBRSPHR5CZXJ6R7SZZHZYKNY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "[TV톡] 300억·AI 무색한 전투신…'문무', 대하사극 스케일은 어디에",
+          "url": "https://enews.imbc.com/M/Detail/525874",
+          "source": "iMBC 연예"
         }
       ]
     }
