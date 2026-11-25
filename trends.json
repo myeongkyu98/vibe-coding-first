@@ -1,104 +1,100 @@
 {
-  "updatedAt": "2026-11-25T05:01:39.438Z",
+  "updatedAt": "2026-11-25T05:58:55.234Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "IT·과학",
-      "count": 1
-    },
-    {
-      "category": "생활·날씨",
-      "count": 1
+      "count": 6
     },
     {
       "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "스포츠",
+      "count": 1
+    },
+    {
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "반도체",
-      "traffic": "50000+",
-      "trafficValue": 50000,
-      "startedAt": "2026-11-25T02:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU85opYwjXjsXZXVb1cq2hb0S9gH5dkMoLz0wOoF8X_rtcMZ7SwagTS6KCUIU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "호남 반도체 용수 공급 덕남정수장 생산량 2배로 늘린다",
-          "url": "https://www.yna.co.kr/view/AKR20261125072000054",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "민형배 전남광주시장 \"반도체 팹 건설인력 1만호 공공임대 필요\"",
-          "url": "https://stock.mk.co.kr/news/view/1205658",
-          "source": "매일경제 마켓"
-        },
-        {
-          "title": "호남 반도체 클러스터 모든 것 '한눈에'…반도체 정보 플랫폼 '칩온' 본격 운영",
-          "url": "https://www.etnews.com/20261124000528",
-          "source": "전자신문"
-        }
-      ]
-    },
-    {
-      "keyword": "공휴일",
+      "keyword": "술",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-25T03:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYp64LvN8da4yVrQL9vzV9vO9zCMZZXDjUDKFt03Xs4Zk2Vu2vKnZnmRmLK78",
-      "category": "생활·날씨",
+      "startedAt": "2026-11-25T03:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlPKbqtJ8rLw-nvWz9xC4Ad4cwIqpiNfbWgJgHD4ZDCOXmLDWb-W0p683GcDg",
+      "category": "기타",
       "news": [
         {
-          "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html",
-          "source": "한겨레"
+          "title": "“기억 못 한다” 술 취해 지인 살해한 50대 징역 25년 선고",
+          "url": "https://www.khan.co.kr/article/202611251403001",
+          "source": "경향신문"
         },
         {
-          "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4",
-          "source": "대한민국 정책브리핑"
+          "title": "술 취해 지인 살해 후 \"심신상실\" 주장 50대, 징역 25년 선고",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261125142701TO2",
+          "source": "연합뉴스TV"
         },
         {
-          "title": "12월 3일 '국민주권의날' 기념일 지정...공휴일은 아냐",
-          "url": "https://www.ytn.co.kr/_ln/0101_202611242333403642",
-          "source": "YTN"
+          "title": "술 취해 지인 찌르고 \"손가락 베여\" 신고…\"심신상실\" 50대 중형",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862817",
+          "source": "SBS 뉴스"
         }
       ]
     },
     {
-      "keyword": "술",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-25T03:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKimsTxnURjlDnLJMQ-txlljXh-2FwZTRRG8jqfvPjczJFiaU-rDtl1pBFXWc",
+      "keyword": "재산세",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T04:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-QlIjYWIHA8d5huuxGR1Q6zLTjOr_3ASEHNwSZQC5H_g7bAAQsw-_HOQ5iQI",
+      "category": "경제",
+      "news": [
+        {
+          "title": "오래 비어있던 노후주택을 '폐가'로 보아 '과세대상'에서 뺄 수 있나 [부동산 절세시대]",
+          "url": "https://www.hankyung.com/article/202611018074Q",
+          "source": "한국경제"
+        },
+        {
+          "title": "\"상속주택 종부세, 신고기한 기준으로 납세의무·과세표준 확정해야\"",
+          "url": "https://www.fnnews.com/news/202611201100424666",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "111일 만에 전입신고…실거주 확인 땐 취득세 감면",
+          "url": "https://taxtimes.co.kr/news/article.html?no=277876",
+          "source": "한국세정신문"
+        }
+      ]
+    },
+    {
+      "keyword": "트레킹",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-25T04:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsPriEbECsldl6X_tcpWt4YWGAGV8tY4zll6HARBY7ZVh8NRSvSznFY9FWRTc",
       "category": "정치·사회",
       "news": [
         {
-          "title": "'주차 수상하네' 문 열린 순간 냄새 '확' 50대 여성 쫓아가자",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6868395_36918.html",
-          "source": "MBC 뉴스"
+          "title": "‘거북이는오른다’, 북한산 둘레길 21코스 완주",
+          "url": "https://www.dwbnews.kr/news/articleView.html?idxno=125981",
+          "source": "DWBNEWS"
         },
         {
-          "title": "\"편의점 직행\" 음주운전자의 수상한 행적 - 영상 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976405&pWise=sub&pWiseSub=C3",
-          "source": "대한민국 정책브리핑"
+          "title": "\"해발 1,614m 정상까지 37분이면 도착하네\"... 시니어도 편히 정상 오르는 곤도라·트레킹 코스",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21994",
+          "source": "아던트뉴스"
         },
         {
-          "title": "주차장서 '쿵' 사고내고 편의점 뛰어간 여성…소주병 열자 '딱' 걸렸다 - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/25/2026112505382498458",
-          "source": "머니투데이"
+          "title": "[르포] 눈 덮인 팔공산... 초겨울에 만난 겨울왕국",
+          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922177",
+          "source": "충남일보"
         }
       ]
     },
@@ -128,131 +124,136 @@
       ]
     },
     {
-      "keyword": "대전광역시",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-25T03:10:00.000Z",
+      "keyword": "은퇴요원+관리팀",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T04:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMGk8gvXJZMDNzKfxF5gsHf8zihDxHPkyg3aNZxhUcLoq2pAS52h6FkT7-rXw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "차승원·김도훈, 브로맨스 꽃피울까?…'은퇴요원+관리팀', 포스터 공개",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611250906393953",
+          "source": "YTN"
+        },
+        {
+          "title": "차승원 은퇴→세차장 차렸다…김도훈과 비밀 공조 (은퇴요원+관리팀)",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135085168/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "전직·좌천 블랙요원의 은밀한 공조… 차승원ⅹ김도훈 ‘은퇴요원+관리팀’, 새해 첫 포문",
+          "url": "https://www.viva100.com/article/20261125500792",
+          "source": "브릿지경제"
+        }
+      ]
+    },
+    {
+      "keyword": "대만",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-25T04:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71pVpiY0mJekqo5Xn42nFJJHQjujxe9llgPBAb_5nfZ_-4ugj8lP8EcwPl3Q",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\"",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6868456_36925.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "美트럼프-中시진핑 오늘 담판…대중 규제 향방에 韓반도체도 영향권",
+          "url": "https://www.fnnews.com/news/202611191129553356",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "美 국제정세 전문가 “대만 포기 땐 세계 질서 붕괴…한·일 핵무장 검토할 것”",
+          "url": "https://monthly.chosun.com/news/articleView.html?idxno=72143",
+          "source": "월간조선"
+        }
+      ]
+    },
+    {
+      "keyword": "안랩",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-25T04:30:00.000Z",
       "picture": "",
       "category": "기타",
       "news": []
     },
     {
-      "keyword": "에디차",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T03:30:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbnERBisDtw3MTvUgjRoIlBxuur1I3eUFEUCc9pLlHXb7nff8Xrs6ZkBujN8s",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "'코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결",
-          "url": "https://www.wikitree.co.kr/articles/1177635",
-          "source": "위키트리"
-        }
-      ]
-    },
-    {
-      "keyword": "홍익표",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-25T03:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-ehTxJLSdSC1VM3vOyP8yhuKpGGNp_nZUvhxXKXPl2oUdhIouQYSdjZ9Ayzg",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/",
-          "source": "조선일보"
-        },
-        {
-          "title": "강금실 친중논란… 자주파 색채 뺀 안보라인 효과 불투명",
-          "url": "https://www.munhwa.com/article/11634055",
-          "source": "문화일보"
-        },
-        {
-          "title": "美, 韓 외교안보라인 교체에 \"한미동맹 내 긴밀한 협력 중요\"",
-          "url": "https://www.yna.co.kr/view/AKR20261125002400071",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "제강",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-25T03:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4xHqNvdH2V-v9WuTqIVkQ9NeALSU1EFVLtsWNZO3BL7sBN-7ast4kmYS377c",
+      "keyword": "산호세 대 휴스턴 다이너모",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T04:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWSE71mD9S7kEJ-YhrajFSuJqo-OJ6kPOrbmB8N1o7FJ1uLv4SwpaQ4T4CtYY",
       "category": "기타",
       "news": [
         {
-          "title": "[게시판] 동국제강그룹, 아름다운가게와 20번째 '아름다운하루' 행사",
-          "url": "https://www.yna.co.kr/view/AKR20261124145500003",
-          "source": "연합뉴스"
+          "title": "Earthquakes win playoff debut at PayPal Park over Houston",
+          "url": "https://www.mercurynews.com/2026/11/24/san-jose-earthquakes-mls-playoffs-houston-dynamo-paypal-park/",
+          "source": "The Mercury News"
         },
         {
-          "title": "장세욱 동국제강 부회장 \"철근 구조조정, 자체 추진 한계\" - 머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/11/24/2026112413234025676",
-          "source": "머니투데이"
+          "title": "Vieira and Löwen score goals, 'Quakes beat Dynamo 2-1 in Game 1 of best-of-3 series",
+          "url": "https://www.wral.com/news/ap/41f32-vieira-and-l-wen-score-goals-quakes-beat-dynamo-2-1-in-game-1-of-best-of-3-series/",
+          "source": "WRAL"
         },
         {
-          "title": "동국제강그룹, 20번째 ‘아름다운하루’…기부·경매로 나눔 실천",
-          "url": "https://www.g-enews.com/article/Industry/2026/11/20261124163414562724debea800_1",
-          "source": "글로벌이코노믹"
+          "title": "San Jose Earthquakes enter uncharted MLS Cup Playoffs territory",
+          "url": "https://www.mlssoccer.com/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory",
+          "source": "MLSsoccer.com"
         }
       ]
     },
     {
-      "keyword": "채권",
+      "keyword": "miss universe 2026",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-25T03:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSis5eylZgAzqrAAbPyQKvNR7bFR8E7ESwBprxQOBmIftKJOK6gBAEHV3QQB4M",
-      "category": "경제",
+      "startedAt": "2026-11-25T04:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa-WwQ7YyWEr2a4eh40etTyE3vQ21jsuW3EwqRUwmkXDfl9jYNS1F75OFU9_o",
+      "category": "기타",
       "news": [
         {
-          "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
-          "url": "https://www.newsis.com/view/NISX20261125_0003882422",
+          "title": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
+          "url": "https://www.billboard.com/culture/product-recommendations/miss-universe-2026-watch-beauty-pageant-live-online-free-1236387744/",
+          "source": "Billboard"
+        },
+        {
+          "title": "Miss Universe 2026 celebrates unity and beauty in Puerto Rico",
+          "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/11/24/miss-universe-2026-crowns-new-winner-photos/92935065007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "The Big Night Is Almost Here! Telemundo Unveils Unprecedented Coverage for the Historic 75th Miss Universe® Competition, Live Coast-to-Coast from Puerto Rico on Tuesday, November 24, Starting at 7pm ET/6pm CT/4pm PT",
+          "url": "https://nbcuniversalnewsgroup.com/telemundo/2026/11/17/the-big-night-is-almost-here-telemundo-unveils-unprecedented-coverage-for-the-historic-75th-miss-universe-competition-live-coast-to-coast-from-puerto-rico-on-tuesday-november-24-startin/",
+          "source": "NBCUniversal News Group"
+        }
+      ]
+    },
+    {
+      "keyword": "김희애",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-25T04:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbE8jy2GRKzRBCq6XP2_DCyk7jTPJCCmeTrc4bMKBXxg2xCO0w7KjFPFK2NfA",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135085175/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "59세 김희애, 블랙 드레스에 가죽 장갑…모델 포스",
+          "url": "https://www.newsis.com/view/NISX20261124_0003880299",
           "source": "뉴시스"
         },
         {
-          "title": "삼성증권, IRP·연금저축 절세 페스타 행사 실시",
-          "url": "https://www.etnews.com/20261125000189",
-          "source": "전자신문"
-        },
-        {
-          "title": "한화투자증권, '채권투자에 혜택 더하기' 비대면 행사",
-          "url": "https://core.asiae.co.kr/article/2026112510345342588",
-          "source": "아시아경제"
-        }
-      ]
-    },
-    {
-      "keyword": "한국대학신문",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-25T02:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXkLEtGAXY4ZHkgBWR5vAeDrUtFFEe_duQS9-LF1HYjX46RaHtZT1-SNlOgl0",
-      "category": "기타",
-      "news": [
-        {
-          "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
-          "url": "https://sjbnews.com/news/news.php?number=893393&year=2026",
-          "source": "새전북신문"
-        },
-        {
-          "title": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
-          "url": "https://news.unn.net/news/articleView.html?idxno=600953",
-          "source": "한국대학신문"
-        },
-        {
-          "title": "부산대, QS 지속가능성평가 국립대 4년 연속 1위",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261120010007141",
-          "source": "중도일보"
+          "title": "김희애, 노화 지적에 맨 얼굴로 응수하더니..59세 첫 마라톤 성공 '완벽 몸매' [핫피플]",
+          "url": "https://www.koreadaily.com/article/20261124001135923",
+          "source": "미주중앙일보"
         }
       ]
     }
