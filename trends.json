@@ -1,275 +1,267 @@
 {
-  "updatedAt": "2026-11-26T14:49:02.471Z",
+  "updatedAt": "2026-11-26T23:33:38.656Z",
   "summary": [
     {
-      "category": "경제",
-      "count": 3
+      "category": "기타",
+      "count": 7
     },
     {
       "category": "스포츠",
-      "count": 3
-    },
-    {
-      "category": "IT·과학",
       "count": 2
     },
     {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "기타",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "나인투식스",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-26T12:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlajehriNNzSLPwCJfyI2f-Jphp5h08B_0ujUrk4-KARkWFjfVCBbmXONTbmE",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
-          "url": "https://www.fnnews.com/news/202611252205108656",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
-          "url": "https://www.joongang.co.kr/article/25481953",
-          "source": "중앙일보"
-        },
-        {
-          "title": "'나인 투 식스' 박민영, 불륜남 화재 사기 사이다 응징...첫방 3.6% [종합] - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607547292245",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "weather tomorrow",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-26T11:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN350BIQOvru4PobKUZeRRvnNtexPQu867DoT-CMb2DyHp7uh0L0cnrnMODV4",
-      "category": "기타",
-      "news": [
-        {
-          "title": "UAE weather: Red alert issued for fog; chance of rain in some areas",
-          "url": "https://www.khaleejtimes.com/uae/weather/november-26-2026",
-          "source": "Khaleej Times"
-        },
-        {
-          "title": "UAE weather forecast: Scattered showers in some island, coastal and western areas, with fog expected overnight",
-          "url": "https://www.emirates247.com/uae/uae-weather-forecast-scattered-showers-in-some-island-coastal-and-western-areas-with-fog-expected-overnight/8128",
-          "source": "Emirates 24|7"
-        },
-        {
-          "title": "NCM: Fair skies with a chance of light rain",
-          "url": "https://sharjah24.ae/en/Articles/2026/11/25/d66",
-          "source": "Sharjah24"
-        }
-      ]
-    },
-    {
-      "keyword": "이데일리",
+      "keyword": "홍창기",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-26T12:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX0P3o9sRK-XK4pkvm0Wsui41XqVbIgXPg2hOjOU-Do2QBHGRwfmVfrw_xqhA",
-      "category": "IT·과학",
+      "startedAt": "2026-11-26T22:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEDrDxo5KqfyEhRQsR-gO2GXhsE194WomHwiMpCEr-xbM73Xs78yN9uquQgNs",
+      "category": "스포츠",
       "news": [
         {
-          "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
-          "url": "https://news.jtbc.co.kr/article/NB12329904",
-          "source": "JTBC"
+          "title": "‘성적 수직상승’ 최원준 맹활약 반사이익? FA 홍창기 향한 수요도 심상치 않다",
+          "url": "https://sports.donga.com/sports/article/all/20261124/135080673/1",
+          "source": "스포츠동아"
         },
         {
-          "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
-          "url": "https://www.hankyung.com/article/202611261522H",
-          "source": "한국경제"
+          "title": "“홍창기는 도대체 얼마를 원할까요” KBO 또 다른 초미의 관심사, 구자욱 전쟁 수혜자되나",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021632",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "꽁꽁 숨은 '수능 만점자'들…가채점 만점 최소 3명 \"신원 공개 거부\" - 머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/26/2026112521562266508",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "반도체 메모리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-26T13:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDgRU_oltqRCDmAS1dkuj6TA9KBXyeKnmvb4D-Dvnj8qAhwJydAqOo58mo0Y",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
-          "url": "https://www.yna.co.kr/view/AKR20261126188000009",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446775",
-          "source": "연합인포맥스"
-        },
-        {
-          "title": "머스크도 퇴짜 맞은 메모리… 이재용 \"뭘 더 해줄 건데?\"",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/26/3UELRQCP2RGPFJQN2TKPBFHSIU/",
+          "title": "'저점 매수' 48억원에 '역대 2호' 타자를 품었다…'원조 출루왕' 시선은?",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/19/MY3DCMZTHFTGKZJWHFRDOZTGHA/",
           "source": "조선일보"
         }
       ]
     },
     {
-      "keyword": "김아현 주식 눈물",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-26T12:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwqx6xNdVgygmj9kFGPU-c0FMNYVBJ7XIlQRQ5BgcddHP1bZtGnA6r-x5Ee54",
-      "category": "경제",
+      "keyword": "부부",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-26T21:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDqZjroeN1ftBvQF1eso6bl251H_7De3eDGhGmJ3nyn3uUMH8aQE9xy2QuEA",
+      "category": "기타",
       "news": [
         {
-          "title": "삼성전자 레버리지 15% 폭락…생방송 중 눈물 보인 진행자",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03302966645649656&mediaCodeNo=257",
-          "source": "이데일리"
+          "title": "아내 친구에 입맞춤 男 \"둘 다 갖고 싶었다\"",
+          "url": "https://www.newsis.com/view/NISX20261127_0003885488",
+          "source": "뉴시스"
         },
         {
-          "title": "'명픽' 이광수도 정부 비판…\"증시 붕괴, 최소한 노력은 해야\" [지금이뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0545_202611261520019651",
-          "source": "YTN"
-        },
-        {
-          "title": "차트 보다가 울컥…\"주가 붕괴\" 주식 전문가들 줄줄이 눈물 - 머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/11/26/2026112616352496205",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "설인아",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-26T12:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IfmtlHQj3H4Qam3sexl-O8JAGzvklH36KUTbe0ySUNOve9ib6lU65KI4JZo",
-      "category": "경제",
-      "news": [
-        {
-          "title": "설인아→연우 '무쇠소녀단3', 김동현도 기겁한 첫 훈련…\"이런 악마 같은 걸\" - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112617007254733",
+          "title": "\"월세도 못 내면서\" 미성숙 남편, 오토바이에 수 백만원 탕진 '경악' - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112703031017867",
           "source": "머니투데이"
         },
         {
-          "title": "'무쇠소녀단3', 아파트 100층 높이 극한 훈련…쇼트트랙 도전 시작",
-          "url": "https://www.newspim.com/news/view/20261126000413",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "설인아·금새록, 10kg 짊어지고 계단 3000개 뛴다 (무쇠소녀단3)",
-          "url": "https://sports.donga.com/ent/article/all/20261126/135093930/1",
+          "title": "혼인신고 3개월 만에 다른 男과 동거…서장훈 격노 (이혼숙려캠프)",
+          "url": "https://sports.donga.com/ent/article/all/20261126/135093645/1",
           "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "송파구",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-26T13:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHk1Jh3VP1QBCwGdAkIbXXucl3rvUmyrVfCFxEyRPXgr2_DaJxZFUn2qUE0AI",
-      "category": "경제",
+      "keyword": "블루 아카이브",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-26T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9i7FLkRWly8mCe-lhDEtFsOw-DW5shfWB6pkCrbB-DYE-Z_Vs2jlTIhTzULk",
+      "category": "IT·과학",
       "news": [
         {
-          "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
-          "url": "https://www.mk.co.kr/news/realestate/12219258",
-          "source": "매일경제"
+          "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가",
+          "url": "https://www.yna.co.kr/view/AKR20261126085400017",
+          "source": "연합뉴스"
         },
         {
-          "title": "서울 아파트값 떨어지나? 한강벨트까지 하락세 전환",
-          "url": "https://www.hani.co.kr/arti/economy/property/1289263.html",
-          "source": "한겨레"
+          "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출시… 연말 신작 승부수",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001896",
+          "source": "IT조선"
         },
         {
-          "title": "[그래픽] 서울 집값 상승률 0.01%…광진·영등포까지 9개구 하락",
-          "url": "https://www.newsis.com/view/NISI20261126_0002303077",
-          "source": "뉴시스"
+          "title": "반올림피자, ‘아주르 프로밀리아’와 협업 메뉴•굿즈 선봬",
+          "url": "https://www.viva100.com/article/20261126501228",
+          "source": "브릿지경제"
         }
       ]
     },
     {
-      "keyword": "u17 việt nam",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-26T13:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn3IssX0qquwFsXsYeOHXIEqwR8oH4e2kfvZ9szISZEzZbAD0xvKiDUg2y-1w",
-      "category": "스포츠",
+      "keyword": "열차",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-26T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbvYpzWWxuslpffSWRdk1iA69p5YlWmL3kZSJwiv3Cdj6bJw_5rmjR3KKVkcI",
+      "category": "기타",
       "news": [
         {
-          "title": "TRỰC TIẾP bóng đá U17 Việt Nam vs U17 Mali - U17 World Cup 2026",
-          "url": "https://vietnamnet.vn/truc-tiep-bong-da-u17-viet-nam-vs-u17-mali-u17-world-cup-2026-2578759.html",
-          "source": "Báo VietNamNet"
+          "title": "철도노조 투쟁 첫날...무궁화호 멈추고 전철 무더기 지연",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611270503025651_005.html",
+          "source": "YTN"
         },
         {
-          "title": "Việt Nam - Mali: Hy vọng làm nên lịch sử",
-          "url": "https://vnexpress.net/truc-tiep-u17-world-cup-viet-nam-mali-5149345.html",
-          "source": "VnExpress"
+          "title": "1부 오늘의 주요뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868949_37012.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "HLV Mali gọi U17 Việt Nam là \"đội bóng mạnh\", yêu cầu đội nhà cảnh giác",
-          "url": "https://www.24h.com.vn/bong-da/hlv-mali-goi-u17-viet-nam-la-doi-bong-manh-yeu-cau-doi-nha-canh-giac-c48a1814068.html",
-          "source": "Tin tức 24h"
+          "title": "[지지대] 태업의 역설",
+          "url": "https://www.kyeonggi.com/article/20261126580087",
+          "source": "경기일보"
         }
       ]
     },
     {
-      "keyword": "수디르만컵",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-26T13:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4U_TWRPl3yNl8wbth7k8UAOG__hEI-Ima4jE9z4nS6OWrf7wM-VOYdi-typw",
-      "category": "스포츠",
+      "keyword": "청소",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-26T22:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZRbysCb2ekS-EG0I1VdzeX7HrnUk1K6BQEkFtLx59VNPH7zkXow92LAbYOEk",
+      "category": "기타",
       "news": [
         {
-          "title": "'꿈은 이뤄졌다'배드민턴 메이저대회 '수디르만컵' 한국서 열린다…2029년 대회 개최 확정, 한국 셔틀콕 오랜 숙원 해결 '쾌거'",
-          "url": "https://www.chosun.com/sports/sports_general/2026/11/26/HBRTQZLFMY2WEZBTG5QTOYRTGU/",
-          "source": "조선일보"
+          "title": "\"양파망 버리지 말고 진작 이렇게 쓸걸\"... 청소부터 수납까지 이렇게 유용할 줄 몰랐습니다",
+          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=22064",
+          "source": "아던트뉴스"
         },
         {
-          "title": "'안세영 독주 견제하려는 것 아닌가' 15점제가 끝이 아니었다…BWF 대격변 공식발표! 세계선수권+국가대항전 싹 바뀐다→\"근거 없는 억측\"",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021959",
-          "source": "SPOTV NEWS"
+          "title": "[와글와글] 도 넘은 화장실 장난‥\"가정교육 잘 시켜야\"",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868961_37012.html",
+          "source": "MBC 뉴스"
         },
         {
-          "title": "[속보]'일장춘몽'해프닝으로 끝난 수디르만컵 한국 유치…BWF 공식발표에도, 전주시 \"체육관 건립 지연 등으로 개최 포기\"",
-          "url": "https://www.sportschosun.com/sports-news/2026-11-26/202611260100166490015388",
-          "source": "스포츠조선"
+          "title": "물에 젖은 휴지 던져 공중화장실 엉망…\"청소하시는 분은 무슨 죄\" - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/27/2026112705541527127",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "올림픽선수기자촌",
+      "keyword": "new zealand vs india",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-26T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrzA1oUKBw2K3l16x-0xy3ciHFX2eKVJtHvnhfobAIDX_ht75e5kmlgZUnaIc",
+      "startedAt": "2026-11-26T22:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZxAuEbuY53OIUM1Dq9aUaII8F6HR2L9ZvhMy0d2dRo5FUB_6aF1Mx2dL8AE",
       "category": "스포츠",
       "news": [
         {
-          "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
-          "url": "https://m.ekn.kr/view.php?key=20261126024275133",
-          "source": "에너지경제신문"
+          "title": "New Zealand and India hope Test cricket is in a giving mood at Hagley Oval",
+          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-test-1539443/match-preview",
+          "source": "Cricinfo"
         },
         {
-          "title": "\"상가 쏙 빼고 짓자\" 올림픽선수촌 재건축에 송파구 제동, 내년 결판난다",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/11/19/2026111902059.html",
-          "source": "땅집고"
+          "title": "Morkel Urges India Pacers to Attack on Christchurch Pitch",
+          "url": "https://cwibc.co.id/en/morkel-india-pacers-christchurch",
+          "source": "cwibc.co.id"
         },
         {
-          "title": "올림픽선수기자촌 재건축 ‘현수막 맞불’…송파구 “상가 참여 의사 확인 후 절차 검토”",
-          "url": "https://m.ekn.kr/view.php?key=20261126029274906",
-          "source": "에너지경제신문"
+          "title": "Ravindra Jadeja, Mohammed Siraj left out yet again! Gurnoor Brar makes Test debut as India opt to bowl",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ravindra-jadeja-mohammed-siraj-left-out-yet-again-gurnoor-brar-makes-test-debut-as-india-opt-to-bowl/articleshow/136203418.cms",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    {
+      "keyword": "야닉 시너",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-26T22:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqU56BWx5RPWhdXdiswWqiKTTlPRkQj64KGyKKUrKhpaDnxRn0qVMg_ocYo7Y",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘부상이 발목 잡나’ 시너, 결국 오른쪽 무릎 수술→‘호주오픈 불투명’",
+          "url": "https://sports.donga.com/sports/article/all/20261126/135093691/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'신카라스 대결 못 본다' 테니스 세계 2위 시너, 오른쪽 무릎 수술…내년 호주오픈 출전 불투명",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=132434",
+          "source": "더게이트"
+        },
+        {
+          "title": "호주오픈 두달 앞두고 장경인대 수술 신네르 “코트가 너무도 그리워”",
+          "url": "https://www.munhwa.com/article/11633969",
+          "source": "문화일보"
+        }
+      ]
+    },
+    {
+      "keyword": "김포시장",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-26T22:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRUbke6mLUaotAYo6E4njf0lYd_T66EbgTJvV-2A5cbFAG-LaANDX73YNjqqw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "김포시, ‘전통시장’ 변화의 해법을 ‘현장’에서 찾다…상권 활성화 모색",
+          "url": "https://sports.donga.com/region/article/all/20261126/135093978/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "김포 전통시장 살리기, 김포페이·온누리상품권이 해결책 될까",
+          "url": "https://www.g-enews.com/article/General-News/2026/11/20261126093926605120ae620e86_1",
+          "source": "글로벌이코노믹"
+        },
+        {
+          "title": "이기형 김포시장, 전통시장 상인회장들과 운영 현황·애로사항 청취",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763557",
+          "source": "국제뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "天気",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-26T22:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxfYIn6lJ_6-bRELY72bQs9AQlJrCpFAy7_knuIBDoJ2R4tQIunaonqKXzTMo",
+      "category": "기타",
+      "news": [
+        {
+          "title": "沖縄 東村と金武町にレベル4土砂災害危険警報",
+          "url": "https://news.web.nhk/newsweb/na/nd-20261127de82167",
+          "source": "NHKニュース"
+        },
+        {
+          "title": "線状降水帯が発生した際の避難行動を知っていますか？",
+          "url": "https://news.yahoo.co.jp/polls/77557",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【レベル３大雨警報】沖縄県・沖縄市に発表 06:40時点",
+          "url": "https://newsdig.tbs.co.jp/articles/-/3115536?display=1",
+          "source": "TBS NEWS DIG"
+        }
+      ]
+    },
+    {
+      "keyword": "nfl",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-26T21:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8wGHjhx6wu9sNiTcI7uSNARpx-EEiJkWeH22Xd8buX8C0hsDr5EdlR5nPV10",
+      "category": "기타",
+      "news": [
+        {
+          "title": "NFL Week 12: Highlights of Thanksgiving games",
+          "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+          "source": "ESPN"
+        },
+        {
+          "title": "Where to Stream Thanksgiving NFL Games for Free Online",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-thanksgiving-nfl-football-games-online-free-2026-1235664090/",
+          "source": "Rolling Stone"
+        },
+        {
+          "title": "NFL Thanksgiving LIVE!",
+          "url": "https://www.skysports.com/nfl/live-blog/13616869/nfl-thanksgiving-2026-live-bears-vs-lions-cowboys-vs-eagles-updates-results-highlights-and-how-to-watch-live-on-sky-sports",
+          "source": "Sky Sports"
         }
       ]
     }
