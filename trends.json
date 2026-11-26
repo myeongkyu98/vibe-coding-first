@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-26T02:17:46.186Z",
+  "updatedAt": "2026-11-26T03:53:39.777Z",
   "summary": [
     {
       "category": "기타",
-      "count": 3
+      "count": 5
+    },
+    {
+      "category": "스포츠",
+      "count": 2
     },
     {
       "category": "연예",
-      "count": 2
+      "count": 1
     },
     {
       "category": "경제",
-      "count": 2
-    },
-    {
-      "category": "정치·사회",
-      "count": 2
+      "count": 1
     },
     {
       "category": "IT·과학",
@@ -24,236 +24,252 @@
   ],
   "items": [
     {
-      "keyword": "수험",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-26T01:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROTgDAItnf7bm5x0iIzM5Vtgp2PwrX9ov2DNfLphfzixYvrNC5FT7ss8_Q23c",
+      "keyword": "이정재",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-26T02:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEaj904YNycdJ_5dCqA6Vi7t9NztuBV5vV3GI3VSGxS4os7i4tJSl9H7LakU",
+      "category": "연예",
+      "news": [
+        {
+          "title": "'사익 추구 의혹' 이정재, 수척한 얼굴로 청룡 무대…\"많이 망설였다\" - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607173970598",
+          "source": "머니투데이"
+        },
+        {
+          "title": "“배우 안성기와 함께해주셔서 고맙습니다” 아들이 전한 청룡 공로상 소감 [이런뉴스]",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723214",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "'청담부부' 결국 파국?…정우성, 아티스트컴퍼니 지분 매각 [엔터X스탁]",
+          "url": "https://www.hankyung.com/article/202611246138H",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "은평구",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-26T02:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOs22LkEaXPDCOhuYZds43KgviSOzu9aBpc00suKz0Y-YdB3JEyEIilfZ26qw",
+      "category": "경제",
+      "news": [
+        {
+          "title": "은평구 불광역세권 4천92세대 재개발 '시동'…정비구역 지정",
+          "url": "https://www.yna.co.kr/view/AKR20261125084200004",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "불광역 앞에 최고 45층·4092가구…재개발 정비구역 지정 - 머니투데이",
+          "url": "https://www.mt.co.kr/index.php/estate/2026/11/25/2026112511231978368",
+          "source": "머니투데이"
+        },
+        {
+          "title": "불광역세권에 아파트 4092가구 짓는다",
+          "url": "https://www.hankyung.com/article/2026112501551",
+          "source": "한국경제"
+        }
+      ]
+    },
+    {
+      "keyword": "준법투쟁",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-26T02:30:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNWIPF2tJcYMldLJvNLMe_fNCWFW7INHQ9epGfETcvjTr-8pIDz8MXFN-PkZw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입",
+          "url": "https://news.jtbc.co.kr/article/NB12329874",
+          "source": "JTBC"
+        },
+        {
+          "title": "\"부장님, 열차가 안 와요\" 출근길 급하게 '반반차'...직장인 속탔다 - 머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/11/26/2026112609563481950",
+          "source": "머니투데이"
+        },
+        {
+          "title": "서울지하철 파업 피했지만…인력 감축 갈등은 여전",
+          "url": "https://www.sedaily.com/article/20119072",
+          "source": "서울경제"
+        }
+      ]
+    },
+    {
+      "keyword": "학교 폭력",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-26T02:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuym8bs8mnoA6k9e24uc8VvCHNX4MsQh70v5X3QLmMkCGPb_OevQ8CAepqUU",
+      "category": "기타",
+      "news": [
+        {
+          "title": "연제구, ‘건강한 학교 만들기’ 등굣길 캠페인 참여",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261125.99099008166",
+          "source": "국제신문"
+        },
+        {
+          "title": "인천동부교육지원청, 학생 주도 등굣길 캠페인…생명 존중·학교폭력 예방",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806049",
+          "source": "일간투데이"
+        },
+        {
+          "title": "아산 송곡초등학교, 민·관·학 합동 '학교폭력 예방 및 청소년 보호 캠페인' 전개 !",
+          "url": "http://m.ctnews.kr/article.php?aid=1795618956465357023",
+          "source": "충청탑뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "미스 유니버스",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-26T02:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwNazXIKzmtZk1gwu1NjMRctHdMDCFbTct5fOZi8njVI47BcQ4GEToa32vRfw",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
+          "url": "https://www.yna.co.kr/view/AKR20261126001600087",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "미스 유니버스 75년 만에 첫 ‘엄마 우승자’ 탄생···7세 딸 둔 미 국방부 직원",
+          "url": "https://www.khan.co.kr/article/202611260714001",
+          "source": "경향신문"
+        },
+        {
+          "title": "\"7살 딸 둔 엄마가 세계 미인대회 정상에\"…미스 유니버스 75년 역사 새로 썼다",
+          "url": "https://news.ikbc.co.kr/article/view/kbc202611260001",
+          "source": "KBC광주방송"
+        }
+      ]
+    },
+    {
+      "keyword": "불꽃야구",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-26T02:30:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEyV-rj5p52RpeaJO9yCz7j9zxFGeeQjt55RlikmyOvlOTwoWUKVDD7qehNI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "박용택 vs 이대호, 고척돔서 펼치는 ‘불꽃 파이터즈 시빌 워’ ('불꽃야구2')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MZRTGYRXMNRTSZDBGYYTEYZTGU/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'불꽃야구2' 박용택 vs 이대호 감독 맞대결…최지만·노시환 출격",
+          "url": "https://www.etoday.co.kr/news/view/2652825",
+          "source": "이투데이"
+        },
+        {
+          "title": "‘박용택 vs 이대호’ 진짜 붙는다…최지만·노시환까지 불러모은 ‘불꽃야구 시빌 워’",
+          "url": "https://www.sportsseoul.com/news/read/1652102",
+          "source": "스포츠서울"
+        }
+      ]
+    },
+    {
+      "keyword": "문가영",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-26T02:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnkpZ1pvZSf96WY5BCqeQyzrEXAIcoVsW7xKoaQ0xzML0Vcq4NuySQ8eNwkxE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "[ET포토] 문가영, '새하얀 아름다움'",
+          "url": "https://www.etnews.com/20261126000038",
+          "source": "전자신문"
+        },
+        {
+          "title": "문가영, 긴 생머리 휘날리는 '국민 구여친'…과감해진 튜브톱 [포토]",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/26/MUYTGZTFGZRDKOJZGRRDGNJXMI/",
+          "source": "Chosunbiz"
+        },
+        {
+          "title": "문가영, 베레모 쓰고 이국적 분위기…프랑스에서도 빛난 미모",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20261125/135085799/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "렛츠런파크 부산경남",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-26T02:10:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEbLDf67YX6AXWxyAAh4KaT9U3UXvOf78ooOk9USVbld0IpeQxw5tS4dKHjk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882828",
+          "source": "뉴시스"
+        },
+        {
+          "title": "렛츠런파크 부산경남, 27일 브리더스컵 퀸⋅KRA컵 스프린트 개최",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026112514342963064",
+          "source": "부산일보"
+        },
+        {
+          "title": "렛츠런파크 부산경남 최강 퀸·스프린트 가린다 - 머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/25/2026112515074884846",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "안민석",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-26T01:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ8IRiyBNk7UR44abtugknktX8xkXE0aFs2zxuU4_tRmsC6mfQvTDg9rw4dng",
+      "category": "기타",
+      "news": [
+        {
+          "title": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
+          "url": "https://www.yna.co.kr/view/AKR20261125141000061",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
+          "source": "인천일보"
+        },
+        {
+          "title": "안민석 교육감 “교장 한 학교서 4년 근무 원칙…2년 연장도 검토”",
+          "url": "https://www.kyeonggi.com/article/20261125580166",
+          "source": "경기일보"
+        }
+      ]
+    },
+    {
+      "keyword": "광고",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-26T02:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPdEUb8dKhwf9p5VZRb1CdlKKLKyT58PbfD3FLenmyZmw3DYpZDwPLMRgGHJc",
       "category": "IT·과학",
       "news": [
         {
-          "title": "‘어릴때 급제는 불행’ 외친 21살 행시수석…“노력없는 성취도 불행”",
-          "url": "https://www.mk.co.kr/news/society/12218643",
-          "source": "매일경제"
+          "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
+          "source": "KBS 뉴스"
         },
         {
-          "title": "[합격수기] 2년 만에 5급 공채 일반행정 수석·행정직 최연소 차지한 김재겸 씨 “누군가의 수험에 가점이 되기를 희망하며”",
-          "url": "https://www.lec.co.kr/news/articleView.html?idxno=753066",
-          "source": "법률저널"
+          "title": "애플, ‘아이폰 AI 시리’ 기만광고 혐의…역대급 과징금 예고",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645649656",
+          "source": "마켓인"
         },
         {
-          "title": "'행시' 21세 최연소 수석 \"소년 급제는 불행…AI 세상, 나도 의심하더라\"",
-          "url": "https://www.news1.kr/society/general-society/6366762",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "시청률",
-      "traffic": "5000+",
-      "trafficValue": 5000,
-      "startedAt": "2026-11-26T00:00:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1xp8omwkQw3FJLkgxU8vOZrZvUnvqzmyVlArmWekPBuH29GZpzOy0did8GUQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
-          "url": "https://www.joongang.co.kr/article/25481953",
-          "source": "중앙일보"
-        },
-        {
-          "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
-          "url": "https://www.fnnews.com/news/202611252205108656",
-          "source": "파이낸셜뉴스"
-        },
-        {
-          "title": "“아직 저 안 보셨잖아요” 육성재, 면접장에서 박민영 재회 후 다시 잡아보는 면접 기회!",
-          "url": "https://programs.sbs.co.kr/drama/ninetosix/clip/90025/OC484417737",
-          "source": "programs.sbs.co.kr"
-        }
-      ]
-    },
-    {
-      "keyword": "진우와 해티",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-26T00:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB5zALx20FO9iW6Qg3CQrvIin_Sk-wYwSyZ-gvCRdcAyxbKpurGq6POyMUBk0",
-      "category": "연예",
-      "news": [
-        {
-          "title": "‘1010만 유튜버’ 진우와 해티, 결혼 5년 만에 이혼 발표…“부부 관계 마무리”",
-          "url": "https://www.mk.co.kr/news/hot-issues/12218897",
-          "source": "매일경제"
-        },
-        {
-          "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
-          "url": "https://www.newsis.com/view/NISX20261126_0003883842",
-          "source": "뉴시스"
-        },
-        {
-          "title": "다이아버튼 국제부부 진우와 해티 이혼…유튜브·인스타 운영 분리",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261126010010142",
-          "source": "아시아투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "가수",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-26T01:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQLX9TERi4BGb-zWLmrjX-Qjibzq34-vv5mKme1OFHuiqGT5TPLMe2iUQ1a8s",
-      "category": "연예",
-      "news": [
-        {
-          "title": "음실련·대한가수협회, '힐링콘서트' 개최…박상철·신유·금잔디 등 총출동",
-          "url": "https://www.news1.kr/entertain/music/6366567",
-          "source": "뉴스1"
-        },
-        {
-          "title": "한국음악실연자연합회·대한가수협회, 12월 1일 제2회 힐링콘서트",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762971",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "음악 실연자에 무대 기회…음실련·대한가수협회, 힐링콘서트 개최",
-          "url": "https://www.sportsworldi.com/newsView/20261126505674",
-          "source": "스포츠월드"
-        }
-      ]
-    },
-    {
-      "keyword": "기준금리",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-26T00:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUZkmg9AlTS9LX3vZMRNYnWr5ZlxZD870CXTGOvJkUhPhYg3cfsXMtIQz_sw",
-      "category": "경제",
-      "news": [
-        {
-          "title": "[속보] 한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "[전문]한국은행 금융통화위원회 11월 통화정책방향",
-          "url": "https://www.newsis.com/view/NISX20261126_0003884255",
-          "source": "뉴시스"
-        },
-        {
-          "title": "기준금리 인상 : 3.25%로 올랐어요, 내 대출 이자는 얼마나 오를까요",
-          "url": "https://story.pay.naver.com/content/4050_24_C5",
-          "source": "네이버페이 머니스토리"
-        }
-      ]
-    },
-    {
-      "keyword": "계엄",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-26T00:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDkhCGvbtisvtPNmeVnVOjMvdS0imrCF1AVk8nIDo0ZuralCTBKVBdaDVR3IE",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "[속보] 대법원, '한덕수 재판 위증' 윤석열 무죄 확정‥상고 기각",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6868727_36918.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "尹 ‘계엄 국무회의 위증’ 사건, 대법서 무죄 확정",
-          "url": "https://www.donga.com/news/Society/article/all/20261126/135094333/1",
-          "source": "동아일보"
-        },
-        {
-          "title": "‘윤석열 계엄’ 사과 묻자…국힘 김민수 “민주당이 먼저 해야” 궤변",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1289178.html",
-          "source": "한겨레"
-        }
-      ]
-    },
-    {
-      "keyword": "병무청",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-26T00:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYkQrdV8N22o_M_4YBb3rXEEp0bzjToIPU52-_d83go2LH2ZDNEycpT4VIjNA",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "병무청-군인공제회C&C, 병역의무자 전자도서관 자료 1.1억 기부 약정",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6364613",
-          "source": "뉴스1"
-        },
-        {
-          "title": "서울병무청장, 병역지정업체 방문 산업기능요원 격려",
-          "url": "https://www.ybstv.net/news/article.html?no=72313",
-          "source": "영등포신문"
-        },
-        {
-          "title": "충북병무청, 청주 산업현장 찾아 복무 관리 점검",
-          "url": "https://www.inews365.com/news/article.html?no=945052",
-          "source": "충북일보"
-        }
-      ]
-    },
-    {
-      "keyword": "기장군",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-26T00:30:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuTrH2QzYzpiWKBFWW-Y-rLblk-gD22R8oz5EUuPxYUPaF1UcsDfBpO-84IFQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "우성빈 기장군수 \"내년 군민 1인당 30만원 지급…예산 534억원\"",
-          "url": "https://www.yna.co.kr/view/AKR20261125133900051",
+          "title": "\"시리 한국어 18개월 지연, 기만 광고\"…애플, 공정위 심판대에",
+          "url": "https://www.yna.co.kr/view/AKR20261126095300002",
           "source": "연합뉴스"
-        },
-        {
-          "title": "부산 기장군, 군의회에 내년도 본예산안 8459억원 제출",
-          "url": "https://busan.fnnews.com/news/202611251409091520",
-          "source": "부산파이낸셜뉴스"
-        },
-        {
-          "title": "우성빈 기장군수, 민선 9기 첫 시정 연설…“2027년 군민이 체감하는 결실의 해 될 것”",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261125.99099008118",
-          "source": "국제신문"
-        }
-      ]
-    },
-    {
-      "keyword": "순댓국",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-26T01:10:00.000Z",
-      "picture": "",
-      "category": "기타",
-      "news": []
-    },
-    {
-      "keyword": "광주은행",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-26T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC9pr31cNVLkJyZkalA7wREfB1XTT1wpBnHU3vR3fDpAnCJIPU1g0eMqcbfDM",
-      "category": "경제",
-      "news": [
-        {
-          "title": "'SNS홍보·디지털마케팅'…광주은행 대학생 홍보대사 활동 마감",
-          "url": "https://www.yna.co.kr/view/AKR20261126072200054",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "광주은행 대학생 홍보대사 해단…6개월 활동 마무리",
-          "url": "https://www.mhns.co.kr/news/articleView.html?idxno=770729",
-          "source": "더쎈뉴스"
-        },
-        {
-          "title": "광산구·광주은행 노사, 청년이 머무는 지역 만들기에 뜻 모아",
-          "url": "https://www.welfarenews.net/news/articleView.html?idxno=213101",
-          "source": "웰페어뉴스"
         }
       ]
     }
