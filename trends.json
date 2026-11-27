@@ -1,271 +1,275 @@
 {
-  "updatedAt": "2026-11-27T07:27:33.520Z",
+  "updatedAt": "2026-11-27T17:56:17.713Z",
   "summary": [
     {
       "category": "기타",
-      "count": 6
+      "count": 3
+    },
+    {
+      "category": "정치·사회",
+      "count": 2
+    },
+    {
+      "category": "연예",
+      "count": 2
     },
     {
       "category": "스포츠",
       "count": 2
     },
     {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "연예",
+      "category": "IT·과학",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "손원일 급 잠수함",
+      "keyword": "파기환송",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-27T05:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyWPEaZj_lzsd0_tuJH0JP1r_KTZ4na-JmDsxTWJo27MGcCI4w7np0tXE_dyA",
+      "startedAt": "2026-11-27T15:20:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUHwdSGQcg4OHDU86ON1P043fK3teNOliL8NHq0Du1z8qNTsGpruyUqAUQGsk",
       "category": "정치·사회",
       "news": [
         {
-          "title": "[영상] 손원일급 잠수함 2척 잇단 사고…해군 \"대비 태세 유지\"",
-          "url": "https://www.yna.co.kr/view/AKR20261127112800704",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "어망에 걸리고 화재도…손원일급 잠수함 2척 파손돼 수리 중",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611270941575Yh",
-          "source": "연합뉴스TV"
-        },
-        {
-          "title": "폐어망에 걸리고 화재 피해 발생…손원일급 잠수함 2척 수리 중",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6367902",
-          "source": "뉴스1"
-        }
-      ]
-    },
-    {
-      "keyword": "롯데그룹",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-27T05:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwhiGPF2iQnPxhTG2HOMXyif9_xYAC_N3oZvl5i8KZrMIkp9g6l2w_tbtmP8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "[리포트 브리핑]롯데웰푸드, '체질 개선 이상 무' 목표가 170,000원 - 흥국증권",
-          "url": "https://www.newspim.com/news/view/20261126000593",
-          "source": "뉴스핌"
-        },
-        {
-          "title": "[롯데웰푸드 변곡점] 신유열 시대 개막…한·일 ‘원롯데’ 핵심 계열사 부상 : 네이버 블로그",
-          "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224493687307&redirect=Dlog",
-          "source": "Naver Blog"
-        },
-        {
-          "title": "롯데웰푸드, 적자 푸드사업에 '지주 구원투수' 투입…육가공 반등 시동",
-          "url": "https://www.fnnews.com/news/202611160640336827",
-          "source": "파이낸셜뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "신태일",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-27T05:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEnCPY2T7Zz38lAJvLiUfeugMWg1MRgaekuBqYLlNNCjizTregwQpgfQkNdlU",
-      "category": "연예",
-      "news": [
-        {
-          "title": "미성년자들 성착취 라이브 방송한 BJ, 항소심도 징역 6년",
-          "url": "https://www.yna.co.kr/view/AKR20261127107500065",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'미성년자 성착취물 생중계' BJ 신태일, 2심도 징역 6년",
-          "url": "https://www.newsis.com/view/NISX20261127_0003886409",
-          "source": "뉴시스"
-        },
-        {
-          "title": "교도관 지시 불응하고 무릎 걷어찬 수형자…법원 “죄질 불량”",
-          "url": "https://www.tsisalaw.com/news/article.html?no=31067",
-          "source": "더시사법률"
-        }
-      ]
-    },
-    {
-      "keyword": "고우석",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-27T05:20:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIULArIMviX9V9_IfB1a4C2Nk73g9TxibP3jdVRxINXuaZTKGAld7sp2oyMk",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "'살다 살다 이런 적은 처음' 고우석의 기막힌 MLB 도전기…\"김현수는 꽃길을 걷다 온 거더라\" 에이전트 대표도 혀 내두른 사연은?",
-          "url": "https://m.news.nate.com/view/20261127n00234",
-          "source": "네이트"
-        },
-        {
-          "title": "고우석, '마이너 3년·트레이드·방출' 다 겪고도…\"아깝다는 생각 전혀 안 들어\" 오승환에게 털어놓은 미국 생활",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1713702",
-          "source": "MHN스포츠"
-        },
-        {
-          "title": "268억→67억 몸값 폭락한 김하성, 美 매체의 냉혹한 평가…“예상대로 안 풀리면 시즌 도중 결별 가능” - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/26/202611260836777054O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "히샬리송",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T06:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSve6icAPcnR7wClMiDfgW4Kdl4PEbCyFDUKnJrNNjMhkjmBOs51i72BSpPzx4",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "‘토트넘 금쪽이’ 히샬리송·‘맨유 87경기 11골’ 지르크제이 에버턴 영입망… 포체티노 구상이 변수",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=314393",
-          "source": "베스트일레븐"
-        },
-        {
-          "title": "손흥민 옆에서 뛰다 한순간 4부 추락하더니…“히샬리송, 끝내 토트넘 떠나 에버턴 복귀 고려”",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101374",
-          "source": "포포투"
-        },
-        {
-          "title": "토트넘 홈런 제대로 쳤다, '최악의 말썽쟁이' 히샬리송 드디어 매각 기회...튀르키예 구단 협상 진행 '150억이면 판다'",
-          "url": "https://www.sportschosun.com/football/2026-11-21/202611210100133000012552",
-          "source": "스포츠조선"
-        }
-      ]
-    },
-    {
-      "keyword": "조승우",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T06:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuB_r_PwLdXSP7xIQ6z0V5XTiWm3NfCJLHMr0amT0gieAK4775f5cF26ir9ZU",
-      "category": "기타",
-      "news": [
-        {
-          "title": "조승우 “엄마 말 때문에 장가 못 가”…46세 미혼, ‘좁쌀영감’ 한마디",
-          "url": "https://www.donga.com/news/Culture/article/all/20261127/135101583/2",
-          "source": "동아일보"
-        },
-        {
-          "title": "'46세' 조승우가 임플란트라니..\"남성호르몬 수치도 떨어졌다\" 깜짝",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MRSGGOLEGFTGCZRUMEZWINDEMQ/",
-          "source": "조선일보"
-        },
-        {
-          "title": "\"누가 너한테 시집오겠냐\"…46세 조승우, 엄마 쓴소리 왜? - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112705275090916",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "최민희 징계",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T06:00:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35tskK3WK_z6qzrKTUkc8jywQH-Nw6u5MjsS7mrd7-nxpOgsKPwZkimAEzio",
-      "category": "기타",
-      "news": [
-        {
-          "title": "최민희 징계 심사 돌입‥민주당 긴장 고조",
-          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6869061_36967.html",
-          "source": "MBC 뉴스"
-        },
-        {
-          "title": "최민희 ‘운명의 날’…윤리심판원 중징계 전망 속 ‘전운’ 감도는 민주당",
-          "url": "https://www.khan.co.kr/article/202611271602001",
+          "title": "“12·3 계엄은 내란 아니다” 31%, 2년 새 내란인식 14%P 줄어···조희대 탄핵 찬성 35%·반대 42%[한국갤럽]",
+          "url": "https://www.khan.co.kr/article/202611271047001",
           "source": "경향신문"
         },
         {
-          "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/11/27/2026112714421510820",
-          "source": "머니투데이"
+          "title": "‘한덕수 파기환송’에 \"잘못됐다\" 46%, \"잘한 판결\" 31%",
+          "url": "https://news.jtbc.co.kr/article/NB12330163",
+          "source": "JTBC"
+        },
+        {
+          "title": "윤석열 '한덕수 재판서 위증' 혐의 무죄 확정",
+          "url": "https://www.yna.co.kr/view/MYH20261126009000038",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "경남 fc",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T06:00:00.000Z",
-      "picture": "",
-      "category": "기타",
+      "keyword": "박서진",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-27T14:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUX-f_27DZru1b76hgnwjzp5vqhzXtVoO18t1XtYLnaXKLRHOhJTzpTkU72iA",
+      "category": "연예",
       "news": [
         {
-          "title": "'필사즉생' 서울 이랜드, 경남 잡고 3위로 PO 간다!",
-          "url": "https://www.chosun.com/sports/football/2026/11/27/HBSGKN3GMQ2WCMRWHA3DGZLBHA/",
+          "title": "'장구의 신' 박서진, 하다하다 5억짜리 장구까지 연주 '초긴장'(살림남)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/MM3TONLEMMYWMNLDGM3GMYZYHA/",
           "source": "조선일보"
         },
         {
-          "title": "경남FC, 홈 폐막전 승리로 시즌 마무리 노린다",
-          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=599636",
-          "source": "경남매일"
-        },
-        {
-          "title": "'반드시 승격한다!' 서울 이랜드 FC, 경남과 최종전서 승리 다짐 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/27/202611271124777248O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "신달자",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T05:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw4wPLVR_rO6RBFUb-Qab-nnx-PkHIcWhb-nJe18Nao016z2w9Kzua7Ll6U7o",
-      "category": "기타",
-      "news": [
-        {
-          "title": "신달자 \"'니는 될 끼다'…빌딩보다 값진 어머니의 유언이었죠\"",
-          "url": "https://www.yna.co.kr/view/AKR20261126192400005",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "어머니가 남긴 사랑, 딸이 써 내려간 답장 [신간 소개]",
-          "url": "https://www.kyeonggi.com/article/20261125580086",
-          "source": "경기일보"
-        },
-        {
-          "title": "\"딸에게 편지 쓰려 글씨 배운 엄마\"…신달자, 여든에 돌아보다[신간]",
-          "url": "https://www.newsis.com/view/NISX20261124_0003881689",
+          "title": "박서진, 트로트가수 최초 국제 페스티벌…동방신기 섰던 자리",
+          "url": "https://www.newsis.com/view/NISX20261127_0003885977",
           "source": "뉴시스"
+        },
+        {
+          "title": "박서진, 국가대표 됐다더니…5억 원대 장구 연주 (살림남)",
+          "url": "https://sports.donga.com/ent/article/all/20261127/135101628/1",
+          "source": "스포츠동아"
         }
       ]
     },
     {
-      "keyword": "모두의카드",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T05:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMeuKA15gdSDKRvJ0HNCkXV42at4S-d65K5K53HwfgWcioiQCXwTJhUXp4EMI",
-      "category": "기타",
+      "keyword": "교사",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-27T15:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ1Syz9vtMn-lt2k2Qr55Sc4kJGA2JIaRKayE775yEVcZcOs6H7sGoodqz0V4",
+      "category": "정치·사회",
       "news": [
         {
-          "title": "이제 청소년도 교통비 환급 - 카드/한컷 | 멀티미디어",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976628&pWise=sub&pWiseSub=R4",
-          "source": "대한민국 정책브리핑"
-        },
-        {
-          "title": "'모두의카드' 13세도 이용 가능…12월부터 확대",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863856",
+          "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
           "source": "SBS 뉴스"
         },
         {
-          "title": "국토교통부, 청소년도 다음 달부터 '모두의카드' 교통비 환급 가능",
-          "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6868473_36974.html",
+          "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
+          "url": "https://www.kyeonggi.com/article/20261127580141",
+          "source": "경기일보"
+        },
+        {
+          "title": "경찰 “교사폭행 초등생 영상 유포, 공익적 제보로 봐야” 내사 종결",
+          "url": "https://www.donga.com/news/Society/article/all/20261127/135104682/1",
+          "source": "동아일보"
+        }
+      ]
+    },
+    {
+      "keyword": "온두라스 u-17 대 일본 u-17",
+      "traffic": "1000+",
+      "trafficValue": 1000,
+      "startedAt": "2026-11-27T12:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLqRCiUcDImmRCqfAw6F0Symb65jkTl5901csiKdiSeQ6ZarD_FDM4enxnA8E",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "FIFA U-17 World Cup - Japan beat Honduras to advance",
+          "url": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/japan-beat-honduras-to-advance",
+          "source": "The AFC"
+        },
+        {
+          "title": "U-17 World Cup: Japan and China both face elimination crisis = Chinese netizens: 'China is probably okay, but Japan...'",
+          "url": "https://www.recordchina.co.jp/en/b999179-s25-c50-d0192.html",
+          "source": "Record China"
+        },
+        {
+          "title": "Japan U17 vs Serbia U17: FIFA U17 World Cup stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cr2klg1vg594t",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "keyword": "도산소옥",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-27T16:20:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUFiNMc2Yyn7_Dej4U9_uvHGZ4LKKzpDLYtlneUMKDAzt_OdymwK0ckzSTpR4",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "아이템매니아, '템빨: 오버기어드' 출시 기념 릴레이 혜택 이벤트 실시",
+          "url": "https://zdnet.co.kr/view/?no=20261127092612",
+          "source": "지디넷코리아"
+        },
+        {
+          "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가",
+          "url": "https://www.yna.co.kr/view/AKR20261126085400017",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출시… 연말 신작 승부수",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001896",
+          "source": "IT조선"
+        }
+      ]
+    },
+    {
+      "keyword": "굿파트너2",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-27T12:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTsWnrYeRgrHoahArUsDqBXi6EyrBXjgAwbmId8VlgCezNp1p7pyCLQGlDkz8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "“또 따라 하기는” 장나라, 괜히 시비 거는 박해진에게 날린 뼈 때리는 팩폭 한 방♨",
+          "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC484449324?div=live_end",
+          "source": "programs.sbs.co.kr"
+        },
+        {
+          "title": "‘굿파트너2’ 김혜윤, 시행착오 딛고 첫 사건 완벽 승소… ‘이혼 전문 변호사’ 첫걸음",
+          "url": "https://sports.khan.co.kr/article/202611280035003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "‘굿파트너2’ ‘라이어’, 금토극 경쟁 2라운드",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010736",
+          "source": "아시아투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "강지영",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-27T12:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDs2t8QpENGw2ZLiHLycrl_6KGmDL09rwBB8WznuwHT5M3RTC3dMCzJZeHysI",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[방송소식] MBC라디오, 다음 달 1일 'FM4U 패밀리데이'",
+          "url": "https://www.yna.co.kr/view/AKR20261127082100005",
+          "source": "연합뉴스"
+        },
+        {
+          "title": "이문세·배철수·안영미, 하루 동안 자리 교체…'MBC FM4U 패밀리데이'",
+          "url": "https://www.newsis.com/view/NISX20261127_0003886153",
+          "source": "뉴시스"
+        },
+        {
+          "title": "배철수 '별밤'→이상순 '안녕하세요' 듣는다…MBC FM4U '패밀리데이' 진행",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526241",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "연애남매2",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-27T14:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOdKwqYmFkKtC10kFpXjQk_SJR6THpGvQoyIHCGETW_7AvC_ib6FNxhgo7f_8",
+      "category": "기타",
+      "news": [
+        {
+          "title": "만난 지 24시간도 안 됐는데 스킨십…‘연애남매2’ 오늘 첫 공개",
+          "url": "https://sports.donga.com/ent/article/all/20261127/135102776/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'연애남매2' CP \"한혜진, 연애에 좋은 인사이트 줘…제작진도 돌아보게 해\"",
+          "url": "https://www.fnnews.com/news/202611201432308496",
+          "source": "파이낸셜뉴스"
+        },
+        {
+          "title": "마라 맛으로 돌아온 '연애남매2', 감정 폭풍 예고 \"초반부터 휘몰아쳐\"",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526019",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "신지아",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-27T14:10:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzTn3hooREZ-K29hCurgAaIOhCDba76nUQsfkvMq8QvpO4j3Riw0M5lx9oSUQ",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 GP 6차 쇼트 2위",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8724677",
+          "source": "KBS 뉴스"
+        },
+        {
+          "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
           "source": "MBC 뉴스"
+        },
+        {
+          "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
+          "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
+          "source": "Olympic Channel"
+        }
+      ]
+    },
+    {
+      "keyword": "금새록",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-27T14:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeQBc-ty4TlDIRIjtjWKAlVp-qlo0blqzdaC-luaF_VLpoOo9e7SUeOrkGhLM",
+      "category": "기타",
+      "news": [
+        {
+          "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112706101172811",
+          "source": "머니투데이"
+        },
+        {
+          "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
+          "url": "https://www.viva100.com/article/20261127500209",
+          "source": "브릿지경제"
+        },
+        {
+          "title": "연우 \"급격한 다이어트 면역력 떨어져…많이 울었다\"",
+          "url": "https://www.newsis.com/view/NISX20261127_0003885403",
+          "source": "뉴시스"
         }
       ]
     }
