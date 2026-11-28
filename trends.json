@@ -1,255 +1,247 @@
 {
-  "updatedAt": "2026-11-28T09:56:38.348Z",
+  "updatedAt": "2026-11-28T18:00:16.430Z",
   "summary": [
+    {
+      "category": "스포츠",
+      "count": 6
+    },
     {
       "category": "기타",
       "count": 4
-    },
-    {
-      "category": "연예",
-      "count": 3
-    },
-    {
-      "category": "스포츠",
-      "count": 2
-    },
-    {
-      "category": "경제",
-      "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "fc 서울 대 대전 하나 시티즌 순위",
-      "traffic": "10000+",
-      "trafficValue": 10000,
-      "startedAt": "2026-11-28T07:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT09hxbsf7g2rqWAjcdvBl9s134Upo2rzOotpfXew0LF1F64_dJUy3196FXcmA",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "FC서울 우승 파티서 안도의 한숨 쉰 김기동 감독 \"약속 지켰다\"",
-          "url": "https://www.yna.co.kr/view/AKR20261128045000007",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "'K리그1 챔피언' 서울, 대전 4-1 꺾고 완벽한 '우승 대관식'",
-          "url": "https://www.newsis.com/view/NISX20261128_0003887129",
-          "source": "뉴시스"
-        },
-        {
-          "title": "[사진]쐐기골 손정범의 포효 - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/28/202611281550775652O",
-          "source": "머니투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "이자",
+      "keyword": "엘체 대 아틀레티코",
       "traffic": "5000+",
       "trafficValue": 5000,
-      "startedAt": "2026-11-28T06:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7JnQbklLR2EBASQEGdNxV74s8Ji-LnHJ8djlAjT_5NMNrLrODeTuNcBHG8QQ",
-      "category": "경제",
-      "news": [
-        {
-          "title": "“눈물 머금고 예금 깼는데 괜히 머금었습니다”…이자 손해 줄이는 방법",
-          "url": "https://www.mk.co.kr/news/economy/12220684",
-          "source": "매일경제"
-        },
-        {
-          "title": "정기예금 중도해지 대신 분할인출…이자 손실 줄인다 : 재테크",
-          "url": "https://news.jkn.co.kr/post/1130094",
-          "source": "재경일보"
-        },
-        {
-          "title": "주담대 5% - 마통 7%… 가계 덮친 ‘눈덩이 금리’",
-          "url": "https://www.donga.com/news/Economy/article/all/20261127/135106378/2",
-          "source": "동아일보"
-        }
-      ]
-    },
-    {
-      "keyword": "전현무",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-28T06:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYmWiiEA8jw4MOLUPfyJcnPtpXht_bwbYWCuwKtq8fBG6IhhF20D6RuYl0OHs",
-      "category": "연예",
-      "news": [
-        {
-          "title": "50세 전현무, 이래서 결혼 안하나 “자유가 없는 세계 아니냐”(‘전현무계획4’)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVTGCYRXGYZDOM3EHA2TQZRSMM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "나윤권, 두 돌 아들 육아 얼마나 힘들길래…“테이보다 간절하게 먹어”",
-          "url": "https://sports.donga.com/ent/article/all/20261128/135106768/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "나윤권, 결혼 비하인드 공개 “아내가 좋아서 적극 대시했다” (전현무계획4)",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526286",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "부천 대 김천상무",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-28T06:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi3vVA4aACBV6a7IussauXqWqi3JIrYrJCE3gVsDCzJqPSHgUy_OpPhgjRqlA",
+      "startedAt": "2026-11-28T16:40:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSefSBnYL76T7h-0n_5rnZiIyOnIdnxpHlpZdTDNFIYZVPfNSNV8lp97cmop4M",
       "category": "스포츠",
       "news": [
         {
-          "title": "'카즈 퇴장·바사니 부상' 부천, 한지호 은퇴 경기 아쉬운 패배...홈 최종전서 '강주혁 1골 1도움' 김천에 1-2 덜미[오!쎈 부천] - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/28/202611281627779969O",
-          "source": "머니투데이"
-        },
-        {
-          "title": "\"올해까지만 내 역할\" 작별 앞둔 주승진 김천 감독...\"K리그에서 더 많은 경험 쌓고, 연속성 가져가고 싶다\"[현장 인터뷰]",
-          "url": "https://www.chosun.com/sports/football/2026/11/28/GE4DMMRQGZSTGMRWGM2TENLFMY/",
+          "title": "'이강인 선발 출격' 아틀레티코, 레알 마드리드 제치고 2위 오를 기회...'16위' 엘체 잡고 바르셀로나와 승점 2점 차 만들까",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/29/GIYDGNZRGY3TOMLBGA4DGNJTGM/",
           "source": "조선일보"
         },
         {
-          "title": "'굿바이 캡틴' 한지호, 커리어 마지막 홈경기 나선다...부천FC1995, 김천전 선발 명단 공개[오!쎈 부천]",
-          "url": "https://www.koreadaily.com/article/20261127222201904",
-          "source": "미주중앙일보"
+          "title": "'이강인 왼발 폭발!' ATM, 7분 만에 엘체 상대 2-0 리드...이강인 리그 3호골",
+          "url": "https://www.osen.co.kr/article/G1112916457",
+          "source": "OSEN"
+        },
+        {
+          "title": "이러니 시메오네 감독이 애지중지할 수밖에…이강인, 실력뿐 아니라 인성까지 극찬받았다 “라커룸에서 가장 사랑받고 존중받는 선수 중 한 명”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699261",
+          "source": "인터풋볼"
         }
       ]
     },
     {
-      "keyword": "최형우",
+      "keyword": "입스위치 대 애스턴 빌라",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-28T06:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOryZdrktu499uBJYgIu3g1CrbU9dKZAag_ok4pC8KFzRXzPMMN4DNm8r7lfE",
+      "startedAt": "2026-11-28T16:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYD7C8WyTmbztYyTv6rvSjbW4xPlrlcoINrMFsTqYN2-qCEPRGoSo8wx-Cv1E",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "Ipswich Town v Aston Villa: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Premier League predictions & Jones Knows' best bets: Arsenal vs Manchester City and more!",
+          "url": "https://www.skysports.com/football/news/13616076/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Ipswich Town vs Aston Villa: Premier League preview, team news, stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmy49k14lne9t",
+          "source": "BBC"
+        }
+      ]
+    },
+    {
+      "keyword": "바이에른 뮌헨",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-28T15:00:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgqqTQeBZ7cH8isUNoC9Zeo4G30vzn_Ao9aEphgWWm2DAAwfzqaj5B9buMeI",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'키미히, 상대 머리채 콱' 충격 퇴장 바이에른, 함부르크 원정서 0-0 무승부...김민재 풀탕임에도 선두 탈환 실패 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/29/202611290124774747O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "Nhận định trận đấu Hamburger vs Bayern Munich, 21h30 ngày 28.11: Lết qua bão chấn thương",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-hamburger-vs-bayern-munich-21h30-ngay-28-11-let-qua-bao-chan-thuong",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "[공식발표] '韓 국가대표' 김민재의 어깨가 무거워졌다!…주축 선수들 줄줄이 이탈한 뮌헨, 함부르크전 선발 명단 공개",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101462",
+          "source": "포포투"
+        }
+      ]
+    },
+    {
+      "keyword": "black tv",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-28T15:00:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBXZvDiVZPa5BEzLM1xaJ-eeroGCEE6H__UIkU8s5ccg6peoaBNb94av2Cj7w",
       "category": "기타",
       "news": [
         {
-          "title": "\"인천 간 적 없고요\" \"기억 안 납니다\"…'FA 최대어' 구자욱의 철벽 인터뷰",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866557",
-          "source": "SBS 뉴스"
+          "title": "I test TVs for a living. Here are the 25 best Black Friday TV deals still available",
+          "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-tv-deals-2026-11-27",
+          "source": "CNN"
         },
         {
-          "title": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은? - 머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/28/202611272348779689O",
-          "source": "머니투데이"
+          "title": "Walmart Black Friday shoppers are rushing to get massive 85-inch QLED TV under $500",
+          "url": "https://www.cleveland.com/shopping/2026/11/walmart-shoppers-are-rushing-to-get-massive-85-inch-qled-tv-under-500-for-black-friday.html",
+          "source": "Cleveland.com"
         },
         {
-          "title": "삼성 잔류도, 수도권 이적도 아닐 수 있다… 구자욱의 ML 도전 \"12월초 뭔가 결정되지 않을까요\"",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/27/GA4DCMRZMFSGINDEMY2DQYRYG4/",
-          "source": "조선일보"
+          "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+          "url": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
+          "source": "The Verge"
         }
       ]
     },
     {
-      "keyword": "開票",
+      "keyword": "man utd đấu với brentford",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-28T14:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVizfInyXuEmgknQNkwdBgAF0_G-MF4u4zdXoVlqry8PHbi3n1wuXhi-kUKNc",
+      "category": "기타",
+      "news": [
+        {
+          "title": "LIVE Manchester United gegen Brentford: Startaufstellungen",
+          "url": "https://www.vietnam.vn/de/truc-tieptruc-tiep-manchester-united-vs-brentford-doi-hinh-xuat-phat",
+          "source": "Vietnam.vn"
+        },
+        {
+          "title": "Yoro tiếp tục xử lý cẩu thả",
+          "url": "https://znews.vn/yoro-tiep-tuc-xu-ly-cau-tha-post1677364.html",
+          "source": "Znews"
+        },
+        {
+          "title": "Thống kê trận đấu Manchester United 0-4 Brentford: Brentford thắng đậm thuyết phục",
+          "url": "https://baolamdong.vn/thong-ke-tran-dau-manchester-united-0-4-brentford-brentford-thang-dam-thuyet-phuc-476253.html",
+          "source": "Báo Lâm Đồng"
+        }
+      ]
+    },
+    {
+      "keyword": "맨유 경기",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-28T08:30:00.000Z",
+      "startedAt": "2026-11-28T15:20:00.000Z",
       "picture": "",
-      "category": "기타",
+      "category": "스포츠",
       "news": []
     },
     {
-      "keyword": "북항친수공원",
+      "keyword": "쾰른 대 엘버스베르크",
       "traffic": "200+",
       "trafficValue": 200,
-      "startedAt": "2026-11-28T08:30:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzK22RHHoPGcgogZHg8gdl8F3L3tAA2R_c_LcWNFN4j-90Ds1GQYRCoiWAjRk",
-      "category": "기타",
+      "startedAt": "2026-11-28T14:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRWHOiMApAMMthSwQW-_lAZ4qoHSAhEWOMVxL5Dm1N9MsuFhhsGtz_6gXqSHM",
+      "category": "스포츠",
       "news": [
         {
-          "title": "‘부캉이’ 재진입 차단시설 12월1일 철거…“따뜻한 남쪽 바다서 잘 지내니”",
-          "url": "https://www.khan.co.kr/article/202611281006001",
-          "source": "경향신문"
+          "title": "Licensable picture: SC Paderborn 07 vs. FC Schalke 04",
+          "url": "https://www.reutersconnect.com/item/sc-paderborn-07-vs-fc-schalke-04/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMjhYOTlYNDE4MzYy",
+          "source": "Reuters Connect"
         },
         {
-          "title": "부산 북항 친수공원 상어 '부캉이' 차단막 내달 1일 철거",
-          "url": "https://www.yna.co.kr/view/AKR20261127075100051",
-          "source": "연합뉴스"
+          "title": "German President Steinmeier arrives in Kenya for talks with Ruto",
+          "url": "https://nation.africa/kenya/news/german-president-steinmeier-arrives-in-kenya-for-talks-with-ruto-5683630",
+          "source": "Daily Nation"
         },
         {
-          "title": "’부캉이’ 떠나자 부산 북항 방문객 예전 수준으로 ’뚝’",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127052832PdA",
-          "source": "연합뉴스TV"
+          "title": "Kenyans working in Germany increase by 2,500 in two years, Ruto says",
+          "url": "https://www.standardmedia.co.ke/article/2001563010/kenyans-working-in-germany-increase-by-2-500-in-two-years-ruto-says",
+          "source": "The Standard"
         }
       ]
     },
     {
-      "keyword": "박정우",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-28T08:20:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCq4up8ZUBQ7pU-aVWBj0UwYEQCfT1PLYSZdTCHH5r1j4NSekCLGHOzmW2poc",
-      "category": "연예",
-      "news": [
-        {
-          "title": "KIA 내부 FA 초대형 변수 등장! 'MVP' 韓슈퍼스타 간절히 외쳤다 \"김태군-김호령 꼭 필요한 선배들, 계약해주세요\"",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/27/GQYDOMZTMQ4WEMRVHA4GCYLDMI/",
-          "source": "조선일보"
-        },
-        {
-          "title": "이범호 계약 기간 마지막 해, FA 선물은 있을까… 이범호가 아닌 KIA를 위해 필요하다",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022306",
-          "source": "SPOTV NEWS"
-        },
-        {
-          "title": "외야 FA 풍년에도 구자욱에만 쏠린 시선…더 아쉬운 김호령의 '가을 침묵'",
-          "url": "https://www.newsis.com/view/NISX20261126_0003884011",
-          "source": "뉴시스"
-        }
-      ]
-    },
-    {
-      "keyword": "남승민",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-28T06:40:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS45SfGgPul-G12nw9Ftv36T5EmJkHQsT_viOi1XuoUsQHMa9zI92HbDtuv6kQ",
-      "category": "기타",
-      "news": [
-        {
-          "title": "남승민, 암투병 母와 함께한 무대…결국 오열 (금타는 금요일)",
-          "url": "https://sports.donga.com/ent/article/all/20261128/135106792/1",
-          "source": "스포츠동아"
-        },
-        {
-          "title": "'금타는 금요일' 손빈아, 주병선 '칠갑산' 열창 후 \"토할 것 같았다\"",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765521",
-          "source": "국제뉴스"
-        },
-        {
-          "title": "‘금타는 금요일’ 양지은, 훌쩍 큰 유지우 무대에 눈물 펑펑 “아들과 동갑”",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526291",
-          "source": "iMBC 연예"
-        }
-      ]
-    },
-    {
-      "keyword": "국가유공자",
+      "keyword": "프리미어리그 경기",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-28T08:50:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSP22c46xftUewVswjtkAg2Z4HzyqmydXwKbAAj2yA5FYoS52FWYrf2J-mPc0",
-      "category": "연예",
+      "startedAt": "2026-11-28T16:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdnupfB0-WLsJU4NSFKRGQMsdE_rBPk7Rdlc7vqZUJKl684rxizYiKDs7FzLI",
+      "category": "스포츠",
       "news": [
         {
-          "title": "[경북소식]나라사랑 한마음대회, 유공자·가족 위로·감사 등",
-          "url": "https://www.newsis.com/view/NISX20261127_0003886513",
-          "source": "뉴시스"
+          "title": "세메뇨, 복귀 임박",
+          "url": "https://kr.mancity.com/news/mens/enzo-maresca-arsenal-manchester-city-press-conference-injury-news-63931387",
+          "source": "Manchester City FC"
         },
         {
-          "title": "윤종구 울진광복회장 표창패 받아",
-          "url": "http://www.uljinnews.co.kr/news/articleView.html?idxno=76934",
-          "source": "울진신문"
+          "title": "“우리는 아직 그 수준에 도달하지 못했다”…우승도 성에 차지 않는 아르테타, 맨시티의 ‘승점 100’ 기록에 도...",
+          "url": "https://sports.khan.co.kr/article/202611280937003",
+          "source": "스포츠경향"
         },
         {
-          "title": "보훈가족과 함께한 추모의 시간…대전서 희망콘서트 열려",
-          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922975",
-          "source": "충남일보"
+          "title": "‘PL 2연패에 승점 100점 왕조까지 세운다’ 단독 선두 아스널의 거침없는 야망... 맨시티전 앞둔 아르테타 “그 기록에 가까워져야 우승!”",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699436",
+          "source": "인터풋볼"
+        }
+      ]
+    },
+    {
+      "keyword": "맨체스터 유나이티드 fc",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-28T16:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMc0TacVT3A8MzY_Q3RGOi2Zj0akROGGuVSffh_lLbE1n8cfTeTvwUGSB3CY0",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘독점·1급 공신력’ 맨유 결국 발동했다! ‘캡틴’ 브루노 페르난데스 끝없는 이적설 속 ‘1년 계약 연장 옵션’...",
+          "url": "https://sports.khan.co.kr/article/202611280606003",
+          "source": "스포츠경향"
+        },
+        {
+          "title": "'캡틴' 페르난데스, 맨유서 1년 더 뛴다...구단 연장 옵션 행사",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01571126645650312&mediaCodeNo=257",
+          "source": "이데일리"
+        },
+        {
+          "title": "맨유 초비상, 주장과 재계약 협상 중단...뒤늦게 알려진 1년 연장 옵션 발동, BBC는 여전히 '페르난데스 이적 가능성' 제기 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/28/202611282203775550O",
+          "source": "머니투데이"
+        }
+      ]
+    },
+    {
+      "keyword": "비정규직",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-28T15:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkb8leLyAcxCrdq8e5aOlwgd9F7xuVELrsPlTnhsCKaJFOSrjKXbCEekdY97A",
+      "category": "기타",
+      "news": [
+        {
+          "title": "또 급식 대신 빵‥10년째 파업에 학교 3곳 중 1곳 점심 멈췄다",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6869197_37004.html",
+          "source": "MBC 뉴스"
+        },
+        {
+          "title": "\"급식 멈췄다\" 학교비정규직 하루 총파업...교육부, 비상 대응",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611271759480881_005.html",
+          "source": "YTN"
+        },
+        {
+          "title": "밥 대신 빵과 우유…일부 학교 급식·돌봄 차질",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8725014",
+          "source": "KBS 뉴스"
         }
       ]
     }
