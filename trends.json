@@ -1,8 +1,12 @@
 {
-  "updatedAt": "2026-11-28T01:15:00.487Z",
+  "updatedAt": "2026-11-28T09:56:38.348Z",
   "summary": [
     {
       "category": "기타",
+      "count": 4
+    },
+    {
+      "category": "연예",
       "count": 3
     },
     {
@@ -10,270 +14,242 @@
       "count": 2
     },
     {
-      "category": "IT·과학",
-      "count": 2
-    },
-    {
       "category": "경제",
-      "count": 1
-    },
-    {
-      "category": "정치·사회",
-      "count": 1
-    },
-    {
-      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "르윈 디아즈",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-27T23:50:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfeqEJxHlBF9d0RIG4oCcRa6m7zdasuBnTjknfZHbJG_sGKtzJLeYo6_3BWw",
+      "keyword": "fc 서울 대 대전 하나 시티즌 순위",
+      "traffic": "10000+",
+      "trafficValue": 10000,
+      "startedAt": "2026-11-28T07:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT09hxbsf7g2rqWAjcdvBl9s134Upo2rzOotpfXew0LF1F64_dJUy3196FXcmA",
       "category": "스포츠",
       "news": [
         {
-          "title": "\"오퍼하는 중\" 삼성 머리 아프다, 돈은 정해져 있는데…61억으로 '페덱·후라도·디아즈' 다 잡을까",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022304",
-          "source": "SPOTV NEWS"
+          "title": "FC서울 우승 파티서 안도의 한숨 쉰 김기동 감독 \"약속 지켰다\"",
+          "url": "https://www.yna.co.kr/view/AKR20261128045000007",
+          "source": "연합뉴스"
         },
         {
-          "title": "`동행하기 힘드네` 우승 전력 보존 나선 삼성 라이온즈, 누굴 잡고 누굴 놔줘야 좋을까",
-          "url": "https://www.imaeil.com/page/view/2026112611572028558",
-          "source": "매일신문"
+          "title": "'K리그1 챔피언' 서울, 대전 4-1 꺾고 완벽한 '우승 대관식'",
+          "url": "https://www.newsis.com/view/NISX20261128_0003887129",
+          "source": "뉴시스"
         },
         {
-          "title": "구자욱 원태인 대구 퍼레이드 불참은 당연...도장 찍을 때까지 침묵 모드 유지해야",
-          "url": "https://www.maniareport.com/view.php?ud=20261127052023582991b55a0d56_19",
-          "source": "마니아타임즈"
+          "title": "[사진]쐐기골 손정범의 포효 - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/28/202611281550775652O",
+          "source": "머니투데이"
         }
       ]
     },
     {
-      "keyword": "띠별 운세",
-      "traffic": "2000+",
-      "trafficValue": 2000,
-      "startedAt": "2026-11-27T23:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyUru7S4grfxhfvYCTPblZfRzDhPYRJ9vo5SR7IbqVCZ_Rah5gGs0aUV1_t5o",
-      "category": "기타",
+      "keyword": "이자",
+      "traffic": "5000+",
+      "trafficValue": 5000,
+      "startedAt": "2026-11-28T06:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7JnQbklLR2EBASQEGdNxV74s8Ji-LnHJ8djlAjT_5NMNrLrODeTuNcBHG8QQ",
+      "category": "경제",
       "news": [
         {
-          "title": "[오늘의 운세] 2026년 11월 28일 띠별 운세",
-          "url": "https://www.ytn.co.kr/_ln/0121_202611280000000001",
-          "source": "YTN"
+          "title": "“눈물 머금고 예금 깼는데 괜히 머금었습니다”…이자 손해 줄이는 방법",
+          "url": "https://www.mk.co.kr/news/economy/12220684",
+          "source": "매일경제"
         },
         {
-          "title": "[오늘의 운세] 11월 28일 토요일 (음력 10월 20일) 띠별 운세",
-          "url": "https://www.kyeonggi.com/article/20261116580440",
-          "source": "경기일보"
+          "title": "정기예금 중도해지 대신 분할인출…이자 손실 줄인다 : 재테크",
+          "url": "https://news.jkn.co.kr/post/1130094",
+          "source": "재경일보"
         },
         {
-          "title": "[오늘의 운세/11월 28일]",
-          "url": "https://www.donga.com/news/Culture/article/all/20261127/135105396/2",
+          "title": "주담대 5% - 마통 7%… 가계 덮친 ‘눈덩이 금리’",
+          "url": "https://www.donga.com/news/Economy/article/all/20261127/135106378/2",
           "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "국민연금공단",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-27T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGHJpg5Uj1Y7je8iHQxLz7NYmGbieTKqShgWdluuHvURpLMQubnL5px50SVfg",
-      "category": "경제",
-      "news": [
-        {
-          "title": "국민연금 적립금 202조 하늘로...\"주식시장 활성화시키려 만든 게 아냐\" [자막뉴스]",
-          "url": "https://www.ytn.co.kr/_ln/0134_202611280905291051",
-          "source": "YTN"
-        },
-        {
-          "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
-          "url": "https://www.yna.co.kr/view/AKR20261127153400530",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "[단독] 국민연금 손실, '182조→240조' 확대 ... 노후자금 한달새 '60조' 추가 증발",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650092.html",
-          "source": "뉴데일리 경제"
-        }
-      ]
-    },
-    {
-      "keyword": "이해욱",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-28T00:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc7RcKBkN5DBtxzStRbe4EZGIBFgUpqJStNtZY7W6mWf9izN2VlVhg2rEI6aw",
-      "category": "기타",
-      "news": [
-        {
-          "title": "단독 한밤중 직원들 집합시킨 DL그룹 회장...성과 부진 탓하며 '보직 해임'",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611280721404224",
-          "source": "YTN"
-        },
-        {
-          "title": "유명 대기업 회장, 한밤중 직원 수백명 집합시키더니... 어젯밤 벌어진 황당한 일",
-          "url": "https://www.wikitree.co.kr/articles/1178542",
-          "source": "위키트리"
-        },
-        {
-          "title": "[DL그룹 인사추적]① 이해욱, 김길수 화학 복귀·정삼두 대표 발탁… 박상신 체제 유지",
-          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084520",
-          "source": "뉴스클레임"
-        }
-      ]
-    },
-    {
-      "keyword": "신상출시 편스토랑",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-28T00:00:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW6PjLTU_2oZAEDYy0fC4gafb99KOwBapURWv6oeUoQrkxhfKTRWVEzv8DA4M",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "야노시호, 50억 도쿄 자택 공개 \"남편 추성훈과 각방살이\"",
-          "url": "https://www.newsis.com/view/NISX20261126_0003885358",
-          "source": "뉴시스"
-        },
-        {
-          "title": "야노 시호, 침대 옆엔 850만 원 수소 호흡기…베개 밑엔 17만 원짜리 운석 가루 ('편스토랑')",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RGIYRXMU3TEMLCGRRWMMZSGY/",
-          "source": "조선일보"
-        },
-        {
-          "title": "야노시호, 도쿄 50억 자택 공개…운석 가루에 수소 호흡기까지",
-          "url": "https://biz.heraldcorp.com/article/10951681",
-          "source": "헤럴드경제"
-        }
-      ]
-    },
-    {
-      "keyword": "소방관",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-27T23:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTgzjkTrZi9SPHS_XlUOklyQx0fSsfpGYCsBPeb3DTqISMVi3HaOq0-KYy80",
-      "category": "기타",
-      "news": [
-        {
-          "title": "\"소방 공무원 하다 다시 도전\"…원주 새내기 공무원이 전한 합격 공부법",
-          "url": "https://www.newsis.com/view/NISX20261128_0003886987",
-          "source": "뉴시스"
-        },
-        {
-          "title": "\"소방관 퇴사 후 두 번째 공무원\"…원주시 새내기, 수험생활 '꿀팁' 폭발",
-          "url": "https://www.news1.kr/society/general-society/6368050",
-          "source": "뉴스1"
-        },
-        {
-          "title": "원주시, 유행 '밈' 활용한 영상으로 공직기강 확립 나서",
-          "url": "https://www.yna.co.kr/view/AKR20261125119600062",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "공무원 노동조합",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-27T23:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgLUtaiMovt0pJb4qrT5UcDLeIN8s2SqGUKAL__sDZpqBWARO0kFgedJWS6wI",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "김천시공무원노동조합, 폭언·협박 사건 고발 엄정 수사 촉구",
-          "url": "http://www.gcnaeil.com/default/index_view_page.php?part_idx=266&idx=86505",
-          "source": "김천내일신문"
-        },
-        {
-          "title": "김천시, 악성 민원인 경찰 고발",
-          "url": "http://gcinews.com/front/news/view.do?articleId=ARTICLE_00065070&pageIndex=1",
-          "source": "김천인터넷뉴스"
-        },
-        {
-          "title": "퇴직공무원노조 공식 출범… \"정년퇴직 후 소득공백, 국가가 책임져야\"",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288790",
-          "source": "OhmyNews"
-        }
-      ]
-    },
-    {
-      "keyword": "화웨이",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T23:50:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdoPZOAz_miIRZnCGpfsfqPLlFBK9-Jd3XApabf96iA_YKfFVB_Bp7IbOhkBU",
-      "category": "IT·과학",
-      "news": [
-        {
-          "title": "화웨이 “美제재 덕에 기술 자립”… 中 ‘AI 반도체 3종 세트’ 가속도",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/28/B3S6DMM3ABEOZJJKVPHZQBWQJM/",
-          "source": "조선일보"
-        },
-        {
-          "title": "화웨이 창업자 \"땡큐 트럼프...덕분에 기술 자립\"",
-          "url": "https://www.ytn.co.kr/_ln/0104_202611271426006354",
-          "source": "YTN"
-        },
-        {
-          "title": "런정페이 화웨이 창업자 \"미국 제재 덕에 자립\"",
-          "url": "https://www.yna.co.kr/view/AKR20261127077100009",
-          "source": "연합뉴스"
-        }
-      ]
-    },
-    {
-      "keyword": "허웅",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T23:10:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA26OVPiwabu_TA9ivomFTqvJbGOs3VTNk7Unli29fBUgV9UYFx7bmuSOK_IY",
-      "category": "스포츠",
-      "news": [
-        {
-          "title": "허웅의 마음과 기부, ‘노후된 한 재활원’으로 향하다",
-          "url": "https://basketkorea.com/news/newsview.php?ncode=1065594607695644",
-          "source": "바스켓코리아"
-        },
-        {
-          "title": "\"저도 같이 참여하고 싶었어요\" 3년 동안 연고지에만 37번 후원... 팬들 따뜻한 마음에 KCC 허웅도 감동했다",
-          "url": "http://www.rookie.co.kr/news/articleView.html?idxno=131210",
-          "source": "루키"
-        },
-        {
-          "title": "허웅을 향한 응원이 아이들의 따뜻한 보금자리로…‘웅프렌드’의 특별했던 37번째 선행, 선수도 함께했다",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065592442313032",
-          "source": "점프볼"
-        }
-      ]
-    },
-    {
-      "keyword": "송파구",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T23:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKYfYpS8Ixf2vYJ407NCw_e61_zG4E5X8l1t1QW7NI57qTe8kDRzwjSF-FUTw",
+      "keyword": "전현무",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-28T06:50:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYmWiiEA8jw4MOLUPfyJcnPtpXht_bwbYWCuwKtq8fBG6IhhF20D6RuYl0OHs",
       "category": "연예",
       "news": [
         {
-          "title": "명화와 명곡을 한 무대서…송파구, 수험생·학부모 힐링콘서트",
-          "url": "https://www.yna.co.kr/view/AKR20261127017800004",
+          "title": "50세 전현무, 이래서 결혼 안하나 “자유가 없는 세계 아니냐”(‘전현무계획4’)",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/28/GVTGCYRXGYZDOM3EHA2TQZRSMM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "나윤권, 두 돌 아들 육아 얼마나 힘들길래…“테이보다 간절하게 먹어”",
+          "url": "https://sports.donga.com/ent/article/all/20261128/135106768/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "나윤권, 결혼 비하인드 공개 “아내가 좋아서 적극 대시했다” (전현무계획4)",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526286",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "부천 대 김천상무",
+      "traffic": "2000+",
+      "trafficValue": 2000,
+      "startedAt": "2026-11-28T06:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi3vVA4aACBV6a7IussauXqWqi3JIrYrJCE3gVsDCzJqPSHgUy_OpPhgjRqlA",
+      "category": "스포츠",
+      "news": [
+        {
+          "title": "'카즈 퇴장·바사니 부상' 부천, 한지호 은퇴 경기 아쉬운 패배...홈 최종전서 '강주혁 1골 1도움' 김천에 1-2 덜미[오!쎈 부천] - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/28/202611281627779969O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "\"올해까지만 내 역할\" 작별 앞둔 주승진 김천 감독...\"K리그에서 더 많은 경험 쌓고, 연속성 가져가고 싶다\"[현장 인터뷰]",
+          "url": "https://www.chosun.com/sports/football/2026/11/28/GE4DMMRQGZSTGMRWGM2TENLFMY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "'굿바이 캡틴' 한지호, 커리어 마지막 홈경기 나선다...부천FC1995, 김천전 선발 명단 공개[오!쎈 부천]",
+          "url": "https://www.koreadaily.com/article/20261127222201904",
+          "source": "미주중앙일보"
+        }
+      ]
+    },
+    {
+      "keyword": "최형우",
+      "traffic": "500+",
+      "trafficValue": 500,
+      "startedAt": "2026-11-28T06:40:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOryZdrktu499uBJYgIu3g1CrbU9dKZAag_ok4pC8KFzRXzPMMN4DNm8r7lfE",
+      "category": "기타",
+      "news": [
+        {
+          "title": "\"인천 간 적 없고요\" \"기억 안 납니다\"…'FA 최대어' 구자욱의 철벽 인터뷰",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866557",
+          "source": "SBS 뉴스"
+        },
+        {
+          "title": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은? - 머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/28/202611272348779689O",
+          "source": "머니투데이"
+        },
+        {
+          "title": "삼성 잔류도, 수도권 이적도 아닐 수 있다… 구자욱의 ML 도전 \"12월초 뭔가 결정되지 않을까요\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/27/GA4DCMRZMFSGINDEMY2DQYRYG4/",
+          "source": "조선일보"
+        }
+      ]
+    },
+    {
+      "keyword": "開票",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-28T08:30:00.000Z",
+      "picture": "",
+      "category": "기타",
+      "news": []
+    },
+    {
+      "keyword": "북항친수공원",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-28T08:30:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzK22RHHoPGcgogZHg8gdl8F3L3tAA2R_c_LcWNFN4j-90Ds1GQYRCoiWAjRk",
+      "category": "기타",
+      "news": [
+        {
+          "title": "‘부캉이’ 재진입 차단시설 12월1일 철거…“따뜻한 남쪽 바다서 잘 지내니”",
+          "url": "https://www.khan.co.kr/article/202611281006001",
+          "source": "경향신문"
+        },
+        {
+          "title": "부산 북항 친수공원 상어 '부캉이' 차단막 내달 1일 철거",
+          "url": "https://www.yna.co.kr/view/AKR20261127075100051",
           "source": "연합뉴스"
         },
         {
-          "title": "송파구, 수능 마친 수험생·학부모에 무료 공연…명화·클래식 결합",
-          "url": "https://www.news1.kr/local/moi/6368513",
-          "source": "뉴스1"
+          "title": "’부캉이’ 떠나자 부산 북항 방문객 예전 수준으로 ’뚝’",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127052832PdA",
+          "source": "연합뉴스TV"
+        }
+      ]
+    },
+    {
+      "keyword": "박정우",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-28T08:20:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCq4up8ZUBQ7pU-aVWBj0UwYEQCfT1PLYSZdTCHH5r1j4NSekCLGHOzmW2poc",
+      "category": "연예",
+      "news": [
+        {
+          "title": "KIA 내부 FA 초대형 변수 등장! 'MVP' 韓슈퍼스타 간절히 외쳤다 \"김태군-김호령 꼭 필요한 선배들, 계약해주세요\"",
+          "url": "https://www.chosun.com/sports/baseball/2026/11/27/GQYDOMZTMQ4WEMRVHA4GCYLDMI/",
+          "source": "조선일보"
         },
         {
-          "title": "“수능 끝, 명화와 음악으로 힐링”… 송파구, 수험생·학부모 무료 콘서트",
-          "url": "https://biz.heraldcorp.com/article/10951090",
-          "source": "헤럴드경제"
+          "title": "이범호 계약 기간 마지막 해, FA 선물은 있을까… 이범호가 아닌 KIA를 위해 필요하다",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022306",
+          "source": "SPOTV NEWS"
+        },
+        {
+          "title": "외야 FA 풍년에도 구자욱에만 쏠린 시선…더 아쉬운 김호령의 '가을 침묵'",
+          "url": "https://www.newsis.com/view/NISX20261126_0003884011",
+          "source": "뉴시스"
+        }
+      ]
+    },
+    {
+      "keyword": "남승민",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-28T06:40:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS45SfGgPul-G12nw9Ftv36T5EmJkHQsT_viOi1XuoUsQHMa9zI92HbDtuv6kQ",
+      "category": "기타",
+      "news": [
+        {
+          "title": "남승민, 암투병 母와 함께한 무대…결국 오열 (금타는 금요일)",
+          "url": "https://sports.donga.com/ent/article/all/20261128/135106792/1",
+          "source": "스포츠동아"
+        },
+        {
+          "title": "'금타는 금요일' 손빈아, 주병선 '칠갑산' 열창 후 \"토할 것 같았다\"",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765521",
+          "source": "국제뉴스"
+        },
+        {
+          "title": "‘금타는 금요일’ 양지은, 훌쩍 큰 유지우 무대에 눈물 펑펑 “아들과 동갑”",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526291",
+          "source": "iMBC 연예"
+        }
+      ]
+    },
+    {
+      "keyword": "국가유공자",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-28T08:50:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSP22c46xftUewVswjtkAg2Z4HzyqmydXwKbAAj2yA5FYoS52FWYrf2J-mPc0",
+      "category": "연예",
+      "news": [
+        {
+          "title": "[경북소식]나라사랑 한마음대회, 유공자·가족 위로·감사 등",
+          "url": "https://www.newsis.com/view/NISX20261127_0003886513",
+          "source": "뉴시스"
+        },
+        {
+          "title": "윤종구 울진광복회장 표창패 받아",
+          "url": "http://www.uljinnews.co.kr/news/articleView.html?idxno=76934",
+          "source": "울진신문"
+        },
+        {
+          "title": "보훈가족과 함께한 추모의 시간…대전서 희망콘서트 열려",
+          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=922975",
+          "source": "충남일보"
         }
       ]
     }
