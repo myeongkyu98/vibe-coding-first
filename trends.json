@@ -1,275 +1,279 @@
 {
-  "updatedAt": "2026-11-27T17:56:17.713Z",
+  "updatedAt": "2026-11-28T01:15:00.487Z",
   "summary": [
     {
       "category": "기타",
       "count": 3
     },
     {
-      "category": "정치·사회",
-      "count": 2
-    },
-    {
-      "category": "연예",
-      "count": 2
-    },
-    {
       "category": "스포츠",
       "count": 2
     },
     {
       "category": "IT·과학",
+      "count": 2
+    },
+    {
+      "category": "경제",
+      "count": 1
+    },
+    {
+      "category": "정치·사회",
+      "count": 1
+    },
+    {
+      "category": "연예",
       "count": 1
     }
   ],
   "items": [
     {
-      "keyword": "파기환송",
+      "keyword": "르윈 디아즈",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-27T15:20:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUHwdSGQcg4OHDU86ON1P043fK3teNOliL8NHq0Du1z8qNTsGpruyUqAUQGsk",
-      "category": "정치·사회",
+      "startedAt": "2026-11-27T23:50:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfeqEJxHlBF9d0RIG4oCcRa6m7zdasuBnTjknfZHbJG_sGKtzJLeYo6_3BWw",
+      "category": "스포츠",
       "news": [
         {
-          "title": "“12·3 계엄은 내란 아니다” 31%, 2년 새 내란인식 14%P 줄어···조희대 탄핵 찬성 35%·반대 42%[한국갤럽]",
-          "url": "https://www.khan.co.kr/article/202611271047001",
-          "source": "경향신문"
+          "title": "\"오퍼하는 중\" 삼성 머리 아프다, 돈은 정해져 있는데…61억으로 '페덱·후라도·디아즈' 다 잡을까",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022304",
+          "source": "SPOTV NEWS"
         },
         {
-          "title": "‘한덕수 파기환송’에 \"잘못됐다\" 46%, \"잘한 판결\" 31%",
-          "url": "https://news.jtbc.co.kr/article/NB12330163",
-          "source": "JTBC"
+          "title": "`동행하기 힘드네` 우승 전력 보존 나선 삼성 라이온즈, 누굴 잡고 누굴 놔줘야 좋을까",
+          "url": "https://www.imaeil.com/page/view/2026112611572028558",
+          "source": "매일신문"
         },
         {
-          "title": "윤석열 '한덕수 재판서 위증' 혐의 무죄 확정",
-          "url": "https://www.yna.co.kr/view/MYH20261126009000038",
-          "source": "연합뉴스"
+          "title": "구자욱 원태인 대구 퍼레이드 불참은 당연...도장 찍을 때까지 침묵 모드 유지해야",
+          "url": "https://www.maniareport.com/view.php?ud=20261127052023582991b55a0d56_19",
+          "source": "마니아타임즈"
         }
       ]
     },
     {
-      "keyword": "박서진",
+      "keyword": "띠별 운세",
       "traffic": "2000+",
       "trafficValue": 2000,
-      "startedAt": "2026-11-27T14:00:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUX-f_27DZru1b76hgnwjzp5vqhzXtVoO18t1XtYLnaXKLRHOhJTzpTkU72iA",
-      "category": "연예",
+      "startedAt": "2026-11-27T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyUru7S4grfxhfvYCTPblZfRzDhPYRJ9vo5SR7IbqVCZ_Rah5gGs0aUV1_t5o",
+      "category": "기타",
       "news": [
         {
-          "title": "'장구의 신' 박서진, 하다하다 5억짜리 장구까지 연주 '초긴장'(살림남)",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/MM3TONLEMMYWMNLDGM3GMYZYHA/",
-          "source": "조선일보"
+          "title": "[오늘의 운세] 2026년 11월 28일 띠별 운세",
+          "url": "https://www.ytn.co.kr/_ln/0121_202611280000000001",
+          "source": "YTN"
         },
         {
-          "title": "박서진, 트로트가수 최초 국제 페스티벌…동방신기 섰던 자리",
-          "url": "https://www.newsis.com/view/NISX20261127_0003885977",
-          "source": "뉴시스"
-        },
-        {
-          "title": "박서진, 국가대표 됐다더니…5억 원대 장구 연주 (살림남)",
-          "url": "https://sports.donga.com/ent/article/all/20261127/135101628/1",
-          "source": "스포츠동아"
-        }
-      ]
-    },
-    {
-      "keyword": "교사",
-      "traffic": "1000+",
-      "trafficValue": 1000,
-      "startedAt": "2026-11-27T15:40:00.000Z",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ1Syz9vtMn-lt2k2Qr55Sc4kJGA2JIaRKayE775yEVcZcOs6H7sGoodqz0V4",
-      "category": "정치·사회",
-      "news": [
-        {
-          "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
-          "source": "SBS 뉴스"
-        },
-        {
-          "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
-          "url": "https://www.kyeonggi.com/article/20261127580141",
+          "title": "[오늘의 운세] 11월 28일 토요일 (음력 10월 20일) 띠별 운세",
+          "url": "https://www.kyeonggi.com/article/20261116580440",
           "source": "경기일보"
         },
         {
-          "title": "경찰 “교사폭행 초등생 영상 유포, 공익적 제보로 봐야” 내사 종결",
-          "url": "https://www.donga.com/news/Society/article/all/20261127/135104682/1",
+          "title": "[오늘의 운세/11월 28일]",
+          "url": "https://www.donga.com/news/Culture/article/all/20261127/135105396/2",
           "source": "동아일보"
         }
       ]
     },
     {
-      "keyword": "온두라스 u-17 대 일본 u-17",
+      "keyword": "국민연금공단",
       "traffic": "1000+",
       "trafficValue": 1000,
-      "startedAt": "2026-11-27T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLqRCiUcDImmRCqfAw6F0Symb65jkTl5901csiKdiSeQ6ZarD_FDM4enxnA8E",
-      "category": "스포츠",
+      "startedAt": "2026-11-27T23:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGHJpg5Uj1Y7je8iHQxLz7NYmGbieTKqShgWdluuHvURpLMQubnL5px50SVfg",
+      "category": "경제",
       "news": [
         {
-          "title": "FIFA U-17 World Cup - Japan beat Honduras to advance",
-          "url": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/japan-beat-honduras-to-advance",
-          "source": "The AFC"
+          "title": "국민연금 적립금 202조 하늘로...\"주식시장 활성화시키려 만든 게 아냐\" [자막뉴스]",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611280905291051",
+          "source": "YTN"
         },
         {
-          "title": "U-17 World Cup: Japan and China both face elimination crisis = Chinese netizens: 'China is probably okay, but Japan...'",
-          "url": "https://www.recordchina.co.jp/en/b999179-s25-c50-d0192.html",
-          "source": "Record China"
+          "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
+          "url": "https://www.yna.co.kr/view/AKR20261127153400530",
+          "source": "연합뉴스"
         },
         {
-          "title": "Japan U17 vs Serbia U17: FIFA U17 World Cup stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cr2klg1vg594t",
-          "source": "BBC"
+          "title": "[단독] 국민연금 손실, '182조→240조' 확대 ... 노후자금 한달새 '60조' 추가 증발",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/26/2026112650092.html",
+          "source": "뉴데일리 경제"
         }
       ]
     },
     {
-      "keyword": "도산소옥",
+      "keyword": "이해욱",
       "traffic": "500+",
       "trafficValue": 500,
-      "startedAt": "2026-11-27T16:20:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUFiNMc2Yyn7_Dej4U9_uvHGZ4LKKzpDLYtlneUMKDAzt_OdymwK0ckzSTpR4",
+      "startedAt": "2026-11-28T00:00:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRc7RcKBkN5DBtxzStRbe4EZGIBFgUpqJStNtZY7W6mWf9izN2VlVhg2rEI6aw",
+      "category": "기타",
+      "news": [
+        {
+          "title": "단독 한밤중 직원들 집합시킨 DL그룹 회장...성과 부진 탓하며 '보직 해임'",
+          "url": "https://www.ytn.co.kr/_ln/0103_202611280721404224",
+          "source": "YTN"
+        },
+        {
+          "title": "유명 대기업 회장, 한밤중 직원 수백명 집합시키더니... 어젯밤 벌어진 황당한 일",
+          "url": "https://www.wikitree.co.kr/articles/1178542",
+          "source": "위키트리"
+        },
+        {
+          "title": "[DL그룹 인사추적]① 이해욱, 김길수 화학 복귀·정삼두 대표 발탁… 박상신 체제 유지",
+          "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084520",
+          "source": "뉴스클레임"
+        }
+      ]
+    },
+    {
+      "keyword": "신상출시 편스토랑",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-28T00:00:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW6PjLTU_2oZAEDYy0fC4gafb99KOwBapURWv6oeUoQrkxhfKTRWVEzv8DA4M",
       "category": "IT·과학",
       "news": [
         {
-          "title": "아이템매니아, '템빨: 오버기어드' 출시 기념 릴레이 혜택 이벤트 실시",
-          "url": "https://zdnet.co.kr/view/?no=20261127092612",
-          "source": "지디넷코리아"
-        },
-        {
-          "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가",
-          "url": "https://www.yna.co.kr/view/AKR20261126085400017",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출시… 연말 신작 승부수",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001896",
-          "source": "IT조선"
-        }
-      ]
-    },
-    {
-      "keyword": "굿파트너2",
-      "traffic": "500+",
-      "trafficValue": 500,
-      "startedAt": "2026-11-27T12:40:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTsWnrYeRgrHoahArUsDqBXi6EyrBXjgAwbmId8VlgCezNp1p7pyCLQGlDkz8",
-      "category": "기타",
-      "news": [
-        {
-          "title": "“또 따라 하기는” 장나라, 괜히 시비 거는 박해진에게 날린 뼈 때리는 팩폭 한 방♨",
-          "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC484449324?div=live_end",
-          "source": "programs.sbs.co.kr"
-        },
-        {
-          "title": "‘굿파트너2’ 김혜윤, 시행착오 딛고 첫 사건 완벽 승소… ‘이혼 전문 변호사’ 첫걸음",
-          "url": "https://sports.khan.co.kr/article/202611280035003",
-          "source": "스포츠경향"
-        },
-        {
-          "title": "‘굿파트너2’ ‘라이어’, 금토극 경쟁 2라운드",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010736",
-          "source": "아시아투데이"
-        }
-      ]
-    },
-    {
-      "keyword": "강지영",
-      "traffic": "200+",
-      "trafficValue": 200,
-      "startedAt": "2026-11-27T12:40:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDs2t8QpENGw2ZLiHLycrl_6KGmDL09rwBB8WznuwHT5M3RTC3dMCzJZeHysI",
-      "category": "연예",
-      "news": [
-        {
-          "title": "[방송소식] MBC라디오, 다음 달 1일 'FM4U 패밀리데이'",
-          "url": "https://www.yna.co.kr/view/AKR20261127082100005",
-          "source": "연합뉴스"
-        },
-        {
-          "title": "이문세·배철수·안영미, 하루 동안 자리 교체…'MBC FM4U 패밀리데이'",
-          "url": "https://www.newsis.com/view/NISX20261127_0003886153",
+          "title": "야노시호, 50억 도쿄 자택 공개 \"남편 추성훈과 각방살이\"",
+          "url": "https://www.newsis.com/view/NISX20261126_0003885358",
           "source": "뉴시스"
         },
         {
-          "title": "배철수 '별밤'→이상순 '안녕하세요' 듣는다…MBC FM4U '패밀리데이' 진행",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526241",
-          "source": "iMBC 연예"
+          "title": "야노 시호, 침대 옆엔 850만 원 수소 호흡기…베개 밑엔 17만 원짜리 운석 가루 ('편스토랑')",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RGIYRXMU3TEMLCGRRWMMZSGY/",
+          "source": "조선일보"
+        },
+        {
+          "title": "야노시호, 도쿄 50억 자택 공개…운석 가루에 수소 호흡기까지",
+          "url": "https://biz.heraldcorp.com/article/10951681",
+          "source": "헤럴드경제"
         }
       ]
     },
     {
-      "keyword": "연애남매2",
-      "traffic": "100+",
-      "trafficValue": 100,
-      "startedAt": "2026-11-27T14:50:00.000Z",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOdKwqYmFkKtC10kFpXjQk_SJR6THpGvQoyIHCGETW_7AvC_ib6FNxhgo7f_8",
+      "keyword": "소방관",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-27T23:40:00.000Z",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTgzjkTrZi9SPHS_XlUOklyQx0fSsfpGYCsBPeb3DTqISMVi3HaOq0-KYy80",
       "category": "기타",
       "news": [
         {
-          "title": "만난 지 24시간도 안 됐는데 스킨십…‘연애남매2’ 오늘 첫 공개",
-          "url": "https://sports.donga.com/ent/article/all/20261127/135102776/1",
-          "source": "스포츠동아"
+          "title": "\"소방 공무원 하다 다시 도전\"…원주 새내기 공무원이 전한 합격 공부법",
+          "url": "https://www.newsis.com/view/NISX20261128_0003886987",
+          "source": "뉴시스"
         },
         {
-          "title": "'연애남매2' CP \"한혜진, 연애에 좋은 인사이트 줘…제작진도 돌아보게 해\"",
-          "url": "https://www.fnnews.com/news/202611201432308496",
-          "source": "파이낸셜뉴스"
+          "title": "\"소방관 퇴사 후 두 번째 공무원\"…원주시 새내기, 수험생활 '꿀팁' 폭발",
+          "url": "https://www.news1.kr/society/general-society/6368050",
+          "source": "뉴스1"
         },
         {
-          "title": "마라 맛으로 돌아온 '연애남매2', 감정 폭풍 예고 \"초반부터 휘몰아쳐\"",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/526019",
-          "source": "iMBC 연예"
+          "title": "원주시, 유행 '밈' 활용한 영상으로 공직기강 확립 나서",
+          "url": "https://www.yna.co.kr/view/AKR20261125119600062",
+          "source": "연합뉴스"
         }
       ]
     },
     {
-      "keyword": "신지아",
+      "keyword": "공무원 노동조합",
+      "traffic": "200+",
+      "trafficValue": 200,
+      "startedAt": "2026-11-27T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgLUtaiMovt0pJb4qrT5UcDLeIN8s2SqGUKAL__sDZpqBWARO0kFgedJWS6wI",
+      "category": "정치·사회",
+      "news": [
+        {
+          "title": "김천시공무원노동조합, 폭언·협박 사건 고발 엄정 수사 촉구",
+          "url": "http://www.gcnaeil.com/default/index_view_page.php?part_idx=266&idx=86505",
+          "source": "김천내일신문"
+        },
+        {
+          "title": "김천시, 악성 민원인 경찰 고발",
+          "url": "http://gcinews.com/front/news/view.do?articleId=ARTICLE_00065070&pageIndex=1",
+          "source": "김천인터넷뉴스"
+        },
+        {
+          "title": "퇴직공무원노조 공식 출범… \"정년퇴직 후 소득공백, 국가가 책임져야\"",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288790",
+          "source": "OhmyNews"
+        }
+      ]
+    },
+    {
+      "keyword": "화웨이",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-27T14:10:00.000Z",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzTn3hooREZ-K29hCurgAaIOhCDba76nUQsfkvMq8QvpO4j3Riw0M5lx9oSUQ",
+      "startedAt": "2026-11-27T23:50:00.000Z",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdoPZOAz_miIRZnCGpfsfqPLlFBK9-Jd3XApabf96iA_YKfFVB_Bp7IbOhkBU",
+      "category": "IT·과학",
+      "news": [
+        {
+          "title": "화웨이 “美제재 덕에 기술 자립”… 中 ‘AI 반도체 3종 세트’ 가속도",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/28/B3S6DMM3ABEOZJJKVPHZQBWQJM/",
+          "source": "조선일보"
+        },
+        {
+          "title": "화웨이 창업자 \"땡큐 트럼프...덕분에 기술 자립\"",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611271426006354",
+          "source": "YTN"
+        },
+        {
+          "title": "런정페이 화웨이 창업자 \"미국 제재 덕에 자립\"",
+          "url": "https://www.yna.co.kr/view/AKR20261127077100009",
+          "source": "연합뉴스"
+        }
+      ]
+    },
+    {
+      "keyword": "허웅",
+      "traffic": "100+",
+      "trafficValue": 100,
+      "startedAt": "2026-11-27T23:10:00.000Z",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA26OVPiwabu_TA9ivomFTqvJbGOs3VTNk7Unli29fBUgV9UYFx7bmuSOK_IY",
       "category": "스포츠",
       "news": [
         {
-          "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 GP 6차 쇼트 2위",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8724677",
-          "source": "KBS 뉴스"
+          "title": "허웅의 마음과 기부, ‘노후된 한 재활원’으로 향하다",
+          "url": "https://basketkorea.com/news/newsview.php?ncode=1065594607695644",
+          "source": "바스켓코리아"
         },
         {
-          "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
-          "source": "MBC 뉴스"
+          "title": "\"저도 같이 참여하고 싶었어요\" 3년 동안 연고지에만 37번 후원... 팬들 따뜻한 마음에 KCC 허웅도 감동했다",
+          "url": "http://www.rookie.co.kr/news/articleView.html?idxno=131210",
+          "source": "루키"
         },
         {
-          "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
-          "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
-          "source": "Olympic Channel"
+          "title": "허웅을 향한 응원이 아이들의 따뜻한 보금자리로…‘웅프렌드’의 특별했던 37번째 선행, 선수도 함께했다",
+          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065592442313032",
+          "source": "점프볼"
         }
       ]
     },
     {
-      "keyword": "금새록",
+      "keyword": "송파구",
       "traffic": "100+",
       "trafficValue": 100,
-      "startedAt": "2026-11-27T14:10:00.000Z",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeQBc-ty4TlDIRIjtjWKAlVp-qlo0blqzdaC-luaF_VLpoOo9e7SUeOrkGhLM",
-      "category": "기타",
+      "startedAt": "2026-11-27T23:10:00.000Z",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKYfYpS8Ixf2vYJ407NCw_e61_zG4E5X8l1t1QW7NI57qTe8kDRzwjSF-FUTw",
+      "category": "연예",
       "news": [
         {
-          "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112706101172811",
-          "source": "머니투데이"
+          "title": "명화와 명곡을 한 무대서…송파구, 수험생·학부모 힐링콘서트",
+          "url": "https://www.yna.co.kr/view/AKR20261127017800004",
+          "source": "연합뉴스"
         },
         {
-          "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
-          "url": "https://www.viva100.com/article/20261127500209",
-          "source": "브릿지경제"
+          "title": "송파구, 수능 마친 수험생·학부모에 무료 공연…명화·클래식 결합",
+          "url": "https://www.news1.kr/local/moi/6368513",
+          "source": "뉴스1"
         },
         {
-          "title": "연우 \"급격한 다이어트 면역력 떨어져…많이 울었다\"",
-          "url": "https://www.newsis.com/view/NISX20261127_0003885403",
-          "source": "뉴시스"
+          "title": "“수능 끝, 명화와 음악으로 힐링”… 송파구, 수험생·학부모 무료 콘서트",
+          "url": "https://biz.heraldcorp.com/article/10951090",
+          "source": "헤럴드경제"
         }
       ]
     }
